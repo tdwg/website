@@ -19,3 +19,7 @@ This repository contains the content and settings for the new TDWG website. It i
 ## Contributors
 
 [List of contributors](https://github.com/tdwg/website/contributors)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
