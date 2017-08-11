@@ -2,11 +2,17 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# Use this file to generate the site in the *production* environment.
-# It will use (and overwrite some) settings from settings.py
+# This file contains production environment settings.
+# It will use (and overwrite) settings from settings.py.
 
 import os
 import sys
 sys.path.append(os.curdir)
 from settings import *
 
+# Feeds
+FEED_ALL_RSS = "feeds/rss.xml"
+
+# External services
+# DISQUS_SITENAME = ""
+# GOOGLE_ANALYTICS = ""
