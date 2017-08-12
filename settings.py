@@ -21,6 +21,7 @@ SITEURL = ""
 SLUGIFY_SOURCE = "basename" # Use filename by default
 ARTICLE_SAVE_AS = "news/{slug}.html"
 ARTICLE_URL = "news/{slug}.html"
+INDEX_SAVE_AS = "news/index.html" # home.md serves as root index.html
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
 CATEGORY_SAVE_AS = ""
