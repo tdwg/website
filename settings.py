@@ -10,10 +10,7 @@ from __future__ import unicode_literals
 PATH = "content"
 ARTICLE_PATHS = ["news"]
 PAGE_PATHS = ["pages"]
-STATIC_PATHS = [
-	"images",
-	"files"
-]
+STATIC_PATHS = ["static"]
 OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ()
