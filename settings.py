@@ -24,6 +24,13 @@ SITEURL = ""
 SLUGIFY_SOURCE = "basename" # Use filename by default
 ARTICLE_SAVE_AS = "news/{slug}.html"
 ARTICLE_URL = "news/{slug}.html"
+AUTHOR_SAVE_AS = ""
+AUTHORS_SAVE_AS = ""
+CATEGORY_SAVE_AS = ""
+CATEGORIES_SAVE_AS = ""
+TAG_SAVE_AS = ""
+TAGS_SAVE_AS = ""
+
 # Feeds
 FEED_DOMAIN = SITEURL
 FEED_ATOM = None
