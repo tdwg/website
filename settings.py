@@ -16,6 +16,10 @@ DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ()
 CACHE_CONTENT = False
 
+# Plugins
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["pelican-page-hierarchy"]
+
 # URLs
 SITEURL = ""
 SLUGIFY_SOURCE = "basename" # Use filename by default
@@ -28,6 +32,9 @@ CATEGORY_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
 TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
+PAGE_URL = "{slug}/"
+PAGE_SAVE_AS = "{slug}/index.html"
+
 
 # Feeds
 FEED_DOMAIN = SITEURL
