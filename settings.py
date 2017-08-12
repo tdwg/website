@@ -21,6 +21,7 @@ CACHE_CONTENT = False
 
 # URLs
 SITEURL = ""
+SLUGIFY_SOURCE = "basename" # Use filename by default
 ARTICLE_SAVE_AS = "news/{slug}.html"
 ARTICLE_URL = "news/{slug}.html"
 # Feeds
@@ -44,7 +45,10 @@ AUTHOR = "TDWG"
 DEFAULT_LANG = "en"
 TIMEZONE = "Europe/Copenhagen"
 DEFAULT_DATE = 'fs'
+DEFAULT_DATE_FORMAT = "%Y-%m-%d"
+WITH_FUTURE_DATES = False # Set future dates to draft
 DEFAULT_PAGINATION = False
+SUMMARY_MAX_LENGTH = 50
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
@@ -56,6 +60,6 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (
-	("Twitter", "https://twitter.com/tdwg"),
+    ("Twitter", "https://twitter.com/tdwg"),
     ("GitHub", "https://github.com/tdwg")
 )
