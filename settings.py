@@ -6,24 +6,7 @@ from __future__ import unicode_literals
 # You can safely use these to generate the website locally with: pelican -s settings.py
 # Some of these settings will be overwritten in the development or production environment.
 
-# Site
-SITENAME = "TDWG"
-SITEURL = ""
-AUTHOR = "TDWG"
-TIMEZONE = "Europe/Copenhagen"
-DEFAULT_LANG = "en"
-
-# Display
-# THEME = ""
-DISPLAY_PAGES_ON_MENU = True
-DEFAULT_PAGINATION = False
-DEFAULT_DATE = 'fs'
-
-# URLs
-ARTICLE_URL = "news/{slug}.html"
-ARTICLE_SAVE_AS = "news/{slug}.html"
-
-# Content
+# Content input/output
 PATH = "content"
 ARTICLE_PATHS = ["news"]
 PAGE_PATHS = ["pages"]
@@ -31,11 +14,15 @@ STATIC_PATHS = [
 	"images",
 	"files"
 ]
-OUTPUT_PATH = "output" # Default
+OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ()
 CACHE_CONTENT = False
 
+# URLs
+SITEURL = ""
+ARTICLE_SAVE_AS = "news/{slug}.html"
+ARTICLE_URL = "news/{slug}.html"
 # Feeds
 FEED_DOMAIN = SITEURL
 FEED_ATOM = None
@@ -50,6 +37,19 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
+
+# Display
+SITENAME = "TDWG"
+AUTHOR = "TDWG"
+DEFAULT_LANG = "en"
+TIMEZONE = "Europe/Copenhagen"
+DEFAULT_DATE = 'fs'
+DEFAULT_PAGINATION = False
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
+
+# Theme
+# THEME = ""
 
 # Blogroll
 LINKS = ()
