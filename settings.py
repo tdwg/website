@@ -24,9 +24,11 @@ PLUGINS = ["pelican-page-hierarchy"]# Keeps directory structure in page URLs, e.
 # URLs
 SITEURL = ""
 SLUGIFY_SOURCE = "basename"         # Use filename of Markdown files as {slug}
-ARTICLE_URL = "news/{slug}"         # Move articles/posts to news/
+ARTICLE_URL = "news/{date:%Y}/{slug}" # Move articles/posts to news/ e.g. news/2016/conference-announced/
 ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"    
 INDEX_SAVE_AS = "news/index.html"   # Move list of articles to news/ Root index.html = home.md
+ARCHIVES_SAVE_AS = "news/archives.html"
+YEAR_ARCHIVE_SAVE_AS = "news/{date:%Y}/index.html"
 AUTHOR_SAVE_AS = ""                 # Disable author pages
 AUTHORS_SAVE_AS = ""
 CATEGORY_SAVE_AS = ""               # Disable category pages
