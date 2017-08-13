@@ -10,9 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from settings import *
 
-# Feeds
-FEED_ALL_RSS = "feeds/rss.xml"
 
-# External services
+# EXTERNAL SERVICES
 # DISQUS_SITENAME = ""
 # GOOGLE_ANALYTICS = ""

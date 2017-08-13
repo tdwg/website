@@ -7,7 +7,9 @@ from __future__ import unicode_literals
 # Some of these settings will be overwritten in the development (settings-dev.py) 
 # or production environment (settings-prod.py).
 
-# Content
+
+# CONTENT
+
 PATH = "content"
 ARTICLE_PATHS = ["news"]
 PAGE_PATHS = ["pages"]
@@ -17,31 +19,46 @@ DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ()
 CACHE_CONTENT = False
 
-# Plugins
-PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["pelican-page-hierarchy"]# Keeps directory structure in page URLs, e.g. /standards/dwc/
 
-# URLs
+# PLUGINS
+
+PLUGIN_PATHS = ["plugins"]
+# Keep directory structure in page URLs (e.g. /standards/dwc/):
+PLUGINS = ["pelican-page-hierarchy"]
+
+
+# URLS
+
 SITEURL = ""
-SLUGIFY_SOURCE = "basename"         # Use filename of Markdown files as {slug}
-ARTICLE_URL = "news/{date:%Y}/{slug}" # Move articles/posts to news/ e.g. news/2016/conference-announced/
-ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"    
-INDEX_SAVE_AS = "news/index.html"   # Move list of articles to news/ Root index.html = home.md
+# Use filename of Markdown files as {slug}:
+SLUGIFY_SOURCE = "basename"
+# Move articles/posts to news/ (e.g. news/2016/conference-announced/):
+ARTICLE_URL = "news/{date:%Y}/{slug}"
+ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
+# Move list of articles to news/ (root index.html is home.md):
+INDEX_SAVE_AS = "news/index.html"
 ARCHIVES_SAVE_AS = "news/archives.html"
 YEAR_ARCHIVE_SAVE_AS = "news/{date:%Y}/index.html"
-AUTHOR_SAVE_AS = ""                 # Disable author pages
+# Disable author pages:
+AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
-CATEGORY_SAVE_AS = ""               # Disable category pages
+# Disable category pages:
+CATEGORY_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
-TAG_SAVE_AS = ""                    # Disable tag pages
+# Disable tag pages:
+TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
-PAGE_URL = "{slug}/"                # Best setting for pelican-page-hierarchy
+# These page settings make most sense for pelican-page-hierarchy:
+PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 
-# Feeds
+
+# FEEDS
+
 FEED_DOMAIN = SITEURL
 FEED_ATOM = None
-FEED_RSS = "feeds/rss.xml"          # Enable RSS feed only
+# Enable RSS feed only:
+FEED_RSS = "feeds/rss.xml"
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
 CATEGORY_FEED_ATOM = None
@@ -53,26 +70,37 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Display
+
+# DISPLAY
+
 SITENAME = "TDWG"
 AUTHOR = "TDWG"
 DEFAULT_LANG = "en"
 TIMEZONE = "Europe/Copenhagen"
-DEFAULT_DATE = 'fs'                 # File date
+# Use file date as default article date:
+DEFAULT_DATE = "fs"
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
-WITH_FUTURE_DATES = False           # Articles with future dates are considered drafts
-DEFAULT_PAGINATION = False          # No pagination
+# Articles with future dates are considered drafts:
+WITH_FUTURE_DATES = False
+# No pagination:
+DEFAULT_PAGINATION = False
 SUMMARY_MAX_LENGTH = 50
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
-# Theme
+
+# THEME
+
 # THEME = ""
 
-# Blogroll
+
+# BLOGROLL
+
 LINKS = ()
 
-# Social widget
+
+# SOCIAL WIDGET
+
 SOCIAL = (
     ("Twitter", "https://twitter.com/tdwg"),
     ("GitHub", "https://github.com/tdwg")
