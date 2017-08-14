@@ -9,6 +9,9 @@ from __future__ import unicode_literals
 
 # CONTENT
 
+# Source content (Markdown files, images) are kept in "content".
+# The site is generated in "output", which is ignored by git to avoid cluttering the repo.
+
 PATH = "content"
 ARTICLE_PATHS = ["news"]
 PAGE_PATHS = ["pages"]
@@ -80,6 +83,7 @@ TRANSLATION_FEED_RSS = None
 # DISPLAY
 
 SITENAME = "TDWG"
+SITESUBTITLE = "Biodiversity Information Standards"
 AUTHOR = "TDWG"
 DEFAULT_LANG = "en"
 TIMEZONE = "Europe/Copenhagen" # Use file date as default article date
@@ -90,18 +94,12 @@ DEFAULT_PAGINATION = False
 SUMMARY_MAX_LENGTH = 50
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
-
-# THEME
-
-# THEME = ""
-
-# BLOGROLL
-
-LINKS = ()
-
-# SOCIAL WIDGET
-
-SOCIAL = (
+MENUITEMS = [
+    ("News", "/news/index.html")
+]
+LINKS = []
+SOCIAL = [
     ("Twitter", "https://twitter.com/tdwg"),
     ("GitHub", "https://github.com/tdwg")
-)
+]
+GITHUB_URL = "https://github.com/tdwg/website"

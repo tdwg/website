@@ -12,5 +12,5 @@ from settings import *
 
 
 # EXTERNAL SERVICES
-# DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = ""
+GOOGLE_ANALYTICS = ""
