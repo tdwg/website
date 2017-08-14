@@ -24,7 +24,10 @@ CACHE_CONTENT = False
 # PLUGINS
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["pelican-page-hierarchy"]
+PLUGINS = [
+    "pelican-page-hierarchy",
+    "i18n_subsites" # Required for theme
+]
 
 # URLS
 
@@ -103,3 +106,8 @@ SOCIAL = [
     ("GitHub", "https://github.com/tdwg")
 ]
 GITHUB_URL = "https://github.com/tdwg/website"
+THEME = "../pelican-themes/pelican-bootstrap3" # Relative path to theme
+
+# pelican-bootstrap3 currently requires the i18n_subsites plugin, and the following JINJA_ENV:
+# (see https://github.com/getpelican/pelican-themes/issues/460#issuecomment-322174096)
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
