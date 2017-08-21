@@ -64,6 +64,7 @@ TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
+DIRECT_TEMPLATES = ["index", "archives"] # Which "index" type templates to enable
 
 # FEEDS
 
