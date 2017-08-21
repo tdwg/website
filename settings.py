@@ -50,7 +50,7 @@ PLUGINS = [
 # the page metadata.
 
 SITEURL = ""
-SLUGIFY_SOURCE = "basename" # Use filename of Markdown files as {slug}:
+SLUGIFY_SOURCE = "basename" # Use filename of Markdown files as {slug}
 ARTICLE_URL = "news/{date:%Y}/{slug}"
 ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
 INDEX_SAVE_AS = "news/index.html"
