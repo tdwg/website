@@ -26,6 +26,7 @@ CACHE_CONTENT = False
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
     "pelican-page-hierarchy",
+    "tipue_search"
 ]
 
 # URLS
@@ -113,6 +114,7 @@ GITHUB_URL = "https://github.com/tdwg/website"
 # Documentation: https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 
 THEME = "../pelican-themes/pelican-bootstrap3"
+DIRECT_TEMPLATES.append("search") # For tipue-search
 BOOTSTRAP_THEME = "flatly"
 GITHUB_USER = "tdwg"
 CC_LICENSE = "CC-BY"
