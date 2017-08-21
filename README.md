@@ -23,6 +23,15 @@ This repository contains the content and settings for the new TDWG website. It i
 5. Clone the theme repos: `git clone https://github.com/tdwg/tdwg-theme`
 6. Clone the website repo: `git clone https://github.com/tdwg/website`
 
+## Build site
+
+1. Navigate to the website directory: `cd website`
+2. Build the site:
+    * Locally: `pelican -s settings.py`
+    * On development server: `pelican -s dev-settings.py`
+    * On production server: `pelican -s dev-settings.py`
+3. The website is generated in `output/`.
+
 ## Contributors
 
 [List of contributors](https://github.com/tdwg/website/contributors)
