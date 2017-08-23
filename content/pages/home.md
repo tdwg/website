@@ -2,4 +2,4 @@ Title: Homepage
 url: index.html
 save_as: index.html
 
-Homepage.
+This is the homepage for the new TDWG website.
