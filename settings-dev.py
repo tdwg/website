@@ -9,3 +9,9 @@ import os
 import sys
 sys.path.append(os.curdir)
 from settings import *
+
+# TDWG servers are set to UTC
+TIMEZONE = "UTC"
+
+# Dependencies shouldn't be outside the Jenkins workspace
+THEME = "tdwg-theme"
