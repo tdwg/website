@@ -28,9 +28,9 @@ This repository contains the content and settings for the new TDWG website. It i
 1. Navigate to the website directory: `cd website`
 2. Build the site:
     * Locally: `pelican -s settings.py`
-    * On development server: `pelican -s dev-settings.py`
-    * On production server: `pelican -s dev-settings.py`
-3. The website is generated in `output/`.
+    * On development server: `pelican -s settings-dev.py`
+    * On production server: `pelican -s settings-prod.py`
+3. The website is generated in `output/`
 
 ## Contributors
 
