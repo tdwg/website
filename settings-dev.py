@@ -10,5 +10,5 @@ import sys
 sys.path.append(os.curdir)
 from settings import *
 
-SITEURL = "http://dev.tdwg.org"
+SITEURL = "https://dev.tdwg.org"
 THEME = "tdwg-theme" # Dependencies shouldn't be outside the Jenkins workspace
