@@ -1,4 +1,4 @@
-Title: Homepage
+title: Homepage
 url: index.html
 save_as: index.html
 

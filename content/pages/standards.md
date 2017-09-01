@@ -1,3 +1,3 @@
-Title: Standards
+title: Standards
 
 Standards page.
