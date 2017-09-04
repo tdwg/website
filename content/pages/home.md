@@ -1,4 +1,5 @@
-Title: Homepage
+title: Homepage
+status: hidden
 url: index.html
 save_as: index.html
 
