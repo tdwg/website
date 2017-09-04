@@ -26,7 +26,8 @@ CACHE_CONTENT = False
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
     "pelican-page-hierarchy",
-    "tipue_search"
+    "pelican-page-order",
+    "tipue_search",
 ]
 
 # URLS
@@ -110,6 +111,10 @@ GITHUB_URL = "https://github.com/tdwg/website"
 # Top level pages are always shown, 2nd level pages are collapsed, further levels are not displayed.
 # To hide pages from the navigation, add "status: hidden" in their metadata. Note that doing so 
 # for a parent page, will make all its children top level pages!
+
+# Pages are ordered by their filename. This can be overwritten by adding "page_order: integer" to 
+# their metadata. The plugin "pelican-page-order" allows to set this only where necessary (rather 
+# than on every page).
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
