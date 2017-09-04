@@ -38,11 +38,11 @@ PLUGINS = [
 # standards/dwc/ -> standards/dwc/index.html created from standards/dwc.md
 # 
 # Pelican will already redirect "path/to/page" (no slash) to "path/to/page/" (with slash).
-# The plugin pelican-page-hierarchy makes sure page paths in content are reflected in the output,
+# The plugin "pelican-page-hierarchy" makes sure page paths in content are reflected in the output,
 # rather than flattening the directory structure (default behaviour), which can cause name clashes.
-# It also adds "parents/children" attributes to pages, which allow to create collapsed navigation.
+# It also adds "parents/children" attributes to pages, which allows to create a collapsed navigation.
 #
-# Articles/posts are only used for the news/ section, so we move it there. The default index.html 
+# Articles/posts are only used for the news section, so we move it there. The default index.html 
 # (which lists all articles) is moved to news/ as well and we use home.md as the static homepage.
 # We add year/ to article URLs to group them somewhat. Author, category and tag pages are disabled.
 # 
@@ -95,17 +95,28 @@ DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 DEFAULT_PAGINATION = False
 SUMMARY_MAX_LENGTH = 50
-DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = False
-MENUITEMS = [
-    ("News", "/news/index.html")
-]
 LINKS = []
 SOCIAL = [
     ("Twitter", "https://twitter.com/tdwg"),
     ("GitHub", "https://github.com/tdwg")
 ]
 GITHUB_URL = "https://github.com/tdwg/website"
+
+# NAVIGATON
+
+# Pages are organized in a hierarchy, which is also reflected in their URL (see URL settings above).
+# 
+# The navbar of tdwg-theme will show DISPLAY_PAGES_ON_MENU on the left, MENUITEMS on the right.
+# Top level pages are always shown, 2nd level pages are collapsed, further levels are not displayed.
+# To hide pages from the navigation, add "status: hidden" in their metadata. Note that doing so 
+# for a parent page, will make all its children top level pages!
+
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+MENUITEMS = [
+    ("News", "/news/"),
+    ("Contact", "/about/contact/")
+]
 
 # THEME
 
