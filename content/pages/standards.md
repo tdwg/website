@@ -14,4 +14,3 @@ page_order: 1
 * Natural Collections Descriptions (NCD): A data standard for exchanging data describing natural history collections
 * ABCDDNA - DNA extension for Access to Biological Collection Data
 * Prior standards
-
