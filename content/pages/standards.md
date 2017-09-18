@@ -1,5 +1,5 @@
 title: Standards
-page_order: 2
+page_order: 1
 
 * TDWG Standards Documentation Standard
 * Vocabulary Maintenance Standard
