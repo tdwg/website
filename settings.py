@@ -112,10 +112,11 @@ GITHUB_URL = "https://github.com/tdwg/website"
 # To hide pages from the navigation, add "status: hidden" in their metadata. Note that doing so 
 # for a parent page, will make all its children top level pages!
 
-# Pages are ordered by their filename. This can be overwritten by adding "page_order: integer" to 
-# their metadata. The plugin "pelican-page-order" allows to set this only where necessary (rather 
-# than on every page).
+# Pages are ordered by their title. This can be overwritten by adding "page_order: integer" to their
+# metadata. The plugin "pelican-page-order" allows to set this only where necessary (rather than on 
+# every page).
 
+PAGE_ORDER_BY = "title"
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 MENUITEMS = [
