@@ -1,4 +1,4 @@
-title: Genomic biodiversity interest group
+title: Genomic biodiversity
 
 _Copied from <http://www.tdwg.org/activities/genomic-biodiversity/charter/>_
 

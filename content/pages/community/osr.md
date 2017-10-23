@@ -1,4 +1,4 @@
-title: Observations & specimens interest group
+title: Observations & specimens
 
 _Copied from <http://www.tdwg.org/activities/osr/>_
 

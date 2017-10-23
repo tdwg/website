@@ -1,4 +1,4 @@
-title: Biodiversity informatics curriculum interest group
+title: Biodiversity informatics curriculum
 
 _Copied from <http://www.tdwg.org/activities/bdi-curriculum-ig/charter/>_
 

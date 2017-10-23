@@ -1,4 +1,4 @@
-title: Biodiversity data quality interest group
+title: Biodiversity data quality
 
 _Copied from <http://www.tdwg.org/activities/biodiversity-data-quality/interest-group-charter/>_
 

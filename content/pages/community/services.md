@@ -1,4 +1,4 @@
-title: Biodiversity services and clients interest group
+title: Biodiversity services and clients
 
 _Copied from <http://www.tdwg.org/activities/biodiversity-services-clients/charter/>_
 

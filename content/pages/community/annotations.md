@@ -1,4 +1,4 @@
-title: Annotation interest group
+title: Annotation
 
 _Copied from <http://www.tdwg.org/activities/annotations-test/>_
 

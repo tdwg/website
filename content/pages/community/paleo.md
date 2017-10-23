@@ -1,4 +1,4 @@
-title: Paleobiology interest group
+title: Paleobiology
 
 _Copied from <https://github.com/tdwg/paleo/blob/master/charter.md>_
 
