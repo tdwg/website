@@ -1,11 +1,13 @@
 title: Biodiversity data quality
-subtitle: Finding the common ground to discuss/improve data quality
 cover_image: gene-pensiero-332842.jpg
 cover_image_by: Gene Pensiero
-page_order: 1
 cover_image_ref: https://unsplash.com/photos/PlkN_pN2ryc
+intro: The goal of this interest group is to discuss, determine, formalize and standardize concepts, problems, policies, metadata, methodologies and mechanisms related to biodiversity data quality, collaboratively and incrementally, and to promote associated best practices throughout the biodiversity informatics community.
+learn_more: https://github.com/tdwg/bdq
 
-_Copied from <http://www.tdwg.org/activities/biodiversity-data-quality/interest-group-charter/>_
+## Rationale
+
+Data quality is a major concern in biodiversity informatics. The distributed nature of data acquisition and digitization, the specific difficulties imposed by some of the data sub-domains, such as taxonomic data and geographic data, among other aspects, make it important to discuss data quality in biodiversity so that data made available in portals and other systems can be used for various purposes such as education, science, and decision making. Although several initiatives in the biodiversity informatics community have been striving to develop tools and best practices about data quality, we lack a common background and consensus related to concepts, metadata, policies, and methodologies that would increase the synergy in achieving solutions for improving the fitness-for-use of biodiversity data. In this interest group we want to develop this common background and help standardize the way to deal with data quality in the biodiversity informatics community, avoiding duplication of efforts and sharing knowledge and solutions.
 
 ## Conveners
 
@@ -51,10 +53,6 @@ Email: biodiv_2(at)achapman.org
 * Nicolas Noé - Belgian Biodiversity Platform
 * Rui Figueira - GBIF Portugal, Instituto de Investigação Científica Tropical
 * Vijay Barve - FRLHT, India
-
-## Summary
-
-The goal of this Interest Group is to discuss, determine, formalize and standardize concepts, problems, policies, metadata, methodologies and mechanisms related to Biodiversity Data Quality, collaboratively and incrementally, and to promote associated best practices throughout the Biodiversity Informatics community. Data quality is a major concern in Biodiversity Informatics. The distributed nature of data acquisition and digitization, the specific difficulties imposed by some of the data sub-domains, such as taxonomic data and geographic data, among other aspects, make it important to discuss data quality in biodiversity so that data made available in portals and other systems can be used for various purposes such as education, science, and decision making. Although several initiatives in the Biodiversity Informatics community have been striving to develop tools and best practices about Data Quality, we lack a common background and consensus related to concepts, metadata, policies, and methodologies that would increase the synergy in achieving solutions for improving the fitness-for-use of biodiversity data. In this Interest Group we want to develop this common background and help standardize the way to deal with Data Quality in the Biodiversity Informatics community, avoiding duplication of efforts and sharing knowledge and solutions.
 
 ## Becoming Involved
 
