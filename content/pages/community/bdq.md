@@ -1,9 +1,9 @@
 title: Biodiversity data quality
 subtitle: Finding the common ground to discuss/improve data quality
-cover_image: photo-1502035458144-454aa46b8ee0.jpeg
-cover_image_ref: https://unsplash.com/photos/PlkN_pN2ryc
+cover_image: gene-pensiero-332842.jpg
 cover_image_by: Gene Pensiero
 page_order: 1
+cover_image_ref: https://unsplash.com/photos/PlkN_pN2ryc
 
 _Copied from <http://www.tdwg.org/activities/biodiversity-data-quality/interest-group-charter/>_
 

@@ -1,4 +1,7 @@
 title: Biodiversity services and clients
+cover_image: thomas-kvistholt-191153.jpg
+cover_image_by: Thomas Kvistholt
+cover_image_ref: https://unsplash.com/photos/oZPwn40zCK4
 
 _Copied from <http://www.tdwg.org/activities/biodiversity-services-clients/charter/>_
 

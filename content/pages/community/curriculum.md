@@ -1,4 +1,7 @@
 title: Biodiversity informatics curriculum
+cover_image: helloquence-61189.jpg
+cover_image_by: Helloquence
+cover_image_ref: https://unsplash.com/photos/5fNmWej4tAA
 
 _Copied from <http://www.tdwg.org/activities/bdi-curriculum-ig/charter/>_
 
