@@ -28,6 +28,7 @@ PLUGINS = [
     "pelican-page-hierarchy",
     "pelican-page-order",
     "tipue_search",
+    "github_edit_url"
 ]
 
 # URLS
@@ -66,6 +67,7 @@ TAGS_SAVE_AS = ""
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 DIRECT_TEMPLATES = ["index", "archives"] # Which "index" type templates to enable
+GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For github_edit_url plugin
 
 # FEEDS
 
@@ -101,7 +103,6 @@ SOCIAL = [
     ("Twitter", "https://twitter.com/tdwg"),
     ("GitHub", "https://github.com/tdwg")
 ]
-GITHUB_URL = "https://github.com/tdwg/website"
 
 # NAVIGATON
 
