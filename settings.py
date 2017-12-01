@@ -121,8 +121,7 @@ PAGE_ORDER_BY = "title"
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 MENUITEMS = [
-    ("News", "/news/"),
-    ("Contact", "/about/contact/")
+    ("News", "/news/")
 ]
 
 # THEME
