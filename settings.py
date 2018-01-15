@@ -127,23 +127,8 @@ MENUITEMS = [
     ("News", "/news/")
 ]
 
-# THEME
+# THEME + THEME SPECIFIC SETTINGS
 
-# We'll create/use a theme based on Bootstrap 4. It is interesting however to compare with
-# pelican-bootstrap3, a theme with many options. Below are the settings to enable that theme.
-# Documentation: https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
-
-# THEME = "../pelican-themes/pelican-bootstrap3"
-# DIRECT_TEMPLATES.append("search") # For tipue-search
-# BOOTSTRAP_THEME = "flatly"
-# GITHUB_USER = "tdwg"
-# CC_LICENSE = "CC-BY"
-# pelican-bootstrap3 currently requires the i18n_subsites plugin, and the following JINJA_ENV:
-# (see https://github.com/getpelican/pelican-themes/issues/460#issuecomment-322174096)
-# JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-# PLUGINS.append("i18n_subsites")
-
-# TDWG theme settings:
 THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # For tipue-search
 SITEDESCRIPTION = ""
