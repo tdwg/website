@@ -101,11 +101,9 @@ DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 DEFAULT_PAGINATION = False
 SUMMARY_MAX_LENGTH = 50
-LINKS = []
-SOCIAL = [
-    ("Twitter", "https://twitter.com/tdwg"),
-    ("GitHub", "https://github.com/tdwg")
-]
+GITHUB_URL = "https://github.com/tdwg"
+TWITTER_USERNAME = "tdwg"
+GOOGLE_ANALYTICS = ""
 
 # NAVIGATON
 
