@@ -57,6 +57,8 @@ PLUGINS = [
 
 SITEURL = ""
 SLUGIFY_SOURCE = "basename" # Use filename of Markdown files as {slug}
+PAGE_URL = "{slug}/"
+PAGE_SAVE_AS = "{slug}/index.html"
 ARTICLE_URL = "news/{date:%Y}/{slug}"
 ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
 INDEX_SAVE_AS = "news/index.html"
@@ -68,10 +70,7 @@ CATEGORY_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
 TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
-PAGE_URL = "{slug}/"
-PAGE_SAVE_AS = "{slug}/index.html"
 DIRECT_TEMPLATES = ["index", "archives"] # Which "index" type templates to enable
-GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For github_edit_url plugin
 
 # FEEDS
 
@@ -82,10 +81,10 @@ FEED_ATOM = None
 FEED_RSS = "feeds/rss.xml"
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
-CATEGORY_FEED_ATOM = None
-CATEGORY_FEED_RSS = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
 TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
@@ -122,8 +121,8 @@ SOCIAL = [
 # every page).
 
 PAGE_ORDER_BY = "title"
-DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ("News", "/news/")
 ]
@@ -146,5 +145,6 @@ MENUITEMS = [
 
 # TDWG theme settings:
 THEME = "../tdwg-theme"
-SITEDESCRIPTION = ""
 DIRECT_TEMPLATES.append("search") # For tipue-search
+SITEDESCRIPTION = ""
+GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For github_edit_url plugin
