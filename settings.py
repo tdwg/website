@@ -73,6 +73,7 @@ CATEGORIES_SAVE_AS = ""
 TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
 DIRECT_TEMPLATES = ["index", "archives"] # Which "index" type templates to enable
+PAGINATED_DIRECT_TEMPLATES = ["index", "archives"]
 
 # FEEDS
 
@@ -101,7 +102,7 @@ DEFAULT_LANG = "en"
 TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 2
 SUMMARY_MAX_LENGTH = 50
 GITHUB_URL = "https://github.com/tdwg"
 TWITTER_USERNAME = "tdwg"
