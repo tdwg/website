@@ -2,10 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# This file contains the default and local settings (default name: pelicanconf.py)
-# You can use these to generate the website locally with: pelican -s settings.py
-# Some of these settings will be overwritten in the development (settings-dev.py) or production 
-# environment (settings-prod.py).
+# This file contains the Pelican settings for the TDWG website (typically called "pelicanconf.py").
+#
+# All setting identifiers are explained at http://docs.getpelican.com/en/stable/settings.html, 
+# except for some theme settings listed at the end of this file.
+#
+# To generate the site locally with these settings, use: "pelican -s settings.py". Some of these 
+# settings will be overwritten on the development server using "settings-dev.py" or production 
+# server using "settings-prod.py".
 
 # CONTENT
 
