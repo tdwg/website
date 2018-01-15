@@ -17,12 +17,12 @@ from __future__ import unicode_literals
 # The site is generated in "output", which is ignored by git to avoid cluttering the repo.
 
 PATH = "content"
-ARTICLE_PATHS = ["news"]
 PAGE_PATHS = ["pages"]
+ARTICLE_PATHS = ["news"]
 STATIC_PATHS = ["static"]
 OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = ()
+OUTPUT_RETENTION = []
 CACHE_CONTENT = False
 
 # PLUGINS
@@ -61,6 +61,8 @@ PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 ARTICLE_URL = "news/{date:%Y}/{slug}"
 ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
+DRAFT_URL = "drafts/{date:%Y}/{slug}"
+DRAFT_SAVE_AS = "drafts/{date:%Y}/{slug}/index.html"
 INDEX_SAVE_AS = "news/index.html"
 ARCHIVES_SAVE_AS = "news/archives.html"
 YEAR_ARCHIVE_SAVE_AS = "news/{date:%Y}/index.html"
