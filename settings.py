@@ -11,6 +11,7 @@ from __future__ import unicode_literals
 # settings will be overwritten on the development server using "settings-dev.py" or production 
 # server using "settings-prod.py".
 
+
 # CONTENT
 
 # Source content (Markdown files, images) are kept in "content".
@@ -25,6 +26,7 @@ DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = []
 CACHE_CONTENT = False
 
+
 # PLUGINS
 
 PLUGIN_PATHS = ["plugins"]
@@ -34,6 +36,7 @@ PLUGINS = [
     "tipue_search",
     "github_edit_url"
 ]
+
 
 # URLS
 
@@ -75,6 +78,7 @@ TAGS_SAVE_AS = ""
 DIRECT_TEMPLATES = ["index", "archives"] # Which "index" type templates to enable
 PAGINATED_DIRECT_TEMPLATES = ["index", "archives"]
 
+
 # FEEDS
 
 # All feeds except articles/posts RSS are disabled.
@@ -93,6 +97,7 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
+
 # DISPLAY
 
 SITENAME = "TDWG"
@@ -108,15 +113,14 @@ GITHUB_URL = "https://github.com/tdwg"
 TWITTER_USERNAME = "tdwg"
 GOOGLE_ANALYTICS = ""
 
+
 # NAVIGATON
 
 # Pages are organized in a hierarchy, which is also reflected in their URL (see URL settings above).
 # 
-# The navbar of tdwg-theme will show DISPLAY_PAGES_ON_MENU on the left, MENUITEMS on the right.
-# Top level pages are always shown, 2nd level pages are collapsed, further levels are not displayed.
-# To hide pages from the navigation, add "status: hidden" in their metadata. Note that doing so 
+# To hide pages from navigation, add "status: hidden" to the metadata. Note that doing so 
 # for a parent page, will make all its children top level pages!
-
+# 
 # Pages are ordered by their title. This can be overwritten by adding "page_order: integer" to their
 # metadata. The plugin "pelican-page-order" allows to set this only where necessary (rather than on 
 # every page).
