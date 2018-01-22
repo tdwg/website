@@ -1,8 +1,8 @@
 title: TDWG
-cover_image: andrea-reiman-425130.jpg
+intro: Welcome to Biodiversity Information Standards (TDWG)
+cover_image_file: andrea-reiman-425130.jpg
 cover_image_by: Andrea Reiman
-cover_image_ref: https://unsplash.com/photos/ZfpO8KeeAps
-intro: ...
+cover_image_link: https://unsplash.com/photos/ZfpO8KeeAps
 status: hidden
 url: index.html
 save_as: index.html
