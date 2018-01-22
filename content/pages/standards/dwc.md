@@ -2,9 +2,9 @@
 title: Darwin Core
 tags: technical specification, current standard, 2009
 intro: Darwin Core is our most popular standard for sharing biodiversity information.
-cover_image: alex-guillaume-238550.jpg
+cover_image_file: alex-guillaume-238550.jpg
 cover_image_by: Alex Guillaume
-cover_image_ref: https://unsplash.com/photos/0MC0o-xLucM
+cover_image_link: https://unsplash.com/photos/0MC0o-xLucM
 github_url: https://github.com/tdwg/dwc
 ---
 
