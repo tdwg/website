@@ -1,5 +1,5 @@
 title: Community
-page_order: 2
+page_order: 3
 
 _Copied from <http://www.tdwg.org/activities/>_
 
