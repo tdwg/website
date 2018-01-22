@@ -1,5 +1,7 @@
+---
 title: Executive committee
 page_order: 2
+---
 
 _Copied from <http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/>_
 

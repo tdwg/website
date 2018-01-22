@@ -1,4 +1,6 @@
+---
 title: Natural collections descriptions
+---
 
 _Copied from <http://www.tdwg.org/activities/ncd/>_
 

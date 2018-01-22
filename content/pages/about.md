@@ -1,5 +1,7 @@
+---
 title: About
 page_order: 5
+---
 
 _Copied from <http://www.tdwg.org/about-tdwg/>_
 

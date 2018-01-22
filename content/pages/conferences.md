@@ -1,5 +1,7 @@
+---
 title: Conferences
 page_order: 4
+---
 
 ## Next conference
 

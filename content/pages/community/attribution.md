@@ -1,4 +1,6 @@
+---
 title: Attribution
+---
 
 _Copied from <https://github.com/tdwg/attribution/blob/master/README.md>_
 

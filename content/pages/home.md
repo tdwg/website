@@ -1,3 +1,4 @@
+---
 title: TDWG
 intro: Welcome to Biodiversity Information Standards (TDWG)
 cover_image_file: andrea-reiman-425130.jpg
@@ -7,5 +8,6 @@ status: hidden
 url: index.html
 save_as: index.html
 template: home
+---
 
 This is the homepage for the new TDWG website.

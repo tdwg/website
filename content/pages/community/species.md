@@ -1,4 +1,6 @@
+---
 title: Species information
+---
 
 _Copied from <http://www.tdwg.org/activities/species-information/charter/>_
 

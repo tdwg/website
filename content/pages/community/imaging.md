@@ -1,4 +1,6 @@
+---
 title: Imaging
+---
 
 _Copied from <http://www.tdwg.org/activities/img/charter/>_
 

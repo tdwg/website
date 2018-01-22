@@ -1,4 +1,6 @@
+---
 title: Infrastructure subcommittee
+---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/infrastructure.md>_
 

@@ -1,4 +1,6 @@
+---
 title: Fundraising and partnerships subcommittee
+---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/partnerships.md>_
 

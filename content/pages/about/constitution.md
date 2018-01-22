@@ -1,5 +1,7 @@
+---
 title: Constitution
 page_order: 3
+---
 
 _Copied from <https://github.com/tdwg/constitution/blob/master/constitution.md>_
 

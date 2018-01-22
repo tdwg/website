@@ -1,3 +1,4 @@
+---
 title: Standards Documentation Standard
 tags: technical specification, current standard, 2017
 intro: A standard to define how TDWG standards are to be presented.
@@ -8,6 +9,7 @@ github_url: https://github.com/tdwg/vocab/tree/master/sds
 
 page_order: 
 divider: 
+---
 
 ...
 

@@ -1,5 +1,7 @@
+---
 title: Community support
 page_order: 102
+---
 
 *Copied from <http://www.tdwg.org/activities/comm-support-fund/>*
 

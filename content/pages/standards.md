@@ -1,5 +1,7 @@
+---
 title: Standards
 page_order: 1
+---
 
 _Copied from <http://www.tdwg.org/standards/>_
 

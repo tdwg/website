@@ -1,4 +1,6 @@
+---
 title: Technical architecture group
+---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/tag.md>_
 
