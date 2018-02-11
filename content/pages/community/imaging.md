@@ -4,7 +4,7 @@ summary:
 cover_image: 
 cover_image_by: 
 cover_image_link: 
-tags: 
+tags: interest group
 ---
 
 _Copied from <http://www.tdwg.org/activities/img/charter/>_

@@ -1,10 +1,10 @@
 ---
-title: Time and place subcommittee
+title: Time and place
 summary: 
 cover_image: 
 cover_image_by: 
 cover_image_link: 
-tags: 
+tags: functional subcommittee
 ---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/timeandplace.md>_

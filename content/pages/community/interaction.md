@@ -4,7 +4,8 @@ summary:
 cover_image: 
 cover_image_by: 
 cover_image_link: 
-tags: 
+tags: interest group
+github: https://github.com/tdwg/interaction
 ---
 
 ...
