@@ -1,7 +1,7 @@
 ---
 title: Biodiversity informatics curriculum
 summary: 
-cover_image: helloquence-61189.jpg
+cover_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
 cover_image_by: Helloquence
 cover_image_link: https://unsplash.com/photos/5fNmWej4tAA
 tags: 

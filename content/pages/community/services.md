@@ -1,7 +1,7 @@
 ---
 title: Biodiversity services and clients
 summary: 
-cover_image: thomas-kvistholt-191153.jpg
+cover_image: https://images.unsplash.com/photo-1484557052118-f32bd25b45b5
 cover_image_by: Thomas Kvistholt
 cover_image_link: https://unsplash.com/photos/oZPwn40zCK4
 tags: 

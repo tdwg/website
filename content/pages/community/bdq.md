@@ -1,7 +1,7 @@
 ---
 title: Biodiversity data quality
 summary: The goal of this interest group is to discuss, determine, formalize and standardize concepts, problems, policies, metadata, methodologies and mechanisms related to biodiversity data quality, collaboratively and incrementally, and to promote associated best practices throughout the biodiversity informatics community.
-cover_image: gene-pensiero-332842.jpg
+cover_image: https://images.unsplash.com/photo-1502035458144-454aa46b8ee0
 cover_image_by: Gene Pensiero
 cover_image_link: https://unsplash.com/photos/PlkN_pN2ryc
 tags: 

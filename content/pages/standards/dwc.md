@@ -1,7 +1,7 @@
 ---
 title: Darwin Core
 summary: Darwin Core is our most popular standard for sharing biodiversity information.
-cover_image: alex-guillaume-238550.jpg
+cover_image: https://images.unsplash.com/photo-1492031215329-791748ee1253
 cover_image_by: Alex Guillaume
 cover_image_link: https://unsplash.com/photos/0MC0o-xLucM
 tags: technical specification, current standard, 2009
