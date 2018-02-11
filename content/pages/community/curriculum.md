@@ -5,6 +5,7 @@ cover_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
 cover_image_by: Helloquence
 cover_image_link: https://unsplash.com/photos/5fNmWej4tAA
 tags: interest group
+github: https://github.com/tdwg/curriculum
 ---
 
 _Copied from <http://www.tdwg.org/activities/bdi-curriculum-ig/charter/>_

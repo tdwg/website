@@ -4,8 +4,8 @@ summary: The goal of this interest group is to discuss, determine, formalize and
 cover_image: https://images.unsplash.com/photo-1502035458144-454aa46b8ee0
 cover_image_by: Gene Pensiero
 cover_image_link: https://unsplash.com/photos/PlkN_pN2ryc
-github_url: https://github.com/tdwg/bdq
 tags: interest group
+github: https://github.com/tdwg/bdq
 ---
 
 ## Rationale

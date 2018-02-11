@@ -5,6 +5,7 @@ cover_image: https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1
 cover_image_by: Jan Kahánek
 cover_image_link: https://unsplash.com/photos/g3O5ZtRk2E4
 tags: interest group
+github: https://github.com/tdwg/annotations
 ---
 
 _Copied from <http://www.tdwg.org/activities/annotations-test/>_

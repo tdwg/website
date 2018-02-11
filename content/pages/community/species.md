@@ -5,6 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_link: 
 tags: interest group
+github: https://github.com/tdwg/species-information
 ---
 
 _Copied from <http://www.tdwg.org/activities/species-information/charter/>_

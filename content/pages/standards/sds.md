@@ -5,7 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_link: 
 tags: technical specification, current standard, 2017
-github_url: https://github.com/tdwg/vocab/tree/master/sds
+github: https://github.com/tdwg/vocab/tree/master/sds
 ---
 
 ...
