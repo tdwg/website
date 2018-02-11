@@ -1,5 +1,10 @@
 ---
 title: Species information
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: 
 ---
 
 _Copied from <http://www.tdwg.org/activities/species-information/charter/>_

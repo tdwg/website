@@ -1,7 +1,9 @@
 ---
 title: A test news item
 date: 2012-01-01
-category: Test category
+cover_image: 
+cover_image_by: 
+cover_image_link: 
 tags: test-tag
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Annotation
-tags:
-intro:
-cover_image_file: jan-kahanek-184676.jpg
+summary: 
+cover_image: jan-kahanek-184676.jpg
 cover_image_by: Jan Kahánek
 cover_image_link: https://unsplash.com/photos/g3O5ZtRk2E4
-github_url:
+tags: 
 ---
 
 _Copied from <http://www.tdwg.org/activities/annotations-test/>_
