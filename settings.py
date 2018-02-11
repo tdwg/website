@@ -136,3 +136,4 @@ THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # For tipue-search
 SITEDESCRIPTION = ""
 GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For github_edit_url plugin
+THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
