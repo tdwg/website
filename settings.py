@@ -34,7 +34,8 @@ PLUGINS = [
     "pelican-page-hierarchy",
     "pelican-page-order",
     "tipue_search",
-    "pelican-github-edit"
+    "pelican-github-edit",
+    "pelican-cover-image"
 ]
 
 
@@ -42,6 +43,10 @@ PLUGINS = [
 
 PAGE_ORDER_BY = "title" # For pelican-page-order
 GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For pelican-github-edit
+COVER_IMAGES_PATH = "static/cover_images" # For pelican-cover-image
+DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec" # For pelican-cover-image
+
+
 # URLS
 
 # The URL structure we use is "path/to/page/" without .html at the end.
