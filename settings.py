@@ -38,6 +38,10 @@ PLUGINS = [
 ]
 
 
+# PLUGIN SETTINGS
+
+PAGE_ORDER_BY = "title" # For pelican-page-order
+GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For pelican-github-edit
 # URLS
 
 # The URL structure we use is "path/to/page/" without .html at the end.
@@ -121,19 +125,17 @@ GOOGLE_ANALYTICS = ""
 # To hide pages from navigation, add "status: hidden" to the metadata. Note that doing so 
 # for a parent page, will make all its children top level pages!
 # 
-# Pages are ordered by their title. This can be overwritten by adding "page_order: integer" to their
-# metadata. The plugin "pelican-page-order" allows to set this only where necessary (rather than on 
-# every page).
+# Pages are ordered by their title (see PLUGIN SETTINGS). This can be overwritten by adding 
+# "page_order: integer" to their metadata. The plugin "pelican-page-order" allows to set this only 
+# where necessary (rather than on every page).
 
-PAGE_ORDER_BY = "title"
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 
-# THEME + THEME SPECIFIC SETTINGS
+# THEME SETTINGS
 
 THEME = "../tdwg-theme"
-DIRECT_TEMPLATES.append("search") # For tipue-search
+DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
 SITEDESCRIPTION = ""
-GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For github_edit_url plugin
 THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
