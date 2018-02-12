@@ -1,5 +1,10 @@
 ---
-title: Fundraising and partnerships subcommittee
+title: Fundraising and partnerships
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: functional subcommittee
 ---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/partnerships.md>_

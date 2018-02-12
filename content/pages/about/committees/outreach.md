@@ -1,5 +1,10 @@
 ---
-title: Outreach and communications subcommittee
+title: Outreach and communications
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: functional subcommittee
 ---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/outreach.md>_

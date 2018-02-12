@@ -1,5 +1,10 @@
 ---
-title: Infrastructure subcommittee
+title: Infrastructure
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: functional subcommittee
 ---
 
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/infrastructure.md>_

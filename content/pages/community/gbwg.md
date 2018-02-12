@@ -1,5 +1,11 @@
 ---
 title: Genomic biodiversity
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: interest group
+github:
 ---
 
 _Copied from <http://www.tdwg.org/activities/genomic-biodiversity/charter/>_

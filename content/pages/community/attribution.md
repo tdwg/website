@@ -1,5 +1,11 @@
 ---
 title: Attribution
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: interest group
+github: https://github.com/tdwg/attribution
 ---
 
 _Copied from <https://github.com/tdwg/attribution/blob/master/README.md>_

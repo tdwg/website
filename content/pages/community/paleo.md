@@ -1,5 +1,11 @@
 ---
 title: Paleobiology
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: interest group
+github: https://github.com/tdwg/paleo
 ---
 
 _Copied from <https://github.com/tdwg/paleo/blob/master/charter.md>_

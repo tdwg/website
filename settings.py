@@ -34,8 +34,17 @@ PLUGINS = [
     "pelican-page-hierarchy",
     "pelican-page-order",
     "tipue_search",
-    "github_edit_url"
+    "pelican-github-edit",
+    "pelican-cover-image"
 ]
+
+
+# PLUGIN SETTINGS
+
+PAGE_ORDER_BY = "title" # For pelican-page-order
+GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For pelican-github-edit
+COVER_IMAGES_PATH = "static/cover_images" # For pelican-cover-image
+DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec" # For pelican-cover-image
 
 
 # URLS
@@ -64,8 +73,8 @@ PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 ARTICLE_URL = "news/{date:%Y}/{slug}"
 ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
-DRAFT_URL = "drafts/{date:%Y}/{slug}"
-DRAFT_SAVE_AS = "drafts/{date:%Y}/{slug}/index.html"
+DRAFT_URL = "news/{date:%Y}/{slug}"
+DRAFT_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
 INDEX_SAVE_AS = "news/index.html"
 ARCHIVES_SAVE_AS = "news/archives.html"
 YEAR_ARCHIVE_SAVE_AS = "news/{date:%Y}/index.html"
@@ -108,7 +117,7 @@ TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 DEFAULT_PAGINATION = 2
-SUMMARY_MAX_LENGTH = 50
+SUMMARY_MAX_LENGTH = 40
 GITHUB_URL = "https://github.com/tdwg"
 TWITTER_USERNAME = "tdwg"
 GOOGLE_ANALYTICS = ""
@@ -121,18 +130,18 @@ GOOGLE_ANALYTICS = ""
 # To hide pages from navigation, add "status: hidden" to the metadata. Note that doing so 
 # for a parent page, will make all its children top level pages!
 # 
-# Pages are ordered by their title. This can be overwritten by adding "page_order: integer" to their
-# metadata. The plugin "pelican-page-order" allows to set this only where necessary (rather than on 
-# every page).
+# Pages are ordered by their title (see PLUGIN SETTINGS). This can be overwritten by adding 
+# "page_order: integer" to their metadata. The plugin "pelican-page-order" allows to set this only 
+# where necessary (rather than on every page).
 
-PAGE_ORDER_BY = "title"
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 
-# THEME + THEME SPECIFIC SETTINGS
+# THEME SETTINGS
 
 THEME = "../tdwg-theme"
-DIRECT_TEMPLATES.append("search") # For tipue-search
+DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
 SITEDESCRIPTION = ""
-GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For github_edit_url plugin
+THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
+NEWSLETTER_SUBSCRIPTION_URL = ""

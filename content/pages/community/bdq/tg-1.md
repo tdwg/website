@@ -1,6 +1,11 @@
 ---
 title: Framework on data quality
-tags: Task group
+summary: 
+cover_image: 
+cover_image_by: 
+cover_image_link: 
+tags: task group
+github: 
 ---
 
 ...

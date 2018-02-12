@@ -1,7 +1,12 @@
+---
 title: A test news item
-category: Test category
+date: 2012-01-01
+cover_image: 
+cover_image_by: 
+cover_image_link: 
 tags: test-tag
-authors: Peter Desmet
+status: draft
+---
 
 1. Categories, tags and author pages are disabled in the settings.
 2. Default post date = file date.
