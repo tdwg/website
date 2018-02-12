@@ -5,6 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_link: 
 tags: test-tag
+status: draft
 ---
 
 1. Categories, tags and author pages are disabled in the settings.
