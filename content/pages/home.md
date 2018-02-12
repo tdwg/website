@@ -16,4 +16,11 @@ alert_link: http://spnhc-tdwg2018.nz/
 alert_image: https://images.unsplash.com/photo-1508068235022-85a3716679b7
 ---
 
-This is the homepage for the new TDWG website.
+The International Working Group on Taxonomic Databases (herein called "TDWG") is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information so as to promote the wider and more effective dissemination of information about the world's heritage of biological organisms for the benefit of the world at large.
+
+To achieve its goals, TDWG
+
+1. develops, adopts and promotes standards and guidelines for the recording and exchange of data about organisms;
+2. promotes their use through the most appropriate and effective means;
+3. acts as a forum for discussion through holding meetings and through publication and
+4. undertakes any other activities that are judged useful to the organisation.
