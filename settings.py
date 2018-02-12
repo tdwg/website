@@ -34,7 +34,7 @@ PLUGINS = [
     "pelican-page-hierarchy",
     "pelican-page-order",
     "tipue_search",
-    "github_edit_url"
+    "pelican-github-edit"
 ]
 
 

@@ -6,7 +6,7 @@ def github_edit_url(generator):
     GITHUB_CONTENT_URL + local source_path
     """
 
-    if generator.settings["GITHUB_CONTENT_URL"]: # Required setting
+    if "GITHUB_CONTENT_URL" in generator.settings: # Required setting
         # Create list of articles_or_pages
         articles = getattr(generator, "articles", []) # Populated if called from ArticleGenerator
         pages = getattr(generator, "pages", [])       # Populated if called from PageGenerator
