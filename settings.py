@@ -144,7 +144,6 @@ THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
 SITEDESCRIPTION = ""
 THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
-NEWSLETTER_SUBSCRIPTION_URL = ""
 PAGE_LINKS = { # Pages directly linked to by theme. Format: id: url (gets prepended by SITEURL/)
     "standards": "standards/", 
     "news": "news/",

@@ -14,6 +14,16 @@ alert_text: Subscriptions to the TDWG 2018 Annual Conference are now open.
 alert_button: Register now
 alert_link: http://spnhc-tdwg2018.nz/
 alert_image: https://images.unsplash.com/photo-1508068235022-85a3716679b7
+newsletter_title: Keep up to date with TDWG
+newsletter_text: Sign up to our newsletter and receive all important TDWG announcements.
+newsletter_button: Subscribe to our newsletter
+newsletter_link: http://lists.tdwg.org/mailman/listinfo/tdwg
+call1_text: Discover our open-access journal
+call1_button: Biodiversity Information Science and Standards (BISS)
+call1_link: https://biss.pensoft.net/
+call2_text: Support TDWG in its mission
+call2_button: Become a member
+call2_link: about/membership/
 ---
 
 The International Working Group on Taxonomic Databases (herein called "TDWG") is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information so as to promote the wider and more effective dissemination of information about the world's heritage of biological organisms for the benefit of the world at large.
