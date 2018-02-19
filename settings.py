@@ -149,8 +149,12 @@ MENUITEMS = [ # Links in footer. Format: title, SITEURL/path
 THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
 THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
-PAGE_LINKS = { # Pages directly linked to by theme. Format: id: url (gets prepended by SITEURL/)
+PAGE_LINKS = { # Pages directly linked to by theme. Format: id: SITEURL/path
     "standards": "standards/", 
     "news": "news/",
     "search": "search.html"
 }
+LICENSE_STATEMENT = "Content on this site, made open by <a href=\"http://www.tdwg.org\">"\
+                    "Biodiversity Information Standards (TDWG)</a> is licensed under a "\
+                    "<a href=\"https://creativecommons.org/licenses/by/4.0/\">"\
+                    "Creative Commons Attribution 4.0 International License</a>."
