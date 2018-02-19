@@ -2,10 +2,11 @@
 title: Call for Tender: Website Development
 date: 2017-06-04 04:19
 slug: call-for-tender
-summary: TDWG seek a contract with a motivated and experienced web developer to revise the TDWG.org website.
+summary: TDWG seek a contract with a motivated and experienced web developer to revise the **TDWG.org** website.
 cover_image: https://images.unsplash.com/photo-1454165205744-3b78555e5572
 cover_image_by: Sai Kiran Anagani
 cover_image_link: https://unsplash.com/photos/5Ntkpxqt54Y
+tags: call, development
 ---
 
 TDWG needs a website to communicate and support its outputs and activities. One that 1) provides a clear overview of what TDWG does, 2) welcomes new members, and 3) can be easily maintained by its volunteer membership. None of this is provided effectively by the current website at www.tdwg.org, which contains over 300 (outdated) pages and relies on a complex and undocumented set of tools to maintain it. As result of which is a lot of fragility and the majority of the membership unable to contribute to the website in fear of breaking things.
