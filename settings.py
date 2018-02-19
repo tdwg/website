@@ -109,9 +109,10 @@ TRANSLATION_FEED_RSS = None
 
 # DISPLAY
 
-SITENAME = "TDWG"
-SITESUBTITLE = "Biodiversity Information Standards"
-AUTHOR = "TDWG"
+SITENAME = "TDWG" # Appears in navbar and html title
+SITESUBTITLE = "Biodiversity Information Standards (TDWG) is a non-profit organization and "\
+               "community dedicated to developing biodiversity information standards."
+AUTHOR = "Biodiversity Information Standards (TDWG)"
 DEFAULT_LANG = "en"
 TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
@@ -142,7 +143,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
-SITEDESCRIPTION = ""
 THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
 PAGE_LINKS = { # Pages directly linked to by theme. Format: id: url (gets prepended by SITEURL/)
     "standards": "standards/", 
