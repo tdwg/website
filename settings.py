@@ -33,6 +33,7 @@ PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
     "pelican-page-hierarchy",
     "pelican-page-order",
+    "summary",
     "tipue_search",
     "pelican-github-edit",
     "pelican-cover-image"
@@ -118,7 +119,7 @@ TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%d %B %Y"
 DEFAULT_PAGINATION = 2
-SUMMARY_MAX_LENGTH = 0
+SUMMARY_MAX_LENGTH = 40 # For generated summary. Plugin summary adds has_summary for manual summary.
 GITHUB_URL = "https://github.com/tdwg"
 TWITTER_USERNAME = "tdwg"
 GOOGLE_ANALYTICS = ""
