@@ -20,7 +20,7 @@ from __future__ import unicode_literals
 PATH = "content"
 PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = ["news"]
-STATIC_PATHS = ["static"]
+STATIC_PATHS = ["static", "pages"]
 OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = []
