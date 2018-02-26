@@ -34,7 +34,10 @@ def override_metadata(content_object):
     def _override_value(page, key):
         metadata = copy(page.metadata)
         # We override the slug to include the path up to the filename
-        metadata['slug'] = os.path.join(path, page.slug)
+        if page.slug == 'index':
+            metadata['slug'] = os.path.join(path)
+        else:
+            metadata['slug'] = os.path.join(path, page.slug)
         # We have to account for non-default language and format either,
         # e.g., PAGE_SAVE_AS or PAGE_LANG_SAVE_AS
         infix = '' if in_default_lang(page) else 'LANG_'
