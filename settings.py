@@ -25,6 +25,7 @@ OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = []
 CACHE_CONTENT = False
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.do"]} # Used in archive_nav.html template
 
 
 # PLUGINS
