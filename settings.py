@@ -109,7 +109,7 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 
-# DISPLAY
+# PRESENTATION
 
 SITENAME = "TDWG" # Appears in navbar and html title
 SITESUBTITLE = "Biodiversity Information Standards (TDWG) is a non-profit organization and "\
