@@ -32,6 +32,8 @@ This repository contains the content and settings for the new TDWG website. It i
     * On production server: `pelican -s settings-prod.py`
 3. The website is generated in `output/`
 
+_Note: Technically the website can be build with other themes than [tdwg-theme](https://github.com/tdwg/tdwg-theme): only the homepage requires a dedicated `home.html` template._
+
 ## Contributors
 
 [List of contributors](https://github.com/tdwg/website/contributors)
