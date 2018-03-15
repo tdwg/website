@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# This file contains the Pelican settings for the TDWG website (typically called "pelicanconf.py").
+# This file contains the Pelican settings (typically called "pelicanconf.py") for the TDWG website.
 #
 # All setting identifiers are explained at http://docs.getpelican.com/en/stable/settings.html, 
 # except for some theme settings listed at the end of this file.
@@ -147,6 +147,10 @@ MENUITEMS = [ # Links in footer. Format: title, SITEURL/path
 
 
 # THEME SETTINGS
+
+# The website uses a dedicated tdwg-theme (https://github.com/tdwg/tdwg-theme)
+# Technically, it could be build with other themes, but won't look as good. Only the homepage 
+# requires the non-default "home.html" template.
 
 THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
