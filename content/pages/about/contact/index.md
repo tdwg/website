@@ -5,7 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_link: 
 tags: 
-page_order: 5
+page_order: 6
 ---
 
 For official business with the TDWG Executive Committee, such as reports and applications, please contact the TDWG Secretary. For questions and comments concerning TDWG and our website, please contact Stan Blum at the TDWG Secretariat (see below, email preferred).

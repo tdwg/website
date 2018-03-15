@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# This file contains the Pelican settings for the TDWG website (typically called "pelicanconf.py").
+# This file contains the Pelican settings (typically called "pelicanconf.py") for the TDWG website.
 #
 # All setting identifiers are explained at http://docs.getpelican.com/en/stable/settings.html, 
 # except for some theme settings listed at the end of this file.
@@ -25,17 +25,19 @@ OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = []
 CACHE_CONTENT = False
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.do"]} # Used in archive_nav.html template
 
 
 # PLUGINS
 
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
-    "pelican-page-hierarchy",
     "pelican-page-order",
+    "pelican-page-hierarchy",
     "tipue_search",
-    "pelican-github-edit",
-    "pelican-cover-image"
+    "summary",
+    "pelican-cover-image",
+    "pelican-github-edit"
 ]
 
 
@@ -107,7 +109,7 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 
-# DISPLAY
+# PRESENTATION
 
 SITENAME = "TDWG" # Appears in navbar and html title
 SITESUBTITLE = "Biodiversity Information Standards (TDWG) is a non-profit organization and "\
@@ -117,8 +119,8 @@ DEFAULT_LANG = "en"
 TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%d %B %Y"
-DEFAULT_PAGINATION = 2
-SUMMARY_MAX_LENGTH = 0
+DEFAULT_PAGINATION = 10 # Applies to news page only, not supported for period archives
+SUMMARY_MAX_LENGTH = 40 # For generated summary. Existence of manual summary checked by plugin "summary"
 GITHUB_URL = "https://github.com/tdwg"
 TWITTER_USERNAME = "tdwg"
 GOOGLE_ANALYTICS = ""
@@ -140,11 +142,15 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [ # Links in footer. Format: title, SITEURL/path
     ["What is TDWG?", "about/"],
     ["Contact us", "about/contact/"],
-    ["Privacy policy", ""]
+    ["Privacy policy", "about/privacy/"]
 ]
 
 
 # THEME SETTINGS
+
+# The website uses a dedicated tdwg-theme (https://github.com/tdwg/tdwg-theme)
+# Technically, it could be build with other themes, but won't look as good. Only the homepage 
+# requires the non-default "home.html" template.
 
 THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage

@@ -10,7 +10,7 @@ page_order: 4
 
 ## Next conference
 
-The next conference will take place in [Ottawa, Canada]({filename}./conferences/2017.md).
+The next conference will take place in [Dunedin, New Zealand]({filename}./conferences/2018.md).
 
 ## Want to host a meeting?
 
