@@ -20,7 +20,7 @@ from __future__ import unicode_literals
 PATH = "content"
 PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = ["news"]
-STATIC_PATHS = ["static"]
+STATIC_PATHS = ["static", "pages"]
 OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = []
@@ -44,6 +44,7 @@ PLUGINS = [
 # PLUGIN SETTINGS
 
 PAGE_ORDER_BY = "title" # For pelican-page-order
+IGNORE_PAGE_SLUG = True # For pelican-page-hierarchy
 GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For pelican-github-edit
 COVER_IMAGES_PATH = "static/cover_images" # For pelican-cover-image
 DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec" # For pelican-cover-image
@@ -70,7 +71,7 @@ DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458
 # the page metadata.
 
 SITEURL = ""
-SLUGIFY_SOURCE = "basename" # Use filename of Markdown files as {slug}
+SLUGIFY_SOURCE = "title" # IGNORE_PAGE_SLUG will ignore this and make {slug} = path/to/page
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 ARTICLE_URL = "news/{date:%Y}/{slug}/"
