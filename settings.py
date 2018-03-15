@@ -32,12 +32,12 @@ JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.do"]} # Used in archive_nav.html
 
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
-    "pelican-page-hierarchy",
     "pelican-page-order",
-    "summary",
+    "pelican-page-hierarchy",
     "tipue_search",
-    "pelican-github-edit",
-    "pelican-cover-image"
+    "summary",
+    "pelican-cover-image",
+    "pelican-github-edit"
 ]
 
 
