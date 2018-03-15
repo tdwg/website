@@ -10,8 +10,8 @@ page_order: 4
 
 ## Next conference
 
-The next conference will take place in [Dunedin, New Zealand]({filename}./conferences/2018.md).
+The 2018 annual conference will be held jointly with the Society for the Preservation of Natural History Collections (SPNHC) in [Dunedin, New Zealand](http://spnhc-tdwg2018.nz/) from 25 August to 1 September.
 
-## Want to host a meeting?
+## Interested in hosting a meeting?
 
 Get in touch with the [time and place subcommittee]({filename}./about/committees/tardis.md).
