@@ -1,5 +1,5 @@
 ---
-title: Annotation
+title: Annotations
 summary: 
 cover_image: https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1
 cover_image_by: Jan Kahánek
