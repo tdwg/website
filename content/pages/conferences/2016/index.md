@@ -1,5 +1,5 @@
 ---
-title: TDWG 2016 annual conference
+title: TDWG 2016
 summary: 
 cover_image: 
 cover_image_by: 
