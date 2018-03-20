@@ -1,10 +1,11 @@
 ---
-title: TDWG 2008
+title: 2008 - Fremantle
 summary: TDWG 2008 Annual Conference - Fremantle, Australia
 cover_image: https://c1.staticflickr.com/1/76/178987018_e75b26eb54_b.jpg
 cover_image_by: Chuan Chew
 cover_image_link: https://www.flickr.com/photos/hangdog/178987018
 tags: 
+page_order: 42
 ---
 
 * **Host**: Kevin Thiele (Western Australian Maritime Museum)
