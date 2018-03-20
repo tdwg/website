@@ -8,9 +8,10 @@ tags:
 page_order: 42
 ---
 
-* **Host**: Kevin Thiele (Western Australian Maritime Museum)
+* **Host**: Kevin Thiele - Western Australian Maritime Museum
 * **Venue**: [Western Australian Maritime Museum](http://museum.wa.gov.au/museums/maritime) in Fremantle, Australia
 * **Date**: 20-24 October 2008
 * **Proceedings**: `link coming`
 * **Programme**: `link coming`
 * **Presentations**: `link coming`
+* **Recordings**: `link coming`
