@@ -21,8 +21,8 @@ The [Roles and Responsibilities ](http://www.tdwg.org/about-tdwg/executive/exec-
 ### Chair
 
 Dimitris Koureas
-Natural History Museum, London, UNITED KINGDOM
-[d.koureas (at) nhm (dot) ac (dot) uk](mailto:d.koureas@nhm.ac.uk)
+Naturalis Biodiversity Center, Leiden, NETHERLANDS
+[dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)
 
 ### Deputy Chair
 
