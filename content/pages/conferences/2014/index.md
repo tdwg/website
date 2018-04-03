@@ -10,7 +10,7 @@ page_order: 36
 
 * **Host**: Anders Telenius – GBIF Sweden, [Swedish Museum of Natural History](http://www.nrm.se/en/16.html)
 * **Venue**: [Elmia Congress Centre](http://www.elmia.se/en/) in Jönköping, Sweden
-* **Date**: 27-31 October 2013
+* **Date**: 27-31 October 2014
 * **Proceedings**: `link coming`
 * **Programme**: `link coming`
 * **Presentations**: `link coming`
