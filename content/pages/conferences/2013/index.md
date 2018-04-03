@@ -1,5 +1,5 @@
 ---
-title: 2013 - Florence
+title: 2013 - Florence, Italy
 summary: TDWG 2013 Annual Conference - Florence, Italy
 cover_image: https://c1.staticflickr.com/9/8288/29260207730_a25aa0bc3d_b.jpg
 cover_image_by: Mariano Mantel

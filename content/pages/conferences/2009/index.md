@@ -1,5 +1,5 @@
 ---
-title: 2009 - Montpellier
+title: 2009 - Montpellier, France
 summary: TDWG 2009 Annual Conference - Montpellier, France
 cover_image: https://c1.staticflickr.com/1/153/424090311_83d192f107_b.jpg
 cover_image_by: Jon Parise

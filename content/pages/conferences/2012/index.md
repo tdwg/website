@@ -1,5 +1,5 @@
 ---
-title: 2012 - Beijing
+title: 2012 - Beijing, China
 summary: TDWG 2012 Annual Conference - Beijing, China
 cover_image: https://c1.staticflickr.com/3/2490/4130492916_5c3162b819_b.jpg
 cover_image_by: May Wong

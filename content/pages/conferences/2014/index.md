@@ -1,5 +1,5 @@
 ---
-title: 2014 - Jönköping
+title: 2014 - Jönköping, Sweden
 summary: TDWG 2014 Annual Conference - Jönköping, Sweden
 cover_image: https://c2.staticflickr.com/8/7285/8738080004_4aa25ee3df_b.jpg
 cover_image_by: Gustav Lindqvist

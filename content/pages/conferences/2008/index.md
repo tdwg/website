@@ -1,5 +1,5 @@
 ---
-title: 2008 - Fremantle
+title: 2008 - Fremantle, Australia
 summary: TDWG 2008 Annual Conference - Fremantle, Australia
 cover_image: https://c1.staticflickr.com/1/76/178987018_e75b26eb54_b.jpg
 cover_image_by: Chuan Chew
