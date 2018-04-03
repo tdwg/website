@@ -8,10 +8,23 @@ tags:
 page_order: 43
 ---
 
-* **Host**: [Faculty of Natural Sciences, Comenius University](https://fns.uniba.sk/en/)
-* **Venue**: [Hotel SÚZA](http://www.suza.sk/) in Bratislava, Slovakia
-* **Date**: 17-21 September 2007
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: not available
-* **Recordings**: not available
+Host
+: [Faculty of Natural Sciences, Comenius University](https://fns.uniba.sk/en/)
+
+Venue
+: [Hotel SÚZA](http://www.suza.sk/) in Bratislava, Slovakia
+
+Date
+: 17-21 September 2007
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: not available
+
+Recordings
+: not available

@@ -8,10 +8,24 @@ tags:
 page_order: 33
 ---
 
-* **Host**: [Agriculture and Agri-Food Canada](http://www.agr.gc.ca/eng/home/?id=1395690825741) and [Canadian Museum of Nature](https://nature.ca/en/home)
-* **Venue**: [Delta Hotels Ottawa City Centre by Marriott](http://www.marriott.com/hotels/travel/yowdm-delta-hotels-ottawa-city-centre/) in Ottawa, Canada
-* **Date**: 2-6 October 2017
-* **Proceedings**: published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/collection/25/)
-* **Programme**: `link coming`
-* **Presentations**: `link coming`
-* **Recordings**: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2017_Annual_Conference)
+Host
+: [Agriculture and Agri-Food Canada](http://www.agr.gc.ca/eng/home/?id=1395690825741)
+: [Canadian Museum of Nature](https://nature.ca/en/home)
+
+Venue
+: [Delta Hotels Ottawa City Centre by Marriott](http://www.marriott.com/hotels/travel/yowdm-delta-hotels-ottawa-city-centre/) in Ottawa, Canada
+
+Date
+: 2-6 October 2017
+
+Proceedings
+: published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/collection/25/)
+
+Programme
+: `link coming`
+
+Presentations
+: `link coming`
+
+Recordings
+: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2017_Annual_Conference)

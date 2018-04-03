@@ -8,10 +8,23 @@ tags:
 page_order: 37
 ---
 
-* **Host**: Luca Bartolozzi - [University of Florence](https://www.unifi.it/)
-* **Venue**: [Grand Hotel Mediterraneo](http://www.hotelmediterraneofirenze.com/) in Florence, Italy
-* **Date**: 28 October - 1 November 2013
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: `link coming`
-* **Recordings**: not available
+Host
+: Luca Bartolozzi - [University of Florence](https://www.unifi.it/)
+
+Venue
+: [Grand Hotel Mediterraneo](http://www.hotelmediterraneofirenze.com/) in Florence, Italy
+
+Date
+: 28 October - 1 November 2013
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: `link coming`
+
+Recordings
+: not available

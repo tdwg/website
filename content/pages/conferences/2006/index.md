@@ -8,10 +8,23 @@ tags:
 page_order: 44
 ---
 
-* **Host**: 
-* **Venue**: [Missouri Botanical Garden](http://www.missouribotanicalgarden.org/) in St. Louis, Missouri, USA
-* **Date**: 16-22 October 2006
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: not available
-* **Recordings**: not available
+Host
+: ?
+
+Venue
+: [Missouri Botanical Garden](http://www.missouribotanicalgarden.org/) in St. Louis, Missouri, USA
+
+Date
+: 16-22 October 2006
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: not available
+
+Recordings
+: not available

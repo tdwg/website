@@ -8,10 +8,24 @@ tags:
 page_order: 34
 ---
 
-* **Host**: [Instituto Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/) and Instituto Nacional de Biodiversidad (INBio)
-* **Venue**: [Centro de Transferencia Tecnológica y Educación Continua (CTEC)](http://www.ctec.tec.ac.cr/) in Santa Clara de San Carlos, Costa Rica
-* **Date**: 5-9 December 2016
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: `link coming`
-* **Recordings**: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2016_Annual_Conference)
+Host
+: [Instituto Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/)
+: Instituto Nacional de Biodiversidad (INBio)
+
+Venue
+: [Centro de Transferencia Tecnológica y Educación Continua (CTEC)](http://www.ctec.tec.ac.cr/) in Santa Clara de San Carlos, Costa Rica
+
+Date
+: 5-9 December 2016
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: `link coming`
+
+Recordings
+: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2016_Annual_Conference)

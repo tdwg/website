@@ -8,10 +8,23 @@ tags:
 page_order: 38
 ---
 
-* **Host**: Keping Ma - [Research Group of Biodiversity and Biosafety](http://www.biodiv.ibcas.ac.cn/en/index.html), Chinese Academy of Sciences
-* **Venue**: China People's Palace Hotel in Beijing, China
-* **Date**: 22-26 October 2012
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: `link coming`
-* **Recordings**: not available
+Host
+: Keping Ma - [Research Group of Biodiversity and Biosafety](http://www.biodiv.ibcas.ac.cn/en/index.html), Chinese Academy of Sciences
+
+Venue
+: China People's Palace Hotel in Beijing, China
+
+Date
+: 22-26 October 2012
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: `link coming`
+
+Recordings
+: not available

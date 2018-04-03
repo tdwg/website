@@ -8,10 +8,24 @@ tags:
 page_order: 41
 ---
 
-* **Host**: [Agropolis](http://www.agropolis.org/) and [Bioversity International](https://www.bioversityinternational.org/)
-* **Venue**: [Le Corum](http://www.montpellier-events.com/en/The-Corum/Presentation) in Montpellier, France
-* **Date**: 9-13 November 2009
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: `link coming`
-* **Recordings**: not available
+Host
+: [Agropolis](http://www.agropolis.org/)
+: [Bioversity International](https://www.bioversityinternational.org/)
+
+Venue
+: [Le Corum](http://www.montpellier-events.com/en/The-Corum/Presentation) in Montpellier, France
+
+Date
+: 9-13 November 2009
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: `link coming`
+
+Recordings
+: not available

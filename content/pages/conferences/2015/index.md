@@ -8,11 +8,24 @@ tags:
 page_order: 35
 ---
 
-* **Host**: Lucy Waruingi - [African Conservation Centre](http://www.accafrica.org/)
-* **Venue**: [Windsor Golf Hotel and Country Club](http://www.windsorgolfresort.com/) in Nairobi, Kenya
-* **Date**: 28 September - 1 October 2015
-* **Proceedings**: `link coming`
-* **Programme**: `link coming`
-* **Presentations**: `link coming`
-* **Recordings**: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2015_Annual_Conference)
+Host
+: Lucy Waruingi - [African Conservation Centre](http://www.accafrica.org/)
+
+Venue
+: [Windsor Golf Hotel and Country Club](http://www.windsorgolfresort.com/) in Nairobi, Kenya
+
+Date
+: 28 September - 1 October 2015
+
+Proceedings
+: `link coming`
+
+Programme
+: `link coming`
+
+Presentations
+: `link coming`
+
+Recordings
+: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2015_Annual_Conference)
 
