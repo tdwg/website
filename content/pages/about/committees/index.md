@@ -21,8 +21,8 @@ The [Roles and Responsibilities ](http://www.tdwg.org/about-tdwg/executive/exec-
 ### Chair
 
 Dimitris Koureas
-Natural History Museum, London, UNITED KINGDOM
-[d.koureas (at) nhm (dot) ac (dot) uk](mailto:d.koureas@nhm.ac.uk)
+Naturalis Biodiversity Center, Leiden, NETHERLANDS
+[dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)
 
 ### Deputy Chair
 
@@ -46,9 +46,9 @@ Missouri Botanical Garden. St. Louis, MO, USA
 
 ### Technical Architecture Group, Chair
 
-Greg Whitbread
-Taxamatics, Canberra, ACT, AUSTRALIA
-[whitbread.greg (at) gmail (dot) com](mailto:whitbread.greg@gmail.com)
+Paul Morris
+Museum of Comparative Zoology, Cambrige, MA, USA
+[mole (at) morris (dot) net](mailto:mole@morris.net)
 
 ### Fundraising and Partnerships Subcommittee, Chair
 
@@ -107,9 +107,9 @@ National Agricultural Library, USDA, Beltsville, MD, USA
 
 ### Oceania
 
-Aaron Wilton
-Landcare Research, NEW ZEALAND
-[WiltonA (at) landcareresearch (dot) co (dot) nz](mailto:wiltona@landcareresearch.co.nz/)
+Simon Checksfield
+CSIRO, Canberra, AUSTRALIA
+[simon (dot) checksfield (at) csiro (dot) au](mailto:simon.checksfield@csiro.au)
 
 ## Co-opted Members (Non-Voting)
 
