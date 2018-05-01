@@ -5,7 +5,7 @@ cover_image: https://images.unsplash.com/photo-1508068235022-85a3716679b7
 cover_image_by: Joshua Harris
 cover_image_link: https://unsplash.com/photos/BIIfuwj7gEw
 tags: 
-page_order: 32
+page_order: 18
 divider: below
 ---
 
