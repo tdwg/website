@@ -1,7 +1,11 @@
 ---
 title: Executive committee
 summary: 
+cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
+cover_image_by: Tim Graf
+cover_image_link: https://unsplash.com/photos/ErO0E8wZaTA
 tags: 
+page_order: 1
 ---
 
 _Copied from <http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/>_

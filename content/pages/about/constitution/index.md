@@ -5,7 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_link: 
 tags: 
-page_order: 3
+page_order: 4
 ---
 
 _Copied from <https://github.com/tdwg/constitution/blob/master/constitution.md>_
