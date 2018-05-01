@@ -12,6 +12,10 @@ github: https://github.com/tdwg/bdq
 
 Data quality is a major concern in biodiversity informatics. The distributed nature of data acquisition and digitization, the specific difficulties imposed by some of the data sub-domains, such as taxonomic data and geographic data, among other aspects, make it important to discuss data quality in biodiversity so that data made available in portals and other systems can be used for various purposes such as education, science, and decision making. Although several initiatives in the biodiversity informatics community have been striving to develop tools and best practices about data quality, we lack a common background and consensus related to concepts, metadata, policies, and methodologies that would increase the synergy in achieving solutions for improving the fitness-for-use of biodiversity data. In this interest group we want to develop this common background and help standardize the way to deal with data quality in the biodiversity informatics community, avoiding duplication of efforts and sharing knowledge and solutions.
 
+## Task groups
+
+<!-- subpages -->
+
 ## Conveners
 
 Antonio Mauro Saraiva
