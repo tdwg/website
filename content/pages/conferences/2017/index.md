@@ -1,9 +1,9 @@
 ---
 title: 2017 - Ottawa, Canada
 summary: TDWG 2017 Annual Conference - Ottawa, Canada
-cover_image: https://images.unsplash.com/photo-1444877466744-dc2f2af2b931
-cover_image_by: Matthew Meijer
-cover_image_link: https://unsplash.com/photos/f5Fx_B3Qc4o
+cover_image: https://c1.staticflickr.com/5/4500/37295672674_8aa2652c28_b.jpg
+cover_image_by: Arthur Chapman
+cover_image_link: https://www.flickr.com/photos/arthur_chapman/37295672674
 tags: 
 page_order: 17
 ---
