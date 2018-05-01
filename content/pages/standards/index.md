@@ -1,6 +1,6 @@
 ---
 title: Standards
-summary: From [Darwin Core]({filename}/pages/standards/dwc/index.md) to [WGSRPD]({filename}/pages/standards/wgsrpd/index.md): TDWG standards aid the exchange of biodiversity information. Our standards are also available through [FAIRsharing.org](https://fairsharing.org/collection/TDWGBiodiversity).
+summary: From [Darwin Core]({filename}/pages/standards/dwc/index.md) to [WGSRPD]({filename}/pages/standards/wgsrpd/index.md): TDWG standards aid the exchange of biodiversity information.
 cover_image: https://images.unsplash.com/photo-1518709766631-a6a7f45921c3
 cover_image_by: sutirta budiman
 cover_image_link: https://unsplash.com/photos/PdiOj8kRy28
@@ -8,5 +8,7 @@ tags:
 page_order: 1
 subpages_order: reverse
 ---
+
+Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with the databases that implement them and the data policies that endorse their use.
 
 <!-- subpages -->
