@@ -1,32 +1,13 @@
 ---
 title: Community
-summary: 
-cover_image: 
-cover_image_by: 
-cover_image_link: 
+summary: The TDWG community is organized in **Interest Groups** (listed below). These can have dedicated **Task Groups** to work on a standard or recommendation (listed on Interest Group pages). Ratified standards are maintained by **Standard Maintenance Groups** (listed on [standard pages]({filename}/pages/standards/index.md)).
+cover_image: https://c1.staticflickr.com/1/375/30751387213_3015d98ec2_b.jpg
+cover_image_by: Denisse Vargas
+cover_image_link: https://www.flickr.com/photos/145649587@N03/30751387213/in/pool-tdwg16/
 tags: 
 page_order: 3
 ---
 
-_Copied from <http://www.tdwg.org/activities/>_
+Groups can apply for [community support]({filename}/pages/community/support/index.md). To propose or manage a group, see the [community management guidelines]({filename}/pages/community/management/index.md).
 
-Activities listed here are the TDWG Interest and Task Groups approved by the Executive Committee to work on standards in a particular area of biodiversity science.
-
-Links on the group abbreviation and full name should take you to the group's landing page or charter. Links under the Resources column indicate the group's primary collaboration tools.
-
-[TDWG mailing lists](http://www.tdwg.org/activities/mailing-lists/): Several years ago, TDWG members observed that a separate mailing list for each interest or task group was overly partitioned. Topics discussed in one group were often relevant to multiple groups and it was difficult to ensure that everyone interested in a topic was kept informed. To fix the problem, TDWG merged most mailing lists into just three:
-
-* TDWG -- for general announcements (very low volume)
-* TDWG-Content -- for discussing how biodiversity information concepts should be defined and represented; and
-* TDWG-TAG -- for discussing technical architecture.
-
-In addition, TDWG is moving many of its groups to [GitHub](https://github.com/tdwg) because the collaboration tools provided there are an excellent platform for developing information standards.
-
-For further information, please [contact us](http://www.tdwg.org/about-tdwg/contact-us/).
-
-## Information for Conveners
-
-Helpful information for Interest and Task Group Conveners
-
-* [Responsibilities](http://www.tdwg.org/activities/convener-responsibilities/) of Conveners, including guides and templates
-* The [TDWG Community Support Fund](http://www.tdwg.org/activities/comm-support-fund/)
+<!-- subpages -->
