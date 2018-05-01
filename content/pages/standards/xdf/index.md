@@ -6,6 +6,7 @@ cover_image_by:
 cover_image_link: 
 tags: prior standard, 1991
 github: https://github.com/tdwg/prior-standards/tree/master/xdf
+page_order: 7
 ---
 
 ...

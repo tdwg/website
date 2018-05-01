@@ -6,6 +6,7 @@ cover_image_by:
 cover_image_link: 
 tags: technical specification, prior standard, 1996
 github: https://github.com/tdwg/prior-standards/tree/master/hispid3
+page_order: 13
 ---
 
 ...
