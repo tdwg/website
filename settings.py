@@ -121,7 +121,8 @@ TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%d %B %Y"
 DEFAULT_PAGINATION = 10 # Applies to news page only, not supported for period archives
-SUMMARY_MAX_LENGTH = 40 # For generated summary. Existence of manual summary checked by plugin "summary"
+SUMMARY_MAX_LENGTH = 40 # For generated summary. Existence of manual summary checked by 
+                        # plugin "summary"
 GITHUB_URL = "https://github.com/tdwg"
 TWITTER_USERNAME = "tdwg"
 GOOGLE_ANALYTICS = ""
