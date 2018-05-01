@@ -6,7 +6,6 @@ cover_image_by: Joshua Harris
 cover_image_link: https://unsplash.com/photos/BIIfuwj7gEw
 tags: 
 page_order: 18
-divider: below
 ---
 
 See the [conference website](http://spnhc-tdwg2018.nz/) for all information.

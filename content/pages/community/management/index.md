@@ -6,7 +6,6 @@ cover_image_by:
 cover_image_link: 
 tags: 
 page_order: 101
-divider: above
 ---
 
 _Copied from <http://www.tdwg.org/activities/convener-responsibilities/>_
