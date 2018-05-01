@@ -6,6 +6,7 @@ cover_image_by: Denisse Vargas
 cover_image_link: https://www.flickr.com/photos/145649587@N03/30751685353/in/pool-tdwg16/
 tags: 
 page_order: 4
+subpages_order: reverse
 ---
 
 ## Next conference
