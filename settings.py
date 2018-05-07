@@ -37,6 +37,7 @@ PLUGINS = [
     "tipue_search",
     "summary",
     "pelican-bootstrapify", # Adds bootstrap classes to content
+    "pelican-toc",
     "pelican-cover-image",
     "pelican-github-edit"
 ]
@@ -49,6 +50,10 @@ IGNORE_PAGE_SLUG = True # For pelican-page-hierarchy
 GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For pelican-github-edit
 COVER_IMAGES_PATH = "static/cover_images" # For pelican-cover-image
 DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec" # For pelican-cover-image
+TOC = {
+    "TOC_HEADERS": "^h2",
+    "TOC_INCLUDE_TITLE": False
+}
 
 
 # URLS
