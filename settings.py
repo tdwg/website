@@ -36,6 +36,7 @@ PLUGINS = [
     "pelican-page-hierarchy",
     "tipue_search",
     "summary",
+    "pelican-bootstrapify", # Adds bootstrap classes to content
     "pelican-cover-image",
     "pelican-github-edit"
 ]
