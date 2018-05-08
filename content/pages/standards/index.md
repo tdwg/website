@@ -9,4 +9,4 @@ template: page_index
 page_order: 1
 ---
 
-Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with the databases that implement them and the data policies that endorse their use.
+Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with databases that implement them and data policies that endorse their use.
