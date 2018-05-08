@@ -31,28 +31,37 @@ CACHE_CONTENT = False
 
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
-    "pelican-page-order",
-    "pelican-page-hierarchy",
-    "tipue_search",
-    "summary",
-    "pelican-bootstrapify", # Adds bootstrap classes to content
-    "pelican-toc",
-    "pelican-cover-image",
-    "pelican-github-edit"
+    "pelican-page-order",       # Allows to set a custom page_order
+    "pelican-page-hierarchy",   # Allows parent/child page relationships + URLs
+    "tipue_search",             # Javascript site search
+    "summary",                  # Adds has_summary attribute to check for explicit summary
+    "pelican-bootstrapify",     # Allows to set bootstrap classes to content
+    "pelican-toc",              # Allows to renders table of content for articles/pages
+    "pelican-github-edit",      # Allows to add a link to edit article/page on GitHub
+    "pelican-cover-image"      
 ]
 
 
 # PLUGIN SETTINGS
 
-PAGE_ORDER_BY = "title" # For pelican-page-order
-IGNORE_PAGE_SLUG = True # For pelican-page-hierarchy
-GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content" # For pelican-github-edit
-COVER_IMAGES_PATH = "static/cover_images" # For pelican-cover-image
-DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec" # For pelican-cover-image
+# For pelican-page-order
+PAGE_ORDER_BY = "title"
+
+# For pelican-page-hierarchy
+IGNORE_PAGE_SLUG = True
+
+# For pelican-toc
 TOC = {
     "TOC_HEADERS": "^h2",
     "TOC_INCLUDE_TITLE": False
 }
+
+# For pelican-github-edit
+GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content"
+
+# For pelican-cover-image
+COVER_IMAGES_PATH = "pages" 
+DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec"
 
 
 # URLS
