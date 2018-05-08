@@ -6,7 +6,6 @@ cover_image_by: Igor Ovsyannykov
 cover_image_link: https://unsplash.com/photos/VkFhaQHVcE4
 tags: best practice, current standard, 2017
 github: https://github.com/tdwg/vocab/tree/master/vms
-page_order: 24
 ---
 
 ...

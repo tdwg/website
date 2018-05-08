@@ -6,7 +6,6 @@ cover_image_by: Mikhail Vasilyev
 cover_image_link: https://unsplash.com/photos/gGC63oug3iY
 tags: technical specification, current standard, 2013
 github: https://github.com/tdwg/ac
-page_order: 23
 ---
 
 ...
