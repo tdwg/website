@@ -4,8 +4,8 @@ summary: TDWG 2007 Annual Conference - Bratislava, Slovakia
 cover_image: https://c1.staticflickr.com/5/4221/34905067980_17cccf9b06_b.jpg
 cover_image_by: Francisco Anzola
 cover_image_link: https://www.flickr.com/photos/fran001/34905067980
-tags: 
-page_order: 7
+tags: conference
+page_order: 43
 ---
 
 Host

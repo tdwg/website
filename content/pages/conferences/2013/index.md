@@ -4,8 +4,8 @@ summary: TDWG 2013 Annual Conference - Florence, Italy
 cover_image: https://c1.staticflickr.com/9/8288/29260207730_a25aa0bc3d_b.jpg
 cover_image_by: Mariano Mantel
 cover_image_link: https://www.flickr.com/photos/mariano-mantel/29260207730
-tags: 
-page_order: 13
+tags: conference
+page_order: 37
 ---
 
 Host
