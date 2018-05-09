@@ -6,7 +6,6 @@ cover_image_by: Drriss & Marrionn
 cover_image_link: https://www.flickr.com/photos/drriss/9248091524
 tags: prior standard, 1987
 github: https://github.com/tdwg/prior-standards/tree/master/itf2
-page_order: 4
 ---
 
 ...

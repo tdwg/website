@@ -4,8 +4,8 @@ summary: List of TDWG Annual Conferences before 2006. No archived content is ava
 cover_image: https://images.unsplash.com/photo-1519750157634-b6d493a0f77c
 cover_image_by: Andrei Stratu
 cover_image_link: https://unsplash.com/photos/kcJsQ3PJrYU
-tags: 
-page_order: 1
+tags: conference
+page_order: 45
 ---
 
 Year | Location | Host

@@ -6,7 +6,6 @@ cover_image_by: Natural History Museum: Coleoptera Section
 cover_image_link: https://www.flickr.com/photos/nhm_beetle_id/41611348922/
 tags: technical specification, 2005 standard, 2005
 github: https://github.com/tdwg/abcd
-page_order: 19
 ---
 
 ...

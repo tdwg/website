@@ -1,0 +1,64 @@
+language: python
+matrix:
+  include:
+    - python: 2.7
+      env: TOX_ENV=flake8
+
+    - python: 2.7
+      env: TOX_ENV=py27-pelican34
+    - python: 2.7
+      env: TOX_ENV=py27-pelican35
+    - python: 2.7
+      env: TOX_ENV=py27-pelican36
+    - python: 2.7
+      env: TOX_ENV=py27-pelican37
+    - python: 2.7
+      env: TOX_ENV=py27-pelicandev
+
+#    - python: 3.3
+#      env: TOX_ENV=py33-pelican34
+#    - python: 3.3
+#      env: TOX_ENV=py33-pelican35
+#    - python: 3.3
+#      env: TOX_ENV=py33-pelican36
+#    - python: 3.3
+#      env: TOX_ENV=py33-pelican37
+#    - python: 3.3
+#      env: TOX_ENV=py33-pelicandev
+
+#    - python: 3.4
+#      env: TOX_ENV=py34-pelican34
+#    - python: 3.4
+#      env: TOX_ENV=py34-pelican35
+#    - python: 3.4
+#      env: TOX_ENV=py34-pelican36
+#    - python: 3.4
+#      env: TOX_ENV=py34-pelican37
+#    - python: 3.4
+#      env: TOX_ENV=py34-pelicandev
+
+    - python: 3.5
+      env: TOX_ENV=py35-pelican34
+    - python: 3.5
+      env: TOX_ENV=py35-pelican35
+    - python: 3.5
+      env: TOX_ENV=py35-pelican36
+    - python: 3.5
+      env: TOX_ENV=py35-pelican37
+    - python: 3.5
+      env: TOX_ENV=py35-pelicandev
+
+    - python: 3.6
+      env: TOX_ENV=py36-pelican34
+    - python: 3.6
+      env: TOX_ENV=py36-pelican35
+    - python: 3.6
+      env: TOX_ENV=py36-pelican36
+    - python: 3.6
+      env: TOX_ENV=py36-pelican37
+    - python: 3.6
+      env: TOX_ENV=py36-pelicandev
+
+install:
+  - pip install tox==2.5.0
+script: tox -e $TOX_ENV

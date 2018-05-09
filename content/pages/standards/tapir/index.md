@@ -6,7 +6,6 @@ cover_image_by: Biodiversity Heritage Library
 cover_image_link: https://www.flickr.com/photos/biodivlibrary/6263150201
 tags: technical specification, current standard, 2009
 github: https://github.com/tdwg/tapir
-page_order: 20
 ---
 
 ...
