@@ -6,6 +6,7 @@ cover_image_by:
 cover_image_link: 
 tags: 
 page_order: 4
+toc_headers: ^h[2-3]
 ---
 
 _Copied from <https://github.com/tdwg/constitution/blob/master/constitution.md>_
