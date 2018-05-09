@@ -31,14 +31,15 @@ CACHE_CONTENT = False
 
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
-    "pelican-page-order",       # Allows to set a custom page_order
-    "pelican-page-hierarchy",   # Allows parent/child page relationships + URLs
-    "tipue_search",             # Javascript site search
-    "summary",                  # Adds has_summary attribute to check for explicit summary
-    "pelican-bootstrapify",     # Allows to set bootstrap classes to content
-    "pelican-toc",              # Allows to renders table of content for articles/pages
-    "pelican-github-edit",      # Allows to add a link to edit article/page on GitHub
-    "pelican-cover-image"      
+    "pelican-page-order",       # To add "page_order" attribute to pages if one is not defined
+    "pelican-page-hierarchy",   # To create URL hierarchy for pages matching directory structure
+    "pelican-toc",              # To assign ids to headers in pages/articles and render a 
+                                # table of content
+    "pelican-bootstrapify",     # To add Bootstrap classes to page/article content
+    "pelican-github-edit",      # To add a link to edit pages/articles on GitHub
+    "pelican-cover-image",      # To add cover image URL to pages/articles
+    "tipue_search",             # To enable Javascript site search
+    "summary"                   # To only display non-generated summaries as lead paragraph
 ]
 
 
