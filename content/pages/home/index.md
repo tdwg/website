@@ -8,7 +8,7 @@ tags: dwc, wgsrpd, ac
 status: hidden
 url: index.html
 save_as: index.html
-template: home
+template: page_home
 alert_title: TDWG 2018
 alert_text: Subscriptions to the TDWG 2018 Annual Conference are now open.
 alert_button: Register now

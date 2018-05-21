@@ -5,7 +5,7 @@ cover_image: https://c1.staticflickr.com/1/284/31522561236_74d03cb0a5_b.jpg
 cover_image_by: Denisse Vargas
 cover_image_link: https://www.flickr.com/photos/145649587@N03/31522561236/in/pool-tdwg16/
 tags: Conference
-template: page_index
+template: page_tagged_pages
 page_order: 4
 ---
 
