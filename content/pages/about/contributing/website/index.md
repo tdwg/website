@@ -39,7 +39,7 @@ Want to solve the issue yourself instead? See [how to edit content](#how-do-i-ed
 1. From the page you want to change, click `Edit this page` or `Edit this article`. That will take you to the corresponding Markdown document for that page. Alternatively, you can [browse this repository](https://github.com/tdwg/website/tree/master/content) for the page you are looking for.
 2. Click the pencil button on the top right to edit the page. You need to be logged-in to GitHub to do this.
 
-    ![Edit button on GitHub](images/edit-button-github.png)
+    ![Edit button on GitHub]({filename}edit-button-github.png)
 
     Note: behind the scenes, this will fork the website repository to your account, so you can make suggestions.
 
