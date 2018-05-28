@@ -9,13 +9,13 @@ The TDWG website is a collaborative effort: anyone can contribute! This document
 
 ## How can I contribute?
 
-Any help in keeping the TDWG website up to date and relevant is helpful. You can contribute by [reporting an issue](#how-do-i-report-an-issue), [writing content](#how-do-i-edit-content) or [reviewing]().
+Any help in keeping the TDWG website up to date and relevant is helpful. You can contribute by [reporting an issue](#how-do-i-report-an-issue), [writing content](#how-do-i-edit-content) or [reviewing](#how-can-i-review-content).
 
 ## How do I report an issue?
 
 Discovered a typo? Noticed a bug? Have a suggestion to improve a page?
 
-1. Let us know by [creating an issue in this repository](https://github.com/tdwg/website/issues/new). You need to be logged-in to GitHub to do this.
+1. Let us know by [creating an issue](https://github.com/tdwg/website/issues/new) in this repository. You need to be logged-in to GitHub to do this.
 2. Add a title and describe the issue. Example:
 
     > BDQ page missing "Becoming involved" section
@@ -51,9 +51,9 @@ Want to solve the issue yourself instead? See [how to edit content](#how-do-i-ed
     > The biodiversity data quality page was missing a section on how people could become involved in that interest group. I also updated a broken link.
 
 6. Click the green buttons `Propose file change`, then `Create pull request` and then `Create pull request` again.
-7. Great! Your proposed changes are now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your changes have been accepted.
+7. Great! Your proposed changes are now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your suggestions have been accepted.
 
-Want to make more substantial changes instead? See [how to edit multiple pages at once](#how-to-edit-multiple-pages-at-once).
+Want to make more substantial changes instead? See [how to edit multiple pages at once](#how-do-i-edit-multiple-pages-at-once).
 
 ## How do I edit multiple pages at once?
 
@@ -67,6 +67,31 @@ If you want to edit multiple pages, then the workflow to [propose a single file 
 
 Note: once you've created your fork, it's best to wait too much on proposing changes. To get your fork up to date with the main repository, [sync your fork](https://help.github.com/articles/syncing-a-fork/).
 
-- Publication workflow
-  - Editorial review
-  - Build process
+## Why are my suggestions not appearing on www.tdwg.org?
+
+[Suggestions](#how-do-i-edit-content) you make do not appear live on www.tdwg.org. This takes three steps:
+
+1. They need to be **reviewed** ([by anyone](#how-do-i-review-content)). This is done on a voluntary basis and can take some time. You will receive an email notification for this.
+2. They need to be **approved** by one of the [website maintainers](#who-maintains-the-website). You will receive an email notification for this.
+3. Once accepted (i.e. the pull request is merged), an **automatic build script** will rebuild the website and incorporate your changes. This can take up to a minute.
+
+If your suggestions are rejected (i.e. the pull request is closed without merging), you will also receive an email notification, but step 3 will be skipped (i.e. the website will not be updated).
+
+## How can I review content?
+
+You can review content by [watching this repository](https://help.github.com/articles/watching-and-unwatching-repositories/#watching-a-single-repository):
+
+1. Click the `Watch` button in the top right of this repository, then select `Watching`.
+2. You will be notified by email of any reported issue or suggested changes.
+3. From those emails, click `view it on GitHub` at the bottom to open the issue or pull request.
+4. Review the issue or suggested change and leave feedback as a comment.
+5. Great! Your review helps website maintainers to approve/refuse suggestions and improves the quality of the website.
+
+If you also want to approve suggestions, you can [ask to become a website maintainer](#who-maintains-the-website)?
+
+## Who maintains the website?
+
+Everyone! See [how you can contribute](#how-can-i-contribute) and [who has contributed already](https://github.com/tdwg/website/graphs/contributors).
+
+There is a dedicated group of **website maintainers** however that have admin rights to this repository: they are the people who can [approve changes](#why-are-my-suggestions-not-appearing-on-wwwtdwgorg) and have these appear on www.tdwg.org. If you want to join that group, send an email to secretary@tdwg.org.
+
