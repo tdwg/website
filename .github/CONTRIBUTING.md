@@ -1,4 +1,3 @@
-# Contributing FAQ
+# Contributing guide
 
-The TDWG website is a collaborative effort: anyone can contribute! This document explains how.
-
+See the [contributing FAQ on the website](https://dev.tdwg.org/about/contributing/website).
