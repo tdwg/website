@@ -1,9 +1,9 @@
 ---
 title: Technical Architecture Group
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_link: 
+cover_image: https://images.unsplash.com/photo-1503387837-b154d5074bd2
+cover_image_by: Daniel McCullough
+cover_image_link: https://unsplash.com/photos/-FPFq_trr2Y
 tags: functional subcommittee
 ---
 

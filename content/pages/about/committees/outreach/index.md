@@ -1,9 +1,9 @@
 ---
 title: Outreach and communications
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_link: 
+cover_image: https://images.unsplash.com/photo-1471469678089-67f27c6ca4f4
+cover_image_by: Kawtar Cherkaoui
+cover_image_link: https://unsplash.com/photos/1Q1P_XpWylY
 tags: functional subcommittee
 ---
 

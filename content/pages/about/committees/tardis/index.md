@@ -1,9 +1,9 @@
 ---
 title: Time and place
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_link: 
+cover_image: https://images.unsplash.com/photo-1519452575417-564c1401ecc0
+cover_image_by: Nathan Dumlao
+cover_image_link: https://unsplash.com/photos/ewGMqs2tmJI
 tags: functional subcommittee
 ---
 
