@@ -141,7 +141,7 @@ We use [Oxford spelling](https://en.wikipedia.org/wiki/Oxford_spelling) (British
 
 [Suggestions](#how-do-i-edit-content) you make do not appear live on www.tdwg.org. This takes three steps:
 
-1. They need to be **reviewed** ([by anyone](#how-do-i-review-content)). This is done on a voluntary basis and can take some time. You will receive an email notification for this.
+1. They need to be **reviewed** ([by anyone](#how-can-i-review-content)). This is done on a voluntary basis and can take some time. You will receive an email notification for this.
 2. They need to be **approved** by one of the [website maintainers](#who-maintains-the-website). You will receive an email notification for this.
 3. Once accepted (i.e. the pull request is merged), an **automatic build script** will rebuild the website and incorporate your changes. This can take up to a minute.
 
