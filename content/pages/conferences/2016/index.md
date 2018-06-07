@@ -3,7 +3,7 @@ title: 2016 - Santa Clara de San Carlos, Costa Rica
 summary: TDWG 2016 Annual Conference - Santa Clara de San Carlos, Costa Rica
 cover_image: https://c1.staticflickr.com/1/489/30668600364_4695fef168_b.jpg
 cover_image_by: Denisse Vargas
-cover_image_link: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/
+cover_image_ref: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/
 tags: conference
 page_order: 34
 ---

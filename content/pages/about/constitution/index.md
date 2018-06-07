@@ -3,7 +3,7 @@ title: Constitution
 summary: 
 cover_image: https://images.unsplash.com/photo-1458067380247-41000a5397cb
 cover_image_by: https://unsplash.com/photos/n2ILm0aTCYo
-cover_image_link: Hannes Wolf
+cover_image_ref: Hannes Wolf
 tags: 
 page_order: 4
 toc_headers: ^h[2-3]

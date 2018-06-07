@@ -3,7 +3,7 @@ title: A test news item
 date: 2012-01-01
 cover_image: 
 cover_image_by: 
-cover_image_link: 
+cover_image_ref: 
 tags: test-tag
 status: draft
 ---

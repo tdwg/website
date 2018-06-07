@@ -3,7 +3,7 @@ title: 2006 - St. Louis, Missouri, USA
 summary: TDWG 2006 Annual Conference - St. Louis, Missouri, USA
 cover_image: https://c2.staticflickr.com/4/3922/15120967236_5ba02f4512_b.jpg
 cover_image_by: Rebecca Suchland
-cover_image_link: https://www.flickr.com/photos/tokapa/15120967236
+cover_image_ref: https://www.flickr.com/photos/tokapa/15120967236
 tags: conference
 page_order: 44
 ---

@@ -3,7 +3,7 @@ title: Final TDWG 2016 Program
 date: 2016-12-01
 cover_image: 
 cover_image_by: 
-cover_image_link: 
+cover_image_ref: 
 tags: conference
 ---
 

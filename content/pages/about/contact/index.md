@@ -3,7 +3,7 @@ title: Contact
 summary: 
 cover_image: https://images.unsplash.com/photo-1472161280498-fa05daa7967b
 cover_image_by: Clem Onojeghuo
-cover_image_link: https://unsplash.com/photos/HYNOp2CUcbY
+cover_image_ref: https://unsplash.com/photos/HYNOp2CUcbY
 tags: 
 page_order: 6
 ---

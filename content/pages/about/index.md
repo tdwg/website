@@ -3,7 +3,7 @@ title: About
 summary: 
 cover_image: https://images.unsplash.com/photo-1509715513011-e394f0cb20c4
 cover_image_by: Alex Guillaume
-cover_image_link: https://unsplash.com/photos/16oqzpFRMqs
+cover_image_ref: https://unsplash.com/photos/16oqzpFRMqs
 tags: 
 page_order: 5
 ---
