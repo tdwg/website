@@ -39,7 +39,8 @@ PLUGINS = [
     "pelican-github-edit",      # To add a link to edit pages/articles on GitHub
     "pelican-cover-image",      # To add cover image URL to pages/articles
     "tipue_search",             # To enable Javascript site search
-    "summary"                   # To only display non-generated summaries as lead paragraph
+    "summary",                  # To only display non-generated summaries as lead paragraph
+    "m.htmlsanity"              # To support internal links in page/article metadata
 ]
 
 
