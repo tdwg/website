@@ -5,11 +5,11 @@ cover_image: https://c1.staticflickr.com/1/284/31522561236_74d03cb0a5_b.jpg
 cover_image_by: Denisse Vargas
 cover_image_ref: https://www.flickr.com/photos/145649587@N03/31522561236/in/pool-tdwg16/
 tags: 
-tag_sections: Conference
-template: page_tag_sections
 page_order: 4
 ---
 
 ## Interested in hosting a meeting?
 
 Get in touch with the [time and place subcommittee]({filename}/pages/about/committees/tardis/index.md).
+
+## Conferences
