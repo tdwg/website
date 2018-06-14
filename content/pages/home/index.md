@@ -15,9 +15,9 @@ alert_button: Register now
 alert_link: http://spnhc-tdwg2018.nz/
 alert_image: https://images.unsplash.com/photo-1508068235022-85a3716679b7
 newsletter_title: Keep up to date with TDWG
-newsletter_text: Sign up to our newsletter and receive all important TDWG announcements.
-newsletter_button: Subscribe to our newsletter
-newsletter_link: http://lists.tdwg.org/mailman/listinfo/tdwg
+newsletter_text: Sign up to receive all important TDWG announcements.
+newsletter_button: Subscribe to our Announcements List
+newsletter_link: http://eepurl.com/8VIvn
 call1_text: Discover our open-access journal
 call1_button: Biodiversity Information Science and Standards (BISS)
 call1_link: https://biss.pensoft.net/
