@@ -4,8 +4,9 @@ summary: The TDWG community is organized in **Interest Groups** (listed below). 
 cover_image: https://c1.staticflickr.com/1/375/30751387213_3015d98ec2_b.jpg
 cover_image_by: Denisse Vargas
 cover_image_ref: https://www.flickr.com/photos/145649587@N03/30751387213/in/pool-tdwg16/
-tags: Interest group, Task group
-template: page_tagged_pages
+tags: 
+tag_sections: Interest group, Task group
+template: page_tag_sections
 page_order: 3
 ---
 

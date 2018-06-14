@@ -4,8 +4,9 @@ summary: The next TDWG Annual Conference will be held jointly with the Society f
 cover_image: https://c1.staticflickr.com/1/284/31522561236_74d03cb0a5_b.jpg
 cover_image_by: Denisse Vargas
 cover_image_ref: https://www.flickr.com/photos/145649587@N03/31522561236/in/pool-tdwg16/
-tags: Conference
-template: page_tagged_pages
+tags: 
+tag_sections: Conference
+template: page_tag_sections
 page_order: 4
 ---
 
