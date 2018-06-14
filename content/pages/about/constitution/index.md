@@ -1,6 +1,6 @@
 ---
 title: Constitution
-summary: 
+summary: This page is a copy of the TDWG constitution, which is officially maintained in a [separate repository](https://github.com/tdwg/constitution).
 cover_image: https://images.unsplash.com/photo-1458067380247-41000a5397cb
 cover_image_by: https://unsplash.com/photos/n2ILm0aTCYo
 cover_image_ref: Hannes Wolf
@@ -8,8 +8,6 @@ tags:
 page_order: 4
 toc_headers: ^h[2-3]
 ---
-
-_Copied from <https://github.com/tdwg/constitution/blob/master/constitution.md>_
 
 ## Article 1. Name and Purpose
 
