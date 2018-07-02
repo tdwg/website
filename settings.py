@@ -19,8 +19,8 @@ from __future__ import unicode_literals
 
 PATH = "content"
 PAGE_PATHS = ["pages"]
-STATIC_PATHS = ["static", "pages"]
 ARTICLE_PATHS = ["articles"]
+STATIC_PATHS = ["pages", "articles"]
 OUTPUT_PATH = "output"
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = []
@@ -88,6 +88,8 @@ DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458
 
 SITEURL = ""
 SLUGIFY_SOURCE = "title" # IGNORE_PAGE_SLUG will ignore this and make {slug} = path/to/page
+STATIC_URL = "static/{path}"
+STATIC_SAVE_AS = "static/{path}"
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 ARTICLE_URL = "news/{date:%Y}/{slug}/"
@@ -167,8 +169,8 @@ MENUITEMS = [ # Links in footer. Format: title, SITEURL/path
 # THEME SETTINGS
 
 # The website uses a dedicated tdwg-theme (https://github.com/tdwg/tdwg-theme)
-# Technically, it could be build with other themes, but won't look as good. Only the homepage 
-# requires the non-default "home.html" template.
+# Technically, it could be build with other themes, but it won't look as good and pages with 
+# "template" in their metadata will cause an error, as these require dedicated tdwg-theme templates.
 
 THEME = "../tdwg-theme"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
