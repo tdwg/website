@@ -3,7 +3,7 @@ title: Contributing to the TDWG website
 summary: The TDWG website is a collaborative effort: anyone can contribute! Whether it is [reporting an issue](#how-do-i-report-an-issue), [writing content](#how-do-i-edit-content) or [reviewing](#how-can-i-review-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
 cover_image: https://images.unsplash.com/photo-1508780709619-79562169bc64
 cover_image_by: Kaitlyn Baker
-cover_image_link: https://unsplash.com/photos/vZJdYl5JVXY
+cover_image_ref: https://unsplash.com/photos/vZJdYl5JVXY
 tags: 
 toc_headers: ^h[2-3]
 ---
@@ -14,25 +14,7 @@ Discovered a typo? Noticed a bug? Have a suggestion to improve a page? Let us kn
 
 ### How do I report an issue?
 
-1. Go to the issues section of the website repository at <https://github.com/tdwg/website/issues>.
-2. Make sure you are logged-in to GitHub.
-3. Click the green button `New` or use [this direct link](https://github.com/tdwg/website/issues/new).
-4. Add a title and describe the issue, e.g.:
-
-    > BDQ page missing "Becoming involved" section
-    > 
-    > ---
-    > 
-    > **Page(s) where issue occurs**
-    > 
-    > <https://www.tdwg.org/community/bdq/>
-    > 
-    > **Issue description**
-    > 
-    > The biodiversity data quality page does not have a section on how people could be involved, which limits contributions to this group. Other interest group pages might also miss this section, but I didn't check for those.
-
-5. Click the green button ` Submit new issue`.
-6. Great! Your issue report has been logged and the website maintainers have been notified. You will receive an email notification if they have questions or if the issue has been resolved.
+[Click here](https://github.com/tdwg/website/issues/new) to report an issue on GitHub. Doing so will automatically notify website maintainers and you will receive an email notification if they have questions or if the issue has been resolved.
 
 Want to solve the issue yourself instead? See [how to edit content](#how-do-i-edit-content).
 
@@ -40,11 +22,11 @@ Want to solve the issue yourself instead? See [how to edit content](#how-do-i-ed
 
 ### How do I edit content?
 
-1. From the page you want to change, click `Edit this page` or `Edit this article` in the top right (note: this page has this too!).
-2. That will take you to the corresponding Markdown document for that page. Alternatively, you can [browse the website repository](https://github.com/tdwg/website/tree/master/content) for the page you are looking for.
+1. Click `Edit this page` at the top right of the page you want to change. Note: this page has this too!
+2. Doing so will open the corresponding Markdown document for that page. Alternatively, you can [browse the website repository](https://github.com/tdwg/website/tree/master/content) for the page you are looking for.
 3. Click the pencil button on the top right to edit the page. You need to be logged-in to GitHub to do this.
 
-    ![Edit button on GitHub]({filename}edit-button-github.png)
+    ![Edit button on GitHub]({filename}edit-page-button.png)
 
     Note: behind the scenes, this will fork the website repository to your account, so you can make suggestions.
 
@@ -59,7 +41,7 @@ Want to solve the issue yourself instead? See [how to edit content](#how-do-i-ed
     > The biodiversity data quality page was missing a section on how people could become involved in that interest group. I also updated a broken link.
 
 7. Click the green buttons `Propose file change`, then `Create pull request` and then `Create pull request` again.
-8. Great! Your proposed changes are now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your suggestions have been accepted.
+8. Great! Your **proposed changes** are now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your suggestions have been accepted.
 
 Want to make more substantial changes instead? See [how to edit multiple pages at once](#how-do-i-edit-multiple-pages-at-once).
 
@@ -75,31 +57,86 @@ If you want to edit multiple pages, then the workflow to [propose a single file 
 
 Note: it's best not to let your work linger in your fork, as it will get out of sync with the main repository. To get your fork up to date again, [sync your fork](https://help.github.com/articles/syncing-a-fork/).
 
-### Do I need to login to see the "Edit this page" link?
+### Do I need to login to edit content?
 
-No, there is no logged-in section for this website. The link will appear for any visitor, at the top right of any page and article:
+No, there is no logged-in section for this website. Anyone can suggest changes by clicking `Edit this page` at the top right of a page:
 
-![Edit this page]({filename}edit-this-page-link.png)
+![Edit this page link]({filename}edit-page-link.png)
 
-For articles it will say `Edit this article`. The link will take you to [GitHub](https://github.com/tdwg/website), where all authentication is handled.
+For articles it will say `Edit this article`. The link will take you to [GitHub](https://github.com/tdwg/website) where the authentication and review process is handled.
 
-Note: a couple of pages - like [search](/search.html) or the [news index](/news/) - are generated. The `edit this page` link will not appear on those, as there is nothing to edit manually.
+Note: a couple of pages - like [search](/search.html) or the [news index](/news/) - are generated. The `Edit this page` link will not appear on those, as there is nothing to edit manually.
 
-### Should I use American or British English?
+### How is content organized?
 
-We use [Oxford spelling](https://en.wikipedia.org/wiki/Oxford_spelling) (British English with "-ize") for all TDWG content.
+Content is organized in a [hierarchical directory structure](https://github.com/tdwg/website/tree/master/content/), which represent the different sections of the website:
 
-### What is page metadata?
+```
+content
+├── pages
+│   ├── about       : About pages
+│   ├── community   : Interest group and their task group pages
+│   ├── conferences : Conference pages
+│   ├── home        : Home page
+│   ├── journal     : Journal page
+│   └── standards   : Standard pages
+│
+└── articles
+    ├── 2018        : News articles for 2018
+    └── ...         : Another year directory
+```
 
-...
+Each page/article is a self-contained directory with:
+
+- A single **Markdown document** `index.md` with the text and metadata for that page
+- Optionally **static files** (images, pdfs) referenced from the text
+- Optionally **directories** for subpages
+
+```
+bdq          : Directory for the bdq page
+├── index.md : Text and metadata for the bdq page
+├── info.pdf : Pdf referenced in text
+├── logo.jpg : Image referenced in text
+└── vocab    : Directory for the vocab subpage
+```
+
+Directory names should be short, lowercase and hyphen-separated (e.g. `citizen-science`) as together with the hierarchy they make up the URL: `content/pages/community/citizen-science/index.md` → `https://www.tdwg.org/community/citizen-science/`
 
 ### What is the difference between a page and an article?
 
-...
+An article has a publication date, while a page has not. The use of articles is reserved for the [news section](/news/) of this website.
 
 ### How do I start a new page?
 
-...
+Before starting a new page, consult with the website maintainers if and where the page should be created by [opening an issue](#how-do-i-report-an-issue). The steps below describe how to create a page after this has been discussed.
+
+1. Browse the [website repository](https://github.com/tdwg/website/tree/master/content/pages) to the place where you want to create the page. See [how content is organized](#how-is-content-organized).
+2. Click `Create new file`. You need to be logged-in to GitHub to do this.
+
+    ![Create button on GitHub]({filename}create-page-button.png)
+
+3. Name your file `page-name/index.md`. File names should be short, lowercase and hyphen-separated.
+
+    ![Name file]({filename}create-page-name.png)
+
+4. Copy and adapt the following content:
+
+        ---
+        title: Page title
+        summary: Page summary
+        cover_image: 
+        cover_image_by: 
+        cover_image_ref: 
+        tags: 
+        ---
+
+        Page content
+
+
+5. End your page with an empty line.
+6. At the bottom of the page, write a short description of what you changed.
+7. Click the green buttons `Propose new file`, then `Create pull request` and then `Create pull request` again.
+8. Great! Your **proposed page** is now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your suggestions have been accepted.
 
 ### How do I start a new news article?
 
@@ -112,6 +149,14 @@ We use [Oxford spelling](https://en.wikipedia.org/wiki/Oxford_spelling) (British
 ### How do add an internal link?
 
 ...
+
+### What is page metadata?
+
+...
+
+### Should I use American or British English?
+
+We use [Oxford spelling](https://en.wikipedia.org/wiki/Oxford_spelling) (British English with "-ize") for all TDWG content.
 
 ## Changing layout
 
