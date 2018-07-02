@@ -1,5 +1,6 @@
 ---
 title: Final TDWG 2016 Program
+slug: tdwg-2016-programme
 date: 2016-12-01
 cover_image: 
 cover_image_by: 

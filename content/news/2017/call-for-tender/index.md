@@ -1,7 +1,7 @@
 ---
 title: Call for Tender: Website Development
-date: 2017-06-04 04:19
 slug: call-for-tender
+date: 2017-06-04 04:19
 summary: TDWG seek a contract with a motivated and experienced web developer to revise the **TDWG.org** website.
 cover_image: https://images.unsplash.com/photo-1454165205744-3b78555e5572
 cover_image_by: Sai Kiran Anagani

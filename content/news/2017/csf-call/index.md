@@ -1,5 +1,6 @@
 ---
 title: TDWG Community Support Fund - Call for Proposals 2017
+slug: csf-call
 date: 2017-02-06 03:25
 cover_image: 
 cover_image_by: 
