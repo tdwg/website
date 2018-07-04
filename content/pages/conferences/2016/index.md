@@ -19,7 +19,7 @@ Date
 : 5-9 December 2016
 
 Proceedings
-: `link coming`
+: [List of contributions linked to abstracts](https://mbgocs.mobot.org/index.php/tdwg/tdwg2016/schedConf/presentations)
 
 Programme
 : [TDWG 2016 Programme](https://static.tdwg.org/conferences/2016/tdwg_2016_programme.pdf)
