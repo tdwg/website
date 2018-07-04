@@ -18,13 +18,13 @@ Date
 : 28 September - 1 October 2015
 
 Proceedings
-: `link coming`
+: [list of contributions linked to abstracts](https://mbgocs.mobot.org/index.php/tdwg/2015/schedConf/presentations)
 
 Programme
-: `link coming`
+: [TDWG 2015 Programme](https://static.tdwg.org/conferences/2015/tdwg_2015_programme.pdf)
 
 Presentations
-: `link coming`
+: see Recordings
 
 Recordings
 : hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2015_Annual_Conference)
