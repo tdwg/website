@@ -25,7 +25,7 @@ Programme
 : [TDWG 2016 Programme](https://static.tdwg.org/conferences/2016/tdwg_2016_programme.pdf)
 
 Presentations
-: `link coming`
+: 37 [presentations on Vimeo](https://vimeo.com/album/4308386) as individual videos
 
 Recordings
 : hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2016_Annual_Conference)
