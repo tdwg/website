@@ -29,3 +29,10 @@ Presentations
 
 Recordings
 : hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2016_Annual_Conference)
+
+## Original Conference Website Pages
+- [Main Conference Page](https://static.tdwg.org/conferences/2016/tdwg_2016_conference_page.pdf)
+- [About the Conference](https://static.tdwg.org/conferences/2016/tdwg_2016_about_the_conference.pdf)
+- [Travel](https://static.tdwg.org/conferences/2016/tdwg_2016_travel_information.pdf)
+- [Hotels](https://static.tdwg.org/conferences/2016/tdwg_2016_hotels.pdf)
+- [Excursions](https://static.tdwg.org/conferences/2016/tdwg_2016_excursions.pdf)
