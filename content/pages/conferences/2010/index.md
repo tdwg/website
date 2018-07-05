@@ -18,13 +18,13 @@ Date
 : 27 September - 1 October 2010
 
 Proceedings
-: `link coming`
+: [TDWG 2010 Proceedings](https://static.tdwg.org/conferences/2010/tdwg_2010_pre-proceedings.pdf) (provisional) as single PDF
 
 Programme
-: `link coming`
+: [TDWG 2010 Programme](https://static.tdwg.org/conferences/2010/tdwg_2010_programme.pdf)
 
 Presentations
-: `link coming`
+: [list of presentations by author last name](https://static.tdwg.org/conferences/2010/presentations/)
 
 Recordings
-: not available
+: unavailable
