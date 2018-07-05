@@ -19,13 +19,13 @@ Date
 : 9-13 November 2009
 
 Proceedings
-: `link coming`
+: [TDWG 2009 Proceedings](https://static.tdwg.org/conferences/2009/tdwg_2009_pre-proceedings.pdf) (provisional) as single PDF
 
 Programme
-: `link coming`
+: [TDWG 2009 Programme](https://static.tdwg.org/conferences/2009/tdwg_2009_programme.pdf)
 
 Presentations
-: `link coming`
+: [presentation files](https://static.tdwg.org/conferences/2009/presentations/) by author name
 
 Recordings
 : not available
