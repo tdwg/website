@@ -18,13 +18,13 @@ Date
 : 17-21 September 2007
 
 Proceedings
-: `link coming`
+: [TDWG 2007 Proceedings](https://static.tdwg.org/conferences/2007/tdwg_2007_proceedings.pdf), all abstracts as single PDF
 
 Programme
-: `link coming`
+: [TDWG 2007 Programme](https://static.tdwg.org/conferences/2007/tdwg_2007_programme.pdf)
 
 Presentations
-: not available
+: unavailable
 
 Recordings
-: not available
+: unavailable
