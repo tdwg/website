@@ -18,13 +18,13 @@ Date
 : 28 October - 1 November 2013
 
 Proceedings
-: `link coming`
+: [list of contributions with links to abstracts](https://mbgocs.mobot.org/index.php/tdwg/2013/schedConf/presentations)
 
 Programme
-: `link coming`
+: [TDWG 2013 Programme](https://static.tdwg.org/conferences/2013/tdwg_2013_programme.pdf)
 
 Presentations
-: `link coming`
+: [presentations](https://static.tdwg.org/conferences/2013/presentations/), hosted by iDigBio
 
 Recordings
 : not available
