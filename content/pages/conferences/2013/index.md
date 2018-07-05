@@ -24,7 +24,7 @@ Programme
 : [TDWG 2013 Programme](https://static.tdwg.org/conferences/2013/tdwg_2013_programme.pdf)
 
 Presentations
-: [presentations](https://static.tdwg.org/conferences/2013/presentations/), hosted by iDigBio
+: see Recordings
 
 Recordings
-: not available
+: [hosted by iDigBio](https://static.tdwg.org/conferences/2013/presentations/)
