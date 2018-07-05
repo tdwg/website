@@ -18,13 +18,13 @@ Date
 : 22-26 October 2012
 
 Proceedings
-: `link coming`
+: [list of contributions with links to abstracts](https://mbgocs.mobot.org/index.php/tdwg/2012/schedConf/presentations)
 
 Programme
-: `link coming`
+: [TDWG 2012 Programme](https://static.tdwg.org/conferences/2012/tdwg_2012_programme.pdf)
 
 Presentations
-: `link coming`
+: not available
 
 Recordings
 : not available
