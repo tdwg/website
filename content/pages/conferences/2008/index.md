@@ -18,13 +18,13 @@ Date
 : 20-24 October 2008
 
 Proceedings
-: `link coming`
+: [TDWG 2008 Proceedings](https://static.tdwg.org/conferences/2008/tdwg_2008_proceedings.pdf) all abstracts as single PDF
 
 Programme
-: `link coming`
+: [TDWG 2008 Programme](https://static.tdwg.org/conferences/2008/tdwg_2008_programme.pdf)
 
 Presentations
-: `link coming`
+: [presentation files](https://static.tdwg.org/conferences/2008/presentations/) by author name
 
 Recordings
-: `link coming`
+: see shockwave files (\*.swf) among presentations
