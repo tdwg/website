@@ -18,13 +18,13 @@ Date
 : 17-21 October 2011
 
 Proceedings
-: `link coming`
+: [list of contributions linked to abstracts](https://mbgocs.mobot.org/index.php/tdwg/2011/schedConf/presentations)
 
 Programme
-: `link coming`
+: [TDWG 2011 Programme](https://static.tdwg.org/conferences/2011/tdwg_2011_programme.pdf)
 
 Presentations
-: `link coming`
+: [list of presentations by author last name](https://static.tdwg.org/conferences/2011/presentations/)
 
 Recordings
 : not available
