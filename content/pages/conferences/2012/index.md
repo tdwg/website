@@ -24,7 +24,7 @@ Programme
 : [TDWG 2012 Programme](https://static.tdwg.org/conferences/2012/tdwg_2012_programme.pdf)
 
 Presentations
-: not available
+: [list of presentations](https://static.tdwg.org/conferences/2012/presentations/) (names not standardized; links not stable)
 
 Recordings
 : not available
