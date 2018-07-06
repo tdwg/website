@@ -25,7 +25,7 @@ Programme
 : [TDWG 2017 programme]({filename}tdwg_2017_programme.pdf)
 
 Presentations
-: `link coming`
+: see Recordings
 
 Recordings
 : hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2017_Annual_Conference)
