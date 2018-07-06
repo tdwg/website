@@ -24,18 +24,18 @@ The Time and Place Functional Subcommittee (FS) mission is to establish a six ye
 
 ## Organization
 
-### Charter 
-
-According to TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organisation. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
-
-### Membership, structure, and quorum
+### Membership and Structure
 
 The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The FS shall contain between 3 and 7 members. The FS may call on external, expert assistance as required.
 
-### Meetings
+### Meetings and Quorum
 
 The FS shall convene by teleconference (e.g. over Skype) at least two times per year. A quorum of any meeting of the FS shall consist of a majority of its current members. 
 
-### Agenda, minutes, and reports
+### Agenda, Minutes, and Reports
 
 The FS chair, in collaboration with the deputy, shall be responsible for establishing the agendas for meetings. An open issue tracking system will be used (e.g. GitHub issues) to ensure transparency of work and for assignment of tasks.
+
+### Charter 
+
+As provided in the Constitution (Art 7), this charter may be revised by the the TDWG Executive Committee to better meet any changes in the needs of the organisation. Changes to the charter must be posted for open consultation and comment by TDWG member for at least 21 days prior to approval.
