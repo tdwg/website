@@ -22,15 +22,15 @@ The Time and Place Functional Subcommittee (FS) mission is to establish a six ye
 
 ## Organization
 
-### Membership and Structure
+### Membership and structure
 
 The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The FS shall contain between 3 and 7 members. The FS may call on external, expert assistance as required.
 
-### Meetings and Quorum
+### Meetings and quorum
 
 The FS shall convene by teleconference (e.g. over Skype) at least two times per year. A quorum of any meeting of the FS shall consist of a majority of its current members. 
 
-### Agenda, Minutes, and Reports
+### Agenda, minutes, and reports
 
 The FS chair, in collaboration with the deputy, shall be responsible for establishing the agendas for meetings. An open issue tracking system will be used (e.g. GitHub issues) to ensure transparency of work and for assignment of tasks.
 
