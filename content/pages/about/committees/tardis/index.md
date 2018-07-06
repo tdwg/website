@@ -7,8 +7,6 @@ cover_image_ref: https://unsplash.com/photos/ewGMqs2tmJI
 tags: functional subcommittee
 ---
 
-_Copied from <https://github.com/tdwg/charters/blob/master/charters/timeandplace.md>_
-
 ## Mission
 
 The Time and Place Functional Subcommittee (FS) mission is to establish a six year rolling plan for the hosting of TDWG meetings, which seeks to expand the influence of TDWG whilst retaining and increasing its core membership base. It is aiming at expanding the TDWG community, maintaining existing community, maintaining functionality of interest and task groups, and taking advantage of funding for hosting opportunities.
