@@ -18,13 +18,13 @@ Date
 : 16-22 October 2006
 
 Proceedings
-: `link coming`
+: [TDWG 2006 Proceedings](https://static.tdwg.org/conferences/2006/tdwg_2006_proceedings.pdf), programme and abstracts as single PDF
 
 Programme
-: `link coming`
+: see Proceedings
 
 Presentations
-: not available
+: unavailable
 
 Recordings
-: not available
+: unavailable
