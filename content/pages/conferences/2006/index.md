@@ -9,7 +9,7 @@ page_order: 44
 ---
 
 Host
-: ?
+: Charles Miller - Missouri Botanical Garden
 
 Venue
 : [Missouri Botanical Garden](http://www.missouribotanicalgarden.org/) in St. Louis, Missouri, USA
