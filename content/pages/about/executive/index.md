@@ -8,8 +8,6 @@ tags:
 page_order: 1
 ---
 
-_Copied from <http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/>_
-
 Elections for the TDWG Executive are held in the 3rd or 4th Quarter of the year. Nominations are opened before the annual meeting, then closed either at the meeting or shortly thereafter. Ballots are distributed to members by email and voting is closed in 30 days. (If the annual conference is scheduled late in the year, some alteration of that schedule has to be altered.) The term of office for all roles is normally two calendar years, with terms staggered such at most half of the Executive Committee  replaced or re-elected in a given year.
 
 [Full election results for the 2017 Executive Committee.](http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/fileadmin/tdwg/about-tdwg/Election_Results_TDWG_Executive_Committee_2017.pdf)
