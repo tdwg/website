@@ -12,8 +12,9 @@ Elections for the TDWG Executive are held in the 3rd or 4th Quarter of the year.
 
 The [Roles and Responsibilities ](http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf)for the Executive Committee and Secretariat are set forth in the Constitution and supplemented by a document written during the [TDWG Infrastructure Project.](http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/activities/tip/)
 
-# Executive Committee 2018
 
+**EXECUTIVE COMMITTEE 2018**
+----
 ## Core Officers
 
 ### Chair
