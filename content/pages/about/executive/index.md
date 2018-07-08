@@ -13,113 +13,100 @@ Elections for the TDWG Executive are held in the 3rd or 4th Quarter of the year.
 The [Roles and Responsibilities ](http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf)for the Executive Committee and Secretariat are set forth in the Constitution and supplemented by a document written during the [TDWG Infrastructure Project.](http://www.tdwg.org/about-tdwg/executive/exec-comm-2017/activities/tip/)
 
 
-**EXECUTIVE COMMITTEE 2018**
+
+
+**2018 EXECUTIVE COMMITTEE**
 ----
+
 ## Core Officers
 
 ### Chair
-
-Dimitris Koureas
+Dimitris Koureas -
 Naturalis Biodiversity Center, Leiden, NETHERLANDS
 [dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)
 
 ### Deputy Chair
-
-James Macklin
+James Macklin -
 Agriculture and Agri-Food Canada,. Ottawa, Ontario, CANADA
 [james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)
 
 ### Secretary
-
-Quentin Groom
+Quentin Groom -
 Botanical Garden Meise, BELGIUM
 [secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)
 
 ### Treasurer
-
-William Ulate
+William Ulate -
 Missouri Botanical Garden. St. Louis, MO, USA
 [treasurer (at) tdwg (dot) org](mailto:treasurer@tdwg.org)
 
 ## Subcommittee Chairs
 
 ### Technical Architecture Group, Chair
-
-Paul Morris
+Paul Morris -
 Museum of Comparative Zoology, Cambrige, MA, USA
 [mole (at) morris (dot) net](mailto:mole@morris.net)
 
 ### Fundraising and Partnerships Subcommittee, Chair
-
-Martin Kalfatovic
+Martin Kalfatovic -
 Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
 [martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)
 
 ### Infrastructure Subcommittee, Chair
-
-Tim Robertson
+Tim Robertson -
 Global Biodiversity Information Facility, Copenhagen, DENMARK
 [trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)
 
 ### Outreach and Communications Subcommittee, Chair
-
-Prabhakar Rajagopal
+Prabhakar Rajagopal -
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
 [prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)
 
 ### Time and Place Subcommittee, Chair
-
-Patricia Mergen
+Patricia Mergen -
 Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
 [mergen.patricia (at) gmail (dot) com](mailto:mergen.patricia@gmail.com)
 
 ## Regional Representatives
 
 ### Africa
-
-Lucy Waruingi
+Lucy Waruingi -
 African Conservation Centre, Nairobi, KENYA
 [lucy (dot) waruingi (at) acc (dot) or (dot) ke](mailto:lucy.waruingi@acc.or.ke)
 
 ### Asia
-
-Ji Liqiang
+Ji Liqiang -
 Institute of Zoology, Chinese Academy of Sciences, CHINA
 [ji (at) ioz (dot) ac (dot) cn](http://ji/%28at%29ioz.ac.cn/)
 
 ### Europe
-
-Wouter Addink
+Wouter Addink -
 Naturalis Leiden, NETHERLANDS
 [wouter (dot) addink (at) naturalis (dot) nl](mailto:wouter.addink@anturalis.nl)
 
 ### Latin America
-
-Bruno de Carvalho Albertini
+Bruno de Carvalho Albertini -
 University of Sao Paulo, BRASIL
 [balbertini (at) gmail (dot) com](mailto:balbertini@gmail.com)
 
 ### North America
-Cynthia Parr
+Cynthia Parr -
 National Agricultural Library, USDA, Beltsville, MD, USA
 [csparr (at) tdwg (dot) org](mailto:csparr@tdwg.org)
 
 ### Oceania
-
-Simon Checksfield
+Simon Checksfield -
 CSIRO, Canberra, AUSTRALIA
 [simon (dot) checksfield (at) csiro (dot) au](mailto:simon.checksfield@csiro.au)
 
-## Co-opted Members (Non-Voting)
+## Regularly Invited Participants (Non-Voting)
 
 ### Conference Program Committee Co-Chair
-
-Gail Kampmeier
+Gail Kampmeier -
 Urbana-Champaign, IL, USA
 [gkamp (at) illinois (dot) edu](mailto:gkamp@illinois.edu)
 
 ### TDWG Coordinator
-
-Stan Blum
+Stan Blum -
 San Fancisco, USA
 [stanblum (at) gmail (dot) com](mailto:stanblum@gmail.com)
