@@ -10,15 +10,15 @@ page_order: 1
 
 ## Officers and Elections
 
-TDWG is lead by an Executive Committee elected by the TDWG membership. The Executive Committee is responsible for strategic direction, managing collaborative efforts in standards development, and day-to-day operations. The Roles and Responsibilities of each officer are set forth in the Constitution and further described in a [supplementary document](http://www.tdwg.org/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf)
+TDWG is lead by an Executive Committee elected by the TDWG membership. The Executive Committee is responsible for strategic direction, high-level management and coordination of standards efforts, as well as day-to-day operations. The roles and responsibilities of each officer are set forth in the Constitution and further described in a [supplementary document.](http://www.tdwg.org/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf) (Needs updating.)
 
-Elections for the TDWG Executive officers are held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting, and closed either at the meeting or shortly after. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year.
+The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
 
 ---
 
 **2018 EXECUTIVE COMMITTEE**
-----
+-----
 
 ## Core Officers
 
