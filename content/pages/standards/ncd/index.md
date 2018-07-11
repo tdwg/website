@@ -8,8 +8,6 @@ tags: technical specification, draft standard
 github: https://github.com/tdwg/ncd
 ---
 
-# Collections Descriptions Interest Group Charter
-
 ## Convenors
 
 Deb Paul (dpaul(at)fsu.edu)
