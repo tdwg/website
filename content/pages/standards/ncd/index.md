@@ -10,8 +10,6 @@ github: https://github.com/tdwg/ncd
 
 # Collections Descriptions Interest Group Charter
 
-TDWG Interest Group
-
 ## Convenors
 
 Deb Paul (dpaul(at)fsu.edu)
