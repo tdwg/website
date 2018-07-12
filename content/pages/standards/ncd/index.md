@@ -8,13 +8,12 @@ tags: technical specification, draft standard
 github: https://github.com/tdwg/ncd
 ---
 
-Status note:  _NCD is a draft standard that was develop more than a decade ago and submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since then. The NCD Interest Group was reestablished in 2016 and has begun work to submit an updated/revised NCD specification for ratification.
+**Status note:**  _NCD is a draft standard that was develop more than a decade ago and submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since then. The NCD Interest Group was reestablished in 2016 and has begun work to submit an updated/revised NCD specification for ratification._
 
-The standard consists of two parts, a normative document that specifies classes, attributes, and their definitions. The second part explains the rationale for the design and composition.  
+_The standard consists of two parts, a normative document that specifies classes, attributes, and their definitions. The second part explains the rationale for the design and composition._
 
 
-
-Authors: Neil Thomson (Natural History Museum, London), Roger Hyam (Royal Botanic Garden Edinburgh), Constance Rinaldo (Harvard University), Carol Butler (Smithsonian Institution), Doug Holland (Missouri Botanical Gardens), Barbara Mathé (American Museum of Natural History), Günter Waibel (RLG Programs, OCLC), Wouter Addink (ETI Bioinformatics), Ruud Altenburg (ETI), Markus Döring (Berlin Botanic Garden)
+**Authors:** Neil Thomson (Natural History Museum, London), Roger Hyam (Royal Botanic Garden Edinburgh), Constance Rinaldo (Harvard University), Carol Butler (Smithsonian Institution), Doug Holland (Missouri Botanical Gardens), Barbara Mathé (American Museum of Natural History), Günter Waibel (RLG Programs, OCLC), Wouter Addink (ETI Bioinformatics), Ruud Altenburg (ETI), Markus Döring (Berlin Botanic Garden)
 
 
 Natural Collections Description (NCD)1 is a data standard for describing collections of natural history materials at the collection level; one NCD record [with some elements that may repeat] describes one entire collection.
