@@ -43,12 +43,11 @@ TAPIR is flexible enough to be used in a wide range of applications. Other examp
  
 
 ## Resources
- - [TAPIR Executive Summary](http://www.tdwg.org/activities/tapir/executive-summary/)
  - [TAPIR 1.0 Normative Specification](http://tdwg.github.io/tapir/docs/tdwg_tapir_specification_2010-05-05.html)
  - [W3C XML Schema for document validation (normative)](http://tdwg.github.io/tapir/schema/tapir.xsd)
  - [Concept alias definitions for common TDWG standards](http://tdwg.github.io/tapir/cns/alias.txt)
  - [TAPIR output models and query templates](http://tdwg.github.io/tapir/cs/)
- - [TAPIR Charter](http://www.tdwg.org/activities/tapir/charter/)
+ - [TAPIR Charter](./charter.md)
  - [TAPIR Network Builders' Guide](http://tdwg.github.io/tapir/docs/TAPIRNetworkBuildersGuide_2010-05-05.html)
 
 
