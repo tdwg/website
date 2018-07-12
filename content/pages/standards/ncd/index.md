@@ -17,14 +17,14 @@ _The standard consists of two parts, a normative document that specifies classes
 
 -----
 
-Natural Collections Description (NCD)1 is a data standard for describing collections of natural history materials at the collection level; one NCD record [with some elements that may repeat] describes one entire collection.
+Natural Collections Description (NCD) is a data standard for describing collections of natural history materials at the collection level; one NCD record [some elements may repeat] describes one entire collection.
 
 Collection descriptions are electronic records that document the holdings of an organisation as groups of items, which complement the more traditional item-level records such as are produced for a single specimen or a library book. NCD is tailored to natural history. It lies between general resource discovery standards such as Dublin Core (DC) and rich collection description standards such as the Encoded Archival Description (EAD). It is possible to extract a Dublin Core record from an NCD record for use with general resource discovery systems, or to use an NCD record as the seed for a richer collection description, like an EAD record.
 
 The NCD standard covers all types of natural history collections, such as specimens, original artwork, archives, observations, library materials, datasets, photographs or mixed collections such as those that result from expeditions and voyages of discovery.
 NCD primarily holds information about collections of objects, but can also be used to describe organisations (collections of collections) and networks (collections of organisations). There are many existing sources of information about biodiversity organisations, but they are scattered and in different formats.
 
-This document accompanies the normative part of the NCD standard. The standard consists of the series of class and property definitions and is presented in a separate document. These definitions are identified by unique TDWG Uniform Resource Identifiers (URI). It assumes that copies of the definitions will be hosted at the specified URIs given in the normative form document. The URL stem is http://rs.tdwg.org/ontology/voc/ \[These do not resolve. -- _Ed. 2018-07-12_\]
+This document accompanies the normative part of the NCD standard. The standard consists of the series of class and property definitions and is presented in a separate document. These definitions are identified by unique TDWG Uniform Resource Identifiers (URI). It assumes that copies of the definitions will be hosted at the specified URIs given in the normative form document. 
 
 The standard also contains recommendations on the use of Dublin Core and vCard properties. This avoids duplicating established vocabularies and facilitates interpretation of NCD documents by non NCD aware applications.
 
