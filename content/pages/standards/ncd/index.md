@@ -10,7 +10,7 @@ github: https://github.com/tdwg/ncd
 
 **Status note:**  _NCD is a draft standard that was develop more than a decade ago and submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since then. The [NCD Interest Group](https://github.com/tdwg/ncd) was reestablished in 2016 and has begun to re-work the draft specification with the ultimate aim of getting it ratified as a TDWG standard._
 
-_The draft standard consists of two parts, a normative document that specifies classes, attributes, and their definitions. The second part explains the rationale for the design and composition. The text below was taken from the Summary of the non-normative document._
+_The last version of the draft standard, [NCD-v090](https://github.com/tdwg/ncd/tree/master/NCD-v090_TDWG) consists of two parts, a normative document, which specifies classes, attributes, and their definitions, and a second part, which explains the rationale for the design and composition. The text below was taken from the Summary of the non-normative part._
 
 -----
 
@@ -42,5 +42,3 @@ To ensure that the barriers to usage are as low as possible, only four propertie
 4. Collection description
 
 An NCD Toolkit has been developed by ETI Bioinformatics in Amsterdam with the aid of funding from GBIF and is available for download at https://sourceforge.net/projects/ncdtoolkit/. Version 1.0 of the NCD Toolkit is based on NCD v0.8. It is a cross-platform database which enables natural history organisations to record data about their own collections.
-
-
