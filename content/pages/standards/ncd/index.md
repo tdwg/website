@@ -15,6 +15,7 @@ _The standard consists of two parts, a normative document that specifies classes
 
 **Authors:** Neil Thomson (Natural History Museum, London), Roger Hyam (Royal Botanic Garden Edinburgh), Constance Rinaldo (Harvard University), Carol Butler (Smithsonian Institution), Doug Holland (Missouri Botanical Gardens), Barbara Mathé (American Museum of Natural History), Günter Waibel (RLG Programs, OCLC), Wouter Addink (ETI Bioinformatics), Ruud Altenburg (ETI), Markus Döring (Berlin Botanic Garden)
 
+-----
 
 Natural Collections Description (NCD)1 is a data standard for describing collections of natural history materials at the collection level; one NCD record [with some elements that may repeat] describes one entire collection.
 
