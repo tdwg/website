@@ -61,7 +61,6 @@ The original PHP TapirLink software is being host on SourceForge:
 A python provider software, based on the BioCASE predecessor:
 http://sourceforge.net/p/digir/svn/HEAD/tree/pywrapper/
 
-
 ### TAPIR Tester
 http://sourceforge.net/p/digir/svn/HEAD/tree/tapirtester/
 
@@ -72,4 +71,4 @@ http://sourceforge.net/p/digir/svn/HEAD/tree/tapirbuilder/
 
 ## Preferred citation
 
-> De Giovanni Renato, Döring Markus, Güntsch Anton, Vieglais Dave, Hobern Donald, de la Torre Javier, Wieczorek John, Gales Robert, Hyam Roger, Blum Stanley, Perry Steven. 2010. TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/449
+ > De Giovanni, Renato; Döring, Markus; Güntsch, Anton; Vieglais, Dave; Hobern, Donald; de la Torre, Javier; Wieczorek, John; Gales, Robert; Hyam, Roger; Blum, Stanley; Perry, Steven. 2010. TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/449
