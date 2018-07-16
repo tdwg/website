@@ -34,3 +34,5 @@ To achieve its goals, TDWG
 2. promotes their use through training and outreach;
 3. acts as a forum for discussing biodiversity informatics through meetings, publications, and online collaboration; and
 4. undertakes any other activities that support the organisation and its mission.
+
+See the [About](../about/) section to learn how TDWG operates and how you can participate.  Active Interest Groups are described under [Community](../community).
