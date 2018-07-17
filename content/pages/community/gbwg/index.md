@@ -1,5 +1,5 @@
 ---
-title: Genomic biodiversity
+title: Genomic Biodiversity
 summary: 
 cover_image: 
 cover_image_by: 
@@ -15,9 +15,9 @@ _Copied from <http://www.tdwg.org/activities/genomic-biodiversity/charter/>_
 * John Deck, University of California at Berkeley ([email John Deck]())
 * Ramona Walls, iPlant Initiative, University of Arizona
 
-## [Charter Members](http://www.tdwg.org/activities/genomic-biodiversity/charter-members/)
+## [Charter members](http://www.tdwg.org/activities/genomic-biodiversity/charter-members/)
 
-## History and Context
+## History and context
 
 This group is a forum for discussion of standards crossing the biodiversity and genomics fields of study, with core emphasis on mobilizing usable products and technologies for applied research projects.  TDWG has historically focused on the sharing of specimen-based data through a set of standards including Darwin Core (DwC), Access to Biological Collection Data (ABCD), and TDWG Access Protocol for Information Retrieval (TAPIR).  However, the last several years have seen a swell of interest in including DNA-based information with specimen data and coupling sequence data with specimens and their associated environmental and taxonomic context.  For instance, the Consortium for the Barcode of Life (CBOL) has been promoting the acquisition of well curated specimens, photos, and sequence data to define a “barcode” record.  The Moorea Biocode Project has been sequencing and accessioning specimens for an entire island ecosystem.  Meanwhile, the Genomic Standards Consortium (GSC) has a fast-growing Biodiversity Working Group (GBWG) focusing on building appropriate linkages between the genomics and biodiversity communities.   Finally, active efforts are the DNA Extension for Access to Biological Collections Data (ABCDDNA), and work of the Data Standards and Access Task Force for the Global Genome Biodiversity Network (GGBN).
 
@@ -29,7 +29,7 @@ This interest group will be facilitating communication of the development of too
 
 This interest group overlaps the genomic biodiversity working group (GBWG), formerly called the GSC biodiversity working group.  We operate the TDWG GBWG and the GSC GBWG independently in terms of process even though the groups share their name, members, and collaboration site.  
 
-## Becoming Involved
+## Becoming involved
 
 This group welcomes participation from interested parties with backgrounds in biodiversity, genetics, technical architecture, and taxonomy.  We propose the organization point for this group to be the TDWG website.  Prospective members should refer to the email of the conveners for more information.
 
