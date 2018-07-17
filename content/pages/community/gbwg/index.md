@@ -8,7 +8,7 @@ tags: interest group
 github:
 ---
 
-_Copied from <http://www.tdwg.org/activities/genomic-biodiversity/charter/>_
+<!--Copied from <http://www.tdwg.org/activities/genomic-biodiversity/charter/> -->
 
 ## Convenors
 
