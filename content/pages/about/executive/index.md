@@ -23,16 +23,19 @@ The term of office for all roles is normally two calendar years, with terms stag
 ## Core Officers
 
 ### Chair
+ > 2018-12-31
 Dimitris Koureas -
 Naturalis Biodiversity Center, Leiden, NETHERLANDS
 [dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)
 
 ### Deputy Chair
+ > 2018-12-31
 James Macklin -
 Agriculture and Agri-Food Canada,. Ottawa, Ontario, CANADA
 [james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)
 
 ### Secretary
+ > 2018-12-31
 Quentin Groom -
 Botanical Garden Meise, BELGIUM
 [secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)
@@ -50,6 +53,7 @@ Museum of Comparative Zoology, Cambrige, MA, USA
 [mole (at) morris (dot) net](mailto:mole@morris.net)
 
 ### Fundraising and Partnerships Subcommittee, Chair
+ > 2018-12-31
 Martin Kalfatovic -
 Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
 [martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)
@@ -60,6 +64,7 @@ Global Biodiversity Information Facility, Copenhagen, DENMARK
 [trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)
 
 ### Outreach and Communications Subcommittee, Chair
+ > 2018-12-31
 Prabhakar Rajagopal -
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
 [prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)
@@ -72,11 +77,13 @@ Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
 ## Regional Representatives
 
 ### Africa
+ > 2018-12-31
 Lucy Waruingi -
 African Conservation Centre, Nairobi, KENYA
 [lucy (dot) waruingi (at) acc (dot) or (dot) ke](mailto:lucy.waruingi@acc.or.ke)
 
 ### Asia
+ > 2018-12-31
 Ji Liqiang -
 Institute of Zoology, Chinese Academy of Sciences, CHINA
 [ji (at) ioz (dot) ac (dot) cn](http://ji/%28at%29ioz.ac.cn/)
@@ -92,6 +99,7 @@ University of Sao Paulo, BRASIL
 [balbertini (at) gmail (dot) com](mailto:balbertini@gmail.com)
 
 ### North America
+ > 2018-12-31
 Cynthia Parr -
 National Agricultural Library, USDA, Beltsville, MD, USA
 [csparr (at) tdwg (dot) org](mailto:csparr@tdwg.org)
