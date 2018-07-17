@@ -1,9 +1,9 @@
 ---
 title: Invasive Organism Information
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1510554093911-4c279430ae5d
+cover_image_by: David Clode
+cover_image_ref: https://unsplash.com/photos/eCPYx-GBx_I
 tags: task group
 github:
 ---
