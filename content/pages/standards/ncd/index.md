@@ -1,9 +1,9 @@
 ---
 title: Natural Collections Descriptions (NCD)
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1500591377218-2484ab05eeaf
+cover_image_by: Curtis MacNewton @curtismacnewton
+cover_image_ref: https://unsplash.com/photos/35_O336NNOo
 tags: technical specification, draft standard
 github: https://github.com/tdwg/ncd
 ---
