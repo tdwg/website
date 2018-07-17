@@ -1,5 +1,5 @@
 ---
-title: Biodiversity data quality
+title: Biodiversity Data Quality
 summary: The goal of this interest group is to discuss, determine, formalize and standardize concepts, problems, policies, metadata, methodologies and mechanisms related to biodiversity data quality, collaboratively and incrementally, and to promote associated best practices throughout the biodiversity informatics community.
 cover_image: https://images.unsplash.com/photo-1502035458144-454aa46b8ee0
 cover_image_by: Gene Pensiero
@@ -61,7 +61,7 @@ Email: biodiv_2(at)achapman.org
 * Rui Figueira - GBIF Portugal, Instituto de Investigação Científica Tropical
 * Vijay Barve - FRLHT, India
 
-## Becoming Involved
+## Becoming involved
 
 Anyone interested in biodiversity data quality is encouraged to become involved with the Interest Group or any of its Task Groups. Membership of the group is open. If you work with biodiversity data at any level, whether digitization, publication, integration or analysis, and you would like to be able to measure and manage Data Quality to allow others to assess the fitness-for-use of your data, the Biodiversity Data Quality Interest Group may benefit from your involvement.
 
