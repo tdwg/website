@@ -1,7 +1,7 @@
 ---
 title: Journal
 summary: 
-cover_image: 
+cover_image: https://static.tdwg.org/images/journal/biss_lizard_title.png
 cover_image_by: 
 cover_image_ref: 
 tags: 
