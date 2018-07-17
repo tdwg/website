@@ -23,19 +23,19 @@ The term of office for all roles is normally two calendar years, with terms stag
 ## Core Officers
 
 ### Chair
- > 2018-12-31
+ > 2018-12-31  
 Dimitris Koureas -
 Naturalis Biodiversity Center, Leiden, NETHERLANDS
 [dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)
 
 ### Deputy Chair
- > 2018-12-31
+ > 2018-12-31  
 James Macklin -
 Agriculture and Agri-Food Canada,. Ottawa, Ontario, CANADA
 [james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)
 
 ### Secretary
- > 2018-12-31
+ > 2018-12-31  
 Quentin Groom -
 Botanical Garden Meise, BELGIUM
 [secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)
