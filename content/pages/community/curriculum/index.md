@@ -1,5 +1,5 @@
 ---
-title: Biodiversity informatics curriculum
+title: Biodiversity Informatics Curriculum
 summary: 
 cover_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
 cover_image_by: Helloquence
@@ -89,7 +89,7 @@ First concrete tasks for this group would be to identify the target groups, exis
 
 We expect that our activities would contribute to paradigm shift and biodiversity data literacy among young and old biodiversity scientists resulting in neater data. We will contribute to training BDI professionals for the long-term (institutional) and short-term (project) needs. Possible end products include curricula framework, building blocks of the existing teaching programs and complete courses.  
 
-## Becoming Involved
+## Becoming involved
 
 All interested parties are encouraged to become involved with the Interest Group or specific Task Groups it may convene. Membership of the group is open. If you work with biodiversity informatics training at any level, whether it is training working professionals or with the academia, and you would like to be able to find suitable resources and sharing materials and ideas with standardized modules, the Biodiversity Informatics Curriculum Interest Group may benefit from your involvement. Please contact the convener or any core member about how to become involved. The TDWG process requires that any new Task Group be launched through an Interest Group. The Biodiversity Informatics Curriculum Interest Group can facilitate establishment of new Task Groups that relate to this topic. 
 
