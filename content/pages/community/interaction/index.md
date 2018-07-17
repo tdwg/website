@@ -1,9 +1,9 @@
 ---
 title: Species Interaction
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1516021776725-9e8eb61e68de
+cover_image_by: Benjamin Wong
+cover_image_ref: https://unsplash.com/photos/So_VMm4YqLY
 tags: interest group
 github: https://github.com/tdwg/interaction
 ---
