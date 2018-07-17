@@ -10,7 +10,7 @@ page_order: 1
 
 ## Officers and Elections
 
-TDWG is lead by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, high-level management, coordination of standards efforts, and overseeing day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution](../constitution) and further described in a [supplementary document.](http://www.tdwg.org/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf) (Needs updating.)
+TDWG is lead by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution](../constitution) and further described in a [supplementary document.](http://www.tdwg.org/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf) (Needs updating.)
 
 The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
