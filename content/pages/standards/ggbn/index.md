@@ -12,7 +12,7 @@ github: https://github.com/tdwg/abcddna
 <dl>
  <dt><b>Complements TDWG Standards:</b></dt>
   <dd>
-   http://www.tdwg.org/standards/115/</br>
+   http://www.tdwg.org/standards/115/
    http://www.tdwg.org/standards/450 
   </dd>
 </dl>
