@@ -1,5 +1,5 @@
 ---
-title: Species interaction
+title: Species Interaction
 summary: 
 cover_image: 
 cover_image_by: 
