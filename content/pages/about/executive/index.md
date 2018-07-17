@@ -23,75 +23,85 @@ The term of office for all roles is normally two calendar years, with terms stag
 ## Core Officers
 
 ### Chair
- > 2018-12-31  
 Dimitris Koureas -
 Naturalis Biodiversity Center, Leiden, NETHERLANDS
-[dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)
+[dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)  
+(term ends 2018-12-31)  
 
 ### Deputy Chair
- > 2018-12-31  
 James Macklin -
 Agriculture and Agri-Food Canada,. Ottawa, Ontario, CANADA
-[james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)
+[james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)  
+(term ends 2018-12-31)  
 
 ### Secretary
- > 2018-12-31  
 Quentin Groom -
 Botanical Garden Meise, BELGIUM
-[secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)
+[secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)  
+(term ends 2018-12-31)  
 
 ### Treasurer
 William Ulate -
 Missouri Botanical Garden. St. Louis, MO, USA
-[treasurer (at) tdwg (dot) org](mailto:treasurer@tdwg.org)
+[treasurer (at) tdwg (dot) org](mailto:treasurer@tdwg.org)  
+(term ends 2019-12-31)  
+
 
 ## Subcommittee Chairs
 
 ### Technical Architecture Group, Chair
 Paul Morris -
 Museum of Comparative Zoology, Cambrige, MA, USA
-[mole (at) morris (dot) net](mailto:mole@morris.net)
+[mole (at) morris (dot) net](mailto:mole@morris.net)  
+(term ends 2019-12-31)  
+
 
 ### Fundraising and Partnerships Subcommittee, Chair
- > 2018-12-31
 Martin Kalfatovic -
 Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
 [martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)
+(term ends 2018-12-31)  
 
 ### Infrastructure Subcommittee, Chair
 Tim Robertson -
 Global Biodiversity Information Facility, Copenhagen, DENMARK
-[trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)
+[trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)  
+(term ends 2019-12-31)  
+
 
 ### Outreach and Communications Subcommittee, Chair
- > 2018-12-31
 Prabhakar Rajagopal -
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
 [prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)
+(term ends 2018-12-31)  
 
 ### Time and Place Subcommittee, Chair
 Patricia Mergen -
 Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
-[mergen.patricia (at) gmail (dot) com](mailto:mergen.patricia@gmail.com)
+[mergen.patricia (at) gmail (dot) com](mailto:mergen.patricia@gmail.com)  
+(term ends 2019-12-31)  
+
 
 ## Regional Representatives
 
 ### Africa
- > 2018-12-31
 Lucy Waruingi -
 African Conservation Centre, Nairobi, KENYA
-[lucy (dot) waruingi (at) acc (dot) or (dot) ke](mailto:lucy.waruingi@acc.or.ke)
+[lucy (dot) waruingi (at) acc (dot) or (dot) ke](mailto:lucy.waruingi@acc.or.ke)  
+(term ends 2018-12-31)  
 
 ### Asia
- > 2018-12-31
 Ji Liqiang -
 Institute of Zoology, Chinese Academy of Sciences, CHINA
-[ji (at) ioz (dot) ac (dot) cn](http://ji/%28at%29ioz.ac.cn/)
+[ji (at) ioz (dot) ac (dot) cn](http://ji/%28at%29ioz.ac.cn/)  
+(term ends 2018-12-31)  
 
 ### Europe
 Wouter Addink -
 Naturalis Leiden, NETHERLANDS
-[wouter (dot) addink (at) naturalis (dot) nl](mailto:wouter.addink@anturalis.nl)
+[wouter (dot) addink (at) naturalis (dot) nl](mailto:wouter.addink@anturalis.nl)  
+(term ends 2019-12-31)  
+
 
 ### Latin America
 Bruno de Carvalho Albertini -
@@ -99,15 +109,17 @@ University of Sao Paulo, BRASIL
 [balbertini (at) gmail (dot) com](mailto:balbertini@gmail.com)
 
 ### North America
- > 2018-12-31
 Cynthia Parr -
 National Agricultural Library, USDA, Beltsville, MD, USA
-[csparr (at) tdwg (dot) org](mailto:csparr@tdwg.org)
+[csparr (at) tdwg (dot) org](mailto:csparr@tdwg.org)  
+(term ends 2018-12-31)  
 
 ### Oceania
 Simon Checksfield -
 CSIRO, Canberra, AUSTRALIA
-[simon (dot) checksfield (at) csiro (dot) au](mailto:simon.checksfield@csiro.au)
+[simon (dot) checksfield (at) csiro (dot) au](mailto:simon.checksfield@csiro.au)  
+(term ends 2019-12-31)  
+
 
 ## Regularly Invited Participants (Non-Voting)
 
