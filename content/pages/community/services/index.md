@@ -1,5 +1,5 @@
 ---
-title: Biodiversity services and clients
+title: Biodiversity Services and Clients
 summary: 
 cover_image: https://images.unsplash.com/photo-1484557052118-f32bd25b45b5
 cover_image_by: Thomas Kvistholt
@@ -32,7 +32,7 @@ University of Manchester, School of Computer Science
 United Kingdom
 niall.beard [at] manchester.ac.uk
 
-## Core Members
+## Core members
 
 * David Fichtmüller (d.fichtmueller [at] bgbm.org)
 * Dominik Röpert (d.roepert [at] bgbm.org)
@@ -52,11 +52,11 @@ The aim of the Biodiversity Services and Clients Interest Group (BSCI) is to pro
 
 The Interest Group will continuously assess the biodiversity service infrastructure landscape and coordinate a harmonisation process for service APIs and their documentation. An important focus will be the analysis of criteria for service usability in integrating systems (e.g. workflow environments such as Kepler and Taverna), stability and versioning of service APIs, as well as semantic interoperability.
 
-## Becoming Involved
+## Becoming involved
 
 The BSCI group is open to all interested parties. Members should actively participate in group discussions and be willing to apply results of the harmonisation process to analytical tool and data set services they may be providing to international infrastructures. Membership can be requested from the interest group conveners.
 
-## History and Context
+## History and context
 
 The conveners hosted a Biodiversity Services and Workflow Symposia at the TDWG annual conference in 2013 (Florence) and 2014 (Jönköping) and received a lot of interest from the participants. Both Symposia concluded that improved standardisation and documentation of biodiversity informatics services is urgently needed to avoid uncoordinated development of service APIs worldwide and to enable the development of a new generation of data-driven research platforms and workflows. The participants agreed that a concerted approach in the form of a TDWG interest group would carry forward the process effectively.
 
