@@ -61,7 +61,7 @@ Museum of Comparative Zoology, Cambrige, MA, USA
 ### Fundraising and Partnerships Subcommittee, Chair
 Martin Kalfatovic -
 Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
-[martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)
+[martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)  
 (2017-2018)  
 
 ### Infrastructure Subcommittee, Chair
@@ -74,7 +74,7 @@ Global Biodiversity Information Facility, Copenhagen, DENMARK
 ### Outreach and Communications Subcommittee, Chair
 Prabhakar Rajagopal -
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
-[prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)
+[prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)  
 (2017-2018)  
 
 ### Time and Place Subcommittee, Chair
@@ -108,7 +108,8 @@ Naturalis Leiden, NETHERLANDS
 ### Latin America
 Bruno de Carvalho Albertini -
 University of Sao Paulo, BRASIL
-[balbertini (at) gmail (dot) com](mailto:balbertini@gmail.com)
+[balbertini (at) gmail (dot) com](mailto:balbertini@gmail.com)  
+(2018-2019)  
 
 ### North America
 Cynthia Parr -
