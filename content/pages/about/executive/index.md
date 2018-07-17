@@ -20,31 +20,33 @@ The term of office for all roles is normally two calendar years, with terms stag
 **2018 EXECUTIVE COMMITTEE**
 -----
 
+All terms are for two years (span of calendar years).
+
 ## Core Officers
 
 ### Chair
 Dimitris Koureas -
 Naturalis Biodiversity Center, Leiden, NETHERLANDS
 [dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)  
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Deputy Chair
 James Macklin -
 Agriculture and Agri-Food Canada,. Ottawa, Ontario, CANADA
 [james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)  
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Secretary
 Quentin Groom -
 Botanical Garden Meise, BELGIUM
 [secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)  
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Treasurer
 William Ulate -
 Missouri Botanical Garden. St. Louis, MO, USA
 [treasurer (at) tdwg (dot) org](mailto:treasurer@tdwg.org)  
-(term ends 2019-12-31)  
+(2018-2019)  
 
 
 ## Subcommittee Chairs
@@ -53,33 +55,33 @@ Missouri Botanical Garden. St. Louis, MO, USA
 Paul Morris -
 Museum of Comparative Zoology, Cambrige, MA, USA
 [mole (at) morris (dot) net](mailto:mole@morris.net)  
-(term ends 2019-12-31)  
+(2018-2019)  
 
 
 ### Fundraising and Partnerships Subcommittee, Chair
 Martin Kalfatovic -
 Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
 [martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Infrastructure Subcommittee, Chair
 Tim Robertson -
 Global Biodiversity Information Facility, Copenhagen, DENMARK
 [trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)  
-(term ends 2019-12-31)  
+(2018-2019)  
 
 
 ### Outreach and Communications Subcommittee, Chair
 Prabhakar Rajagopal -
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
 [prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Time and Place Subcommittee, Chair
 Patricia Mergen -
 Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
 [mergen.patricia (at) gmail (dot) com](mailto:mergen.patricia@gmail.com)  
-(term ends 2019-12-31)  
+(2018-2019)  
 
 
 ## Regional Representatives
@@ -88,19 +90,19 @@ Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
 Lucy Waruingi -
 African Conservation Centre, Nairobi, KENYA
 [lucy (dot) waruingi (at) acc (dot) or (dot) ke](mailto:lucy.waruingi@acc.or.ke)  
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Asia
 Ji Liqiang -
 Institute of Zoology, Chinese Academy of Sciences, CHINA
 [ji (at) ioz (dot) ac (dot) cn](http://ji/%28at%29ioz.ac.cn/)  
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Europe
 Wouter Addink -
 Naturalis Leiden, NETHERLANDS
 [wouter (dot) addink (at) naturalis (dot) nl](mailto:wouter.addink@anturalis.nl)  
-(term ends 2019-12-31)  
+(2018-2019)  
 
 
 ### Latin America
@@ -112,13 +114,13 @@ University of Sao Paulo, BRASIL
 Cynthia Parr -
 National Agricultural Library, USDA, Beltsville, MD, USA
 [csparr (at) tdwg (dot) org](mailto:csparr@tdwg.org)  
-(term ends 2018-12-31)  
+(2017-2018)  
 
 ### Oceania
 Simon Checksfield -
 CSIRO, Canberra, AUSTRALIA
 [simon (dot) checksfield (at) csiro (dot) au](mailto:simon.checksfield@csiro.au)  
-(term ends 2019-12-31)  
+(2018-2019)  
 
 
 ## Regularly Invited Participants (Non-Voting)
