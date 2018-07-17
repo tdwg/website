@@ -22,7 +22,7 @@ github: https://github.com/tdwg/abcddna
 **Copyright:** Copyright © GGBN (2016). All Rights Reserved. 
 
 #### Citation: 
-> Droege et al (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. [doi: 10.1093/database/baw125](doi: 10.1093/database/baw125)
+> Droege et al (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. [doi:10.1093/database/baw125](https://dx.doi.org/10.1093%2Fdatabase%2Fbaw125)
 
 ## Abstract
 
