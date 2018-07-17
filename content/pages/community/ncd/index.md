@@ -1,5 +1,5 @@
 ---
-title: Natural collections descriptions
+title: Natural Collections Descriptions
 summary: 
 cover_image: 
 cover_image_by: 
@@ -39,7 +39,7 @@ There are valuable collections that have no information stored in any database a
 
 Collection-level information mapped to EML and currently provided with biodiversity datasets is not sufficient to answer current-day data needs for institutional, regional, national, or international planning. More and richer data about collection holdings and the institutions that house them is desperately needed for strategic prioritization of collections data mobilization. Data-sharing at this level is also problematic as it is not currently available through an API. In other words, there is no machine-to-machine data-sharing or data-update capability. This means all collections-level information worldwide must be updated by hand, by humans and is therefore quickly out-of-date and out-of-sync across disparate resources. Also, collection data provided in the EML data model cannot be used to automatically discover such information as what percentage of a collection is digitized or georeferenced. The original NCD charter and work recognized many of these issues but all members of the group agree the charter needs to be updated in light of new momentum to address these needs, including plans by GBIF for the development of a new resource to manage and share collections-level data.
 
-## Becoming Involved
+## Becoming involved
 
 The Convener would be pleased to hear from anyone, and particularly:
 
@@ -48,7 +48,7 @@ The Convener would be pleased to hear from anyone, and particularly:
 are owners of collections that would themselves like to test and make use of the standard and associated software, or
 * just have an interest in the use of collection descriptions in resource discovery systems.
 
-## History and Context
+## History and context
 
 ### What is NCD?
 
@@ -122,7 +122,7 @@ An RLG Programs working group of mainly North American natural history librarian
 
 Discussion at the TDWG 2004 meeting in Christchurch, New Zealand, concluded that a standard for describing natural history collections would fit well with the suite of data standards being developed on behalf of the Global Biodiversity Information Facility (GBIF).
 
-## Original Charter Core Members
+## Original charter core members
 
 Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit  
 Carol Butler	(butlercr(at)si.edu)	Terminology  
