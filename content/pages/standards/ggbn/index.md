@@ -8,10 +8,12 @@ tags: technical specification, draft standard
 github: https://github.com/tdwg/abcddna
 ---
 
-#### Status:  TDWG Draft Standard
-#### Complements TDWG Standards: 
- > http://www.tdwg.org/standards/115/
- > http://www.tdwg.org/standards/450 
+**Status:**  TDWG Draft Standard
+**Complements TDWG Standards:** 
+<div>
+ http://www.tdwg.org/standards/115/<br/>
+ http://www.tdwg.org/standards/450 
+</div>
 
 #### Replaces: DNA extension for Access to Biological Collection Data (ABCDDNA)
 #### Date: (created) 4th October 2016; (last modified) 4th October 2016;
