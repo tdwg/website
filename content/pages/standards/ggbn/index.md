@@ -9,15 +9,17 @@ github: https://github.com/tdwg/abcddna
 ---
 
 **Status:**  TDWG Draft Standard
-**Complements TDWG Standards:** 
-<div>
- http://www.tdwg.org/standards/115/<br/>
- http://www.tdwg.org/standards/450 
-</div>
+<dl>
+ <dt><b>Complements TDWG Standards:</b></dt>
+  <dd>
+   http://www.tdwg.org/standards/115/</br>
+   http://www.tdwg.org/standards/450 
+  </dd>
+</dl>
 
-#### Replaces: DNA extension for Access to Biological Collection Data (ABCDDNA)
-#### Date: (created) 4th October 2016; (last modified) 4th October 2016;
-#### Copyright: Copyright © GGBN (2016). All Rights Reserved. 
+**Replaces:** DNA extension for Access to Biological Collection Data (ABCDDNA)
+**Date:** (created) 4th October 2016; (last modified) 4th October 2016
+**Copyright:** Copyright © GGBN (2016). All Rights Reserved. 
 
 #### Citation: 
 > Droege et al (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. [doi: 10.1093/database/baw125](doi: 10.1093/database/baw125)
