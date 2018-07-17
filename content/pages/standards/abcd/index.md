@@ -15,4 +15,4 @@ The ABCD Schema attempts to be comprehensive and highly structured, supporting d
 Apart from the GBIF and BioCASe networks, the potential for the application of ABCD extends to internal networks, or in-house legacy data access (e.g. datasets from external sources that shall not be converted and integrated into an institution's own data, but be kept separately, though easily accessible). By defining relations between terms, ABCD is a step towards an ontology for biological collections.
 
 ## Preferred citation
- > Access to Biological Collections Data task group. 2007. Access to Biological Collection Data (ABCD), Version 2.06. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/115
+> Access to Biological Collections Data task group. 2007. Access to Biological Collection Data (ABCD), Version 2.06. Biodiversity Information Standards (TDWG) [http://www.tdwg.org/standards/115](http://www.tdwg.org/standards/115)
