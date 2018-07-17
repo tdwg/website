@@ -15,7 +15,7 @@ github: https://github.com/tdwg/abcddna
  - http://www.tdwg.org/standards/115/
  - http://www.tdwg.org/standards/450 
 
-**Replaces:** DNA extension for Access to Biological Collection Data (ABCDDNA)
+**Replaces:** DNA extension for Access to Biological Collection Data (ABCDDNA) [http://www.tdwg.org/standards/640](http://www.tdwg.org/standards/640)
 
 **Date:** (created) 4th October 2016; (last modified) 4th October 2016.
 
@@ -28,7 +28,7 @@ github: https://github.com/tdwg/abcddna
 
 The GGBN Data Standard ([http://terms.tdwg.org/wiki/GGBN_Data_Standard](http://terms.tdwg.org/wiki/GGBN_Data_Standard)) is a set of terms and controlled vocabularies designed to represent tissue, DNA or RNA facts and does not cover e.g. scientific name, geography or physiological facts. Within GGBN it is used together with Darwin Core or ABCD. It covers all molecular terms of MIxS, MIMARKS and MIGS and can also handle SPREC (Standard PREanalytical Codes) and large parts of BRISQ (Biospecimen Reporting for Improved Study Quality).
 
-This document ~~specifies~~ _describes_ the GGBN Data Standard. _The actual terms and definitions can be found at the URL above._
+This document ~~specifies~~ _describes_ the GGBN Data Standard. _The actual terms and definitions that comprise the standard can be found in the TDWG terms repository at the URL above._
 
 The GGBN Data Standard is a product of the Global Genome Biodiversity Network. The stable version 1.0 can be found at [http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1](http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1) 
 
