@@ -30,7 +30,7 @@ The International Working Group on Taxonomic Databases (herein called "TDWG") is
 
 To achieve its goals, TDWG
 
-1. develops and adopts standards and guidelines for the recording and exchange of data about organisms;
+1. develops and adopts standards and guidelines for recording and exchanging data about organisms;
 2. promotes their use through training and outreach;
 3. acts as a forum for discussing biodiversity informatics through meetings, publications, and online collaboration; and
 4. undertakes any other activities that support the organisation and its mission.
