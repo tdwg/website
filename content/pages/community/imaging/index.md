@@ -1,9 +1,9 @@
 ---
 title: Imaging
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
+cover_image_by: Kawin Harasai
+cover_image_ref: https://unsplash.com/photos/VMpIew0mHlo
 tags: interest group
 github: 
 ---
