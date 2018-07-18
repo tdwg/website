@@ -1,9 +1,9 @@
 ---
 title: Process
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1516259762381-22954d7d3ad2
+cover_image_by: Markus Spiske
+cover_image_ref: https://unsplash.com/photos/cvBBO4PzWPg
 tags: interest group
 github: 
 ---
