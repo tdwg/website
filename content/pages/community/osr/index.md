@@ -1,9 +1,9 @@
 ---
 title: Observations & specimens
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6
+cover_image_by: Chris Lawton
+cover_image_ref: https://unsplash.com/photos/5IHz5WhosQE
 tags: interest group
 github: 
 ---
