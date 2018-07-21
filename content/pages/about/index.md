@@ -31,14 +31,11 @@ Subscribe to [TDWG announcements](http://eepurl.com/8VIvn) to receive our most s
 
 ### [GitHub](https://github.com/tdwg)
 
-TDWG is now using GitHub as its primary [collaboration platform](https://github.com/tdwg). It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups](../../community/) and [standards](../../standards/) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and solutions) in that subject area. Peter Desmet gave us a nice [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) in 2016. 
+TDWG is now using GitHub as its primary collaboration platform. It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups](../../community/) and [standards](../../standards/) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and solutions) in that subject area. Peter Desmet gave us a nice [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) in 2016. 
 
-### Journal -- [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net)
+### [Biodiversity Information Science and Standards (BISS)](/journal/)
 
-TDWG has engaged Pensoft, an academic publishing company specializing in open-access semantic publishing, to publish our annual Proceedings, abstracts of contributions to the annual conference, as well as descriptions of new TDWG standards and contributed full-length papers.  (See [Journal](./journal/).)
-
-### Mailing Lists
-
+TDWG has engaged Pensoft, an academic publishing company specializing in open-access semantic publishing, to publish our annual Proceedings (abstracts of contributions to the annual conference), as well as descriptions of new TDWG standards and independently contributed full-length papers.  (See [Journal](/journal/).)
 
 ### [Other Resources]()
 
@@ -53,8 +50,9 @@ TDWG annual conference are usually held in the Fall and occupy the full five day
 
 Conference Proceedings (abstracts of presentations) are available online since 2006. Presentations (PPT or PDF) files are available for many presentations since 2008, and recordings are available for most presentations since 2015.
 
-Interest Groups
+### Interest Groups
 
-Leadership
+### Leadership
 
 Executive Committee and Functional Subcommittees
+
