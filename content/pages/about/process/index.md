@@ -68,13 +68,13 @@ The only formal position required of a Task Group is a Convener. The Convener ma
 
  1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
  1. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft. 
-  a. If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert reviews. 
-  a. If the response is negative, the Secretary reports the decision with justification to the Task Group Convener.
+  a. If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert reviews.  
+  a. If the response is negative, the Secretary reports the decision with justification to the Task Group Convener.  
  1. The Review Manager submits the reviews along with a summary and recommendation as a package to the Executive Committee.
  1. The Executive Committee may 
-  a. advance the draft as a Proposed Standard with call for public comment, or 
-  a. decline (with justification) to advance the draft, or 
-  a.request a new revision to address specific problems. 
+  a. advance the draft as a Proposed Standard with call for public comment, or  
+  a. decline (with justification) to advance the draft, or  
+  a.request a new revision to address specific problems.  
  1. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of public comment. A minimum of 30 days must be allowed for comment. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the public review.
  1. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A  specification must have been through at least one round of public review before the Executive Committee may accept it as a Standard.
 
