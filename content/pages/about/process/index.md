@@ -33,8 +33,8 @@ A TDWG member can become an interest group member by joining the group'scommunic
 #### Maintaining an Interest Group
 
 The interest group convener must submit an annual status report to the Executive Committee describing at least the group’s progress towards the goals specified in the charter. The Executive Committee must notify the Interest group Convener of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:  
- - the report is not up to the standard required or  
- - the Interest Group is not fulfilling the requirements under its charter. 
+* the report is not up to the standard required or  
+* the Interest Group is not fulfilling the requirements under its charter. 
  
 In the former case, the report should be edited and re-submitted. In the later case, the Executive Committee may reorganise or disband the Interest Group.  
 
@@ -54,8 +54,8 @@ If the charter is approved, the Executive Committee announces the formation of t
 
 #### Maintaining a Task Group
 The Task Group Convener must submit an annual status report against its charter to the Executive Committee for review. The Executive Committee must notify the Task Group and associated Interest Group Conveners of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:
- - the report is not up to the standard required or  
- - the Task Group is not fulfilling the requirements of its charter.  
+* the report is not up to the standard required or  
+* the Task Group is not fulfilling the requirements of its charter.  
  
 In the former case, the report should be edited and re-submitted. In the later case, the Executive Committee may reorganise or disband the Task Group.
 
@@ -66,17 +66,17 @@ The only formal position required of a Task Group is a Convener. The Convener ma
 
 ## Ratification of Standards
 
- 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
- 1. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.  
-  a. If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert reviews.  
-  a. If the response is negative, the Secretary reports the decision with justification to the Task Group Convener.  
- 1. The Review Manager submits the reviews along with a summary and recommendation as a package to the Executive Committee.
- 1. The Executive Committee may  
-  a. advance the draft as a Proposed Standard with call for public comment, or  
-  a. decline (with justification) to advance the draft, or  
-  a. request a new revision to address specific problems.  
- 1. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of public comment. A minimum of 30 days must be allowed for comment. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the public review.
- 1. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A  specification must have been through at least one round of public review before the Executive Committee may accept it as a Standard.
+1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
+1. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.  
+ a. If the response is positive, the Executive Committee appoints a Review Manager to seek appropriate independent and expert reviews.  
+ b. If the response is negative, the Secretary reports the decision with justification to the Task Group Convener.  
+1. The Review Manager submits the reviews along with a summary and recommendation as a package to the Executive Committee.
+1. The Executive Committee may  
+ a. advance the draft as a Proposed Standard with call for public comment, or  
+ b. decline (with justification) to advance the draft, or  
+ c. request a new revision to address specific problems.  
+1. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of public comment. A minimum of 30 days must be allowed for comment. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the public review.
+1. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A  specification must have been through at least one round of public review before the Executive Committee may accept it as a Standard.
 
 ![TDWG Process]({filename}tdwg_process.png)  
 Figure 1. A flowchart illustrating the pathway to ratifying a TDWG standard. 
