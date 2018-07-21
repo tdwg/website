@@ -78,5 +78,5 @@ The only formal position required of a Task Group is a Convener. The Convener ma
  1. Public Review. The Executive Committee directs the Proposed Standard to be placed in the TDWG repository, publishes a request for comment (RFC) that describes facilities for, and duration of public comment. A minimum of 30 days must be allowed for comment. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the public review.
  1. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A  specification must have been through at least one round of public review before the Executive Committee may accept it as a Standard.
 
-![TDWG Process]({filename}tdwg_process.png)
+![TDWG Process]({filename}tdwg_process.png)  
 Figure 1. A flowchart illustrating the pathway to ratifying a TDWG standard. 
