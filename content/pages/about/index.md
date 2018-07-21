@@ -14,7 +14,7 @@ TDWG's mission, structure, membership, and governance are established in its **[
 
 TDWG **[standards](/standards/)** are developed by **[interest groups](/community/).** The process for establishing interest groups and ratifying standards is described in the **[TDWG Process]().**  
 
-[Incorporation and Status]()
+[Incorporation and Status](./incorporation/)
 
 The following resources will help you learn about TDWG, stay aware of developments, and participate in the advancement of biodiversity information science.
 
@@ -22,7 +22,7 @@ The following resources will help you learn about TDWG, stay aware of developmen
 
 #### Website
 
-This website should be the most concise introduction to TDWG, as well as a comprehensive directory to activities and resources. Please give feedback and help us maintain the content here (see Website FAQ).
+This website should be the most concise introduction to TDWG, as well as a comprehensive directory to activities and resources. Please give feedback and help us maintain the content here (see [Website FAQ](./website_faq/)).
 
 #### [Announcements](http://eepurl.com/8VIvn)
 
