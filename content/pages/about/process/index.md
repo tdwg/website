@@ -1,9 +1,9 @@
 ---
 title: TDWG Process
 summary: The organisational and procedural framework for developing and ratifying TDWG standards. 
-cover_image: https://images.unsplash.com/photo-1518678815151-5662c173c387
+cover_image: https://images.unsplash.com/photo-1527746010177-09bdc64a276d
 cover_image_by: Casey Horner
-cover_image_ref: https://unsplash.com/photos/-MNwcpvlR5U
+cover_image_ref: https://unsplash.com/photos/4mjM65c95ik
 tags: 
 page_order: 6
 ---
