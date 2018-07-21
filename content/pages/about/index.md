@@ -8,7 +8,7 @@ tags:
 page_order: 5
 ---
 
-TDWG is a bottom up organization; it depends on the expertise and efforts of people who create, manage, integrate, and analyze biodiversity information. Most are professional biologists or information scientists, but all have a passion for living things. If your work involves large quantities of biodiversity information, then information management is one of your challenges. TDWG is good place to learn about this synthetic discipline, share your experiences, and collaborate in building future solutions.
+TDWG is a bottom up organization; everything TDWG produces comes from the expertise and collaboration of people who create, manage, integrate, and analyze biodiversity information. Most members are professional biologists or information scientists, but all have a passion for living things. If your work involves large quantities of biodiversity information, then information management is one of your challenges. TDWG is good place to learn about this synthetic discipline, share your experiences, and collaborate in building future solutions.
 
 TDWG's mission, structure, membership, and governance are established in its **[Constitution](./constitution/).**  Anyone can be a member.  Members elect an **[Executive Committee](executive)** to set direction, coordinate and manage standards development, and oversee day-to-day operations.  Additional on-going support is provided by **[functional subcommittees](committees/)** (i.e., standing committees), whose leaders are also elected by members and serve _ex-officio_ on the Executive Committee.  
 
