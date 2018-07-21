@@ -32,11 +32,11 @@ A TDWG member can become an interest group member by joining the group'scommunic
 
 #### Maintaining an Interest Group
 
-The interest group convener must submit an annual status report to the Executive Committee describing at least the group’s progress towards the goals specified in the charter. The Executive Committee must notify the Interest group Convener of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:
-
-the report is not up to the standard required or
-the Interest Group is not fulfilling the requirements under its charter.
-In the former case, the report should be edited and re-submitted. In the later case, the Executive Committee may reorganise or disband the Interest Group.
+The interest group convener must submit an annual status report to the Executive Committee describing at least the group’s progress towards the goals specified in the charter. The Executive Committee must notify the Interest group Convener of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:  
+ - the report is not up to the standard required or  
+ - the Interest Group is not fulfilling the requirements under its charter. 
+ 
+In the former case, the report should be edited and re-submitted. In the later case, the Executive Committee may reorganise or disband the Interest Group.  
 
 An Interest Group charter can be revised at any time and submitted to the Secretary as a draft. A draft revision may reflect minor corrections or clarification, or may reflect a change in operation or purpose. The Secretary may approve minor changes, but must distribute any substantive revision to the Executive Committee for review and approval before it replaces a prior charter.
 
@@ -54,9 +54,9 @@ If the charter is approved, the Executive Committee announces the formation of t
 
 #### Maintaining a Task Group
 The Task Group Convener must submit an annual status report against its charter to the Executive Committee for review. The Executive Committee must notify the Task Group and associated Interest Group Conveners of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:
-
-the report is not up to the standard required or
-the Task Group is not fulfilling the requirements of its charter.
+ - the report is not up to the standard required or  
+ - the Task Group is not fulfilling the requirements of its charter.  
+ 
 In the former case, the report should be edited and re-submitted. In the later case, the Executive Committee may reorganise or disband the Task Group.
 
 A Task Group charter can be revised at any time and submitted to the Secretary as a draft. A draft revision may reflect minor corrections or clarification, or may reflect a change in operation or purpose. The Secretary may approve minor changes, but must distribute any substantive revision to the Executive Committee for review and approval before it replaces a prior charter.
