@@ -1,6 +1,6 @@
 ---
 title: TDWG Process
-summary: The organisational and procedural framework for developing and ratifying TDWG standards. 
+summary: These are the TDWG by-laws adopted by members in 2006. They specify organisational and procedural framework for developing and ratifying TDWG standards. 
 cover_image: https://images.unsplash.com/photo-1527746010177-09bdc64a276d
 cover_image_by: Casey Horner
 cover_image_ref: https://unsplash.com/photos/4mjM65c95ik
