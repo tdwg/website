@@ -8,9 +8,9 @@ tags:
 page_order: 5
 ---
 
-Certified [articles of incorporation]({file}) in State of California
+State of California: certified [articles of incorporation]({file})
 
-[Letter of determination -- IRS 501(c)(3) status]() (EIN redacted)
+United States Federal Governement: [Letter of determination -- IRS 501(c)(3) status]() (EIN redacted)
   _Contact the [secretariat](secretariat@tdwg.org) if a full copy.
 
-Stichting (non-profit) registration in the Netherlands (coming)
+Netherlands:  Stichting (non-profit) registration (coming)
