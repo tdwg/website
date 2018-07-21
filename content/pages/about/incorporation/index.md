@@ -10,7 +10,7 @@ page_order: 5
 
 State of California: certified [articles of incorporation]({file})
 
-United States Federal Governement: [Letter of determination -- IRS 501(c)(3) status]() (EIN redacted)  
-  _Contact the [secretariat](secretariat@tdwg.org) if a full copy.
+United States of America: [Letter of determination -- IRS 501(c)(3) status]() (Employer identification number \[EIN\] redacted)  
+  _Contact the [secretariat](mailto:secretariat@tdwg.org) for a copy without redaction._
 
 Netherlands:  Stichting (non-profit) registration (coming)
