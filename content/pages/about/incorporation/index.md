@@ -8,7 +8,7 @@ tags:
 page_order: 5
 ---
 
-State of California: certified [articles of incorporation]({file})
+State of California: certified [articles of incorporation]({filename}tdwg_ca_nonprofit_incorporation.pdf)
 
 United States of America: [Letter of determination -- IRS 501(c)(3) status]({filename}tdwg_irs_det_501c3_no-ein.pdf) (with employer identification number \[EIN\] redacted).  
   _Contact the [secretariat](mailto:secretariat@tdwg.org) for a copy without redaction._
