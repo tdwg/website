@@ -8,13 +8,13 @@ tags:
 page_order: 5
 ---
 
-TDWG is an open, bottom-up organization; anyone can become a member. Institutions (including government agencies, non-governmental organizations, programs, and projects) can also become members. Everything TDWG produces comes from the expertise, collaboration, and support of its members -- people and organizations who create, manage, integrate, and analyze biodiversity information. Individual members are professional biologists or information scientists, but all have a passion for living things. If _your_ work involves large quantities of biodiversity information, then you might recoognize that information management is one of your challenges. TDWG is good place to learn about the synthetic discipline of biodiversity informatics.  Get involved, share your experiences, and collaborate with your peers to build future solutions.
+TDWG is an open, bottom-up organization. Anyone can become a member. Institutions (including government agencies, non-governmental organizations, programs, and projects) can also become members. Everything TDWG produces comes from the expertise, collaboration, and support of its members -- people and organizations who create, manage, integrate, and analyze biodiversity information. Individual members are professional biologists or information scientists, but all have a passion for living things. If _your_ work involves large quantities of biodiversity information, then you might recoognize that information management is one of your challenges. TDWG is good place to learn about the synthetic discipline of biodiversity informatics.  Get involved, share your experiences, and collaborate with your peers to build future solutions.
 
 TDWG's mission, structure, membership, and governance are established in its **[Constitution](./constitution/).**  Members elect officers to an **[Executive Committee](executive)**, which then sets direction, coordinates standards development, and oversees day-to-day operations.  Additional on-going support is provided by **[functional subcommittees](committees/)** (i.e., standing committees), whose leaders are also elected by members and serve _ex-officio_ on the Executive Committee.  
 
 TDWG **[standards](/standards/)** are developed by **[interest groups](/community/).** The process for establishing interest groups and ratifying standards is described in the **[TDWG Process]().**  More recently, TDWG has adopted another specification to guide the incremental [maintenance of vocabulary standards](https://dev.tdwg.org/standards/vms/).
 
-TDWG is incorporated in California and has formal non-profit status \[501(c)(3)\] in the United States. TDWG is also registered as a "stichting" (foundation) in the Netherlands, giving it non-profit status in the European Union.  See formal registration documents and filings [here](./incorporation/).
+TDWG is incorporated in California and has formal 501(c)(3) non-profit status in the United States. TDWG is also registered as a "stichting" (foundation) in the Netherlands, giving it non-profit status in the European Union.  See formal registration documents and filings [here](./incorporation/).
 
 The following resources will help you learn about TDWG, stay aware of developments, and participate in the advancement of biodiversity information science.
 
@@ -41,7 +41,7 @@ TDWG has engaged Pensoft, an academic publishing company specializing in open-ac
 
 ## Participate and contribute
 
-Membership supports the work of the organization, but participation is the key driver of progress. You do not have to be a member to participate.  Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas.  Ultimately, become a leader in TDWG by standing for election to the Executive Committee or volunteering to lead an interest group or contribute to the work of a [subcommittee](./committees/).
+Participation is the key driver of progress. You do not have to be a member to participate. Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas. Ultimately, become a leader in TDWG by standing for election to the Executive Committee or volunteering to lead an interest group or contribute to the work of a [subcommittee](./committees/).
 
 #### Conferences
 
