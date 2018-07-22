@@ -41,18 +41,11 @@ TDWG has engaged Pensoft, an academic publishing company specializing in open-ac
 
 ## Participate and contribute
 
-Membership supports the work of the organization, but participation is the most important resource. You do not have to be a member to participate.  Begin by reading and getting oriented, then participate in our community of interest groups to share your opinions and ideas.  Ultimately, become a leader in TDWG by standing for election to the Executive Committee or volunteering to lead an interest group.
+Membership supports the work of the organization, but participation is the key driver of progress. You do not have to be a member to participate.  Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas.  Ultimately, become a leader in TDWG by standing for election to the Executive Committee or volunteering to lead an interest group or contribute to the work of a [subcommittee](./committees/).
 
 #### Conferences
 
 TDWG's annual conferences are usually held in the fall and occupy a full work week (Mon-Fri).  Conference locations rotate among the continents something like "Europe, North America, and other", where "other" can be Africa, Asia, Australia/Oceania, or Latin America. Conferences typically draw between 150 and 225 participants.
 
 Conference Proceedings (abstracts of presentations) are available online since 2006. Presentations (PPT or PDF) files are available for many presentations since 2008, and recordings are available for most presentations since 2015.  From 2017 going forward, our conference proceedings (abstracts of contributions) will be published in our journal, [Biodiversity Information Science and Standards (BISS)](/journal/).  
-
-#### Interest groups
-
-
-#### Leadership
-
-Executive Committee and Functional Subcommittees
 
