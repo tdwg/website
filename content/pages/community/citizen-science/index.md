@@ -1,5 +1,5 @@
 ---
-title: Citizen science
+title: Citizen Science
 summary: 
 cover_image: https://images.unsplash.com/photo-1520885708668-9ef025710520
 cover_image_by: Jordan Madrid
