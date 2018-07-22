@@ -45,11 +45,12 @@ TDWG has engaged Pensoft, an academic publishing company specializing in open-ac
 
 #### Conferences
 
-TDWG annual conference are usually held in the Fall and occupy the full five days of a work week (Mon-Fri).  Conferences rotate among the continents on pattern something like "Europe, North America, other", where "other" can be Australia/Oceania, Latin America, Asia, or Africa. Our conference typically draws between 150 and 225 participants.
+TDWG's annual conferences are usually held in the fall and occupy a full work week (Mon-Fri).  Conference locations rotate among the continents something like "Europe, North America, other", where "other" can be Australia/Oceania, Latin America, Asia, or Africa. Conference typically draw between 150 and 225 participants.
 
 Conference Proceedings (abstracts of presentations) are available online since 2006. Presentations (PPT or PDF) files are available for many presentations since 2008, and recordings are available for most presentations since 2015.
 
 #### Interest groups
+
 
 #### Leadership
 
