@@ -8,7 +8,7 @@ tags: interest group
 github: https://github.com/tdwg/annotations
 ---
 
-_Copied from <http://www.tdwg.org/activities/annotations-test/>_
+<!-- Copied from <http://www.tdwg.org/activities/annotations-test/> -->
 
 # TDWG: Annotations
 
