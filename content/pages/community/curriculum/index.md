@@ -8,7 +8,7 @@ tags: interest group
 github: https://github.com/tdwg/curriculum
 ---
 
-_Copied from <http://www.tdwg.org/activities/bdi-curriculum-ig/charter/>_
+<!-- Copied from <http://www.tdwg.org/activities/bdi-curriculum-ig/charter/> -->
 
 ## Convener
 
