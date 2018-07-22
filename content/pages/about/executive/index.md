@@ -1,5 +1,5 @@
 ---
-title: Executive committee
+title: Executive Committee
 summary: 
 cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
 cover_image_by: Tim Graf
@@ -8,7 +8,7 @@ tags:
 page_order: 1
 ---
 
-## Officers and Elections
+## Officers and elections
 
 TDWG is lead by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution](../constitution) and further described in a [supplementary document](http://www.tdwg.org/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
 
@@ -22,7 +22,7 @@ The term of office for all roles is normally two calendar years, with terms stag
 
 Term of office shown as span of calendar years, inclusive.
 
-## Core Officers
+## Core officers
 
 ### Chair
 Dimitris Koureas -
@@ -49,7 +49,7 @@ Missouri Botanical Garden. St. Louis, MO, USA
 (2018-2019)  
 
 
-## Subcommittee Chairs
+## Subcommittee chairs
 
 ### Technical Architecture Group, Chair
 Paul Morris -
@@ -57,34 +57,32 @@ Museum of Comparative Zoology, Cambrige, MA, USA
 [mole (at) morris (dot) net](mailto:mole@morris.net)  
 (2018-2019)  
 
-
-### Fundraising and Partnerships Subcommittee, Chair
+### Fundraising and Partnerships subcommittee, Chair
 Martin Kalfatovic -
 Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
 [martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)  
 (2017-2018)  
 
-### Infrastructure Subcommittee, Chair
+### Infrastructure subcommittee, Chair
 Tim Robertson -
 Global Biodiversity Information Facility, Copenhagen, DENMARK
 [trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)  
 (2018-2019)  
 
-
-### Outreach and Communications Subcommittee, Chair
+### Outreach and Communications subcommittee, Chair
 Prabhakar Rajagopal -
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
 [prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)  
 (2017-2018)  
 
-### Time and Place Subcommittee, Chair
+### Time and Place subcommittee, Chair
 Patricia Mergen -
 Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
 [mergen.patricia (at) gmail (dot) com](mailto:mergen.patricia@gmail.com)  
 (2018-2019)  
 
 
-## Regional Representatives
+## Regional representatives
 
 ### Africa
 Lucy Waruingi -
@@ -124,7 +122,7 @@ CSIRO, Canberra, AUSTRALIA
 (2018-2019)  
 
 
-## Regularly Invited Participants (Non-Voting)
+## Regularly invited participants (non-voting)
 
 ### Conference Program Committee Co-Chair
 Gail Kampmeier -
