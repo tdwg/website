@@ -12,10 +12,10 @@ github:
 
 ## Convener
 
-Robert A. Morris 
-Department of Computer Science, University of Massachusetts/Boston; 
-100 Morrissdey Blvd; Boston, MA 02125, USA 
-Email: name [at] cs.umb.edu, replace "name" with "ram"
+Robert A. Morris  
+Department of Computer Science, University of Massachusetts/Boston;  
+100 Morrissey Blvd; Boston, MA 02125, USA  
+Email: name [at] cs.umb.edu, replace "name" with "ram"  
 
 ## Purpose
 
