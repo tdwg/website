@@ -1,5 +1,5 @@
 ---
-title: Species information
+title: Species Information
 summary: 
 cover_image: https://images.unsplash.com/photo-1507491518447-ac20c6c50dc9
 cover_image_by: Rémi Müller
@@ -30,7 +30,7 @@ Sharing species information is not only about exchanging information among peers
 
 This group, open to all interested parties, originates from mainly from two current initiatives "Encyclopedia of Life" and "Plinian Core Group".
 
-## Becoming Involved
+## Becoming involved
 
 There are numerous projects around the world that aims to respond to the demand for "species information". Many of the elements sought and produced within these initiatives could be effectively re-used if there were a common language and a framework. This interest group is established to advance these common components. 
 
