@@ -8,7 +8,7 @@ tags: interest group
 github: https://github.com/tdwg/species-information
 ---
 
-_Copied from <http://www.tdwg.org/activities/species-information/charter/>_
+<!-- Copied from <http://www.tdwg.org/activities/species-information/charter/> -->
 
 ## Convenor
 
