@@ -1,35 +1,29 @@
 ---
 title: Community support
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1513149739851-50f01dfcbd9a
+cover_image_by: Marion Michele
+cover_image_ref: https://unsplash.com/photos/jqTSl68betY
 tags: 
 page_order: 102
 ---
 
-*Copied from <http://www.tdwg.org/activities/comm-support-fund/>*
-
-## Call for TDWG CSF Proposals (Call ID: 1701)
-
-* Proposals must be submitted by Interest or Task Group Conveners using the [form for CSF 1701 proposals](http://goo.gl/forms/ksAbIC0tTj4Tx4dY2).
-* **Deadline for proposals under this call (1701): April 10, 2017**
-
-Please be aware that proposals from Groups that have a current annual report will be given preference. Instructions and a template for IG/TG annual reports is linked under item 6 on the [Convener Responsibilities](http://www.tdwg.org/activities/comm-support-fund/activities/convener-responsibilities/) page. See the description of the CSF program below.
 
 ## What is the TDWG Community Support Fund?
 
-TDWG Interest (IG) and Task (TG) Groups undertake the core business of developing, maintaining, and integrating biodiversity information standards. TDWG is committed to supporting the work of IG and TG, by contributing to the costs of conducting working meetings. Support is provided through a fund dedicated to this purpose, the TDWG Community Support Fund (CSF). The size of the Fund is adjusted yearly by decision of the TDWG Executive Committee.
+TDWG Interest (IG) and Task (TG) Groups undertake the core business of developing, maintaining, and integrating biodiversity information standards. TDWG is committed to supporting the work of I/TGs by contributing to the costs of conducting working meetings. Support is provided through a fund dedicated to this purpose, the TDWG Community Support Fund (CSF). The size of the Fund is adjusted yearly by decision of the TDWG Executive Committee.
 
 ## What does the TDWG CSF cover?
 
 1. Travel and subsistence support for participation in IG/TG working meetings.
-2. Costs directly related to the organization of IG/TG working meetings, including venue hire.
-3. Costs related to the dissemination of the workshop/meeting results and engagement of stakeholders.
+1. Costs directly related to the organization of IG/TG working meetings, including venue hire.
+1. Costs related to the dissemination of the workshop/meeting results and engagement of stakeholders.
 
 ## Who can apply?
 
 TDWG IG/TG conveners may apply for funds to (co-)organize IG/TG working meetings.
+
+Please be aware that proposals from Groups that have a current annual report will be given preference. Instructions and a template for IG/TG annual reports is linked under item 6 on the [Convener Responsibilities](http://www.tdwg.org/activities/comm-support-fund/activities/convener-responsibilities/) page. 
 
 ## Call frequency
 
@@ -38,10 +32,10 @@ Provided that sufficient resources are available, a call for applications will b
 ## Criteria for awarding TDWG CSF
 
 1. Previous activity of the Group, proven through annual reports submitted to the TDWG Executive Committee or other public reports and products (not applicable to new Groups*)
-2. Overall impact, timeliness and cost efficiency
-3. Inclusiveness of the participation model (e.g., percentage of new members participating and geographic coverage)
-4. Expected progress on development of new or revision of current TDWG standards
-5. Availability of matching funds from other sources (as percentage of total costs)
+1. Overall impact, timeliness and cost efficiency
+1. Inclusiveness of the participation model (e.g., percentage of new members participating and geographic coverage)
+1. Expected progress on development of new or revision of current TDWG standards
+1. Availability of matching funds from other sources (as percentage of total costs)
 
 _New Groups are here defined as formally endorsed IG and TG with less than a year's activity from the time of approval._
 
