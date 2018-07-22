@@ -36,10 +36,10 @@ TDWG is now using GitHub as its primary collaboration platform. It combines the 
 
 TDWG has engaged Pensoft, an academic publishing company specializing in open-access semantic publishing, to publish our annual Proceedings (abstracts of contributions to the annual conference), as well as descriptions of new TDWG standards and independently contributed full-length papers.  (See [Journal](/journal/).)
 
-#### [Other Resources]()
+#### [Other resources]()
 
 
-## Participate and Contribute
+## Participate and contribute
 
 #### Website
 
@@ -49,7 +49,7 @@ TDWG annual conference are usually held in the Fall and occupy the full five day
 
 Conference Proceedings (abstracts of presentations) are available online since 2006. Presentations (PPT or PDF) files are available for many presentations since 2008, and recordings are available for most presentations since 2015.
 
-#### Interest Groups
+#### Interest groups
 
 #### Leadership
 
