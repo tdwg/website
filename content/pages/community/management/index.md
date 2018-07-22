@@ -1,16 +1,14 @@
 ---
-title: Community management
+title: Community Management
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1519200566043-99f14d08fcf9
+cover_image_by: Mahir Uysal
+cover_image_ref: https://unsplash.com/photos/ywVLrYtNXMQ
 tags: 
 page_order: 101
 ---
 
-_Copied from <http://www.tdwg.org/activities/convener-responsibilities/>_
-
-Responsibilities of Conveners:
+## Responsibilities of conveners:
 
 1. Work with other potential stakeholders to draft the Interest or Task Group Charter and submit it for review by the Executive Committee. 
   1. The charter must be clear and concise; this information will be public and therefore seen by potential members.
