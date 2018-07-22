@@ -12,13 +12,11 @@ github: https://github.com/tdwg/species-information
 
 ## Convenor
 
-Francisco Pando
-
-Real Jardín Botánico - CSIC
-Plaza de Murillo228014
-Madrid, Spain
-
-email Francisco Pando pando [AT] rjb [dot] csic [dot] es
+Francisco Pando  
+Real Jardín Botánico - CSIC  
+Plaza de Murillo 228014  
+Madrid, Spain  
+email: pando [AT] rjb [dot] csic [dot] es
 
 ## Summary
 
