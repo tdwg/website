@@ -8,7 +8,7 @@ tags: interest group
 github: 
 ---
 
-_Copied from <http://www.tdwg.org/activities/process/>_
+<!-- Copied from <http://www.tdwg.org/activities/process/> -->
 
 ## Convener
 
