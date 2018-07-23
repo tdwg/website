@@ -47,7 +47,7 @@ TDWG has engaged Pensoft, an academic publishing company specializing in open-ac
 
 ## Participate and contribute
 
-Participation is the key driver of progress. You do not have to be a member to participate. Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas. Ultimately, become a leader in TDWG by standing for election to the [Executive Committee](./executive/) or volunteering to lead an [interest group](./community/) or contribute to the work of a [subcommittee](./committees/).
+Participation is the key driver of progress in TDWG. You do not have to be a member to participate. Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas. Perhaps sooner than you expected, you might become a leader in TDWG. Consider standing for election to the [Executive Committee](./executive/), stepping up to lead an [interest group](./community/), or contributing to the work of a [subcommittee](./committees/).
 
 #### Conferences
 
