@@ -10,126 +10,47 @@ page_order: 1
 
 ## Officers and elections
 
-TDWG is lead by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution](../constitution) and further described in a [supplementary document](http://www.tdwg.org/fileadmin/executive/TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
+TDWG is lead by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution]({filename}../constitution/index.md) and further described in a [supplementary document]({filename}TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
 
 The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
-
----
-
-**2018 EXECUTIVE COMMITTEE**
------
+## Current executive committee
 
 Term of office shown as span of calendar years, inclusive.
 
-## Core officers
+### Core officers
 
-### Chair
-Dimitris Koureas -
-Naturalis Biodiversity Center, Leiden, NETHERLANDS
-[dimitris.koureas (at) naturalis (dot) nl](mailto:dimitris.koureas@naturalis.nl)  
-(2017-2018)  
+Role | Name | Affiliation | Term of office
+--- | --- | --- | ---
+Chair | [Dimitris Koureas](mailto:dimitris.koureas@naturalis.nl) | Naturalis Biodiversity Center, Leiden, Netherlands | 2017-2018
+Deputy Chair | [James Macklin](mailto:james.macklin@agr.gc.ca) | Agriculture and Agri-Food Canada, Ottawa, ON, Canada | 2017-2018
+Secretary | [Quentin Groom](mailto:secretary@tdwg.org) | Botanic Garden Meise, Meise, Belgium | 2017-2018
+Treasurer | [William Ulate](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, St. Louis, MO, United States | 2018-2019
 
-### Deputy Chair
-James Macklin -
-Agriculture and Agri-Food Canada,. Ottawa, Ontario, CANADA
-[james.macklin (at) agr (dot) gc (dot) ca](mailto:james.macklin@agr.gc.ca)  
-(2017-2018)  
+### Subcommittee chairs
 
-### Secretary
-Quentin Groom -
-Botanical Garden Meise, BELGIUM
-[secretary (at) tdwg (dot) org](mailto:secretary@tdwg.org)  
-(2017-2018)  
+Functional subcommittee | Name | Affiliation | Term of office
+--- | --- | --- | ---
+[Technical Architecture Group]({filename}../committees/tag/index.md) | [Paul Morris](mailto:mole@morris.net) | Museum of Comparative Zoology, Cambrige, MA, United States | 2018-2019
+[Fundraising and Partnerships]({filename}../committees/fundraising/index.md) | [Martin Kalfatovic](mailto:martin.kalfatovic@gmail.com) | Smithsonian Institution Libraries and Biodiversity Heritage Library, Washington DC, United States | 2017-2018
+[Infrastructure]({filename}../committees/infrastructure/index.md) | [Tim Robertson](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2018-2019
+[Outreach and Communications]({filename}../committees/outreach/index.md) | [Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, India | 2017-2018
+[Time and Place]({filename}../committees/tardis/index.md) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2018-2019
 
-### Treasurer
-William Ulate -
-Missouri Botanical Garden. St. Louis, MO, USA
-[treasurer (at) tdwg (dot) org](mailto:treasurer@tdwg.org)  
-(2018-2019)  
+### Regional representatives
 
+Region | Name | Affiliation | Term of office
+--- | --- | --- | ---
+Africa | [Lucy Waruingi](mailto:lucy.waruingi@acc.or.ke) | African Conservation Centre, Nairobi, Kenya | 2017-2018
+Asia | [Ji Liqiang](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, Beijing, China | 2017-2018
+Europe | [Wouter Addink](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Leiden, Netherlands | 2018-2019
+Latin America | [Bruno de Carvalho Albertini](mailto:balbertini@gmail.com) | University of Sao Paulo, Sao Paulo, Brazil | 2018-2019
+North America | [Cynthia Parr](mailto:csparr@tdwg.org) | National Agricultural Library, USDA, Beltsville, MD, United States | 2017-2018
+Oceania | [Simon Checksfield](mailto:simon.checksfield@csiro.au) | CSIRO, Canberra, Australia | 2018-2019
 
-## Subcommittee chairs
+### Regularly invited participants (non-voting)
 
-### Technical Architecture Group, Chair
-Paul Morris -
-Museum of Comparative Zoology, Cambrige, MA, USA
-[mole (at) morris (dot) net](mailto:mole@morris.net)  
-(2018-2019)  
-
-### Fundraising and Partnerships subcommittee, Chair
-Martin Kalfatovic -
-Smithsonian Institution Libraries and Biodivesity Heritage Library, Washington DC, USA
-[martin (dot) kalfatovic (at) gmail (dot) com](mailto:martin.kalfatovic@gmail.com)  
-(2017-2018)  
-
-### Infrastructure subcommittee, Chair
-Tim Robertson -
-Global Biodiversity Information Facility, Copenhagen, DENMARK
-[trobertson (at) gbif (dot) org](mailto:trobertson@gbif.org)  
-(2018-2019)  
-
-### Outreach and Communications subcommittee, Chair
-Prabhakar Rajagopal -
-Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, INDIA
-[prabha.prabhakar (at) gmail (dot) com](mailto:prabha.prabhakar@gmail.com)  
-(2017-2018)  
-
-### Time and Place subcommittee, Chair
-Patricia Mergen -
-Royal Museum for Central Africa and Botanic Garden Meise, BELGIUM
-[mergen.patricia (at) gmail (dot) com](mailto:mergen.patricia@gmail.com)  
-(2018-2019)  
-
-
-## Regional representatives
-
-### Africa
-Lucy Waruingi -
-African Conservation Centre, Nairobi, KENYA
-[lucy (dot) waruingi (at) acc (dot) or (dot) ke](mailto:lucy.waruingi@acc.or.ke)  
-(2017-2018)  
-
-### Asia
-Ji Liqiang -
-Institute of Zoology, Chinese Academy of Sciences, CHINA
-[ji (at) ioz (dot) ac (dot) cn](http://ji/%28at%29ioz.ac.cn/)  
-(2017-2018)  
-
-### Europe
-Wouter Addink -
-Naturalis Leiden, NETHERLANDS
-[wouter (dot) addink (at) naturalis (dot) nl](mailto:wouter.addink@anturalis.nl)  
-(2018-2019)  
-
-
-### Latin America
-Bruno de Carvalho Albertini -
-University of Sao Paulo, BRASIL
-[balbertini (at) gmail (dot) com](mailto:balbertini@gmail.com)  
-(2018-2019)  
-
-### North America
-Cynthia Parr -
-National Agricultural Library, USDA, Beltsville, MD, USA
-[csparr (at) tdwg (dot) org](mailto:csparr@tdwg.org)  
-(2017-2018)  
-
-### Oceania
-Simon Checksfield -
-CSIRO, Canberra, AUSTRALIA
-[simon (dot) checksfield (at) csiro (dot) au](mailto:simon.checksfield@csiro.au)  
-(2018-2019)  
-
-
-## Regularly invited participants (non-voting)
-
-### Conference Program Committee Co-Chair
-Gail Kampmeier -
-Urbana-Champaign, IL, USA
-[gkamp (at) illinois (dot) edu](mailto:gkamp@illinois.edu)
-
-### TDWG Coordinator
-Stan Blum -
-San Fancisco, USA
-[stanblum (at) gmail (dot) com](mailto:stanblum@gmail.com)
+Role | Name | Affiliation
+--- | --- | ---
+Conference Program Committee Co-Chair | [Gail Kampmeier](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, United States
+TDWG Coordinator | [Stan Blum](mailto:stanblum@gmail.com) | San Francisco, CA, United States
