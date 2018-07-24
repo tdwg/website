@@ -6,7 +6,6 @@ cover_image_by: Hannes Wolf
 cover_image_ref: https://unsplash.com/photos/n2ILm0aTCYo
 tags: 
 page_order: 4
-toc_headers: ^h[2-3]
 ---
 
 ## Article 1. Name and Purpose
