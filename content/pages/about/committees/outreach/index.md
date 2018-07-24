@@ -7,8 +7,6 @@ cover_image_ref: https://unsplash.com/photos/1Q1P_XpWylY
 tags: functional subcommittee
 ---
 
-![hello]({attach}../photo-1463468217891-c11f48e6310a.jpeg)
-
 _Copied from <https://github.com/tdwg/charters/blob/master/charters/outreach.md>_
 
 ## Motivation
