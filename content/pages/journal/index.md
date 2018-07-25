@@ -21,7 +21,8 @@ BISS will now be the venue for TDWG Proceedings, i.e., the abstracts of presenta
 BISS uses the innovative [ARPHA](http://arphahub.com/) publishing platform, streamlining the authoring, peer reviewing, and indexing process in a single collaborative environment. 
 
 ## Article processing charges (APCs)
-Charges for full articles outside of the volume dedicated to the annual meeting abstracts are € 480 (for [TDWG members](https://dev.tdwg.org/about/membership/) in good standing) or € 560 (for non-members). The APC discounted rate is a membership benefit available to submitting or corresponding authors. Articles relating to the core business of TDWG (e.g., publication of new standards) will have their APCs waived at the discretion of the TDWG Executive. 
+
+Charges for full articles outside of the volume dedicated to the annual meeting abstracts are € 480 (for [TDWG members]({filename}../about/membership/index.md) in good standing) or € 560 (for non-members). The APC discounted rate is a membership benefit available to submitting or corresponding authors. Articles relating to the core business of TDWG (e.g., publication of new standards) will have their APCs waived at the discretion of the TDWG Executive. 
 
 APCs for conference abstracts will be determined each year by the Conference Organizing Committees.  Current practice is to build these into registration fees and/or to solicit sponsoring contributions for the annual proceedings.
 

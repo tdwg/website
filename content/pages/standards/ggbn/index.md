@@ -2,13 +2,13 @@
 title: Global Genome Biodiversity Network (GGBN) 
 summary: 
 cover_image: https://images.unsplash.com/photo-1426372371732-eb62c97a4b98
-cover_image_by: Lukasz Szmigiel @szmigieldesign
+cover_image_by: Lukasz Szmigiel
 cover_image_ref: https://unsplash.com/photos/VJfDk7oJflE
 tags: technical specification, draft standard
 github: https://github.com/tdwg/abcddna
 ---
 
-**Status:**  TDWG Draft Standard
+**Status:** TDWG Draft Standard
 
 **Complements TDWG Standards:**
 
@@ -21,7 +21,8 @@ github: https://github.com/tdwg/abcddna
 
 **Copyright:** Copyright © GGBN (2016). All Rights Reserved. 
 
-#### Citation: 
+#### Citation
+
 > Droege et al (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. [doi:10.1093/database/baw125](https://dx.doi.org/10.1093%2Fdatabase%2Fbaw125)
 
 ## Abstract

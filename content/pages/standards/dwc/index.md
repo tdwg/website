@@ -9,6 +9,7 @@ github: https://github.com/tdwg/dwc
 ---
 
 ## Summary
+
 The Darwin Core is a set of terms and definitions that facilitate the exchange of information about the geographic occurrence of organisms and the physical existence of biotic specimens in collections. Extensions to the Darwin Core provide a mechanism to share additional information, which may be discipline-specific, or beyond the commonly agreed upon scope of the Darwin Core itself. The Darwin Core and its extensions are primarily focused on intended semantics (definitions) and impose relatively few constraints on format or encoding. This makes the standard maximally useful in data publishing (reduces barriers), and enables the standard to support pipelines and other tools that can incrementally improve data quality. For more complete description and history, see the references below.
 
 The Darwin Core is a ratified TDWG standard. Modifications and enhancements are managed by the Darwin Core Maintenance Group.

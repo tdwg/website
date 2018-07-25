@@ -54,7 +54,7 @@ IGNORE_PAGE_SLUG = True
 
 # For pelican-toc
 TOC = {
-    "TOC_HEADERS": "^h2",
+    "TOC_HEADERS": "^h[2-3]",
     "TOC_INCLUDE_TITLE": False
 }
 

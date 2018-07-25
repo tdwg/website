@@ -10,6 +10,6 @@ page_order: 4
 
 ## Interested in hosting a meeting?
 
-Get in touch with the [time and place subcommittee]({filename}/pages/about/committees/tardis/index.md).
+Get in touch with the [time and place subcommittee]({filename}../about/committees/tardis/index.md).
 
 ## Conferences
