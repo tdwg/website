@@ -15,4 +15,4 @@ THEME = "tdwg-theme" # Dependencies shouldn't be outside the Jenkins workspace
 
 # EXTERNAL SERVICES
 DISQUS_SITENAME = ""
-GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-122881526-1"
