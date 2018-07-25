@@ -8,7 +8,7 @@ tags:
 page_order: 3
 ---
 
-TDWG has individual and institutional members. Contact [secretary@tdwg.org](secretary@tdwg.org) if you want to become a member.
+TDWG has individual and institutional members. Contact [secretary@tdwg.org](mailto:secretary@tdwg.org) if you want to become a member.
 
 ## Benefits of membership
 
