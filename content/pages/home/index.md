@@ -26,13 +26,12 @@ call2_button: Become a member
 call2_link: about/membership/
 ---
 
-The International Working Group on Taxonomic Databases (herein called "TDWG") is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information so as to promote the wider and more effective dissemination of information about the world's heritage of biological organisms for the benefit of the world at large.
+Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
 
-To achieve its goals, TDWG
+To achieve its goals, TDWG:
 
-1. develops and adopts standards and guidelines for recording and exchanging data about organisms;
-2. promotes their use through training and outreach;
-3. acts as a forum for discussing biodiversity informatics through meetings, publications, and online collaboration; and
-4. undertakes any other activities that support the organisation and its mission.
+- develops, adopts and promotes standards and guidelines for the recording and exchange of data about organisms
+- promotes the use of these standards and guidelines through the most appropriate and effective means
+- acts as a community forum for discussion through meetings, online discussions, and publications.
 
-See the [About]({filename}../about/index.md) section to learn how TDWG operates and how you can participate.  Active Interest Groups are described under [Community]({filename}../community/index.md).
+See the [About]({filename}../about/index.md) section to learn how TDWG operates and how you can participate. Active Interest Groups are described under [Community]({filename}../community/index.md).
