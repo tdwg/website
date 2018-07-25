@@ -1,9 +1,9 @@
 ---
 title: Community
 summary: The TDWG community is organized in **Interest Groups** (listed below). These can have dedicated **Task Groups** to work on a standard or recommendation (listed on Interest Group pages). Ratified standards are maintained by **Standard Maintenance Groups** (listed on [standard pages]({filename}/pages/standards/index.md)).
-cover_image: https://c1.staticflickr.com/1/375/30751387213_3015d98ec2_b.jpg
+cover_image: https://c1.staticflickr.com/1/489/30668600364_4695fef168_b.jpg
 cover_image_by: Denisse Vargas
-cover_image_ref: https://www.flickr.com/photos/145649587@N03/30751387213/in/pool-tdwg16/
+cover_image_ref: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/
 tags: 
 tag_sections: Interest group, Task group
 template: page_tag_sections
