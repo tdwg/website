@@ -8,32 +8,31 @@ tags:
 page_order: 3
 ---
 
-TDWG has individual and institutional members.  
+TDWG has individual and institutional members. Contact [secretary@tdwg.org](secretary@tdwg.org) if you want to become a member.
 
 ## Benefits of membership
 
 * Voting rights:  TDWG members can vote in TDWG elections (Executive officers, subcommittee Chairs, rules of governance)
-* Discount on article publishing charges (APCs) in the TDWG Journal -- [Biodiversity Information Science and Standards (BISS)](/journal/)
+* Discount on article publishing charges (APCs) in the TDWG Journal [Biodiversity Information Science and Standards (BISS)]({filename}../../journal/index.md)
 
 ## Period
 
 Membership is based on the calendar year.  
 
-## Mebership Dues 
+## Membership dues 
 
-### Individual Membership
+### Individual membership
 
 * $75 USD
 
-### Institutional Membership
+### Institutional membership
 
 * $500 USD -- discounted 20% ($400) for early payment (before 1 March)
 
+## Payment methods
 
-## Payment Methods
+Membership dues can be paid:
 
-Membership dues can be paid: 
 * online by credit card 
 * by bank wire (request banking details and an invoice)
 * by check if drawn on a United States bank (payee "TDWG"). 
-
