@@ -20,6 +20,8 @@ Deploy
 
 ## Deployment
 
+[tdwg.org](https://www.tdwg.org) is rebuilt automatically for any change on the `master` branch in [this repository](https://github.com/tdwg/website) or the [tdwg-theme repository](https://github.com/tdwg/tdwg-theme). You can see the status of the builds at <https://builds.gbif.org/job/tdwg-website/>. If you want to build the website locally, do the following:
+
 ### Installation
 
 1. Verify Python 3.3+ is installed: `python -V`
@@ -32,10 +34,8 @@ Deploy
 ### Build site
 
 1. Navigate to the website directory: `cd website`
-2. Build the site:
-    * Locally: `pelican -s settings.py`
-    * On production server: `pelican -s settings-prod.py`
-3. The website is generated in `output/`
+2. Build the site locally: `pelican -s settings.py`
+3. The website is generated in `output/` which you can serve with e.g. `python -m http.server 8000`
 
 ## Contributors
 
