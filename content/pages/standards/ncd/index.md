@@ -8,7 +8,7 @@ tags: technical specification, draft standard
 github: https://github.com/tdwg/ncd
 ---
 
-**Status note:**  _NCD is a draft standard that was develop more than a decade ago and submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since then. The [NCD Interest Group](https://github.com/tdwg/ncd) was reestablished in 2016 and has begun to re-work the draft specification with the ultimate aim of getting it ratified as a TDWG standard._
+**Status note:** _NCD is a draft standard that was develop more than a decade ago and submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since then. The [NCD Interest Group](https://github.com/tdwg/ncd) was reestablished in 2016 and has begun to re-work the draft specification with the ultimate aim of getting it ratified as a TDWG standard._
 
 _The last version of the draft standard, [NCD-v090](https://github.com/tdwg/ncd/tree/master/NCD-v090_TDWG) consists of two parts, a normative document, which specifies classes, attributes, and their definitions, and a second part, which explains the rationale for the design and composition. The text below was taken from the Summary of the non-normative part._
 
@@ -18,7 +18,7 @@ _The last version of the draft standard, [NCD-v090](https://github.com/tdwg/ncd/
 
 ## Summary
 
-Natural Collections Description (NCD) is a data standard for describing collections of natural history materials at the collection level; one NCD record [some elements may repeat] describes one entire collection.
+Natural Collections Description (NCD) is a data standard for describing collections of natural history materials at the collection level; one NCD record (some elements may repeat) describes one entire collection.
 
 Collection descriptions are electronic records that document the holdings of an organisation as groups of items, which complement the more traditional item-level records such as are produced for a single specimen or a library book. NCD is tailored to natural history. It lies between general resource discovery standards such as Dublin Core (DC) and rich collection description standards such as the Encoded Archival Description (EAD). It is possible to extract a Dublin Core record from an NCD record for use with general resource discovery systems, or to use an NCD record as the seed for a richer collection description, like an EAD record.
 

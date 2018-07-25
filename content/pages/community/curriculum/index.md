@@ -19,7 +19,7 @@ Email: hanna.koivula [at] iki.fi
 
 ## Core members
 
-We will collect core members via email (hanna.koivula(at)iki.fi) and on the GBIF community site. All GBIF community site pages are visible for anyone, but for comments user must register.  <http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/>
+We will collect core members via email (hanna.koivula(at)iki.fi) and on the GBIF community site. All GBIF community site pages are visible for anyone, but for comments user must register. <http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/>
 
 ### Initial list of core members
 

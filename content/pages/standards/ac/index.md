@@ -14,7 +14,7 @@ The Audubon Core (AC) is a set of vocabularies designed to represent metadata fo
 
 ## The Audubon Core Maintenance Group
 
-Audubon Core is maintained by a specialized [Interest Group](http://www.tdwg.org/about-tdwg/process/) whose [charter](https://github.com/tdwg/ac/blob/master/audubon-core_maintenance-group_charter.md) was approved in January 2018.  The functions of the Audubon Core Maintenance Group are described in detail in [Section 2 of the TDWG Vocabulary Maintenance Specification](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md#2-administration).  In brief, the Maintenance Group manages vocabulary term additions and changes, and maintains the documentation that helps users to understand and apply the standard.  As an Interest Group, it may establish Task Groups to accomplish broader changes to the standard.  
+Audubon Core is maintained by a specialized [Interest Group](http://www.tdwg.org/about-tdwg/process/) whose [charter](https://github.com/tdwg/ac/blob/master/audubon-core_maintenance-group_charter.md) was approved in January 2018. The functions of the Audubon Core Maintenance Group are described in detail in [Section 2 of the TDWG Vocabulary Maintenance Specification](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md#2-administration). In brief, the Maintenance Group manages vocabulary term additions and changes, and maintains the documentation that helps users to understand and apply the standard. As an Interest Group, it may establish Task Groups to accomplish broader changes to the standard. 
 
 ## Core Members of the AC Maintenance Group
 
@@ -32,13 +32,13 @@ Rebecca Snyder - Smithsonian Institution, National Museum of Natural History - [
 
 ## Participating in the Group
 
-If you would like to participate in this group, contact the convener or one of the core members.  
+If you would like to participate in this group, contact the convener or one of the core members. 
 
-To participate in the communication system of the group, "watch" the group's [Issues tracker](https://github.com/tdwg/ac/issues).  This issues tracker is the mechanism for suggesting specific changes to the standard as well as to raise issues for discussion by the group.
+To participate in the communication system of the group, "watch" the group's [Issues tracker](https://github.com/tdwg/ac/issues). This issues tracker is the mechanism for suggesting specific changes to the standard as well as to raise issues for discussion by the group.
 
 ## Documentation
 
-See [http://terms.tdwg.org/wiki/Audubon_Core](http://terms.tdwg.org/wiki/Audubon_Core) for links to normative and non-normative documentation.  Audubon Core is an adopted standard of TDWG.
+See [http://terms.tdwg.org/wiki/Audubon_Core](http://terms.tdwg.org/wiki/Audubon_Core) for links to normative and non-normative documentation. Audubon Core is an adopted standard of TDWG.
 
-Cite as Morris, Robert A., et al. 2014. Audubon Core Multimedia Resources Metadata Schema, Release 1.0. Biodiversity Information Standards (TDWG)  [http://www.tdwg.org/standards/638/](http://www.tdwg.org/standards/638/)
+Cite as Morris, Robert A., et al. 2014. Audubon Core Multimedia Resources Metadata Schema, Release 1.0. Biodiversity Information Standards (TDWG) [http://www.tdwg.org/standards/638/](http://www.tdwg.org/standards/638/)
 

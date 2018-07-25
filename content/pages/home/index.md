@@ -20,7 +20,7 @@ newsletter_button: Subscribe to our Announcements List
 newsletter_link: http://eepurl.com/8VIvn
 call1_text: Discover our open-access journal
 call1_button: Biodiversity Information Science and Standards (BISS)
-call1_link: https://biss.pensoft.net/
+call1_link: journal/
 call2_text: Support TDWG in its mission
 call2_button: Become a member
 call2_link: about/membership/
@@ -35,4 +35,4 @@ To achieve its goals, TDWG
 3. acts as a forum for discussing biodiversity informatics through meetings, publications, and online collaboration; and
 4. undertakes any other activities that support the organisation and its mission.
 
-See the [About](../about/) section to learn how TDWG operates and how you can participate.  Active Interest Groups are described under [Community](../community).
+See the [About]({filename}../about/index.md) section to learn how TDWG operates and how you can participate.  Active Interest Groups are described under [Community]({filename}../community/index.md).
