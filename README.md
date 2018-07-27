@@ -4,15 +4,9 @@ This repository contains the content and settings for the new TDWG website. It i
 
 ## Getting started
 
-
-Report
-: Found a bug? Have a question? See our [contributing guide](.github/CONTRIBUTING.md).
-
-Write
-: Want to update a page or fix a typo? See our [contributing guide](.github/CONTRIBUTING.md).
-
-Deploy
-: Want to render and deploy the site? See our [deployment guide](#deployment).
+* **Report**: Found a bug? Have a question? See our [contributing guide](.github/CONTRIBUTING.md).
+* **Write**: Want to update a page or fix a typo? See our [contributing guide](.github/CONTRIBUTING.md).
+* **Deploy**: Want to render and deploy the site? See our [deployment guide](#deployment).
 
 ## Repo structure
 
