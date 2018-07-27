@@ -34,7 +34,7 @@ Subscribe to [TDWG announcements](http://eepurl.com/8VIvn) to receive our most s
 
 TDWG is now using GitHub as its primary collaboration platform. It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups]({filename}../community/index.md) and [standards]({filename}../standards/index.md) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and solutions) in that subject area. Peter Desmet gave us a nice [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) in 2016. 
 
-#### Conference Proceedings
+#### Conference proceedings
 
 From 2006 to 2016, TDWG has digitally published abstracts of contributions to the annual conference (presentations, posters, demonstrations). Presentation files (PPT or PDF) are available for many oral presenations and posters since 2008. Recordings are available for most presentations since 2015. From 2017 going forward, our conference proceedings (abstracts of contributions) will be published in our journal (below). See [Conferences]({filename}../conferences/index.md).
 
@@ -51,3 +51,5 @@ Participation is the key driver of progress in TDWG. You do not have to be a mem
 #### Conferences
 
 TDWG's annual conferences are usually held in the fall and occupy a full work week (Mon-Fri). Conference locations rotate among the continents something like "Europe, North America, and other", where "other" can be Africa, Asia, Australia/Oceania, or Latin America. Conferences typically draw between 150 and 225 participants.
+
+## More information

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Guide to annual reporting
 summary: 
 cover_image: 
 cover_image_by: 
@@ -8,7 +8,7 @@ tags:
 page_order: 
 ---
 
-# Guide to Interest/Task Group Annual Reporting
+# Guide to Interest/Task Group annual reporting
 
 ## Introduction
 
@@ -22,9 +22,8 @@ The founding document of an I/TG is its charter, which tells the TDWG community 
 
 The most important audience of an annual report consists of TDWG members and participants; people who create, manage, and analyze biodiversity information.  Report authors should assume that readers are familiar with biodiversity information and the basic principles of information management, but they might not know the current jargon, abbreviations, and acronyms of the most current information technology and projects.  Abbreviations should be spelled out at first use, and references (preferably hyperlinks) should be provided to foundational resources.
 
-## Procedures and Timeline
+## Procedures and timeline
 
 The convener of the Interest or Task Group is responsible for submitting **an annual report to the TDWG Executive Committee via the Secretary by November 15th.**  The report may be written by, or in collaboration with, other group members, but should be submitted by the Convener.  The report will be **reviewed by the Executive Committee within thirty (30) days**, and either approved or returned to the convener with requested modifications.  Upon approval, the report will be posted on either the Group&#39;s primary site and linked from its landing page, as well as the [TDWG Activities page](http://www.tdwg.org/activities/).
 
 In addition to the annual report, an abbreviated oral version should be presented by the convener or a designated representative at the annual meeting. Note, the annual meeting falls before November 15th in many years, and should be submitted a week before the annual meeting begins.  If the convener does not attend the annual meeting, a presenter should be designated or the presentation coordinated with the Secretary.
-

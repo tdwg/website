@@ -7,7 +7,7 @@ cover_image_ref: https://unsplash.com/photos/B3ruHb3c8jk
 tags: functional subcommittee
 ---
 
-<!--_Copied from <https://github.com/tdwg/charters/blob/master/charters/partnerships.md>_-->
+<!-- Copied from https://github.com/tdwg/charters/blob/master/charters/partnerships.md -->
 
 ## Mission
 
@@ -47,7 +47,7 @@ On behalf of the TDWG Executive Committee the FPFS will undertake work related t
 
 According to TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organisation. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
 
-### Membership and Meetings
+### Membership and meetings
 
 The FPFS will be convened by the directly elected from the TDWG membership chair of the FS. The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The FS will operate with 5-7 members. 
 

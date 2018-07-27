@@ -12,11 +12,11 @@ Biodiversity Information Standards (TDWG) has partnered with [Pensoft Publishers
 
 BISS will now be the venue for TDWG Proceedings, i.e., the abstracts of presentations, posters, demonstrations, and workshop reports from our annual conferences. BISS will also be the preferred venue for full articles describing TDWG standards. In addition, authors are invited to [contribute articles](https://biss.pensoft.net/about) relevant to the science and sharing of biodiversity information, including descriptions of:
  
- - biodiversity information resources
- - biodiversity-oriented software and programming interfaces
- - forum and position papers
- - case studies illustrating development or application of new methods or approaches in biodiversity informatics
- - data and software reviews.
+* biodiversity information resources
+* biodiversity-oriented software and programming interfaces
+* forum and position papers
+* case studies illustrating development or application of new methods or approaches in biodiversity informatics
+* data and software reviews.
 
 BISS uses the innovative [ARPHA](http://arphahub.com/) publishing platform, streamlining the authoring, peer reviewing, and indexing process in a single collaborative environment. 
 
@@ -27,4 +27,3 @@ Charges for full articles outside of the volume dedicated to the annual meeting 
 APCs for conference abstracts will be determined each year by the Conference Organizing Committees.  Current practice is to build these into registration fees and/or to solicit sponsoring contributions for the annual proceedings.
 
 The [Editorial Board](https://biss.pensoft.net/board/) invites applications for subject editors.
-

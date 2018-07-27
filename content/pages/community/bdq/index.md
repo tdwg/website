@@ -18,48 +18,48 @@ Data quality is a major concern in biodiversity informatics. The distributed nat
 
 ## Conveners
 
-Antonio Mauro Saraiva
-Full Professor, Universidade de Sao Paulo, Escola Politecnica
-Computing and Digital Systems Engineering Department
-Coordinator - Research Center on Biodiversity and Computing - BioComp. USP
-Av. Prof. Luciano Gualberto, travessa 3, nº 158, sala C2-56
+[Antonio Mauro Saraiva](mailto:saraiva@usp.br)  
+Full Professor, Universidade de Sao Paulo, Escola Politecnica  
+Computing and Digital Systems Engineering Department  
+Coordinator - Research Center on Biodiversity and Computing - BioComp. USP  
+Av. Prof. Luciano Gualberto, travessa 3, nº 158, sala C2-56  
 São Paulo, Brazil
-Email: saraiva(at)usp.br
 
-Arthur D. Chapman
-Australian Biodiversity Information Services
-PO Box 35, Ballan,  Victoria, Australia 3342
-Email: biodiv_2(at)achapman.org
+[Arthur D. Chapman](mailto:biodiv_2@achapman.org)  
+Australian Biodiversity Information Services  
+PO Box 35, Ballan, Victoria, Australia 3342
 
 ## Core members
 
-* Aaike De Wever - Royal Belgian Institute of Natural Sciences, BioFresh, Belgium
-* Alex Thompson - iDigBio Project
-* Allan Koch Veiga - BioComp, University of São Paulo (USP)
-* Arturo H. Ariño - GBIF-Spain, Universidad de Navarra (UNAV) 
-* Christian Gendreau - Canadensys
-* Dag Endresen - GBIF-Norway, Natural History Museum at the University of Oslo, Norway
-* Daniel Lins da Silva - BioComp, University of São Paulo (USP)
-* David Bloom - VertNet
-* David Fichtmueller - Botanic Garden and Botanical Museum Berlin-Dahlem (BGBM), Germany
-* Debbie Paul - iDigBio
-* Dimitri Brosens - Belgian Biodiversity Platform
-* Dmitry Schigel - GBIF
-* Éamonn Ó Tuama - GBIF
-* Etienne Américo Cartolano Júnior - BioComp, University of São Paulo (USP)
-* Hanna Koivula - Finnish Museum of Natural History, University of Helsinki
-* James Macklin - AAFC National Vascular Plant Collection (DAO)
-* Javier Otegui - University of Colorado, USA
-* John Wieczorek - Museum of Vertebrate Zoology, University of California Berkeley
-* Jorge Rady de Almeida Júnior - University of São Paulo (USP)
-* Laura Russell - VertNet
-* Luiz Manoel Rocha Gadelha Junior - National Laboratory for Scientific Computing, Brazil
-* Lutz Suhrbier - Botanic Garden and Botanical Museum Berlin-Dahlem (BGBM), Germany
-* Márcia Beatriz Pereira Domingues - BioComp, University of São Paulo (USP)
-* Matthew Collins - ECE University of Florida, iDigBio Project
-* Nicolas Noé - Belgian Biodiversity Platform
-* Rui Figueira - GBIF Portugal, Instituto de Investigação Científica Tropical
-* Vijay Barve - FRLHT, India
+Name | Affiliation
+--- | ---
+Aaike De Wever | Royal Belgian Institute of Natural Sciences, BioFresh, Belgium
+Alex Thompson | iDigBio Project
+Allan Koch Veiga | BioComp, University of São Paulo (USP)
+Arturo H. Ariño | GBIF-Spain, Universidad de Navarra (UNAV) 
+Christian Gendreau | Canadensys
+Dag Endresen | GBIF-Norway, Natural History Museum at the University of Oslo, Norway
+Daniel Lins da Silva | BioComp, University of São Paulo (USP)
+David Bloom | VertNet
+David Fichtmueller | Botanic Garden and Botanical Museum Berlin-Dahlem (BGBM), Germany
+Debbie Paul | iDigBio
+Dimitri Brosens | Belgian Biodiversity Platform
+Dmitry Schigel | GBIF
+Éamonn Ó Tuama | GBIF
+Etienne Américo Cartolano Júnior | BioComp, University of São Paulo (USP)
+Hanna Koivula | Finnish Museum of Natural History, University of Helsinki
+James Macklin | AAFC National Vascular Plant Collection (DAO)
+Javier Otegui | University of Colorado, USA
+John Wieczorek | Museum of Vertebrate Zoology, University of California Berkeley
+Jorge Rady de Almeida Júnior | University of São Paulo (USP)
+Laura Russell | VertNet
+Luiz Manoel Rocha Gadelha Junior | National Laboratory for Scientific Computing, Brazil
+Lutz Suhrbier | Botanic Garden and Botanical Museum Berlin-Dahlem (BGBM), Germany
+Márcia Beatriz Pereira Domingues | BioComp, University of São Paulo (USP)
+Matthew Collins | ECE University of Florida, iDigBio Project
+Nicolas Noé | Belgian Biodiversity Platform
+Rui Figueira | GBIF Portugal, Instituto de Investigação Científica Tropical
+Vijay Barve | FRLHT, India
 
 ## Becoming involved
 

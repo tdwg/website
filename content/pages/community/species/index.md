@@ -8,15 +8,14 @@ tags: interest group
 github: https://github.com/tdwg/species-information
 ---
 
-<!-- Copied from <http://www.tdwg.org/activities/species-information/charter/> -->
+<!-- Copied from http://www.tdwg.org/activities/species-information/charter/ -->
 
 ## Convenor
 
-Francisco Pando  
+[Francisco Pando](pando@rjb.csic.es)  
 Real Jardín Botánico - CSIC  
 Plaza de Murillo 228014  
-Madrid, Spain  
-email: pando [AT] rjb [dot] csic [dot] es
+Madrid, Spain
 
 ## Summary
 

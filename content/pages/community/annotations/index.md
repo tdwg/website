@@ -8,22 +8,25 @@ tags: interest group
 github: https://github.com/tdwg/annotations
 ---
 
-<!-- Copied from <http://www.tdwg.org/activities/annotations-test/> -->
+<!-- Copied from http://www.tdwg.org/activities/annotations-test/ -->
 
-# TDWG: Annotations
+## Convener
 
-TDWG Interest Group (Open) Convener Paul J. Morris
-Biodiversity Informatics Manager Harvard University Herbaria/Museum of Comparative Zoology
-22 Divinity Ave Cambridge, MA 02138 USA
+Paul J. Morris  
+Biodiversity Informatics Manager  
+Harvard University Herbaria/Museum of Comparative Zoology  
+22 Divinity Ave Cambridge, MA 02138 USA  
 
 ## Core Members
 
-* James A. Macklin, james.macklin(at)agr.gc.ca
-* Robert A. Morris, morris.bob(at)gmail.com
-* Greg Riccardi, griccardi(at)fsu.edu
-* Walter G. Berendsohn, w.berendsohn(at)bgbm.org
-* Donald Hobern, Donald.Hobern(at)csiro.au
-* Tim Robertson, trobertson(at)gbif.org
+Name | Affiliation
+--- | ---
+[James A. Macklin](mailto:james.macklin@agr.gc.ca)
+[Robert A. Morris](mailto:morris.bob@gmail.com)
+[Greg Riccard](mailto:griccardi@fsu.edu)
+[Walter G. Berendsohn](mailto:w.berendsohn@bgbm.org)
+[Donald Hobern](mailto:Donald.Hobern@csiro.au)
+[Tim Robertson](mailto:trobertson@gbif.org)
 
 ## Motivation
 

@@ -27,7 +27,7 @@ Membership is based on the calendar year.
 
 ### Institutional membership
 
-* $500 USD -- discounted 20% ($400) for early payment (before 1 March)
+* $500 USD - discounted 20% ($400) for early payment (before 1 March)
 
 ## Payment methods
 

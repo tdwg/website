@@ -7,7 +7,7 @@ cover_image_ref: https://unsplash.com/photos/-FPFq_trr2Y
 tags: functional subcommittee
 ---
 
-_Copied from <https://github.com/tdwg/charters/blob/master/charters/tag.md>_
+<!-- Copied from https://github.com/tdwg/charters/blob/master/charters/tag.md -->
 
 ## Mission
 

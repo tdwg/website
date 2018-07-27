@@ -7,7 +7,7 @@ cover_image_ref: https://unsplash.com/photos/oZPwn40zCK4
 tags: functional subcommittee
 ---
 
-_Copied from <https://github.com/tdwg/charters/blob/master/charters/infrastructure.md>_
+<!-- Copied from https://github.com/tdwg/charters/blob/master/charters/infrastructure.md -->
 
 ## Mission
 

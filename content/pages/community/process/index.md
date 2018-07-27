@@ -8,11 +8,11 @@ tags: interest group
 github: 
 ---
 
-<!-- Copied from <http://www.tdwg.org/activities/process/> -->
+<!-- Copied from http://www.tdwg.org/activities/process/ -->
 
 ## Convener
 
-Stan Blum - TDWG Coordinator (stanblum(at)gmail.com)
+[Stan Blum](mailto:stanblum(at)gmail.com) - TDWG Coordinator
 
 ## Purpose
 
@@ -51,10 +51,12 @@ Issues that are likely to be addressed within this work include:
 
 ## Core Members
 
-* Stan Blum (sblum(at)calcademy.org) 
-* Lee belbin (lee(at)tdwg.org) 
-* John Wieczorek (tuco(at)berkeley.edu) 
-* Mark Jackson (m.jackson(at)rbgkew.org.uk) 
+Name | Affiliation
+--- | ---
+[Stan Blum](mailto:sblum@calcademy.org) | 
+[Lee belbin](mailto:lee@tdwg.org) | 
+[John Wieczorek](mailto:tuco@berkeley.edu) | 
+[Mark Jackson](mailto:m.jackson@rbgkew.org.uk) | 
 
 ## Clients
 
@@ -94,8 +96,6 @@ The work process will include the following steps
 
 ## Resources
 
-Web: <http://www.tdwg.gbif.org/subgroups/process/>
-
-Wiki: <http://wiki.tdwg.org/twiki/bin/view/Process/WebHome>
-
-Mail List: <http://lists.tdwg.org/mailman/listinfo/tdwg-process>
+* Web: <http://www.tdwg.gbif.org/subgroups/process/>
+* Wiki: <http://wiki.tdwg.org/twiki/bin/view/Process/WebHome>
+* Mail List: <http://lists.tdwg.org/mailman/listinfo/tdwg-process>

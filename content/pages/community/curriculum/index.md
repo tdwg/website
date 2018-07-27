@@ -8,74 +8,33 @@ tags: interest group
 github: https://github.com/tdwg/curriculum
 ---
 
-<!-- Copied from <http://www.tdwg.org/activities/bdi-curriculum-ig/charter/> -->
+<!-- Copied from http://www.tdwg.org/activities/bdi-curriculum-ig/charter/ -->
 
 ## Convener
 
-Hanna Koivula   
-Finnish Environment Institute (SYKE)
-Yliopistokatu 7, FI-80100 Joensuu, FINLAND
-Email: hanna.koivula [at] iki.fi
+[Hanna Koivula](mailto:hanna.koivula@iki.fi)  
+Finnish Environment Institute (SYKE)  
+Yliopistokatu 7, FI-80100 Joensuu, Finland
 
 ## Core members
 
-We will collect core members via email (hanna.koivula(at)iki.fi) and on the GBIF community site. All GBIF community site pages are visible for anyone, but for comments user must register. <http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/>
+We will collect core members via [email](mailto:hanna.koivula@iki.fi) and on the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/). All GBIF community site pages are visible for anyone, but you need to register to leave comments.
 
-### Initial list of core members
-
-Dimitris Koureas 
-The Natural History Museum London Dept of Life Sciences 
-Biodiversity Informatics Group, SW7 5BD, UK 
-Email: d.koureas(at)nhm.ac.uk
-
-Alberto González-Talaván 
-GBIF Secretariat 
-Universitetsparken 15, DK-2100 Copenhagen, Denmark 
-Email: atalavan(at)gbif.org 
-
-Dmitry Schigel 
-GBIF Secretariat Universitetsparken 15, DK-2100 Copenhagen, Denmark 
-Email: dschigel(at)gbif.org
-
-Riitta Tegelberg 
-Digitarium, Finland 
-Email: riitta.tegelberg(at)uef.fi 
-
-Jitendra Gaikwad 
-German Centre for Integrative Biodiversity Research (iDiv), Germany 
-Email: jitendra.gaikwad(at)uni-jena.de
-
-Roman Gerlach
-German Centre for Integrative Biodiversity Research (iDiv), Germany 
-Email: roman.gerlach(at)uni-jena.de 
-
-Falko Glöckler 
-Museum für Naturkunde Berlin, Germany 
-Email: falko.gloeckler(at)mfn-berlin.de
-
-Jana Hoffmann 
-Museum für Naturkunde Berlin, Germany 
-Email: jana.hoffmann(at)mfn-berlin.de 
-
-Patricia Mergen 
-Royal Museum for Central Africa, Belgium 
-Email: Patricia.Mergen(at)africamuseum.be
-
-Larissa Smirnova 
-Royal Museum for Central Africa, Belgium 
-Email: larissa.smirnova(at)africamuseum.be 
-
-Deborah Paul 
-iDigBio, Florida State University, USA 
-Email: dpaul(at)fsu.edu
-
-Bryan Heidorn 
-The University of Arizona, USA 
-Email: heidorn(at)email.arizona.edu 
-
-Jiří Frank 
-National Museum / Národní muzeum, Czech Republic 
-Email: jiri_frank(at)nm.cz
+Name | Affiliation
+--- | ---
+[Dimitris Koureas](mailto:d.koureas@nhm.ac.uk) | The Natural History Museum London Dept of Life Sciences, UK
+[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
+[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+[Riitta Tegelberg](mailto:riitta.tegelberg@uef.fi) | Digitarium, Finland
+[Jitendra Gaikwad](mailto:jitendra.gaikwad@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany 
+[Roman Gerlach](mailto:roman.gerlach@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany
+[Falko Glöckler](mailto:falko.gloeckler@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
+[Jana Hoffmann](mailto:jana.hoffmann@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
+[Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
+[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Royal Museum for Central Africa, Belgium
+[Deborah Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, USA
+[Bryan Heidorn](mailto:heidorn@email.arizona.edu) | University of Arizona, USA
+[Jiří Frank](mailto:jiri_frank@nm.cz) | National Museum / Národní muzeum, Czech Republic
 
 ## Motivation
 
@@ -95,4 +54,4 @@ All interested parties are encouraged to become involved with the Interest Group
 
 ## Resources
 
-<http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/>
+Discussions at the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/).

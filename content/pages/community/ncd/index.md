@@ -8,28 +8,29 @@ tags: interest group
 github: https://github.com/tdwg/ncd/
 ---
 
-## Convenors
+## Conveners
 
-Deb Paul (dpaul(at)fsu.edu)
-
-Matt Woodburn (m.woodburn(at)nhm.ac.uk)
+* [Deb Paul](mailto:dpaul@fsu.edu)
+* [Matt Woodburn](mailto:m.woodburn@nhm.ac.uk)
 
 ## Current people expressing interest to work on NCD
 
-Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit  
-Stan Blum (stanblum(at)gmail.com)  
-Carol Butler	(butlercr(at)si.edu)	Terminology  
-Heather Cole (Heather.Cole(at)AGR.GC.CA)  
-Shelley James (Sheley.James(at)bgcp.nsw.gov.au)  
-Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation  
-Barbara Thiers (bthiers(at)nybg.org)  
-Mike Trizna (triznam(at)si.edu)  
-Sharon Grant (sgrant(at)fieldmuseum.org)  
-Kate Webbink (kwebbink(at)fieldmuseum.org)  
-Janeen Jones (jjones(at)fieldmuseum.org)  
-Pete Herbst (pherbst(at)fieldmuseum.org)  
-Rob Zshernitz (rzschernitz(at)fieldmuseum.org)  
-Rusty Russell (rrussell(at)fieldmuseum.org)  
+Name | Affiliation
+--- | ---
+[Wouter Addink](mailto:wouter@eti.uva.nl) | 
+[Stan Blum](mailto:stanblum@gmail.com) | 
+[Carol Butler](mailto:butlercr@si.edu) | 
+[Heather Cole](mailto:Heather.Cole@agr.gc.ca) | 
+[Shelley James](mailto:Sheley.James@bgcp.nsw.gov.au) | 
+[Connie Rinaldo](mailto:crinaldo@oeb.harvard.edu) | 
+[Barbara Thiers](mailto:bthiers@nybg.org) | 
+[Mike Trizna](mailto:triznam@si.edu) | 
+[Sharon Grant](mailto:sgrant@fieldmuseum.org) | 
+[Kate Webbink](mailto:kwebbink@fieldmuseum.org) |  
+[Janeen Jones](mailto:jjones@fieldmuseum.org) | 
+[Pete Herbst](mailto:pherbst@fieldmuseum.org) | 
+[Rob Zshernitz](mailto:rzschernitz@fieldmuseum.org) | 
+[Rusty Russell](mailto:rrussell@fieldmuseum.org) | 
 
 ## Motivation
 
@@ -76,35 +77,27 @@ This group will lay out a standard methodology for enumerating those common chra
 
 ### What are the uses of collection descriptions?
 
-<dl>
-<dt>Provide a complete overview of each collection, regardless of its digitization status.</dt>
-<dd>Provide a complete overview of each collection, regardless of its digitization status.
-Detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed. A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids.
-</dd>
-<dt>Provide relationships between collections in time and space</dt>
-<dd>"Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.</dd>
+Provide a complete overview of each collection, regardless of its digitization status
+: Detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed. A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids.
 
-<dt>Provide a broader context for item level information</dt>
-<dd>It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.  Where a database containing item-level details exists, a link can be provided to that database to provide more detail. If the collection does not have an item-level database. Data recorded in the collection description records can be used to produce exhibit labels. The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.</dd>
+Provide relationships between collections in time and space
+: "Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.
 
-<dt>Provide a descriptive overview of the collections landscape</dt>
-<dd>
-<ul>
-<li>Producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.</li>
-<li>Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.</li>
-<li>Gap Analysis provides critical information needed to plan data mobilization strategically. Collectors, funding agencies, conservation groups, and collections can use this collections-level data to discover and document taxonomic, geographic, or time gaps and plan accordingly. Similarly, gap analysis can reveal collections that are unique.</li>
-</dd>
+Provide a broader context for item level information
+: It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item. Where a database containing item-level details exists, a link can be provided to that database to provide more detail. If the collection does not have an item-level database. Data recorded in the collection description records can be used to produce exhibit labels. The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
 
-<dt>Provide aid for collections management processes</dt>
-<dd>Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
-<ul>
-<li>A collections inventory is helpful in protecting against both loss of data and loss of collections and thus serves as a form of audit control and security against unauthorised disposal.</li>
-<li>It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.</li>
-<li>It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.</li>
-<li>By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.</li>
-</ul>
-</dd>
-</dl>
+Provide a descriptive overview of the collections landscape
+: * Producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
+* Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
+* Gap Analysis provides critical information needed to plan data mobilization strategically. Collectors, funding agencies, conservation groups, and collections can use this collections-level data to discover and document taxonomic, geographic, or time gaps and plan accordingly. Similarly, gap analysis can reveal collections that are unique.
+
+Provide aid for collections management processes
+: Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
+
+* A collections inventory is helpful in protecting against both loss of data and loss of collections and thus serves as a form of audit control and security against unauthorised disposal.
+* It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.
+* It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
+* By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
 
 ### How has NCD evolved and who is involved?
 
@@ -124,12 +117,13 @@ Discussion at the TDWG 2004 meeting in Christchurch, New Zealand, concluded that
 
 ## Original charter core members
 
-Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit  
-Carol Butler	(butlercr(at)si.edu)	Terminology  
-Markus Döring	(m.doering(at)BGBM.org)	Technical - RDF  
-Doug Holland	(doug.holland(at)mobot.org)	Data mapping  
-Barbara Mathé	(mathe(at)amnh.org)	Data mapping  
-Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation  
-Larry Speers	(lspeers(at)gbif.org)	GBIF liaison  
-Günter Waibel	(Guenter_Waibel(at)notes.rlg.org)	Resource organiser  
-
+Name | Role
+--- | ---
+[Wouter Addink](mailto:wouter@eti.uva.nl) | Technical - NCD Toolkit
+[Carol Butler](mailto:butlercr@si.edu) | Terminology
+[Markus Döring](mailto:m.doering@BGBM.org) | Technical - RDF
+[Doug Holland](mailto:doug.holland@mobot.org) | Data mapping
+[Barbara Mathé](mailto:mathe@amnh.org) | Data mapping
+[Connie Rinaldo](mailto:crinaldo@oeb.harvard.edu) | Documentation
+[Larry Speers](mailto:lspeers@gbif.org) | GBIF liaison
+[Günter Waibel](mailto:Guenter_Waibel@notes.rlg.org) | Resource organiser

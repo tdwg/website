@@ -8,14 +8,14 @@ tags: interest group
 github: 
 ---
 
-<!-- Copied from <http://www.tdwg.org/activities/img/charter/> -->
+<!-- Copied from http://www.tdwg.org/activities/img/charter/ -->
 
 ## Convener
 
 Robert A. Morris  
 Department of Computer Science, University of Massachusetts/Boston;  
 100 Morrissey Blvd; Boston, MA 02125, USA  
-Email: name [at] cs.umb.edu, replace "name" with "ram"  
+Email: name [at] cs.umb.edu, replace "name" with "ram"
 
 ## Purpose
 
@@ -31,34 +31,34 @@ The interest group emerged following an informal brief meeting in Christchurch a
 
 A full task group may be expected to be concerned with the following topics, at least:
 
-* Descriptive content metadata
-* File formats, especially new standards such as JPEG2000
-* Standards for image LSID management and deployment
-* Best Practices for the acquisition, curation, and distribution of multimedia resources
-* Intellectual Property Rights
-* Outreach, e.g. workshops on image acquisition
-* Connections to other organizations involved with these topics to reduce duplication
+- Descriptive content metadata
+- File formats, especially new standards such as JPEG2000
+- Standards for image LSID management and deployment
+- Best Practices for the acquisition, curation, and distribution of multimedia resources
+- Intellectual Property Rights
+- Outreach, e.g. workshops on image acquisition
+- Connections to other organizations involved with these topics to reduce duplication
 
 ## Core Members
 
 The wiki has been inactive since St. Petersburg, so I list here only people I know to be active in image management research: 
 
-* Robert A. Morris (UMASS-Boston) 
-* Reed Beaman(Yale) 
-* Greg Riccardi (Florida State University) 
-* Stinger Guala (USDA PLANTS).
+- Robert A. Morris (UMASS-Boston) 
+- Reed Beaman (Yale) 
+- Greg Riccardi (Florida State University) 
+- Stinger Guala (USDA PLANTS)
 
 ## Clients
 
 Everybody concerned with any aspect of documenting the nature and occurence of organisms, and their behavior and interactions in biotic systems.
 
-## Outcomes and Outputs
+## Outcomes and outputs
 
 The formation of a full subgroup with an active wiki by June 1, 2007
 
 ## Strategy
 
-This needs a good hook, because everybody takes a lot of pictures, and few people do anything systematic with them. So the core group---if it agrees to be such---needs to brainstorm about strategies and seek advice from the TDWG executive committee.
+This needs a good hook, because everybody takes a lot of pictures, and few people do anything systematic with them. So the core group - if it agrees to be such - needs to brainstorm about strategies and seek advice from the TDWG executive committee.
 
 ## Resources
 

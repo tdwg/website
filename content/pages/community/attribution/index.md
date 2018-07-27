@@ -8,7 +8,7 @@ tags: interest group
 github: https://github.com/tdwg/attribution
 ---
 
-<!-- Copied from <https://github.com/tdwg/attribution/blob/master/README.md> -->
+<!-- Copied from https://github.com/tdwg/attribution/blob/master/README.md -->
 
 This interest group is a collaboration between TDWG and the Research Data Alliance to enhance existing and create new standards for giving attribution for the maintenance, curation, and digitization of physical and digital objects with a special emphasis on biodiversity collections. This group will produce use cases from a variety of disciplines that will be used to create the final deliverable – an attribution metadata schema.
 
@@ -18,6 +18,6 @@ Despite the importance of research collections, many are not maintained or curat
 
 ## How to contribute
 
-* Watch this github project.
+* Watch this GitHub repository: <https://github.com/tdwg/attribution>
 * Submit or comment on an issue on this github project.
 * Join the RDA/TDWG Working Group at the RDA website <https://www.rd-alliance.org/groups/metadata-standards-attribution-physical-and-digital-collections-stewardship.html>

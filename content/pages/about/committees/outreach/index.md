@@ -7,13 +7,13 @@ cover_image_ref: https://unsplash.com/photos/1Q1P_XpWylY
 tags: functional subcommittee
 ---
 
-_Copied from <https://github.com/tdwg/charters/blob/master/charters/outreach.md>_
+<!-- Copied from https://github.com/tdwg/charters/blob/master/charters/outreach.md -->
 
 ## Motivation
 
 This year (2016) TDWG aims to recast the organization of TDWG and its activities with a number of functional sub-committees focused on different aspects of the of TDWG activities and encourage more involvement of domain experts in the workings of TDWG. Towards this end a functional sub-committee will be dedicated to outreach and communication with an elected chair of the sub-committee. The chair will be a member of the executive committee of TDWG and report on the activities of outreach and communication. 
 
-## The Draft Outreach and Communications (OAC) charter
+## Charter
 
 ### Mission
 
