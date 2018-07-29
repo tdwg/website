@@ -45,3 +45,9 @@ The motivation, mission and responsibilities of the functional subcommittee are 
 
 ### Regional Representatives: North America, Africa & Asia
 Regional representatives give voice to the members, institutions, and projects in their region, and collectively provide a global perspective to the Executive Committee. As members of the Executive Committee, regional representatives have responsibility for the oversight of TDWG and the authority to approve/decline strategic initiatives, budgets, and all aspects of operations and activities. The Executive Committee also approves or declines the formation of Interest and Task Groups, as well as the ratification of standards and best practice specifications produced by Interest and Task Groups.
+
+### Nomination Procedure
+To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary (secretary@tdwg.org).  Self nominations are accepted.  All nominations must be complete and received before the close of the annual meeting.
+
+### Election Procedure
+The TDWG Secretariat will post nominees’ statements to the TDWG website and distribute ballots to all institutional and individual members in good standing by 13 October.  In the case of institutional members, we will notify the primary and secondary contacts, but only one ballot response will be accepted. If you are uncertain about your membership status, please inquire with the TDWG Treasurer (treasurer@tdwg.org). Institutional ballots will be weighted as five individual ballots.
