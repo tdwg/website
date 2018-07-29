@@ -12,8 +12,8 @@ Nominations are open for positions on the Executive Committee for Biodiversity I
 This is an opportunity to lead the future of biodiversity informatics and work with an enthusiastic team to improve the quality and interoperability of biodiversity data.
 
 | Role        | Term           | 
-| ------------- |:-------------:|
-| Deputy Chair | right-aligned |
+| ------------- |-------------:|
+| Deputy Chair | 2 Years as Deputy, then 2 Years as Chair |
 | Secretary | 2 Years      |
 | Chair of the Functional Subcommittee for Communications and Outreach | 2 Years |
 | Chair of the Functional Subcommittee for Funding and Partnerships | 2 Years |
