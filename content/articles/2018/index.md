@@ -37,5 +37,11 @@ Unless delegated to other Executive Committee members, the chair represents TDWG
 ### Secretary
 The Secretary is responsible for coordinating the activities of the Executive Committee and for the daily business of Biodiversity Information Standards. They organizes meeting agendas and take minutes. They help to coordinate the review of standards and the organization of interest and task groups. The secretary acts as a proxy for the Chair during any significant period of unavailability and communication with the Executive Committee is normally through the Secretary.
 
+### Functional subcommittee for Outreach & Communications
+The motivation, mission and responsibilities of the functional subcommittee are explained on the subcommittee’s [website](https://www.tdwg.org/about/committees/outreach/). The chair provides leaderships on outreach & communications for the whole of TDWG.
+
+### Functional subcommittee for Funding and Partnerships chair
+The motivation, mission and responsibilities of the functional subcommittee are explained on the subcommittee’s [website](https://www.tdwg.org/about/committees/fundraising/). The chair provides leaderships on Fundraising and Partnerships for the whole of TDWG.
+
 ### Regional Representatives: North America, Africa & Asia
 Regional representatives give voice to the members, institutions, and projects in their region, and collectively provide a global perspective to the Executive Committee. As members of the Executive Committee, regional representatives have responsibility for the oversight of TDWG and the authority to approve/decline strategic initiatives, budgets, and all aspects of operations and activities. The Executive Committee also approves or declines the formation of Interest and Task Groups, as well as the ratification of standards and best practice specifications produced by Interest and Task Groups.
