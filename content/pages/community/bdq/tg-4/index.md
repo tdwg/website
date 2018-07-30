@@ -1,6 +1,6 @@
 ---
 title: Vocabularies
-summary: The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), as well as the steps to produce them are described here.
+summary: The Vocabularies Task Group (TG4) of the Biodiversity Data Quality Interest Group is exploring the approaches and technologies TDWG might use to manage vocabularies of data terms and values.
 cover_image: 
 cover_image_by: 
 cover_image_ref: 
@@ -9,6 +9,8 @@ github:
 ---
 
 # TG4 - Workplan
+
+The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), as well as the steps to produce them are described here.
 
 # Goals, outputs and outcomes
 **1. Preparation of a Scoping Document.** The document will include the following topics:
