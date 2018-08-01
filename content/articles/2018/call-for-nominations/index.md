@@ -18,8 +18,8 @@ Deputy Chair | 2 Years as Deputy, then 2 Years as Chair
 Secretary | 2 Years
 Chair of the Functional Subcommittee for Communications and Outreach | 2 Years
 Chair of the Functional Subcommittee for Funding and Partnerships | 2 Years
-Africa Representartive | 2 Years
-Asian Representartive | 2 Years
+Africa Representative | 2 Years
+Asian Representative | 2 Years
 North American Representative | 2 Years
 
 TDWG is an international organization that promotes the digitization, integration, and sharing of information about the world’s biodiversity. TDWG provides a forum where individuals, projects, and institutions who manage biodiversity data can come together to share expertise and promote interoperability by promulgating standards and best practices. In 2018, TDWG launched the Biodiversity Information Science and Standards (BISS) journal where papers on issues related to information technology and biodiversity science can be published. The TDWG Executive Committee oversees the work of TDWG: it coordinates TDWG Interest and Task Groups, manages the review and ratification of standards, manages the organization’s journal, and organizes the annual meeting. These responsibilities are set forth in the Constitution and detailed further in a supplementary document. 
@@ -60,7 +60,7 @@ To nominate someone for one of the positions above, first confirm that the nomin
 
 ## Election procedure
 
-The TDWG Secretariat will post nominees’ statements to the TDWG website and distribute ballots to all institutional and individual members in good standing by 13 October.  In the case of institutional members, we will notify the primary and secondary contacts, but only one ballot response will be accepted. If you are uncertain about your membership status, please inquire with the TDWG Treasurer ([treasurer@tdwg.org](mailto:treasurer@tdwg.org)). Institutional ballots will be weighted as five individual ballots.
+The TDWG Secretariat will post nominees’ statements to the TDWG website and distribute ballots to all institutional and individual members in good standing.  In the case of institutional members, we will notify the primary and secondary contacts, but only one ballot response will be accepted. If you are uncertain about your membership status, please inquire with the TDWG Treasurer ([treasurer@tdwg.org](mailto:treasurer@tdwg.org)). Institutional ballots will be weighted as five individual ballots.
 
 ## Deadline
 
