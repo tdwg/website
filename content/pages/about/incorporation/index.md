@@ -8,9 +8,6 @@ tags:
 page_order: 5
 ---
 
-## State of California
-
-[Certification of non-profit incorporation]({filename}tdwg_ca_nonprofit_incorporation.pdf)
 
 ## United States of America
 
@@ -18,6 +15,16 @@ Non-profit IRS 501(c)(3) status [Letter of determination]({filename}tdwg_irs_det
 
 Our employer identification number \[EIN\] is redacted in this copy. Contact the [secretariat](mailto:secretariat@tdwg.org) if a copy with our EIN is required.
 
-## Netherlands
+*State of California*
 
-Stichting (non-profit foundation) registration -- coming
+[Certification of non-profit incorporation]({filename}tdwg_ca_nonprofit_incorporation.pdf)
+
+## European Union (Netherlands)
+
+Stichting (non-profit foundation) TDWG Europe
+
+NL registration number: 71574492
+
+Oosterhout, Bezoekadres Zandheuvel 52 B, 4901HW Oosterhout
+
+European Commission Partner Identification (PIC) Number: 906744264
