@@ -28,9 +28,9 @@ Responsibilities of Conveners:
     1. TDWG standards are developed by consensus (URL), so ensure you develop skills to foster consensus.
     2. Task Group Conveners should seek advice from the TAG to ensure that strategies are consistent with TDWG's overall approach to interoperability.
 6. Prepare annual report and brief presentations for the annual conference
-    1. An annual report is required from every Interest and Task Group. A [guide](./guide_to_reporting/) and [template](http://www.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/InterestTaskGroupAnnualReport-Template--COPYTHISDOC.docx) for reports are available. 
-    2. A [PowerPoint template](http://www.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/Template_Conveners_Opening_Report.ppt) is provided for Interest and Task Group Conveners to provide a 5-minute report on the year's activities. 
-    3. A [PowerPoint template](http://www.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/Template_Conveners_Closing_Report.ppt) is provided for Interest Group and Task Conveners to provide a 5-minute report on issues for the year ahead.
+    1. An annual report is required from every Interest and Task Group. A [guide](./guide-to-reporting/) and [template](http://old.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/InterestTaskGroupAnnualReport-Template--COPYTHISDOC.docx) for reports are available. 
+    2. A [PowerPoint template](http://old.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/Template_Conveners_Opening_Report.ppt) is provided for Interest and Task Group Conveners to provide a 5-minute report on the year's activities. 
+    3. A [PowerPoint template](http://old.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/Template_Conveners_Closing_Report.ppt) is provided for Interest Group and Task Conveners to provide a 5-minute report on issues for the year ahead.
 7. The TDWG Standards Process
     1. When a draft standard is ready for submission, the Task Group Convener submits the standard to the Executive Committee via the Secretary.
     2. The convener is responsible for managing responses in the review process.
