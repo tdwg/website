@@ -1,6 +1,6 @@
 ---
 title: Annual Report Template
-summary: Use this template to create an annual report for a TDWG interest or task group. Click "Raw" above to view text to be copied.
+summary: Use this template to create an annual report for a TDWG interest or task group. Click "edit this page" and then "Raw" (upper right) to view text to be copied.
 cover_image: 
 cover_image_by: 
 cover_image_ref: 
@@ -20,7 +20,7 @@ Web Site:  \[ _enter URL_ \]
  
 Convener(s):  
 | Name  | Email Address |  
-|------ | ------------- |  
+| ----- | ------------- |  
 |       |               |  
 
 
