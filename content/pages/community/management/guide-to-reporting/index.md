@@ -8,11 +8,11 @@ tags:
 page_order: 
 ---
 
-# Guide to Interest/Task Group annual reporting
+# Guide to interest/task group annual reporting
 
 ## Introduction
 
-As prescribed in the [TDWG Process](https://www.tdwg.org/about/process/), conveners of Interest and Task Groups (I/TG) must submit an Annual Report to the Executive Committee.  An annual report should describe the group&#39;s activities and accomplishments during the past year and plans for coming year.  This document provides the annual schedule (ideal), guidance for content, and a [template](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) for I/TG annual reports.  The purpose and audience of annual reports are described first to explain the context and motivation for reporting.  The submission and review procedures give the expected timelines for submission, review and publication.  Suggested section headings and content are then explained. A separate document ( [Report Template](https://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA)) contains the actual template, with basic metadata for the Interest/Task Group and section headings to be completed as appropriate.
+As prescribed in the [TDWG Process](https://www.tdwg.org/about/process/), conveners of Interest and Task Groups (I/TG) must submit an Annual Report to the Executive Committee. An annual report should describe the group&#39;s activities and accomplishments during the past year and plans for coming year. This document provides the annual schedule (ideal), guidance for content, and a template (as [GoogleDoc](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) or [Markdown](../annual-report-template)) for I/TG annual reports. The purpose and audience of annual reports are described first to explain the context and motivation for reporting.  The submission and review procedures give the expected timelines for submission, review and publication. Suggested section headings and content are then explained. A separate document contains the actual template, with basic metadata for the Interest/Task Group and section headings to be completed as appropriate.
 
 ## Purpose
 
@@ -24,6 +24,6 @@ The most important audience of an annual report consists of TDWG members and par
 
 ## Procedures and timeline
 
-The convener of the Interest or Task Group is responsible for submitting **an annual report to the TDWG Executive Committee via the Secretary by November 15th.**  The report may be written by, or in collaboration with, other group members, but should be submitted by the Convener.  The report will be **reviewed by the Executive Committee within thirty (30) days**, and either approved or returned to the convener with requested modifications.  Upon approval, the report will be posted on either the Group&#39;s primary site and linked from its landing page, as well as the [TDWG Activities page](http://www.tdwg.org/activities/).
+The convener of the Interest or Task Group is responsible for submitting **an annual report to the TDWG Executive Committee via the Secretary by November 15th.**  The report may be written by, or in collaboration with, other group members, but should be submitted by the Convener.  The report will be **reviewed by the Executive Committee within thirty (30) days**, and either approved or returned to the convener with requested modifications.  Upon approval, the report will be posted on either the Group's primary site and linked from its landing page, as well as the [TDWG Activities page](http://www.tdwg.org/activities/).
 
 In addition to the annual report, an abbreviated oral version should be presented by the convener or a designated representative at the annual meeting. Note, the annual meeting falls before November 15th in many years, and should be submitted a week before the annual meeting begins.  If the convener does not attend the annual meeting, a presenter should be designated or the presentation coordinated with the Secretary.
