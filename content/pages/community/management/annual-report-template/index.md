@@ -12,18 +12,18 @@ _Text formatted as code block, i.e., between and including three back-ticks (\`\
 
 <!-- **COPY THE TEXT BELOW THSI COMMENT**; then paste it into a new file in your repository with a name like "GRP_ABBREV-2018-annual-report.md" -->
 
-```Group Name```
+# ```Group Name```
 
-```Interest | Task``` Group Annual Report
+## ```[Interest | Task]``` Group Annual Report
 
 ### Web Site:  
-```enter URL```
+```Enter URL```
  
 ### Convener(s):  
 ```Name, Email_Address```  
 
 ### Submitted:  
-```enter date```
+```Enter date```
 
 ## Phase of work:  
 ```
