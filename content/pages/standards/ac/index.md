@@ -37,6 +37,3 @@ Audubon Core is maintained by a specialized [Interest Group](http://www.tdwg.org
 The activities of the AC Maintenance Group are documented at the group's Github repository, https://github.com/tdwg/ac, where a current list of core members and their contact information can be found.  Community participation is welcome.  If you would like to participate in this group, contact the convener or one of the core members.  
 
 To participate in the communications of the group, "watch" the group's [Issues tracker](https://github.com/tdwg/ac/issues).  This issues tracker is the mechanism for suggesting specific changes to the standard as well as to raise issues for discussion by the group.
-
-
-/638/)
