@@ -1,4 +1,14 @@
-Text in brackets is for guidance and should be replaced with your content or deleted. Also see: Guide to Interest/Task Group Annual Reporting
+---
+title: Annual Report Template
+summary: Use this template to create an annual report for a TDWG interest or task group.
+cover_image: 
+cover_image_by: 
+cover_image_ref: 
+tags: 
+page_order: 
+---
+
+_Text in brackets is for guidance and should be replaced with your content or deleted. Also see: Guide to Interest/Task Group Annual Reporting_
 
 \[ _Group Name_ \]
 
@@ -15,11 +25,11 @@ Convener(s):
 Submitted:  \[ _enter date_ \]
 
 ## Phase of work:  
-Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:
+_Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:
 - Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans
 - Developing a draft standard
 - Proposed standard in review or revision
-- Adoption and Maintenance
+- Adoption and Maintenance_
 
 ## Activities:
 Summarize group activities including:
