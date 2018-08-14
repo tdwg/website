@@ -19,9 +19,9 @@ _Text in brackets is for guidance and should be replaced with your content or de
 Web Site:  \[ _enter URL_ \]
  
 Convener(s):  
-| Name  | Email Address |  
-| ----- | ------------- |  
-|       |               |  
+ Name  | Email Address 
+ ----- | -------------   
+       |                 
 
 
 Submitted:  \[ _enter date_ \]
@@ -35,15 +35,15 @@ _Enter a phrase or sentence that describes the current phase of work.  Repeat as
 
 ## Activities:
 Summarize group activities including:
-- Primary mode(s) of collaboration, GitHub issue tracker, email discussion, regular or ad-hoc conference calls, shared document development (e.g., GitHub repo, wiki, Google Docs).
-- Summarize briefly the most important issues addressed in the reporting period; 
-- Reference resolved GitHub issues, documents, and/or meeting notes.
-- Describe any face-to-face meetings convened at annual conference or during interim period; include:
-  - Date/duration
-  - Location
-  - List participants
-  - Funding amount and source
-- Work in related projects that inform the goals of the IG/TG.
+- Primary mode(s) of collaboration, GitHub issue tracker, email discussion, regular or ad-hoc conference calls, shared document development (e.g., GitHub repo, wiki, Google Docs).  
+- Summarize briefly the most important issues addressed in the reporting period;  
+- Reference resolved GitHub issues, documents, and/or meeting notes.  
+- Describe any face-to-face meetings convened at annual conference or during interim period; include:  
+  - Date/duration  
+  - Location  
+  - List participants  
+  - Funding amount and source  
+- Work in related projects that inform the goals of the IG/TG.  
 
 ## Accomplishments:
 Summarize and reference any documents (draft standards), publications, or presentations.
