@@ -19,7 +19,7 @@ _Text in brackets is for guidance and should be replaced with your content or de
 Web Site:  \[ _enter URL_ \]
  
 Convener(s):  
- Name  | Email Address 
+ Name  | Email Address  
  ----- | -------------   
        |                 
 
