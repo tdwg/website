@@ -1,6 +1,6 @@
 ---
 title: Annual Report Template
-summary: Use this template to create an annual report for a TDWG interest or task group.
+summary: Use this template to create an annual report for a TDWG interest or task group. Click "Raw" above to view text to be copied.
 cover_image: 
 cover_image_by: 
 cover_image_ref: 
@@ -10,7 +10,7 @@ page_order:
 
 _Text in brackets is for guidance and should be replaced with your content or deleted. Also see: Guide to Interest/Task Group Annual Reporting_
 
-<!-- COPY THE TEXT BELOW; THEN PASTE INTO A NEW FILE IN YOUR GROUP'S REPOSITORY USING A TITLE LIKE "GRP_ABBREV-2018-annual-report.md" -->
+<!-- **COPY THE TEXT BELOW THSI COMMENT**; then paste it into a new file in your repository with a name like "GRP_ABBREV-2018-annual-report.md" -->
 
 \[ _Group Name_ \]
 
