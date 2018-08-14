@@ -12,9 +12,9 @@ _Text in brackets is for guidance and should be replaced with your content or de
 
 <!-- **COPY THE TEXT BELOW THSI COMMENT**; then paste it into a new file in your repository with a name like "GRP_ABBREV-2018-annual-report.md" -->
 
-\[ _Group Name_ \]
+\[ ```Group Name``` \]
 
-\[ _Interest_ | _Task_ \] Group Annual Report
+\[ ```Interest | Task``` \] Group Annual Report
 
 ### Web Site:  
 \[ ```enter URL``` \]
@@ -26,14 +26,17 @@ _Text in brackets is for guidance and should be replaced with your content or de
 \[ ```enter date``` \]
 
 ## Phase of work:  
-_Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:_  
+```
+Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:  
 
-- _Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans_  
-- _Developing a draft standard_  
-- _Proposed standard in review or revision_  
-- _Adoption and Maintenance_  
+- Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans  
+- Developing a draft standard  
+- Proposed standard in review or revision  
+- Adoption and Maintenance
+```
 
 ## Activities:
+```
 Summarize group activities including:
 - Primary mode(s) of collaboration, GitHub issue tracker, email discussion, regular or ad-hoc conference calls, shared document development (e.g., GitHub repo, wiki, Google Docs).  
 - Summarize briefly the most important issues addressed in the reporting period;  
@@ -44,16 +47,17 @@ Summarize group activities including:
   - List participants  
   - Funding amount and source  
 - Work in related projects that inform the goals of the IG/TG.  
+```
 
 ## Accomplishments:
-Summarize and reference any documents (draft standards), publications, or presentations.
-Also describe any issues relevant to other TDWG groups, such as dependencies on other standards or technologies. 
+```Summarize and reference any documents (draft standards), publications, or presentations.
+Also describe any issues relevant to other TDWG groups, such as dependencies on other standards or technologies. ```
 
-## Impediments to progress:
-Describe any factors or conditions that impede progress toward goals, such as:  intractable discussions; lack of time; lack of funding; need for advice, feedback, or consultation with experts or additional stakeholders.
+## Impediments to progress
+```Describe any factors or conditions that impede progress toward goals, such as:  intractable discussions; lack of time; lack of funding; need for advice, feedback, or consultation with experts or additional stakeholders.```
 
 ## Changes in goals or scope
-Describe and explain any change to the IG/TG’s goals or scope of work.  Note that any significant changes will need to be reflected in an updated IG/TG Charter.
+```Describe and explain any change to the IG/TG’s goals or scope of work.  Note that any significant changes will need to be reflected in an updated IG/TG Charter.```
 
 ## Plans for next calendar year
 - Goals/priorities
