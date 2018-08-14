@@ -26,10 +26,11 @@ _Text in brackets is for guidance and should be replaced with your content or de
 
 ## Phase of work:  
 _Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:_  
-- _Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans
-- Developing a draft standard
-- Proposed standard in review or revision
-- Adoption and Maintenance_
+
+- _Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans_  
+- _Developing a draft standard_  
+- _Proposed standard in review or revision_  
+- _Adoption and Maintenance_  
 
 ## Activities:
 Summarize group activities including:
