@@ -74,7 +74,10 @@ significant changes will need to be reflected in an updated IG/TG Charter.
 ```
 
 ## Plans for next calendar year
+```
+Describe any:
 - Goals/priorities
-- Schedule of any planned events, conference calls, and/or expected milestones. Approximate dates are sufficient.
-
+- Schedule of any planned events, conference calls, and/or expected milestones. 
+  Approximate dates are sufficient.
+```
 _Note, plans for the coming year can be updated after the annual meeting, if necessary._
