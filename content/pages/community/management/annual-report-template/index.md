@@ -27,17 +27,17 @@ Convener(s):
 Submitted:  \[ _enter date_ \]
 
 ## Phase of work:  
-_Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:
-- Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans
+_Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:_  
+- _Research and Planning: gathering requirements, evaluating approaches and methodologies, developing plans
 - Developing a draft standard
 - Proposed standard in review or revision
 - Adoption and Maintenance_
 
 ## Activities:
 Summarize group activities including:
-- Primary mode(s) of collaboration, GitHub issue tracker, email discussion, regular or ad-hoc conference calls, shared document development [Wiki or Google Docs]).
+- Primary mode(s) of collaboration, GitHub issue tracker, email discussion, regular or ad-hoc conference calls, shared document development (e.g., GitHub repo, wiki, Google Docs).
 - Summarize briefly the most important issues addressed in the reporting period; 
-- Reference email archives and/or meeting notes.
+- Reference resolved GitHub issues, documents, and/or meeting notes.
 - Describe any face-to-face meetings convened at annual conference or during interim period; include:
   - Date/duration
   - Location
