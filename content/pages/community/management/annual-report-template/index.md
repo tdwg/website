@@ -8,7 +8,7 @@ tags:
 page_order: 
 ---
 
-_Text as code block is for guidance and should be replaced with your content or deleted. Also see: Guide to Interest/Task Group Annual Reporting_
+_Text formatted as code block, i.e., between and including three back-ticks (\`\`\`), is for guidance and should be replaced with your content or deleted. Also see: Guide to Interest/Task Group Annual Reporting_
 
 <!-- **COPY THE TEXT BELOW THSI COMMENT**; then paste it into a new file in your repository with a name like "GRP_ABBREV-2018-annual-report.md" -->
 
