@@ -1,5 +1,5 @@
 ---
-title: Guide to annual reporting
+title: Guide to interest/task group annual reporting
 summary: 
 cover_image: 
 cover_image_by: 
@@ -7,8 +7,6 @@ cover_image_ref:
 tags: 
 page_order: 
 ---
-
-# Guide to interest/task group annual reporting
 
 ## Introduction
 
