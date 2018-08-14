@@ -16,13 +16,14 @@ _Text in brackets is for guidance and should be replaced with your content or de
 
 \[ _Interest_ | _Task_ \] Group Annual Report
 
-### Web Site:  \[ _enter URL_ \]
+### Web Site:  
+\[ ```enter URL``` \]
  
 ### Convener(s):  
-\[ _Name_, _Email_Address_ \]  
+\[ ```Name, Email_Address``` \]  
 
 ### Submitted:  
-\[ _enter date_ \]
+\[ ```enter date``` \]
 
 ## Phase of work:  
 _Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group in pursuing more than one goal.  Examples:_  
