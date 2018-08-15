@@ -1,5 +1,5 @@
 ---
-title: Standards Categories and Status
+title: Standards Status and Categories
 summary: 
 cover_image: 
 cover_image_by: 
