@@ -12,6 +12,8 @@ page_order: 1
 
 ### Patricia Mergen
 
+Meise Botanic Garden and the Africa Museum, Tervuren, Belgium
+
 #### Background
 
 I have been active in TDWG since 2002, had the position of Secretary for several turns and am currently chair of the [Time and Place Committee](https://www.tdwg.org/about/committees/tardis/). I have actively participated and managed projects around research infrastructures in the domain of Biodiversity Information and environmentally related topics, as well as in Natural History Collections. I am currently the contact for the Belgian National Task force for the ESFRI proposal [DiSSCo](http://dissco.eu/) (Distributed System of Scientific collections) and as liaison with other infrastructures such as this [e-LTER](http://www.lter-europe.net/), [LifeWatch](https://www.lifewatch.eu/), [DARIAH](http://be.dariah.eu/) and [E-RIHS](http://www.e-rihs.eu/). She is also following up the programs on the [European Open Science Cloud](https://www.eudat.eu/european-open-science-cloud) (EOSC) and [EU-DAT](https://eudat.eu/). I have expertise in Biodiversity Information standards and tools. Active member of the [Consortium of European Taxonomic Facilities](https://cetaf.org/) (CETAF) since 2005, sitting in the executive Committee from 2006 to 2015, currently involved as liaison between the different CETAF working groups. I have been involved since 2003 in the infrastructure project SYNTHESYS (Synthesis of Systematic resources) dealing with best practices in collection management and associated data and images.
