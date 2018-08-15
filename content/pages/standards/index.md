@@ -10,3 +10,6 @@ page_order: 1
 ---
 
 Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with databases that implement them and data policies that endorse their use.
+
+[_Key to categories and status values of TDWG standards_](./categories-and-status)  
+
