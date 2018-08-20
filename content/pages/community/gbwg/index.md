@@ -1,9 +1,9 @@
 ---
 title: Genomic Biodiversity
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1531902706636-a9966c06605a
+cover_image_by: rawpixel
+cover_image_ref: https://unsplash.com/photos/bBgqqWZAVT4
 tags: interest group
 github:
 ---
