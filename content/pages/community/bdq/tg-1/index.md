@@ -5,7 +5,7 @@ cover_image: https://images.unsplash.com/photo-1478809956569-c7ce9654a947
 cover_image_by: Slava Bowman
 cover_image_ref: https://unsplash.com/photos/pkKeuRiDa2Q
 tags: task group
-github: 
+github: https://tdwg.github.io/bdq/tg1/site/
 ---
 
 # TG1 Framework on Data Quality
@@ -41,18 +41,17 @@ github:
 Most of the organizations today confront DQ problems using ad hoc approaches for fixing errors which cause DQ problems. However, such efforts do not assure that data will be fit for use for every purpose. This Task Group is working on the organization of concepts related both DQ needs and solutions for the Assessment and Management of fitness for use of biodiversity data. We expect that outcomes from the Task Group will allow the Biodiversity Informatics community to join efforts to tackle DQ issues by sharing and reusing DQ requirements, methods, tools, services, workflows and best practices which can be used for DQ measurement, validation, recommendation and error prevention and correction.
 
 ## Resources
-*    Veiga, A. K., Chapman, A., Gendreau, C., Robertson, T., Schiegel, D., Saraiva, A. M. (2015). Toward A Conceptual Framework for the Assessment and Management of the Fitness for Use of Biodiversity Data. In press.
-*    Veiga, A. K., Cartolano Jr., E. A., Saraiva, A. M. (2014). Data Quality Control in Biodiversity Informatics: The Case of Species Occurrence Data. IEEE Latin America Transactions. ISSN: 1548-0992. Volume: 12, Issue: 4. Available: http://www.ewh.ieee.org/reg/9/etrans/ieee/issues/vol12/vol12issue4June2014/20KochVeiga.htm 
-*    Veiga, A. K., Saraiva, A. M (2012). A Guideline for Dealing with Data Quality. In proceedings of Biodiversity Information Standards (TDWG) 2012 Annual Conference. Beijing, China. 
-*    Veiga, A. K., Saraiva, A. M. Cartolano, E. A (2012). Data Quality Concepts and Methods Applied to Biological Species Occurrence Data. In book: ICT for Agriculture, rural development and environment – Where we are? Where we will go? Czech Centre for Science and Society Wirelessinfo. 
-*    Wang R, Reddy M, Kon H (1995). Toward quality data: An attribute- based approach. Journal of Decision Support Systems.vol. 13, no. 3-4. pp. 349-372.
+*    Veiga, AK, Saraiva, AM, Chapman, AD, Morris, PJ, Gendreau, C, Schiegel, D, Robertson, TJ (2017). A conceptual framework for quality assessment and management of biodiversity data. PLOS ONE 12(6): e0178731. https://doi.org/10.1371/journal.pone.0178731
+*    Veiga, AK., Cartolano Jr., EA, Saraiva, AM (2014). Data Quality Control in Biodiversity Informatics: The Case of Species Occurrence Data. IEEE Latin America Transactions. ISSN: 1548-0992. Volume: 12, Issue: 4. Available: http://www.ewh.ieee.org/reg/9/etrans/ieee/issues/vol12/vol12issue4June2014/20KochVeiga.htm 
+*    Veiga, AK., Saraiva, AM (2012). A Guideline for Dealing with Data Quality. In proceedings of Biodiversity Information Standards (TDWG) 2012 Annual Conference. Beijing, China. https://static.tdwg.org/conferences/2012/presentations/AllanKochVeigaTDWG.pdf
+*    Veiga, AK, Saraiva, AM, Cartolano, EA (2012). Data Quality Concepts and Methods Applied to Biological Species Occurrence Data. In book: ICT for Agriculture, rural development and environment – Where we are? Where we will go? Czech Centre for Science and Society Wirelessinfo. 
+*    Wang R, Reddy M, Kon H (1995). Toward quality data: An attribute- based approach. Journal of Decision Support Systems.vol. 13, no. 3-4. pp. 349-372. https://doi.org/10.1016/0167-9236(93)E0050-N
 *    Strong DM, Lee Y, Wang RY (1997). Data Quality in Context. Communications of the ACM. pp. 103-110.
-*    Wang RY, Strong DM (1996). Beyond accuracy: What data quality means to data consumers. Journal of Management Information Systems.vol.12, no. 4, pp. 5–33.
+*    Wang RY, Strong DM (1996). Beyond accuracy: What data quality means to data consumers. Journal of Management Information Systems. vol.12, no. 4, pp. 5–33. http://mitiq.mit.edu/Documents/Publications/TDQMpub/14_Beyond_Accuracy.pdf
 *    Ge M, Helfert M (2007). A review of information quality research - develop a research agenda. ICIQ, page 76-91. MIT.
 *    Dalcin, EC (2005). Data quality concepts and techniques applied to taxonomic databases. PhD dissertation, University of Southampton, United Kingdom.
-*    Chapman, AD (2005a). Principles and Methods of Data Cleaning – Primary Species and Species Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p.
-*    Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p.
-*    Chapman, AD (2005c). Principles and Methods of Data Cleaning Primary Species Occurrence Data. Report for the Global Biodiversity Information Facility, Copenhagen.
-*    Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. doi:10.1371/journal.pone.0055144
+*    Chapman, AD (2005a). Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p. http://www.gbif.org/document/80528
+*    Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p. https://doi.org/10.15468/doc.jrgg-a190
+*    Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. https://doi.org/10.1371/journal.pone.0055144
 *    http://community.gbif.org/pg/groups/21292/gbiftdwg-biodiversity-data-quality-interest-group/ 
 *    https://github.com/tdwg/infrastructure/issues/48. 
