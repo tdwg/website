@@ -39,11 +39,11 @@ github: https://github.com/tdwg/bdq
 *    The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
 
 ## Resources
-*    Belbin, L., Daly, J., Hirsch, T., Hobern, D. and LaSalle, J. (2013). A specialist’s audit of aggregated occurrence records: An ‘aggregators’ response. ZooKeys 305: 67–76. doi: 10.3897/zookeys.305.5438.
-*    Chapman, AD (2005a). Principles and Methods of Data Cleaning – Primary Species and Species Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p.
-*    Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p.
+*    Belbin, L., Daly, J., Hirsch, T., Hobern, D. and LaSalle, J. (2013). A specialist’s audit of aggregated occurrence records: An ‘aggregators’ response. ZooKeys 305: 67–76. https://doi.org/10.3897/zookeys.305.5438.
+*    Chapman, AD (2005a). Principles and Methods of Data Cleaning – Primary Species and Species Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p. Available online at http://www.gbif.org/document/80528
+*    Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p. https://doi.org/10.15468/doc.jrgg-a190
 *    Costello MJ, Michener WK, Gahegan M, Zhang Z-Q, Bourne P, Chavan V (2012). Quality assurance and intellectual property rights in advancing biodiversity data publications version 1.0, Copenhagen: Global Biodiversity Information Facility, 40p, ISBN: 87‐92020‐49‐6.
-*    Mesibov R (2013) A specialist’s audit of aggregated occurrence records. ZooKeys 293: 1-18. doi: 10.3897/zookeys.293.5111
-*    Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. doi:10.1371/journal.pone.0055144
+*    Mesibov R (2013) A specialist’s audit of aggregated occurrence records. ZooKeys 293: 1-18. https://doi.org/10.3897/zookeys.293.5111
+*    Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. https://doi.org/10.1371/journal.pone.0055144
 *    http://community.gbif.org/pg/groups/21292/gbiftdwg-biodiversity-data-quality-interest-group/
 *    https://github.com/tdwg/infrastructure/issues/48. 
