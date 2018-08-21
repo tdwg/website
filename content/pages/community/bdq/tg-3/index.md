@@ -42,5 +42,4 @@ This should provide a reference set of information that can be used to inform as
 *    Costello MJ, Michener WK, Gahegan M, Zhang Z-Q, Bourne P, Chavan V (2012). Quality assurance and intellectual property rights in advancing biodiversity data publications version 1.0, Copenhagen: Global Biodiversity Information Facility, 40 pp. ISBN 87-92020-49-6.
 *    Mesibov R (2013) A specialist's audit of aggregated occurrence records. ZooKeys 293: 1-18. doi: 10.3897/zookeys.293.5111
 *    Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. doi:10.1371/journal.pone.0055144
-*    http://community.gbif.org/pg/groups/21292/gbiftdwg-biodiversity-data-quality-interest-group/ 
 *    https://github.com/tdwg/infrastructure/issues/48.
