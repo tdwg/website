@@ -45,7 +45,7 @@ The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), 
 - If further in-person interaction is needed among the members of the TG and/or with other members of the community or domain-specific groups, we will seek funding opportunities through different agencies outside TDWG.
 - Evaluation of the current state of data (item 7) will be carried out mainly by the convener based on previous research conducted on data from GBIF, iDigBio and VertNet, already available through a data directory in the Darwin Core Questions & Answers GitHub site (https://github.com/tdwg/dwc-qa/tree/master/data). 
 ## Timeline (tentative)
-![](https://drive.google.com/uc?export=download&id=0B4sIKK7qrRVITFhGb3I0Qld5Q28)
+![timeline](https://drive.google.com/uc?export=download&id=0B4sIKK7qrRVITFhGb3I0Qld5Q28)
 
 # Resources
 - Standards Documentation Specification, (particularly section 4.5.4 of  https://github.com/tdwg/vocab/blob/master/documentation-specification.md).
