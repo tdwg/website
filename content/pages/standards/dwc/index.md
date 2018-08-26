@@ -42,6 +42,7 @@ The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabul
 - [Darwin Core Namespace Policy](tdwg.github.io/dwc/intro) - an explanation of how URIs for Darwin Core terms should be constructed
 
 ## Maintenance Group
+
 Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group]({filename}maintenance/index.md).
 
 The best way to be involved is to create an account on [GitHub](https://github.com), and "watch" the [Darwin Core GitHub repository](https://github.com/tdwg/dwc), as well as the [Darwin Core Questions & Answers repository](https://github.com/tdwg/dwc-qa), and respond to requests for comments or "issues" ([Darwin Core issues](https://github.com/tdwg/dwc/issues) and [Darwin Core QA issues](https://github.com/tdwg/dwc-qa/issues/)). Information about how to suggest changes to the standard can be found at the [Guidelines for Contributing](https://github.com/tdwg/dwc/blob/master/.github/CONTRIBUTING.md) page.
@@ -50,25 +51,25 @@ The best way to be involved is to create an account on [GitHub](https://github.c
 
 What is in scope?
 
- - Collections of any kind of biological objects or data.
- - Terminology associated with biological collection data.
- - Striving for compatibility with other biodiversity-related standards.
- - Facilitating the addition of components and attributes of biological data.
+- Collections of any kind of biological objects or data.
+- Terminology associated with biological collection data.
+- Striving for compatibility with other biodiversity-related standards.
+- Facilitating the addition of components and attributes of biological data.
 
 What is not in scope?
 
- - Data interchange protocols.
- - Non-biodiversity-related data.
- - Purely taxonomic data.
+- Data interchange protocols.
+- Non-biodiversity-related data.
+- Purely taxonomic data.
 
 ## Audience
 
- - Biodiversity data holders (organizations, institutions, researchers).
- - Consumers of biodiversity data.
- - Developers of collections management systems.
- - Other TDWG interest and task groups.
- - Protocol developers (TAPIR).
- - Biodiversity network developers.
+- Biodiversity data holders (organizations, institutions, researchers).
+- Consumers of biodiversity data.
+- Developers of collections management systems.
+- Other TDWG interest and task groups.
+- Protocol developers (TAPIR).
+- Biodiversity network developers.
 
 ## Contributors
 
@@ -76,8 +77,8 @@ What is not in scope?
 
 ## Resources
 
- - Resource directory: <http://rs.tdwg.org/dwc/>
- - Maintenance group: [this subpage]({filename}maintenance/index.md)
- - Primary collaboration platform: <https://github.com/tdwg/dwc>
- - Darwin Core Questions & Answers: <https://github.com/tdwg/dwc-qa>
- - Darwin Core landing page: [this page](https://www.tdwg.org/standards/dwc/)
+- Resource directory: <http://rs.tdwg.org/dwc/>
+- Maintenance group: [this subpage]({filename}maintenance/index.md)
+- Primary collaboration platform: <https://github.com/tdwg/dwc>
+- Darwin Core Questions & Answers: <https://github.com/tdwg/dwc-qa>
+- Darwin Core landing page: [this page](https://www.tdwg.org/standards/dwc/)
