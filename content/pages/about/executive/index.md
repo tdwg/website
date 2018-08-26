@@ -10,7 +10,7 @@ page_order: 1
 
 ## [Positions Open for the Executive Committee 2019-2020](https://www.tdwg.org/news/2018/call-for-nominations/)
 
-## Officers and elections
+## Current Officers and elections
 
 TDWG is led by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution]({filename}../constitution/index.md) and further described in a [supplementary document]({filename}TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
 
