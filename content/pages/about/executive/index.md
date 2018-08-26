@@ -47,7 +47,7 @@ Africa | [Lucy Waruingi](mailto:lucy.waruingi@acc.or.ke) | African Conservation 
 Asia | [Ji Liqiang](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2017-2018
 Europe | [Wouter Addink](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2018-2019
 Latin America | [Bruno de Carvalho Albertini](mailto:balbertini@gmail.com) | University of Sao Paulo, Brazil | 2018-2019
-North America | [Cynthia Parr](mailto:csparr@tdwg.org) | National Agricultural Library, USDA, MD, USA | 2017-2018
+North America | [Cynthia Parr](mailto:cynthia.parr@ars.usda.gov) | National Agricultural Library, USDA, MD, USA | 2017-2018
 Oceania | [Simon Checksfield](mailto:simon.checksfield@csiro.au) | CSIRO, Australia | 2018-2019
 
 ### Regularly invited participants (non-voting)
