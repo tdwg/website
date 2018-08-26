@@ -35,11 +35,11 @@ Preferred citation
 
 The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabulary (<http://rs.tdwg.org/dwc/>), and five documents:
 
-- [Simple Darwin Core Guide](tdwg.github.io/dwc/intro) - a guide for sharing information using the simplest methods
-- [Darwin Core Text Guide](tdwg.github.io/dwc/intro) - a guide for sharing information using text files
-- [Darwin Core XML Guide](tdwg.github.io/dwc/intro) - a guide for constructing application schemas using XML
-- [Darwin Core RDF Guide](tdwg.github.io/dwc/intro) - a guide for encoding biodiversity data using the Resource Description Framework (RDF)
-- [Darwin Core Namespace Policy](tdwg.github.io/dwc/intro) - an explanation of how URIs for Darwin Core terms should be constructed
+- [Simple Darwin Core Guide](http://rs.tdwg.org/dwc/terms/simple/) - a guide for sharing information using the simplest methods
+- [Darwin Core Text Guide](http://rs.tdwg.org/dwc/terms/guides/text/) - a guide for sharing information using text files
+- [Darwin Core XML Guide](http://rs.tdwg.org/dwc/terms/guides/xml/) - a guide for constructing application schemas using XML
+- [Darwin Core RDF Guide](http://rs.tdwg.org/dwc/terms/guides/rdf/) - a guide for encoding biodiversity data using the Resource Description Framework (RDF)
+- [Darwin Core Namespace Policy](http://rs.tdwg.org/dwc/terms/namespace/) - an explanation of how URIs for Darwin Core terms should be constructed
 
 ## Maintenance Group
 
