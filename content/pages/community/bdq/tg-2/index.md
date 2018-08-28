@@ -33,7 +33,7 @@ Lee Belbin
 
 ## Strategy
 
-* The tests and rules generating assertions at the record-level are more fundamental than the tools or workflows that will be based on them. The priority will therefore be to create a comprehensive list of these tests, rules and assertions along with where and how they are used. For example, GBIFs set can be found at https://github.com/gbif/gbif-api/blob/master/src/main/java/org/gbif/api/vocabulary/OccurrenceIssue.java while the Atlas of Living Australia has a more comprehensive site at http://biocache.ala.org.au/ws/assertions/codes. These will form the base. Other Data Providers include iDigBio, VertNet, OBIS, CRIA and BISON.
+* The tests and rules generating assertions at the record-level are more fundamental than the tools or workflows that will be based on them. The priority will therefore be to create a comprehensive list of these tests, rules and assertions along with where and how they are used. For example, GBIFs set can be found at <https://github.com/gbif/gbif-api/blob/master/src/main/java/org/gbif/api/vocabulary/OccurrenceIssue.java> while the Atlas of Living Australia has a more comprehensive site at <http://biocache.ala.org.au/ws/assertions/codes>. These will form the base. Other Data Providers include iDigBio, VertNet, OBIS, CRIA and BISON.
 
 ## Becoming Involved
 
@@ -42,11 +42,11 @@ Lee Belbin
 
 ## History/Context
 
-* The Task Group was established in 2014 as a Task Group of the TDWG Data Quality Interest Group viz, Task Group 2: Tools, Services and Workflows. The new name and charter better reflects the work and goals of the Task Group as tests and assertions are more stable and longer lasting than the tools which will link to the relevant tests and workflows that will also depend on them. Services seems better placed with the TDWG Biodiversity Services and Clients IG.
+The Task Group was established in 2014 as a Task Group of the TDWG Data Quality Interest Group viz, Task Group 2: Tools, Services and Workflows. The new name and charter better reflects the work and goals of the Task Group as tests and assertions are more stable and longer lasting than the tools which will link to the relevant tests and workflows that will also depend on them. Services seems better placed with the TDWG Biodiversity Services and Clients IG.
 
 ## Summary
 
-* The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
+The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
 
 ## Resources
 
