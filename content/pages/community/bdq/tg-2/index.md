@@ -1,14 +1,12 @@
 ---
 title: Data quality tests and assertions
-summary: 
+summary: The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
 cover_image: 
 cover_image_by: 
 cover_image_ref: 
 tags: task group
 github: https://github.com/tdwg/bdq
 ---
-
-# TG2 Tests and Assertions
 
 ## Convenor
 
@@ -23,7 +21,7 @@ Lee Belbin
 * The tests and assertions will initially be based on the Darwin Core standard.
 * I (Lee Belbin) raised the need for a practical set of tools related to Data Quality at the TDWG 2010 Conference at Woods Hole. What I was asking for was at least the public display of the rules that were being used by GBIF to flag issues in their records. This didn’t happen, so we are trying again and we will include any agency that provides biodiversity records to the public.
 
-## Goals, Outputs and Outcomes
+## Goals, outputs and outcomes
 
 * A set of tests and resulting data assertions that are in use by key Data Providers to flag record issues (January 2017).
 * A set of principles that have emerged in the process of identifying and refining the tests and assertions. These would be expected to form the basis of a paper on ‘data quality’ tests and assertions’ (January 2017).
@@ -35,18 +33,14 @@ Lee Belbin
 
 * The tests and rules generating assertions at the record-level are more fundamental than the tools or workflows that will be based on them. The priority will therefore be to create a comprehensive list of these tests, rules and assertions along with where and how they are used. For example, GBIFs set can be found at <https://github.com/gbif/gbif-api/blob/master/src/main/java/org/gbif/api/vocabulary/OccurrenceIssue.java> while the Atlas of Living Australia has a more comprehensive site at <http://biocache.ala.org.au/ws/assertions/codes>. These will form the base. Other Data Providers include iDigBio, VertNet, OBIS, CRIA and BISON.
 
-## Becoming Involved
+## Becoming involved
 
 * This Task Group would welcome anyone who has a practical interest in data quality and/or has experience with the tests, rules, assertions, tools or workflows.
 * Contact the Convener
 
-## History/Context
+## History/context
 
 The Task Group was established in 2014 as a Task Group of the TDWG Data Quality Interest Group viz, Task Group 2: Tools, Services and Workflows. The new name and charter better reflects the work and goals of the Task Group as tests and assertions are more stable and longer lasting than the tools which will link to the relevant tests and workflows that will also depend on them. Services seems better placed with the TDWG Biodiversity Services and Clients IG.
-
-## Summary
-
-The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
 
 ## Resources
 
@@ -56,4 +50,3 @@ The Task Group will provide a report of the practical tests, assertions, princip
 * Costello MJ, Michener WK, Gahegan M, Zhang Z-Q, Bourne P, Chavan V (2012). Quality assurance and intellectual property rights in advancing biodiversity data publications version 1.0, Copenhagen: Global Biodiversity Information Facility, 40p, ISBN: 87‐92020‐49‐6.
 * Mesibov R (2013) A specialist’s audit of aggregated occurrence records. ZooKeys 293: 1-18. <https://doi.org/10.3897/zookeys.293.5111>
 * Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. <https://doi.org/10.1371/journal.pone.0055144>
-* <https://github.com/tdwg/infrastructure/issues/48>.

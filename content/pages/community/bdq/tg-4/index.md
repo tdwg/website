@@ -8,14 +8,13 @@ tags: task group
 github: 
 ---
 
-# TG4 - Workplan
-
 The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), as well as the steps to produce them are described here.
 
-# Goals, outputs and outcomes
+## Goals, outputs and outcomes
+
 **1. Preparation of a Scoping Document.** The document will include the following topics:
-  - Determining what types of vocabularies would be needed for TDWG – consistent with the various ISO Standards on Vocabularies (i.e., do we require vocabularies, dictionaries of terms, controlled vocabularies, thesauri, ontologies, etc.), and whether vocabularies should be mono-lingual or multi-lingual.
-  - Determining a strategy for organizing the construction of vocabularies, considering: A) structuring of work within TDWG, with the following options: 1) the creation of a separate Interest group; 2) the creation of several Task Groups within the Data Quality Interest Group, or associated to other TDWG Interest Groups; B) Domain specific needs and practices.
+    - Determining what types of vocabularies would be needed for TDWG – consistent with the various ISO Standards on Vocabularies (i.e., do we require vocabularies, dictionaries of terms, controlled vocabularies, thesauri, ontologies, etc.), and whether vocabularies should be mono-lingual or multi-lingual.
+    - Determining a strategy for organizing the construction of vocabularies, considering: A) structuring of work within TDWG, with the following options: 1) the creation of a separate Interest group; 2) the creation of several Task Groups within the Data Quality Interest Group, or associated to other TDWG Interest Groups; B) Domain specific needs and practices.
   
 **2. Development of a common repository for TDWG vocabularies-of-values.** GitHub will be the first option but other alternatives will be explored to provide a user-friendly platform for gathering and developing vocabularies. Exploration of alternative platform is expected.
 
@@ -31,8 +30,10 @@ The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), 
 
 **8. Preparation of a list of vocabularies needed** for terms of the Darwin Core standard based on the previous report.
 
-# Strategy 
-## General
+## Strategy
+
+### General
+
 - The convener and the core members of the group will produce the reports and documentation outputs in collaboration with any other interested parties.
 - Discussion and general work will be performed via periodic meetings that will be held remotely and in person in appropriate venues (e.g., TDWG 2018, 2019, DQIG meetings).
 - All activities will be tracked in the common repository in GitHub (item 2), which will be created either as an independent repository or under the existing Interest Group repository (https://github.com/tdwg/bdq), as a first activity. All materials produced will be available in that repository as well.
@@ -43,19 +44,22 @@ The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), 
 - The gathering of existing vocabularies (item 5) will be based on a preliminary list made by the convener and already available at https://docs.google.com/spreadsheets/d/1SDbtZxEzg0t10OSNDPJN0XSye6mMOTTCIBH3xh-HUYA/edit#gid=0. A more extensive search will be conducted and key stakeholders (e.g., aggregators, database management systems, data providers from natural history collections) will be personally contacted via email and invited to share vocabularies in use.
 - As before, domain-specific groups will be identified and contacted via email and personally in appropriate meetings (e.g., TDWG/SPNCH 2018) (item 6).
 - If further in-person interaction is needed among the members of the TG and/or with other members of the community or domain-specific groups, we will seek funding opportunities through different agencies outside TDWG.
-- Evaluation of the current state of data (item 7) will be carried out mainly by the convener based on previous research conducted on data from GBIF, iDigBio and VertNet, already available through a data directory in the Darwin Core Questions & Answers GitHub site (https://github.com/tdwg/dwc-qa/tree/master/data). 
-## Timeline (tentative)
+- Evaluation of the current state of data (item 7) will be carried out mainly by the convener based on previous research conducted on data from GBIF, iDigBio and VertNet, already available through a data directory in the Darwin Core Questions & Answers GitHub site (https://github.com/tdwg/dwc-qa/tree/master/data).
+
+### Timeline (tentative)
+
 ![timeline](https://drive.google.com/uc?export=download&id=0B4sIKK7qrRVITFhGb3I0Qld5Q28)
 
-# Resources
-- Standards Documentation Specification, (particularly section 4.5.4 of  https://github.com/tdwg/vocab/blob/master/documentation-specification.md).
-- Preliminary collection and assessment of already existing vocabularies across the community (https://docs.google.com/spreadsheets/d/1SDbtZxEzg0t10OSNDPJN0XSye6mMOTTCIBH3xh-HUYA/edit#gid=0).
-- ANSI/NISO Z39.19-2005 (R2010) — Guidelines for the construction, format, and management of monolingual controlled vocabularies, National Information Standards Organization (US). (http://www.niso.org/apps/group_public/download.php/12591/z39-19-2005r2010.pdf).
-- ISO Standard for thesauri, ISO25964, (https://en.wikipedia.org/wiki/ISO_25964).
-- ISO 25964-1:2011 Information and documentation -- Thesauri and interoperability with other vocabularies -- Part 1: Thesauri for information retrieval (https://www.iso.org/standard/53657.html).
-- ISO 25964-2:2013 Information and documentation -- Thesauri and interoperability with other vocabularies -- Part 2: Interoperability with other vocabularies (https://www.iso.org/standard/53658.html).
-- TDWG Vocabulary Maintenance Specification Task Group (https://github.com/tdwg/vocab).
-- Distinct Value lists (https://github.com/tdwg/dwc-qa/tree/master/data).
-- TDWG Data Quality mailing list (http://lists.tdwg.org/mailman/listinfo/tdwg-bdq).
-- Ontobee (http://www.ontobee.org/).
-- Research Data Alliance (RDA) Vocabulary Services Interest Group Charter Proposal. (https://www.rd-alliance.org/group/vocabulary-services-interest-group/case-statement/vocabulary-services-interest-groups.html).
+## Resources
+
+- Standards Documentation Specification, (particularly section 4.5.4 of  <https://github.com/tdwg/vocab/blob/master/documentation-specification.md>).
+- Preliminary collection and assessment of already existing vocabularies across the community (<https://docs.google.com/spreadsheets/d/1SDbtZxEzg0t10OSNDPJN0XSye6mMOTTCIBH3xh-HUYA/edit#gid=0>).
+- ANSI/NISO Z39.19-2005 (R2010) — Guidelines for the construction, format, and management of monolingual controlled vocabularies, National Information Standards Organization (US). (<http://www.niso.org/apps/group_public/download.php/12591/z39-19-2005r2010.pdf>).
+- ISO Standard for thesauri, ISO25964, (<https://en.wikipedia.org/wiki/ISO_25964>).
+- ISO 25964-1:2011 Information and documentation -- Thesauri and interoperability with other vocabularies -- Part 1: Thesauri for information retrieval (<https://www.iso.org/standard/53657.html>).
+- ISO 25964-2:2013 Information and documentation -- Thesauri and interoperability with other vocabularies -- Part 2: Interoperability with other vocabularies (<https://www.iso.org/standard/53658.html>).
+- TDWG Vocabulary Maintenance Specification Task Group (<https://github.com/tdwg/vocab>).
+- Distinct Value lists (<https://github.com/tdwg/dwc-qa/tree/master/data>).
+- TDWG Data Quality mailing list (<http://lists.tdwg.org/mailman/listinfo/tdwg-bdq>).
+- Ontobee (<http://www.ontobee.org/>).
+- Research Data Alliance (RDA) Vocabulary Services Interest Group Charter Proposal. (<https://www.rd-alliance.org/group/vocabulary-services-interest-group/case-statement/vocabulary-services-interest-groups.html>).
