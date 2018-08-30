@@ -36,8 +36,9 @@ John Wieczorek | University of California, Berkeley
 Jorrit Poelen | Global Biotic Interactions
 José Augusto Salim | Universidade de São Paulo
 Juliana Saragiotto Silva | Instituto Federal de Mato Grosso
-Katja Schulz | Smithsonian Institution
-Prabha Prabhakar | Strand Life Sciences
+Katja Schulz | Smithsonian Institution
+Lydia Buntrock | (last: Institute of Molecular Parasitology, HU Berlin)
+Prabha Prabhakar | Strand Life Sciences
 Quentin Groom | Meise Botanic Garden 
 Remy Jomier | Service du Patrimoine Naturel
 Willem Coetzer | South African Institute for Aquatic Biodiversity
