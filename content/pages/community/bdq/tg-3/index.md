@@ -5,7 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_ref: 
 tags: task group
-github: 
+github: https://github.com/tdwg/bdq
 ---
 
 ## Convenor
@@ -34,10 +34,11 @@ A set of use cases that are in use by agencies and user communities to select re
 This Task Group would welcome anyone who has a practical interest in data quality and/or has experience with selecting data sets and records for specific purposes.
 
 ## Resources
-
-* Belbin, L., Daly, J., Hirsch, T., Hobern, D. and LaSalle, J. (2013). A specialist's audit of aggregated occurrence records: An 'aggregators' response. ZooKeys 305: 67-76. <https://doi.org/10.3897/zookeys.305.5438>
-* Chapman, AD (2005a). Principles and Methods of Data Cleaning - Primary Species and Species Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p.
-* Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p.
-* Costello MJ, Michener WK, Gahegan M, Zhang Z-Q, Bourne P, Chavan V (2012). Quality assurance and intellectual property rights in advancing biodiversity data publications version 1.0, Copenhagen: Global Biodiversity Information Facility, 40 pp. ISBN 87-92020-49-6.
-* Mesibov R (2013) A specialist's audit of aggregated occurrence records. ZooKeys 293: 1-18. <https://doi.org/10.3897/zookeys.293.5111>
-* Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. <https://doi.org/10.1371/journal.pone.0055144>
+*    Belbin, L., Daly, J., Hirsch, T., Hobern, D. and LaSalle, J. (2013). A specialist's audit of aggregated occurrence records: An 'aggregators' response. ZooKeys 305: 67-76. https://doi.org/10.3897/zookeys.305.5438.
+*    Chapman, AD (2005a). Principles and Methods of Data Cleaning - Primary Species and Species Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p. http://www.gbif.org/resource/80528.
+*    Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p. https://doi.org/10.15468/doc.jrgg-a190.
+*    Costello MJ, Michener WK, Gahegan M, Zhang Z-Q, Bourne P, Chavan V (2012). Quality assurance and intellectual property rights in advancing biodiversity data publications version 1.0, Copenhagen: Global Biodiversity Information Facility, 40 pp. ISBN 87-92020-49-6.
+*    Mesibov R (2013) A specialist's audit of aggregated occurrence records. ZooKeys 293: 1-18. https://doi.org/10.3897/zookeys.293.5111
+*    Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. https://doi.org/10.1371/journal.pone.0055144
+*    http://community.gbif.org/pg/groups/21292/gbiftdwg-biodiversity-data-quality-interest-group/ 
+*    https://github.com/tdwg/infrastructure/issues/48.
