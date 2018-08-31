@@ -1,5 +1,5 @@
 ---
-title: Species Interaction
+title: Biological Interactions Data
 summary: 
 cover_image: https://images.unsplash.com/photo-1489718678210-21984261b4f3
 cover_image_by: Boris Smokrovic
@@ -24,22 +24,24 @@ National Museum of Natural History, MRC #106
 
 Name | Affiliation
 --- | ---
-Anne Thessen | Ronin Institute
-Annie Simpson | US Geological Survey
+Anne Thessen | Oregon State University
+Annie Simpson | U.S. Geological Survey
 Antonio Mauro Saraiva | Universidade de São Paulo
 Chris Mungall | Lawrence Berkeley Laboratory
 Dmitry Schigel | GBIF Secretariat
+Ely Wallis | Atlas of Living Australia
 Francisco Pando | Real Jardín Botánico, CSIC
 Jennifer Hammock | Encyclopedia of Life, Smithsonian Institution
 John Wieczorek | University of California, Berkeley
 Jorrit Poelen | Global Biotic Interactions
 José Augusto Salim | Universidade de São Paulo
 Juliana Saragiotto Silva | Instituto Federal de Mato Grosso
-Katja Schulz | Smithsonian Institution
-Prabha Prabhakar | Strand Life Sciences
-Quentin Groom | Botanic Garden Meise
+Katja Schulz | Smithsonian Institution
+Lydia Buntrock | (last: Institute of Molecular Parasitology, HU Berlin)
+Prabha Prabhakar | Strand Life Sciences
+Quentin Groom | Meise Botanic Garden 
 Remy Jomier | Service du Patrimoine Naturel
-Willem Coetzer | South Africa Inst Aquatic Biodiversity
+Willem Coetzer | South African Institute for Aquatic Biodiversity
 
 ## Summary
 

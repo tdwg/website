@@ -9,7 +9,4 @@ template: page_tag_sections
 page_order: 1
 ---
 
-Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with databases that implement them and data policies that endorse their use.
-
-## [Standards status and categories](./status-and-categories)  
-
+TDWG standards have a [status and category]({filename}status-and-categories/index.md). Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with databases that implement them and data policies that endorse their use.
