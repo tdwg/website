@@ -10,8 +10,8 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: TDWG 2018
-alert_text: Subscriptions to the TDWG 2018 Annual Conference are now open.
-alert_button: Register now
+alert_text: Thank you for attending the SPNHC+TDWG 2018 Conference!
+alert_button: Visit the conference website
 alert_link: http://spnhc-tdwg2018.nz/
 alert_image: https://images.unsplash.com/photo-1508068235022-85a3716679b7
 newsletter_title: Keep up to date with TDWG
