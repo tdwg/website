@@ -40,6 +40,29 @@ I have a particular research interest in introduced plants, their ecology and bi
 
 We live in exciting times for biodiversity informatics, both a time when we have the capability to do more and better science with information technology, but also a time when the global challenges for biodiversity are extreme. Through my work with TDWG I hope to make new science possible and make a significant contribution to protecting our living heritage. Having learned much in my first two years as TDWG Secretary I hope to be even more effective in my role and in promoting TDWG to a wider audience.
 
+
+## Communications and Outreach FS Chair
+
+### [Prabhakar Rajagopal](https://orcid.org/0000-0001-9320-5942)
+
+Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, India
+
+#### Curriculum Vitae
+
+I did my bachelors in engineering from Indian Institute of Technology, Madras and my PhD from the Indian Institute of Science in Bangalore in the biological sciences. I work in Strand Life Sciences, which is a bioinformatics and computational biology company working in clinical genomics. 
+
+Since 2008, I have been involved in biodiversity informatics and have been working on building the [India Biodiversity Portal](http://indiabiodiversity.org), leading a team of developers within Strand Life Sciences. The platform is now mature, and powers three instances, the India Biodiversity Portal, the WIKWIO portal for the weeds of Africa and the Bhutan Biodiversity Portal.  
+
+#### Vision statement
+
+I have been involved in TDWG since 2014. I would like to build a team from members of TDWG who guide the activities of the outreach and communication sub-committee. The team would address four specific activities: 
+
+- They will create and put together publicity material as digital presentations, pamphlets and flyers for open access and use to all members of TDWG.
+- They will help advocate, evangelize and build capacity in biodiversity informatics standards  in stakeholder groups across the world.
+- They will work closely with regional representatives, especially in Africa, Asia and South America in building capacity in biodiversity informatics in collaboration with local institutions.
+- They will document and report all TDWG conducted and upcoming outreach and communication activities through the newly launched and website for global visibility
+
+
 ## Nominations for Asia representative
 
 ### Ji Liqiang

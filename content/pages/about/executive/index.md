@@ -8,9 +8,11 @@ tags:
 page_order: 1
 ---
 
-## Officers and elections
+## [Positions Open for the Executive Committee 2019-2020](https://www.tdwg.org/news/2018/call-for-nominations/)
 
-TDWG is lead by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution]({filename}../constitution/index.md) and further described in a [supplementary document]({filename}TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
+## Current Officers and elections
+
+TDWG is led by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution]({filename}../constitution/index.md) and further described in a [supplementary document]({filename}TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
 
 The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
@@ -45,7 +47,7 @@ Africa | [Lucy Waruingi](mailto:lucy.waruingi@acc.or.ke) | African Conservation 
 Asia | [Ji Liqiang](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2017-2018
 Europe | [Wouter Addink](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2018-2019
 Latin America | [Bruno de Carvalho Albertini](mailto:balbertini@gmail.com) | University of Sao Paulo, Brazil | 2018-2019
-North America | [Cynthia Parr](mailto:csparr@tdwg.org) | National Agricultural Library, USDA, MD, USA | 2017-2018
+North America | [Cynthia Parr](mailto:cynthia.parr@ars.usda.gov) | National Agricultural Library, USDA, MD, USA | 2017-2018
 Oceania | [Simon Checksfield](mailto:simon.checksfield@csiro.au) | CSIRO, Australia | 2018-2019
 
 ### Regularly invited participants (non-voting)
