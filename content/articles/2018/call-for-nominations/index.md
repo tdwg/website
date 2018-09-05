@@ -64,4 +64,4 @@ The TDWG Secretariat will post nominees’ statements to the TDWG website and di
 
 ## Deadline
 
-~~30 August 2018~~ 15 September 2018
+Originally 30 August 2018, but extended **15 September 2018** to accomodate time for travel and consultation.
