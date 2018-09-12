@@ -22,7 +22,19 @@ In my PhD I applied Numerical Ecology, modelling and statistics. I am currently 
 
 #### Vision for TDWG
 
-As deputy chair and subsequently chair of TDWG, I will together with the executive committee and TDWG members, aim at having TDWG’s position reinforced and made more visible in the international biodiversity landscape. Notably the collaboration with GBIF, CETAF, DiSSCo, and other infrastructures will be continued and enhanced. New markets and users for TDWG standards will be identified. The process of ratification of standards will be continuously enhanced and speeded up to broaden the user base and the number of TDWG standards implemented by the communities. With my background and experience in fund raising and project management, I will also contribute to the mobilization of funds for TDWG and for example help with the access to European opportunities via its new European TDWG based branch.  
+As deputy chair and subsequently chair of TDWG, I will together with the executive committee and TDWG members, aim at having TDWG’s position reinforced and made more visible in the international biodiversity landscape. Notably the collaboration with GBIF, CETAF, DiSSCo, and other infrastructures will be continued and enhanced. New markets and users for TDWG standards will be identified. The process of ratification of standards will be continuously enhanced and speeded up to broaden the user base and the number of TDWG standards implemented by the communities. With my background and experience in fund raising and project management, I will also contribute to the mobilization of funds for TDWG and for example help with the access to European opportunities via its new European TDWG based branch.
+
+### Abby Benson
+
+United States Geological Survey, Colorado, United States
+
+#### Curriculum Vitae
+
+I have worked for the United States Geological Survey (USGS) since 2010 and I have been the node manager for the US Node to the Ocean Biogeographic Information System (OBIS) since 2015. I also served as co-chair for the Marine Biodata Task Team from 2015 – 2017. My interest is in the drivers and effects of changing ecosystems on organisms at national and global scales and the role management can play in mitigating deleterious effects. Concomitant with that is understanding the patterns of species diversity and how analyses involving data synthesis can expose patterns over broad spatial distributions and longer time scales. Inherit in these interests is the need for biodiversity information to be FAIR (Findable, Accessible, Interoperable, Reusable) and biodiversity information standards play a key role in adhering to the FAIR Principles.
+
+#### Vision Statement
+
+TDWG has a unique position within the biodiversity information arena because biodiversity information standards provide the connection point between the people collecting data, managing data, and (re)using data. As such, the power of TDWG rests in making, fostering, and nurturing the connections between these three groups of people. As deputy chair and then chair of TDWG, I hope to identify new connections to cultivate with groups that may be underrepresented within TDWG and bolster collaborations that are already in place. As we invite ideas and critiques from current members and new ones, TDWG will find new avenues and directions to continue building a robust community of biodiversity information enthusiasts.
 
 ## Nominations for Secretary
 
