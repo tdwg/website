@@ -12,9 +12,11 @@ github: https://github.com/tdwg/curriculum
 
 ## Convener
 
-[Hanna Koivula](mailto:hanna.koivula@iki.fi)  
-Finnish Environment Institute (SYKE)  
-Yliopistokatu 7, FI-80100 Joensuu, Finland
+[Robert D. Montoya](mailto:montoya@iu.edu)  
+Luddy Hall 2128
+700 N. Woodlawn Ave.
+Bloomington, IN 47405
+U.S.A.
 
 ## Core members
 
@@ -35,6 +37,7 @@ Name | Affiliation
 [Deborah Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, USA
 [Bryan Heidorn](mailto:heidorn@email.arizona.edu) | University of Arizona, USA
 [Jiří Frank](mailto:jiri_frank@nm.cz) | National Museum / Národní muzeum, Czech Republic
+[Hanna Koivula](mailto:hanna.koivula@iki.fi) | Finnish Environment Institute (SYKE) / Joensuu, Finland
 
 ## Motivation
 
