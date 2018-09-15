@@ -10,7 +10,7 @@ page_order: 1
 
 ## Nominations for Deputy Chair
 
-### Patricia Mergen
+### [Patricia Mergen](https://orcid.org/0000-0003-2848-8231)
 
 Meise Botanic Garden and Africamuseum Tervuren, Belgium
 
@@ -24,7 +24,7 @@ In my PhD I applied Numerical Ecology, modelling and statistics. I am currently 
 
 As deputy chair and subsequently chair of TDWG, I will together with the executive committee and TDWG members, aim at having TDWG’s position reinforced and made more visible in the international biodiversity landscape. Notably the collaboration with GBIF, CETAF, DiSSCo, and other infrastructures will be continued and enhanced. New markets and users for TDWG standards will be identified. The process of ratification of standards will be continuously enhanced and speeded up to broaden the user base and the number of TDWG standards implemented by the communities. With my background and experience in fund raising and project management, I will also contribute to the mobilization of funds for TDWG and for example help with the access to European opportunities via its new European TDWG based branch.
 
-### Abby Benson
+### [Abby Benson](https://orcid.org/0000-0002-4391-107X)
 
 United States Geological Survey, Colorado, United States
 
@@ -129,3 +129,17 @@ Major research field is biodiversity informatics, focused on key technique and m
 - Have the responsibility to represent the interests of TDWG members from Asia on the Executive Committee; 
 - Have the responsibility to represent the interests of colleagues in biodiversity informatics from Asia in TDWG.
 - Represent TDWG in appropriate meetings and other activities;
+
+## Nominations for North America representative
+
+### [David Bloom](https://orcid.org/0000-0003-1273-1807)
+
+VertNet, California, United States
+
+#### Curriculum Vitae
+
+I am a member of VertNet (since 2010) as project coordinator, data mobilizer, and data quality specialist. My participation with TDWG has been closely tied to my work with VertNet. I served as a member of iDigBio’s data mobilization team (2016-18). I am the node manager and Head of Delegation for the VertNet node to GBIF, which actively supports global data publishers without organized nodes and activities undertaken by the US Node. I am an active (addicted) mentor for GBIF’s BID Programme and I have supported the efforts of projects in the Caribbean, Africa, and Southern Pacific regions. I have conducted more than 50 workshops globally on biodiversity informatics ranging from georeferencing to data publishing and the use of biodiversity data. My interest is to find, develop, and implement tools, services, and solutions that make the lives of people who work with biodiversity data more productive and efficient. Data should be of the highest quality, easy to find, easy to publish, and easy to use.
+
+#### Vision statement
+
+I believe that TDWG is uniquely positioned to bring the data-wonks and the larger community together to create robust standards and cross-disciplinary programs. As the North American representative I envision a TDWG that is the authority for standards development in biodiversity and is inclusive of the views, needs, and criticism of the people and organizations that use/need the standards. I also want to see TDWG develop into an outward-facing organization that is agile and able to serve the community more efficiently.  In particular, TDWG can serve as an incubator for innovative ideas and a bridge that links active projects with potential funding with the ability to facilitate change in the way that science and policy-making is accomplished and communicated. As I work toward this vision of TDWG I will utilize the broad network I have built in North America (and beyond). I will catalyze communications between TDWG and the practitioners who use data daily to encourage increased participation in the activities of TDWG and generate outcomes that promote solid science and smart policy-making.
