@@ -36,6 +36,24 @@ I have worked for the United States Geological Survey (USGS) since 2010 and I ha
 
 TDWG has a unique position within the biodiversity information arena because biodiversity information standards provide the connection point between the people collecting data, managing data, and (re)using data. As such, the power of TDWG rests in making, fostering, and nurturing the connections between these three groups of people. As deputy chair and then chair of TDWG, I hope to identify new connections to cultivate with groups that may be underrepresented within TDWG and bolster collaborations that are already in place. As we invite ideas and critiques from current members and new ones, TDWG will find new avenues and directions to continue building a robust community of biodiversity information enthusiasts.
 
+### Deborah Paul
+
+Florida State University, Tallahassee, FL, USA
+
+#### Background and Vision Statement
+
+I am passionate about working to build bridges between groups and creating environments where all feel welcome. For more than twelve years, I have participated in various biodiversity initiatives. Examples include digitization in the FSU R.K. Godfrey Herbarium, mobilizing data and images for Morphbank, leading digitization and workforce training efforts at iDigBio, collaborating worldwide to develop symposia and workshops, and networking and mentoring to foster biodiversity informatics skills in the collections and research communities. I am an active participant in the Society for the Preservation of Natural History Collections (SPNHC), Biodiversity Information Standards (TDWG), the Entomological Collections Network (ECN), ICEDIG, the Research Data Alliance (RDA), and The Carpentries. 
+
+As Deputy and then Chair, I would continue to strengthen TDWG’s role as a community leader and partner in biodiversity standards development and implementation. Initiating and continuing work with key organizations like ECN, RDA, CODATA, and The Carpentries, helps TDWG develop natural communities to use and contribute to biodiversity standards. Collaboration with GBIF, ALA, VertNet, iDigBio and others is key for testing and implementing TDWG ideas and products. Moreover, we need to work with other standards organizations to learn from them and share our expertise.
+
+We can work together to further the relationship between SPNHC and TDWG started by our first joint meeting. SPNHC and TDWG both publish journals, so a periodic joint issue might help expand the reach of each organization. I envision a TDWG 5-10+ year plan that seeks to include relevant industry/manufacturers as partners and collaborators (e.g. 3D, AI, Google).
+
+Additionally, it would be great to examine membership and choose some strategic goals (e.g. diversity, sustained membership, etc.). Evidence suggests training helps sustain membership, so this could be a potential role for TDWG, beginning by suggesting course/training content through the BDI IG and Community and Outreach group.
+Other ideas based on prior TDWG meetings and recent conversations center around meeting structure and the working group process. We could (re)incorporate introductory sessions for new / first time attendees. Others suggest: 1) allowing dedicated work time at future conferences, 2) offering training, 3) bringing back lightning talks, 4) developing a strategy for TDWG IGs and TGs to meet between yearly meetings, and 5) developing a webinar series parallel to Darwin Core Hour to support and facilitate effective community outreach for TDWG groups.
+
+As a TDWG member myself, I most want to support the development of your ideas, and your vision for TDWG. 
+
+
 ## Nominations for Secretary
 
 ### [Quentin Groom](https://orcid.org/0000-0002-0596-5376)
