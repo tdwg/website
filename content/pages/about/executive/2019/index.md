@@ -143,3 +143,26 @@ I am a member of VertNet (since 2010) as project coordinator, data mobilizer, an
 #### Vision statement
 
 I believe that TDWG is uniquely positioned to bring the data-wonks and the larger community together to create robust standards and cross-disciplinary programs. As the North American representative I envision a TDWG that is the authority for standards development in biodiversity and is inclusive of the views, needs, and criticism of the people and organizations that use/need the standards. I also want to see TDWG develop into an outward-facing organization that is agile and able to serve the community more efficiently.  In particular, TDWG can serve as an incubator for innovative ideas and a bridge that links active projects with potential funding with the ability to facilitate change in the way that science and policy-making is accomplished and communicated. As I work toward this vision of TDWG I will utilize the broad network I have built in North America (and beyond). I will catalyze communications between TDWG and the practitioners who use data daily to encourage increased participation in the activities of TDWG and generate outcomes that promote solid science and smart policy-making.
+
+### Holly Little
+
+Dept of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington DC
+
+#### Background
+
+As the Informatics Specialist for the Smithsonian National Museum of Natural History Department of Paleobiology, I am responsible for all aspects of our digital collections, from designing and managing digitization projects to long term preservation and stewardship of our data. This work requires me to maintain a core focus of designing extensible and replicable methods integrated with and based upon the standards of the global community, but adapted to local needs. 
+
+In addition, I am a member of community efforts including Darwin Core Hour, Data Carpentries, the Society for the Preservation of Natural History Collections (SPNHC), multiple National Science Foundation Advancing the Digitization of Biological Collections program Thematic Collections Networks, Community Standards for 3D Data Preservation (CS3DP), TDWG Paleo Interest Group and Collections Description Interest Group, the iDigBio Paleo Digitization Working Group, and a number of collaborative projects spanning institutional boundaries across North America and the globe. 
+
+My current research is focused on evaluating the landscape of data sharing practices in the paleo community through analysis of occurrence records and datasets in GBIF. I participate in and facilitate discussion on best practices for use of established standards for fossil occurrence data and on development of new terms, vocabularies, and additional tools that may be needed.
+
+#### Vision
+
+It is vital that TDWG actively engage with the individuals, projects, and institutions that utilize and contribute to the standards, best practices, and tools developed and maintained by TDWG. The North American Representative acts as a facilitator of that effort. I look forward to the opportunity to bring TDWG to the community and to bring the community to TDWG. In this role, I will highlight discussions of discipline specific and broader biodiversity community needs, and work towards implementation of TDWG standards and tools across the many projects and initiatives in North America.
+
+A great example of this effort was a workshop I co-convened, at the SPNHC 2017 meeting titled “Biodiversity Informatics 101”. Through community engagement and education we sought to sow the seeds of a grassroots effort to bridge collections community practitioners and standards developers into the same conversation and to provide an opportunity for common knowledge and language, encouraging participation in this work. With these efforts (e.g., workshops, webinars, reaching out to engage in discipline and community discussions), we can engage practitioners, along with members of the community affected by the work of the practitioners or that provide the building blocks from which biodiversity informatics develops.
+
+My experience within the community and engagement in efforts to establish an environment of collaboration and understanding sits within an important intersection of projects and people. As the North America Representative, I will bring new people into TDWG by informing the relevance that they have for TDWG and that TDWG has for them. I will also help to encourage continued progress and innovation for TDWG that remains engaged with, and informed of, the local implementation of our global efforts. 
+
+
+
