@@ -13,10 +13,13 @@ github: https://github.com/tdwg/curriculum
 ## Convener
 
 [Robert D. Montoya](mailto:montoya@iu.edu)  
-Luddy Hall 2128
-700 N. Woodlawn Ave.
-Bloomington, IN 47405
-U.S.A.
+Department if Information and Library Science <br/> 
+School of Informatics, Computing and Engineering <br/>
+Indiana University, Bloomington<br/>
+Luddy Hall 2128 <br/> 
+700 N. Woodlawn Ave. <br/> 
+Bloomington, IN 47405 <br/>
+U.S.A.<br/>
 
 ## Core members
 
