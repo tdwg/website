@@ -92,6 +92,21 @@ I have been involved in TDWG since 2014. I would like to build a team from membe
 - They will work closely with regional representatives, especially in Africa, Asia and South America in building capacity in biodiversity informatics in collaboration with local institutions.
 - They will document and report all TDWG conducted and upcoming outreach and communication activities through the newly launched and website for global visibility
 
+## Fundraising and Partnernships FS Chair
+
+### Connie Rinaldo
+
+Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University
+
+#### Background and Curriculum Vitae
+
+I have a BA in Biology and Anthropology from the University of Massachusetts, Boston, an MSc in Zoology from the University of Connecticut and an MLS from the University of Maryland. I began studying for a PhD in Zoology but after a number of twists and turns I ended up as a Systems Analyst for EG&G, Washington Analytical Services, Inc.  From there I become a librarian by completing my MLS at the University of Maryland.  I worked on the National Text Digitizing Project, an early digitization program, at the National Agricultural Library and then moved to Dartmouth College as the Head of Collections in the Biomedical Libraries. I also worked with the Digital Library for Earth Systems Education, analyzing collections.  After Dartmouth, I became the Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, combining my skills as a librarian with opportunities for research partnerships in the MCZ and Biodiversity Heritage Library. As a founding member of the BHL (now Chair of the Executive Committee), I have been instrumental in digitizing the Ernst Mayr Library collections for open access and developing innovative strategic plans for the BHL.  I first attended TDWG in St. Louis in 2006.  I am passionate about natural history and working with local, national and global partners to ensure that biodiversity data in library collections are connected, open and accessible for all. 
+
+#### Vision Statement
+
+The mission for this subcommittee states that “FPFS will work together with TDWG executive committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.” These complex and important tasks will require an engaged globally diverse committee from the TDWG membership that can find international opportunities for funding and partnerships. The 2018 New Zealand joint meeting with SPNHC and the upcoming 2019 joint meeting alongside GBIF, CETAF and DiSSCo are excellent examples of the types of partnerships that should be continued and pursued. Engaging European organizations and funders was key. These collaborations with GBIF, CETAF and DiSSCo will present more prospects for shared funding but the FPFS will need to identify and assess new strategic partners and funding opportunities, looking beyond the expected biodiversity organizations, pursuing more corporate partnerships, donors and foundations.   
+
+A long-term vision is to reinforce the visibility of TDWG across the globe, establish strong new alliances and nurture current relationships to secure funding and support.   My key goal for the upcoming year is to establish a strong committee to work with the Executive Committee to reach this vision.
 
 ## Nominations for Asia representative
 
