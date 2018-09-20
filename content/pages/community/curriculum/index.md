@@ -13,7 +13,7 @@ github: https://github.com/tdwg/curriculum
 ## Convener
 
 [Robert D. Montoya](mailto:montoya@iu.edu)  
-Department if Information and Library Science <br/> 
+Department of Information and Library Science <br/> 
 School of Informatics, Computing and Engineering <br/>
 Indiana University, Bloomington<br/>
 Luddy Hall 2128 <br/> 
