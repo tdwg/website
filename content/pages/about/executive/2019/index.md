@@ -94,7 +94,7 @@ I have been involved in TDWG since 2014. I would like to build a team from membe
 
 ## Fundraising and Partnernships FS Chair
 
-### Connie Rinaldo
+### [Connie Rinaldo](https://orcid.org/0000-0002-8339-728X)
 
 Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University
 
