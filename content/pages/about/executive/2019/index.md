@@ -108,6 +108,20 @@ The mission for this subcommittee states that “FPFS will work together with TD
 
 A long-term vision is to reinforce the visibility of TDWG across the globe, establish strong new alliances and nurture current relationships to secure funding and support.   My key goal for the upcoming year is to establish a strong committee to work with the Executive Committee to reach this vision.
 
+## Nominations for Africa representative
+
+### [Brenda Daly](https://orcid.org/0000-0002-3732-8339)
+
+South African National Biodiversity Institute (SANBI)
+
+#### Background
+Brenda Daly is the Information Systems Manager for the Biodiversity Information and Planning Directorate at the South African National Biodiversity Institute (SANBI), with 16 years’ experience in information management and digital curation. She leads several projects in the delivery of operational systems which includes external-facing availability of applications, infrastructure and data. Brenda also provides strategic technical leadership in implementing SANBI’s enterprise information architecture to integrate South African biodiversity information.
+
+Prior to her appointment at SANBI, Brenda was the Global Biodiversity Information Facility (GBIF) Node Manager for the Endangered Wildlife Trust (EWT) a Non-Profit Organisation dedicated to conserving threatened species and ecosystems in southern Africa. It was her engagement with the GBIF community that introduced her to the internationally recognised data standards and the Biodiversity Information Standards (TDWG) community.
+
+#### Vision Statement
+With a genuine enthusiasm for information technology and a passion for biodiversity, Brenda’s research interest is the importance of biodiversity data in addressing research and decision-making in the use and management of living resources and how these data can be shared in a more effective and appropriate platform for any type of use or application.  It is therefore vital that biodiversity information standards are adapted to allow for this.
+
 ## Nominations for Asia representative
 
 ### Ji Liqiang
