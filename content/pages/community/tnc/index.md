@@ -5,7 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_ref: 
 tags: interest group
-github: https://github.com/tdwg/standards/tcs
+github: https://github.com/tdwg/tnc
 ---
 
 ## Convener
