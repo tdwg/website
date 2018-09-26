@@ -1,5 +1,5 @@
 ---
-title: Vocabularies
+title: Best practices for development of vocabularies of values ("Vocabularies")
 summary: The Vocabularies Task Group (TG4) of the Biodiversity Data Quality Interest Group is exploring the approaches and technologies TDWG might use to manage vocabularies of data terms and values.
 cover_image: 
 cover_image_by: 
@@ -9,6 +9,15 @@ github:
 ---
 
 The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), as well as the steps to produce them are described here.
+
+## Convenor
+[Paula Zermoglio](pzermoglio@gmail.com)
+
+## Motivation
+
+Biodiversity data are increasingly being shared from myriad sources. While the Darwin Core standard defines a set of terms under which data are organized and shared, it does not refer to the actual values used to describe the content of each field. More often than not, distinct sources utilize diverse criteria to populate the fields. While this has allowed data publication broadly, when it comes to data usage, it becomes apparent that such heterogeneity hinders discoverability and use of the data. One way to reduce this variability and improve data use is to provide standardized vocabularies for the community to use. Vocabularies exist for some terms, but are constrained to specific groups or disciplines. Furthermore, there is no best practice defined for the creation of biodiversity data vocabularies for the values captured under Darwin Core terms (hereafter vocabularies-of-values), and no recommended environment in which to do so. This TG aims to create such a framework under the TDWG umbrella, with the ultimate objective of building a corpus of vocabularies of standard values for terms. We identify four target audiences who could potentially benefit from the outcomes of this TG: 1) Data producers (i.e., data collectors) who could capture data using the controlled vocabularies through pick lists and could impart valuable information more efficiently; 2) Data custodians (e.g., staff in museum collections) who could manage, provide and use data more efficiently; 3) Data aggregators who could use the vocabularies to provide infrastructure for data filtering; 4) Data users for whom more effective filtering would represent improvement in data fitness for use.
+Currently, other initiatives concerning biodiversity data vocabularies-of-values are scattered, and no other TDWG task group is addressing the issue of the structure of such standards. As this TG is directly related with data quality and use, the Data Quality Interest Group seems the appropriate environment for this work.
+
 
 ## Goals, outputs and outcomes
 
@@ -37,7 +46,7 @@ The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), 
 - The convener and the core members of the group will produce the reports and documentation outputs in collaboration with any other interested parties.
 - Discussion and general work will be performed via periodic meetings that will be held remotely and in person in appropriate venues (e.g., TDWG 2018, 2019, DQIG meetings).
 - All activities will be tracked in the common repository in GitHub (item 2), which will be created either as an independent repository or under the existing Interest Group repository (https://github.com/tdwg/bdq), as a first activity. All materials produced will be available in that repository as well.
-## Specifics
+### Specifics
 - The scoping document, the current best practice for building vocabularies-of-values, the exemplary vocabulary and the list of vocabularies needed (items 1, 3, 4 and 8) will be created by the members of the TG, using either GitHub directly or other platforms such as Google Documents for early stages.
 - The scoping document, the current best practice and the exemplary vocabulary (items 1, 3 and 4) will be presented at TDWG/SPNCH 2018 Meeting. This will be a special opportunity to integrate the initiative with the broader community and to identify and engage with individuals and domain-specific groups that might be interested in the construction of the vocabularies.
 - We will explore the possibility of creating a user-friendly repository (item 2) for building and storing TDWG vocabularies. We will also evaluate the cost-benefits and provide a report/proposal for the construction of a platform.
@@ -49,6 +58,11 @@ The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), 
 ### Timeline (tentative)
 
 ![timeline](https://drive.google.com/uc?export=download&id=0B4sIKK7qrRVITFhGb3I0Qld5Q28)
+
+## Becoming involved
+
+Achieving the goals of this TG will require the interaction of people from several areas within the community. Main areas of knowledge needed are: standards in general and Darwin Core in particular, vocabularies, domain-specific needs both from the data provider and data user perspectives. Therefore, it will be useful to have members from all these different areas of expertise. 
+Each of the proposed goals of this TG are distinct enough to allow members of the community to participate in one or more of them without requiring full knowledge of all the topics addressed. We hope this will promote broader participation.
 
 ## Resources
 
