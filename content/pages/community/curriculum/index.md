@@ -36,6 +36,7 @@ Name | Affiliation
 [Falko Glöckler](mailto:falko.gloeckler@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Jana Hoffmann](mailto:jana.hoffmann@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
+[Lajura Russel] | GBIF Secretariat, Denmark
 [Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Royal Museum for Central Africa, Belgium
 [Deborah Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, USA
 [Bryan Heidorn](mailto:heidorn@email.arizona.edu) | University of Arizona, USA
