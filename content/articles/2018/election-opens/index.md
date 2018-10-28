@@ -10,6 +10,6 @@ tags: elections
 
 The election of TDWG officers is now open. Ballots have been mailed to members in good standing. 
 
-If you expected a ballot, but did not receive one, please contact the treasurer@tdwg.og to clarify your membership status.
+If you expected a ballot, but did not receive one, please contact the treasurer@tdwg.org to clarify your membership status.
 
 Voting closes 2018-11-09 23:59 UTC.
