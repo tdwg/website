@@ -1,9 +1,9 @@
 ---
 title: 2019 - Leiden, The Netherlands
 summary: TDWG 2019 Annual Conference - Leiden, The Netherlands
-cover_image: https://static.tdwg.org/images/2019conference/bd_next__alert-box.png
-cover_image_by: 
-cover_image_ref: https://static.tdwg.org/images/2019conference/bd_next__alert-box.png
+cover_image: https://images.unsplash.com/photo-1453903365100-a6504dc50f1f
+cover_image_by: Alisa Anton
+cover_image_ref: https://unsplash.com/photos/y32JfPfk0Do
 tags: conference
 ---
 
