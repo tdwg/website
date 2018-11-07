@@ -1,6 +1,6 @@
 ---
 title: Conferences
-summary: The next TDWG Annual Conference will be part of an open digital science week, biodiversity_next in [Leiden, The Netherlands](https://biodiversitynext.org/) from 21-25 October, 2019. This will be a larger than normal conference organized in collaboration with GBIF, DISSCO, CETAF, and iDigBio.
+summary: The next TDWG Annual Conference will be part of an open digital science week, [biodiversity_next](https://biodiversitynext.org/), in Leiden, The Netherlands from 21-25 October, 2019. This will be a larger than normal conference organized in collaboration with GBIF, DISSCO, CETAF, and iDigBio.
 cover_image: https://c1.staticflickr.com/1/375/30751387213_3015d98ec2_b.jpg
 cover_image_by: Denisse Vargas
 cover_image_ref: https://www.flickr.com/photos/145649587@N03/30751387213/in/pool-tdwg16/
