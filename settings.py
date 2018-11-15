@@ -181,7 +181,7 @@ PAGE_LINKS = { # Pages directly linked to by theme. Format: id: SITEURL/path
     "search": "search.html"
 }
 SUBPAGES_MARKER = "<!-- subpages -->" # Used in content to indicate where subpages should appear
-LICENSE_STATEMENT = "Content on this site, made open by <a href=\"http://www.tdwg.org\">"\
+LICENSE_STATEMENT = "Content on this site, made open by <a href=\"https://www.tdwg.org/\">"\
                     "Biodiversity Information Standards (TDWG)</a> is licensed under a "\
                     "<a href=\"https://creativecommons.org/licenses/by/4.0/\">"\
                     "Creative Commons Attribution 4.0 International License</a>."
