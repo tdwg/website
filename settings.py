@@ -105,7 +105,7 @@ CATEGORIES_SAVE_AS = ""
 TAG_SAVE_AS = ""
 TAGS_SAVE_AS = ""
 DIRECT_TEMPLATES = ["index", "archives"] # Which "index" type templates to enable
-PAGINATED_DIRECT_TEMPLATES = ["index", "archives"]
+PAGINATED_TEMPLATES = { "index": None } # Which templates need pagination. None = DEFAULT_PAGINATION
 
 
 # FEEDS
@@ -137,7 +137,7 @@ DEFAULT_LANG = "en"
 TIMEZONE = "UTC"
 DEFAULT_DATE = "fs" # Use file date as default article date
 DEFAULT_DATE_FORMAT = "%d %B %Y"
-DEFAULT_PAGINATION = 10 # Applies to news page only, not supported for period archives
+DEFAULT_PAGINATION = 10 # Applies to news page only, not supported in theme for period archives
 SUMMARY_MAX_LENGTH = 40 # For generated summary. Existence of manual summary checked by 
                         # plugin "summary"
 GITHUB_URL = "https://github.com/tdwg"
