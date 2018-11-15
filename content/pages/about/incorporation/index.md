@@ -8,16 +8,15 @@ tags:
 page_order: 5
 ---
 
-
 ## United States of America
 
-Non-profit IRS 501(c)(3) status [Letter of determination]({filename}tdwg_irs_det_501c3_no-ein.pdf)
+Non-profit IRS 501(c)(3) status [Letter of determination]({static}tdwg_irs_det_501c3_no-ein.pdf)
 
 Our employer identification number \[EIN\] is redacted in this copy. Contact the [secretariat](mailto:secretariat@tdwg.org) if a copy with our EIN is required.
 
 *State of California*
 
-[Certification of non-profit incorporation]({filename}tdwg_ca_nonprofit_incorporation.pdf)
+[Certification of non-profit incorporation]({static}tdwg_ca_nonprofit_incorporation.pdf)
 
 ## European Union (Netherlands)
 

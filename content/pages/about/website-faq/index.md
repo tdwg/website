@@ -26,7 +26,7 @@ Want to solve the issue yourself instead? See [how to edit content](#how-do-i-ed
 2. Doing so will open the corresponding Markdown document for that page. Alternatively, you can [browse the website repository](https://github.com/tdwg/website/tree/master/content) for the page you are looking for.
 3. Click the pencil button on the top right to edit the page. You need to be logged-in to GitHub to do this.
 
-    ![Edit button on GitHub]({filename}edit-page-button.png)
+    ![Edit button on GitHub]({static}edit-page-button.png)
 
     Note: behind the scenes, this will fork the website repository to your account, so you can make suggestions.
 
@@ -61,7 +61,7 @@ Note: it's best not to let your work linger in your fork, as it will get out of 
 
 No, there is no logged-in section for this website. Anyone can suggest changes by clicking `Edit this page` at the top right of a page:
 
-![Edit this page link]({filename}edit-page-link.png)
+![Edit this page link]({static}edit-page-link.png)
 
 For articles it will say `Edit this article`. The link will take you to [GitHub](https://github.com/tdwg/website) where the authentication and review process is handled.
 
@@ -113,11 +113,11 @@ Before starting a new page, consult with the website maintainers if and where th
 1. Browse the [website repository](https://github.com/tdwg/website/tree/master/content/pages) to the place where you want to create the page. See [how content is organized](#how-is-content-organized).
 2. Click `Create new file`. You need to be logged-in to GitHub to do this.
 
-    ![Create button on GitHub]({filename}create-page-button.png)
+    ![Create button on GitHub]({static}create-page-button.png)
 
 3. Name your file `page-name/index.md`. File names should be short, lowercase and hyphen-separated.
 
-    ![Name file]({filename}create-page-name.png)
+    ![Name file]({static}create-page-name.png)
 
 4. Copy and adapt the following content:
 
