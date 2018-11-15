@@ -35,7 +35,6 @@ PLUGINS = [
     "pelican-page-hierarchy",   # To create URL hierarchy for pages matching directory structure
     "pelican-toc",              # To assign ids to headers in pages/articles and render a 
                                 # table of content
-    "pelican-bootstrapify",     # To add Bootstrap classes to page/article content
     "pelican-github-edit",      # To add a link to edit pages/articles on GitHub
     "pelican-cover-image",      # To add cover image URL to pages/articles
     "tipue_search",             # To enable Javascript site search
