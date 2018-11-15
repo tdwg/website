@@ -20,18 +20,18 @@ This repository contains the content and settings for the new TDWG website. It i
 
 ### Installation
 
-1. Verify Python 3.3+ is installed: `python -V`
-2. Install [Pelican](http://docs.getpelican.com/en/stable/install.html) (the static site generator): `pip install pelican`
-3. Install the [Python implementation of Markdown](https://pypi.python.org/pypi/Markdown): `pip install markdown`
-4. Install [Beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4) (for site search): `pip install beautifulsoup4`
-5. Clone the theme repo: `git clone https://github.com/tdwg/tdwg-theme`
-6. Clone the website repo: `git clone https://github.com/tdwg/website`
+1. Clone the [website repo](https://github.com/tdwg/website): `git clone https://github.com/tdwg/website`
+2. Clone the [theme repo](https://github.com/tdwg/tdwg-theme): `git clone https://github.com/tdwg/tdwg-theme`
+3. Optional: create a virtual environment (e.g. `conda create -n tdwg python=3.7`) and activate it (e.g. `source activate tdwg`)
+4. Verify Python 3.3+ is installed: `python --version`
+5. Navigate to the website repo and install the [requirements](requirements.txt) (including [Pelican](http://docs.getpelican.com/en/stable/install.html)): `pip install -r requirements.txt`
 
 ### Build site
 
-1. Navigate to the website directory: `cd website`
-2. Build the site locally: `pelican -s settings.py`
-3. The website is generated in `output/` which you can serve with e.g. `python -m http.server 8000`
+1. Optional: activate your virtual environment (e.g. `source activate tdwg`)
+2. Navigate to the website directory: `cd website`
+3. Build the site locally: `pelican -s settings.py`
+4. The website is generated in `output/` which you can serve with e.g. `python -m http.server 8000`
 
 ## Contributors
 
