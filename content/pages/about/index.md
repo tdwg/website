@@ -8,6 +8,8 @@ tags:
 page_order: 5
 ---
 
+<!-- subpages -->
+
 ## The basics
 
 TDWG is an open, bottom-up organization. Anyone can [become a member]({filename}membership/index.md). Institutions (including government agencies, non-governmental organizations, programs, and projects) can also become members. Everything TDWG produces comes from the expertise, collaboration, and support of its members -- people and organizations who create, manage, integrate, and analyze biodiversity information. Most individual members are either professional biologists or information scientists, but all have a passion for living things. If _your_ work involves large quantities of biodiversity information, then you might recognize that information management is one of your challenges. TDWG is good place to learn about the synthetic discipline of biodiversity informatics. Get involved, share your experiences, and collaborate with your peers to build future solutions.
@@ -52,4 +54,3 @@ Participation is the key driver of progress in TDWG. You do not have to be a mem
 
 TDWG's annual conferences are usually held in the fall and occupy a full work week (Mon-Fri). Conference locations rotate among the continents something like "Europe, North America, and other", where "other" can be Africa, Asia, Australia/Oceania, or Latin America. Conferences typically draw between 150 and 225 participants.
 
-## More information
