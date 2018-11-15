@@ -6,6 +6,7 @@ cover_image_by: Biodiversity Heritage Library
 cover_image_ref: https://www.flickr.com/photos/biodivlibrary/6263150201
 tags: Task Group, Charter
 github: https://github.com/tdwg/tapir
+status: hidden
 ---
 
 ## Convener
