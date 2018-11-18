@@ -8,15 +8,13 @@ tags:
 page_order: 1
 ---
 
-## [Positions Open for the Executive Committee 2019-2020](https://www.tdwg.org/news/2018/call-for-nominations/)
-
-## Current Officers and elections
+## Executive responsibilities and elections
 
 TDWG is led by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. The roles and responsibilities of each officer are set forth in the [Constitution]({static}../constitution/index.md) and further described in a [supplementary document]({static}TDWG_Executive_Committee_RolesAndResponsibilities.pdf).
 
 The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
-## Current executive committee
+## Executive Committee 2018
 
 Term of office shown as span of calendar years, inclusive.
 
