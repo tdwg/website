@@ -24,8 +24,7 @@ Standards that were ratified prior to 2005 and that are not currently being prom
 
 ### Retired Standard  
 
-Standards that have been ratified by TDWG in the past but that are no longer recommended.  
-
+Standards that have been ratified by TDWG in the past but that are no longer recommended.
 
 ## Categories of TDWG standards
 
