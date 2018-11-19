@@ -4,7 +4,7 @@ summary:
 cover_image: https://images.unsplash.com/photo-1502912143929-50c8a1ce1f69
 cover_image_by: Fancycrave
 cover_image_ref: https://unsplash.com/photos/4A8ZSlAOUqs
-tags: technical specification, 2005 standard, 2005
+tags: technical specification, current standard, 2005
 github: https://github.com/tdwg/tcs
 ---
 

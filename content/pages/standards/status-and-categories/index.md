@@ -14,10 +14,6 @@ page_order:
 
 Standards that TDWG recommends for use.
 
-### Current (2005) Standard  
-
-Standards that TDWG recommends for use and were ratified by membership vote at the TDWG Annual Meeting 2005 in St. Petersburgh. These standards are not in the format of current TDWG standards, nor have they been submitted to both expert and public review, the ratification process adopted at the St Louis annual meeting in 2006.
-
 ### Draft Standard  
 
 Standard under review submitted to the TDWG Standards Track after 2006.
