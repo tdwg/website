@@ -21,11 +21,11 @@ Treasurer | [William Ulate](mailto:treasurer@tdwg.org) | Missouri Botanical Gard
 
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group]({static}../committees/tag/index.md) | [Paul Morris](mailto:mole@morris.net) | Museum of Comparative Zoology, MA, USA | 2018-2019
-[Fundraising and Partnerships]({static}../committees/fundraising/index.md) | [Martin Kalfatovic](mailto:martin.kalfatovic@gmail.com) | Smithsonian Institution Libraries and Biodiversity Heritage Library, Washington DC, USA | 2017-2018
-[Infrastructure]({static}../committees/infrastructure/index.md) | [Tim Robertson](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2018-2019
-[Outreach and Communications]({static}../committees/outreach/index.md) | [Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2017-2018
-[Time and Place]({static}../committees/tardis/index.md) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2018-2019
+[Technical Architecture Group]({filename}../../committees/tag/index.md) | [Paul Morris](mailto:mole@morris.net) | Museum of Comparative Zoology, MA, USA | 2018-2019
+[Fundraising and Partnerships]({filename}../../committees/fundraising/index.md) | [Martin Kalfatovic](mailto:martin.kalfatovic@gmail.com) | Smithsonian Institution Libraries and Biodiversity Heritage Library, Washington DC, USA | 2017-2018
+[Infrastructure]({filename}../../committees/infrastructure/index.md) | [Tim Robertson](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2018-2019
+[Outreach and Communications]({filename}../../committees/outreach/index.md) | [Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2017-2018
+[Time and Place]({filename}../../committees/tardis/index.md) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2018-2019
 
 ### Regional representatives
 
