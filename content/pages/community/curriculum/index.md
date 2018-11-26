@@ -27,21 +27,14 @@ We will collect core members via [email](mailto:hanna.koivula@iki.fi) and on the
 
 Name | Affiliation
 --- | ---
-[Dimitris Koureas](mailto:d.koureas@nhm.ac.uk) | The Natural History Museum London Dept of Life Sciences, UK
-[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
-[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
-[Riitta Tegelberg](mailto:riitta.tegelberg@uef.fi) | Digitarium, Finland
-[Jitendra Gaikwad](mailto:jitendra.gaikwad@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany 
-[Roman Gerlach](mailto:roman.gerlach@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany
-[Falko Glöckler](mailto:falko.gloeckler@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
-[Jana Hoffmann](mailto:jana.hoffmann@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
-[Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
-[Laura Russell](mailto:larussell@gbif.org) | GBIF Secretariat, Denmark
-[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Royal Museum for Central Africa, Belgium
-[Deborah Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, USA
-[Bryan Heidorn](mailto:heidorn@email.arizona.edu) | University of Arizona, USA
-[Jiří Frank](mailto:jiri_frank@nm.cz) | National Museum / Národní muzeum, Czech Republic
+[Jitendra Gaikwad](mailto:jitendra.gaikwad@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany
 [Hanna Koivula](mailto:hanna.koivula@iki.fi) | Finnish Environment Institute (SYKE) / Joensuu, Finland
+[Dimitris Koureas](mailto:d.koureas@nhm.ac.uk) | Naturalis Biodiversity Center, Netherlands
+[Deborah Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, USA
+[Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
+[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+[Andrew Rodrigues](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+[Laura Russell](mailto:larussell@gbif.org) | GBIF Secretariat, Denmark
 
 ## Motivation
 
