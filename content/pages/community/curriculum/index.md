@@ -27,7 +27,7 @@ We will collect core members via [email](mailto:hanna.koivula@iki.fi) and on the
 
 Name | Affiliation
 --- | ---
-[Dimitris Koureas](mailto:d.koureas@nhm.ac.uk) | The Natural History Museum London Dept of Life Sciences, UK
+[Dimitris Koureas](mailto:dimitris.koureas@naturalis.nl) | The Natural History Museum London Dept of Life Sciences, UK
 [Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
 [Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
 [Riitta Tegelberg](mailto:riitta.tegelberg@uef.fi) | Digitarium, Finland
