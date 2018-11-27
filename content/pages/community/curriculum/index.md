@@ -23,25 +23,22 @@ U.S.A.<br/>
 
 ## Core members
 
-We will collect core members via [email](mailto:hanna.koivula@iki.fi) and on the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/). All GBIF community site pages are visible for anyone, but you need to register to leave comments.
+We will collect core members via [email](mailto:montoya@indiana.edu) and on the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/). All GBIF community site pages are visible for anyone, but you need to register to leave comments.
 
 Name | Affiliation
 --- | ---
-[Dimitris Koureas](mailto:d.koureas@nhm.ac.uk) | The Natural History Museum London Dept of Life Sciences, UK
-[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
-[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+[Dimitris Koureas](mailto:dimitris.koureas@naturalis.nl) | Naturalis Biodiversity Center, Netherlands
 [Riitta Tegelberg](mailto:riitta.tegelberg@uef.fi) | Digitarium, Finland
 [Jitendra Gaikwad](mailto:jitendra.gaikwad@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany 
 [Roman Gerlach](mailto:roman.gerlach@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany
 [Falko Glöckler](mailto:falko.gloeckler@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Jana Hoffmann](mailto:jana.hoffmann@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
+[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
+[Andrew Rodrigues](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
 [Laura Russell](mailto:larussell@gbif.org) | GBIF Secretariat, Denmark
-[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Royal Museum for Central Africa, Belgium
-[Deborah Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, USA
-[Bryan Heidorn](mailto:heidorn@email.arizona.edu) | University of Arizona, USA
-[Jiří Frank](mailto:jiri_frank@nm.cz) | National Museum / Národní muzeum, Czech Republic
-[Hanna Koivula](mailto:hanna.koivula@iki.fi) | Finnish Environment Institute (SYKE) / Joensuu, Finland
+[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+
 
 ## Motivation
 
