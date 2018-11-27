@@ -23,7 +23,7 @@ U.S.A.<br/>
 
 ## Core members
 
-We will collect core members via [email](mailto:hanna.koivula@iki.fi) and on the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/). All GBIF community site pages are visible for anyone, but you need to register to leave comments.
+We will collect core members via [email](mailto:montoya@indiana.edu) and on the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/). All GBIF community site pages are visible for anyone, but you need to register to leave comments.
 
 Name | Affiliation
 --- | ---
