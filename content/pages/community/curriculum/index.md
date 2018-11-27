@@ -27,18 +27,18 @@ We will collect core members via [email](mailto:montoya@indiana.edu) and on the 
 
 Name | Affiliation
 --- | ---
-[Dimitris Koureas](mailto:dimitris.koureas@naturalis.nl) | The Natural History Museum London Dept of Life Sciences, UK
-[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
-[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+[Dimitris Koureas](mailto:dimitris.koureas@naturalis.nl) | Naturalis Biodiversity Center, Netherlands
 [Riitta Tegelberg](mailto:riitta.tegelberg@uef.fi) | Digitarium, Finland
 [Jitendra Gaikwad](mailto:jitendra.gaikwad@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany 
 [Roman Gerlach](mailto:roman.gerlach@uni-jena.de) | German Centre for Integrative Biodiversity Research (iDiv), Germany
 [Falko Glöckler](mailto:falko.gloeckler@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Jana Hoffmann](mailto:jana.hoffmann@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
-[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
 [Andrew Rodrigues](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
 [Laura Russell](mailto:larussell@gbif.org) | GBIF Secretariat, Denmark
+[Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
+
 
 ## Motivation
 
