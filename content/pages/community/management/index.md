@@ -15,7 +15,7 @@ Responsibilities of Conveners:
 1. Work with other potential stakeholders to draft the Interest or Task Group Charter and submit it for review by the Executive Committee. 
     1. The charter must be clear and concise; this information will be public and therefore seen by potential members.
     2. Charters should be reviewed annually and updated as necessary.
-    3. Template for [Interest](http://www.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/TDWG_Interest_Group_Charter_Template_03.doc) or [Task](http://www.tdwg.org/activities/convener-responsibilities/fileadmin/documentation/doc_templates/TDWG_Task_Group_Charter_Template_03.doc) Group charter.
+    3. Template for [Interest](https://static.tdwg.org/documents/templates/TDWG_Interest_Group_Charter_Template_03.doc) or [Task](https://static.tdwg.org/documents/templates/TDWG_Task_Group_Charter_Template_03.doc) Group charter.
 2. Understand and use the online tools (URL) provided for group support. 
     1. Ensure your home page reflects the activities and aspirations of the group. 
     2. Reference a few concise articles, presentations or tutorials. 
