@@ -4,7 +4,7 @@ summary: The purpose of the Time and Place Functional Subcommittee (FS) is to es
 cover_image: https://images.unsplash.com/photo-1519452575417-564c1401ecc0
 cover_image_by: Nathan Dumlao
 cover_image_ref: https://unsplash.com/photos/ewGMqs2tmJI
-tags: functional subcommittee
+tags: functional subcommittee, charter
 ---
 
 ## Mission

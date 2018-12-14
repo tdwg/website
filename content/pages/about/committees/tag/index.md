@@ -4,7 +4,7 @@ summary: The purpose of the Technical Architecture Group (TAG) is to guide ongoi
 cover_image: https://images.unsplash.com/photo-1503387837-b154d5074bd2
 cover_image_by: Daniel McCullough
 cover_image_ref: https://unsplash.com/photos/-FPFq_trr2Y
-tags: functional subcommittee
+tags: functional subcommittee, charter
 github: https://github.com/tdwg/tag
 ---
 

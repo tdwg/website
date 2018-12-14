@@ -4,7 +4,7 @@ summary: The purpose of the Outreach and communications Functional Subcommittee 
 cover_image: https://images.unsplash.com/photo-1471469678089-67f27c6ca4f4
 cover_image_by: Kawtar Cherkaoui
 cover_image_ref: https://unsplash.com/photos/1Q1P_XpWylY
-tags: functional subcommittee
+tags: functional subcommittee, charter
 ---
 
 ### Mission

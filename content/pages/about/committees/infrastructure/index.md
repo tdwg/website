@@ -1,10 +1,10 @@
 ---
 title: Infrastructure
-summary: The purpose of the Infrastructure Functional Subcommittee (FS) is to maintain the software tools required to support the operation of TDWG.
+summary: The purpose of the Infrastructure Functional Subcommittee is to maintain the software tools required to support the operation of TDWG.
 cover_image: https://images.unsplash.com/photo-1484557052118-f32bd25b45b5
 cover_image_by: Thomas Kvistholt
 cover_image_ref: https://unsplash.com/photos/oZPwn40zCK4
-tags: functional subcommittee
+tags: functional subcommittee, charter
 github: https://github.com/tdwg/infrastructure
 ---
 
