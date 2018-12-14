@@ -61,7 +61,7 @@ GITHUB_CONTENT_URL = "https://github.com/tdwg/website/blob/master/content"
 
 # For pelican-cover-image
 COVER_IMAGES_PATH = "pages" 
-DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1489513963600-afa31b458fec"
+DEFAULT_COVER_IMAGE = "https://images.unsplash.com/photo-1482237935571-d9b52bffe142"
 
 
 # URLS
