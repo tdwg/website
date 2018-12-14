@@ -5,8 +5,11 @@ cover_image: https://images.unsplash.com/photo-1458067380247-41000a5397cb
 cover_image_by: Hannes Wolf
 cover_image_ref: https://unsplash.com/photos/n2ILm0aTCYo
 tags: 
+github: https://github.com/tdwg/constitution
 page_order: 4
 ---
+
+<!-- Changes to the constitution need to be suggested at https://github.com/tdwg/constitution first. This page is just a copy. -->
 
 ## Article 1. Name and Purpose
 
