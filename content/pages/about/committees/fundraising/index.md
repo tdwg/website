@@ -4,7 +4,7 @@ summary: The purpose of the Fundraising and Partnership Functional Subcommittee 
 cover_image: https://images.unsplash.com/photo-1506592325738-51000d8957eb
 cover_image_by: Yoel Kamara
 cover_image_ref: https://unsplash.com/photos/B3ruHb3c8jk
-tags: functional subcommittee
+tags: functional subcommittee, charter
 ---
 
 ## Mission
