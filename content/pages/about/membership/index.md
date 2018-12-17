@@ -13,7 +13,7 @@ TDWG has individual and institutional members. Contact [secretary@tdwg.org](mail
 ## Benefits of membership
 
 * Voting rights:  TDWG members can vote in TDWG elections (Executive officers, subcommittee Chairs, rules of governance)
-* Discount on article publishing charges (APCs) in the TDWG Journal [Biodiversity Information Science and Standards (BISS)]({filename}../../journal/index.md)
+* Discount on article publishing charges (APCs) in the TDWG Journal [Biodiversity Information Science and Standards (BISS)](../../journal/)
 
 ## Period
 
