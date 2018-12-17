@@ -1,5 +1,5 @@
 ---
-title: Collections Descriptions
+title: Collection Descriptions
 summary: 
 cover_image: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
 cover_image_by: Michael D Beckwith
