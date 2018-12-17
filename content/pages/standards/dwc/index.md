@@ -6,6 +6,8 @@ cover_image_by: Alex Guillaume
 cover_image_ref: https://unsplash.com/photos/0MC0o-xLucM
 tags: technical specification, current standard, 2009
 github: https://github.com/tdwg/dwc
+website: https://dwc.tdwg.org
+website_title: Darwin Core website
 ---
 
 ## Header section
