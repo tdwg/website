@@ -10,27 +10,12 @@ github: https://github.com/tdwg/cd/
 
 ## Conveners
 
-* [Deb Paul](mailto:dpaul@fsu.edu)
-* [Matt Woodburn](mailto:m.woodburn@nhm.ac.uk)
+* [Deb Paul (iDigBio)](mailto:dpaul@fsu.edu)
+* [Matt Woodburn (Natural History Museum London)](mailto:m.woodburn@nhm.ac.uk)
 
-## Current people expressing interest to work on NCD
+## Members
 
-Name | Affiliation
---- | ---
-[Wouter Addink](mailto:wouter@eti.uva.nl) | 
-[Stan Blum](mailto:stanblum@gmail.com) | 
-[Carol Butler](mailto:butlercr@si.edu) | 
-[Heather Cole](mailto:Heather.Cole@agr.gc.ca) | 
-[Shelley James](mailto:Sheley.James@bgcp.nsw.gov.au) | 
-[Connie Rinaldo](mailto:crinaldo@oeb.harvard.edu) | 
-[Barbara Thiers](mailto:bthiers@nybg.org) | 
-[Mike Trizna](mailto:triznam@si.edu) | 
-[Sharon Grant](mailto:sgrant@fieldmuseum.org) | 
-[Kate Webbink](mailto:kwebbink@fieldmuseum.org) |  
-[Janeen Jones](mailto:jjones@fieldmuseum.org) | 
-[Pete Herbst](mailto:pherbst@fieldmuseum.org) | 
-[Rob Zshernitz](mailto:rzschernitz@fieldmuseum.org) | 
-[Rusty Russell](mailto:rrussell@fieldmuseum.org) | 
+For a current list of members, visit the [Interest Group GitHub repo](https://github.com/tdwg/cd). 
 
 ## Motivation
 
