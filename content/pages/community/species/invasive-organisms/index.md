@@ -10,9 +10,9 @@ github:
 
 ## Convenor  
 
-[Quentin Groom](quentin.groom@plantentuinmeise.be) - Botanic Garden Meise
+[Quentin Groom](quentin.groom@plantentuinmeise.be) - Meise Botanic Garden
 
-## Core Members  
+## Core members  
 
 Name | Role
 --- | ---
@@ -58,7 +58,7 @@ This task is timely because it will build on the work of the Vocabulary Maintena
 
 This group needs skills and knowledge related to invasive species research, but also Darwin Core and machine readable vocabularies. It will also be useful to have members with experience of using Darwin Core data, such as publishing to GBIF. These changes will be used by the whole biological community so an appreciation of the needs of other communities is important.
 
-## History/Context
+## History/context
 
 This Task Group will build on the work of the GBIF Task Group on Data fitness for use in Research on Alien and Invasive species and the Data standardisation and harmonisation working group of the Alien Challenge COST Action in Europe. Due to these groups much of the groundwork for this proposal has been achieved.
 
@@ -73,14 +73,14 @@ Proposal pages on GitHub
 
 ## Relevant papers  
 
-Blackburn, T. M., Pyšek, P., Bacher, S., Carlton, J. T., Duncan, R. P., Jarošík, V., Wilson, J. R. U., & Richardson, D. M. (2011). A proposed unified framework for biological invasions. Trends in ecology & evolution, 26(7): 333-339. https://doi.org/10.1016/j.tree.2011.03.023
+Blackburn TM, Pyšek P, Bacher S, Carlton JT, Duncan RP, Jarošík V, Wilson JRU, & Richardson DM (2011). A proposed unified framework for biological invasions. Trends in ecology & evolution, 26(7): 333-339. <https://doi.org/10.1016/j.tree.2011.03.023>
 
-Groom, Quentin John Groom, Tim Adriaens, Peter Desmet, Annie Simpson, Aaike De Wever, Ioannis Bazos, Ana Cristina Cardoso et al. "Seven recommendations to make your alien species data more useful." Frontiers in Applied Mathematics and Statistics 3 (2017): 13. https://doi.org/10.3389/fams.2017.00013
+Groom Q, Adriaens T, Desmet P, Simpson A, De Wever A, Bazos I, Cardoso AC, et al. "Seven recommendations to make your alien species data more useful." Frontiers in Applied Mathematics and Statistics 3 (2017): 13. <https://doi.org/10.3389/fams.2017.00013>
 
-Hulme et al. (2008) Grasping at the routes of biological invasions: a framework for integrating pathways into policy, Journal of Applied Ecology, 45: 403–414. https://doi.org/10.1111/j.1365-2664.2007.01442.x
+Hulme PE, Bacher S, Kenis M, Klotz S, Kühn I, Minchin D, ... & Pyšek P (2008) Grasping at the routes of biological invasions: a framework for integrating pathways into policy, Journal of Applied Ecology, 45: 403–414. <https://doi.org/10.1111/j.1365-2664.2007.01442.x>
 
-Latombe, G., Pyšek, P., Jeschke, J.M., Blackburn, T.M., Bacher, S., Capinha, C., Costello, M.J., Fernández, M., Gregory, R.D., Hobern, D., Hui, C., Jetz, W., Kumschick, S., McGrannachan, C., Pergl, J., Roy, H.E., Scalera, R., Squires, Z.E., McGeoch MA, Groom QJ, Pagad S, Petrosyan V, Ruiz G & Wilson J (2016) Data fitness for use in research on alien and invasive species. Copenhagen: GBIF Secretariat. Available online at: http://www.gbif.org/resource/82958  
+Latombe G, Pyšek P, Jeschke JM, Blackburn TM, Bacher S, Capinha C, Costello MJ, Fernández M, Gregory RD, Hobern D, Hui C, Jetz W, Kumschick S, McGrannachan C, Pergl J, Roy HE, Scalera R, Squires ZE, McGeoch MA, Groom QJ, Pagad S, Petrosyan V, Ruiz G & Wilson J (2016) Data fitness for use in research on alien and invasive species. Copenhagen: GBIF Secretariat. Available online at: <http://www.gbif.org/resource/82958>
 
-Robinson, T.B., Alexander, M.E., Simon, C.L., Griffiths, C.L., Peters, K., Sibanda, S., Miza, S., Groenewald, B., Majiedt, P. & Sink, K.J. (2016) Lost in translation? Standardising the terminology used in marine invasion biology and updating South African alien species lists. African Journal of Marine Science, https://doi.org/10.2989/1814232X.1812016.1163292.
+Robinson TB, Alexander ME, Simon CL, Griffiths CL, Peters K, Sibanda S, Miza S, Groenewald B, Majiedt P & Sink KJ (2016) Lost in translation? Standardising the terminology used in marine invasion biology and updating South African alien species lists. African Journal of Marine Science, <https://doi.org/10.2989/1814232X.1812016.1163292>
 
-Wilson, J.R.U., Caplat, P., Dickie, I., Hui, C., Maxwell, B.D., Nuñez, M.A., Pauchard, A., Rejmánek, M., Richardson, D.M., Robertson, M.P., Spear, D., Webber, B.L., van Wilgen, B.W. & Zenni, R.D. (2014) A standardized set of metrics to assess and monitor tree invasions. Biological Invasions, 16, 535–551. https://doi.org/10.1007/s10530-013-0605-x
+Wilson JRU, Caplat P, Dickie I, Hui C, Maxwell BD, Nuñez MA, Pauchard A, Rejmánek M, Richardson DM, Robertson MP, Spear D, Webber BL, van Wilgen BW & Zenni RD (2014) A standardized set of metrics to assess and monitor tree invasions. Biological Invasions, 16, 535–551. <https://doi.org/10.1007/s10530-013-0605-x>
