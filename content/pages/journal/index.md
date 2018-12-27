@@ -1,14 +1,14 @@
 ---
 title: Journal
-summary: 
+summary: Biodiversity Information Standards (TDWG) has partnered with [Pensoft Publishers Ltd.](https://pensoft.net/about) to establish a new journal, [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/). With a strong commitment to open access online publishing, the journal features abstracts and articles relating to biodiversity standards and the science underpinning their development and use.
 cover_image: https://static.tdwg.org/images/journal/biss_lizard_title.png
 cover_image_by: 
 cover_image_ref: 
 tags: 
 page_order: 2
+website: https://biss.pensoft.net/
+website_title: BISS website
 ---
-
-Biodiversity Information Standards (TDWG) has partnered with [Pensoft Publishers Ltd.](https://pensoft.net/about) to establish a new journal, [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/). With a strong commitment to open access online publishing, the journal features abstracts and articles relating to biodiversity standards and the science underpinning their development and use.
 
 BISS will now be the venue for TDWG Proceedings, i.e., the abstracts of presentations, posters, demonstrations, and workshop reports from our annual conferences. BISS will also be the preferred venue for full articles describing TDWG standards. In addition, authors are invited to [contribute articles](https://biss.pensoft.net/about) relevant to the science and sharing of biodiversity information, including descriptions of:
  
