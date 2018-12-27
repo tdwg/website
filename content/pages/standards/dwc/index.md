@@ -31,7 +31,7 @@ Abstract
 : The Darwin Core is a set of terms and definitions that facilitate the exchange of information about the geographic occurrence of organisms and the physical existence of biotic specimens in collections. Extensions to the Darwin Core provide a mechanism to share additional information, which may be discipline-specific, or beyond the commonly agreed upon scope of the Darwin Core itself. The Darwin Core and its extensions are primarily focused on intended semantics (definitions) and impose relatively few constraints on format or encoding. This makes the standard maximally useful in data publishing (reduces barriers), and enables the standard to support pipelines and other tools that can incrementally improve data quality.
 
 Preferred citation
-: Darwin Core Task Group (2009) Darwin Core (G. Kampmeier, review manager). Biodiversity Information Standards (TDWG). <http://www.tdwg.org/standards/450>
+: > Darwin Core Task Group (2009) Darwin Core (G. Kampmeier, review manager). Biodiversity Information Standards (TDWG). <http://www.tdwg.org/standards/450>
 
 ## Parts of the standard
 
@@ -43,7 +43,7 @@ The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabul
 - [Darwin Core RDF Guide](http://rs.tdwg.org/dwc/terms/guides/rdf/) - a guide for encoding biodiversity data using the Resource Description Framework (RDF)
 - [Darwin Core Namespace Policy](http://rs.tdwg.org/dwc/terms/namespace/) - an explanation of how URIs for Darwin Core terms should be constructed
 
-## Maintenance Group
+## Maintenance group
 
 Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group]({filename}maintenance/index.md).
 
