@@ -1,5 +1,5 @@
 ---
-title: Background and Visions Statements
+title: Background and visions statements
 summary: 
 cover_image: https://images.unsplash.com/photo-1496374200594-218d93021c8c
 cover_image_by: Nathan Dumlao
@@ -22,11 +22,9 @@ As Deputy and then Chair, I would continue to strengthen TDWG’s role as a comm
 
 We can work together to further the relationship between SPNHC and TDWG started by our first joint meeting. SPNHC and TDWG both publish journals, so a periodic joint issue might help expand the reach of each organization. I envision a TDWG 5-10+ year plan that seeks to include relevant industry/manufacturers as partners and collaborators (e.g. 3D, AI, Google).
 
-Additionally, it would be great to examine membership and choose some strategic goals (e.g. diversity, sustained membership, etc.). Evidence suggests training helps sustain membership, so this could be a potential role for TDWG, beginning by suggesting course/training content through the BDI IG and Community and Outreach group.
-Other ideas based on prior TDWG meetings and recent conversations center around meeting structure and the working group process. We could (re)incorporate introductory sessions for new / first time attendees. Others suggest: 1) allowing dedicated work time at future conferences, 2) offering training, 3) bringing back lightning talks, 4) developing a strategy for TDWG IGs and TGs to meet between yearly meetings, and 5) developing a webinar series parallel to Darwin Core Hour to support and facilitate effective community outreach for TDWG groups.
+Additionally, it would be great to examine membership and choose some strategic goals (e.g. diversity, sustained membership, etc.). Evidence suggests training helps sustain membership, so this could be a potential role for TDWG, beginning by suggesting course/training content through the BDI IG and Community and Outreach group. Other ideas based on prior TDWG meetings and recent conversations center around meeting structure and the working group process. We could (re)incorporate introductory sessions for new / first time attendees. Others suggest: 1) allowing dedicated work time at future conferences, 2) offering training, 3) bringing back lightning talks, 4) developing a strategy for TDWG IGs and TGs to meet between yearly meetings, and 5) developing a webinar series parallel to Darwin Core Hour to support and facilitate effective community outreach for TDWG groups.
 
-As a TDWG member myself, I most want to support the development of your ideas, and your vision for TDWG. 
-
+As a TDWG member myself, I most want to support the development of your ideas, and your vision for TDWG.
 
 ## Secretary - Quentin Groom [ORCID](https://orcid.org/0000-0002-0596-5376)
 
@@ -42,8 +40,7 @@ I have a particular research interest in introduced plants, their ecology and bi
 
 We live in exciting times for biodiversity informatics, both a time when we have the capability to do more and better science with information technology, but also a time when the global challenges for biodiversity are extreme. Through my work with TDWG I hope to make new science possible and make a significant contribution to protecting our living heritage. Having learned much in my first two years as TDWG Secretary I hope to be even more effective in my role and in promoting TDWG to a wider audience.
 
-
-## Communications and Outreach FS Chair - Prabhakar Rajagopal [ORCID](https://orcid.org/0000-0001-9320-5942)
+## Communications and Outreach Functional Subcommittee Chair - Prabhakar Rajagopal [ORCID](https://orcid.org/0000-0001-9320-5942)
 
 Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, India
 
@@ -62,7 +59,7 @@ I have been involved in TDWG since 2014. I would like to build a team from membe
 - They will work closely with regional representatives, especially in Africa, Asia and South America in building capacity in biodiversity informatics in collaboration with local institutions.
 - They will document and report all TDWG conducted and upcoming outreach and communication activities through the newly launched and website for global visibility
 
-## Fundraising and Partnernships FS Chair - Connie Rinaldo [ORCID](https://orcid.org/0000-0002-8339-728X)
+## Fundraising and Partnernships Functional Subcommittee Chair - Connie Rinaldo [ORCID](https://orcid.org/0000-0002-8339-728X)
 
 Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University
 
@@ -70,7 +67,7 @@ Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), 
 
 I have a BA in Biology and Anthropology from the University of Massachusetts, Boston, an MSc in Zoology from the University of Connecticut and an MLS from the University of Maryland. I began studying for a PhD in Zoology but after a number of twists and turns I ended up as a Systems Analyst for EG&G, Washington Analytical Services, Inc.  From there I become a librarian by completing my MLS at the University of Maryland.  I worked on the National Text Digitizing Project, an early digitization program, at the National Agricultural Library and then moved to Dartmouth College as the Head of Collections in the Biomedical Libraries. I also worked with the Digital Library for Earth Systems Education, analyzing collections.  After Dartmouth, I became the Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, combining my skills as a librarian with opportunities for research partnerships in the MCZ and Biodiversity Heritage Library. As a founding member of the BHL (now Chair of the Executive Committee), I have been instrumental in digitizing the Ernst Mayr Library collections for open access and developing innovative strategic plans for the BHL.  I first attended TDWG in St. Louis in 2006.  I am passionate about natural history and working with local, national and global partners to ensure that biodiversity data in library collections are connected, open and accessible for all. 
 
-### Vision Statement
+### Vision statement
 
 The mission for this subcommittee states that “FPFS will work together with TDWG executive committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.” These complex and important tasks will require an engaged globally diverse committee from the TDWG membership that can find international opportunities for funding and partnerships. The 2018 New Zealand joint meeting with SPNHC and the upcoming 2019 joint meeting alongside GBIF, CETAF and DiSSCo are excellent examples of the types of partnerships that should be continued and pursued. Engaging European organizations and funders was key. These collaborations with GBIF, CETAF and DiSSCo will present more prospects for shared funding but the FPFS will need to identify and assess new strategic partners and funding opportunities, looking beyond the expected biodiversity organizations, pursuing more corporate partnerships, donors and foundations.   
 
@@ -81,11 +78,13 @@ A long-term vision is to reinforce the visibility of TDWG across the globe, esta
 South African National Biodiversity Institute (SANBI)
 
 ### Background
+
 Brenda Daly is the Information Systems Manager for the Biodiversity Information and Planning Directorate at the South African National Biodiversity Institute (SANBI), with 16 years’ experience in information management and digital curation. She leads several projects in the delivery of operational systems which includes external-facing availability of applications, infrastructure and data. Brenda also provides strategic technical leadership in implementing SANBI’s enterprise information architecture to integrate South African biodiversity information.
 
 Prior to her appointment at SANBI, Brenda was the Global Biodiversity Information Facility (GBIF) Node Manager for the Endangered Wildlife Trust (EWT) a Non-Profit Organisation dedicated to conserving threatened species and ecosystems in southern Africa. It was her engagement with the GBIF community that introduced her to the internationally recognised data standards and the Biodiversity Information Standards (TDWG) community.
 
-### Vision Statement
+### Vision statement
+
 With a genuine enthusiasm for information technology and a passion for biodiversity, Brenda’s research interest is the importance of biodiversity data in addressing research and decision-making in the use and management of living resources and how these data can be shared in a more effective and appropriate platform for any type of use or application.  It is therefore vital that biodiversity information standards are adapted to allow for this.
 
 ## Asia representative - Ji Liqiang
@@ -142,4 +141,3 @@ It is vital that TDWG actively engage with the individuals, projects, and instit
 A great example of this effort was a workshop I co-convened, at the SPNHC 2017 meeting titled “Biodiversity Informatics 101”. Through community engagement and education we sought to sow the seeds of a grassroots effort to bridge collections community practitioners and standards developers into the same conversation and to provide an opportunity for common knowledge and language, encouraging participation in this work. With these efforts (e.g., workshops, webinars, reaching out to engage in discipline and community discussions), we can engage practitioners, along with members of the community affected by the work of the practitioners or that provide the building blocks from which biodiversity informatics develops.
 
 My experience within the community and engagement in efforts to establish an environment of collaboration and understanding sits within an important intersection of projects and people. As the North America Representative, I will bring new people into TDWG by informing the relevance that they have for TDWG and that TDWG has for them. I will also help to encourage continued progress and innovation for TDWG that remains engaged with, and informed of, the local implementation of our global efforts. 
-
