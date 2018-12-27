@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from settings import *
 
 SITEURL = "https://www.tdwg.org"
-THEME = "tdwg-theme" # Dependencies shouldn't be outside the Jenkins workspace
+THEME = "tdwg-theme" # Directory in the Jenkins workspace
 
 # EXTERNAL SERVICES
 DISQUS_SITENAME = ""

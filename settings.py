@@ -172,7 +172,7 @@ MENUITEMS = [ # Links in footer. Format: title, SITEURL/path
 # Technically, it could be build with other themes, but it won't look as good and pages with 
 # "template" in their metadata will cause an error, as these require dedicated tdwg-theme templates.
 
-THEME = "../tdwg-theme"
+THEME = "../tdwg-theme" # Directory/repo at same level as "website"
 DIRECT_TEMPLATES.append("search") # Add tipue-search page templage
 THUMBOR_SERVICE = "https://api.gbif.org/v1/image"
 PAGE_LINKS = { # Pages directly linked to by theme. Format: id: SITEURL/path
