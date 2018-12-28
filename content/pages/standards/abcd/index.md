@@ -20,7 +20,7 @@ Publisher
 : [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
 
 Status
-: 
+: Current (2005) standard
 
 Ratified
 : 
