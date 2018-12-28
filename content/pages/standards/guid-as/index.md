@@ -17,7 +17,7 @@ The [TDWG Globally Unique Identifiers (GUID) applicability statement](https://gi
 1. Provides guidance on how to use GUIDs to meet specific requirements of the biodiversity information community.
 2. Is a high level document that applies to GUIDs in general. There is, or will be, a separate document for the applicability of each specific GUID technology.
 
-### Preferred citation
+### Bibliographic citation
 
 > Richards Kevin. 2010. TDWG GUID Applicability Statement, Version 2010-09. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/150
 
@@ -29,7 +29,7 @@ The [TDWG Life Science Identifiers (LSID) applicability statement](https://githu
 2. Provides guidance on how to use Life Science Identifiers (LSID) to meet specific requirements of the biodiversity information community.
 3. Defines how to identify shared data objects in biodiversity information applications using LSIDs.
 
-### Preferred citation
+### Bibliographic citation
 
 > Pereira Ricardo, Richards Kevin, Hobern Donald, Hyam Roger, Belbin Lee, Blum Stan. 2009. TDWG Life Sciences Identifiers (LSID) Applicability Statement, Version 2009-09. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/150
 

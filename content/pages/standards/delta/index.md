@@ -24,7 +24,7 @@ Consequently, it can be used as a shorthand method of recording data, even if co
 
 See also [an overview of the DELTA System](http://www.delta-intkey.com/www/overview.htm).
 
-## Preferred citation
+## Bibliographic citation
 
 > Dallwitz M. 2006. Description Language for Taxonomy (DELTA), Version 2006-11-24. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/107
 

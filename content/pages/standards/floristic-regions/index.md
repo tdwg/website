@@ -10,6 +10,6 @@ github: https://github.com/tdwg/prior-standards/tree/master/floristic-regions-of
 
 This schema was endorsed as a TDWG standard around 1990.
 
-## Preferred citation
+## Bibliographic citation
 
 > Takhtajan A (1986) Floristic Regions of the World. University of California Press. Berkeley, Los Angeles, London. xxii, 522 pp., 4 maps. ISBN:0520040279

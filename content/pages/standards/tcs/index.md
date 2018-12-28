@@ -49,6 +49,6 @@ Once concept definitions are globally available and have been assigned GUIDs, re
 
 Where there is no appropriate, prexisting globally defined concept to reference, datasets could provide TCS definitions of the concept being described/observed/identified in TCS format. These would minimally consist of a name, but optimally include reference to the origin of the concept definition (The AccordingTo element in TCS). Thus field data that records presence of Aus bus, Aus cus and Aus dus, as identified in the field guide of (Kubrick, 2001) should include this information in the data description/mark-up. It then will be possible to resolve these incompletely defined concepts with other concept records represented in TCS format.
 
-## Preferred citation
+## Bibliographic citation
 
 > Taxonomic Names and Concepts interest group. 2006. Taxonomic Concept Transfer Schema (TCS), version 1.01. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/117

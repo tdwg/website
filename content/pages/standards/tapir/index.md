@@ -52,23 +52,25 @@ TAPIR is flexible enough to be used in a wide range of applications. Other examp
 
 
 ### TapirLink
+
 The original PHP TapirLink software is being host on SourceForge: 
- - http://sourceforge.net/projects/digir/files/TapirLink/
- - http://sourceforge.net/p/digir/svn/HEAD/tree/tapirlink/
- 
+
+- http://sourceforge.net/projects/digir/files/TapirLink/
+- http://sourceforge.net/p/digir/svn/HEAD/tree/tapirlink/
 
 ### PyWrapper 
+
 A python provider software, based on the BioCASE predecessor:
 http://sourceforge.net/p/digir/svn/HEAD/tree/pywrapper/
 
 ### TAPIR Tester
+
 http://sourceforge.net/p/digir/svn/HEAD/tree/tapirtester/
 
 ### TAPIR Builder
+
 http://sourceforge.net/p/digir/svn/HEAD/tree/tapirbuilder/
 
- 
+## Bibliographic citation
 
-## Preferred citation
-
- > De Giovanni, R, Döring, M, Güntsch, A, Vieglais, D, Hobern, D, de la Torre, J, Wieczorek, J, Gales, R, Hyam, R, Blum, S, and Perry, S. 2010. TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/449
+> De Giovanni, R, Döring, M, Güntsch, A, Vieglais, D, Hobern, D, de la Torre, J, Wieczorek, J, Gales, R, Hyam, R, Blum, S, and Perry, S. 2010. TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/449

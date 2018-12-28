@@ -23,5 +23,5 @@ Status
 Ratified
 : 2017-04-25
 
-Preferred citation
+Bibliographic citation
 : Vocabulary Maintenance Specification Task Group. 2017. Standards Documentation Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/147>
