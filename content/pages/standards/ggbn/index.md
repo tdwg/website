@@ -1,38 +1,50 @@
 ---
-title: Global Genome Biodiversity Network (GGBN) 
-summary: 
+title: Global Genome Biodiversity Network (GGBN) Data Standard
+summary: The [GGBN](http://www.ggbn.org/) Data Standard is a set of vocabularies designed to represent tissue, DNA or RNA samples associated to voucher specimens, tissue samples and collections. It does not cover e.g. scientific name, geography or physiological facts and is intended to be used with [Darwin Core](../dwc/) or [ABCD](../abcd/). The GGBN Data Standard incorporates all molecular terms of [MIxS](http://gensc.org/mixs/), and can also handle [SPREC](http://www.isber.org/?page=SPREC) and large parts of [BRISQ](https://doi.org/10.1021/pr200021n).
 cover_image: https://images.unsplash.com/photo-1426372371732-eb62c97a4b98
 cover_image_by: Lukasz Szmigiel
 cover_image_ref: https://unsplash.com/photos/VJfDk7oJflE
 tags: technical specification, draft standard
-github: https://github.com/tdwg/abcddna
+website: http://terms.tdwg.org/GGBN_Data_Standard
+website_title: GGBN Data Standard wiki
 ---
 
-**Status:** TDWG Draft Standard
+## Header section
 
-**Complements TDWG Standards:**
+Title
+: GGBN Data Standard
 
- - http://www.tdwg.org/standards/115/
- - http://www.tdwg.org/standards/450 
+Date created
+: 2016-10-04
 
-**Replaces:** DNA extension for Access to Biological Collection Data (ABCDDNA) [http://www.tdwg.org/standards/640](http://www.tdwg.org/standards/640)
+IRI to be cited and linked
+: <https://doi.org/10.1093/database/baw125>
 
-**Date:** (created) 4th October 2016; (last modified) 4th October 2016.
+Publisher
+: [Global Genome Biodiversity Network (GGBN)](http://www.ggbn.org/)
 
-**Copyright:** Copyright © GGBN (2016). All Rights Reserved. 
+Status
+: Draft standard
 
-#### Citation
+Ratified
+: 
 
-> Droege et al (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. [doi:10.1093/database/baw125](https://dx.doi.org/10.1093%2Fdatabase%2Fbaw125)
+Replaces
+: DNA extension for Access to Biological Collection Data (ABCDDNA) <http://www.tdwg.org/standards/640>
 
-## Abstract
+Abstract
+: Genomic samples of non-model organisms are becoming increasingly important in a broad range of studies from developmental biology, biodiversity analyses, to conservation. Genomic sample definition, description, quality, voucher information and metadata all need to be digitized and disseminated across scientific communities. This information needs to be concise and consistent in today’s ever-increasing bioinformatic era, for complementary data aggregators to easily map databases to one another. In order to facilitate exchange of information on genomic samples and their derived data, the Global Genome Biodiversity Network (GGBN) Data Standard is intended to provide a platform based on a documented agreement to promote the efficient sharing and usage of genomic sample material and associated specimen information in a consistent way. The new data standard presented here build upon existing standards commonly used within the community extending them with the capability to exchange data on tissue, environmental and DNA sample as well as sequences. The GGBN Data Standard will reveal and democratize the hidden contents of biodiversity biobanks, for the convenience of everyone in the wider biobanking community. Technical tools exist for data providers to easily map their databases to the standard.
 
-The GGBN Data Standard ([http://terms.tdwg.org/wiki/GGBN_Data_Standard](http://terms.tdwg.org/wiki/GGBN_Data_Standard)) is a set of terms and controlled vocabularies designed to represent tissue, DNA or RNA facts and does not cover e.g. scientific name, geography or physiological facts. Within GGBN it is used together with Darwin Core or ABCD. It covers all molecular terms of MIxS, MIMARKS and MIGS and can also handle SPREC (Standard PREanalytical Codes) and large parts of BRISQ (Biospecimen Reporting for Improved Study Quality).
+Contributors
+: Gabi Droege, Katharine Barker, Walter G. Berendsohn, Sean Brady, Carol Butler, E. Margaret Casey, Jonathan Coddington, John Deck, David Fichtmüller, Birgit Gemeinholzer, Anton Güntsch, Jörg Holetschek, Tom Hollowell, Patricia Kelbert, Hans-Peter Klenk, Renzo Kottmann, Christopher Lewis, Chris Lyal, Jacqueline Mackenzie-Dodds, Christopher Meyer, Daniel Mulcahy, Éamonn Ó Tuama, Thomas Orrell, Gitte Petersen, Astrid Schories, Ole Seberg, Jamie Whitacre, Pelin Yilmaz, Holger Zetzsche, Yong Zhang, Xin Zhou, Erica Benson, Boyke Bunk, Enrique Arbeláez Cortés, Boyke Bunk, René Dekker, Markus Döring, Sonya Dyhrman, Paul Flemons, Elisabeth Haring, Thomas Knebelsberger, Ivayolo Kostadinov, Rita T. Lawlor, Jon Norenburg, Sara Y. Nussbeck, Michael Raupach, Thomas von Rintelen, Tim Robertson, Larissa Smirnova, Carola Söhngen, Sun Ying, Lee A. Weigt, John Wieczorek, Kenneth Wurdack, Elizabeth Zimmer
 
-This document ~~specifies~~ _describes_ the GGBN Data Standard. _The actual terms and definitions that comprise the standard can be found in the TDWG terms repository at the URL above._
+Bibliographic citation
+: > Droege et al. (2016) The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. <https://doi.org/10.1093/database/baw125>
 
-The GGBN Data Standard is a product of the Global Genome Biodiversity Network. The stable version 1.0 can be found at [http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1](http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1) 
+## Background
 
-## Contributors
+The GGBN Data Standard is based on [ABCDDNA](http://www.tdwg.org/standards/640), that has been developed within the DNA Bank Network. The current GGBN Data Standard is a result of further reviews of ABCDDNA done with the [Global Genome Biodiversity Network](http://www.ggbn.org/) community. The stable version 1.0 of the standard can be found at <http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1>
 
-_Gabi Droege, Katharine Barker, Walter G. Berendsohn, Sean Brady, Carol Butler, E. Margaret Casey, Jonathan Coddington, John Deck, David Fichtmüller, Birgit Gemeinholzer, Anton Güntsch, Jörg Holetschek, Tom Hollowell, Patricia Kelbert, Hans-Peter Klenk, Renzo Kottmann, Christopher Lewis, Chris Lyal, Jacqueline Mackenzie-Dodds, Christopher Meyer, Daniel Mulcahy, Éamonn Ó Tuama, Thomas Orrell, Gitte Petersen, Astrid Schories, Ole Seberg, Jamie Whitacre, Pelin Yilmaz, Holger Zetzsche, Yong Zhang, Xin Zhou, Erica Benson, Boyke Bunk, Enrique Arbeláez Cortés, Boyke Bunk, René Dekker, Markus Döring, Sonya Dyhrman, Paul Flemons, Elisabeth Haring, Thomas Knebelsberger, Ivayolo Kostadinov, Rita T. Lawlor, Jon Norenburg, Sara Y. Nussbeck, Michael Raupach, Thomas von Rintelen, Tim Robertson, Larissa Smirnova, Carola Söhngen, Sun Ying, Lee A. Weigt, John Wieczorek, Kenneth Wurdack, Elizabeth Zimmer_
+
+
+
