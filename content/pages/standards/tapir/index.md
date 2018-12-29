@@ -1,19 +1,40 @@
 ---
 title: TDWG Access Protocol for Information Retrieval (TAPIR)
-summary: 
+summary: TAPIR is a computer protocol designed for discovery, search and retrieval of distributed data over the Internet. TAPIR consists of a [specification](http://tdwg.github.io/tapir/docs/) that determines how client applications seeking information should communicate with server applications hosting data. TAPIR is an approved TDWG standard.
 cover_image: https://c1.staticflickr.com/7/6158/6263150201_a4c9705ff9_b.jpg
 cover_image_by: Biodiversity Heritage Library
 cover_image_ref: https://www.flickr.com/photos/biodivlibrary/6263150201
-tags: technical specification, current standard, 2009
+tags: technical specification, current standard, 2010
 github: https://github.com/tdwg/tapir
+website: http://tdwg.github.io/tapir/docs/
+website_title: TAPIR specification
 ---
 
-_Renato De Giovanni_
-August 28, 2007
+## Header section
 
-## Definition
+Title
+: TAPIR - TDWG Access Protocol for Information Retrieval
 
-TAPIR is a computer protocol designed for discovery, search and retrieval of distributed data over the Internet. TAPIR consists of a [specification](http://tdwg.github.io/tapir/docs/) that determines how client applications seeking information should communicate with server applications hosting data. TAPIR is an approved TDWG standard.
+Date created
+: 2010-05-05
+
+Status
+: Current standard
+
+Category
+: Technical specification
+
+Permanent IRI
+: <http://www.tdwg.org/standards/449>
+
+Abstract
+: TAPIR is a computer protocol designed for discovery, search and retrieval of distributed data over the Internet. TAPIR consists of a [specification](http://tdwg.github.io/tapir/docs/) that determines how client applications seeking information should communicate with server applications hosting data. TAPIR is an approved TDWG standard.
+
+Creator
+: [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
+
+Bibliographic citation
+: > De Giovanni R, Döring M, Güntsch A, Vieglais D, Hobern D, de la Torre J, Wieczorek J, Gales R, Hyam R, Blum S, Perry S (2010) TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/449>
 
 ## Motivation
 
@@ -33,44 +54,27 @@ TAPIR is flexible enough to be used in a wide range of applications. Other examp
 
 ## TAPIR's key features
 
- - integrates well with the Web infrastructure because it is based on established international Web standards like HTTP, XML and XML Schema.
- - is independent of the data being exchanged and therefore can be used to access a wide range of data.
- - can return data in many different formats - search responses are flexible and customizable.
- - includes five operations to cover all necessary aspects for searching and retrieving data in a network: access to metadata (descriptive data) and capabilities of the provider, preliminary data discovery and data mining, searching, and monitoring the data provider service.
- - allows all operations to be invoked through simple Web addresses.
- - supports complex requests.
- - has existing TAPIR wrapper applications including PyWrapper, TapirLink and TapirDotNET.
- 
+- integrates well with the Web infrastructure because it is based on established international Web standards like HTTP, XML and XML Schema.
+- is independent of the data being exchanged and therefore can be used to access a wide range of data.
+- can return data in many different formats - search responses are flexible and customizable.
+- includes five operations to cover all necessary aspects for searching and retrieving data in a network: access to metadata (descriptive data) and capabilities of the provider, preliminary data discovery and data mining, searching, and monitoring the data provider service.
+- allows all operations to be invoked through simple Web addresses.
+- supports complex requests.
+- has existing TAPIR wrapper applications including PyWrapper, TapirLink and TapirDotNET. 
 
 ## Resources
- - [TAPIR 1.0 Normative Specification](http://tdwg.github.io/tapir/docs/tdwg_tapir_specification_2010-05-05.html)
- - [W3C XML Schema for document validation (normative)](http://tdwg.github.io/tapir/schema/tapir.xsd)
- - [Concept alias definitions for common TDWG standards](http://tdwg.github.io/tapir/cns/alias.txt)
- - [TAPIR output models and query templates](http://tdwg.github.io/tapir/cs/)
- - [TAPIR Charter](./charter.md)
- - [TAPIR Network Builders' Guide](http://tdwg.github.io/tapir/docs/TAPIRNetworkBuildersGuide_2010-05-05.html)
 
+- [TAPIR 1.0 Normative Specification](http://tdwg.github.io/tapir/docs/tdwg_tapir_specification_2010-05-05.html)
+- [W3C XML Schema for document validation (normative)](http://tdwg.github.io/tapir/schema/tapir.xsd)
+- [Concept alias definitions for common TDWG standards](http://tdwg.github.io/tapir/cns/alias.txt)
+- [TAPIR output models and query templates](http://tdwg.github.io/tapir/cs/)
+- [TAPIR Network Builders' Guide](http://tdwg.github.io/tapir/docs/TAPIRNetworkBuildersGuide_2010-05-05.html)
 
-### TapirLink
+## Software
 
-The original PHP TapirLink software is being host on SourceForge: 
+- **TapirLink**: the original PHP TapirLink software is being host on SourceForge: <http://sourceforge.net/projects/digir/files/TapirLink/> and <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirlink/>
+- **PyWrapper**: A python provider software, based on the BioCASE predecessor:
+<http://sourceforge.net/p/digir/svn/HEAD/tree/pywrapper/>
+- **TAPIR Tester**: <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirtester/>
+- **TAPIR Builder**: <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirbuilder/>
 
-- http://sourceforge.net/projects/digir/files/TapirLink/
-- http://sourceforge.net/p/digir/svn/HEAD/tree/tapirlink/
-
-### PyWrapper 
-
-A python provider software, based on the BioCASE predecessor:
-http://sourceforge.net/p/digir/svn/HEAD/tree/pywrapper/
-
-### TAPIR Tester
-
-http://sourceforge.net/p/digir/svn/HEAD/tree/tapirtester/
-
-### TAPIR Builder
-
-http://sourceforge.net/p/digir/svn/HEAD/tree/tapirbuilder/
-
-## Bibliographic citation
-
-> De Giovanni, R, Döring, M, Güntsch, A, Vieglais, D, Hobern, D, de la Torre, J, Wieczorek, J, Gales, R, Hyam, R, Blum, S, and Perry, S. 2010. TDWG Access Protocol for Information Retrieval (TAPIR), Version 1.0. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/449
