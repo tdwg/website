@@ -8,8 +8,28 @@ tags: prior standard, 1986
 github: https://github.com/tdwg/prior-standards/tree/master/floristic-regions-of-the-world
 ---
 
-This schema was endorsed as a TDWG standard around 1990.
+## Header section
 
-## Bibliographic citation
+Title
+: Floristic Regions of the World
 
-> Takhtajan A (1986) Floristic Regions of the World. University of California Press. Berkeley, Los Angeles, London. xxii, 522 pp., 4 maps. ISBN:0520040279
+Date created
+: 1986-10-01
+
+Status
+: Prior standard
+
+Category
+: 
+
+Permanent IRI
+: <http://www.tdwg.org/standards/104>
+
+Abstract
+: 
+
+Creator
+: Armen Takhtajan
+
+Bibliographic citation
+: > Takhtajan A (1986) Floristic Regions of the World. University of California Press. Berkeley, Los Angeles, London. xxii, 522 pp., 4 maps. ISBN 0520040279
