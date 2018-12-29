@@ -12,22 +12,19 @@ website_title: GGBN Data Standard wiki
 ## Header section
 
 Title
-: GGBN Data Standard
+: Global Genome Biodiversity Network (GGBN) Data Standard specification
 
 Date created
 : 2016-10-04
 
-IRI to be cited and linked
-: <https://doi.org/10.1093/database/baw125>
-
-Publisher
-: [Global Genome Biodiversity Network (GGBN)](http://www.ggbn.org/)
-
 Status
 : Draft standard
 
-Ratified
-: 
+Category
+: Technical specification
+
+Permanent IRI
+: <https://doi.org/10.1093/database/baw125>
 
 Replaces
 : DNA extension for Access to Biological Collection Data (ABCDDNA) <http://www.tdwg.org/standards/640>
@@ -38,8 +35,11 @@ Abstract
 Contributors
 : Gabi Droege, Katharine Barker, Walter G. Berendsohn, Sean Brady, Carol Butler, E. Margaret Casey, Jonathan Coddington, John Deck, David Fichtmüller, Birgit Gemeinholzer, Anton Güntsch, Jörg Holetschek, Tom Hollowell, Patricia Kelbert, Hans-Peter Klenk, Renzo Kottmann, Christopher Lewis, Chris Lyal, Jacqueline Mackenzie-Dodds, Christopher Meyer, Daniel Mulcahy, Éamonn Ó Tuama, Thomas Orrell, Gitte Petersen, Astrid Schories, Ole Seberg, Jamie Whitacre, Pelin Yilmaz, Holger Zetzsche, Yong Zhang, Xin Zhou, Erica Benson, Boyke Bunk, Enrique Arbeláez Cortés, Boyke Bunk, René Dekker, Markus Döring, Sonya Dyhrman, Paul Flemons, Elisabeth Haring, Thomas Knebelsberger, Ivayolo Kostadinov, Rita T. Lawlor, Jon Norenburg, Sara Y. Nussbeck, Michael Raupach, Thomas von Rintelen, Tim Robertson, Larissa Smirnova, Carola Söhngen, Sun Ying, Lee A. Weigt, John Wieczorek, Kenneth Wurdack, Elizabeth Zimmer
 
+Creator
+: [Global Genome Biodiversity Network (GGBN)](http://www.ggbn.org/)
+
 Bibliographic citation
-: > Droege et al. (2016) The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. <https://doi.org/10.1093/database/baw125>
+: > Droege et al. (2016) The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. <https://doi.org/10.1093/database/baw125> 
 
 ## Background
 
