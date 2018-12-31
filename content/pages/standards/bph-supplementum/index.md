@@ -9,4 +9,28 @@ github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-
 status: hidden
 ---
 
-...
+## Header section
+
+Title
+: Botanico-Periodicum-Huntianum/Supplementum
+
+Date created
+: 1991-10-01
+
+Status
+: Prior standard
+
+Category
+: 
+
+Permanent IRI
+: <http://www.tdwg.org/standards/114>
+
+Abstract
+: 
+
+Creator
+: 
+
+Bibliographic citation
+: 
