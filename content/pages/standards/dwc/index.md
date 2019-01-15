@@ -1,11 +1,13 @@
 ---
 title: Darwin Core
-summary: Darwin Core is our most popular standard for sharing biodiversity information.
+summary: Darwin Core is a standard maintained by the [Darwin Core maintenance group](../../community/dwc). It includes a glossary of terms intended to **facilitate the sharing of information about biological diversity** by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
 cover_image: https://images.unsplash.com/photo-1492031215329-791748ee1253
 cover_image_by: Alex Guillaume
 cover_image_ref: https://unsplash.com/photos/0MC0o-xLucM
 tags: technical specification, current standard, 2009
 github: https://github.com/tdwg/dwc
+website: https://dwc.tdwg.org
+website_title: Darwin Core website
 ---
 
 ## Header section
@@ -13,23 +15,26 @@ github: https://github.com/tdwg/dwc
 Title
 : Darwin Core
 
-IRI to be cited and linked
-: <http://www.tdwg.org/standards/450>
-
-Publisher
-: [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
-
-Status
-: Current Standard
-
-Ratified
+Date ratified
 : 2009-10-09
 
-Abstract
-: The Darwin Core is a set of terms and definitions that facilitate the exchange of information about the geographic occurrence of organisms and the physical existence of biotic specimens in collections. Extensions to the Darwin Core provide a mechanism to share additional information, which may be discipline-specific, or beyond the commonly agreed upon scope of the Darwin Core itself. The Darwin Core and its extensions are primarily focused on intended semantics (definitions) and impose relatively few constraints on format or encoding. This makes the standard maximally useful in data publishing (reduces barriers), and enables the standard to support pipelines and other tools that can incrementally improve data quality.
+Status
+: Current standard
 
-Preferred citation
-: Darwin Core Task Group (2009) Darwin Core (G. Kampmeier, review manager). Biodiversity Information Standards (TDWG). <http://www.tdwg.org/standards/450>
+Category
+: Technical specification
+
+Permanent IRI
+: <http://www.tdwg.org/standards/450>
+
+Abstract
+: Darwin Core is a standard maintained by the Darwin Core maintenance group. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
+
+Creator
+: Darwin Core Task Group, [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
+
+Bibliographic citation
+: > Darwin Core Task Group (2009) Darwin Core (Kampmeier G, review manager). Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/450>
 
 ## Parts of the standard
 
@@ -41,9 +46,9 @@ The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabul
 - [Darwin Core RDF Guide](http://rs.tdwg.org/dwc/terms/guides/rdf/) - a guide for encoding biodiversity data using the Resource Description Framework (RDF)
 - [Darwin Core Namespace Policy](http://rs.tdwg.org/dwc/terms/namespace/) - an explanation of how URIs for Darwin Core terms should be constructed
 
-## Maintenance Group
+## Maintenance group
 
-Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group]({filename}maintenance/index.md).
+Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group](../../community/dwc).
 
 The best way to be involved is to create an account on [GitHub](https://github.com), and "watch" the [Darwin Core GitHub repository](https://github.com/tdwg/dwc), as well as the [Darwin Core Questions & Answers repository](https://github.com/tdwg/dwc-qa), and respond to requests for comments or "issues" ([Darwin Core issues](https://github.com/tdwg/dwc/issues) and [Darwin Core QA issues](https://github.com/tdwg/dwc-qa/issues/)). Information about how to suggest changes to the standard can be found at the [Guidelines for Contributing](https://github.com/tdwg/dwc/blob/master/.github/CONTRIBUTING.md) page.
 
@@ -78,7 +83,7 @@ What is not in scope?
 ## Resources
 
 - Resource directory: <http://rs.tdwg.org/dwc/>
-- Maintenance group: [this subpage]({filename}maintenance/index.md)
+- Maintenance group: <https://www.tdwg.org/community/dwc/>
 - Primary collaboration platform: <https://github.com/tdwg/dwc>
 - Darwin Core Questions & Answers: <https://github.com/tdwg/dwc-qa>
-- Darwin Core landing page: [this page](https://www.tdwg.org/standards/dwc/)
+- Darwin Core landing page (this page): <https://www.tdwg.org/standards/dwc/>
