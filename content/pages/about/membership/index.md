@@ -21,11 +21,11 @@ Membership is based on the calendar year.  We solicit membership payments early 
 
 ## Membership dues 
 
-### Individual membership
+#### Individual membership
 
 * $75 USD
 
-### Institutional membership
+#### Institutional membership
 
 * $500 USD - discounted 20% ($400) for early payment (before 31 March)
 
