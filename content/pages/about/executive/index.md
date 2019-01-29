@@ -18,7 +18,7 @@ The term of office for all roles is normally two calendar years, with terms stag
 
 Term of office shown as span of calendar years, inclusive.
 
-### Core officers
+### Managing officers
 
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
