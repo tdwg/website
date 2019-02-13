@@ -41,6 +41,5 @@ The TDWG process requires that new Task Groups be launched through an Interest G
 
 ## Resources
 
-* Website: <https://github.com/PlinianCore>
-* Wiki: <https://github.com/PlinianCore/Documentation/wiki>
+* Website: <https://github.com/tdwg/species-information>
 * Mailing List: please subscribe to the repositories on GitHub, or use "[tdwg-content](http://lists.tdwg.org/mailman/listinfo/tdwg-content)" for subject related issues, and "[tdwg-tag](http://lists.tdwg.org/mailman/listinfo/tdwg-tag)" for any technical issues.
