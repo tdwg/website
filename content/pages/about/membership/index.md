@@ -1,6 +1,6 @@
 ---
 title: Membership
-summary: All membership dues go to support our collaboration tools and standards development.
+summary: Member dues support standards development and the operation of our collaboration platforms.
 cover_image: https://images.unsplash.com/photo-1504760644119-998372991f7c
 cover_image_by: Pawan Sharma
 cover_image_ref: https://unsplash.com/photos/XexNwsGiHwY
