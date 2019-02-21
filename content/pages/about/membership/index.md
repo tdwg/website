@@ -24,13 +24,13 @@ Membership is based on the calendar year.  We solicit membership payments early 
 | Membership Type | Annual Dues ($USD) |   |   |
 | :--- | :--- | :--- | --- |
 | Individual | $75  |   |   |
-| Institutional  | $500 | * |   |
+| Institutional  | $500* |   |   |
 
   \* discounted 20% ($400) for early payment (before 31 March)
 
 ### Payment methods
 
-Starting in 2019, TDWG is managing membershp through the Zoho Invoicing platform. Members need to establish an account on the platform, but can then pay an invoice (online or offline), print invoices and receipts, and view payment history. [Request an invitation](mailto:secretariat@tdwg.org) to establish your account with TDWG.
+Starting in 2019, TDWG is managing membership through the Zoho Invoicing platform. Prospective members need to establish an account on the platform to pay dues, but with an account members can print invoices, pay an invoice (online or offline), print invoices and receipts, and view payment history. [Request an invitation](mailto:secretariat@tdwg.org) to establish your account with TDWG.
 
 Membership dues can be paid:
 
