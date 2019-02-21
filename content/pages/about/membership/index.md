@@ -8,30 +8,27 @@ tags:
 page_order: 3
 ---
 
-TDWG has individual and institutional members. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) if you want to become a member.
+The worlds largest biodiversity data aggregators use TDWG data standards to integrate data from more than 1,300 data providers. TDWG standards are developed and maintained by practicing biodiversity scientists and data managers from around the world. The social infrastructure provided by TDWG enables this international collaboration. TDWG itself depends on its members to operate and maintain its communication tools and support the actual work of standards development. The financial support of its members makes TDWG more effective. Please join! TDWG has individual and institutional memberships. Contact [secretariat@tdwg.org](mailto:secretariat@tdwg.org) if you would like to become a member.
 
-## Benefits of membership
+### Benefits of membership
 
 * Voting rights:  TDWG members can vote in TDWG elections (Executive officers, subcommittee Chairs, rules of governance)
 * Discount on article publishing charges (APCs) in the TDWG Journal [Biodiversity Information Science and Standards (BISS)](../../journal/)
 
-## Membership schedule
+### Membership schedule
 
 Membership is based on the calendar year.  We solicit membership payments early in the year. Memberships fees can be paid at any time during the year, but apply to the calendar year.
 
-## Membership dues 
+### Membership dues 
 
-#### Individual membership
+| Individual membership | $75 USD |
+| Institutional membership | $500 USD * | 
 
-* $75 USD
+  * discounted 20% ($400) for early payment (before 31 March)
 
-#### Institutional membership
+### Payment methods
 
-* $500 USD - discounted 20% ($400) for early payment (before 31 March)
-
-## Payment methods
-
-Starting in 2019, TDWG will manage membershp through the Zoho Invoicing platform. Members must establish an account on the platform, but can then pay an invoice (online or offline), print invoices and receipts, and view payment history. [Request an invitation](mailto:secretariat@tdwg.org) to establish your account with TDWG.
+Starting in 2019, TDWG is managing membershp through the Zoho Invoicing platform. Members need to establish an account on the platform, but can then pay an invoice (online or offline), print invoices and receipts, and view payment history. [Request an invitation](mailto:secretariat@tdwg.org) to establish your account with TDWG.
 
 Membership dues can be paid:
 
