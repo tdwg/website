@@ -22,7 +22,7 @@ Membership is based on the calendar year.  We solicit membership payments early 
 ### Membership dues 
 
 | Membership Type | Annual Dues ($USD) |   |   |
-| :--- | :--- | :--- |   |   |
+| :--- | :--- | :--- | --- |
 | Individual | $75  |   |   |
 | Institutional  | $500 | * |   |
 
