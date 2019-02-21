@@ -10,9 +10,9 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: TDWG 2019
-alert_text: Our 2019 conference, biodiversity_next, will be in Leiden, 21-25 Oct, 2019. Proposals for breakout sessions are due 30 Nov, 2018.
-alert_button: Call for Breakout Sessions
-alert_link: https://biodiversitynext.org/call-for-symposia/proposal-letter/
+alert_text: Our 2019 conference, biodiversity_next, will be in Leiden, 22-25 Oct, 2019. Abstracts for individual contributions are due 22 March, 2019.
+alert_button: Call for Abstracts
+alert_link: https://biodiversitynext.org/call-for-abstracts/
 alert_image: https://static.tdwg.org/images/2019conference/bdn_header_twitter_v2_700.png
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
