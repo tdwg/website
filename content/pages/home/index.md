@@ -30,8 +30,7 @@ Historically known as the Taxonomic Databases Working Group, today's Biodiversit
 
 To achieve its goals, TDWG:
 
-- develops, adopts and promotes standards and guidelines for the recording and exchange of data about organisms
-- promotes the use of these standards and guidelines through the most appropriate and effective means
-- acts as a community forum for discussion through meetings, online discussions, and publications.
+- develops, ratifies and promotes standards and guidelines for the recording and exchange of data about organisms;
+- acts as a forum for discussing all aspects of biodiversity information management through meetings, online discussions, and publications.
 
 See the [About]({filename}../about/index.md) section to learn how TDWG operates and how you can participate. Active Interest Groups are described under [Community]({filename}../community/index.md).
