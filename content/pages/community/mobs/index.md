@@ -51,8 +51,8 @@ This IG recognizes that there are growing independent communities that rely on v
 
 ## Resources
 
-IOC report on the IODE/OBIS-Event-Data workshop on animal tagging and tracking, 23-26 April 2018, Oostende, Belgium http://iobis.org/2018/05/18/att/
+IOC report on the IODE/OBIS-Event-Data workshop on animal tagging and tracking, 23-26 April 2018, Oostende, Belgium [http://iobis.org/2018/05/18/att/](http://iobis.org/2018/05/18/att/)
 
-[Our GitHub wiki](https://github.com/tdwg/mobs/wiki)
+[MObs GitHub Wiki](https://github.com/tdwg/mobs/wiki)
 
-International Biologging Conference Data Standardization Workshop (September 2017): https://www.bio-logging.net/#news
+International Biologging Conference Data Standardization Workshop (September 2017): [https://www.bio-logging.net/#news](https://www.bio-logging.net/#news)
