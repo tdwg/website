@@ -11,7 +11,7 @@ github: https://github.com/tdwg/mobs
 # Machine Observations Interest Group
 
 ## Convenor
-Peggy Newman - Atlas of Living Australia
+ - Peggy Newman - Atlas of Living Australia
 
 ## Core Members
  - Abigail Benson - USGS, OBIS-USA
@@ -31,17 +31,11 @@ Subsequently there is a call for data standardization from all corners of the se
 
 This group is formed with three main purposes:
 
-1. To oversee Task Groups that document common approaches for data exchange formats for machine observations
+1. To oversee Task Groups that document common approaches for data exchange formats for machine observations <br /><br />This group was formed in the first instance to oversee a task to establish and recommend a consistent and systematic approach to applying Darwin Core (DwC) to bio-logging data because biodiversity repositories seek recommendations on the use of standards to support data publication and extraction workflows.
 
-This group was formed in the first instance to oversee a task to establish and recommend a consistent and systematic approach to applying Darwin Core (DwC) to bio-logging data because biodiversity repositories seek recommendations on the use of standards to support data publication and extraction workflows.
+2. To provide a point of contact and facilitate discussion on modelling machine observation scenarios such as biologging and camera traps and others that may arise in the TDWG community <br /><br />As we work on modelling several different bio-logging scenarios, there are some obvious similarities between modelling bio-logging data and standards developed for camera traps, which also implement the same animal-sensor-deployment major entities. This group provides a point of contact and focus for examining those similarities and any others that may arise in the use of sensors for animal monitoring. Developments within the group should consider congruence with pre-existing geospatial and sensor standards. 
 
-2. To provide a point of contact and facilitate discussion on modelling machine observation scenarios such as biologging and camera traps and others that may arise in the TDWG community
-
-As we work on modelling several different bio-logging scenarios, there are some obvious similarities between modelling bio-logging data and standards developed for camera traps, which also implement the same animal-sensor-deployment major entities. This group provides a point of contact and focus for examining those similarities and any others that may arise in the use of sensors for animal monitoring. Developments within the group should consider congruence with pre-existing geospatial and sensor standards. 
-
-3. To provide a point of contact and facilitate discussion on publishing machine observations in biodiversity infrastructures
-
-Currently these types of data tend to be housed outside the occurrence-based frameworks that have been built with human observations and specimens in focus, leaving them undiscoverable and left out of the larger biodiversity record. 
+3. To provide a point of contact and facilitate discussion on publishing machine observations in biodiversity infrastructures <br /><br />Currently these types of data tend to be housed outside the occurrence-based frameworks that have been built with human observations and specimens in focus, leaving them undiscoverable and left out of the larger biodiversity record. 
 
 ## Becoming Involved
 
