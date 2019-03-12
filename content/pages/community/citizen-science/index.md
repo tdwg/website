@@ -9,3 +9,6 @@ github: https://github.com/tdwg/citizen-science
 ---
  
 ...
+
+## Conveners
+
