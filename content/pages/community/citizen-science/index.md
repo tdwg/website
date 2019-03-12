@@ -12,9 +12,11 @@ github: https://github.com/tdwg/citizen-science
 
 ## Conveners
 
-[Robert D Stevenson](mailto:robert.stevenson@umb.edu)
-Dept. of Biology
-University of Massachusetts Boston
-100 Morrissey Blvd.
-Boston, MA 02125-3393
-USA
+[Robert D Stevenson](mailto:robert.stevenson@umb.edu)  
+Dept. of Biology  
+University of Massachusetts Boston  
+100 Morrissey Blvd.  
+Boston, MA 02125-3393  
+USA  
+
+
