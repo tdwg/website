@@ -57,7 +57,7 @@ The group's Github repository will include an index of biodiversity-related Citi
 
 This Interest Group will liaise closely with related and overlapping TDWG Interest Groups, including the Taxonomic Names and Concepts Interest Group, Imaging, Annotations, Observations & Specimens, Data Quality, Technical Architecture and Vocabulary Documentation and Maintenance. It will also support Open Source and Creative Commons licensing wherever possible.
 
-[1] http://en.wikipedia.org/wiki/Crowdsourcing
+[1] http://en.wikipedia.org/wiki/Crowdsourcing  
 [2] http://www.openscientist.org/2011/09/finalizing-definition-of-citizen.html
 
 ## Motivation
