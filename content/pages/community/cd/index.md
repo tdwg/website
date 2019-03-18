@@ -78,41 +78,28 @@ Some of the main areas are served by collection-level description records:
 * As an aid for collections management processes
 * Provide complete metadata for other data records (e.g. specimen records)  
 
-1. SPEED
-
-  Collections of natural history material can be large. Consequently detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed. It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
-
-2. RE-UNITING SCATTERED COLLECTIONS
-
-  "Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.
-
-3. POINTER TO ITEM-LEVEL DETAIL
-
-  Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases. A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Where a database containing item-level details exists, a link can be provided to that database to provide more detail. If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
-
-4. TOOL TO HELP WITH COLLECTIONS DISCOVERY, MANAGEMENT, and ATTRIBUTION
-
-  Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
-
-  * A collections inventory is helpful for disaster preparedness, prevention and recovery. (The Brazil National Museum, Berlin Herbarium, and National Museum of Iraq are each relevant examples to explore the context of how Collection Descriptions datasets would help). CD metadata protects against both loss of data and loss of collections and then also serves to help track provenance.
-  * It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.
-  * It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
-  * By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
-
-5. EARLY WARNING OF TECHNOLOGICAL OBSOLESCENCE
-
-  Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
-
-6. MULTIPLE USE OF DATA
-
-  Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels. The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
-
+1. SPEED.
+Collections of natural history material can be large. Consequently detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed. It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
+2. RE-UNITING SCATTERED COLLECTIONS.
+"Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.
+3. POINTER TO ITEM-LEVEL DETAIL.
+Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases. A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Where a database containing item-level details exists, a link can be provided to that database to provide more detail. If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
+4. TOOL TO HELP WITH COLLECTIONS DISCOVERY, MANAGEMENT, and ATTRIBUTION.
+Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
+* A collections inventory is helpful for disaster preparedness, prevention and recovery. (The Brazil National Museum, Berlin Herbarium, and National Museum of Iraq are each relevant examples to explore the context of how Collection Descriptions datasets would help). CD metadata protects against both loss of data and loss of collections and then also serves to help track provenance.
+* It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.
+* It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
+* By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
+5. EARLY WARNING OF TECHNOLOGICAL OBSOLESCENCE.
+Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
+6. MULTIPLE USE OF DATA.
+Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels. The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
 
 ## History and Background
 
-The first steps in standardising collection-level description began with a European Union Framework V project known as BioCASE - the Biodiversity Collections Access Service for Europe. This project ran from November 2001 until early 2005 (more on this at the BioCASE project website.)
+The first steps in standardising collection-level description began with a European Union Framework V project known as BioCASE - the Biodiversity Collections Access Service for Europe. This project ran from November 2001 until early 2005 (more on this at the [BioCASE project website](http://www.biocase.org/whats_biocase/index.shtml).)
 
-An RLG Programs working group of mainly North American natural history librarians and archivists known as RAVNS (Resources AVailable in Natural Sciences) has made the BioCASE metadata standard more generally applicable, rather than dealing only with specimen collections it is now a standard that covers any type of natural history collection (specimens, original artwork, photographs, archives, published material or a mixture). Discussion at the TDWG 2004 meeting in Christchurch, New Zealand, concluded that a standard for describing natural history collections would fit well with the suite of data standards being developed on behalf of the Global Biodiversity Information Facility (GBIF). The NCD Interest Group was convened and submitted a draft standard in 2008, but that standard has never been ratified. Meetings of the Natural Collections Descriptions (NCD) Interest Group at TDWG 2016 and TDWG 2017 confirmed the continued need for a collections description standard, with the prior work done by the NCD Interest Group as the starting point.
+An [RLG](https://en.wikipedia.org/wiki/Research_Libraries_Group) Programs working group of mainly North American natural history librarians and archivists known as RAVNS (Resources AVailable in Natural Sciences) has made the BioCASE metadata standard more generally applicable, rather than dealing only with specimen collections it is now a standard that covers any type of natural history collection (specimens, original artwork, photographs, archives, published material or a mixture). Discussion at the TDWG 2004 meeting in Christchurch, New Zealand, concluded that a standard for describing natural history collections would fit well with the suite of data standards being developed on behalf of the Global Biodiversity Information Facility (GBIF). The NCD Interest Group was convened and submitted a draft standard in 2008, but that standard has never been ratified. Meetings of the Natural Collections Descriptions (NCD) Interest Group at TDWG 2016 and TDWG 2017 confirmed the continued need for a collections description standard, with the prior work done by the NCD Interest Group as the starting point.
 
 NCD is a standard between the general resource discovery standards such as Dublin Core, and the rich collections description standards such as EAD. Mappings enable the extraction of a Dublin Core record from an NCD record or, conversely, filling out an NCD record into an EAD record. The NCD Interest Group brought together work on collection descriptions being carried out for the European Union Framework VI programme known as SYNTHESYS and the work performed by RAVNS under the auspices of RLG with that carried out by TDWG members.  
 
@@ -125,7 +112,7 @@ CD plans to support first, the development of a standard for sharing metadata ab
 
 The Interest Group is developing CD for use with RDF to ensure that it integrates with TDWG's common development architecture. The standard enables the aggregation of collections descriptions from many sources and facilitates resource discovery - particularly for collections that do not have a Web presence.
 
-CD will build on NCDs effort to connect to and use and link to other standards as appropriate. 
+CD will build on NCDs effort to connect to and use and link to other standards as appropriate. Members in the group bring in relevant perspectives from other standards organizations such as the [Research Data Alliance (RDA)](https://rd-alliance.org/) as well.
 
 ## Resources
 
