@@ -31,7 +31,7 @@ Treasurer | [William Ulate](mailto:treasurer@tdwg.org) | Missouri Botanical Gard
 
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](../../committees/tag/) | [Paul Morris](mailto:mole@morris.net) | Museum of Comparative Zoology, MA, USA | 2018-2019
+[Technical Architecture Group](../committees/tag/) | [Paul Morris](mailto:mole@morris.net) | Museum of Comparative Zoology, MA, USA | 2018-2019
 [Fundraising and Partnerships](../../committees/fundraising/) | Connie Rinaldo | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2019-2020
 [Infrastructure](../../committees/infrastructure/) | [Tim Robertson](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2018-2019
 [Outreach and Communications](../../committees/outreach/) | [Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2019-2020
