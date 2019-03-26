@@ -29,7 +29,6 @@ Presentations
 Recordings
 : hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2015_Annual_Conference)
 
-Pre-conference Training
-: [Overview](https://static.tdwg.org/conferences/2015/2015_TDWG_Pre-Conference_Training.pdf)
-: [Training Workshop Agendas](https://static.tdwg.org/conferences/2015/2015_Pre_TDWG_Training_Workshop_Agendas.pdf)
+Pre-conference training
+: [Overview](https://static.tdwg.org/conferences/2015/2015_TDWG_Pre-Conference_Training.pdf) <br /> [Training Workshop Agendas](https://static.tdwg.org/conferences/2015/2015_Pre_TDWG_Training_Workshop_Agendas.pdf)
 
