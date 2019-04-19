@@ -10,7 +10,7 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: TDWG 2019 @ biodiversity_next
-alert_text: TDWG and partners will meet in Leiden at biodiversity_next, 22-25 Oct, 2019, with pre-conference meetings --19-- 20-21. Registration is now open. Discounts are limited by number rather than by date, so register earlier to save.
+alert_text: TDWG and partners will meet in Leiden at biodiversity_next, 22-25 Oct, 2019, with pre-conference meetings 20-21. Registration is now open. Discounts are limited by number rather than by date, so register earlier to save.
 alert_button: Register now
 alert_link: https://biodiversitynext.org/register-now/
 alert_image: https://static.tdwg.org/images/2019conference/bdn_header_twitter_v2_700.png
