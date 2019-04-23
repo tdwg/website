@@ -34,7 +34,6 @@ Name | Affiliation
 [Falko Glöckler](mailto:falko.gloeckler@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Jana Hoffmann](mailto:jana.hoffmann@mfn-berlin.de) | Museum für Naturkunde Berlin, Germany
 [Patricia Mergen](mailto:Patricia.Mergen@africamuseum.be) | Royal Museum for Central Africa, Belgium
-[Alberto González-Talaván](mailto:atalavan@gbif.org) | GBIF Secretariat, Denmark
 [Andrew Rodrigues](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
 [Laura Russell](mailto:larussell@gbif.org) | GBIF Secretariat, Denmark
 [Dmitry Schigel](mailto:dschigel@gbif.org) | GBIF Secretariat, Denmark
@@ -58,4 +57,4 @@ All interested parties are encouraged to become involved with the Interest Group
 
 ## Resources
 
-Discussions at the [GBIF community site](http://community.gbif.org/pg/groups/30748/interest-group-on-biodiversity-informatics-training/).
+  - [GitHub repository](https://github.com/tdwg/curriculum) 
