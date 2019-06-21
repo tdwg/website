@@ -61,13 +61,16 @@ Membership dues can be paid:
 | Missouri Botanical Garden | 	St Louis, MO |
 | Museu de Ciències Naturals de Barcelona | 	Barcelona |
 | Museum National d'Histoire Naturelle | 	Paris |
+| National Museum of Natural History |  Washington, DC |
 | National Museums Scotland | 	Edinburgh |
 | National Research Collections Australia CSIRO | 	Canberra |
 | Naturalis Biodiversity Center | 	Leiden |
 | New York Botanical Garden | 	The Bronx, NY |
 | Research Institute for Nature and Forest (EV INBO) | 	Brussels |
 | Real Jardín Botánico – CSIC | 	Madrid |
+| Royal Botanic Gardens Kew |   Richmond London |
 | Royal Botanic Gardens Melbourne | 	Melbourne |
+| Swedish Natural History Museum |  Stockholm |
 | The Royal Botanic Garden Edinburgh | 	Edinburgh |
 | US Geological Survey | 	Reston, VA |
   
