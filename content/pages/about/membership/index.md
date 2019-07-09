@@ -66,6 +66,7 @@ Membership dues can be paid:
 | National Research Collections Australia CSIRO | 	Canberra |
 | Naturalis Biodiversity Center | 	Leiden |
 | New York Botanical Garden | 	The Bronx, NY |
+| PLAZI |   Bern |
 | Research Institute for Nature and Forest (EV INBO) | 	Brussels |
 | Real Jardín Botánico – CSIC | 	Madrid |
 | Royal Botanic Gardens Kew |   Richmond London |
