@@ -12,22 +12,23 @@ github:
 
 ## Conveners
 
-[James Macklin](mailto:james.macklin@agr.gc.ca)  
-Research Scientist  
-Botany and Biodiversity Informatics  
-Agriculture and Agri-Food Canada  
-Ottawa, Ontario, Canada
+[Falko Glöckler](mailto:falko.gloeckler@mfn.berlin)  
+Head, Department Science Data Management  
+Museum für Naturkunde  
+Leibniz-Institut für Evolutions- und Biodiversitätsforschung  
+Berlin, Germany
 
 [Anton Güntsch](mailto:a.guentsch@bgbm.org)  
 Head, Research & Development Group Biodiversity Informatics  
 Freie Universität Berlin  
 Botanic Garden and Botanical Museum Berlin-Dahlem  
-Germany
+Berlin, Germany
 
-[Niall Beard](mailto:niall.beard@manchester.ac.uk)  
-Scientific Web Technologist  
-University of Manchester, School of Computer Science  
-United Kingdom
+[James Macklin](mailto:james.macklin@agr.gc.ca)  
+Research Scientist  
+Botany and Biodiversity Informatics  
+Agriculture and Agri-Food Canada  
+Ottawa, Ontario, Canada
 
 ## Core members
 
