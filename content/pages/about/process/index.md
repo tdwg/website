@@ -29,7 +29,7 @@ A TDWG member can petition for the establishment of an Interest Group by submitt
 
 The approval of an Interest Group charter is announced to the TDWG members. This action formalises the establishment of the Interest group, and authorises the establishment of the group's collaboration facilities.
 
-A TDWG member can become an interest group member by joining the group'scommunication system and meeting any other requirements prescribed in the group's charter.
+A TDWG member can become an interest group member by joining the group's communication system and meeting any other requirements prescribed in the group's charter.
 
 #### Maintaining an Interest Group
 
@@ -48,7 +48,7 @@ The only formal position required in an Interest Group is the Convener, who is r
 
 ### Task Groups
 
-Purpose and Responsibilities
+#### Purpose and Responsibilities
 
 A Task Group is created within an Interest Group to develop a particular product within a given time frame.
 
