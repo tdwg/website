@@ -18,10 +18,10 @@ Interest Groups and Task Groups are the organisational entities responsible for 
 
 An Interest Group advances and promotes information sharing capabilities (interoperability) within an area of biodiversity science. An Interest Group has a responsibility to:
 
-Evaluate the needs of TDWG members against available methods and technologies;
-Develop consensus around new approaches to information sharing;
-Create Task Groups to create specific products within specific time frames;
-Maintain and update products that continue to be useful.
+ - Evaluate the needs of TDWG members against available methods and technologies;
+ - Develop consensus around new approaches to information sharing;
+ - Create Task Groups to create specific products within specific time frames;
+ - Maintain and update products that continue to be useful.
 
 #### Establishing an Interest Group
 
