@@ -34,13 +34,19 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 ### Treasurer
 
-### _Technical Architecture Group_ chair
+The Treasurer maintains the accounts of TDWG; files financial documents as required by governments where TDWG is registered; and administers the assets of TDWG in conformance with instructions from the Executive Committee. The Treasurer reports finances annually to the Executive Committee and membership; collects membership dues and other TDWG income; maintains the membership list; and is entitled to sign jointly with one other officer on behalf of TDWG.  
 
-### Functional subcommittee for Infrastructure chair
+### Technical Architecture Group, Chair
 
-### Functional subcommittee for _Time and Place_ chair
+The purpose of the Technical Architecture Group (TAG) is to guide ongoing development of the TDWG technical architecture and advise the Executive and membership on matters relating to the principles, strategies and practice for maintaining the common technical framework essential to TDWG's mission to develop, adopt and promote standards and practice for the recording and exchange of biodiversity data.  The chair of this subcommittee appoints the members and manages their work. More details about this subcommittee and the role of the chair can be found in the [Group's charter](/about/committees/tag/). 
 
-The 
+### Functional subcommittee for Infrastructure, Chair
+
+TDWG depends upon an information technology and communications infrastructure to achieve its purposes. This infrastructure includes hardware systems, software, and IT services. The chair of the Infrastructure subcommittee is responsible for orgainizing and executing the activities of the subcommittee to support TDWG. More details about this role can be found in the [subcommittee's charter](/about/committees/infrastructure/).
+
+### Functional subcommittee for Time and Place, Chair
+
+The purpose of the Time and Place Functional Subcommittee is to establish a six year rolling plan for the hosting of TDWG meetings, which seeks to expand the influence of TDWG whilst retaining and increasing its core membership base. It is aiming at expanding the TDWG community, maintaining existing community, maintaining functionality of interest and task groups, and taking advantage of funding for hosting opportunities. ([More details](/about/committees/tardis/)).
 
 ### Regional Representatives: Latin America, Oceania
 
