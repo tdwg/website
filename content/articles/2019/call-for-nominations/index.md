@@ -1,5 +1,5 @@
 ---
-title: Nominees for the Executive Committee (2020-2021)
+title: Call for Executive Committee Nominations (2020-2021)
 slug: call-for-nominations
 date: 2019-09-30
 cover_image: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
