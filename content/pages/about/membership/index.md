@@ -60,6 +60,7 @@ Membership dues can be paid:
 | Institute of Zoology, Chinese Academy of Sciences | 	Beijing |
 | Missouri Botanical Garden | 	St Louis, MO |
 | Museu de Ciències Naturals de Barcelona | 	Barcelona |
+| Museum für Naturkunde | Berlin |
 | Museum National d'Histoire Naturelle | 	Paris |
 | National Museum of Natural History |  Washington, DC |
 | National Museums Scotland | 	Edinburgh |
