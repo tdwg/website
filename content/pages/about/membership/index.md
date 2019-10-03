@@ -12,8 +12,10 @@ The world's largest biodiversity data aggregators use TDWG data standards to int
 
 ### Benefits of membership
 
-* Voting rights:  TDWG members can vote in TDWG elections (Executive officers, subcommittee Chairs, rules of governance)
+* Voting rights:  TDWG members\[\*\] can vote in TDWG elections (Executive officers, subcommittee Chairs, rules of governance)
 * Discount on article publishing charges (APCs) in the TDWG Journal [Biodiversity Information Science and Standards (BISS)](../../journal/)
+
+\[\*\] _Institutional member votes are weighted by five ( &times; 5 ) in situations where votes of institutional and individual members must be combined, such as the election of officers._
 
 ### Membership schedule
 
@@ -43,6 +45,7 @@ Membership dues can be paid:
 
 | Institution Name | City |
 | :--- | :--- |
+| Agriculture and Agri-Food, Canada | Ottawa |
 | ArtDatabanken / Swedish Species Information Centre | 	Upsala |
 | Atlas of Living Australia, CSIRO | 	Canberra |
 | Biodiversity Heritage Library | 	Washington, DC |
