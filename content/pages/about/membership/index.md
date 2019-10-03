@@ -28,7 +28,7 @@ Membership is based on the calendar year.  We solicit membership payments early 
 | Individual | `$ 75  `|   |   |
 | Institutional  | `$500 [*]` |   |   |
 
-  \[\*\] _Institutional memberships paid in the first quarter (before 31 March) are usually discounted 20% ($400)._ 
+  \[\*\] _Institutional memberships paid in the first quarter (before 31 March) are usually discounted 20% (reduced to $400)._ 
 
 ### Payment methods
 
