@@ -8,7 +8,7 @@ tags:
 page_order: 3
 ---
 
-The world's largest biodiversity data aggregators use TDWG data standards to integrate data from more than 1,300 data providers. Our standards are developed and maintained by practicing biodiversity scientists and data managers from around the world. The social infrastructure provided by TDWG enables this international collaboration. TDWG itself depends on its members to operate and maintain its communication tools and support the actual work of standards development. The financial support of its members makes TDWG more effective. Please join! TDWG has individual and institutional memberships. Please contact the <a href="mailto:secretariat@tdwg.org?subject=Membership request&body=Please provide contact name and email if different than sender, billing address, and membership type (individual or institutional).">secretariat@tdwg.org</a> if you would like to become a member.
+The world's largest biodiversity data aggregators use TDWG data standards to integrate data from more than 1,300 data providers. Our standards are developed and maintained by practicing biodiversity scientists and data managers from around the world. The social infrastructure provided by TDWG enables this international collaboration. TDWG itself depends on its members to operate and maintain its communication tools and support the actual work of standards development. The financial support of its members makes TDWG more effective. Please join! TDWG has individual and institutional memberships. Please contact the <a href="mailto:treasurer@tdwg.org?subject=Membership request&body=Please provide contact name and email if different than sender, billing address, and membership type (individual or institutional).">treasurer@tdwg.org</a> if you would like to become a member.
 
 ### Benefits of membership
 
@@ -26,9 +26,9 @@ Membership is based on the calendar year.  We solicit membership payments early 
 | Membership Type | Annual Dues ($USD) |   |   |
 | :--- | :--- | :--- | --- |
 | Individual | `$ 75  `|   |   |
-| Institutional  | `$500 *` |   |   |
+| Institutional  | `$500 [*]` |   |   |
 
-  \* discounted 20% ($400) for early payment (before 31 March)
+  \[\*\] _Institutional memberships paid in the first quarter (before 31 March) are usually discounted 20% ($400)._ 
 
 ### Payment methods
 
