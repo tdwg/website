@@ -8,9 +8,7 @@ tags:
 page_order: 
 ---
 
-_Copied from <http://www.tdwg.org/activities/convener-responsibilities/>_
-
-Responsibilities of Conveners:
+# Responsibilities of Conveners:
 
 1. Work with other potential stakeholders to draft the Interest or Task Group Charter and submit it for review by the Executive Committee. 
     1. The charter must be clear and concise; this information will be public and therefore seen by potential members.
