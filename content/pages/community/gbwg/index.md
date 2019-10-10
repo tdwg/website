@@ -70,21 +70,21 @@ The benefit of inclusion in this group is to be informed of, influence, and prom
 * ISBER: http://www.isber.org
 * SPNHC: http://www.spnhc.org
 
-*Related articles:* 
+**Related articles:**
 
-*Deck, et al.* (2013) Clarifying Concepts and Terms in Biodiversity Informatics, Standards in Genomic Sciences. https://doi.org/10.4056/sigs.3907833 
+**Deck, et al.** (2013) Clarifying Concepts and Terms in Biodiversity Informatics, Standards in Genomic Sciences. https://doi.org/10.4056/sigs.3907833 
 
-*Droege, G., Barker, K., Seberg, O., Coddington, J., Benson, E., Berendsohn, W.G., Bunk, B., Butler, C., Cawsey, E.M., Deck, J., Döring, M., Flemons, P., Gemeinholzer, B., Güntsch, A., Hollowell, T., Kelbert, P., Kostadinov, I., Kottmann, R., Lawlor, R.T., Lyal, C., Mackenzie-Dodds, J., Meyer, C., Mulcahy, D., Nussbeck, S.Y., Ó Tuama, É., Orrell, T., Petersen, G., Robertson, T., Söhngen, C., Whitacre, J., Wieczorek, J., Yilmaz, P., Zetzsche, H., Zhang, Y., Zhou, X.* (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. baw125. DOI: -10.1093/database/baw125 Pdf OpenAccess
+**Droege, G., Barker, K., Seberg, O., Coddington, J., Benson, E., Berendsohn, W.G., Bunk, B., Butler, C., Cawsey, E.M., Deck, J., Döring, M., Flemons, P., Gemeinholzer, B., Güntsch, A., Hollowell, T., Kelbert, P., Kostadinov, I., Kottmann, R., Lawlor, R.T., Lyal, C., Mackenzie-Dodds, J., Meyer, C., Mulcahy, D., Nussbeck, S.Y., Ó Tuama, É., Orrell, T., Petersen, G., Robertson, T., Söhngen, C., Whitacre, J., Wieczorek, J., Yilmaz, P., Zetzsche, H., Zhang, Y., Zhou, X.** (2016): The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. baw125. DOI: -10.1093/database/baw125 Pdf OpenAccess
 
-*Droege, G., Barker, K., Astrin, J., Partels, P., Butler, C., Cantrill, D., Coddington, J., Forest, F., Gemeinholzer, B., Hobern, D., Mackenzie-Dodds, J., Ó Tuama, É., Petersen, G., Sanjur, O., Schindel, D., Seberg, O.* (2014): The Global Genome Biodiversity Network (GGBN) Data Portal. Nucleic Acids Research. 42 (D1): D607-D612. DOI:10.1093/nar/gkt928. Pdf OpenAccess
+**Droege, G., Barker, K., Astrin, J., Partels, P., Butler, C., Cantrill, D., Coddington, J., Forest, F., Gemeinholzer, B., Hobern, D., Mackenzie-Dodds, J., Ó Tuama, É., Petersen, G., Sanjur, O., Schindel, D., Seberg, O.** (2014): The Global Genome Biodiversity Network (GGBN) Data Portal. Nucleic Acids Research. 42 (D1): D607-D612. DOI:10.1093/nar/gkt928. Pdf OpenAccess
 
-*Kelbert, P., Droege, G., Barker, K., Braak, K., Cawsey, E.M., Coddington, J., Robertson, T., Whitacre, J., Güntsch, A.* (2015): B-HIT - A Tool for Harvesting and Indexing Biodiversity Data. PLoS ONE 10 (11): e014224. DOI:10.1371/journal.pone.0142240 Pdf OpenAccess
+**Kelbert, P., Droege, G., Barker, K., Braak, K., Cawsey, E.M., Coddington, J., Robertson, T., Whitacre, J., Güntsch, A.** (2015): B-HIT - A Tool for Harvesting and Indexing Biodiversity Data. PLoS ONE 10 (11): e014224. DOI:10.1371/journal.pone.0142240 Pdf OpenAccess
 
-*Robins, et al.* (2011) RCN4GSC Meeting Report: Initiating a Testbed for Managing Data at the Interface of Biodiversity and Genomics/Metagenomics, Standards in Genomic Sciences.
+**Robbins, et al.** (2011) RCN4GSC Meeting Report: Initiating a Testbed for Managing Data at the Interface of Biodiversity and Genomics/Metagenomics, Standards in Genomic Sciences.
 
-*Seberg, O., Droege, G., Barker, K., Coddington, J.A., Funk, A., Gostel, M., Petersen, G. & Smith, P.P.* (2016): Global Genome Biodiversity Network: Saving a blueprint of the Tree of Life – A botanical perspective. Annals of Botany. DOI:10.1093/aob/mcw121 Pdf OpenAccess
+**Seberg, O., Droege, G., Barker, K., Coddington, J.A., Funk, A., Gostel, M., Petersen, G. & Smith, P.P.** (2016): Global Genome Biodiversity Network: Saving a blueprint of the Tree of Life – A botanical perspective. Annals of Botany. DOI:10.1093/aob/mcw121 Pdf OpenAccess
 
-*Wooley, et al.* (2009) Extending Standards for Genomics and Metagenomics Data: A Research Coordination Network for the Genomic Standards Consortium (RCN4GSC), Environmental Microbiome
+**Wooley, et al.** (2009) Extending Standards for Genomics and Metagenomics Data: A Research Coordination Network for the Genomic Standards Consortium (RCN4GSC), Environmental Microbiome
 
 ## History/Context
 
