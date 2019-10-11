@@ -1,6 +1,6 @@
 ---
 title: Genomic Biodiversity
-summary: GBWG operates as in interest group under both TDWG and the Genomics Standards Consortium (GSC) foster discussion between the biodiversity and genomics communities
+summary: GBWG operates as in interest group under both TDWG and the Genomics Standards Consortium (GSC) to foster discussion between the biodiversity and genomics communities
 cover_image: https://images.unsplash.com/photo-1531902706636-a9966c06605a
 cover_image_by: rawpixel
 cover_image_ref: https://unsplash.com/photos/bBgqqWZAVT4
