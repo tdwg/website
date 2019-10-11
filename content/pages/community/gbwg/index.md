@@ -12,9 +12,9 @@ github:
 
 ## Conveners
 
-* Gabi Dröge, Botanical Garden and Botanical Museum, Berlin
-* Ramona Walls, iPlant Initiative, University of Arizona
-* John Deck, University of California at Berkeley
+* [Gabi Dröge](G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
+* [Ramona Walls](rwalls@cyverse.org), iPlant Initiative, University of Arizona
+* [John Deck](jdeck88@gmail.com), University of California at Berkeley
 
 ## Core members
 
