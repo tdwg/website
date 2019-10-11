@@ -1,6 +1,6 @@
 ---
 title: Genomic Biodiversity
-summary: 
+summary: GBWG operates as in interest group under both TDWG and the Genomics Standards Consortium (GSC) foster discussion between the biodiversity and genomics communities
 cover_image: https://images.unsplash.com/photo-1531902706636-a9966c06605a
 cover_image_by: rawpixel
 cover_image_ref: https://unsplash.com/photos/bBgqqWZAVT4
@@ -96,7 +96,7 @@ In October 2011, thirty two representatives from thirteen organizations across A
 * Policies and Practices Related to Management and Stewardship of Genomic Samples;
 * Marketing and Outreach (hereafter Communications and Outreach).
 
-### Data Standards and Data Access for Genomic Samples Task Force
+### Data standards and data access for genomic samples task force
 
 The GGBN data standards task force was developed in an effort to standardize data and associated infrastructure for molecular collections. Both DwC and ABCD lack terms for molecular data. Thus in 2007 GGBN, as part of the precursor project DNA Bank Network, began developing a standard for biodiversity DNA biobanks accompanying natural history and culture collections. The result was the DNA extension of ABCD, ABCDDNA. Between 2012 and 2015, the GGBN has undertaken major revisions of ABCDDNA and has included other existing standards related to molecular data or tissue data. The outcome was the GGBN Data Standard that incorporates all molecular terms of MIxS, and can also handle SPREC and large parts of BRISQ. From this the GGBN data portal were developed in 2015 in order to provide standardized access to genomic samples for research.  We recognize that the standardization of molecular collections is an ongoing process. As a result, this group will assess and address gaps in molecular collections data infrastructure in an effort to streamline pipelines for research.
 
