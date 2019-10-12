@@ -9,7 +9,7 @@ tags: interest group, maintenance group
 
 ## Convener 
 
-John Wieczorek - VertNet & Museum of Vertebrate Zoology, University of California, Berkeley
+John Wieczorek - VertNet
 
 ## Core members
 
