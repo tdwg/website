@@ -13,7 +13,7 @@ github:
 ## Conveners
 
 * Gabi Dröge (G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
-* Ramona Walls (rwalls@cyverse.org), iPlant Initiative, University of Arizona
+* Ramona Walls (rlwalls@email.arizona.edu), Bio5 Institute University of Arizona
 * John Deck (jdeck88@gmail.com), University of California at Berkeley
 
 ## Core members
