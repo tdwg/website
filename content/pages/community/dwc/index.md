@@ -16,7 +16,7 @@ John Wieczorek - VertNet
 - Peter Desmet - Research Institute for Nature and Forest (INBO)
 - Markus Döring - Global Biodiversity Information Facility (GBIF)
 - Tim Robertson - Global Biodiversity Information Facility (GBIF)
-- Steven Baskauf - Vanderbilt University Department of Biological Sciences
+- Steven Baskauf - Vanderbilt University Heard Libraries
 - Paula Zermoglio - VertNet
 
 ## Motivation
