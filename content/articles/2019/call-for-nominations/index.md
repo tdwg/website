@@ -24,7 +24,7 @@ Oceania Representative | 2 Years
 
 TDWG is an international organization that promotes the digitization, integration, and sharing of information about the world’s biodiversity. TDWG provides a forum where individuals, projects, and institutions who manage biodiversity data can come together to share expertise and promote interoperability by promulgating standards and best practices. In 2018, TDWG launched the Biodiversity Information Science and Standards (BISS) journal where papers on issues related to information technology and biodiversity science can be published. The TDWG Executive Committee oversees the work of TDWG: it coordinates TDWG Interest and Task Groups, manages the review and ratification of standards, manages the organization’s journal, and organizes the annual meeting. These responsibilities are set forth in the Constitution and detailed further in a supplementary document. 
 
-Positions on the executive are staggered two-year terms, such that no more than half of the Committee will be new in any year. Towards the end of every calendar year, TDWG holds elections for terms that are expiring and need to be filled for the coming year. Officers elected this year will serve terms from 2019 through 2020. The open positions and their responsibilities are detailed below, followed by the schedule and procedures for nominations and the election.
+Positions on the executive are staggered two-year terms, such that no more than half of the Committee will be new in any year. Towards the end of every calendar year, TDWG holds elections for terms that are expiring and need to be filled for the coming year. Officers elected this year will serve terms from 2020 through 2021. The open positions and their responsibilities are detailed below, followed by the schedule and procedures for nominations and the election.
 
 ## General responsibilities
 
@@ -54,7 +54,7 @@ Regional representatives give voice to the members, institutions, and projects i
 
 ## Nomination procedure
 
-To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before 1 Nov, 2019.
+To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before 10 Nov, 2019 (extended from 1 Nov).
 
 ## Election procedure
 
@@ -62,4 +62,4 @@ The TDWG Secretariat will post [nominees’ statements](https://www.tdwg.org/abo
 
 ## Deadline
 
-Nominations will be closed on 1 November. Ballots will be distributed by email shortly thereafter. The balloting period will be at least 30 days from the date of distribution.  Exact date-times will be announced via TDWG Announcements and posted here.
+Nominations will be closed on 10 November. Ballots will be distributed by email shortly thereafter. The balloting period will be at least 30 days from the date of distribution.  Exact date-times will be announced via TDWG Announcements and posted here.
