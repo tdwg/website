@@ -17,3 +17,5 @@ Heritage Library seeks a Program Manager committed to elevating current successe
 Program into the future by ensuring organizational excellence, fostering strategic partnerships, and
 embracing advances in digital technologies, information science, big data, and bioinformatics to serve the
 evolving needs of 21st century researchers.  [Read more]({static}BHL_Program_Manager_Position_Announcement.pdf).
+
+Applications are due by 18 November 2019.
