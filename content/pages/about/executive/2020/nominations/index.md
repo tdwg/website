@@ -29,6 +29,13 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 ### Simon Checksfield, CSIRO, Canberra
 
+__Background:__
+
+I have significant experience in main stream IT in the development, maintenance and implementation of Architectural Frameworks in various enterprises.  I feel I can bring these skills to bear in chairing the TDWG TAG.  Additionally I have 25+ years experience as a developer, data manager and solution architect.  In my current role as the manager of NRCA's Digital Collections and Informatics Group, I maintain daily contact with all the aspects TDWG/DwC encompass.
+
+__Vision:__
+
+With 2 years experience behind me as the TDWG Oceania representative on the executive, I feel I am in the position to understand the strategic direction of TDWG as well as the operational environment in which the TAG needs to work.  While I will not pretend to have an in depth knowledge of TDWG's technical aspects, I feel the strength of the TAG's members can make up for this, and I will be free to provide operational direction and strategic advice on the issues faced in the TAG.  While I have many ideas on how the TAG could / should work, the initial term as chair should focus on how it works now, and what may be done to improve that.  I am more than happy at a later time to outline other ideas that will come out of that period.
 
 
 ## Chair of the Functional Subcommittee for Infrastructure 
