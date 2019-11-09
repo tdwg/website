@@ -29,7 +29,9 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 ## Chair of the Functional Subcommittee for Infrastructure 
 
-### Tim Robertson, Global Biodiversity Information Facility Secretariat
+### Simon Checksfield, CSIRO, Canberra
+
+### Tim Robertson, Global Biodiversity Information Facility Secretariat, Copenhagen
 
 __Background:__  
 
@@ -46,7 +48,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ## Chair of the Functional Subcommittee for Time and Place 
 
-Patricia Mergen -- Botanical Garden, Meise; Royal Museum of Central Africa
+### Patricia Mergen -- Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren
 
 
 ## Latin America Representative 
@@ -67,3 +69,7 @@ More broadly, as member of the Executive, I will work towards a better integrati
 
 
 ## Oceania Representative 
+
+### Elycia Wallis, Atlas of Living Australia, CSIRO, Melbourne
+
+
