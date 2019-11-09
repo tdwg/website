@@ -27,9 +27,11 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 ## Chair of the Technical Architecture Group 
 
-## Chair of the Functional Subcommittee for Infrastructure 
-
 ### Simon Checksfield, CSIRO, Canberra
+
+
+
+## Chair of the Functional Subcommittee for Infrastructure 
 
 ### Tim Robertson, Global Biodiversity Information Facility Secretariat, Copenhagen
 
