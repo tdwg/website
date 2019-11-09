@@ -6,7 +6,6 @@ cover_image_by: Nathan Dumlao
 cover_image_ref: https://unsplash.com/photos/UoehHcoiMB0
 status: 
 tags: 
-page_order: 1
 ---
 
 ## Treasurer 
