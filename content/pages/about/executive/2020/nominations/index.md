@@ -62,7 +62,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ## Latin America Representative 
 
-### Paula Zermoglio, VertNet, Baraloche, Argentina
+### Paula Zermoglio, VertNet, Bariloche, Argentina
 
 __Background:__
 
