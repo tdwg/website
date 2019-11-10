@@ -10,7 +10,7 @@ tags:
 
 ## Treasurer 
 
-### William Ulate Rodriquez, Missouri Botanical Garden
+### William Ulate Rodriguez, Missouri Botanical Garden
 
 __Background:__
 
