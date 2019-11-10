@@ -58,6 +58,10 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Patricia Mergen -- Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren
 
+As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in"  or "visit"  or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues.  Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
+
+If elected, I would continue to act as a relay between potential hosts and TDWG executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push regional representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate to the annual conference and also to become active in the TG and IG.
+
 
 ## Latin America Representative 
 
