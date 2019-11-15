@@ -24,23 +24,23 @@ The following resources will help you learn about TDWG, stay aware of developmen
 
 ## Resources
 
-#### Website
+### Website
 
 This website should be the most concise introduction to TDWG, as well as a comprehensive directory to activities and resources. Please give feedback and help us maintain the content here (see [Website FAQ](website-faq/)).
 
-#### Announcements
+### Announcements
 
 Subscribe to [TDWG announcements](http://eepurl.com/8VIvn) to receive our most significant news. This mailing list is for announcements only, not discussion, so the volume is low. (_ca_. 1,000 subscribers.)
 
-#### GitHub
+### GitHub
 
 TDWG is using [GitHub](https://github.com/tdwg) as its primary collaboration platform. It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups](../community/) and [standards](../standards/) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and tasks) in that subject area. Peter Desmet gave us a nice [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) in 2016. 
 
-#### Conference proceedings
+### Conference proceedings
 
 From 2006 to 2016, TDWG has published abstracts of contributions to the annual conference (presentations, posters, demonstrations) in conference proceedings (available on [each conference page](../conferences)). Presentation files (PPT or PDF) are available for many oral presentations and posters since 2008. Recordings are available for most presentations since 2015. From 2017 going forward, our conference proceedings (abstracts of contributions) are published in our journal (below).
 
-#### Biodiversity Information Science and Standards (BISS)
+### Biodiversity Information Science and Standards (BISS)
 
 TDWG has engaged [Pensoft](https://pensoft.net/), an academic publishing company specializing in open-access semantic publishing, to publish our annual Proceedings (abstracts of contributions to the annual conference), as well as descriptions of new TDWG standards and independently contributed full-length papers in a dedicated journal [Biodiversity Information Science and Standards (BISS)](../journal/).
 
@@ -50,7 +50,7 @@ TDWG has engaged [Pensoft](https://pensoft.net/), an academic publishing company
 
 Participation is the key driver of progress in TDWG. You do not have to be a member to participate. Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas. Perhaps sooner than you expected, you might become a leader in TDWG. Consider standing for election to the [Executive Committee](executive/), stepping up to lead an [interest group](../community/), or contributing to the work of a [subcommittee](committees/).
 
-#### Conferences
+### Conferences
 
 TDWG's [annual conferences](../conferences) are usually held in the fall and occupy a full work week (Mon-Fri). Conference locations rotate among the continents something like "Europe, North America, and other", where "other" can be Africa, Asia, Australia/Oceania, or Latin America. Conferences typically draw between 150 and 225 participants.
 
