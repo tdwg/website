@@ -84,4 +84,16 @@ More broadly, as member of the Executive, I will work towards a better integrati
 
 ### Elycia Wallis, Atlas of Living Australia, CSIRO, Melbourne
 
+__Background:__
+
+My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website https://collections.museumvictoria.com.au/ and the Field Guide apps for Australia https://museumsvictoria.com.au/apps/ 
+
+I have now  joined the Atlas of Living Australia team https://www.ala.org.au/ as the Collections Community Engagement Manager and leader of the Projects team. As Engagement Manager, I work with the Museums and Herbaria around Australia and New Zealand to share knowledge and work to continuously improve data standards, data pipelines, and data quality. 
+
+My other passion is for the Biodiversity Heritage Library https://www.biodiversitylibrary.org/ and I led the Australian project for a number of years. The Australian BHL has always been proud of the amount it has achieved with a small staff and a number of fabulous volunteers and continues to go from strength to strength. 
+
+__Vision:__
+
+The advantages of technology are many, but one that we haven’t yet fully overcome is the challenge of timezones and distance. I am often amazed at being able to talk with – and see – colleagues on the other side of the world and think that we are all the richer for being able to communicate in a way that would have been unthinkable just a few years ago. Timezones being what they are that communication does come at a price – which is usually a very early morning for some, and a late night for others. My initial focus will be on communication within the Oceania region; and I will work hard to ensure that the work of TDWG is disseminated widely and that I can represent the interests of the region back to the TDWG Executive. 
+
 
