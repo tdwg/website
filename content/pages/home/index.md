@@ -9,11 +9,11 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG 2019 @ biodiversity_next
-alert_text: TDWG and partners will meet in Leiden at biodiversity_next, 22-25 Oct, 2019, with pre-conference meetings 20-21. Registration is now open. Discounts are limited by number rather than by date, so register earlier to save.
-alert_button: Register now
-alert_link: https://biodiversitynext.org/register-now/
-alert_image: https://static.tdwg.org/images/2019conference/bdn_header_twitter_v2_700.png
+alert_title: Biodiversity Summit 2020
+alert_text: iDigBio, National Museum of Natural History – Smithsonian (NMNH), Global Biodiversity Information Facility (GBIF), and Biodiversity Information Standards (TDWG) are pleased to announce and invite you to Biodiversity Summit 2020, to be held 20-25 September 2020 in Alexandria, VA, USA, just outside of Washington, DC.
+alert_button: Learn more
+alert_link: https://www.idigbio.org/content/biodiversity-summit-2020
+alert_image: https://www.idigbio.org/sites/default/files/sites/default/files/general-photos/Summit2020/BannerLargeWeb.jpg
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
