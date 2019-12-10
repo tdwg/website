@@ -13,7 +13,7 @@ alert_title: Biodiversity Summit 2020
 alert_text: iDigBio, National Museum of Natural History – Smithsonian (NMNH), Global Biodiversity Information Facility (GBIF), and Biodiversity Information Standards (TDWG) are pleased to announce and invite you to Biodiversity Summit 2020, to be held 20-25 September 2020 in Alexandria, VA, USA, just outside of Washington, DC.
 alert_button: Learn more
 alert_link: https://www.idigbio.org/content/biodiversity-summit-2020
-alert_image: https://www.idigbio.org/sites/default/files/sites/default/files/general-photos/Summit2020/BannerLargeWeb.jpg
+alert_image: https://static.tdwg.org/conferences/2020/Banner2020_TDWG-home-alertbox.jpg
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
