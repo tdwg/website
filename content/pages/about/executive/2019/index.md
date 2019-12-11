@@ -9,6 +9,8 @@ tags:
 page_order: 3
 ---
 
+### Managing officers
+
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Chair | [James Macklin](mailto:james.macklin@agr.gc.ca) | Agriculture and Agri-Food Canada, ON, Canada | 2019-2020
