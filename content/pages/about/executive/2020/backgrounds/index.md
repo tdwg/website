@@ -1,5 +1,5 @@
 ---
-title: Background and visions statements
+title: Background and vision statements
 summary: Nominations for Executive Committee Officers, 2020-2021
 cover_image: https://images.unsplash.com/photo-1496374200594-218d93021c8c
 cover_image_by: Nathan Dumlao
@@ -10,7 +10,8 @@ tags:
 
 ## Treasurer 
 
-### William Ulate Rodriguez, Missouri Botanical Garden, St. Louis
+### William Ulate Rodriguez
+__Missouri Botanical Garden, St. Louis__
 
 __Background:__
 
