@@ -54,3 +54,5 @@ Role | Name | Affiliation
 --- | --- | ---
 Conference Program Committee Co-Chair | [Gail Kampmeier](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
 Administrator, TDWG Secretariat | [Stan Blum](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
+
+---
