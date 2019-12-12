@@ -76,7 +76,7 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 # Subcommittee chairs
 
-## Chair, Technical Architecture Group
+## Technical Architecture Group
 
 ### Simon Checksfield
 
@@ -91,7 +91,7 @@ __Vision:__
 With 2 years experience behind me as the TDWG Oceania representative on the executive, I feel I am in the position to understand the strategic direction of TDWG as well as the operational environment in which the TAG needs to work.  While I will not pretend to have an in depth knowledge of TDWG's technical aspects, I feel the strength of the TAG's members can make up for this, and I will be free to provide operational direction and strategic advice on the issues faced in the TAG.  While I have many ideas on how the TAG could / should work, the initial term as chair should focus on how it works now, and what may be done to improve that.  I am more than happy at a later time to outline other ideas that will come out of that period.
 
 
-## Chair, Subcommittee for Infrastructure 
+## Infrastructure 
 
 ### Tim Robertson 
 
@@ -109,7 +109,7 @@ __A (deliberately modest) vision:__
 
 The TDWG community require a stable and simple infrastructure that is intuitive to use. The recent adoption of GitHub for the working groups and website content, along with the mailing lists, tools for conference registration and our journal partnership are – in my opinion – the correct level of infrastructure for TDWG to operate effectively. I see the current role of the committee to continue ensuring the existing processes operate smoothly and be ready to explore emerging needs, but do not see it necessary to make significant changes at this point.
 
-## Chair, Subcommittee for Communications and Outreach
+## Communications and Outreach
 
 ### Prabhakar Rajagopal 
 
@@ -133,7 +133,7 @@ I have been involved in TDWG since 2014. I would like to build a team from membe
 - They will document and report all TDWG conducted and upcoming outreach and communication activities through the newly launched and website for global visibility
 
 
-## Chair, Subcommittee for Fundraising and Partnernships
+## Fundraising and Partnernships
 
 ### Connie Rinaldo 
 
@@ -152,7 +152,7 @@ The mission for this subcommittee states that “FPFS will work together with TD
 A long-term vision is to reinforce the visibility of TDWG across the globe, establish strong new alliances and nurture current relationships to secure funding and support.   My key goal for the upcoming year is to establish a strong committee to work with the Executive Committee to reach this vision.
 
 
-## Chair, Subcommittee for Time and Place
+## Time and Place
 
 ### Patricia Mergen
 
@@ -161,6 +161,7 @@ __Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium__
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in"  or "visit"  or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues.  Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
 If elected, I would continue to act as a relay between potential hosts and TDWG executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push regional representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate to the annual conference and also to become active in the TG and IG.
+
 
 # Regional representatives
 
