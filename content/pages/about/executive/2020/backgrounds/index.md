@@ -1,6 +1,6 @@
 ---
 title: Background and vision statements
-summary: Nominations for Executive Committee Officers, 2020-2021
+summary: Executive Committee officers, 2020
 cover_image: https://images.unsplash.com/photo-1496374200594-218d93021c8c
 cover_image_by: Nathan Dumlao
 cover_image_ref: https://unsplash.com/photos/UoehHcoiMB0
