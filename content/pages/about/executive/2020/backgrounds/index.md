@@ -229,7 +229,7 @@ __Vision statement for the position__
 __Naturalis Biodiversity Center, Leiden, The Netherlands__
 
 
-## Latin America Representative 
+## Latin America representative 
 
 ### Paula Zermoglio
 
