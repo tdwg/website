@@ -5,7 +5,7 @@ cover_image: https://images.unsplash.com/photo-1519409369806-8e923ea66184
 cover_image_by: Justyn Warner
 cover_image_ref: https://unsplash.com/photos/TzQZTfkanPA
 tags: interest group
-github: https://github.com/tdwg/paleo
+github: https://github.com/tdwg/esp
 ---
 
 ## Convenor
@@ -62,4 +62,4 @@ Mareike Petersen | Museum für Naturkunde, Berlin, Germany
 
 ## 7. Resources
 
-- Git hub repository at https://github.com/tdwg/paleo  
+- Git hub repository at https://github.com/tdwg/esp  
