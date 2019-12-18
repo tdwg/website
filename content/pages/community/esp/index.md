@@ -1,6 +1,6 @@
 ---
 title: Earth Sciences and Paleobiology
-summary: 
+summary: The ESP interest group addresses data standards and best practices concerning material samples acquired in support of earth science and paleobiology research. Our work will apply emerging methods in data integration, linked open data, and geographic information systems with long established disciplines in earth sciences, including paleontology, chronostratigraphy, and mineralogy. 
 cover_image: https://images.unsplash.com/photo-1519409369806-8e923ea66184
 cover_image_by: Justyn Warner
 cover_image_ref: https://unsplash.com/photos/TzQZTfkanPA
@@ -8,7 +8,7 @@ tags: interest group
 github: https://github.com/tdwg/esp
 ---
 
-## Convenor
+## 1. Convenor
 
 [Denné Reed](mailto:reedd@austin.utexas.edu)  
 Dept. of Anthropology  
@@ -17,7 +17,7 @@ University of Texas at Austin
 Austin, TX 78712, USA  
 <http://paleocore.org>
 
-## Core members
+## 2. Core members
 
 Name | Affiliation
 --- | ---
