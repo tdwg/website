@@ -10,11 +10,8 @@ github: https://github.com/tdwg/tnc
 
 ## Convener
 
-[Richard L. Pyle](deepreef@bishopmuseum.org)  
-Database Coordinator for Natural Sciences and Associate Zoologist  
-Ichthyology Department of Natural Sciences, Bishop Museum  
-1525 Bernice St., Honolulu, HI 96817  
-<http://hbs.bishopmuseum.org/staff/pylerichard.html>
+[Niels Klazenga](Niels.Klazenga@rbg.vic.gov.au)  
+Royal botanic Gardens Victoria
 
 ## Summary
 
