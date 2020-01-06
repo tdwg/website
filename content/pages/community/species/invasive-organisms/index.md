@@ -30,6 +30,11 @@ Ex-officio members from the [Biodiversity Data Quality IG](../../bdq/):
 * Arthur Chapman
 * Antonio Saraiva
 
+## News
+The Task Group has published its proposals in the journal Biodiversity Information Science and Standards. These proposals are now open for public comment. When this period is over they will be presented to the Executive Commitee for final approval.
+
+* Groom Q, Desmet P, Reyserhove L, Adriaens T, Oldoni D, Vanderhoeven S, Baskauf SJ, Chapman A, McGeoch M, Walls R, Wieczorek J, Wilson JR.U, Zermoglio PFF, Simpson A (2019) Improving Darwin Core for research and management of alien species. Biodiversity Information Science and Standards 3: e38084. [https://doi.org/10.3897/biss.3.38084](https://doi.org/10.3897/biss.3.38084)
+
 ## Motivation  
 
 Many reasons are driving our need to understand the dynamics of living systems. These reasons include the problems of invasive species and emerging wildlife disease, but also population shifts driven by climate and other environmental changes. Determining risks, impacts and providing early warnings of change make particular requirements on the quality of biodiversity observation data. For example, it is necessary to know where taxa occur and where they are native. We need to know the anthropogenic dispersal vectors and routes, and we need to know how well established they are in their locations.
