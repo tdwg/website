@@ -6,7 +6,7 @@ cover_image_by: Justyn Warner
 cover_image_ref: https://unsplash.com/photos/TzQZTfkanPA
 tags: interest group
 github: https://github.com/tdwg/esp
-status: draft
+status: published
 ---
 
 # Extension for Geosciences (EFG) 
