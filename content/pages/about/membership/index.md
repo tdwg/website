@@ -54,7 +54,7 @@ Membership dues can be paid:
 | National Research Collections Australia CSIRO | 	Canberra |
 | New York Botanical Garden | 	The Bronx, NY |
 | Research Institute for Nature and Forest (EV INBO) | 	Brussels |
-| Royal Botanic Gardens Kew |   Richmond London |
-| Royal Botanic Gardens Melbourne | 	Melbourne |
-| The Royal Botanic Garden Edinburgh | 	Edinburgh |
+| Royal Botanic Gardens, Kew |   Richmond London |
+| Royal Botanic Gardens, Melbourne | 	Melbourne |
+| The Royal Botanic Garden, Edinburgh | 	Edinburgh |
   
