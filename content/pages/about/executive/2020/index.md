@@ -5,8 +5,8 @@ cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
 cover_image_by: Tim Graf
 cover_image_ref: https://unsplash.com/photos/ErO0E8wZaTA
 tags: 
-status: published
-page_order: 1
+status: hidden
+page_order: 28
 ---
 
 ## Executive Committee 2020
