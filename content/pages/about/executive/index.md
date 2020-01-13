@@ -41,18 +41,18 @@ Functional subcommittee | Name | Affiliation | Term of office
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Africa | [Brenda Daly]() [✉️](mailto:B.Daly@sanbi.org.za) | South African National Biodiversity Institute, Cape Town, South Africa (SANBI) | 2019-2020
-Asia | [Ji Liqiang]() [✉️](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2019-2020
-Europe | [Wouter Addink]() [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2019-2020
-Latin America | [Paula Zermoglio]() [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
-North America | [Holly Little]() [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2019-2020
-Oceania | [Elycia (Ely) Wallis]() [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2020-2021
+Africa | [Brenda Daly](./backgrounds/#africa%20representative_1) [✉️](mailto:B.Daly@sanbi.org.za) | South African National Biodiversity Institute, Cape Town, South Africa (SANBI) | 2019-2020
+Asia | [Ji Liqiang](./backgrounds/#asia%20representative_1) [✉️](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2019-2020
+Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2019-2020
+Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
+North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2019-2020
+Oceania | [Elycia (Ely) Wallis](./backgrounds/#oceania%20representative_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2020-2021
 
 ### Regularly invited participants (non-voting)
 
 Role | Name | Affiliation
 --- | --- | ---
-Conference Program Committee Co-Chair | [Gail Kampmeier] [✉️](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
-Administrator, TDWG Secretariat | [Stan Blum] [✉️](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
+Conference Program Committee Co-Chair | Gail Kampmeier [✉️](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
+Administrator, TDWG Secretariat | Stan Blum [✉️](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
 
 --- 
