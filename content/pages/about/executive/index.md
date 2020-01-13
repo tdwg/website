@@ -23,7 +23,7 @@ Term of office shown as span of calendar years, inclusive.
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Chair | James Macklin [✉️](mailto:james.macklin@agr.gc.ca) | Agriculture and Agri-Food Canada, ON, Canada | 2019-2020
-Deputy Chair | [Deb Paul] [✉️](mailto:dpaul@fsu.edu) | iDibBio, Florida State University, Tallahassee FL USA | 2019-2020
+Deputy Chair | [Deb Paul](./2020/backgrounds/#deputy%20chair_1) [✉️](mailto:dpaul@fsu.edu) | iDibBio, Florida State University, Tallahassee FL USA | 2019-2020
 Secretary | [Quentin Groom] [✉️](mailto:secretary@tdwg.org) | Botanic Garden Meise, Belgium | 2019-2020
 Treasurer | [William Ulate] [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
 
