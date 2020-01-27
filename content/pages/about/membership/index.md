@@ -52,6 +52,7 @@ Membership dues can be paid:
 | Botanic Garden and Botanical Museum |   Berlin |
 | Centre for Australian National Biodiversity Research |  Canberra |
 | Cornell Lab of Ornithology | 	Ithaca, NY |
+| Finnish Museum of Natural History |   Helsinki |
 | Global Biodiversity Information Facility (GBIF) |   Copenhagen |
 | Harvard University/Ernst Mayr Library/Museum of Comparative Zoology |   Cambridge, MA |
 | Illinois Natural History Survey |   Champaign, IL |
@@ -61,6 +62,7 @@ Membership dues can be paid:
 | National Research Collections Australia CSIRO | 	Canberra |
 | Naturalis Biodiversity Center |   Leiden |
 | New York Botanical Garden | 	The Bronx, NY |
+| PLAZI |   Bern |
 | Research Institute for Nature and Forest (EV INBO) | 	Brussels |
 | Royal Botanic Gardens, Kew |   Richmond London |
 | Royal Botanic Gardens, Melbourne | 	Melbourne |
