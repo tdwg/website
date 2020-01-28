@@ -12,10 +12,10 @@ github:
 
 ## Convener
 
-Robert A. Morris  
-Department of Computer Science, University of Massachusetts/Boston;  
-100 Morrissey Blvd; Boston, MA 02125, USA  
-Email: name [at] cs.umb.edu, replace "name" with "ram"
+[Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu)
+Data Science and Data Curation Specialist
+Jean & Alexander Heard Libraries, Vanderbilt University
+Nashville, TN 37235, USA
 
 ## Purpose
 
