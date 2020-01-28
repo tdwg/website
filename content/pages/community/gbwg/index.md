@@ -12,9 +12,9 @@ github:
 
 ## Conveners
 
-* Gabi Dröge (G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
-* Ramona Walls (rlwalls@email.arizona.edu), Bio5 Institute University of Arizona
-* John Deck (jdeck88@gmail.com), University of California at Berkeley
+* [Gabi Dröge](mailto:G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
+* [Ramona Walls](mailto:rlwalls@email.arizona.edu), Bio5 Institute University of Arizona
+* [John Deck](mailto:jdeck88@gmail.com), University of California at Berkeley
 
 ## Core members
 
