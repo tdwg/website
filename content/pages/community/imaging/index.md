@@ -12,9 +12,9 @@ github:
 
 ## Convener
 
-[Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu)
-Data Science and Data Curation Specialist
-Jean & Alexander Heard Libraries, Vanderbilt University
+[Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu) 
+Data Science and Data Curation Specialist 
+Jean & Alexander Heard Libraries, Vanderbilt University 
 Nashville, TN 37235, USA
 
 ## Purpose
