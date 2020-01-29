@@ -7,6 +7,12 @@ cover_image_ref: https://unsplash.com/photos/B3ruHb3c8jk
 tags: functional subcommittee, charter
 ---
 
+## Chair
+
+[Connie Rinaldo](mailto:crinaldo@oeb.harvard.edu), Elected Term: 2019-2020  
+Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University   
+Cambridge, MA, USA  
+
 ## Mission
 
 The purpose of the Fundraising and Partnership Functional Subcommittee is to work with the TDWG executive committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.
