@@ -8,6 +8,12 @@ tags: functional subcommittee, charter
 github: https://github.com/tdwg/infrastructure
 ---
 
+## Chair
+
+[Tim Robertson](mailto:), Elected Term: 2020-2021  
+Global Biodiversity Information Facility  
+Copenhagen, Denmark  
+
 ## Mission
 
 The purpose of the Infrastructure Functional Subcommittee is to maintain the software tools required to support the operation of TDWG.
