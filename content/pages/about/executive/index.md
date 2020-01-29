@@ -33,7 +33,7 @@ Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
 [Technical Architecture Group](../committees/tag/) | [Simon Checksfield](./backgrounds/#technical%20architecture%20group_1) [✉️](mailto:simon.checksfield@csiro.au) | CSIRO, Australia | 2020-2021
 [Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2019-2020
-[Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2018-2019
+[Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2020-2021
 [Outreach and Communications](../committees/outreach/) | [Prabhakar Rajagopal](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2019-2020
 [Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2020-2021
 
