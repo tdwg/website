@@ -8,6 +8,12 @@ tags: functional subcommittee, charter
 github: https://github.com/tdwg/tag
 ---
 
+## Chair
+
+[Simon Checksfield](mailto:), Elected Term: 2020-2021  
+Commonwealth Scientific and Industrial Research Organisation (CSIRO)  
+Canberra, Australia  
+
 ## Mission
 
 The purpose of the Technical Architecture Group (TAG) is to guide ongoing development of the TDWG technical architecture and advise the Executive and membership on matters relating to the principles, strategies and practice for maintaining the common technical framework essential to TDWG's mission to develop, adopt and promote standards and practice for the recording and exchange of biodiversity data.
