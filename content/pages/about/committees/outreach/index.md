@@ -7,6 +7,12 @@ cover_image_ref: https://unsplash.com/photos/1Q1P_XpWylY
 tags: functional subcommittee, charter
 ---
 
+## Chair
+
+[Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com), Elected Term: 2019-2020  
+Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE)  
+Bangalore, India  
+
 ## Mission
 
 The purpose of the Outreach and communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
