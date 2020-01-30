@@ -1,9 +1,9 @@
 ---
 title: Best practices for development of vocabularies of values ("Vocabularies")
 summary: The Vocabularies Task Group (TG4) of the Biodiversity Data Quality Interest Group is exploring the approaches and technologies TDWG might use to manage vocabularies of data terms and values.
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1580407196238-dac33f57c410
+cover_image_by: [Wolfgang Hasselman](https://unsplash.com/@wolfgang_hasselmann)
+cover_image_ref: https://unsplash.com/photos/6JZJyHXQ-p0https://unsplash.com/photos/6JZJyHXQ-p0
 tags: task group
 github: https://github.com/tdwg/bdq/tree/master/tg4
 status: published
