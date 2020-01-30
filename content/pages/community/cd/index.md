@@ -14,9 +14,9 @@ TDWG Interest Group
 
 ## Conveners
 
-Deborah Paul (dpaul@fsu.edu)
+[Deborah Paul](mailto:dpaul@fsu.edu), Florida State University, Tallahassee FL
 
-Matt Woodburn (m.woodburn@nhm.ac.uk)
+[Matt Woodburn](mailto:m.woodburn@nhm.ac.uk), Natural History Museum, London
 
 (Past Co-convener, Alex Thompson)
 
