@@ -5,7 +5,7 @@ cover_image:
 cover_image_by: 
 cover_image_ref: 
 tags: task group
-github: 
+github: https://github.com/tdwg/bdq/tree/master/tg4
 ---
 
 The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), as well as the steps to produce them are described here.
