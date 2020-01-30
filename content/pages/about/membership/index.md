@@ -46,9 +46,10 @@ Membership dues can be paid:
 | Institution Name | City |
 | :--- | :--- |
 | Atlas of Living Australia |   Canberra |
+| Belgian Biodiversity Platform |   Brussels |
 | Biodiversity Heritage Library | 	Washington, DC |
 | Biodiversity Institute, Univ of Kansas | 	Lawrence, KS |
-| Bernice Pauahi Bishop Museum |  Honolulu, HI |
+| Bishop Museum |  Honolulu, HI |
 | Botanic Garden and Botanical Museum |   Berlin |
 | Centre for Australian National Biodiversity Research |  Canberra |
 | Cornell Lab of Ornithology | 	Ithaca, NY |
