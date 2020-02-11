@@ -22,7 +22,7 @@ TDWG Interest (IG) and Task (TG) Groups undertake the core business of developin
 
 TDWG IG/TG conveners may apply for funds to (co-)organize IG/TG working meetings.
 
-Please be aware that proposals from Groups that have a current annual report will be given preference. Instructions and a template for IG/TG annual reports is linked under item 6 on the [Convener Responsibilities](http://www.tdwg.org/activities/comm-support-fund/activities/convener-responsibilities/) page. 
+Please be aware that proposals from Groups that have a current annual report will be given preference. Instructions and a template for IG/TG annual reports is linked under item 6 on the [Community Management](../management) page. 
 
 ## Call frequency
 
