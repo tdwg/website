@@ -61,6 +61,7 @@ Membership dues can be paid:
 | Illinois Natural History Survey |   Champaign, IL |
 | Missouri Botanical Garden | 	St Louis, MO |
 | Museum Victoria |   Melbourne |
+| National Museum / Národní Muzeum |  Prague |
 | National Museum of Natural History |  Washington, DC |
 | National Museums Scotland | 	Edinburgh |
 | National Research Collections Australia CSIRO | 	Canberra |
