@@ -10,7 +10,7 @@ page_order: 102
 
 ## What is the TDWG Community Support Fund?
 
-TDWG Interest (IG) and Task (TG) Groups undertake the core business of developing, maintaining, and integrating biodiversity information standards. TDWG is committed to supporting the work of I/TGs by contributing to the costs of conducting working meetings. Support is provided through a fund dedicated to this purpose, the TDWG Community Support Fund (CSF). The size of the Fund is adjusted yearly by decision of the TDWG Executive Committee.
+TDWG Interest (IG) and Task (TG) Groups are the organizaitonal entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of I/TGs by contributing to the costs of convening ore or two working meetings.
 
 ## What does the TDWG CSF cover?
 
@@ -22,7 +22,7 @@ TDWG Interest (IG) and Task (TG) Groups undertake the core business of developin
 
 TDWG IG/TG conveners may apply for funds to (co-)organize IG/TG working meetings.
 
-Please be aware that proposals from Groups that have a current annual report will be given preference. Instructions and a template for IG/TG annual reports is linked under item 6 on the [Community Management](../management) page. 
+Please be aware that proposals from Groups that have a current annual report will be given preference. A [guide to reporting](../management/guide-to-reporting) and a template for IG/TG annual reports (as [GoogleDoc](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) or in [Markdown](../management/annual-report-template/). (See [Responsibilities of conveners](../management) for a more comprehensive enumeration of responsibilities.)  
 
 ## Call frequency
 
