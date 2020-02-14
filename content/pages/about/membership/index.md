@@ -60,6 +60,7 @@ Membership dues can be paid:
 | Harvard University/Ernst Mayr Library/Museum of Comparative Zoology |   Cambridge, MA |
 | Illinois Natural History Survey |   Champaign, IL |
 | Missouri Botanical Garden | 	St Louis, MO |
+| Museum of Natural Sciences / Museu de Ciències Naturals |   Barcelona |
 | Museum Victoria |   Melbourne |
 | National Museum / Národní Muzeum |  Prague |
 | National Museum of Natural History |  Washington, DC |
