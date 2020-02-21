@@ -18,7 +18,7 @@ In the past, members of an interest or task group collaborated through face to f
 
 ## Community support fund
 
-TDWG is committed to supporting the work of I/TGs by contributing to the costs of up to two working meetings a year. The size of the fund is adjusted yearly by decision of the TDWG Executive Committee. Additional information about the CSF, including how to apply, can be found  [here](./support). Applications are usually solicited early in the calendar year through an announcement to I/TG conveners.
+TDWG is committed to supporting the work of I/TGs by contributing to the costs of up to two working meetings a year. The size of the fund is adjusted yearly by decision of the TDWG Executive Committee. Applications are usually solicited early in the calendar year through an announcement to I/TG conveners. [Read more](./support).
 
 # Interest and task groups
 
