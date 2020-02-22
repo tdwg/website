@@ -51,6 +51,7 @@ Membership dues can be paid:
 | Biodiversity Institute, Univ of Kansas | 	Lawrence, KS |
 | Bishop Museum |  Honolulu, HI |
 | Botanic Garden and Botanical Museum |   Berlin |
+| California Academy of Sciences |  San Francisco, CA |
 | Centre for Australian National Biodiversity Research |  Canberra |
 | Cornell Lab of Ornithology | 	Ithaca, NY |
 | Field Museum |  Chicago, IL |
@@ -69,6 +70,7 @@ Membership dues can be paid:
 | Naturalis Biodiversity Center |   Leiden |
 | NatureServe |   Arlington, VA |
 | New York Botanical Garden | 	The Bronx, NY |
+| Botanic Garden Meise / Plantentuin Meise |  Meise Belgium |
 | PLAZI |   Bern |
 | Research Institute for Nature and Forest (EV INBO) | 	Brussels |
 | Royal Botanic Garden, Edinburgh | 	Edinburgh |
