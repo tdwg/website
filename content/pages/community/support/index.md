@@ -46,7 +46,7 @@ Following successful completion of TDWG CSF-supported working meetings, the Conv
 
 ## Review and notification
 
-Applications received by the deadline will be reviewed by TDWG Executive Committee and evaluated against the criteria set forth [above](./#evaluation-criteria). Following the completion of the review, applicants will be notified of their scores and the Committee's decision. Successful proposals will be communicated to the TDWG membership and posted on the TDWG website.
+Applications received by the deadline will be reviewed by TDWG Executive Committee and evaluated against the criteria set forth above. Following the completion of the review, applicants will be notified of their scores and the Committee's decision. Successful proposals will be communicated to the TDWG membership and posted on the TDWG website.
 
 ## Application form
 
