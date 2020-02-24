@@ -28,7 +28,7 @@ Please be aware that proposals from Groups that have a current annual report wil
 
 Provided that sufficient resources are available, a call for applications will be announced at least once every calendar year.
 
-## Criteria for awarding TDWG CSF
+## Evaluation criteria
 
 1. Previous activity of the Group, proven through annual reports submitted to the TDWG Executive Committee or other public reports and products (not applicable to new Groups*)
 1. Overall impact, timeliness and cost efficiency
@@ -44,9 +44,9 @@ The maximum amount of funds awarded per proposal is USD $3,000.
 
 Following successful completion of TDWG CSF-supported working meetings, the Convener must report to the TDWG Executive Committee key outputs and action items. Reports must be submitted within 30 days after the event date.
 
-## Review and scoring process
+## Review and notification
 
-Applications received by the deadline will be reviewed by TDWG Executive Committee and evaluated against the criteria set forth in the call (see section 5). Following the completion of the review, applicants will be notified of their scores and the Committee's decision. Successful proposals will be communicated to the TDWG membership and posted on the TDWG website.
+Applications received by the deadline will be reviewed by TDWG Executive Committee and evaluated against the criteria set forth [above](./#evaluation-criteria). Following the completion of the review, applicants will be notified of their scores and the Committee's decision. Successful proposals will be communicated to the TDWG membership and posted on the TDWG website.
 
 ## Application form
 
