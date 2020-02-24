@@ -10,7 +10,7 @@ page_order: 102
 
 ## What is the TDWG Community Support Fund?
 
-TDWG Interest (IG) and Task (TG) Groups are the organizaitonal entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of I/TGs by contributing to the costs of convening ore or two working meetings.
+TDWG Interest (IG) and Task (TG) Groups are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of IG/TGs by contributing to the costs of convening one or two working meetings.
 
 ## What does the TDWG CSF cover?
 
@@ -42,7 +42,7 @@ _New Groups are here defined as formally endorsed IG and TG with less than a yea
 
 The maximum amount of funds awarded per proposal is USD $3,000.
 
-Following successful completion of TDWG CSF-supported working meetings, the I/G Convener must report to the TDWG Executive Committee key outputs and action items. Reports must be submitted within 30 days after the event date.
+Following successful completion of TDWG CSF-supported working meetings, the Convener must report to the TDWG Executive Committee key outputs and action items. Reports must be submitted within 30 days after the event date.
 
 ## Review and scoring process
 
