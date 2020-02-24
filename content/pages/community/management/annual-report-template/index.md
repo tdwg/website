@@ -27,8 +27,7 @@ _Text formatted as code block, i.e., between and including three back-ticks (\`\
 
 ## Phase of work:  
 ```
-Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if
-group in pursuing more than one goal.  Examples:  
+Enter a phrase or sentence that describes the current phase of work.  Repeat as appropriate if group is pursuing more than one goal.  Examples:  
 
 - Research and Planning: gathering requirements, evaluating approaches and methodologies, 
   developing plans  
