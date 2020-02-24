@@ -10,7 +10,7 @@ page_order: 102
 
 ## What is the TDWG Community Support Fund?
 
-TDWG Interest (IG) and Task (TG) Groups are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of IG/TGs by contributing to the costs of convening one or two working meetings.
+TDWG [Interest (IG) and Task (TG) Groups](/community/#interest-group) are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of IG/TGs by contributing to the costs of convening one or two working meetings.
 
 ## What does the TDWG CSF cover?
 
