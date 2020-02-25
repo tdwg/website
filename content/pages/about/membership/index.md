@@ -76,6 +76,6 @@ Membership dues can be paid:
 | Royal Botanic Garden, Edinburgh | 	Edinburgh |
 | Royal Botanic Gardens, Kew |   Richmond London |
 | Royal Botanic Gardens, Melbourne | 	Melbourne |
-| Swedish Museum of Natural History |   Stockholm |
+| Swedish Museum of Natural History / Naturhistoriska Riksmusee |   Stockholm |
 | Swedish Species Information Centre / ArtDatabanken |  Uppsala |
 
