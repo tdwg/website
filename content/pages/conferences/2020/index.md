@@ -1,8 +1,8 @@
 ---
 title: 2020 - Alexandria, Virginia USA
 summary: TDWG 2020 Annual Conference - Arlington, VA USA
-cover_image: 
-cover_image_by: 
+cover_image: https://static.tdwg.org/conferences/2020/BannerLargeWeb-1.jpg
+cover_image_by: Gil Nelson
 cover_image_ref: 
 tags: conference
 page_order: 30
