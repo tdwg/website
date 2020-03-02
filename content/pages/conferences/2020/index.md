@@ -18,7 +18,7 @@ The 2020 Annual TDWG conference is being organized jointly by [iDigBio](https://
 
 | **DATE** | **EVENT** |
 | --- | --- |
-| **03 Feb, 2020** | **Registration opens; [Call for abstracts](https://mailchi.mp/f2de53159899/biodiversity-summit-2020-registration-and-call-for-abstracts-now-open?e=[UNIQID])** |
+| **03 Feb, 2020** | **[Registration opens](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445); [Call for abstracts](https://mailchi.mp/f2de53159899/biodiversity-summit-2020-registration-and-call-for-abstracts-now-open?e=[UNIQID])** |
 |                  | Registration is free, but all participants must register. |  
 | **31 Mar, 2020** | **Deadline for abstracts** |  
 |                  | Abstracts are required for contributed papers and posters |  
