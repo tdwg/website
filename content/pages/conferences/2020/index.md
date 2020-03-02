@@ -1,6 +1,6 @@
 ---
 title: 2020 - Alexandria, Virginia USA
-summary: TDWG 2020 Annual Conference - Arlington, VA USA
+summary: TDWG 2020 Annual Conference - Alexandria, VA USA
 cover_image: https://static.tdwg.org/conferences/2020/BannerLargeWeb-1.jpg
 cover_image_by: Gil Nelson
 cover_image_ref: 
@@ -30,7 +30,7 @@ The 2020 Annual TDWG conference is being organized jointly by [iDigBio](https://
 |                  | TDWG working group meetings |  
 |                  | iDigBio orientation day for new TCNs and PENs |  
 | **23-25 Sep, 2020** | **Biodiversity Summit 2020** |  
-|                     | Plennary sessions, parallel sessions, posters |  
+|                     | Plenary sessions, parallel sessions, posters |  
 
 
 
