@@ -8,7 +8,7 @@ tags: conference
 page_order: 30
 ---
 
-# TDWG 2020 annual conference - Arlington, VA USA
+# TDWG 2020 annual conference - Alexandria, VA USA
 
 The 2020 Annual TDWG conference is being organized jointly by [iDigBio](https://www.idigbio.org/), [GBIF](https://www.gbif.org/), and TDWG, with [National Museum of Natural History](https://naturalhistory.si.edu/) (Smithsonian) contributing as local host.  The conference will be held at the [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/).
 
