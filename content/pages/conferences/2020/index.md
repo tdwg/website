@@ -16,8 +16,10 @@ The 2020 Annual TDWG conference is being organized jointly by [iDigBio](https://
 
 # Dates to remember
 
-| **03 Feb, 2020** | **Registration opens** |  
-|                  | Registration is free, but all participants must register. |  
+| **DATE** | **EVENT** |
+| --- | --- |
+| **03 Feb, 2020** | **Registration opens** </BR >
+                     Registration is free, but all participants must register. |  
 | **31 Mar, 2020** | **Deadline for abstracts** |  
 |                  | Abstracts are required for contributed papers and posters |  
 | **20 Sep, 2020** | GBIF Executive and standing committee meetings |  
