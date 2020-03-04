@@ -60,6 +60,7 @@ Membership dues can be paid:
 | Global Biodiversity Information Facility (GBIF) |   Copenhagen |
 | Harvard University/Ernst Mayr Library/Museum of Comparative Zoology |   Cambridge, MA |
 | Illinois Natural History Survey |   Champaign, IL |
+| Institute of Zoology, Chinese Academy of Sciences | Beijing |
 | Missouri Botanical Garden | 	St Louis, MO |
 | Museum of Natural Sciences / Museu de Ciències Naturals |   Barcelona |
 | Museum Victoria |   Melbourne |
