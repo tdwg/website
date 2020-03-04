@@ -45,39 +45,39 @@ Membership dues can be paid:
 
 | Institution Name | City |
 | :--- | :--- |
-| Atlas of Living Australia |   Canberra |
-| Belgian Biodiversity Platform |   Brussels |
-| Biodiversity Heritage Library | 	Washington, DC |
-| Biodiversity Institute, Univ of Kansas | 	Lawrence, KS |
-| Bishop Museum |  Honolulu, HI |
-| Botanic Garden and Botanical Museum |   Berlin |
-| California Academy of Sciences |  San Francisco, CA |
-| Centre for Australian National Biodiversity Research |  Canberra |
-| Cornell Lab of Ornithology | 	Ithaca, NY |
-| Field Museum |  Chicago, IL |
-| Finnish Museum of Natural History |   Helsinki |
-| Florida Museum of Natural History | Gainesville, FL |
-| Global Biodiversity Information Facility (GBIF) |   Copenhagen |
-| Harvard University/Ernst Mayr Library/Museum of Comparative Zoology |   Cambridge, MA |
-| Illinois Natural History Survey |   Champaign, IL |
-| Institute of Zoology, Chinese Academy of Sciences | Beijing |
-| Missouri Botanical Garden | 	St Louis, MO |
-| Museum of Natural Sciences / Museu de Ciències Naturals |   Barcelona |
-| Museum Victoria |   Melbourne |
-| National Museum / Národní Muzeum |  Prague |
-| National Museum of Natural History |  Washington, DC |
-| National Museums Scotland | 	Edinburgh |
-| National Research Collections Australia CSIRO | 	Canberra |
-| Naturalis Biodiversity Center |   Leiden |
-| NatureServe |   Arlington, VA |
-| New York Botanical Garden | 	The Bronx, NY |
-| Botanic Garden Meise / Plantentuin Meise |  Meise Belgium |
-| PLAZI |   Bern |
-| Research Institute for Nature and Forest (EV INBO) | 	Brussels |
-| Royal Botanic Garden, Edinburgh | 	Edinburgh |
-| Royal Botanic Gardens, Kew |   Richmond London |
-| Royal Botanic Gardens, Melbourne | 	Melbourne |
-| Swedish Museum of Natural History / Naturhistoriska Riksmusee |   Stockholm |
-| Swedish Species Information Centre / ArtDatabanken |  Uppsala |
-| US Geological Survey |  Reston, VA |
+| [Atlas of Living Australia](https://www.ala.org.au/) |   Canberra |
+| [Belgian Biodiversity Platform](https://www.biodiversity.be/) |   Brussels |
+| [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) | 	Washington, DC |
+| [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) | 	Lawrence, KS |
+| [Bishop Museum](https://www.bishopmuseum.org/) |  Honolulu, HI |
+| [Botanic Garden and Botanical Museum](https://www.bgbm.org/) |   Berlin |
+| [California Academy of Sciences](https://www.calacademy.org) |  San Francisco, CA |
+| [Centre for Australian National Biodiversity Research](http://www.cpbr.gov.au/cpbr/) |  Canberra |
+| [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | 	Ithaca, NY |
+| [Field Museum](https://www.fieldmuseum.org/) |  Chicago, IL |
+| [Finnish Museum of Natural History](https://www.luomus.fi/en) |   Helsinki |
+| [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) | Gainesville, FL |
+| [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) |   Copenhagen |
+| [Harvard University/Ernst Mayr Library/Museum of Comparative Zoology](https://library.mcz.harvard.edu/) |   Cambridge, MA |
+| [Illinois Natural History Survey](https://www.inhs.illinois.edu/) |   Champaign, IL |
+| [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/) | Beijing |
+| [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/) | 	St Louis, MO |
+| [Museum of Natural Sciences / Museu de Ciències Naturals](https://museuciencies.cat/en/) |   Barcelona |
+| [Museum Victoria](https://museumsvictoria.com.au/) |   Melbourne |
+| [National Museum / Národní Muzeum](https://www.nm.cz/en) |  Prague |
+| [National Museum of Natural History](https://naturalhistory.si.edu/) |  Washington, DC |
+| [National Museums Scotland](https://www.nms.ac.uk/) | 	Edinburgh |
+| [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) | 	Canberra |
+| [Naturalis Biodiversity Center](https://www.naturalis.nl/en) |   Leiden |
+| [NatureServe](https://www.natureserve.org/) |   Arlington, VA |
+| [New York Botanical Garden](https://www.nybg.org/) | 	The Bronx, NY |
+| [Botanic Garden Meise / Plantentuin Meise](https://www.plantentuinmeise.be/en/home/) |  Meise Belgium |
+| [PLAZI](http://plazi.org/) |   Bern |
+| [Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) | 	Brussels |
+| [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) | 	Edinburgh |
+| [Royal Botanic Gardens, Kew](https://www.kew.org/) |   Richmond London |
+| [Royal Botanic Gardens, Melbourne](https://www.rbg.vic.gov.au/) | 	Melbourne |
+| [Swedish Museum of Natural History / Naturhistoriska Riksmusee](https://www.nrm.se/en/16.html) |   Stockholm |
+| [Swedish Species Information Centre / ArtDatabanken](https://www.artdatabanken.se/en/?menu=open) |  Uppsala |
+| [US Geological Survey](https://www.usgs.gov/) |  Reston, VA |
 
