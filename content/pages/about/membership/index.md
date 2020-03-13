@@ -46,6 +46,7 @@ Membership dues can be paid:
 | Institution Name | City |
 | :--- | :--- |
 | [Atlas of Living Australia](https://www.ala.org.au/) |   Canberra |
+| [Agriculture and Agri-Food Canada](http://www.agr.gc.ca/) |   Ottawa |
 | [Belgian Biodiversity Platform](https://www.biodiversity.be/) |   Brussels |
 | [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) | 	Washington, DC |
 | [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) | 	Lawrence, KS |
