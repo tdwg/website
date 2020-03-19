@@ -9,8 +9,8 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: Biodiversity Summit 2020 to be postponed.
-alert_text: The iDigBio, NMNH, GBIF, and TDWG conference planning committee has reluctantly decided to postpone the 2020 conference until 2021. The social disruption caused by COVID-19 is just too extensive to make any other choice. TDWG has never cancelled its annual conference before, so this is extraordinary. We are examining the feasibility of holding a virtual conference, so watch this space for news about an alternative that will enable us stay connected.
+alert_title: Biodiversity Summit 2020 postponed.
+alert_text: The iDigBio, NMNH, GBIF, and TDWG conference planning committee has reluctantly decided to postpone the 2020 conference until 2021. The social disruption caused by COVID-19 is just too extensive to make any other choice. TDWG has never cancelled its annual conference before, so this is extraordinary. We are examining the feasibility of holding a virtual conference. Watch this space for news about an alternative that will enable us stay connected.
 alert_button: Learn more
 alert_link: https://www.idigbio.org/content/biodiversity-summit-2020
 alert_image: https://static.tdwg.org/conferences/2020/Banner2020_TDWG-home-alertbox.jpg
