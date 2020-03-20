@@ -12,7 +12,7 @@ page_order: 30
 
 The 2020 Annual TDWG conference was being organized jointly by [iDigBio](https://www.idigbio.org/), [GBIF](https://www.gbif.org/), and TDWG, with [National Museum of Natural History](https://naturalhistory.si.edu/) (Smithsonian) contributing as local host.  It was to be held at the [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/). Unfortunately, the coronavirus pandemic necessitates that the conference be postponed until 2021, with the exact dates still to be determined. 
 
-TDWG is evaluating whether a virtual conference will be feasible and worthwhile as an alternative means to keep us connected and up-to-date.
+TDWG is evaluating whether a virtual conference will be feasible and worthwhile as an alternative means to keep us connected and up-to-date.  Please do not register or submit abstracts until new information is released.
 
 ## [Visit the conference website](https://www.idigbio.org/content/biodiversity-summit-2020)  
 
@@ -22,7 +22,7 @@ TDWG is evaluating whether a virtual conference will be feasible and worthwhile 
 | --- | --- |
 | **03 Feb, 2020** | **[Registration opens](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445); [Call for abstracts](https://mailchi.mp/f2de53159899/biodiversity-summit-2020-registration-and-call-for-abstracts-now-open?e=[UNIQID])** |
 |                  | Registration is free, but all participants must register. |  
-| **19 Mar, 2020   | Decision to POSTPONE until 2021 |
+| **19 Mar, 2020**   | **Decision to POSTPONE until 2021** |
 
 
 <!--  Everything below is moot
