@@ -10,7 +10,9 @@ page_order: 30
 
 # TDWG 2020 annual conference - POSTPONED
 
-The 2020 Annual TDWG conference was being organized jointly by [iDigBio](https://www.idigbio.org/), [GBIF](https://www.gbif.org/), and TDWG, with [National Museum of Natural History](https://naturalhistory.si.edu/) (Smithsonian) contributing as local host.  It was to be held at the [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/). 
+The 2020 Annual TDWG conference was being organized jointly by [iDigBio](https://www.idigbio.org/), [GBIF](https://www.gbif.org/), and TDWG, with [National Museum of Natural History](https://naturalhistory.si.edu/) (Smithsonian) contributing as local host.  It was to be held at the [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/). Unfortunately, the coronavirus pandemic necessitates that the conference be postponed until 2021, with the exact dates still to be determined. 
+
+TDWG is evaluating whether a virtual conference will be feasible and worthwhile as an alternative means to keep us connected and up-to-date.
 
 ## [Visit the conference website](https://www.idigbio.org/content/biodiversity-summit-2020)  
 
