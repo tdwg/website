@@ -60,15 +60,15 @@ The benefit of inclusion in this group is to be informed of, influence, and prom
 
 ## Resources
 
-* GGBN Website: http://www.ggbn.org/ggbn_portal/ 
-* GGBN Data Standard: https://terms.tdwg.org/wiki/GGBN_Data_Standard 
-* Genomic Standards Consortium (GSC) http://gensc.org/
-* MIxS: https://press3.mcs.anl.gov/gensc/mixs/
-* GSC GitHub organization: https://github.com/GenomicsStandardsConsortium 
-* SPREC: https://www.isber.org/page/SPREC
-* BRISQ: https://www.ncbi.nlm.nih.gov/pubmed/21433001
-* ISBER: http://www.isber.org
-* SPNHC: http://www.spnhc.org
+* [GGBN Website](http://www.ggbn.org/ggbn_portal/) 
+* [GGBN Data Standard](https://terms.tdwg.org/wiki/GGBN_Data_Standard)
+* [Genomic Standards Consortium (GSC)](http://gensc.org/)
+* [MIxS](https://press3.mcs.anl.gov/gensc/mixs/)
+* [GSC GitHub organization](https://github.com/GenomicsStandardsConsortium) 
+* [SPREC](https://www.isber.org/page/SPREC)
+* [BRISQ](https://www.ncbi.nlm.nih.gov/pubmed/21433001)
+* [ISBER](http://www.isber.org)
+* [SPNHC](http://www.spnhc.org)
 
 **Related articles:**
 
