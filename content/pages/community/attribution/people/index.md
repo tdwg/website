@@ -88,7 +88,7 @@ People are an important element in the biodiversity knowledge graph. If we are a
 
 # Resources
 
-https://www.rd-alliance.org/group/rda-tdwg-metadata-standards-attribution-physical-and-digital-collections-stewardship/outcomes
+[RDA/TDWG Attribution Metadata Working Group: Final Recommendations](https://www.rd-alliance.org/group/rda-tdwg-metadata-standards-attribution-physical-and-digital-collections-stewardship/outcomes)
 
 
 # Literature
