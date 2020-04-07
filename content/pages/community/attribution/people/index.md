@@ -19,9 +19,9 @@ Submitted: January 13, 2020
 
 # Conveners
 
-David Shorthouse (Agriculture and Agri-Food Canada, Canada) <david.shorthouse@canada.ca> 
-Quentin Groom (Meise Botanic Garden, Belgium) <quentin.groom@plantentuinmeise.be> 
-Elspeth M. Haston (Royal Botanic Garden Edinburgh, United Kingdom) <E.Haston@rbge.org.uk>
+[David Shorthouse](mailto:david.shorthouse@canada.ca) (Agriculture and Agri-Food Canada, Canada)  
+[Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) (Meise Botanic Garden, Belgium)  
+[Elspeth M. Haston](mailto:E.Haston@rbge.org.uk) (Royal Botanic Garden Edinburgh, United Kingdom)  
 
 # Member List
 
