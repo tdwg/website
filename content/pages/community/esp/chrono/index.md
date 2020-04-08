@@ -1,6 +1,16 @@
+---
+title: DarwinCore Chronometric Age Extension
+summary: This Task Group will produce a set of chronometric age terms and with them construct an extension to Darwin Core.
+cover_image: https://images.unsplash.com/photo-1580407196238-dac33f57c410
+cover_image_by: Wolfgang Hasselman
+cover_image_ref: https://unsplash.com/photos/6JZJyHXQ-p0https://unsplash.com/photos/6JZJyHXQ-p0
+tags: task group
+github: https://github.com/tdwg/esp
+status: published
+---
 
 # **Darwin Core ChronometricAge Extension** **Charter**
-A Task Group of the **** Paleobiology **** Interest Group**
+A Task Group of the **Earth Science and Paleobiology** (ESP) Interest Group**
 
 # Convenor
 
