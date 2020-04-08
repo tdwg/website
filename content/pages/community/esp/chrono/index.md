@@ -9,8 +9,8 @@ github: https://github.com/tdwg/esp
 status: published
 ---
 
-# **Darwin Core ChronometricAge Extension** **Charter**
-A Task Group of the **Earth Science and Paleobiology** (ESP) Interest Group**
+# **DarwinCore Chronometric Age Extension** **Charter**
+A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group**
 
 # Convenor
 
