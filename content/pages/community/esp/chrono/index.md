@@ -10,7 +10,7 @@ status: published
 ---
 
 # **DarwinCore Chronometric Age Extension** **Charter**
-A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group**
+A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 
 # Convenor
 
