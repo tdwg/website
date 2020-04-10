@@ -1,5 +1,5 @@
 ---
-title: DarwinCore Chronometric Age Extension
+title: Darwin Core Chronometric Age Extension
 summary: This Task Group will produce a set of chronometric age terms and with them construct an extension to Darwin Core.
 cover_image: https://images.unsplash.com/photo-1580407196238-dac33f57c410
 cover_image_by: Wolfgang Hasselman
@@ -9,7 +9,7 @@ github: https://github.com/tdwg/esp
 status: published
 ---
 
-# **DarwinCore Chronometric Age Extension** **Charter**
+# **Darwin Core Chronometric Age Extension** **Charter**
 A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 
 # Convenor
@@ -34,11 +34,11 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
 # Goals Outputs and Outcomes
 
 * Formal definitions for chronometric age terms following the Darwin Core model.  
-* Specification for a ChronometricAge extension to Darwin Core that can be used as supplementary information in a Darwin Core Archive. Depends on term definitions.  
-* Quick Reference Guide to the ChronometricAge extension following the Darwin Core Quick Reference Guide model. Depends on term definitions.  
+* Specification for a Chronometric Age extension to Darwin Core that can be used as supplementary information in a Darwin Core Archive. Depends on term definitions.  
+* Quick Reference Guide to the Chronometric Age extension following the Darwin Core Quick Reference Guide model. Depends on term definitions.  
 * All of the above have already been developed and tested with zooarchaeological and paleontological data sets published in an extension via an instance of IPT.  
 * Community discussions have suggested the need for uncertainty measures around both minimum and maximum age. We will finalize the term definitions for these and include them in the extension.  
-* We will include mappings from the ChronometricAge terms to EFG ([http://geocase.eu/efg](http://geocase.eu/efg)). This will be done in the same way that mappings between Darwin Core and ABCD is done - with the term attribute abcd\_equivalence.  
+* We will include mappings from the Chronometric Age terms to EFG ([http://geocase.eu/efg](http://geocase.eu/efg)). This will be done in the same way that mappings between Darwin Core and ABCD is done - with the term attribute abcd\_equivalence.  
 
 
 # Strategy
@@ -54,8 +54,8 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
 
 # History/Context
 
-* Presentations (see references) at the annual meetings of TDWG in 2017 and 2018 as well as in the Darwin Core Hour showed the need for terms to capture chronometric age information for non-neontological information spanning recent archaeological to paleontological biodiversity data. Prototypes and testing were done in a collaboration between ZooArchNet and VertNet, resulting datasets published with a functional ChronometricDate extension, and later with a replacement ChronometricAge extension.  
-* Review of the ChronometricAge extension was done in the Paleontology Interest Group meetings in 2017 and 2018, and with researchers in the representing the following groups:  
+* Presentations (see references) at the annual meetings of TDWG in 2017 and 2018 as well as in the Darwin Core Hour showed the need for terms to capture chronometric age information for non-neontological information spanning recent archaeological to paleontological biodiversity data. Prototypes and testing were done in a collaboration between ZooArchNet and VertNet, resulting datasets published with a functional Chronometric Date extension, and later with a replacement Chronometric Age extension.  
+* Review of the Chronometric Age extension was done in the Paleontology Interest Group meetings in 2017 and 2018, and with researchers in the representing the following groups:  
   * Neotoma Paleoecology Database ([https://www.neotomadb.org/](https://www.neotomadb.org/))  
   * The Paleobiology Database ([https://paleobiodb.org/](https://paleobiodb.org/))  
   * Open Context ([https://opencontext.org/](https://opencontext.org/))  
@@ -67,7 +67,7 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
   * Florida Museum of Natural History, Biodiversity Informatics  
   * Florida Museum of Natural History, Florida Archaeology and Bioarchaeology  
 
-* This Task Group was created to do the followup work necessary to make the already developed material into a ratified TDWG standard, the process and standards for which did not exist when the work on the ChronometricAge extension began.  
+* This Task Group was created to do the followup work necessary to make the already developed material into a ratified TDWG standard, the process and standards for which did not exist when the work on the Chronometric Age extension began.  
 
 # Summary
 
