@@ -21,11 +21,11 @@ Submitted: January 13, 2020
 
 [David Shorthouse](mailto:david.shorthouse@canada.ca) (Agriculture and Agri-Food Canada, Canada)  
 [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) (Meise Botanic Garden, Belgium)  
-[Elspeth M. Haston](mailto:E.Haston@rbge.org.uk) (Royal Botanic Garden Edinburgh, United Kingdom)  
+[Elspeth M. Haston](mailto:E.Haston@rbge.org.uk) (Royal Botanic Garden Edinburgh, United Kingdom)     
+[Anne Thessen](mailto:annethessen@gmail.com) (Oregon State University, USA)
 
 # Member List
-
-[Anne Thessen](mailto:annethessen@gmail.com) (Oregon State University, USA)  
+  
 [Anton Güntsch](mailto:a.guentsch@bgbm.org) (Freie Universität Berlin, Germany)  
 [Chloé Besombes](mailto:chloe.besombes@mnhn.fr) (National Museum of Natural History, Paris, France)  
 [Dominik Röpert](mailto:d.roepert@bgbm.org) (Botanic Garden and Botanical Museum Berlin)  
@@ -58,7 +58,7 @@ History and Background
 Many of the participants of the Task Group have worked on people identifiers and person data. We consider that it is time for these initiatives to be brought together under a task group to create common standards, common approaches and best practices.
 
 
-In March 2019 under the aegis of the Mobilise COST Action a workshop was run on the subject of “Authority Management of People Names” (https://osf.io/qwegk/). This workshop developed a number of actions and these were progressed at a pre-conference workshop at the Biodiversity Next Conference in October 2019. At the workshop the participants worked on visualization, disambiguation, engagement and dissemination of people identifiers for collections (https://osf.io/9t3f2/).
+In March 2019 under the aegis of the Mobilise COST Action a workshop was run on the subject of “Authority Management of People Names” [https://osf.io/qwegk/](https://osf.io/qwegk/). This workshop developed a number of actions and these were progressed at a pre-conference workshop at the Biodiversity Next Conference in October 2019. At the workshop the participants worked on visualization, disambiguation, engagement and dissemination of people identifiers for collections [https://osf.io/9t3f2/](https://osf.io/9t3f2/).
 
 # Goals
 
@@ -93,17 +93,17 @@ People are an important element in the biodiversity knowledge graph. If we are a
 
 # Literature
 
-Groom, Q.J., C. O’Reilly, and T. Humphrey. 2014. Herbarium specimens reveal the exchange network of British and Irish botanists, 1856–1932. New Journal of Botany 4: 95–103. https://doi.org/10.1179/2042349714Y.0000000041
+Groom, Q.J., C. O’Reilly, and T. Humphrey. 2014. Herbarium specimens reveal the exchange network of British and Irish botanists, 1856–1932. New Journal of Botany 4: 95–103. [https://doi.org/10.1179/2042349714Y.0000000041](https://doi.org/10.1179/2042349714Y.0000000041)
 
 Lindon, H. L., Gardiner, L. M., Brady, A., & Vorontsova, M. S. (2015). Fewer than three percent of land plant species named by women: Author gender over 260 years. Taxon, 64(2), 209-215.
 
-Penn, M.G., S. Cafferty, and M. Carine. 2017. Mapping the history of botanical collectors: spatial patterns, diversity, and uniqueness through time. Systematics and Biodiversity 16: 1–13. https://doi.org/10.1080/14772000.2017.1355854
+Penn, M.G., S. Cafferty, and M. Carine. 2017. Mapping the history of botanical collectors: spatial patterns, diversity, and uniqueness through time. Systematics and Biodiversity 16: 1–13. [https://doi.org/10.1080/14772000.2017.1355854](https://doi.org/10.1080/14772000.2017.1355854)
 
-Nicolson, N., A. Paton, S. Phillips, and A. Tucker. 2018. Specimens as Research Objects: Reconciliation Across Distributed Repositories to Enable Metadata Propagation. 2018 IEEE 14th International Conference on e-Science (e-Science). https://doi.org/10.1109/eScience.2018.00028
+Nicolson, N., A. Paton, S. Phillips, and A. Tucker. 2018. Specimens as Research Objects: Reconciliation Across Distributed Repositories to Enable Metadata Propagation. 2018 IEEE 14th International Conference on e-Science (e-Science). [https://doi.org/10.1109/eScience.2018.00028](https://doi.org/10.1109/eScience.2018.00028)
 
-Nicolson, N., and A. Tucker. 2017. Identifying Novel Features from Specimen Data for the Prediction of Valuable Collection Trips. Lecture Notes in Computer Science 235–246. https://doi.org/10.1007/978-3-319-68765-0_20
+Nicolson, N., and A. Tucker. 2017. Identifying Novel Features from Specimen Data for the Prediction of Valuable Collection Trips. Lecture Notes in Computer Science 235–246. [https://doi.org/10.1007/978-3-319-68765-0_20](https://doi.org/10.1007/978-3-319-68765-0_20)
 
-Thessen, A.E., Woodburn, M., Koureas, D., Paul, D., Conlon, M., Shorthouse, D.P. and Ramdeen, S., 2019. Proper Attribution for Curation and Maintenance of Research Collections: Metadata Recommendations of the RDA/TDWG Working Group. Data Science Journal, 18(1), p.54. http://doi.org/10.5334/dsj-2019-054 
+Thessen, A.E., Woodburn, M., Koureas, D., Paul, D., Conlon, M., Shorthouse, D.P. and Ramdeen, S., 2019. Proper Attribution for Curation and Maintenance of Research Collections: Metadata Recommendations of the RDA/TDWG Working Group. Data Science Journal, 18(1), p.54. [http://doi.org/10.5334/dsj-2019-054](http://doi.org/10.5334/dsj-2019-054)
 
 
 ________________
