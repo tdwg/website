@@ -36,5 +36,5 @@ The TNC group is open to all interested parties. You can add yourself to the mai
 ## Resources
 
 * TNC Home page: <http://www.tdwg.org/community/tnc/>
-* TNC Document Repository: <http://www.tdwg.org/activities/tnc/tnc-document-repository/> containing presentations introducing readers to taxonomy and the problems associated with improper use of taxonomic names.
-* TCS Repository: <http://www.tdwg.org/activities/tnc/tcs-schema-repository/> including: the current release of TCS and the TCS User Guide.
+* TNC Document Repository: <https://github.com/tdwg/tnc> containing presentations introducing readers to taxonomy and the problems associated with improper use of taxonomic names.
+* TCS Repository: <http://www.tdwg.org/standards/117> including: the current release of TCS and the TCS User Guide.
