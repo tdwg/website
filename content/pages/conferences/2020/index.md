@@ -10,12 +10,12 @@ page_order: 30
 
 # TDWG 2020 annual conference
 
-Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated  in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes: 
+Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes: 
 
 * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
 * to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
-In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
+In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
 ## Call for Contributions
 
@@ -53,10 +53,10 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 <p>&nbsp;<strong>Dissemination Sessions</strong></p>
 <ul>
 <li>Symposia and Panel Discussions</li>
-<li>Contributed Presentations (all astracts)</li>
+<li>Contributed Presentations (all abstracts)</li>
 <li>E-Posters, etc.</li>
 <li>Plenary sessions</li>
-<li>Business meeitng, including I/TG reports</li>
+<li>Business meeting, including I/TG reports</li>
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
@@ -85,7 +85,7 @@ Proposals to organize one or more sessions during the week of October
 19-23 are being collected via a [second short
 survey](https://www.surveymonkey.com/r/CQGMG2G). 
 This survey will remain open until June 19. Organizers should note the
-locations and time zones of all known significant contributors.  They
+locations and time zones of all known significant contributors. They
 should also indicate whether the session already has a full complement
 of contributors, or whether other relevant talks may be considered for
 inclusion.
@@ -145,13 +145,13 @@ The figure below shows the distribution of the TDWG community across time zones,
 
 ![SurveyResponses](https://static.tdwg.org/conferences/2020/TimeZone_SurveyResponses.png)
 
-Based on this distribution, the two most effective session sructures will be a trans-Atlantic one, from UTC-7 to UTC+3, and a Eurasian one, from UTC-0 to UTC +12. Sessions timed to reach wide geographic ranges, such as these, will require people in the earliest and latest time zones to participate outside “normal” working hours. We hope to make scheduling decisions that asccommodate critical contributors and maximize the potential audience.
+Based on this distribution, the two most effective session structures will be a trans-Atlantic one, from UTC-7 to UTC+3, and a Eurasian one, from UTC-0 to UTC +12. Sessions timed to reach wide geographic ranges, such as these, will require people in the earliest and latest time zones to participate outside “normal” working hours. We hope to make scheduling decisions that accommodate critical contributors and maximize the potential audience.
 
 ## Session Length and Presentation Length
 
 Online events that have taken place already show that many people find it difficult to follow presentations effectively for much more than an hour without a break. We hope to structure sessions as blocks no longer than 60 minutes without a break. We intend to limit the total time allocated to each presenter to 15 minutes, meaning that the introduction and actual presentation should be no longer than 10 minutes, leaving a few minutes for questions and another minute or so to set up the next speaker. 
 
-We will hold technology testing sessions prior to each week of the conference, which will allow presenters to test their software, camera, and microphone
+We will hold technology testing sessions prior to each week of the conference, which will allow presenters to test their software, camera, and microphone.
 
 
 ## Contacts
