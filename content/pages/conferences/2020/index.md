@@ -23,7 +23,7 @@ In 2020, we cannot meet in person, so [TDWG 2020](/conferences/2020) will be vir
 <table style="height: 430px; width: 557px; border-collapse: collapse;" border="1" cellpadding="6">
 <thead>
 <tr>
-<td style="text-align: center; width: 89px;"><strong>Conference Date</strong></td>
+<td style="text-align: center; width: 89px;"><strong>Session Dates</strong></td>
 <td style="width: 288px;"><strong>Session Type</strong></td>
 <td style="width: 158px; text-align: center;"><strong>Submission Deadline</strong></td>
 </tr>
@@ -134,6 +134,23 @@ including references, authors and affiliations), and may include figures
 and links to related media. You can publish something significant for a
 nominal fee; less than 1/10th of the cost to publish a full article.\
  
+
+## Time Zones
+
+One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by:
+  * Distributing the inconvenience as equitably as we can;
+  * Recording presentations and discussion for participants who can’t attend a session;
+  * Accommodating pre-recorded presentations for speakers who can’t be “live”; and
+  * Running some sessions twice if demand warrants.
+
+Sessions that span a wide geographic range will require people in the earliest and latest time zones to participate outside “normal” working hours. On the other hand, the cost and disruption to your life will be far less in this virtual conference than it would be traveling to a normal conference. 
+
+## Session Length and Presentation Length
+
+Online events that have taken place already show that many people find it difficult to follow presentations effectively for much more than an hour without a break. We hope to structure sessions as blocks no longer than 60 minutes without a break. We intend to limit the total time allocated to each presenter to 15 minutes, meaning that the introduction and actual presentation should be no longer than 10 minutes, leaving a few minutes for questions and another minute or so to set up the next speaker. 
+
+We will hold technology testing sessions prior to each week of the conference, which will allow presenters to test their software, camera, and microphone
+
 
 ## Contacts
 
