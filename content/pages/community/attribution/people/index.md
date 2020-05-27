@@ -17,6 +17,8 @@ Task Group Charter
 
 Submitted: January 13, 2020
 
+Last Updated: May 18, 2020
+
 # Conveners
 
 [David Shorthouse](mailto:david.shorthouse@canada.ca) (Agriculture and Agri-Food Canada, Canada)  
@@ -42,6 +44,25 @@ Submitted: January 13, 2020
 [Rod Page](mailto:Roderic.Page@glasgow.ac.uk) (Glasgow University)  
 [Sarah Phillips](mailto:Sarah.Phillips@kew.org) (Royal Botanic Gardens, Kew, UK)  
 [Simon Chagnoux](mailto:simon.chagnoux@mnhn.fr) (National Museum of Natural History, Paris, France)  
+
+# Current Activities
+
+Two terms have been created under the GBIF namespace for use in the exchange of identifiers for people in occurrence data. These are **recordedByID** and **identifiedByID** and are available in the core Darwin Core Occurrence extension of GBIF's Integrated Publishing Toolkit. They are defined as follows:
+
+| **recordedByID** | <!-- --> |
+| --- | --- |
+| Definition | An unordered list (concatenated and separated) of IDs representing names of people, groups, or organizations responsible for recording the original Occurrence. No semantics should be assumed, including for example an ordering of identifiers to indicate a primary collector or any institutional affiliation. The recommended best practice is to separate the values with a vertical bar ('\\|').|
+| Examples | "https://orcid.org/0000-0001-6215-3617 \\| https://orcid.org/0000-0003-1691-239X" "https://orcid.org/0000-0001-6215-3617 \\| https://www.wikidata.org/entity/Q28913658"|
+| Qualname | http://rs.gbif.org/terms/1.0/recordedByID|
+
+
+| **identifiedByID** | <!-- --> |
+| --- | --- |
+| Definition | An unordered list (concatenated and separated) of IDs representing names of people, groups, or organizations who assigned the Taxon to the subject. No semantics should be assumed, including for example an ordering of identifiers to citation priority or any institutional affiliation. The recommended best practice is to separate the values with a vertical bar ('\\|').|
+| Examples | "https://orcid.org/0000-0001-6215-3617 \\| https://orcid.org/0000-0003-1691-239X" "https://orcid.org/0000-0001-6215-3617 \\| https://www.wikidata.org/entity/Q28913658"|
+| Qualname | http://rs.gbif.org/terms/1.0/identifiedByID|
+
+Members of this group are developing an extension to Darwin Core entitled, [Agent Actions](https://github.com/tdwg/attribution/tree/master/people/dwc). This extension accommodates the [theoretical work](http://doi.org/10.5334/dsj-2019-054) produced in collaboration with the Research Data Alliance.
 
 
 # Motivation
@@ -89,7 +110,6 @@ People are an important element in the biodiversity knowledge graph. If we are a
 # Resources
 
 [RDA/TDWG Attribution Metadata Working Group: Final Recommendations](https://www.rd-alliance.org/group/rda-tdwg-metadata-standards-attribution-physical-and-digital-collections-stewardship/outcomes)
-
 
 # Literature
 
