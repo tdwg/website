@@ -18,9 +18,56 @@ to provide a showcase for biodiversity informatics – much of which relies on t
 
 In 2020, we cannot meet in person, so [TDWG 2020](/conferences/2020) will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
-
 ## Call for Contributions
 
+<table style="height: 430px; width: 557px; border-collapse: collapse;" border="1" cellpadding="6">
+<thead>
+<tr>
+<td style="text-align: center; width: 89px;"><strong>Conference Date</strong></td>
+<td style="width: 288px;"><strong>Session Type</strong></td>
+<td style="width: 158px; text-align: center;"><strong>Submission Deadline</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="vertical-align: top; text-align: center; width: 89px;">
+<p><strong>September<br /> 21-25</strong></p>
+</td>
+<td style="vertical-align: top; width: 288px;">
+<p><strong>Working Sessions</strong></p>
+<ul>
+<li>Introduction to TDWG, Workshops, and Training</li>
+<li>TDWG Interest &amp; Task Group sessions</li>
+<li>Hackathons</li>
+<li>"Birds of a Feather" meeting -- to organize a new Interest Group</li>
+</ul>
+</td>
+<td style="text-align: center; vertical-align: middle; width: 158px;">
+<p><strong>Working Session proposals due<br />August 1</strong></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; width: 89px;">
+<p><strong>October</strong><br /><strong>19-23</strong></p>
+</td>
+<td style="vertical-align: top; width: 288px;">
+<p>&nbsp;<strong>Dissemination Sessions</strong></p>
+<ul>
+<li>Symposia and Panel Discussions</li>
+<li>Contributed Presentations (all astracts)</li>
+<li>E-Posters, etc.</li>
+<li>Plenary sessions</li>
+<li>Business meeitng, including I/TG reports</li>
+</ul>
+</td>
+<td style="text-align: center; vertical-align: top; width: 158px;">
+<p><strong>Dissemination Session Proposals Due</strong><br /><strong>June 19</strong></p>
+<p><strong>Abstracts due<br />August 1</strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Working Sessions for Interest/Task Groups, Workshops, and Hackathons
 
