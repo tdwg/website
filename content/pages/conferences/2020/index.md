@@ -16,43 +16,13 @@ to provide a forum for developing, refining, and extending standards in response
 
 to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
-In 2020, we cannot meet in person, so [TDWG 2020](/conferences2020) will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
+In 2020, we cannot meet in person, so [TDWG 2020](/conferences/2020) will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
------------------------------------------------------------------------------------------------------------------------------------------
-  **Conference Date**   **Session Types**                                                          **Submission Deadlines**
-  --------------------- -------------------------------------------------------------------------- ----------------------------------------
-  **September\          **Working Sessions**                                                       **Working Session proposals due\
-  21-25**                                                                                          August 1**
-                        -   Introduction to TDWG, Workshops, and Training                          
-                                                                                                    
-                        -   TDWG Interest and Task Groups (I/TG)                                   
-                                                                                                   
-                        -   Hackathons                                                             
-                                                                                                   
-                        -   “Birds of a Feather” meetings for proposing new Interest/Task Groups   
-                                                                                                   
-                                                                                                   
 
-  **October\            **Dissemination and Sharing Sessions**                                     **Dissemination Session proposals due\
-  19-23**                                                                                          June 19\
-                        -   Symposia and Panel Discussions                                         \
-                                                                                                   Abstracts due\
-                        -   Contributed Presentations (all abstracts)                              August 1**
-                                                                                                   
-                        -   E-Posters, etc.                                                         
-                                                                                                   
-                        -   Plenary                                                                
-                                                                                                   
-                        -   Business meeting, including I/TG reports                               
-                                                                                                   
-                                                                                                   
-  -----------------------------------------------------------------------------------------------------------------------------------------
+## Call for Contributions
 
-**Call for Contributions**
 
- 
-
-**Working Sessions for Interest/Task Groups, Workshops, and Hackathons**
+### Working Sessions for Interest/Task Groups, Workshops, and Hackathons
 
 Working sessions will be structured as meetings in which all
 participants can be enabled to speak. Requests to convene working
@@ -64,7 +34,7 @@ convener. The survey will close August 1, and a draft schedule of
 working sessions will be posted on August 17.\
  
 
-**Symposia, Panel Discussions, Lightning Talks, etc.**
+### Symposia, Panel Discussions, Lightning Talks, etc.
 
 Proposals to organize one or more sessions during the week of October
 19-23 are being collected via a [*second short
@@ -75,8 +45,7 @@ should also indicate whether the session already has a full complement
 of contributors, or whether other relevant talks may be considered for
 inclusion.\
  
-
-**Individual Contributions (Presentations, E-Posters)**
+### Individual Contributions (Presentations, E-Posters)
 
 Abstracts are required for all presentations and e-posters, including
 those that are part of a symposium, and should be submitted through the
@@ -87,7 +56,7 @@ close August 1.  Detailed instructions for making submissions through
 ARPHA will be distributed and posted online before the call opens.\
  
 
-**Free Registration**
+## Free Registration
 
 Registration will be required to participate in the online events, but
 registration will be free. The services required to run an online
@@ -101,7 +70,7 @@ membership online, and help TDWG defray the cost of running the
 conference.\
  
 
-**Abstract Publishing Fees**
+## Abstract Publishing Fees
 
 Abstracts will be required for all contributions (i.e., all
 presentations and e-posters), and will comprise the Proceedings of TDWG
@@ -119,7 +88,7 @@ and links to related media. You can publish something significant for a
 nominal fee; less than 1/10th of the cost to publish a full article.\
  
 
-**Contacts**
+## Contacts
 
 Please send questions
 to: [*conf-organizers@tdwg.org*](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
