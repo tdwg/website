@@ -141,7 +141,11 @@ One of the biggest challenges in planning a virtual conference for TDWG is that 
 * Accommodating pre-recorded presentations for speakers who can’t be “live”; and 
 * Running some sessions twice if demand warrants. 
 
-Sessions that span a wide geographic range will require people in the earliest and latest time zones to participate outside “normal” working hours. On the other hand, the cost and disruption to your life will be far less in this virtual conference than it would be traveling to a normal conference. 
+The figure below shows the distribution of the TDWG community through time zones, as revealed in our recent survey.
+
+![SurveyResponses]({static}https://static.tdwg.org/conferences/2020/TimeZone_SurveyResponses.png)
+
+Based on this distribution, the two most effective session times will a trans-Atlantic one, from UTC-7 to UTC +3), and a Eurasian one, from UTC-0 to UTC +12. Sessions that span a wide geographic range will require people in the earliest and latest time zones to participate outside “normal” working hours. On the other hand, the cost and disruption to your life will be far less in this virtual conference than it would be traveling to a normal conference. We hope make scheduing decisions that balance convenience between critical contributors and maximizing audience.
 
 ## Session Length and Presentation Length
 
