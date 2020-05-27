@@ -135,7 +135,7 @@ nominal fee; less than 1/10th of the cost to publish a full article.\
 
 ## Time Zones
 
-One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by:
+One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by: 
   * Distributing the inconvenience as equitably as we can; 
   * Recording presentations and discussion for participants who can’t attend a session; 
   * Accommodating pre-recorded presentations for speakers who can’t be “live”; and 
