@@ -10,9 +10,10 @@ page_order: 30
 
 # TDWG 2020 annual conference
 
-Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated  in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes:
-  * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
-  * to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
+Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated  in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes: 
+
+* to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
+* to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
 In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
@@ -95,7 +96,7 @@ inclusion.\
 Abstracts are required for all presentations and e-posters, including
 those that are part of a symposium, and should be submitted through the
 Pensoft ARPHA system
-for [*BISS*](https://biss.pensoft.net).
+for [BISS](https://biss.pensoft.net).
 The call for individual contributions will be posted June 22nd and will
 close August 1.  Detailed instructions for making submissions through
 ARPHA will be distributed and posted online before the call opens.\
@@ -107,10 +108,10 @@ Registration will be required to participate in the online events, but
 registration will be free. The services required to run an online
 conference, however, are not free. So we encourage all participants to
 become TDWG members, either by affiliation with an
-existing [*institutional
-member*](/about/membership/#institutional%20members%202020_1) or
+existing [institutional
+member](/about/membership/#institutional%20members%202020_1) or
 by paying individual membership dues for the 2020 calendar year
-(\$75).  [*Request an invoice*](mailto:secretariat@tdwg.org) to pay
+(\$75).  [Request an invoice](mailto:secretariat@tdwg.org) to pay
 membership online, and help TDWG defray the cost of running the
 conference.\
  
@@ -136,10 +137,10 @@ nominal fee; less than 1/10th of the cost to publish a full article.\
 ## Time Zones
 
 One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by: 
-  * Distributing the inconvenience as equitably as we can; 
-  * Recording presentations and discussion for participants who can’t attend a session; 
-  * Accommodating pre-recorded presentations for speakers who can’t be “live”; and 
-  * Running some sessions twice if demand warrants. 
+* Distributing the inconvenience as equitably as we can; 
+* Recording presentations and discussion for participants who can’t attend a session; 
+* Accommodating pre-recorded presentations for speakers who can’t be “live”; and 
+* Running some sessions twice if demand warrants. 
 
 Sessions that span a wide geographic range will require people in the earliest and latest time zones to participate outside “normal” working hours. On the other hand, the cost and disruption to your life will be far less in this virtual conference than it would be traveling to a normal conference. 
 
@@ -153,5 +154,5 @@ We will hold technology testing sessions prior to each week of the conference, w
 ## Contacts
 
 Please send questions
-to: [*conf-organizers@tdwg.org*](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
+to: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
 
