@@ -41,9 +41,8 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 <li>"Birds of a Feather" meeting -- to organize a new Interest Group</li>
 </ul>
 </td>
-<td style="text-align: center; vertical-align: middle; width: 158px;">
+<td style="text-align: center; vertical-align: top; width: 158px;">
 <p><strong>Working Session proposals due<br />August 1</strong></p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
