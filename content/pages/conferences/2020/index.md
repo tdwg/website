@@ -77,7 +77,7 @@ September 21-25 should be submitted through a [*short
 survey*](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=70d0b88832).
 All I/TG proposals should be endorsed, if not submitted, by the I/TG
 convener. The survey will close August 1, and a draft schedule of
-working sessions will be posted on August 17.\
+working sessions will be posted on August 17.
  
 
 ### Symposia, Panel Discussions, Lightning Talks, etc.
@@ -89,7 +89,7 @@ This survey will remain open until June 19. Organizers should note the
 locations and time zones of all known significant contributors.  They
 should also indicate whether the session already has a full complement
 of contributors, or whether other relevant talks may be considered for
-inclusion.\
+inclusion.
  
 ### Individual Contributions (Presentations, E-Posters)
 
@@ -99,7 +99,7 @@ Pensoft ARPHA system
 for [BISS](https://biss.pensoft.net).
 The call for individual contributions will be posted June 22nd and will
 close August 1.  Detailed instructions for making submissions through
-ARPHA will be distributed and posted online before the call opens.\
+ARPHA will be distributed and posted online before the call opens.
  
 
 ## Free Registration
@@ -108,12 +108,11 @@ Registration will be required to participate in the online events, but
 registration will be free. The services required to run an online
 conference, however, are not free. So we encourage all participants to
 become TDWG members, either by affiliation with an
-existing [institutional
-member](/about/membership/#institutional%20members%202020_1) or
+[institutional member](/about/membership/#institutional%20members%202020_1) or
 by paying individual membership dues for the 2020 calendar year
-(\$75).  [Request an invoice](mailto:secretariat@tdwg.org) to pay
+(\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay
 membership online, and help TDWG defray the cost of running the
-conference.\
+conference.
  
 
 ## Abstract Publishing Fees
@@ -131,12 +130,13 @@ cases of financial hardship. Authors please note that abstracts in TDWG
 Proceedings can be as large as a small paper (up to 6,000 characters,
 including references, authors and affiliations), and may include figures
 and links to related media. You can publish something significant for a
-nominal fee; less than 1/10th of the cost to publish a full article.\
+nominal fee; less than 1/10th of the cost to publish a full article.
  
 
 ## Time Zones
 
 One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by: 
+
 * Distributing the inconvenience as equitably as we can; 
 * Recording presentations and discussion for participants who can’t attend a session; 
 * Accommodating pre-recorded presentations for speakers who can’t be “live”; and 
