@@ -73,7 +73,7 @@ Working sessions will be structured as meetings in which all
 participants can be enabled to speak. Requests to convene working
 sessions (including interest and task groups) during the week of
 September 21-25 should be submitted through a [short
-survey](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=70d0b88832).
+survey](https://www.surveymonkey.com/r/C9723S8).
 All I/TG proposals should be endorsed, if not submitted, by the I/TG
 convener. The survey will close August 1, and a draft schedule of
 working sessions will be posted on August 17.
@@ -83,7 +83,7 @@ working sessions will be posted on August 17.
 
 Proposals to organize one or more sessions during the week of October
 19-23 are being collected via a [second short
-survey](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=8416bbf4f6&e=70d0b88832). 
+survey](https://www.surveymonkey.com/r/CQGMG2G). 
 This survey will remain open until June 19. Organizers should note the
 locations and time zones of all known significant contributors.  They
 should also indicate whether the session already has a full complement
@@ -143,7 +143,7 @@ One of the biggest challenges in planning a virtual conference for TDWG is that 
 
 The figure below shows the distribution of the TDWG community through time zones, as revealed in our recent survey.
 
-![SurveyResponses]({static}https://static.tdwg.org/conferences/2020/TimeZone_SurveyResponses.png)
+![SurveyResponses]({filename}https://static.tdwg.org/conferences/2020/TimeZone_SurveyResponses.png)
 
 Based on this distribution, the two most effective session times will a trans-Atlantic one, from UTC-7 to UTC +3), and a Eurasian one, from UTC-0 to UTC +12. Sessions that span a wide geographic range will require people in the earliest and latest time zones to participate outside “normal” working hours. On the other hand, the cost and disruption to your life will be far less in this virtual conference than it would be traveling to a normal conference. We hope make scheduing decisions that balance convenience between critical contributors and maximizing audience.
 
