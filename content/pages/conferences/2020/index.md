@@ -72,8 +72,8 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 Working sessions will be structured as meetings in which all
 participants can be enabled to speak. Requests to convene working
 sessions (including interest and task groups) during the week of
-September 21-25 should be submitted through a [*short
-survey*](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=70d0b88832).
+September 21-25 should be submitted through a [short
+survey](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=70d0b88832).
 All I/TG proposals should be endorsed, if not submitted, by the I/TG
 convener. The survey will close August 1, and a draft schedule of
 working sessions will be posted on August 17.
@@ -82,8 +82,8 @@ working sessions will be posted on August 17.
 ### Symposia, Panel Discussions, Lightning Talks, etc.
 
 Proposals to organize one or more sessions during the week of October
-19-23 are being collected via a [*second short
-survey*](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=8416bbf4f6&e=70d0b88832). 
+19-23 are being collected via a [second short
+survey](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=8416bbf4f6&e=70d0b88832). 
 This survey will remain open until June 19. Organizers should note the
 locations and time zones of all known significant contributors.  They
 should also indicate whether the session already has a full complement
