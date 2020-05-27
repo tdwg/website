@@ -136,10 +136,10 @@ nominal fee; less than 1/10th of the cost to publish a full article.\
 ## Time Zones
 
 One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by:
-  * Distributing the inconvenience as equitably as we can;
-  * Recording presentations and discussion for participants who can’t attend a session;
-  * Accommodating pre-recorded presentations for speakers who can’t be “live”; and
-  * Running some sessions twice if demand warrants.
+  * Distributing the inconvenience as equitably as we can; 
+  * Recording presentations and discussion for participants who can’t attend a session; 
+  * Accommodating pre-recorded presentations for speakers who can’t be “live”; and 
+  * Running some sessions twice if demand warrants. 
 
 Sessions that span a wide geographic range will require people in the earliest and latest time zones to participate outside “normal” working hours. On the other hand, the cost and disruption to your life will be far less in this virtual conference than it would be traveling to a normal conference. 
 
