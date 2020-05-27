@@ -14,11 +14,11 @@ Standards that describe and support the exchange of biodiversity information are
   * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
   * to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
-In 2020, we cannot meet in person, so [TDWG 2020](/conferences/2020) will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
+In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
 ## Call for Contributions
 
-<table style="height: 430px; width: 557px; border-collapse: collapse;" border="1" cellpadding="6">
+<table style="border-collapse: collapse;" border="1" cellpadding="6">
 <thead>
 <tr>
 <td style="text-align: center; width: 89px;"><strong>Session Dates</strong></td>
@@ -35,7 +35,7 @@ In 2020, we cannot meet in person, so [TDWG 2020](/conferences/2020) will be vir
 <p><strong>Working Sessions</strong></p>
 <ul>
 <li>Introduction to TDWG, Workshops, and Training</li>
-<li>TDWG Interest &amp; Task Group sessions</li>
+<li>TDWG Interest &amp; Task Group (I/TG) sessions</li>
 <li>Hackathons</li>
 <li>"Birds of a Feather" meeting -- to organize a new Interest Group</li>
 </ul>
@@ -74,7 +74,7 @@ participants can be enabled to speak. Requests to convene working
 sessions (including interest and task groups) during the week of
 September 21-25 should be submitted through a [*short
 survey*](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=70d0b88832).
-All I/T-G proposals should be endorsed, if not submitted, by the I/T-G
+All I/TG proposals should be endorsed, if not submitted, by the I/TG
 convener. The survey will close August 1, and a draft schedule of
 working sessions will be posted on August 17.\
  
