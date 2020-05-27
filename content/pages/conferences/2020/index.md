@@ -1,42 +1,126 @@
 ---
-title: 2020 - Alexandria, Virginia USA
-summary: TDWG 2020 Annual Conference - POSTPONED
-cover_image: https://static.tdwg.org/conferences/2020/BannerLargeWeb_wide.jpg
-cover_image_by: Gil Nelson
+title: TDWG 2020 - A Virtual Conference
+summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) followed by a second week dedicated to dissemination and sharing (Oct 19-23).
+cover_image: 
+cover_image_by: 
 cover_image_ref: 
 tags: conference
 page_order: 30
 ---
 
-# TDWG 2020 annual conference - POSTPONED
+# TDWG 2020 annual conference
 
-The 2020 Annual TDWG conference was being organized jointly by [iDigBio](https://www.idigbio.org/), [GBIF](https://www.gbif.org/), and TDWG, with [National Museum of Natural History](https://naturalhistory.si.edu/) (Smithsonian) contributing as local host.  It was to be held at the [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/). Unfortunately, the coronavirus pandemic necessitates that the conference be postponed until 2021, with the exact dates still to be determined. 
+Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated  in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes:
 
-TDWG is evaluating whether a virtual conference will be feasible and worthwhile as an alternative means to keep us connected and up-to-date.  Please do not register or submit abstracts until new information is released.
+to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
 
-## [Visit the conference website](https://www.idigbio.org/content/biodiversity-summit-2020)  
+to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
-# Dates to remember
+In 2020, we cannot meet in person, so [TDWG 2020](/conferences2020) will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23.  This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
-| **DATE** | **EVENT** |
-| --- | --- |
-| **03 Feb, 2020** | **[Registration opens](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445); [Call for abstracts](https://mailchi.mp/f2de53159899/biodiversity-summit-2020-registration-and-call-for-abstracts-now-open?e=[UNIQID])** |
-|                  | Registration is free, but all participants must register. |  
-| **19 Mar, 2020**   | **Decision to POSTPONE until 2021** |
+-----------------------------------------------------------------------------------------------------------------------------------------
+  **Conference Date**   **Session Types**                                                          **Submission Deadlines**
+  --------------------- -------------------------------------------------------------------------- ----------------------------------------
+  **September\          **Working Sessions**                                                       **Working Session proposals due\
+  21-25**                                                                                          August 1**
+                        -   Introduction to TDWG, Workshops, and Training                          
+                                                                                                    
+                        -   TDWG Interest and Task Groups (I/TG)                                   
+                                                                                                   
+                        -   Hackathons                                                             
+                                                                                                   
+                        -   “Birds of a Feather” meetings for proposing new Interest/Task Groups   
+                                                                                                   
+                                                                                                   
 
+  **October\            **Dissemination and Sharing Sessions**                                     **Dissemination Session proposals due\
+  19-23**                                                                                          June 19\
+                        -   Symposia and Panel Discussions                                         \
+                                                                                                   Abstracts due\
+                        -   Contributed Presentations (all abstracts)                              August 1**
+                                                                                                   
+                        -   E-Posters, etc.                                                         
+                                                                                                   
+                        -   Plenary                                                                
+                                                                                                   
+                        -   Business meeting, including I/TG reports                               
+                                                                                                   
+                                                                                                   
+  -----------------------------------------------------------------------------------------------------------------------------------------
 
-<!--  Everything below is moot
-| **31 Mar, 2020** | **Deadline for abstracts** |  
-|                  | Abstracts are required for contributed papers and posters |  
-| **20 Sep, 2020** | GBIF Executive and standing committee meetings |  
-|                  | TDWG Executive meeting |  
-| **21 Sep, 2020** | GBIF Governing Board meeting Day 1|  
-|                  | TDWG working group meetings |  
-| **22 Sep, 2020** | GBIF Governing Board meeting Day 2 |  
-|                  | TDWG working group meetings |  
-|                  | iDigBio orientation day for new TCNs and PENs |  
-| **23-25 Sep, 2020** | **Biodiversity Summit 2020** |  
-|                     | Plenary sessions, parallel sessions, posters |  
--->
+**Call for Contributions**
 
+ 
+
+**Working Sessions for Interest/Task Groups, Workshops, and Hackathons**
+
+Working sessions will be structured as meetings in which all
+participants can be enabled to speak. Requests to convene working
+sessions (including interest and task groups) during the week of
+September 21-25 should be submitted through a [*short
+survey*](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=70d0b88832).
+All I/T-G proposals should be endorsed, if not submitted, by the I/T-G
+convener. The survey will close August 1, and a draft schedule of
+working sessions will be posted on August 17.\
+ 
+
+**Symposia, Panel Discussions, Lightning Talks, etc.**
+
+Proposals to organize one or more sessions during the week of October
+19-23 are being collected via a [*second short
+survey*](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=8416bbf4f6&e=70d0b88832). 
+This survey will remain open until June 19. Organizers should note the
+locations and time zones of all known significant contributors.  They
+should also indicate whether the session already has a full complement
+of contributors, or whether other relevant talks may be considered for
+inclusion.\
+ 
+
+**Individual Contributions (Presentations, E-Posters)**
+
+Abstracts are required for all presentations and e-posters, including
+those that are part of a symposium, and should be submitted through the
+Pensoft ARPHA system
+for [*BISS*](https://biss.pensoft.net).
+The call for individual contributions will be posted June 22nd and will
+close August 1.  Detailed instructions for making submissions through
+ARPHA will be distributed and posted online before the call opens.\
+ 
+
+**Free Registration**
+
+Registration will be required to participate in the online events, but
+registration will be free. The services required to run an online
+conference, however, are not free. So we encourage all participants to
+become TDWG members, either by affiliation with an
+existing [*institutional
+member*](/about/membership/#institutional%20members%202020_1) or
+by paying individual membership dues for the 2020 calendar year
+(\$75).  [*Request an invoice*](mailto:secretariat@tdwg.org) to pay
+membership online, and help TDWG defray the cost of running the
+conference.\
+ 
+
+**Abstract Publishing Fees**
+
+Abstracts will be required for all contributions (i.e., all
+presentations and e-posters), and will comprise the Proceedings of TDWG
+2020, a collection in [*Biodiversity Information Science and
+Standards*](https://biss.pensoft.net).
+Normally, we build publishing costs into the registration fees for the
+conference. But without a registration fee this year, we are going to
+follow the usual model for open-access publishing: authors pay to
+publish, and the paper is then free to read forever. The fee for each
+abstract will be 40€. The publishing fee may be waived, however, in
+cases of financial hardship. Authors please note that abstracts in TDWG
+Proceedings can be as large as a small paper (up to 6,000 characters,
+including references, authors and affiliations), and may include figures
+and links to related media. You can publish something significant for a
+nominal fee; less than 1/10th of the cost to publish a full article.\
+ 
+
+**Contacts**
+
+Please send questions
+to: [*conf-organizers@tdwg.org*](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
 
