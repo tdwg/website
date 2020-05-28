@@ -1,5 +1,5 @@
 ---
-title: AC - vocabularies for standard views 
+title: AC - Vocabularies for Standard Views 
 summary: 
 cover_image: https://images.unsplash.com/photo-1580407196238-dac33f57c410
 cover_image_by: Wolfgang Hasselman
@@ -17,7 +17,7 @@ A Task Group of the Audubon Core Maintenance Group
   - [**Steve Baskauf**](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt
     University
 
-## Core Members
+## Core members
 
   - [**Neil S. Cobb**](mailto:neil.cobb@nau.edu) - Merriam-Powell Center for
     Environmental Research, Northern Arizona University
@@ -46,7 +46,7 @@ A Task Group of the Audubon Core Maintenance Group
     schemes for these terms by creating two controlled vocabularies to
     be used as values for these two terms.
 
-## **Goals Outputs** and Outcomes
+## Goals outputs and outcomes
 
   - Create controlled vocabulary terms for ac:subjectOrientation.
 
@@ -85,7 +85,7 @@ A Task Group of the Audubon Core Maintenance Group
     of the vocabularies for adoption. *Target date for submission for
     adoption: December 2020.*
 
-## History/Context
+## History/context
 
   - The definition of ac:subjectOrientation is: "Specific orientation (=
     direction, view angle) of the subject represented in the media
