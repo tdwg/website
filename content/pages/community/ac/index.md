@@ -1,11 +1,11 @@
 ---
-title: Imaging
+title: Audubon Core
 summary: 
 cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
 cover_image_by: Kawin Harasai
 cover_image_ref: https://unsplash.com/photos/VMpIew0mHlo
 tags: interest group
-github: 
+github: https://github.com/tdwg/ac
 ---
 
 <!-- Copied from http://www.tdwg.org/activities/img/charter/ -->
