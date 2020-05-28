@@ -104,7 +104,7 @@ community at the time the new terms are adopted.
 # Becoming Involved 
 
 Anyone with practical experience in describing 3D imagery in a
-database is invited to contact the convener or core members to
+database is invited to contact the convenor or core members to
 register their interest.
 
 # History/context 
