@@ -14,7 +14,7 @@ status: published
 
 # Convenor
 
-  - [Doug Boyer](mailto:douglasmb@gmail.com)
+  - [Doug Boyer](mailto:douglasmb@gmail.com), Duke University
 
 # Core members 
 
