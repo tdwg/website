@@ -101,7 +101,7 @@ The additional documents will be developed simultaneously with the
 terms that they describe so that they will be available for use by the
 community at the time the new terms are adopted.
 
-# Becoming Involved 
+# Becoming involved 
 
 Anyone with practical experience in describing 3D imagery in a
 database is invited to contact the convenor or core members to
