@@ -10,7 +10,7 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: TDWG 2020 goes virtual. Program committee calls for contributions.
-alert_text: TDWG 2020 will be held online in the fall and will have two parts: a week of working sessions (Sep 21-25) and a second week (Oct 19-23) for disseminating the latest developments in biodiversity information science and standards. The [call for contributions](/conferences/2020) has been posted. Please note that the deadline for proposing an organized session in the second week is June 19, just weeks away! 
+alert_text: TDWG 2020 will be held online in the fall and will have two parts: a week of working sessions (Sep 21-25) and a second week (Oct 19-23) for disseminating the latest developments in biodiversity information science and standards. The call for contributions has been posted. Please note that the deadline for proposing an organized session in the second week is June 19, just weeks away! 
 alert_button: Learn more
 alert_link: /conferences/2020
 alert_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
