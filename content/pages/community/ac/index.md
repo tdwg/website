@@ -17,49 +17,39 @@ Data Science and Data Curation Specialist
 Jean & Alexander Heard Libraries, Vanderbilt University  
 Nashville, TN 37235, USA  
 
-## Purpose
+## 2. Core members 
 
-To seed the formation of a full TDWG Subgroup whose purpose would be: To develop standard computer-based mechanisms for managing and transferring descriptive information about media including metadata terminologies, ontologies, descriptions, file exchange formats, and associated resources.
+* Douglas Boyer - Department of Evolutionary Anthropology, Duke University, Director of MorphoSource open access 3D repository 
+* Niels Klazenga - Royal Botanic Gardens Victoria  
+* Robert A. Morris - University of Massachusetts, Boston  
+* Rebecca Snyder - Smithsonian Institution, National Museum of Natural History  
 
-## Background
+## 3. Motivation 
 
-Many TDWG members have an interest in images. The largest focus at the moment is digitization of specimens (not specimen records), but the increasing importance of observations, which often are documented by images, video, and audio, will lead to an ever greater demand for exchange standards, most notably for content metadata. 
+This interest group is established to meet the requirements in Section 2.1 of the TDWG Vocabulary Maintenance 
+Specification: to maintain the Audubon Core vocabulary.
 
-The interest group emerged following an informal brief meeting in Christchurch at the 2004 meeting, and a somewhat longer one at the 2005 meeting in St. Petersburg. The latter gave birth to the wiki at <http://wiki.cs.umb.edu/twiki/bin/view/TDWGImage/>
+## 4. Becoming involved 
 
-## Scope
+The task group welcomes the participation of individuals who have a vested interest
+in maintaining the stability and interoperability of Audubon Core. We need people with interest and experience in 
+vocabulary creation, people who are well versed in best practices for metadata documentation, people with technical 
+data management skills, and people who are experts on various types of media. If you are interested in participating 
+in the group, please contact the convener or a core member.
 
-A full task group may be expected to be concerned with the following topics, at least:
+## 5. History/context 
 
-- Descriptive content metadata
-- File formats, especially new standards such as JPEG2000
-- Standards for image LSID management and deployment
-- Best Practices for the acquisition, curation, and distribution of multimedia resources
-- Intellectual Property Rights
-- Outreach, e.g. workshops on image acquisition
-- Connections to other organizations involved with these topics to reduce duplication
+The Audubon Core vocabulary was ratified as a TDWG Standard in 2013 to represent metadata for biodiversity
+multimedia resources and collections. It imports terms from various existing vocabularies, including Darwin Core,
+and mints terms in cases where existing terms are insufficient. Audubon Core records allow a user to determine the 
+fitness for use of a resource before actually acquiring the resource itself. For an introduction to Audubon Core, 
+visit https://terms.tdwg.org/wiki/Audubon_Core. For details, see R. A. Morris et al. 2013. Discovery and Publishing 
+of Primary Biodiversity Data associated with Multimedia Resources: The Audubon Core Strategies and Approaches. 
+Biodiversity Informatics, 8(2). https://doi.org/10.17161/bi.v8i2.4117 
 
-## Core Members
+## 6. Summary 
 
-The wiki has been inactive since St. Petersburg, so I list here only people I know to be active in image management research: 
+The Audubon Core maintenance group is responsible for maintaining the various components of the Audubon Core 
+standard. That includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and 
+ensuring the preservation and stability of metadata related to components of the standard. 
 
-- Robert A. Morris (UMASS-Boston) 
-- Reed Beaman (Yale) 
-- Greg Riccardi (Florida State University) 
-- Stinger Guala (USDA PLANTS)
-
-## Clients
-
-Everybody concerned with any aspect of documenting the nature and occurence of organisms, and their behavior and interactions in biotic systems.
-
-## Outcomes and outputs
-
-The formation of a full subgroup with an active wiki by June 1, 2007
-
-## Strategy
-
-This needs a good hook, because everybody takes a lot of pictures, and few people do anything systematic with them. So the core group - if it agrees to be such - needs to brainstorm about strategies and seek advice from the TDWG executive committee.
-
-## Resources
-
-<http://wiki.cs.umb.edu/twiki/bin/view/TDWGImage/>
