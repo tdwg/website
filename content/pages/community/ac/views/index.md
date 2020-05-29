@@ -1,5 +1,5 @@
 ---
-title: AC - Vocabularies for Standard Views 
+title: AC - Views Controlled Vocabularies
 summary: 
 cover_image: https://images.unsplash.com/photo-1580407196238-dac33f57c410
 cover_image_by: Wolfgang Hasselman
