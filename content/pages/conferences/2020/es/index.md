@@ -8,7 +8,7 @@ cover_image_ref:
 
 # TDWG 2020: Llamado para contribuciones
 
-[EN](./)
+[EN](../)
 
 Los estándares que describen y apoyan el intercambio de información de
 biodiversidad son una infraestructura científica crítica. Permiten la
