@@ -10,6 +10,8 @@ page_order: 30
 
 # TDWG 2020 annual conference
 
+Translations:  [ES](./ES_conf.md)
+
 Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes: 
 
 * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
