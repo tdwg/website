@@ -57,18 +57,18 @@ resultados en presentaciones.
 <p> </p></td>
 <td><p><strong>Sesiones de trabajo</strong></p>
 <ul>
-<li><blockquote>
+<li>
 <p>Introducción a TDWG, Talleres, y Entrenamiento</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>TDWG Grupos de Interés / de Tareas (I/TG)</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Hackathons</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Reuniones “Birds of a Feather” para proponer nuevos Grupos de Interés / de Tareas</p>
-</blockquote></li>
+</li>
 </ul></td>
 <td><p><strong>Propuestas para sesiones de trabajo: 1<br />
 Agosto</strong></p>
@@ -79,21 +79,21 @@ Agosto</strong></p>
 <p><strong>octubre</strong></p></td>
 <td><p><strong>Sesiones de diseminación</strong></p>
 <ul>
-<li><blockquote>
+<li>
 <p>Simposios y Paneles de discusión</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Presentaciones (todos los resúmenes)</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>E-Posters, etc.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Plenarias</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Reunión administrativa, incluyendo reportes I/TG</p>
-</blockquote></li>
+</li>
 </ul></td>
 <td><p><strong>Propuestas para sesiones de diseminación: 19 Junio<br />
 <br />
