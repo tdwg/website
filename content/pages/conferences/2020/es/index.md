@@ -1,6 +1,6 @@
 ---
 title: TDWG 2020 - Una Conferencia Virtual
-summary: TDWG 2020 será una conferencia virtual dividida en sesiones de trabajo (del 21 al 25 de septiembre) seguida de una segunda semana dedicada a la difusión y el intercambio (19-23 de octubre).
+summary: TDWG 2020 será una conferencia virtual dividida en sesiones de trabajo (del 21 al 25 de septiembre) seguida de una segunda semana dedicada a la difusión y el intercambio (19 al 23 de octubre).
 cover_image: 
 cover_image_by: 
 cover_image_ref: 
@@ -112,8 +112,7 @@ Resúmenes:<br />
 
  
 
-### Sesiones de trabajo para Grupos de Interés / de Tareas, Talleres, y
-Hackathons
+### Sesiones de trabajo para Grupos de Interés / de Tareas, Talleres, y Hackathons
 
 Las sesiones de trabajo serán estructuradas como reuniones en las que se
 puede permitir a los participantes hablar. Working sessions will be
@@ -186,9 +185,24 @@ referencias, autores y afiliaciones), y pueden incluir figuras y enlaces
 a medios relacionados. Puede publicar algo significativo por una tarifa
 nominal; menos de un décimo del costo para publicar un artículo
 completo.  
- 
 
-## Contactos
+## Zonas horarias
+Uno de los mayores desafíos de planear una conferencia virtual para TDWG es que nuestra comunidad es global. Las diferencias en zonas horarias hacen que la participación simultánea de todos no sea práctica – para alguien cada sesión será programada en mitad de la noche. Mitigaremos estos conflictos de las siguientes formas:
+* Distribuyendo la inconveniencia tan equitativamente como podamos;
+* Grabando las presentaciones y discusiones para los participantes que no pueden asistir a las sesiones;
+* Utilizando presentaciones pregrabadas para oradores que no puedan estar “en vivo”, y
+* Teniendo algunas sesiones dos veces si la demanda lo requiere.
+La figura aquí abajo muestra la distribución de la comunidad de TDWG según zonas horarias, tal como ha sido revelado en nuestra encuesta reciente.
+
+![SurveyResponses](https://static.tdwg.org/conferences/2020/TimeZone_SurveyResponses.png)
+
+Basado en esta distribución, las dos estructuras de sesiones más efectivas serán una transatlántica, de UTC-7 a UTC+3, y una euroasiática, de UTC-0 a UTC +12. Las sesiones como estas, planeadas para alcanzar grandes rangos geográficos, requerirán que las personas que están en las zonas horarias más tempranas y más tardías participen fuera de los horarios laborales “normales”. Esperamos poder tomar decisiones de programación que acomoden las necesidades de contribuyentes fundamentales y maximicen la audiencia potencial.
+
+## Duración de las sesiones y las presentaciones
+Los eventos en línea que ya han sido desarrollados muestran que mucha gente encuentra difícil seguir las presentaciones de manera efectiva por más de una hora sin intervalos. Esperamos estructurar las sesiones como bloques no más largos de 60 minutos sin intervalo. Tenemos la intención de limitar el tiempo total asignado a cada presentador a 15 minutos, lo que significa que la introducción y la presentación en sí no deben exceder los 10 minutos, dejando unos minutos para preguntas y otro minuto para acomodar al siguiente orador.
+Llevaremos a cabo sesiones de prueba tecnológicas antes de cada semana de conferencia, lo cual permitirá a los presentadores evaluar su software, cámara, y micrófono.
+
+## Contacto
 
 Por favor, envíe sus preguntas
 a: [<span class="underline">conf-organizers@tdwg.org</span>](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
