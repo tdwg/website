@@ -120,8 +120,8 @@ puede permitir a los participantes hablar. Working sessions will be
 structured as meetings in which all participants can be enabled to
 speak. Las solicitudes para organizar sesiones de trabajo (incluidos
 grupos de interés y de tareas) durante la semana del 21 al 25 de
-septiembre deben enviarse a través de una [<span class="underline">breve
-formulario</span>](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=664a3297e6&e=e333c91e92).
+septiembre deben enviarse a través de un [<span class="underline">breve
+formulario</span>](https://www.surveymonkey.com/r/C9723S8).
 Todas las propuestas de I/T-G deben ser avaladas, si no presentadas, por
 el representante (convener) del I/T-G. El formulario cerrará el 1 de
 agosto, y una programación preliminar de las sesiones de trabajo será
@@ -132,7 +132,7 @@ publicada el 17 de agosto.
 
 Las propuestas para organizar una o más sesiones durante la semana del
 19 al 23 de octubre están siendo colectadas a través de un
-<span class="underline">segundo formulario breve</span>.  Este
+[<span class="underline">segundo formulario breve</span>](https://www.surveymonkey.com/r/CQGMG2G). Este
 formulario permanecerá abierto hasta el 19 de junio. Los organizadores
 deben notar los lugares y zonas horarias para todos los contribuyentes
 significativos conocidos. También deben indicar si la sesión ya tiene un
@@ -145,7 +145,7 @@ podrían ser consideradas para ser incluidas.
 Se requieren resúmenes para todas las presentaciones y e-posters,
 incluyendo aquellos que son parte de un simposio, y deben ser enviados a
 través de sistema de Pensoft ARPHA para
-[<span class="underline">BISS</span>](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=4aa72a422f&e=e333c91e92).
+[<span class="underline">BISS</span>](https://biss.pensoft.net).
 El llamado para contribuciones individuales será publicado el 22 de
 junio y cerrará el 1 de agosto. Las instrucciones detalladas para
 presentación a través de ARPHA será distribuida y publicada en línea
@@ -159,8 +159,8 @@ la inscripción será gratuita. Los servicios requeridos para organizer
 una conferencia en línea, sin embargo, no son gratuitos.
 
 Por ello, alentamos a todos los participantes a convertirse en miembros
-de TDWG, ya sea por afiliación con un <span class="underline">miembro
-institucional</span> existente o pagando cuotas de membresía
+de TDWG, ya sea por afiliación con un [<span class="underline">miembro
+institucional</span>](/about/membership/#institutional%20members%202020_1) existente o pagando cuotas de membresía
 individuales para el año calendario 2020 ($ 75).
 [<span class="underline">Solicite una
 factura</span>](mailto:secretariat@tdwg.org) para pagar la membresía en
@@ -173,7 +173,7 @@ Se requerirán resúmenes para todas las contribuciones (i.e., todas las
 presentaciones y los e-posters), los cuales compondrán el Proceedings
 of TDWG 2020, una colección en [<span class="underline">Biodiversity
 Information Science and
-Standards</span>](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=d689380cad&e=e333c91e92).
+Standards</span>](https://biss.pensoft.net).
 Normalmente, incluimos los costos de publicación en las tarifas de
 inscripción para la conferencia. Pero este año, sin tarifa de
 inscripción, seguiremos el modelo usual para publicación de acceso
