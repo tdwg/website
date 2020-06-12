@@ -31,7 +31,7 @@ Specification: to maintain the Audubon Core vocabulary.
 
 ## 4. Becoming involved 
 
-The task group welcomes the participation of individuals who have a vested interest
+The interest group welcomes the participation of individuals who have a vested interest
 in maintaining the stability and interoperability of Audubon Core. We need people with interest and experience in 
 vocabulary creation, people who are well versed in best practices for metadata documentation, people with technical 
 data management skills, and people who are experts on various types of media. If you are interested in participating 
