@@ -19,7 +19,7 @@ Standards that describe and support the exchange of biodiversity information are
 
 In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
-## Call for Contributions
+## Call for contributions
 
 <table style="border-collapse: collapse;" border="1" cellpadding="6">
 <thead>
@@ -69,7 +69,7 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 </tbody>
 </table>
 
-### Working Sessions for Interest/Task Groups, Workshops, and Hackathons
+### Working sessions for interest/task groups, workshops, and hackathons
 
 Working sessions will be structured as meetings in which all
 participants can be enabled to speak. Requests to convene working
@@ -81,7 +81,7 @@ convener. The survey will close August 1, and a draft schedule of
 working sessions will be posted on August 17.
  
 
-### Symposia, Panel Discussions, Lightning Talks, etc.
+### Symposia, panel discussions, lightning talks, etc.
 
 Proposals to organize one or more sessions during the week of October
 19-23 are being collected via a [second short
@@ -92,7 +92,7 @@ should also indicate whether the session already has a full complement
 of contributors, or whether other relevant talks may be considered for
 inclusion.
  
-### Individual Contributions (Presentations, E-Posters)
+### Individual contributions (presentations, e-posters)
 
 Abstracts are required for all presentations and e-posters, including
 those that are part of a symposium, and should be submitted through the
@@ -103,7 +103,7 @@ close August 1.  Detailed instructions for making submissions through
 ARPHA will be distributed and posted online before the call opens.
  
 
-## Free Registration
+## Free registration
 
 Registration will be required to participate in the online events, but
 registration will be free. The services required to run an online
@@ -116,7 +116,7 @@ membership online, and help TDWG defray the cost of running the
 conference.
  
 
-## Abstract Publishing Fees
+## Abstract publishing fees
 
 Abstracts will be required for all contributions (i.e., all
 presentations and e-posters), and will comprise the Proceedings of TDWG
@@ -134,7 +134,7 @@ and links to related media. You can publish something significant for a
 nominal fee; less than 1/10th of the cost to publish a full article.
  
 
-## Time Zones
+## Time zones
 
 One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by: 
 
@@ -149,7 +149,7 @@ The figure below shows the distribution of the TDWG community across time zones,
 
 Based on this distribution, the two most effective session structures will be a trans-Atlantic one, from UTC-7 to UTC+3, and a Eurasian one, from UTC-0 to UTC +12. Sessions timed to reach wide geographic ranges, such as these, will require people in the earliest and latest time zones to participate outside “normal” working hours. We hope to make scheduling decisions that accommodate critical contributors and maximize the potential audience.
 
-## Session Length and Presentation Length
+## Session length and presentation length
 
 Online events that have taken place already show that many people find it difficult to follow presentations effectively for much more than an hour without a break. We hope to structure sessions as blocks no longer than 60 minutes without a break. We intend to limit the total time allocated to each presenter to 15 minutes, meaning that the introduction and actual presentation should be no longer than 10 minutes, leaving a few minutes for questions and another minute or so to set up the next speaker. 
 
