@@ -17,7 +17,7 @@ Standards that describe and support the exchange of biodiversity information are
 * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
 * to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
-In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from dissemination sessions (composed of presentations). Working sessions will be scheduled during the week of September 21-25, and dissemination sessions will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
+In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from the virtual conference. Working sessions will be scheduled during the week of September 21-25, and the virtual conference will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
 ## Call for contributions
 
@@ -52,7 +52,7 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 <p><strong>October</strong><br /><strong>19-23</strong></p>
 </td>
 <td style="vertical-align: top; width: 288px;">
-<p>&nbsp;<strong>Dissemination Sessions</strong></p>
+<p>&nbsp;<strong>Virtual Conference</strong></p>
 <ul>
 <li>Symposia and Panel Discussions</li>
 <li>Contributed Presentations (all abstracts)</li>
@@ -62,7 +62,7 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-<p><strong>Dissemination Session Proposals Due</strong><br /><strong>June 19</strong></p>
+<p><strong>Session Proposals Due</strong><br /><strong>June 19</strong></p>
 <p><strong>Abstracts due<br />August 1</strong>&nbsp;</p>
 </td>
 </tr>
