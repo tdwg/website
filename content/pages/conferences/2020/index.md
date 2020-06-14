@@ -1,8 +1,8 @@
 ---
 title: TDWG 2020 - A Virtual Conference
 summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) followed by a second week dedicated to dissemination and sharing (Oct 19-23).
-cover_image: https://static.tdwg.org/conferences/2020/TDWG2020_Logo_banner_r-align.jpg
-cover_image_by: Paula Zermoglio
+cover_image: https://static.tdwg.org/conferences/2020/Conferenceimage-CR.jpg
+cover_image_by: 
 cover_image_ref: 
 tags: conference
 page_order: 30
