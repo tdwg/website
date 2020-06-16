@@ -8,6 +8,8 @@ tags: conference
 page_order: 30
 ---
 
+<img src="https://static.tdwg.org/conferences/2020/TDWG2020_globeLogo.png">
+
 # TDWG 2020 annual conference
 
 _Translations:_  [ES](./es)
