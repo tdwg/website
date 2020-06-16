@@ -8,7 +8,7 @@ tags: conference
 page_order: 30
 ---
 
-<img src="https://static.tdwg.org/conferences/2020/TDWG2020_globeLogo_sm.png" alt="TDWG 2020 Logo" style="float:left">
+<img src="https://static.tdwg.org/conferences/2020/TDWG2020_globeLogo_sm.png" alt="TDWG 2020 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
 # TDWG 2020 annual conference
 
