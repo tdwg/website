@@ -10,6 +10,9 @@ cover_image_ref:
 
 [EN](../)
 
+<img src="https://static.tdwg.org/conferences/2020/TDWG2020_logo_ark_h350.png" alt="TDWG 2020 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
+
+
 Los estándares que describen y apoyan el intercambio de información de
 biodiversidad son una infraestructura científica crítica. Permiten la
 integración de datos en apoyo a la investigación, así como a la toma de
