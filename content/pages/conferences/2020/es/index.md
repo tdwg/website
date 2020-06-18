@@ -6,11 +6,11 @@ cover_image_by:
 cover_image_ref: 
 ---
 
+<img src="https://static.tdwg.org/conferences/2020/TDWG2020_logo_ark_h350.png" alt="TDWG 2020 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
+
 # TDWG 2020: Llamado para contribuciones
 
 [EN](../)
-
-<img src="https://static.tdwg.org/conferences/2020/TDWG2020_logo_ark_h350.png" alt="TDWG 2020 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
 
 Los estándares que describen y apoyan el intercambio de información de
