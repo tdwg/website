@@ -28,4 +28,4 @@ TDWG is now managing the public review of standards on TDWG's GitHub space. Each
 
 Post any comments and questions in the respective repository as an "issue" (see below).  The authors will do their best to respond promptly, but please be patient, summertime always has its distractions.  You need a GitHub account (free) to post an issue, but you don't need to have any further authorization.  If you would like to submit your comment anonymously, please send it as email to the [TDWG secretariat](mailto:secretariat@tdwg.org).  The public reviews will close **August 1st.**
 
-<img src="https://static.tdwg.org/images/articles/github-issues.png" alt="GitHub Issues" style="width:80%">
+<img src="https://static.tdwg.org/images/articles/github-issues.png" alt="GitHub Issues" style="width:100%">
