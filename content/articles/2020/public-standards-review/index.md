@@ -23,8 +23,8 @@ The EFG specification extends the ABCD XML Schema Definition by adding elements 
 
 TDWG is now managing the public review of standards on TDWG's GitHub space. Each of these specifications has its own repository:
 
- * GGBN  -  https://github.com/tdwg/ggbn
- * EFG  -  https://github.com/tdwg/efg
+ * GGBN  -  [https://github.com/tdwg/ggbn](https://github.com/tdwg/ggbn)
+ * EFG  -  [https://github.com/tdwg/efg](https://github.com/tdwg/efg)
 
 Post any comments and questions in the respective repository as an "issue" (see below).  The authors will do their best to respond promptly, but please be patient, summertime always has its distractions.  You need a GitHub account (free) to post an issue, but you don't need to have any further authorization.  If you would like to submit your comment anonymously, please send it as email to the [TDWG secretariat](mailto:secretariat@tdwg.org).  The public reviews will close August 1st.
 
