@@ -100,8 +100,8 @@ Abstracts are required for all presentations and e-posters, including
 those that are part of a symposium, and should be submitted through the
 Pensoft ARPHA system
 for [BISS](https://biss.pensoft.net).
-The call for individual contributions will be posted June 22nd and will
-close August 1.  Detailed instructions for making submissions through
+The call for individual contributions will be posted shortly and will
+stay open for 1 month. Detailed instructions for making submissions through
 ARPHA will be distributed and posted online before the call opens.
  
 
