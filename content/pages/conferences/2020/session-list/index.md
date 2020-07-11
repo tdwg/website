@@ -1,12 +1,12 @@
 ---
-title: TDWG 2020 - TDWG 2020 Symposia & Discussion Sessions
+title: TDWG 2020 - Symposia & Discussion Sessions
 summary: Organized sessions include symposia and panel discussions
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
 tags: conference
 ---
-# SYM01 Standards alignment: which and how?
+## SYM01 Standards alignment: which and how?
 
 Session Type: Symposium (unsolicited presentations considered)
 
