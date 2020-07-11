@@ -18,16 +18,14 @@ _Last updated 10 July 2020_
 5. **To submit your abstract, log in or register** at [https://biss.pensoft.net/](https://biss.pensoft.net/). You will need to acknowledge [Terms of Use](https://biss.pensoft.net/about#TermsofUse) if you are new to the system. While links in emails from pensoft.net should no longer automatically log you in without an intervening Captcha step, **please whitelist or otherwise train your email system to recognize these vital communications**.
 6. **If you are starting a new abstract**, click the “Start Abstract” button, which should be visible after signing in at [https://biss.pensoft.net](https://biss.pensoft.net). Clicking this button takes you to the ARPHA writing tool and creates a _new_ Untitled abstract with some of the author metadata you used to create your account. _This is the easiest way to start a NEW abstract._
 7. **If you have already started an abstract** and are coming back to work on it (will show as Draft), log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of “My recent manuscripts.” Click on your manuscript title, or click on “See More” to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php), where you will see all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you need to delete the extra one(s) here. You can also start new abstracts here, but you will need to specify the journal (_BISS_) and the manuscript type (conference abstract).
-8. **Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). The Collections constitute the themes of the conference. This step is critical as your abstract cannot be directed to the proper editors without this designation. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections) _but only_ when they have control of the manuscript. \
- \
+8. **Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). The Collections constitute the themes of the conference. This step is critical as your abstract cannot be directed to the proper editors without this designation. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections) _but only_ when they have control of the manuscript.
 
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon")
 
 
 Find the most appropriate collection for your abstract. For an explanation about available collections (some are not accepting unsolicited abstracts), please see the [Session List](../session-list/).
 
-![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List")
-
+![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List") 
 
 9. Next, **fill in your abstract’s metadata** from the list at the left by hovering over a category, and then clicking on the pencil icon.
     1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2020” and only that).
@@ -68,7 +66,7 @@ Find the most appropriate collection for your abstract. For an explanation about
 
 ![IncompleteSubmission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "IncompleteSubmission")
 
-    1. The deadline for finalizing your abstract for publication in the journal is **11 September 2020**, to enable us to prepare the program.
+_The deadline for finalizing your abstract for publication in the journal is **11 September 2020**, to enable us to prepare the program._
     
 14. If, at any time, you need further technical assistance, check the [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal’s technical staff via the system. Click “Feedback” icon (on the top navigation bar to open a new window with an email form for you to fill in or email [editor@tdwg.org](mailto:editor@tdwg.org). Note that icons now use tool tips (mouse over) and do not otherwise include text explanations. For content questions, please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org). 
 
