@@ -6,36 +6,37 @@ cover_image_by:
 cover_image_ref: 
 tags: conference
 ---
+
 ## SYM01 Standards alignment: which and how?
 
-Session Type: Symposium (unsolicited presentations considered)
+**Session Type:** Symposium (unsolicited presentations considered)
 
 **Organizers:** [Anton Güntsch](mailto:a.guentsch@bgbm.org), Freie Universität Berlin, Berlin, DE; Stan Blum, Biodiversity Information Standards (TDWG), San Francisco, US
 
 Over the past decades, numerous standards have been developed that are used for the exchange of biodiversity data at various levels. Due to different technical and content-related requirements, these standards were often developed independently, although their scope overlaps considerably in some cases. A prominent example are the TDWG standards ABCD and DarwinCore, which have been developed in parallel and are widely used in the community. The symposium will present examples of standards that could potentially be merged or aligned with other standards in the future. We will also discuss effective methods for standards alignment and merging.
 
 
-# SYM02  Use and re-use of images and their metadata in biodiversity research
+## SYM02  Use and re-use of images and their metadata in biodiversity research
 
-Session Type: Symposium (unsolicited presentations considered)
+**Session Type:** Symposium (unsolicited presentations considered)
 
 **Organizers:** [Patricia Martin-Cabrera](mailto:patricia.cabrera@vliz.be), Flanders Marine Institute, Oostend, BE; Maarten Trekels, Meise Botanic Garden, Meise, BE
 
 Many fields in biodiversity research are generating a vast amount of images. Examples are the mass digitization of natural history collections or automatic sensor-collected images. The amount of images is growing exponentially, and new methodologies such as machine learning are generating derived taxonomic data and metadata. Handling these images imposes new challenges: ranging from visualizing them to storage and sharing of data and metadata. In this symposium we want to give an overview of the use of metadata standards in biological imagery and the various issues that might arise from it, and how to integrate image information. Do existing standards cover well the user needs associated with image handling? What standards exist? Can we learn from other community driven standards (e.g. IIIF)?
 
 
-# SYM03  Enhancing connections with the global neighbourhood through expanding partnerships
+## SYM03  Enhancing connections with the global neighbourhood through expanding partnerships
 
-Session Type: Symposium (unsolicited presentations considered)
+**Session Type:** Symposium (unsolicited presentations considered)
 
 **Organizers:** [Constance Rinaldo](mailto:crinaldo@oeb.harvard.edu), Harvard University, Cambridge, US; Colleen Funkhouser, Biodiversity Heritage Library, Washington, US
 
 The Biodiversity Heritage Library (BHL) is more than a digital library, it is a key resource for data related to biodiversity. Data such as museum specimens, taxonomic names, environmental and geolocation variables is embedded in the published and unpublished literature found in BHL.Over the past year, BHL has developed a five year strategic plan designed to bring more focus on data, technology and partnerships. BHL is already well-established within the global bibliographical knowledge base. The plan for the symposium is to highlight some new directions and identify synergies and connections with current, new and potential partners in the biodiversity knowledge infrastructure. 
 
 
-# SYM04 Challenges of the alignment of collection management systems across the globe and different domains
+## SYM04 Challenges of the alignment of collection management systems across the globe and different domains
 
-Session Type: Symposium (unsolicited presentations considered)
+**Session Type:** Symposium (unsolicited presentations considered)
 
 **Organizers:** [Heimo Rainer](mailto:heimo.rainer@nhm-wien.ac.at), NHM Vienna, Vienna, AT; Falko Glöckler, Museum für Naturkunde Berlin, Berlin, DE
 
@@ -46,9 +47,9 @@ In our symposium we would like to invite different vendors and users of collecti
 The aim of the symposium is to identify and discuss common grounds for addressing these topics.
 
 
-# SYM05 Using Collections to Mitigate and Prevent Zoonotic Disease: Data Mobilization and Integration
+## SYM05 Using Collections to Mitigate and Prevent Zoonotic Disease: Data Mobilization and Integration
 
-Session Type: Symposium (unsolicited presentations considered)
+**Session Type:** Symposium (unsolicited presentations considered)
 
 **Organizers:** [Pamela Soltis](mailto:psoltis@flmnh.ufl.edu), University of Florida/iDigBio, Gainesville, US; Deborah Paul, iDigBio/Florida State University, Tallahassee, US
 
@@ -56,9 +57,9 @@ The COVID-19 pandemic, zoonoses, and pathogens in general provide key opportunit
 
 
 
-# SYM06 You’ve got what in your collection?
+## SYM06 You’ve got what in your collection?
 
-Session Type: Symposium + discussion (no unsolicited presentations)
+**Session Type:** Symposium + discussion (no unsolicited presentations)
 
 **Organizers:** [Deborah L. Paul](mailto:dpaul@fsu.edu), iDigBio, Florida State University, Tallahassee, US; Matt Woodburn, Natural History Museum, London, UK
 
@@ -68,18 +69,18 @@ This session will include presentations that introduce the first version of the 
 
 
 
-# SYM07 New standards development to support the transformation of collection data into digital specimens 
+## SYM07 New standards development to support the transformation of collection data into digital specimens 
 
-Session Type: Symposium (no unsolicited presentations)
+**Session Type:** Symposium (no unsolicited presentations)
 
 **Organizers:** [Wouter Addink](mailto:wouter.addink@naturalis.nl), Naturalis Biodiversity Center, Leiden, NL; Alex Hardisty, Cardiff University, Cardiff, UK
 
 The session will report on development of new standards in support of the Digital Specimen concept as described here: https://dissco.tech/2020/03/31/what-is-a-digital-specimen/. These include Collection Descriptions (CD), Minimum Information for Digital Specimen (MIDS) and the Open Digital Specimen standard (OpenDS). The session aims to disseminate the current state of development.
 
 
-# SYM08  Introduction to the new Living Atlases community
+## SYM08  Introduction to the new Living Atlases community
 
-Session Type: Symposium (no unsolicited presentations)
+**Session Type:** Symposium (no unsolicited presentations)
 
 **Organizers:** [Marie-Elise Lecoq](mailto:melecoq@vertnet.org), VertNet - Living Atlases Community, San Francisco, US; Anders Telenius, Swedish Museum of Natural History, Stockholm, SE
 
@@ -88,9 +89,9 @@ For a few years, we have presented the Atlas of Living Australia platform and Li
 We will explain the work done by both coordinators helped by all the participants and the Living Atlases Management Committee to consolidate this new version of the community. It will include the description of the Memorandum of Understanding, the remote session organized by the technical coordinator and the improvement that we made regarding the technical and non-technical documentation. A presentation of Atlas of Living Australia’s pipeline will close this new symposium.
 
 
-# SYM09 Technical and standards implications in data liberation and semantic publishing for biodiversity
+## SYM09 Technical and standards implications in data liberation and semantic publishing for biodiversity
 
-Session Type: Symposium  (no unsolicited presentations)
+**Session Type:** Symposium  (no unsolicited presentations)
 
 **Organizers:** [Donat Agosti](mailto:agosti@plazi.org), Plazi, Bern, CH; Lyubomir Penev, Pensoft, Sofia, BG
 
@@ -101,9 +102,9 @@ In this symposium we will report on a workflow, a solution to promote to first c
 The goal of this symposium is to describe the underlying concepts, the processing and quality control workflows, the FAIR standards used, and to provide an assessment of the fitness for use of the output data for the principle data re-users.
 
 
-# PD01 Avenues into integration: communicating taxonomic intelligence from sender to recipient
+## PD01 Avenues into integration: communicating taxonomic intelligence from sender to recipient
 
-Session Type: Panel Discussion (unsolicited presentations considered)
+**Session Type:** Panel Discussion (unsolicited presentations considered)
 
 **Organizers:** [Nathan Upham](mailto:nathan.upham@asu.edu), Arizona State University, Tempe, US; Beckett Sterner, Arizona State University, Tempe, US
 
@@ -112,9 +113,9 @@ Session Type: Panel Discussion (unsolicited presentations considered)
 Conventional approaches to reconciling taxonomic information in biodiversity databases have been predominantly based on string matching for unique taxonomic name combinations (e.g., 'Genus species'). However, in their original context these names pertain to specific usages or taxonomic concepts, which can vary in meaning for the same name according to different sources and usages. "Taxonomic intelligence" is the ability and challenge to adequately represent and propagate this complex name/usage interaction within and across trusted biodiversity data networks. New approaches are making progress on key obstacles. An important critique of proposals to use name-to-concept relationships for data aggregation has been the difficulty of scaling them up to reach comprehensive coverage. However, growing efforts by medium-scale data providers and taxonomic authorities suggest an all-or-nothing approach is not required. Nonetheless, with multiple parallel efforts in this domain come potential problems for coordination — how do we ensure that senders and recipients of biodiversity data not only can share messages but do so with “good inferential sense” of their respective meanings? Here we aim to provide a space for brief reviews of diverse, ongoing initiatives in biodiversity AI, logical reasoning, and geospatial analysis to implement taxonomic intelligence. This will set the stage for discussing practical challenges, including reaching broader coverage for name-to-concept alignments, the leveraging of museum specimen metadata, and novel computational tools. 
 
 
-# PD02  The Biocultural Labels Initiative: Supporting Indigenous Rights in Data derived from Genetic Resources
+## PD02  The Biocultural Labels Initiative: Supporting Indigenous Rights in Data derived from Genetic Resources
 
-Session Type: Panel Discussion (no unsolicited presentations)
+**Session Type:** Panel Discussion (no unsolicited presentations)
 
 **Organizers:** [Jane Anderson](mailto:ja77@nyu.edu), New York University / ENRICH, New York, NY; Maui Hudson, University of Waikato, Hamilton, NZ
 
@@ -123,9 +124,9 @@ The Biocultural (BC) Labels and Biocultural (BC) Notices are two distinct tools 
 With the development of these digital tools questions about standards and appropriate metadata fields for the Labels and Notices within DwC standards have arisen. This is partly because both the BC Labels and the BC Notices potentially could be used at a record level in multiple ways - for instance as rightsHolder, accessRights and potentially License. It is also possible that given the absence of Indigenous interests in the larger formation of the DwC standards, that something new might need to be created that can adequately represent these interests, and the integrity in research practice that they promote. This panel brings together the founders of the Biocultural Labels initiative with users of the Labels within researcher and institutional contexts to discuss development, implementation, scaling, standards and metadata fields.
 
 
-# PD03 Enabling digital specimen and extended specimen concepts in current tools and services
+## PD03 Enabling digital specimen and extended specimen concepts in current tools and services
 
-Session Type: Panel Discussion (no unsolicited presentations)
+**Session Type:** Panel Discussion (no unsolicited presentations)
 
 **Organizers:** [Falko Glöckler](mailto:falko.gloeckler@mfn.berlin), Museum für Naturkunde Berlin, Berlin, DE
 
