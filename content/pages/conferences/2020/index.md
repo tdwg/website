@@ -65,7 +65,7 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection 
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
 <p><strong>Session Proposals Due</strong><br /><strong>June 19</strong></p>
-<p><strong>Abstracts due<br />August 1</strong>&nbsp;</p>
+  <p><strong>Abstracts due<br /><span style="color:red">August 12</span></strong>&nbsp;</p>
 </td>
 </tr>
 </tbody>
