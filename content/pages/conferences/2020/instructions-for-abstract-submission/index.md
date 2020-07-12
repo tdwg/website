@@ -7,7 +7,7 @@ cover_image_ref:
 tags: conference
 ---
 
-# Instructions for Abstract Submission – TDWG 2020
+# Instructions for Abstract Submission
 
 _Last updated 10 July 2020_
 
