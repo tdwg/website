@@ -21,7 +21,7 @@ _Last updated 10 July 2020_
 8. **Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). The Collections constitute the themes of the conference. This step is critical as your abstract cannot be directed to the proper editors without this designation. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections) _but only_ when they have control of the manuscript.
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon") <br /> <br />
 Find the most appropriate collection for your abstract. For an explanation about available collections (some are not accepting unsolicited abstracts), please see the [Session List](../session-list/). <br /> <br />
-![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List")
+![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List") <br /> <br />
 9. Next, **fill in your abstract’s metadata** from the list at the left by hovering over a category, and then clicking on the pencil icon.
     1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2020” and only that).
     2. **Title format:** all major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun, (e.g., Title of Awesome Talk: Why are we here in Alexandria?). _Please do not use all uppercase or inappropriate italics in your title._
@@ -58,8 +58,8 @@ Find the most appropriate collection for your abstract. For an explanation about
     6. When the submission process is finalised, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty). 
     7. At publication, you should receive a confirmation email from the journal.
 13.  **Incomplete Submission:** ( If, after your manuscript has been approved, you fail to complete all of the steps in the previous section, you may see it tagged as _Incomplete Submission_ in your ARPHA dashboard, even though a BISS ID has been assigned to it. Because this now has a BISS identifier, you must access actions to complete the submission (or delete it) via the BISS dashboard [https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63](https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63) not ARPHA’s. <br /> <br />
-![IncompleteSubmission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "IncompleteSubmission")<br />
-_The deadline for finalizing your abstract for publication in the journal is **11 September 2020**, to enable us to prepare the program._ <br />
+![IncompleteSubmission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "IncompleteSubmission")<br /> <br /> 
+_The deadline for finalizing your abstract for publication in the journal is **11 September 2020**, to enable us to prepare the program._ <br /> <br />
 14. If, at any time, you need further technical assistance, check the [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, send an email to the journal’s technical staff via the system. Click “Feedback” icon (on the top navigation bar to open a new window with an email form for you to fill in or email [editor@tdwg.org](mailto:editor@tdwg.org). Note that icons now use tool tips (mouse over) and do not otherwise include text explanations. For content questions, please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org). 
 
 
