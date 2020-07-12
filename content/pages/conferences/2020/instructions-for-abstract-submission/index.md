@@ -19,14 +19,9 @@ _Last updated 10 July 2020_
 6. **If you are starting a new abstract**, click the “Start Abstract” button, which should be visible after signing in at [https://biss.pensoft.net](https://biss.pensoft.net). Clicking this button takes you to the ARPHA writing tool and creates a _new_ Untitled abstract with some of the author metadata you used to create your account. _This is the easiest way to start a NEW abstract._
 7. **If you have already started an abstract** and are coming back to work on it (will show as Draft), log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of “My recent manuscripts.” Click on your manuscript title, or click on “See More” to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php), where you will see all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you need to delete the extra one(s) here. You can also start new abstracts here, but you will need to specify the journal (_BISS_) and the manuscript type (conference abstract).
 8. **Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). The Collections constitute the themes of the conference. This step is critical as your abstract cannot be directed to the proper editors without this designation. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections) _but only_ when they have control of the manuscript.
-
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon")
-
-
 Find the most appropriate collection for your abstract. For an explanation about available collections (some are not accepting unsolicited abstracts), please see the [Session List](../session-list/).
-
 ![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List") 
-
 9. Next, **fill in your abstract’s metadata** from the list at the left by hovering over a category, and then clicking on the pencil icon.
     1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2020” and only that).
     2. **Title format:** all major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun, (e.g., Title of Awesome Talk: Why are we here in Alexandria?). _Please do not use all uppercase or inappropriate italics in your title._
@@ -46,7 +41,7 @@ Find the most appropriate collection for your abstract. For an explanation about
         3. Only capitalize proper nouns; do not capitalize the first keyword unnecessarily
     6. **_Please proofread your submission carefully._** 
     7. **Validate:** Click this button (near bottom of left panel) to have the system automatically ensure that mandatory fields are filled in, you have not exceeded the 6,000 character limit, and the abstract is assigned to a collection. Be sure to finish this step, even if you and your co-authors are not finished writing or reviewing your submission.
-10. **Submit for Technical Review:** Clicking this button (bottom of the left panel) is the first step toward submitting your abstract for consideration as part of the virtual conference. This is the step that must be completed by the **12 August deadline**.
+10. **Submit for Technical Review:** <a id="submit-for-technical-review"></a>Clicking this button (bottom of the left panel) is the first step toward submitting your abstract for consideration as part of the virtual conference. This is the step that must be completed by the **12 August deadline**.
     1. You should receive an auto-generated confirmation email (be sure to find this in your email). 
     2. On your ARPHA dashboard, the status of the manuscript will change to _in pre-submission review_ and will be in read-only mode for authors.
     3. You may see the work of various technical editors suggesting changes to be made or making comments on your abstract, but you will only be able to view, not edit your submission while it is in pre-submission review. Wait until you receive official notice that feedback has been requested—do not ask technical editors to make changes.
