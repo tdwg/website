@@ -22,8 +22,7 @@ _Last updated 10 July 2020_
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon")
 
 Find the most appropriate collection for your abstract. For an explanation about available collections (some are not accepting unsolicited abstracts), please see the [Session List](../session-list/).
-![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List") 
-
+![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List")
 9. Next, **fill in your abstract’s metadata** from the list at the left by hovering over a category, and then clicking on the pencil icon.
     1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2020” and only that).
     2. **Title format:** all major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun, (e.g., Title of Awesome Talk: Why are we here in Alexandria?). _Please do not use all uppercase or inappropriate italics in your title._
