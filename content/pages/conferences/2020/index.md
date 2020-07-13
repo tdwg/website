@@ -165,3 +165,6 @@ We will hold technology testing sessions prior to each week of the conference, w
 Please send questions
 to: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
 
+
+## Additional Information
+
