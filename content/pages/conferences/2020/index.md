@@ -14,12 +14,14 @@ page_order: 30
 
 _Translations:_  [ES](./es)
 
-Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated in support of research, as well as decision-making and planning for conservation. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes: 
+Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated in support of research, as well as decision-making and conservation planning. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes: 
 
 * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
 * to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
 In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from the virtual conference. Working sessions will be scheduled during the week of September 21-25, and the virtual conference will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
+
+Although we hope to avoid concurrent sessions, time zones will be a major factor in participation. We hope you will join us in this experiment to reimagine our in-person meetings in a virtual environment. We envision a mixture of three to four 90-minute or 2 h sessions each day, separated by at least a 30 minute break. Additional presenter instructions will be posted at a later date.
 
 ## Call for contributions
 
