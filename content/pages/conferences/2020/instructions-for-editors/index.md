@@ -9,13 +9,13 @@ tags: conference
 
 # Instructions for Editors 
 
-_Last updated 10 July 2020_
+_Last updated 12 July 2020_
 
 **A note on terminology:** Those working with abstracts submitted to TDWG 2020 are considered to be _technical editors_ of one or more collections in [ARPHA](https://arpha.pensoft.net/), the online editing platform used for submissions to the Pensoft journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ or _BISS_). Please [create or update your profile](https://pensoft.net/profile). Make sure that you have only one email address registered.
 
 **Please read all content carefully:** you are acting both as an editor and reviewer. It is your responsibility as editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organization, the conference, and this journal. If you feel unable to do this task, would like additional guidance, or help, please  contact [editor@tdwg.org](mailto:editor@tdwg.org).
 
-**Note on communications from Pensoft:** Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from [awt@pensoft.net](mailto:awt@pensoft.net)) for each abstract in ARPHA for which you are a technical editor (remove links if you share the email).  You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
+**Note on communications from Pensoft:** Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from [awt@pensoft.net](mailto:awt@pensoft.net)) for each abstract in ARPHA for which you are a technical editor. If you share the email, please remove links first.  You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
 
 **Note on communications with authors.** Please be constructive and civil in all communications (comments and emails) with authors. Email authors through 
 
@@ -25,7 +25,7 @@ _Last updated 10 July 2020_
 
 **For help:** Email [editor@tdwg.org](mailto:editor@tdwg.org) with issues about content and procedure. Check [online help](https://arpha.pensoft.net/tips/Edit-sections) (marked as Tips in ARPHA). Contact Pensoft’s technical staff by clicking “Helpdesk” on the top navigation bar if you need additional technical assistance. If you have suggestions for how the workflow can be improved, please send them to [editor@tdwg.org](mailto:editor@tdwg.org). Remember to ALWAYS include an ARPHA# or BISS# in the subject line of all communications. 
 
-1. **Please review TDWG 2020 Instructions for Abstract Submission.** This will help you understand the ARPHA workflow from the author's point of view and what is expected of you. Begin to edit and work with authors as soon after submission as possible. If you are working with a team, divide the workflow and communicate. 
+1. **Please review [TDWG 2020 Instructions for Abstract Submission](https://www.tdwg.org/conferences/2020/instructions-for-abstract-submission/).** This will help you understand the ARPHA workflow from the author's point of view and what is expected of you. Begin to edit and work with authors as soon after submission as possible. If you are working with a team, divide the workflow and communicate. 
 2. **Workflow.** The diagram below splits editorial duties into two parts that should ultimately work in concert with authors for revisions and with the PC editors [editor@tdwg.org](mailto:editor@tdwg.org) for placement. Please work with your co-editors to decide on the best workflow for your group.
     1. Suggest changes using ARPHA's [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) and [Comment](https://arpha.pensoft.net/tips/Comments) features. Only obvious spelling errors are exceptions to this rule.
     2. Use FLAGS (see 3.b.i–vii) to mark editing progress 
@@ -42,7 +42,7 @@ _Last updated 10 July 2020_
         6. **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason
         7. **Reject** - reserved for those abstracts deemed out of scope or otherwise unsuitable for submission. It is not to be used by editors who cannot use an abstract in their collection (see move).
     6. **Rejected.** Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate or does not fit in your collection, flag it and notify [editor@tdwg.org](mailto:editor@tdwg.org) of your opinion.
-    7. **Approved for submission:** Only designated editors at [editor@tdwg.org](mailto:editor@tdwg.org) will have access to the Approve button, everyone else should be using the FLAG. Once the button is pushed, it will be up to[ authors to finish the abstract submission process. ](https://biodiversitynext.org/instruction-for-authors/#point_12)See the instructions for abstract submission for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete Submission).
+    7. **Approved for submission:** Only designated editors at [editor@tdwg.org](mailto:editor@tdwg.org) will have access to the Approve button, everyone else should be using the FLAG. Once the button is pushed, it will be up to authors to finish the abstract submission process. See the [instructions for abstract submission](https://www.tdwg.org/conferences/2020/instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete Submission).
     8. **In layout:** Author has completed the final submission process, a BISS# has been assigned, and abstract is awaiting publication.
     9. **Published **(self-explanatory). A DOI has been implemented and the abstract is [available to the world](https://biss.pensoft.net/collections). Abstracts cannot be withdrawn at this point. Any changes to presenter or placement are non-trivial.
 4. **The Review:**
