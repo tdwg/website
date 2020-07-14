@@ -21,7 +21,7 @@ Standards that describe and support the exchange of biodiversity information are
 
 In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from the virtual conference. Working sessions will be scheduled during the week of September 21-25, and the virtual conference will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
-Although we hope to avoid concurrent sessions, time zones will be a major factor in participation. We hope you will join us in this experiment to reimagine our in-person meetings in a virtual environment. We envision a mixture of three to four 90-minute or 2 h sessions each day, separated by at least a 30 minute break. Additional presenter instructions will be posted at a later date.
+Although we hope to avoid concurrent sessions, the time zones differences across our global community will guarantee that some of the audience for any session will be participating outside normal working hours. Committing to a schedule will help reduce frustration among people who have to get up early or stay up late to join the conference.  We hope you will join us in this experiment to reimagine our in-person meetings in a virtual environment. We envision a mixture of three to four 90-minute or 2 h sessions each day, separated by at least a 30 minute break. Additional presenter instructions will be posted at a later date.
 
 ## Call for contributions
 
@@ -75,68 +75,27 @@ Although we hope to avoid concurrent sessions, time zones will be a major factor
 
 ### Working sessions for interest/task groups, workshops, and hackathons
 
-Working sessions will be structured as meetings in which all
-participants can be enabled to speak. Requests to convene working
-sessions (including interest and task groups) during the week of
-September 21-25 should be submitted through a [short
-survey](https://www.surveymonkey.com/r/C9723S8).
-All I/TG proposals should be endorsed, if not submitted, by the I/TG
-convener. The survey will close August 1, and a draft schedule of
-working sessions will be posted on August 17.
+Working sessions will be structured as meetings in which all participants can be enabled to speak. Requests to convene working sessions (including interest and task groups) during the week of September 21-25 should be submitted through a [short survey](https://www.surveymonkey.com/r/C9723S8). All I/TG proposals should be endorsed, if not submitted, by the I/TG convener. The survey will close August 1, and a draft schedule of working sessions will be posted on August 17.
  
 
-### Symposia, panel discussions, lightning talks, etc.
+### Symposia and panel discussions
 
-Proposals to organize one or more sessions during the week of October
-19-23 are being collected via a [second short
-survey](https://www.surveymonkey.com/r/CQGMG2G). 
-This survey will remain open until June 19. Organizers should note the
-locations and time zones of all known significant contributors. They
-should also indicate whether the session already has a full complement
-of contributors, or whether other relevant talks may be considered for
-inclusion.
+The deadline for proposing a symposium or panel discussion during the week of October 19-23 has already passed. See the [list of organized sessions](./session-list/). We hope to post a draft schedule in early September, after the abstracts have been reviewed and accepted.
  
 ### Individual contributions (presentations, e-posters)
 
-Abstracts are required for all presentations and e-posters, including
-those that are part of a symposium, and should be submitted through the
-Pensoft ARPHA system
-for [BISS](https://biss.pensoft.net).
-The call for individual contributions will be posted shortly and will
-stay open for 1 month. Detailed instructions for making submissions through
-ARPHA will be distributed and posted online before the call opens.
- 
+Abstracts are required for all presentations and e-posters, including those that are part of a symposium, and should be submitted through the
+Pensoft ARPHA system for [_BISS_](https://biss.pensoft.net). The call for individual contributions will be posted shortly and will
+stay open for 1 month. Detailed instructions for making submissions through ARPHA will be distributed and posted online before the call opens.
+
 
 ## Free registration
 
-Registration will be required to participate in the online events, but
-registration will be free. The services required to run an online
-conference, however, are not free. So we encourage all participants to
-become TDWG members, either by affiliation with an
-[institutional member](/about/membership/#institutional%20members%202020_1) or
-by paying individual membership dues for the 2020 calendar year
-(\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay
-membership online, and help TDWG defray the cost of running the
-conference.
- 
+Registration will be required to participate in the online events, but registration will be free. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either by affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
 
 ## Abstract publishing fees
 
-Abstracts will be required for all contributions (i.e., all
-presentations and e-posters), and will comprise the Proceedings of TDWG
-2020, a collection in [*Biodiversity Information Science and
-Standards*](https://biss.pensoft.net).
-Normally, we build publishing costs into the registration fees for the
-conference. But without a registration fee this year, we are going to
-follow the usual model for open-access publishing: authors pay to
-publish, and the paper is then free to read forever. The fee for each
-abstract will be 40€. The publishing fee may be waived, however, in
-cases of financial hardship. Authors please note that abstracts in TDWG
-Proceedings can be as large as a small paper (up to 6,000 characters,
-including references, authors and affiliations), and may include figures
-and links to related media. You can publish something significant for a
-nominal fee; less than 1/10th of the cost to publish a full article.
- 
+Abstracts will be required for all contributions (i.e., all presentations and e-posters), and will comprise the Proceedings of TDWG 2020, a collection in [*Biodiversity Information Science and Standards*](https://biss.pensoft.net). Normally, we build publishing costs into the registration fees for the conference. But without a registration fee this year, we are going to follow the usual model for open-access publishing: authors pay to publish, and the paper is then free to read forever. The fee for each abstract will be 40€. The publishing fee may be waived, however, in cases of financial hardship. Authors please note that abstracts in TDWG Proceedings can be as large as a small paper (up to 6,000 characters, including references, authors and affiliations), and may include figures and links to related media. You can publish something significant for a nominal fee; less than 1/10th of the cost to publish a full article.  
 
 ## Time zones
 
