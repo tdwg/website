@@ -11,11 +11,11 @@ tags: conference
 
 We are pleased to announce the call for abstracts for [TDWG 2020](https://www.tdwg.org/conferences/2020/), the virtual conference of [Biodiversity Information Standards](https://tdwg.org) (TDWG), which will be held 19–23 October 2020 across multiple time zones. Abstracts will be submitted to and published in _[Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/)._ The deadline for the submission of abstracts is **12 August 2020.** Abstracts will be peer reviewed and submission implies participation in TDWG 2020 to present the content either live or pre-recorded. Although there is no registration fee to attend the live conference, view recorded content, or read published abstracts from TDWG 2020's virtual conference, the author submitting an approved abstract will be charged a publication fee of 40€ by the journal as part of the final submission process.
 
-**The theme** for this year's meeting is _Biodiversity Information Standards: Integrating Data from Local to Global Solutions. _In addition to opening plenaries, the conference will feature 9 symposia and 3 panel discussions as well as contributed oral presentations (recorded live or pre-recorded) and posters. Updates to the following documents will be posted as necessary on the website.
+**The theme** for this year's meeting is _Biodiversity Information Standards: Integrating Data from Local to Global Solutions._ In addition to opening plenaries, the conference will feature 9 symposia and 3 panel discussions as well as contributed oral presentations (recorded live or pre-recorded) and posters. Updates to the following documents will be posted as necessary on the website.
 
 *   [List of symposia and panel discussions](https://www.tdwg.org/conferences/2020/session-list/) (note some sessions will consider unsolicited presentations)
 *   [Instructions for Authors for Abstract Submission](https://www.tdwg.org/conferences/2020/instructions-for-abstract-submission/) - deadline 12 August 2020
-*   _[TDWG 2020 Proceedings](https://biss.pensoft.net/collection/222/)_ and past [collections in BISS](https://biss.pensoft.net/collections)_ _
+*   _[TDWG 2020 Proceedings](https://biss.pensoft.net/collection/222/)_ and past [collections in _BISS_](https://biss.pensoft.net/collections)
 *   [Instructions for Editors](https://www.tdwg.org/conferences/2020/instructions-for-editors/) - get a peek behind the process of reviewing/editing your abstract
 
 **Presentations & Timing**
