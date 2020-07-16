@@ -1,5 +1,5 @@
 ---
-title: TDWG 2020 - Llamado para presentación de resúmenes
+title: Llamado para presentación de resúmenes
 summary: Contribuciones individuales (presentaciones y posters) requieren resúmenes, los cuales serán publicados en Biodiversity Information Science and Standards (BISS) como los Proceedings of TDWG 2020.
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by:
