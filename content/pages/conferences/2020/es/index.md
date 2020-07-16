@@ -1,5 +1,5 @@
 ---
-title: TDWG 2020 - Una Conferencia Virtual
+title: Una Conferencia Virtual
 summary: TDWG 2020 será una conferencia virtual dividida en sesiones de trabajo (del 21 al 25 de septiembre) seguida de una segunda semana dedicada a la difusión y el intercambio (19 al 23 de octubre).
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
