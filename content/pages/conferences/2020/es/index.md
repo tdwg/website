@@ -8,7 +8,7 @@ cover_image_ref:
 
 <img src="https://static.tdwg.org/conferences/2020/TDWG2020_logo_ark_h350.png" alt="TDWG 2020 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
-# TDWG 2020: Llamado para contribuciones
+# Conferencia anual de TDWG 2020
 
 [EN](../)
 
@@ -42,85 +42,68 @@ sesiones paralelas, optimizar tecnologías, y evitar conflictos de
 programación con otras organizaciones. También dará tiempo a los
 participantes en nuestras sesiones de trabajo de sintetizar sus
 resultados en presentaciones.  
-  
- 
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Fecha Conferencia</strong></th>
-<th><strong>Tipos de sesiones</strong></th>
-<th><strong>Fechas límite de presentación</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>21-25</strong></p>
-<p><strong>septiembre</strong></p>
-<p> </p></td>
-<td><p><strong>Sesiones de trabajo</strong></p>
-<ul>
-<li>
-<p>Introducción a TDWG, Talleres, y Entrenamiento</p>
-</li>
-<li>
-<p>TDWG Grupos de Interés / de Tareas (I/TG)</p>
-</li>
-<li>
-<p>Hackathons</p>
-</li>
-<li>
-<p>Reuniones “Birds of a Feather” para proponer nuevos Grupos de Interés / de Tareas</p>
-</li>
-</ul></td>
-<td><p><strong>Propuestas para sesiones de trabajo: 1<br />
-Agosto</strong></p>
-<p> </p></td>
-</tr>
-<tr class="even">
-<td><p><strong>19-23</strong></p>
-<p><strong>octubre</strong></p></td>
-<td><p><strong>Sesiones de diseminación</strong></p>
-<ul>
-<li>
-<p>Simposios y Paneles de discusión</p>
-</li>
-<li>
-<p>Presentaciones (todos los resúmenes)</p>
-</li>
-<li>
-<p>E-Posters, etc.</p>
-</li>
-<li>
-<p>Plenarias</p>
-</li>
-<li>
-<p>Reunión administrativa, incluyendo reportes I/TG</p>
-</li>
-</ul></td>
-<td><p><strong>Propuestas para sesiones de diseminación: 19 Junio<br />
-<br />
-Resúmenes:<br />
-1 Agosto</strong></p>
-<p> </p></td>
-</tr>
-</tbody>
-</table>
-
- 
-
- 
+En la semana de conferencia virtual esperamos una combinación de tres a cuatro sesiones de 90 minutos o 2hs cada día, separadas por al menos un intervalo de 30 minutos. Instrucciones adicionales para los presentadores serán publicadas más adelante. Aunque esperamos evitar las sesiones simultáneas, las diferencias en las zonas horarias en nuestra comunidad global garantizan que parte de la audiencia de cualquier sesión estará participando fuera de los horarios laborales normales. Comprometerse con un horario ayudará a reducir la frustración entre las personas que deben despertarse temprano o permanecer despiertas hasta tarde para participar de la conferencia. Esperamos que se nos unan en este experimento para reimaginar nuestras reuniones presenciales en un entorno virtual. 
 
 ## Llamado para contribuciones
 
+<table style="border-collapse: collapse;" border="1" cellpadding="6">
+<thead>
+<tr>
+<td style="text-align: center; width: 89px;"><strong>Fecha Conferencia</strong></td>
+<td style="width: 288px;"><strong>Tipos de sesiones</strong></td>
+<td style="width: 158px; text-align: center;"><strong>Fechas límite de presentación</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="vertical-align: top; text-align: center; width: 89px;">
+<p><strong>21-25<br /> septiembre</strong></p>
+</td>
+<td style="vertical-align: top; width: 288px;">
+<p><strong>Sesiones de trabajo</strong></p>
+<ul>
+<li>Introducción a TDWG, Talleres, y Entrenamiento</li>
+<li>TDWG Grupos de Interés / de Tareas (I/TG)</li>
+<li>Hackathons</li>
+<li>Reuniones “Birds of a Feather” para proponer nuevos Grupos de Interés / de Tareas</li>
+</ul>
+</td>
+<td style="text-align: center; vertical-align: top; width: 158px;">
+<p><strong>Propuestas para sesiones de trabajo:<br />1 agosto</strong></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: center; width: 89px;">
+<p><strong>19-23</strong><br /><strong>octubre</strong></p>
+</td>
+<td style="vertical-align: top; width: 288px;">
+<p>&nbsp;<strong>Conferencia virtual</strong></p>
+<ul>
+<li>Simposios y Paneles de discusión</li>
+<li>Presentaciones (todos los resúmenes)</li>
+<li>E-Posters, etc.</li>
+<li>Plenarias</li>
+<li>Reunión administrativa, incluyendo reportes I/TG</li>
+</ul>
+</td>
+<td style="text-align: center; vertical-align: top; width: 158px;">
+<p><strong>Propuestas para sesiones de diseminación:</strong><br /><strong>19 Junio</strong></p>
+  <p><strong>Resúmenes:<br /><span style="color:red">12 agosto</span></strong><br /><em>(nueva fecha)*</em><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
  
+ 
+ \* Ver [Llamado para presentación de resúmenes](https://www.tdwg.org/conferences/2020/es/envio-de-resumenes)
 
+
+ 
 ### Sesiones de trabajo para Grupos de Interés / de Tareas, Talleres, y Hackathons
 
 Las sesiones de trabajo serán estructuradas como reuniones en las que se
-puede permitir a los participantes hablar. Working sessions will be
-structured as meetings in which all participants can be enabled to
-speak. Las solicitudes para organizar sesiones de trabajo (incluidos
+puede permitir a los participantes hablar. Las solicitudes para organizar sesiones de trabajo (incluidos
 grupos de interés y de tareas) durante la semana del 21 al 25 de
 septiembre deben enviarse a través de un [<span class="underline">breve
 formulario</span>](https://www.surveymonkey.com/r/C9723S8).
@@ -130,16 +113,9 @@ agosto, y una programación preliminar de las sesiones de trabajo será
 publicada el 17 de agosto.  
  
 
-### Simposios, Paneles de discusión, “Lightning Talks”, etc.
+### Simposios y Paneles de discusión
 
-Las propuestas para organizar una o más sesiones durante la semana del
-19 al 23 de octubre están siendo colectadas a través de un
-[<span class="underline">segundo formulario breve</span>](https://www.surveymonkey.com/r/CQGMG2G). Este
-formulario permanecerá abierto hasta el 19 de junio. Los organizadores
-deben notar los lugares y zonas horarias para todos los contribuyentes
-significativos conocidos. También deben indicar si la sesión ya tiene un
-complemento completo de contribuyentes, o si otras charlas relevantes
-podrían ser consideradas para ser incluidas.  
+La fecha límite para proponer simposios o paneles de discusión durante la semana del 19 al 23 de octubre ya ha vencido. Vea la [lista de sesiones organizadas](./session-list/). Esperamos publicar una programación preliminar a principios de septiembre, luego de que los resúmenes hayan sido revisados y aceptados.
  
 
 ### Contribuciones individuales (Presentaciones, E-Posters)
@@ -148,10 +124,8 @@ Se requieren resúmenes para todas las presentaciones y e-posters,
 incluyendo aquellos que son parte de un simposio, y deben ser enviados a
 través de sistema de Pensoft ARPHA para
 [<span class="underline">BISS</span>](https://biss.pensoft.net).
-El llamado para contribuciones individuales será publicado el 22 de
-junio y cerrará el 1 de agosto. Las instrucciones detalladas para
-presentación a través de ARPHA será distribuida y publicada en línea
-cuando abra el llamado.  
+El [llamado para contribuciones individuales](https://www.tdwg.org/conferences/2020/es/envio-de-resumenes) ya ha sido publicado. La fecha límite para el envío de resúmenes es el 12 de agosto. Las instrucciones detalladas para
+presentación a través de ARPHA también han sido publicadas.
  
 
 ## Inscripción Gratuita
@@ -210,4 +184,4 @@ Llevaremos a cabo sesiones de prueba tecnológicas antes de cada semana de confe
 Por favor, envíe sus preguntas
 a: [<span class="underline">conf-organizers@tdwg.org</span>](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
 
-## [Llamado para presentación de resúmenes](./envio-de-resumenes/)
+
