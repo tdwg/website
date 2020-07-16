@@ -209,3 +209,5 @@ Llevaremos a cabo sesiones de prueba tecnológicas antes de cada semana de confe
 
 Por favor, envíe sus preguntas
 a: [<span class="underline">conf-organizers@tdwg.org</span>](mailto:conf-organizers@tdwg.org?subject=TDWG%202020)
+
+## [Llamado para presentación de resúmenes](./envio-de-resumenes/)
