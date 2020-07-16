@@ -85,8 +85,7 @@ The deadline for proposing a symposium or panel discussion during the week of Oc
 ### Individual contributions (presentations, e-posters)
 
 Abstracts are required for all presentations and e-posters, including those that are part of a symposium, and should be submitted through the
-Pensoft ARPHA system for [_BISS_](https://biss.pensoft.net). The call for individual contributions will be posted shortly and will
-stay open for 1 month. Detailed instructions for making submissions through ARPHA will be distributed and posted online before the call opens.
+Pensoft ARPHA system for [_BISS_](https://biss.pensoft.net). The [call for individual contributions](./call-for-abstracts/) has been posted. The submission deadline is 12 August. Detailed [instructions](./instructions-for-abstract-submission/) for making submissions through ARPHA has also been posted.
 
 
 ## Free registration
