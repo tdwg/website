@@ -118,6 +118,18 @@ Online events that have taken place already show that many people find it diffic
 We will hold technology testing sessions prior to each week of the conference, which will allow presenters to test their software, camera, and microphone.
 
 
+## Sponsors
+
+<table border="0">
+<tbody>
+<tr>
+<td><img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="GBIF.org" width="" height="" /></td>
+<td><img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft.net" width="" height="" /></td>
+</tr>
+</tbody>
+</table>
+
+
 ## Contacts
 
 Please send questions
