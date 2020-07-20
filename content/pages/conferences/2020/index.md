@@ -125,8 +125,16 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by th
 <table border="0">
 <tbody>
 <tr>
-<td style="background-color: #FFFFFF; vertical-align: middle;"><img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="GBIF.org" width="" height="" /></td>
-<td style="background-color: #FFFFFF; vertical-align: middle;"><img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft.net" width="" height="" /></td>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
+  <a href="https://gbif.org">
+    <img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="GBIF.org" width="" height="" />
+  </a>
+</td>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
+  <a href="https://pensoft.net">
+  <img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft.net" width="" height="" />
+  </a>
+</td>
 </tr>
 </tbody>
 </table>
