@@ -122,9 +122,9 @@ We will hold technology testing sessions prior to each week of the conference, w
 
 <table border="0">
 <tbody>
-<tr style="vertical-align: middle;">
-<td><img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="GBIF.org" width="" height="" /></td>
-<td><img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft.net" width="" height="" /></td>
+<tr>
+<td style="vertical-align: middle;"><img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="GBIF.org" width="" height="" /></td>
+<td style="vertical-align: middle;"><img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft.net" width="" height="" /></td>
 </tr>
 </tbody>
 </table>
