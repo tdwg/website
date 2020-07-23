@@ -11,7 +11,7 @@ tags: conference
 
 **Session Type:** Symposium (unsolicited presentations considered)
 
-**Organizers:** [Anton Güntsch](mailto:a.guentsch@bgbm.org), Freie Universität Berlin, Berlin, DE; Stan Blum, Biodiversity Information Standards (TDWG), San Francisco, US
+**Organizers:** [Anton Güntsch](mailto:a.guentsch@bgbm.org), Freie Universität Berlin, Berlin, DE; Stan Blum, Biodiversity Information Standards (TDWG), San Francisco, US; David Fichtmüller Freie Universität Berlin, Berlin, DE
 
 Over the past decades, numerous standards have been developed that are used for the exchange of biodiversity data at various levels. Due to different technical and content-related requirements, these standards were often developed independently, although their scope overlaps considerably in some cases. A prominent example are the TDWG standards ABCD and DarwinCore, which have been developed in parallel and are widely used in the community. The symposium will present examples of standards that could potentially be merged or aligned with other standards in the future. We will also discuss effective methods for standards alignment and merging.
 
