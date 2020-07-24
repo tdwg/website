@@ -63,3 +63,5 @@ Mareike Petersen | Museum für Naturkunde, Berlin, Germany
 ## 7. Resources
 
 - Git hub repository at https://github.com/tdwg/esp  
+
+## 8. Task groups
