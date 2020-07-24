@@ -61,7 +61,7 @@ The COVID-19 pandemic, zoonoses, and pathogens in general provide key opportunit
 
 **Session Type:** Symposium + discussion (no unsolicited presentations)
 
-**Organizers:** [Deborah L. Paul](mailto:dpaul@fsu.edu), iDigBio, Florida State University, Tallahassee, US; Matt Woodburn, Natural History Museum, London, UK
+**Organizers:** [Deborah L. Paul](mailto:dpaul@fsu.edu), iDigBio, Florida State University, Tallahassee, US; Cat Chapman, iDigBio, University of Florida, Gainesville, US
 
 Digitization and publishing of museum specimen data is happening worldwide. While many museums are actively engaged in this process, others have yet to begin. Information about what collections hold is urgently needed by many stakeholders including the collections themselves, funders, researchers, policy-makers, countries, industry, and educators. At higher levels, museums can start by sharing what they know about their holdings, long before each item has its own record. But, if we are going to aggregate this “metadata” information from all natural science collections, the data need to be “standard.” If everyone shared in their own format, we could not compare or add up what we have, for example. To share this data in its most effective format, it needs to be standardized. But where does this standard come from, and how can it be used in practice? 
 
@@ -134,4 +134,4 @@ Digital specimens represent physical collection objects in cyberspace and consis
 
 In this session central questions on the requirements, obstacles and chances of implementing the concepts of digital specimens and extended specimens in software tools are being discussed. The aim is to identify the major tasks and priorities regarding the transformation of tools and services from multiple perspectives: local collection data management, international data infrastructures like DiSSCo and GBIF, data usage outside of domain specific subject areas.
 
-__Last updated 10 July 2020__
+__Last updated 23 July 2020__
