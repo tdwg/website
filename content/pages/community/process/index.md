@@ -60,7 +60,7 @@ Name | Affiliation
 
 ## Clients
 
-* TDWG “officials” -- anyone managing TDWG business
+* TDWG “officials” — anyone managing TDWG business
 * TDWG members and participants
 * Biodiversity information managers
 * Anyone needing information about the authority behind a TDWG standard

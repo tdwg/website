@@ -71,8 +71,8 @@ Each of the proposed goals of this TG are distinct enough to allow members of th
 - Preliminary collection and assessment of already existing vocabularies across the community (<https://docs.google.com/spreadsheets/d/1SDbtZxEzg0t10OSNDPJN0XSye6mMOTTCIBH3xh-HUYA/edit#gid=0>).
 - ANSI/NISO Z39.19-2005 (R2010) — Guidelines for the construction, format, and management of monolingual controlled vocabularies, National Information Standards Organization (US). (<http://www.niso.org/apps/group_public/download.php/12591/z39-19-2005r2010.pdf>).
 - ISO Standard for thesauri, ISO25964, (<https://en.wikipedia.org/wiki/ISO_25964>).
-- ISO 25964-1:2011 Information and documentation -- Thesauri and interoperability with other vocabularies -- Part 1: Thesauri for information retrieval (<https://www.iso.org/standard/53657.html>).
-- ISO 25964-2:2013 Information and documentation -- Thesauri and interoperability with other vocabularies -- Part 2: Interoperability with other vocabularies (<https://www.iso.org/standard/53658.html>).
+- ISO 25964-1:2011 Information and documentation — Thesauri and interoperability with other vocabularies — Part 1: Thesauri for information retrieval (<https://www.iso.org/standard/53657.html>).
+- ISO 25964-2:2013 Information and documentation — Thesauri and interoperability with other vocabularies — Part 2: Interoperability with other vocabularies (<https://www.iso.org/standard/53658.html>).
 - TDWG Vocabulary Maintenance Specification Task Group (<https://github.com/tdwg/vocab>).
 - Distinct Value lists (<https://github.com/tdwg/dwc-qa/tree/master/data>).
 - TDWG Data Quality mailing list (<http://lists.tdwg.org/mailman/listinfo/tdwg-bdq>).

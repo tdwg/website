@@ -12,7 +12,7 @@ tags: 2020 Conference
 
 The 2020 annual conference for Biodiversity Information Standards (TDWG) has been postponed until 2021. In response to the coronavirus pandemic, governments around the world have issued directives that effectively require conferences to be cancelled. 
 
-TDWG's 2020 conference was being organized in collaboration with iDigBio, GBIF, and the National Museum of Natural History, Smithsonian.  We hope that in 18 months the crisis will have passed and we will be able to go forward with the same plans -- to convene in Alexandria, Virginia, USA (just outside of Washington, DC) -- just one year later. 
+TDWG's 2020 conference was being organized in collaboration with iDigBio, GBIF, and the National Museum of Natural History, Smithsonian.  We hope that in 18 months the crisis will have passed and we will be able to go forward with the same plans — to convene in Alexandria, Virginia, USA (just outside of Washington, DC) — just one year later. 
 
 If you have already submitted an abstract, the editors will be in touch about options to withdraw or publish in a different context.
 

@@ -33,7 +33,7 @@ This group, open to all interested parties, originates from mainly from two curr
 
 There are numerous projects around the world that aims to respond to the demand for "species information". Many of the elements sought and produced within these initiatives could be effectively re-used if there were a common language and a framework. This interest group is established to advance these common components. 
 
-All interested parties are encouraged to become involved with the interest group or specific task groups. Membership of this group is open. If you work with species, involved in creation or editing of digital flora or faunas, species pages-- whether these are generalized or specialized (legal, conservation, management, etc.), mash-ups around species -- and you would like to share your data with others, TSI may need your contribution.
+All interested parties are encouraged to become involved with the interest group or specific task groups. Membership of this group is open. If you work with species, involved in creation or editing of digital flora or faunas, species pages-- whether these are generalized or specialized (legal, conservation, management, etc.), mash-ups around species — and you would like to share your data with others, TSI may need your contribution.
 
 Please contact the convener or any core member about how to become involved. 
 

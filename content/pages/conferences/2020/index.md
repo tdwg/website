@@ -19,7 +19,7 @@ Standards that describe and support the exchange of biodiversity information are
 * to provide a forum for developing, refining, and extending standards in response to new challenges and opportunities; and
 * to provide a showcase for biodiversity informatics – much of which relies on the standards created by TDWG and other organizations.
 
-In 2020, we cannot meet in person, so TDWG 2020 will be virtual -- a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from the virtual conference. Working sessions will be scheduled during the week of September 21-25, and the virtual conference will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
+In 2020, we cannot meet in person, so TDWG 2020 will be virtual — a collection of online working sessions, webinar-style symposia, presentations, panel discussions, and recorded presentations. This year we are separating working sessions from the virtual conference. Working sessions will be scheduled during the week of September 21-25, and the virtual conference will be scheduled the week of October 19-23. This separation will help us minimize parallel sessions, optimize the technologies, and avoid scheduling conflicts with other organizations. It will also give participants in our working sessions time to synthesize their results into presentations.
 
 In the virtual conference week, we envision a mixture of three to four 90-minute or 2 h sessions each day, separated by at least a 30 minute break. Additional presenter instructions will be posted at a later date. Although we hope to avoid concurrent sessions, the time zones differences across our global community will guarantee that some of the audience for any session will be participating outside normal working hours. Committing to a schedule will help reduce frustration among people who have to get up early or stay up late to join the conference.  We hope you will join us in this experiment to reimagine our in-person meetings in a virtual environment. 
 
@@ -44,7 +44,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 <li>Introduction to TDWG, Workshops, and Training</li>
 <li>TDWG Interest &amp; Task Group (I/TG) sessions</li>
 <li>Hackathons</li>
-<li>"Birds of a Feather" meeting -- to organize a new Interest Group</li>
+<li>"Birds of a Feather" meeting — to organize a new Interest Group</li>
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
@@ -98,7 +98,7 @@ Abstracts will be required for all contributions (i.e., all presentations and e-
 
 ## Time zones
 
-One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical -- every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by: 
+One of the biggest challenges in planning a virtual conference for TDWG is that our community is global. Time zone differences make simultaneous participation for everyone impractical — every session will be scheduled in the middle of the night for someone. We will mitigate these conflicts by: 
 
 * Distributing the inconvenience as equitably as we can; 
 * Recording presentations and discussion for participants who can’t attend a session; 
