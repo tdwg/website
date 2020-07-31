@@ -1,5 +1,5 @@
 ---
-title: OSR - How Did It Die
+title: OSR - How Did It Die?
 summary: A Task Group of the Observations and Specimens Interest Group
 cover_image:
 cover_image_by:
