@@ -144,7 +144,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by th
 </td>
 <td style="background-color: #FFFFFF; vertical-align: middle;">
   <a href="https://dissco.eu">
-  <img src="https://static.tdwg.org/conferences/2020/sponsors/dissco-logo_w600px.png" alt="DiSSCo.eu" width="" height="" />
+  <img src="https://static.tdwg.org/conferences/sponsors/dissco-logo_w600px.png" alt="DiSSCo.eu" width="" height="" />
   </a>
 </td>
 </tr>
