@@ -179,6 +179,53 @@ Basado en esta distribución, las dos estructuras de sesiones más efectivas ser
 Los eventos en línea que ya han sido desarrollados muestran que mucha gente encuentra difícil seguir las presentaciones de manera efectiva por más de una hora sin intervalos. Esperamos estructurar las sesiones como bloques no más largos de 60 minutos sin intervalo. Tenemos la intención de limitar el tiempo total asignado a cada presentador a 15 minutos, lo que significa que la introducción y la presentación en sí no deben exceder los 10 minutos, dejando unos minutos para preguntas y otro minuto para acomodar al siguiente orador.
 Llevaremos a cabo sesiones de prueba tecnológicas antes de cada semana de conferencia, lo cual permitirá a los presentadores evaluar su software, cámara, y micrófono.
 
+
+## Patrocinadores
+
+TDWG agradece el apoyo financiero o en especie a TDWG 2020 de las siguientes organizaciones.
+
+<table border="0">
+<tbody>
+<tr>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
+  <a href="https://gbif.org">
+    <img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="" height="" />
+  </a>
+</td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://pensoft.net">
+    <img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://JRSbiodiversity.org">
+      <img src="https://static.tdwg.org/sponsors/jrs-logo.png" alt="JRS Biodiversity Foundation logo" width="" height="" />
+    </a>
+  </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://dissco.eu">
+    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="Distributed System of Scientific Collections logo" width="" height="" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://ala.org.au">
+      <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="" height="" />
+    </a>
+  </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <!-- a href="https://dissco.eu">
+    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo.eu" width="" height="" />
+    </a  -->
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 ## Contacto
 
 Por favor, envíe sus preguntas
