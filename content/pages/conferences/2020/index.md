@@ -132,7 +132,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by th
 </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://pensoft.net">
-    <img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft Publishing logo" width="" height="" />
+    <img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
     </a>
   </td>
 </tr>
@@ -144,14 +144,14 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by th
   </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://dissco.eu">
-    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="Atlas of Living Australia logo" width="" height="" />
+    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="Distributed System of Scientific Collections logo" width="" height="" />
     </a>
   </td>
 </tr>
 <tr>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://ala.org.au">
-      <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="JRS Biodiversity" width="" height="" />
+      <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="" height="" />
     </a>
   </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
