@@ -25,7 +25,7 @@ Accordingly, the conference organizers prohibit intimidating, threatening, or ha
 
 **Authors and Presenters** should conform to the highest standards of scientific attribution and citation in their abstracts and presentations. All authors connected to a presentation and its associated abstract must be aware of and agree with the information presented. Obtaining consent from all authors associated with the presentation is the responsibility of the lead author. The presenter of a submitted abstract must have intention of registering, attending, and participating in the meeting once the submission is accepted into the program. 
 
-~~Please respect the presenter's "no sharing" (crossed out Twitter logo) on slides or posters.~~
+<span style="text-decoration: line-through">Please respect the presenter's "no sharing" (crossed out Twitter logo) on slides or posters.</span>
 
 Because TDWG's mission is to reach as broad an audience as possible, abstracts are published, and presentations (audio/video, slides, and posters) may be streamed, recorded, and made publically available. TDWG reserves the right to use photographs and videos taken and testimonials given during this event or in subsequent meeting surveys for informational and promotional purposes.
 
