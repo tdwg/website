@@ -38,8 +38,9 @@ Bibliographic citation
 
 ## Parts of the standard
 
-The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabulary (<http://rs.tdwg.org/dwc/>), and five documents:
+The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabulary (<http://rs.tdwg.org/dwc/>), and six documents:
 
+- [List of Darwin Core terms](http://rs.tdwg.org/dwc/doc/list/) - a complete list of all terms in namespaces currently used in the vocabulary
 - [Simple Darwin Core Guide](http://rs.tdwg.org/dwc/terms/simple/) - a guide for sharing information using the simplest methods
 - [Darwin Core Text Guide](http://rs.tdwg.org/dwc/terms/guides/text/) - a guide for sharing information using text files
 - [Darwin Core XML Guide](http://rs.tdwg.org/dwc/terms/guides/xml/) - a guide for constructing application schemas using XML
