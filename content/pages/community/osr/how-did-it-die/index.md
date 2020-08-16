@@ -11,6 +11,8 @@ status: published
 
 # How did it die? 
 
+'How did it die?' is a placeholder name for the Task Group until the name is agreed. 
+
 ## Convenor
 
   - Sophia Ratcliffe, NBN Trust, UK
@@ -20,12 +22,6 @@ status: published
   - Quentin Groom, Meise Botanic Garden, Belgium
   - Janeen Jones, The Field Museum, Chicago, United States
   - Libby Ellwood, Natural History Museum of Los Angeles, United States
-
-People expressing an interest in the task group:
- 
-  - Mary Kennedy, OBIS, Canada
-  - John Nicholls, OBIS, Ireland
-  - Abby Benson, USGS
 
 ## Motivation
 
@@ -54,6 +50,7 @@ The scope of the terms, their names and vocabularies will be discussed within th
 
 ## Strategy 
 
+  - Agree Task Group name
   - The scope of the terms will be agreed before proposing names and developing controlled vocabularies.
   - The outputs will be produced by the convener and core members in consultation with any other interested parties.
   - Information on the group’s deliverables will be maintained on GitHub.
@@ -65,6 +62,7 @@ The scope of the terms, their names and vocabularies will be discussed within th
 
 **21-25 September 2020** (How did it die? Working session, TDWG 2020 virtual conference)
 
+  - Agree Task Group name
   - Agree scope and proposed names for the terms.
   - Decide whether to make separate proposals for the two terms, which
     might be more efficient as cause of death is the more complex of
