@@ -47,6 +47,8 @@ The Darwin Core standard is comprised of one vocabulary, the Darwin Core vocabul
 - [Darwin Core RDF Guide](http://rs.tdwg.org/dwc/terms/guides/rdf/) - a guide for encoding biodiversity data using the Resource Description Framework (RDF)
 - [Darwin Core Namespace Policy](http://rs.tdwg.org/dwc/terms/namespace/) - an explanation of how URIs for Darwin Core terms should be constructed
 
+An additional document, the [Quick Reference Guide](https://dwc.tdwg.org/terms/) is maintained outside the standard and summarizes the currently recommended terms.
+
 ## Maintenance group
 
 Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group](../../community/dwc).
