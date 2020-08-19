@@ -16,7 +16,7 @@ tags: conference
 **Description:** Ever wonder what Biodiversity Information Standards (TDWG) is or does? How can you become involved? Come join us to find out, get a bit of background about both the working group meetings coming up the week of 21–25 September, as well as the Symposia and Discussion [sessions](https://www.tdwg.org/conferences/2020/session-list/) planned for the 19–23 October.
 
 
-# Birds Of A Feather Group
+# Birds Of A Feather Session
 
 ## BOF01: Converging Digital Specimens and Extended Specimens - Towards a global specification  
 
@@ -27,7 +27,7 @@ tags: conference
 **Description**: Digital Specimens (DS) are the transformative mechanism necessary to link natural science specimens with other artifacts and data about them. They are the means by which information about specimens may be found, processed and used on the Internet; by which specimens may be unambiguously attributed; and by which usage and discoveries associated with specimens can be tracked (e.g., for repatriating the benefits of specific discoveries back to the country of origin of the specimen). DS implement the ‘extended specimen’ concept (Webster et al., 2017) and provide the means by which ‘Next Generation Collections’ (Schindel and Cook, 2018) can be managed. In Europe, a workshop in Warsaw, February 2020 organised by the COST action ‘MOBILISE’ ([https://www.mobilise-action.eu/](https://www.mobilise-action.eu/)) as part of the DiSSCo programme ([https://www.dissco.eu/](https://www.dissco.eu/)) demonstrated a wide measure of interest in pursuing a specification for open Digital Specimens, with the intention to improve findability, accessibility, interoperability and reusability of the digitized rich data derived from physical specimens in natural science collections as mutable digital objects on the Internet (Hardisty et al. 2020 - [https://doi.org/10.34960/8z9g-bm52](https://doi.org/10.34960/8z9g-bm52)). In October 2018 at a workshop in Upperville, VA (USA), the Biodiversity Collections Network (BCoN), proposed an initiative for an Extended Specimen Network (ESN) to enhance the research potential of specimens through further digitization and linking with associated extended data. (Lendemer et al. 2019 - [https://doi.org/10.1093/biosci/biz140](https://doi.org/10.1093/biosci/biz140)). ESN requires development of new data integration mechanisms necessary to link the dynamic components together across collections, data types, and existing and evolving databases. DS/ES embody the idea of a curated and authoritative package (or container) of links to data about the physical specimen that is a more efficient and reliable/trusted source of data for scientific work, with potential to save time spent by a scientist finding and collating data about specimens they are interested in. With new freedoms and opportunities for the use and exploitation of collection objects coming from digital transformations taking place in institutions worldwide, a specification for open Digital Specimens has potential to enhance and change the lives of professionals working with natural science objects. There is an eventual need to introduce such work into TDWG, perhaps jointly with the Research Data Alliance (RDA) Biodiversity Data Integration Interest Group (BDI IG). This BoF session will introduce the notions of Digital and Extended Specimens, provide for an initial exchange of information and views, and identify next steps towards a common global specification. 
 
 
-# Hackathon Group
+# Hackathon Session
 
 ## HACK01:  Hack4Nature
 
@@ -38,7 +38,7 @@ tags: conference
 **Description**: [HackForNature](https://www.hackfornature.com/) is a BarCamp (type of unconference) event to identify subjects that could be tackled during the [Hack4Nature event in January](https://www.hackfornature.com/#where-and-when) 2021 in Marseille (during the [IUCN World Conservation Congress](https://www.iucn.org/news/secretariat/202004/iucn-world-conservation-congress-2020-postponed)). It is an open session where we will list out and document potential challenges that will be worked on by remote and local teams. 
 
 
-# Interest/Task Groups
+# Interest/Task Group Sessions
 
 ## ITG01: Taxon Names And Concepts 
 
@@ -162,7 +162,7 @@ New participants in the Annotations Interest Group are welcomed.
 
 **Session Type**: Interest/Task Group
 
-**Organizers**:[ Rob Stevenson](mailto:rdstevenson10@gmail.com), University of Massachusetts, Boston, Massachusetts USA; Peter Brenton, Atlas of Living Australia, Canberra, Australia
+**Organizers**: [Rob Stevenson](mailto:rdstevenson10@gmail.com), University of Massachusetts, Boston, Massachusetts USA; Peter Brenton, Atlas of Living Australia, Canberra, Australia
 
 **Description**: In this session, we will engage existing and new members of the [Citizen Science Interest Group](https://www.tdwg.org/community/citizen-science/) in discussion about standards as they pertain to citizen science. With nearly half of the data in [GBIF](https://gbif.org) coming from citizen science projects (the majority from eBird and some from iNaturalist), the role of citizen science data in the data landscape is significant. The legacy of apprehension towards citizen science data is fading as time and again the breadth and scope of these data are recognized as invaluable. This session will include updates about the [PPSR-CORE Metadata Standard](https://github.com/CitSciAssoc/DMWG-PPSR-Core/wiki/About-the-PPSR-Core) and updates on the continental Citizen Science Associations. 
 
@@ -185,7 +185,7 @@ University of California Berkeley, Berkeley USA
 **Description**  This is a working session of the joint TDWG and Genomic Standards Consortium (GSC) [Biodiversity Genomics Working Group](https://www.tdwg.org/community/gbwg/) (aka GBWG). The session will begin with an overview of GBWG activities over the past year and plans for the coming year. Three working sessions of ~45 minutes each will cover the following topics:  1) Managing environmental samples, e-DNA, and relationships among organisms, particularly among microorganisms or between micro- and macro-organisms. 2) Coordination between GSC, TDWG, and GGBN. We will begin by reviewing the history  of GSC and TDWG interactions, then compare MIxS and Darwin Core to determine what terms might need to be added to each list for compatibility. GGBN is under review as an official TDWG and GSC standard, and their mappings can provide a guide for this. We can discuss if/how ABCD should also map to MIxS and new work on MIXS as RDF. 3) Based on common needs from GSC/TDWG coordination (topic 2) and requirements for linking organism and samples (topic 1), discuss an overall data model for biodiversity that could be shared among groups including GBIF, GGBN, and INSDC. The goal is not to come up with a model at this workshop, but to pinpoint common needs and examine existing models that may be useful such as PROV, the BioCollection Ontology, and ABCD.
 
 
-**WORKSHOPS**
+# Workshops
 
 ## WS01: Capturing Ideas for the Future of BioCASe Provider Software and the GBIF Integrated Publishing Toolkit (IPT)  
 
@@ -213,7 +213,7 @@ This will touch on questions and topics such as:
 The outputs and key points from the discussion will be captured to help contribute to the roadmap for these tools. 
 
 
-## WS02:  ABCD/DwC Alignment Working Group
+## WS02: ABCD/DwC Alignment Working Group
 
 **Session Type**: Workshop
 
