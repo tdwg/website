@@ -16,9 +16,8 @@ tags: conference
 **Description:** Ever wonder what Biodiversity Information Standards (TDWG) is or does? How can you become involved? Come join us to find out, get a bit of background about both the working group meetings coming up the week of 21–25 September, as well as the Symposia and Discussion [sessions](https://www.tdwg.org/conferences/2020/session-list/) planned for the 19–23 October.
 
 
-## Birds Of A Feather Session
 
-### BOF01: Converging Digital Specimens and Extended Specimens - Towards a global specification  
+## BOF01: Converging Digital Specimens and Extended Specimens - Towards a global specification  
 
 **Session Type**: Birds of a Feather
 
@@ -27,9 +26,7 @@ tags: conference
 **Description**: Digital Specimens (DS) are the transformative mechanism necessary to link natural science specimens with other artifacts and data about them. They are the means by which information about specimens may be found, processed and used on the Internet; by which specimens may be unambiguously attributed; and by which usage and discoveries associated with specimens can be tracked (e.g., for repatriating the benefits of specific discoveries back to the country of origin of the specimen). DS implement the ‘extended specimen’ concept (Webster et al., 2017) and provide the means by which ‘Next Generation Collections’ (Schindel and Cook, 2018) can be managed. In Europe, a workshop in Warsaw, February 2020 organised by the COST action ‘MOBILISE’ ([https://www.mobilise-action.eu/](https://www.mobilise-action.eu/)) as part of the DiSSCo programme ([https://www.dissco.eu/](https://www.dissco.eu/)) demonstrated a wide measure of interest in pursuing a specification for open Digital Specimens, with the intention to improve findability, accessibility, interoperability and reusability of the digitized rich data derived from physical specimens in natural science collections as mutable digital objects on the Internet (Hardisty et al. 2020 - [https://doi.org/10.34960/8z9g-bm52](https://doi.org/10.34960/8z9g-bm52)). In October 2018 at a workshop in Upperville, VA (USA), the Biodiversity Collections Network (BCoN), proposed an initiative for an Extended Specimen Network (ESN) to enhance the research potential of specimens through further digitization and linking with associated extended data. (Lendemer et al. 2019 - [https://doi.org/10.1093/biosci/biz140](https://doi.org/10.1093/biosci/biz140)). ESN requires development of new data integration mechanisms necessary to link the dynamic components together across collections, data types, and existing and evolving databases. DS/ES embody the idea of a curated and authoritative package (or container) of links to data about the physical specimen that is a more efficient and reliable/trusted source of data for scientific work, with potential to save time spent by a scientist finding and collating data about specimens they are interested in. With new freedoms and opportunities for the use and exploitation of collection objects coming from digital transformations taking place in institutions worldwide, a specification for open Digital Specimens has potential to enhance and change the lives of professionals working with natural science objects. There is an eventual need to introduce such work into TDWG, perhaps jointly with the Research Data Alliance (RDA) Biodiversity Data Integration Interest Group (BDI IG). This BoF session will introduce the notions of Digital and Extended Specimens, provide for an initial exchange of information and views, and identify next steps towards a common global specification. 
 
 
-## Hackathon Session
-
-### HACK01:  Hack4Nature
+## HACK01:  Hack4Nature
 
 **Session Type**: Hackathon
 
@@ -38,9 +35,8 @@ tags: conference
 **Description**: [HackForNature](https://www.hackfornature.com/) is a BarCamp (type of unconference) event to identify subjects that could be tackled during the [Hack4Nature event in January](https://www.hackfornature.com/#where-and-when) 2021 in Marseille (during the [IUCN World Conservation Congress](https://www.iucn.org/news/secretariat/202004/iucn-world-conservation-congress-2020-postponed)). It is an open session where we will list out and document potential challenges that will be worked on by remote and local teams. 
 
 
-## Interest/Task Group Sessions
 
-### ITG01: Taxon Names And Concepts 
+## ITG01: Taxon Names And Concepts 
 
 **Session Type**: Interest/Task Group
 
@@ -49,7 +45,7 @@ tags: conference
 **Description**: The [Taxon Names and Concepts Interest Group](https://www.tdwg.org/community/tnc/) has been reviewing the [Taxon Concept Schema](https://www.tdwg.org/standards/tcs/) (TCS) and is working on a new edition of the standard that is up-to-date with the [Vocabulary Maintenance Specification](https://www.tdwg.org/standards/vms/) and [Standards Documentation Standard](https://www.tdwg.org/standards/sds/). At the workshop we will discuss progress to date and plans for the future.  
 
 
-### ITG02: Darwin Core Maintenance Group
+## ITG02: Darwin Core Maintenance Group
 
 **Session Type**: Interest/Task Group
 
@@ -58,7 +54,7 @@ tags: conference
 **Description**: We will tackle pending issues, maintenance and updates to the [Darwin Core](https://www.tdwg.org/community/dwc/) standard.
 
 
-### ITG03:  Collections Descriptions Task Group
+## ITG03:  Collections Descriptions Task Group
 
 **Session Type**: Interest/Task Group
 
@@ -67,7 +63,7 @@ tags: conference
 **Description**: As a global community of scientific collections, we need a core vocabulary that describes the collections themselves, not the published datasets. We need to be able to use the published dataset metrics together with collections-level metadata and metrics in order to make meaningful comparisons across collections (e.g., what’s unique about a particular collection, or where are the taxonomic and geographical gaps). These data are especially critical for discovering collections that are not yet publishing their specimen data anywhere. There are valuable collections that have no information stored in a database and many do not have a presence on the Internet. The TDWG [Collections Descriptions (CD)](https://www.tdwg.org/community/cd/) Data Standard Task Group aims to provide a data standard for describing natural scientific collections, which enables the ability to provide 1) automated metrics using standardised collection descriptions and/or data derived from specimen datasets (e.g. counts of specimens) and 2) a global registry of physical collections (either digitised or non-digitised). Some current stakeholders asking for such a standard include The Field Museum, GBIF, DiSSCo, CETAF, SYNTHESYS+, MOBILISE, and iDigBio. At the time of the TDWG meeting, the first draft of the CD standard will be approaching completion and community review. This working session provides an excellent opportunity for the group to summarize the standard and data model, demonstrate some early adoptions and proofs of concept in action, and discuss final steps and pathways to adoption with the stakeholders. 
 
 
-### ITG04: Best Practices for the Development of Vocabularies of Values (“Vocabularies”)  
+## ITG04: Best Practices for the Development of Vocabularies of Values (“Vocabularies”)  
 
 **Session Type**: Interest/Task Group
 
@@ -76,7 +72,7 @@ tags: conference
 **Description**: During the session we will discuss the advances in the work of the [Vocabularies of Values Task Group](https://www.tdwg.org/community/bdq/tg-4/) and tackle pending issues. 
 
 
-### ITG05: Machine Observations Interest Group 
+## ITG05: Machine Observations Interest Group 
 
 **Session Type**: Interest/Task Group
 
@@ -85,7 +81,7 @@ tags: conference
 **Description**: The agenda of the [Machine Observations Interest Group](https://www.tdwg.org/community/mobs/) is to document common guidelines for applying [Darwin Core to biologging data ](https://github.com/tdwg/dwc-for-biologging)such that it can be made discoverable and open via biodiversity repositories such as [GBIF](https://www.gbif.org/), the [Living Atlases](https://living-atlases.gbif.org/) and [OBIS](https://obis.org/). On the data modelling journey, we have found similar patterns to other forms of sensor-based biodiversity data such as camera traps and bioacoustics. The group will use this meeting time to discuss the progress of work in our Github repository ([https://github.com/tdwg/dwc-for-biologging](https://github.com/tdwg/dwc-for-biologging)), and other related initiatives that members have been involved in during the year. All are welcome to attend. 
 
 
-### ITG06: Audubon Core Maintenance Group Annual Meeting
+## ITG06: Audubon Core Maintenance Group Annual Meeting
 
 **Session Type**: Interest/Task Group
 
@@ -94,7 +90,7 @@ tags: conference
 **Description**: This is an opportunity to learn about the ongoing work of the [Audubon Core Maintenance Group](https://www.tdwg.org/community/ac/) and to provide input into setting the future priorities of the group. At the meeting, we will review the major work that was done over the past year to develop new terms and best practices recommendations for sound metadata. We will also review issues that remain in the tracker and solicit suggestions for how we should focus our work in the coming year. One topic of current interest is how to structure annotations (such as segments of audio or parts of other media items), so we anticipate some discussion around that topic. 
 
 
-### ITG07:  How Did It Die?  
+## ITG07:  How Did It Die?  
 
 **Session Type**: Interest/Task Group
 
@@ -105,7 +101,7 @@ tags: conference
 We have suggested two additional terms: vitality and causeOfDeath. In this working session we will further develop use cases to support the addition of each term and begin exploring a vocabulary for cause of death. New members, who were not included in the initial charter, are very welcome.
 
 
-### ITG08: Earth Science And Paleobiology Interest Group  
+## ITG08: Earth Science And Paleobiology Interest Group  
 
 **Session Type**: Interest/Task Group
 
@@ -114,7 +110,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 **Description**: In this meeting we will cover standard business of the [Earth Science and Paleobiology interest group](https://www.tdwg.org/community/esp/) including: provide an orientation to the interest group for new attendees, share updates on activities of the interest group, gather reports from ESP members that are participating in parallel efforts in related groups (e.g. DiSSCo and iDigBio Paleo Data Working Group), and define action items for the coming year. In addition we will use this meeting of the interest group to hold a focused discussion on the use of standards for annotating stratigraphic and geological context data and to plan the publication of recommendations and best practices. 
 
 
-### ITG09: People In Biodiversity Data Task Group  
+## ITG09: People In Biodiversity Data Task Group  
 
 **Session Type**: Interest/Task Group
 
@@ -123,7 +119,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 **Description**: Here we will finalize the [Agent Actions extension](https://github.com/tdwg/attribution/tree/master/people/dwc) to Darwin Core and will identify requirements for documentation and dissemination. We will also aim to complete the tasks in our [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/) charter, including a best practice guide to the disambiguation of people’s names written on specimens.
 
 
-### ITG10:  Task Group On Minimum Information About A Digital Specimen (MIDS)  
+## ITG10:  Task Group On Minimum Information About A Digital Specimen (MIDS)  
 
 **Session Type**: Interest/Task Group
 
@@ -132,7 +128,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 **Description**: Inaugural session of the Task Group on Minimum Information about a Digital Specimen (MIDS) will introduce the topic to TDWG members, set out the steps and working method towards a proposed TDWG standard, and engage participants.  Note: At the time of responding to this call for sessions, the draft charter is sent to the Executive Committee for consideration and approval of the TG. 
 
 
-### ITG11: Species Information Interest Group  
+## ITG11: Species Information Interest Group  
 
 **Session Type**: Interest/Task Group
 
@@ -141,7 +137,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 **Description**: Presentation of the current status of the activities of the [Species Information Interest Group](https://www.tdwg.org/community/species/) mostly related to the developments around the task group on [Plinian Core](https://github.com/tdwg/PlinianCore): Documentation under the current [TDWG Standards Documentation Specification](https://www.tdwg.org/standards/sds/), implementations for national checklists, SPARQL endpoints, etc. Capturing requirements for new developments and interconnection with other TDWG standards and interest groups. Proposals for new task groups, see [https://github.com/tdwg/species-information](https://github.com/tdwg/species-information)  
 
 
-### ITG12: Annotations Interest Group  
+## ITG12: Annotations Interest Group  
 
 **Session Type**: Interest/Task Group
 
@@ -158,7 +154,7 @@ The agenda will include:
 New participants in the Annotations Interest Group are welcomed. 
 
 
-### ITG13: Citizen Science Interest Group
+## ITG13: Citizen Science Interest Group
 
 **Session Type**: Interest/Task Group
 
@@ -174,7 +170,7 @@ Discussion topics will include:
 *   Finding our niche to maximise impact and uptake of standards in biodiversity citizen science. 
 
 
-### ITG14:Genomic Biodiversity Interest Group
+## ITG14:Genomic Biodiversity Interest Group
 
 **Session Type**: Interest Group
 
@@ -185,9 +181,7 @@ University of California Berkeley, Berkeley USA
 **Description**  This is a working session of the joint TDWG and Genomic Standards Consortium (GSC) [Biodiversity Genomics Working Group](https://www.tdwg.org/community/gbwg/) (aka GBWG). The session will begin with an overview of GBWG activities over the past year and plans for the coming year. Three working sessions of ~45 minutes each will cover the following topics:  1) Managing environmental samples, e-DNA, and relationships among organisms, particularly among microorganisms or between micro- and macro-organisms. 2) Coordination between GSC, TDWG, and GGBN. We will begin by reviewing the history  of GSC and TDWG interactions, then compare MIxS and Darwin Core to determine what terms might need to be added to each list for compatibility. GGBN is under review as an official TDWG and GSC standard, and their mappings can provide a guide for this. We can discuss if/how ABCD should also map to MIxS and new work on MIXS as RDF. 3) Based on common needs from GSC/TDWG coordination (topic 2) and requirements for linking organism and samples (topic 1), discuss an overall data model for biodiversity that could be shared among groups including GBIF, GGBN, and INSDC. The goal is not to come up with a model at this workshop, but to pinpoint common needs and examine existing models that may be useful such as PROV, the BioCollection Ontology, and ABCD.
 
 
-## Workshops
-
-### WS01: Capturing Ideas for the Future of BioCASe Provider Software and the GBIF Integrated Publishing Toolkit (IPT)  
+## WS01: Capturing Ideas for the Future of BioCASe Provider Software and the GBIF Integrated Publishing Toolkit (IPT)  
 
 **Session Type**: Workshop
 
@@ -213,16 +207,16 @@ This will touch on questions and topics such as:
 The outputs and key points from the discussion will be captured to help contribute to the roadmap for these tools. 
 
 
-### WS02: ABCD/DwC Alignment Working Group
+## WS02: ABCD/DwC Alignment Working Group
 
 **Session Type**: Workshop
 
 **Organizers**: [David Fichtmüller](mailto:d.fichtmueller@bgbm.org), Freie Universität, Berlin, Germany;  Anton Güntsch, Freie Universität, Berlin, Germany +49 30 83850166
 
-**Description**: ABCD (Access to Biological Collection Data) and [DwC](https://www.tdwg.org/standards/dwc/) (Darwin Core) are TDWG standards for unit-level biodiversity data that are used for a wide range of applications. Since 2019, the working group has been investigating ways to enable a closer link and integration of the standards. In the run-up to the workshop we will collect use cases for the application of the standards, which will be analysed and discussed in the workshop itself. On this basis, working groups will be formed to address technical, organisational, and sociological aspects relevant for an alignment and future maintenance of ABCD and DwC. The results will be presented in the [TDWG 2020](https://www.tdwg.org/conferences/2020/) Symposium [SYM01 Standards alignment: which and how?](https://www.tdwg.org/conferences/2020/session-list/#sym01%20standards%20alignment:%20which%20and%20how?). 
+**Description**: ABCD (Access to Biological Collection Data) and [DwC](https://www.tdwg.org/standards/dwc/) (Darwin Core) are TDWG standards for unit-level biodiversity data that are used for a wide range of applications. Since 2019, the working group has been investigating ways to enable a closer link and integration of the standards. In the run-up to the workshop we will collect use cases for the application of the standards, which will be analysed and discussed in the workshop itself. On this basis, working groups will be formed to address technical, organisational, and sociological aspects relevant for an alignment and future maintenance of ABCD and DwC. The results will be presented in the [TDWG 2020](https://www.tdwg.org/conferences/2020/) Symposium [SYM01 Standards Alignment: Which and how?](https://www.tdwg.org/conferences/2020/session-list/#sym01%20standards%20alignment:%20which%20and%20how?). 
 
 
-### WS03: Living Atlases Workshop For End Users  
+## WS03: Living Atlases Workshop For End Users  
 
 **Session Type**: Workshop
 
