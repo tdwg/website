@@ -30,7 +30,7 @@ tags: conference
 
 **Session Type**: Hackathon
 
-**Organizers**:[ Rovellotti Olivier](mailto:olivier_rovellotti@natural-solutions.eu), Natural Solutions Marseille, France; Aurelie Jambon, Natural Solutions Marseille, France
+**Organizers**: [Rovellotti Olivier](mailto:olivier_rovellotti@natural-solutions.eu), Natural Solutions Marseille, France; Aurelie Jambon, Natural Solutions Marseille, France
 
 **Description**: [HackForNature](https://www.hackfornature.com/) is a BarCamp (type of unconference) event to identify subjects that could be tackled during the [Hack4Nature event in January](https://www.hackfornature.com/#where-and-when) 2021 in Marseille (during the [IUCN World Conservation Congress](https://www.iucn.org/news/secretariat/202004/iucn-world-conservation-congress-2020-postponed)). It is an open session where we will list out and document potential challenges that will be worked on by remote and local teams. 
 
@@ -58,7 +58,7 @@ tags: conference
 
 **Session Type**: Interest/Task Group
 
-**Organizers**: [Matt Woodburn](mailto:m.woodburn@nhm.ac.uk), Natural History Museum, London, Deborah Paul, iDigBio, Florida State University, Tallahassee 
+**Organizers**: [Matt Woodburn](mailto:m.woodburn@nhm.ac.uk), Natural History Museum, London, UK; Deborah Paul, iDigBio, Florida State University, Tallahassee, USA 
 
 **Description**: As a global community of scientific collections, we need a core vocabulary that describes the collections themselves, not the published datasets. We need to be able to use the published dataset metrics together with collections-level metadata and metrics in order to make meaningful comparisons across collections (e.g., what’s unique about a particular collection, or where are the taxonomic and geographical gaps). These data are especially critical for discovering collections that are not yet publishing their specimen data anywhere. There are valuable collections that have no information stored in a database and many do not have a presence on the Internet. The TDWG [Collections Descriptions (CD)](https://www.tdwg.org/community/cd/) Data Standard Task Group aims to provide a data standard for describing natural scientific collections, which enables the ability to provide 1) automated metrics using standardised collection descriptions and/or data derived from specimen datasets (e.g. counts of specimens) and 2) a global registry of physical collections (either digitised or non-digitised). Some current stakeholders asking for such a standard include The Field Museum, GBIF, DiSSCo, CETAF, SYNTHESYS+, MOBILISE, and iDigBio. At the time of the TDWG meeting, the first draft of the CD standard will be approaching completion and community review. This working session provides an excellent opportunity for the group to summarize the standard and data model, demonstrate some early adoptions and proofs of concept in action, and discuss final steps and pathways to adoption with the stakeholders. 
 
@@ -114,7 +114,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 
 **Session Type**: Interest/Task Group
 
-**Organizers**: [David Shorthouse](mailto:davidpshorthouse@gmail.com), Agriculture and Agri-Food Canada, Ottawa, Canada; Quentin Groom, Meise Botanic Garden, Meise, Belgium +0032 2 896 60 53
+**Organizers**: [David Shorthouse](mailto:davidpshorthouse@gmail.com), Agriculture and Agri-Food Canada, Ottawa, Canada; Quentin Groom, Meise Botanic Garden, Meise, Belgium
 
 **Description**: Here we will finalize the [Agent Actions extension](https://github.com/tdwg/attribution/tree/master/people/dwc) to Darwin Core and will identify requirements for documentation and dissemination. We will also aim to complete the tasks in our [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/) charter, including a best practice guide to the disambiguation of people’s names written on specimens.
 
@@ -123,7 +123,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 
 **Session Type**: Interest/Task Group
 
-**Organizers**: [Alex Hardisty](mailto:hardistyar@cardiff.ac.uk), Cardiff University, Cardiff, UK +44 29 2087 4761; Elspeth Haston, Royal Botanic Garden Edinburgh, Edinburgh, UK +44 131 248 2816
+**Organizers**: [Alex Hardisty](mailto:hardistyar@cardiff.ac.uk), Cardiff University, Cardiff, UK; Elspeth Haston, Royal Botanic Garden Edinburgh, Edinburgh, UK 
 
 **Description**: Inaugural session of the Task Group on Minimum Information about a Digital Specimen (MIDS) will introduce the topic to TDWG members, set out the steps and working method towards a proposed TDWG standard, and engage participants.  Note: At the time of responding to this call for sessions, the draft charter is sent to the Executive Committee for consideration and approval of the TG. 
 
@@ -158,7 +158,7 @@ New participants in the Annotations Interest Group are welcomed.
 
 **Session Type**: Interest/Task Group
 
-**Organizers**: [Rob Stevenson](mailto:rdstevenson10@gmail.com), University of Massachusetts, Boston, Massachusetts USA; Peter Brenton, Atlas of Living Australia, Canberra, Australia
+**Organizers**: [Rob Stevenson](mailto:rdstevenson10@gmail.com), University of Massachusetts, Boston, Massachusetts USA; Peter Brenton, Atlas of Living Australia, Canberra, Australia; Libby Ellwood, Natural History Museum of Los Angeles County, Los Angeles, California USA
 
 **Description**: In this session, we will engage existing and new members of the [Citizen Science Interest Group](https://www.tdwg.org/community/citizen-science/) in discussion about standards as they pertain to citizen science. With nearly half of the data in [GBIF](https://gbif.org) coming from citizen science projects (the majority from eBird and some from iNaturalist), the role of citizen science data in the data landscape is significant. The legacy of apprehension towards citizen science data is fading as time and again the breadth and scope of these data are recognized as invaluable. This session will include updates about the [PPSR-CORE Metadata Standard](https://github.com/CitSciAssoc/DMWG-PPSR-Core/wiki/About-the-PPSR-Core) and updates on the continental Citizen Science Associations. 
 
@@ -211,7 +211,7 @@ The outputs and key points from the discussion will be captured to help contribu
 
 **Session Type**: Workshop
 
-**Organizers**: [David Fichtmüller](mailto:d.fichtmueller@bgbm.org), Freie Universität, Berlin, Germany;  Anton Güntsch, Freie Universität, Berlin, Germany +49 30 83850166
+**Organizers**: [David Fichtmüller](mailto:d.fichtmueller@bgbm.org), Freie Universität, Berlin, Germany;  Anton Güntsch, Freie Universität, Berlin, Germany
 
 **Description**: ABCD (Access to Biological Collection Data) and [DwC](https://www.tdwg.org/standards/dwc/) (Darwin Core) are TDWG standards for unit-level biodiversity data that are used for a wide range of applications. Since 2019, the working group has been investigating ways to enable a closer link and integration of the standards. In the run-up to the workshop we will collect use cases for the application of the standards, which will be analysed and discussed in the workshop itself. On this basis, working groups will be formed to address technical, organisational, and sociological aspects relevant for an alignment and future maintenance of ABCD and DwC. The results will be presented in the [TDWG 2020](https://www.tdwg.org/conferences/2020/) Symposium [SYM01 Standards Alignment: Which and how?](https://www.tdwg.org/conferences/2020/session-list/#sym01%20standards%20alignment:%20which%20and%20how?). 
 
@@ -220,6 +220,6 @@ The outputs and key points from the discussion will be captured to help contribu
 
 **Session Type**: Workshop
 
-**Organizers**:  [Marie-Elise Lecoq,](mailto:melecoq@vertnet.org) VertNet, San Francisco, California USA +1 415 323 9286; Anders Telenius/Manash Shah/Veronika Johansson, Swedish Museum of Natural History, Stockholm, Sweden, +46 8 5195 5129
+**Organizers**:  [Marie-Elise Lecoq,](mailto:melecoq@vertnet.org) VertNet, San Francisco, California USA; Anders Telenius/Manash Shah/Veronika Johansson, Swedish Museum of Natural History, Stockholm, Sweden
 
 **Description**: This workshop will focus on end-users. We will propose exercises to use different types of live data portals. Participants will be able to choose a data portal and will do the exercises based on the chosen platform. This workshop will help [Living Atlases](https://living-atlases.gbif.org/) participants to promote their data portal, but also for people interested in the tools to discover the possibility given by a platform based on the [Atlas of Living Australia](https://www.ala.org.au/) toolset. 
