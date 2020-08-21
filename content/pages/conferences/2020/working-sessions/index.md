@@ -36,13 +36,23 @@ tags: conference
 
 
 
-## ITG01: Taxon Names And Concepts 
+## ITG01: Taxon Names and Concepts 
 
 **Session Type**: Interest/Task Group
 
-**Organizers**: [Niels Klazenga](mailto:niels.klazenga@rbg.vic.gov.au), Royal Botanic Gardens Victoria, Melbourne Australia
+**Organizers**: [Niels Klazenga](mailto:niels.klazenga@rbg.vic.gov.au), Royal Botanic Gardens Victoria, Melbourne, Australia
 
-**Description**: The [Taxon Names and Concepts Interest Group](https://www.tdwg.org/community/tnc/) has been reviewing the [Taxon Concept Schema](https://www.tdwg.org/standards/tcs/) (TCS) and is working on a new edition of the standard that is up-to-date with the [Vocabulary Maintenance Specification](https://www.tdwg.org/standards/vms/) and [Standards Documentation Standard](https://www.tdwg.org/standards/sds/). At the workshop we will discuss progress to date and plans for the future.  
+**Description**: The [Taxon Names and Concepts Interest Group](https://www.tdwg.org/community/tnc/) has undertaken the production of a new version of the [Taxon Concept Schema](https://www.tdwg.org/standards/tcs/) (TCS), which is compliant with the [Vocabulary Maintenance Specification](https://www.tdwg.org/standards/vms/) and [Standards Documentation Standard](https://www.tdwg.org/standards/sds/) and provides for users and use cases by establishing a robust mechanism for exchanging biodiversity data with accurate and precise taxonomic and nomenclatural context with long-term resolvability. 
+
+The goal of the meeting is to discuss the activities of the committee and engage a broader base of stakeholders. Topics that will be discussed include:
+
+*   Activities of the Interest Group
+*   A draft proposal to replace the TCS Taxon Concept with Taxonomic Name Usage
+*   Properties of a good data standard
+*   Use cases for a standard supporting taxonomic names and concepts
+*   How to deal with bibliographic references.
+
+We are especially interested in engaging with people we do not hear from so often. Those with other topics they would like to see discussed, are encouraged to open an issue in our [GitHub repository](https://github.com/tdwg/tnc) or send an email to the organizer.
 
 
 ## ITG02: Darwin Core Maintenance Group
@@ -170,7 +180,7 @@ Discussion topics will include:
 *   Finding our niche to maximise impact and uptake of standards in biodiversity citizen science. 
 
 
-## ITG14:Genomic Biodiversity Interest Group
+## ITG14: Genomic Biodiversity Interest Group
 
 **Session Type**: Interest Group
 
