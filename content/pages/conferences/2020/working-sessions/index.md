@@ -61,7 +61,8 @@ We are especially interested in engaging with people we do not hear from so ofte
 
 **Organizers**: [John Wieczorek](mailto:gtuco.btuco@gmail.com), VertNet/TDWG, Bariloche, Argentina; Steve Baskauf, Vanderbilt University Heard Libraries, Nashville, Tennessee 
 
-**Description**: We will tackle pending issues, maintenance and updates to the [Darwin Core](https://www.tdwg.org/community/dwc/) standard.
+**Description**: The Darwin Core Maintenance Group has been active in the past year to bring [Darwin Core](https://www.tdwg.org/community/dwc/) (est. 2009) up to date with the TDWG [Standards Documentation Standard](https://www.tdwg.org/standards/sds/) and making clear what parts of the standard are normative, and which are considered commentaries. This  makes documentation on the use of the standard much more flexible since the commentaries and examples can be driven by community participation without having to invoke the rigorous standards process for changes. We hope this will ultimately engage the community more broadly and result in User Guides, such as the [Quick Reference Guide](https://dwc.tdwg.org/terms/), but for distinct data sharing communities and purposes.
+In this working session we will answer questions about maintaining Darwin Core and endeavor to tackle [pending issues](https://github.com/tdwg/dwc/issues), including advancing (or rejecting) requests for term definition changes and additional terms.
 
 
 ## ITG03:  Collections Descriptions Task Group
@@ -233,3 +234,5 @@ The outputs and key points from the discussion will be captured to help contribu
 **Organizers**:  [Marie-Elise Lecoq,](mailto:melecoq@vertnet.org) VertNet, San Francisco, California USA; Anders Telenius/Manash Shah/Veronika Johansson, Swedish Museum of Natural History, Stockholm, Sweden
 
 **Description**: This workshop will focus on end-users. We will propose exercises to use different types of live data portals. Participants will be able to choose a data portal and will do the exercises based on the chosen platform. This workshop will help [Living Atlases](https://living-atlases.gbif.org/) participants to promote their data portal, but also for people interested in the tools to discover the possibility given by a platform based on the [Atlas of Living Australia](https://www.ala.org.au/) toolset. 
+
+_Last updated: 25 August 2020_
