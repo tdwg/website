@@ -1,5 +1,5 @@
 ---
-title: TDWG 2020 - Working Sessions Schedule,  September 21-25
+title: Schedule of Working Sessions,  September 21-25
 summary: 
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
