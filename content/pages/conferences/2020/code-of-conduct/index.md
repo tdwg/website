@@ -1,10 +1,11 @@
 ---
-title: TDWG 2020 - Code of Conduct
+title: Code of Conduct
 summary: Organized sessions include symposia and panel discussions
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
 tags: conference
+page_order: 60
 ---
 
 # Code of Conduct for _TDWG 2020_
