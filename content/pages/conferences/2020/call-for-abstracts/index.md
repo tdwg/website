@@ -1,10 +1,11 @@
 ---
-title: TDWG 2020 - Call for Abstracts
+title: Call for Abstracts
 summary: Individual contributions (presentations and posters) require abstracts, which will be published in Biodiversity Information Science and Standards (BISS) as the Proceedings of TDWG 2020.
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
 tags: conference
+page_order: 75
 ---
 
 # Call for Abstracts for TDWG 2020
