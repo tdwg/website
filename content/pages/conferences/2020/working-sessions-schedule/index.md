@@ -13,7 +13,7 @@ page_order: 45
 <table border="1">
 <thead>
 <tr style="border-style: double;">
-<td style="background-color: #cccccc; vertical-align: bottom">UTC</td>
+<td style="background-color: #cccccc; vertical-align: bottom;">UTC</td>
 <td style="background-color: #dddddd; text-align: center;">Mon <br /> 21 Sep</td>
 <td style="background-color: #dddddd; text-align: center;">Tue <br /> 22 Sep</td>
 <td style="background-color: #dddddd; text-align: center;">Wed <br /> 23 Sep</td>
@@ -127,6 +127,14 @@ page_order: 45
 </tr>
 <tr>
 <td>14:00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>14:30</td>
 <td style="background-color: #aae5ff;" rowspan="3">
 <p>ITG03: Collection Descriptions (CD)</p>
 <p>Primary: Matt Woodburn</p>
@@ -154,21 +162,13 @@ page_order: 45
 </td>
 </tr>
 <tr>
-<td>14:30</td>
-</tr>
-<tr>
 <td>15:00</td>
 </tr>
 <tr>
 <td>15:30</td>
-<td> </td>
-<td> </td>
-<td> </td>
 </tr>
 <tr>
 <td>16:00</td>
-<td> </td>
-<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -183,7 +183,7 @@ page_order: 45
 </tr>
 <tr>
 <td>17:00</td>
-<td style="background-color: #ffeeaa;" rowspan="4">
+<td style="background-color: #ffeeaa;" rowspan="3">
 <p>INTRO:</p>
 <p>Introduction to TDWG</p>
 </td>
@@ -215,6 +215,7 @@ page_order: 45
 </tr>
 <tr>
 <td>18:30</td>
+<td> </td>
 </tr>
 <tr>
 <td>19:00</td>
