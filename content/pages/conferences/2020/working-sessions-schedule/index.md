@@ -13,7 +13,7 @@ page_order: 45
 <table border="1">
 <thead>
 <tr style="border-style: double;">
-<td style="background-color: #cccccc;">UTC</td>
+<td style="background-color: #cccccc; vertical-align: bottom">UTC</td>
 <td style="background-color: #dddddd; text-align: center;">Mon <br /> 21 Sep</td>
 <td style="background-color: #dddddd; text-align: center;">Tue <br /> 22 Sep</td>
 <td style="background-color: #dddddd; text-align: center;">Wed <br /> 23 Sep</td>
