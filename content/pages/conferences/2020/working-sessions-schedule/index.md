@@ -10,9 +10,9 @@ page_order: 45
 
 # DRAFT Schedule of Working Sessions<br />21-25 September
 
-<table>
-<tbody>
-<tr>
+<table border="1">
+<thead>
+<tr style="border-style: double;">
 <td style="background-color: #cccccc;">UTC</td>
 <td style="background-color: #dddddd; text-align: center;">Mon <br /> 21 Sep</td>
 <td style="background-color: #dddddd; text-align: center;">Tue <br /> 22 Sep</td>
@@ -20,6 +20,8 @@ page_order: 45
 <td style="background-color: #dddddd; text-align: center;">Thu <br /> 24 Sep</td>
 <td style="background-color: #dddddd; text-align: center;">Fri <br /> 25 Sep</td>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>08:00</td>
 <td> </td>
