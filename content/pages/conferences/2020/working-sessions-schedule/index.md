@@ -42,6 +42,8 @@ page_order: 45
 <td>08:30</td>
 <td style="background-color: #ffeeaa;" rowspan="3">
 <p>INTRO: Introduction to TDWG<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+INTRO%3a%20Introduction+to+TDWG&iso=20200921T0830&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
+<p>Primary: Holly Little</p>
+<p>Support: Deb Paul</p>
 </td>
 <td> </td>
 <td> </td>
@@ -186,6 +188,8 @@ page_order: 45
 <td>17:00</td>
 <td style="background-color: #ffeeaa;" rowspan="3">
 <p>INTRO: Introduction to TDWG<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+INTRO%3a%20Introduction+to+TDWG&iso=20200921T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
+<p>Primary: Holly Little</p>
+<p>Support: Deb Paul</p>
 </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
 <p>ITG08: Earth Sci/Paleo (ESP)<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG08%3a%20Earth+Science+and+Paleobiology+Interest+Group&iso=20200922T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
