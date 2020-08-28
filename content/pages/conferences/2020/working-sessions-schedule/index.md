@@ -254,7 +254,7 @@ page_order: 45
 <td> </td>
 <td style="background-color: #ffff99;" rowspan="4">
 <p>ITG01: TNC <br />
-  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020++%3A++Taxon+Names+and+Concepts+Interest+Group&iso=20200922T2100&p1=1440&ah=2&am=">Local Time</a></p>
+  <span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020++%3A++Taxon+Names+and+Concepts+Interest+Group&iso=20200922T2100&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Niels Klazenga</p>
 <p>Support:</p>
 </td>
