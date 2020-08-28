@@ -31,7 +31,9 @@ page_order: 45
 <p>Support: Quentin Groom</p>
 </td>
 <td style="background-color: #bbffaa;" rowspan="4">
-<p>HACK01: Hack4Nature</p>
+<p>HACK01: Hack4Nature<br />
+  <span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020++%3A++Hack4Nature&iso=20200923T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span>
+</p>
 <p>Primary: Olivier Rovellotti</p>
 </td>
 <td> </td>
