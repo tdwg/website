@@ -253,7 +253,8 @@ page_order: 45
 <td>21:00</td>
 <td> </td>
 <td style="background-color: #ffff99;" rowspan="4">
-<p>ITG01: TNC</p>
+<p>ITG01: TNC <br />
+  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020++%3A++Taxon+Names+and+Concepts+Interest+Group&iso=20200922T2100&p1=1440&ah=2&am=">Local Time</a></p>
 <p>Primary: Niels Klazenga</p>
 <p>Support:</p>
 </td>
