@@ -26,7 +26,7 @@ page_order: 45
 <td>08:00</td>
 <td> </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p>ITG07: How Did It Die?</p>
+<p>ITG07: How Did It Die?<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG07%3a%20How+did+it+die?&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Sophia Ratcliffe</p>
 <p>Support: Quentin Groom</p>
 </td>
@@ -63,7 +63,7 @@ page_order: 45
 <td> </td>
 <td> </td>
 <td style="background-color: #aaffc3;" rowspan="4">
-<p>ITG09:  People in Biodiv</p>
+<p>ITG09:  People in Biodiv<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG09%3a%20People+in+Biodiversity+Data+Task+Group&iso=20200924T1000&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: David Shorthouse</p>
 <p>Support: Quentin Groom   </p>
 </td>
@@ -93,26 +93,26 @@ page_order: 45
 <tr>
 <td>12:00</td>
 <td style="background-color: #aaffee;" rowspan="4">
-<p>ITG06 Audubon Core</p>
+<p>ITG06 Audubon Core<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG06%3a%20Audubon+Core+Maintenance+Group+Annual+Meeting&iso=20200921T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Steve Baskauf</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="4">
-<p>WS02: ABCD/DwC</p>
+<p>WS02: ABCD/DwC<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS02%3a%20ABCD/DwC+Alignment+Working+Group&iso=20200922T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: David Fichtmüller</p>
 <p>Support: Paula Zermoglio</p>
 </td>
 <td style="background-color: #aae5ff;" rowspan="4">
-<p>ITG10: MIDS</p>
+<p>ITG10: MIDS<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG10%3a%20TDWG+Task+Group+on+Minimum+Information+about+a+Digital+Specimen+(MIDS)&iso=20200923T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Alex Hardisty</p>
 <p>Support: </p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
-<p>ITG04: Vocabularies</p>
+<p>ITG04: Vocabularies<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG04%3a%20Best+practices+for+development+of+vocabularies+of+values&iso=20200924T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Paula Zermoglio</p>
 <p>Support: </p>
 </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p>ITG12: Annotations</p>
+<p>ITG12: Annotations<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG12%3a%20Annotations+Interest+Group&iso=20200925T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Paul J. Morris</p>
 <p>Support: James Macklin, Tim Robertson </p>
 </td>
@@ -137,27 +137,28 @@ page_order: 45
 <tr>
 <td>14:30</td>
 <td style="background-color: #aae5ff;" rowspan="3">
-<p>ITG03: Collection Descriptions (CD)</p>
+<p>ITG03: Collection Descriptions (CD)<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG03%3a%20Collection+Descriptions+Task+Group&iso=20200921T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span>
+</p>
 <p>Primary: Matt Woodburn</p>
 <p>Support: Deb Paul, Holly Little</p>
 </td>
 <td style="background-color: #eeaaff;" rowspan="4">
-<p>BOF01: Global specification for specimens</p>
+<p>BOF01: Global specification for specimens<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+BOF01%3a%20Converging+Digital+Specimens+and+Extended+specimens:+Towards+a+global+specification&iso=20200922T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Alex Hardisty</p>
 <p>Support: Andrew Bentley</p>
 </td>
 <td style="background-color: #aaffee;" rowspan="4">
-<p>ITG02: Darwin Core</p>
+<p>ITG02: Darwin Core<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG02%3a%20Darwin+Core+Maintenance+Group&iso=20200923T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: John Wieczorek</p>
 <p>Support: Paula Zermoglio, Tim Robertson</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p>WS01: BioCASe &amp; IPT</p>
+<p>WS01: BioCASe &amp; IPT<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200924T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
 <p>Primary: Jörg Holetschek</p>
 <p>Support: Tim Robertson</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p>WS01: BioCASe &amp; IPT</p>
+<p>WS01: BioCASe &amp; IPT<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200925T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
 <p>Primary: Jörg Holetschek</p>
 <p>Support: Tim Robertson</p>
 </td>
@@ -189,21 +190,21 @@ page_order: 45
 <p>Introduction to TDWG</p>
 </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p>ITG08: Earth Sci/Paleo (ESP)</p>
+<p>ITG08: Earth Sci/Paleo (ESP)<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG08%3a%20Earth+Science+and+Paleobiology+Interest+Group&iso=20200922T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Denné Reed</p>
 <p>Support: Holly Little    </p>
 </td>
 <td style="background-color: #bbffaa;" rowspan="4">
-<p>ITG11: Species Info</p>
+<p>ITG11: Species Info<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG11%3a%20Species+Information+IG&iso=20200923T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Paco Pando</p>
 </td>
 <td style="background-color: #aae5ff;" rowspan="4">
-<p>WS03:Living Atlases</p>
+<p>WS03:Living Atlases<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS03%3a%20Living+Atlases+workshhop+for+end+users&iso=20200924T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Pirmary: Marie-Elise Lecoq</p>
 <p>Support: Paula Zermoglio </p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
-<p>ITG14: Genomic Biodiversity</p>
+<p>ITG14: Genomic Biodiversity<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG14%3a%20Genomic+Biodiversity+Interest+Group&iso=20200924T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Ramona Walls</p>
 <p>Support:</p>
 </td>
@@ -261,7 +262,7 @@ page_order: 45
 </td>
 <td> </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p>ITG05: Machine Observations</p>
+<p>ITG05: Machine Observations<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG05%3a%20Machine+Observations+Interest+Group&iso=20200924T2100&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Peggy Newman</p>
 <p>Support: </p>
 </td>
@@ -277,7 +278,7 @@ page_order: 45
 <td>22:00</td>
 <td> </td>
 <td style="background-color: #bbffaa;" rowspan="4">
-<p>ITG13: Citizen Science</p>
+<p>ITG13: Citizen Science<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG13%3a%20Citizen+Science+Interest+Group&iso=20200923T2200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Rob Stevenson</p>
 <p>Support: </p>
 </td>
