@@ -10,7 +10,7 @@ page_order: 45
 
 # DRAFT Schedule of Working Sessions<br />21-25 September
 
-In the table below the first column gives the time of day in UTC (=GMT). Under each session title is a link that will take you to a "TimeAndDate" page that shows the session start and end times in your local time zone.  Note also that the "TimeAndDate" page contains a link that will add the displayed session to your calendar.
+The first column in the table below gives the time of day in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
 
 <table border="1">
 <thead>
