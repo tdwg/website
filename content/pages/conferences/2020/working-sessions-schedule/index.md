@@ -26,7 +26,8 @@ page_order: 45
 <td>08:00</td>
 <td> </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p>ITG07: How Did It Die?<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG07%3a%20How+did+it+die?&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
+<p><a href="../working-sessions/#itg07:%20how%20did%20it%20die?">ITG07: How Did It Die?</a>
+	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG07%3a%20How+did+it+die?&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Sophia Ratcliffe</p>
 <p>Support: Quentin Groom</p>
 </td>
