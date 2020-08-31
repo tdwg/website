@@ -10,7 +10,11 @@ page_order: 45
 
 # DRAFT Schedule of Working Sessions<br />21-25 September
 
-The first column in the table below gives the time of day in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
+## Latest news
+
+[Registration is now open](https://tdwg.eventbrite.com) for sessions in the week of 21-25 September. These include the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and hackathons.  Note that registration for the INTRO sessions is separate from registration for the working sessions.  The schedule of sessions in our September week is below.
+
+The first column the time of day is given in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
 
 <table border="1">
 <thead>
