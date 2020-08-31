@@ -9,10 +9,10 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG 2020 goes virtual. Program committee calls for contributions.
-alert_text: TDWG 2020 will be held online in the fall and will have two parts: a week of working sessions (Sep 21-25) and a second week (Oct 19-23) for disseminating the latest developments in biodiversity information science and standards. The call for individual abstracts has been posted. The deadline for abstracts is 12 August! 
-alert_button: Learn more
-alert_link: /conferences/2020/call-for-abstracts/
+alert_title: TDWG 2020 goes virtual. REGISTRATION NOW OPEN.
+alert_text: TDWG 2020 will be held online. A draft schedule for the working sessions (Sep 21-25) as been posted. Registration for the sessions in the week of Sep 21-25 is now open.
+alert_button: Register now (free!)
+alert_link: /conferences/2020/working-sessions-schedule/
 alert_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
