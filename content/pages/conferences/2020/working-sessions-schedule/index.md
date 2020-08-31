@@ -288,7 +288,7 @@ The first column in the table below gives the time of day in UTC (=GMT). Under e
 <p><a href="../working-sessions/#itg05:%20machine%20observations%20interest%20group">ITG05: Machine Observations</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG05%3a%20Machine+Observations+Interest+Group&iso=20200924T2100&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Peggy Newman</p>
-<p>Support: </p>
+<p>Support: Peter Desmet</p>
 </td>
 <td> </td>
 </tr>
