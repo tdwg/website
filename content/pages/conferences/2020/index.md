@@ -1,6 +1,6 @@
 ---
 title: TDWG 2020 - A Virtual Conference
-summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) followed by a second week dedicated to dissemination and sharing (Oct 19-23).
+summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) <a href="https://tdwg.eventbrite.com" target="_blank">Register</a> followed by a second week dedicated to dissemination and sharing (Oct 19-23) Registration opening soon.
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
@@ -88,9 +88,9 @@ Abstracts are required for all presentations and e-posters, including those that
 Pensoft ARPHA system for [_BISS_](https://biss.pensoft.net). The [call for individual contributions](./call-for-abstracts/) has been posted. The submission deadline is 12 August. Detailed [instructions](./instructions-for-abstract-submission/) for making submissions through ARPHA has also been posted.
 
 
-## Free registration
+## <a href="https://tdwg.eventbrite.com" target="_blank">Free registration</a>
 
-Registration will be required to participate in the online events, but registration will be free. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either by affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
+Registration is required to participate in the online events, but <a href="https://tdwg.eventbrite.com" target="_blank">registration is free</a>. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either by affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
 
 ## Abstract publishing fees
 
@@ -118,7 +118,7 @@ Online events that have taken place already show that many people find it diffic
 We will hold technology testing sessions prior to each week of the conference, which will allow presenters to test their software, camera, and microphone.
 
 
-## Sponsors
+## Supporters
 
 TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by the following organizations.
 
