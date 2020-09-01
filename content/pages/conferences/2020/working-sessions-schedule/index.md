@@ -10,7 +10,19 @@ page_order: 45
 
 # DRAFT Schedule of Working Sessions<br />21-25 September
 
-The first column in the table below gives the time of day in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
+<table>
+<tr> 
+	<td>Latest news</td>
+	<td style="text-align: right;">31 Aug, 2020 </td>
+</tr>
+<tr> 
+	<td colspan=2><p><a href="https://tdwg.eventbrite.com" target="_blank">Registration is now open</a> for sessions in the week of 21-25 September. These include the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and hackathons.  Note that registration for the INTRO sessions is separate from registration for the working sessions.  The schedule of sessions in our September week is below.</p>
+	</td>
+</tr>
+</table>
+
+
+The first column the time of day is given in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
 
 <table border="1">
 <thead>
@@ -168,13 +180,13 @@ The first column in the table below gives the time of day in UTC (=GMT). Under e
 <p>Support: Paula Zermoglio, Tim Robertson</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT Part 1</a>
+<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 1</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200924T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
 <p>Primary: Jörg Holetschek</p>
 <p>Support: Tim Robertson</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT Part 2</a>
+<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 2</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200925T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
 <p>Primary: Jörg Holetschek</p>
 <p>Support: Tim Robertson</p>

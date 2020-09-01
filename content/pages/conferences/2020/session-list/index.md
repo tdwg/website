@@ -58,7 +58,7 @@ The COVID-19 pandemic, zoonoses, and pathogens in general provide key opportunit
 
 
 
-## SYM06 You’ve got what in your collection?
+## SYM06 You have what in your collection?
 
 **Session Type:** Symposium + discussion (no unsolicited presentations)
 
