@@ -1,6 +1,6 @@
 ---
 title: TDWG 2020 - A Virtual Conference
-summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) followed by a second week dedicated to dissemination and sharing (Oct 19-23).
+summary: TDWG 2020 will be a virtual conference divided into working sessions.  <a href="https://tdwg.eventbrite.com" target="_blank">Registration is now open</a> (Sep 21-25) followed by a second week dedicated to dissemination and sharing (Oct 19-23). Registration opening soon
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
@@ -90,7 +90,7 @@ Pensoft ARPHA system for [_BISS_](https://biss.pensoft.net). The [call for indi
 
 ## Free registration
 
-Registration will be required to participate in the online events, but registration will be free. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either by affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
+<a href="https://tdwg.eventbrite.com" target="_blank">Registration</a> is required to participate in the online events, but registration is free. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either by affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
 
 ## Abstract publishing fees
 
