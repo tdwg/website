@@ -180,13 +180,13 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <p>Support: Paula Zermoglio, Tim Robertson</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT</a>
+<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 1</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200924T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
 <p>Primary: Jörg Holetschek</p>
 <p>Support: Tim Robertson</p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT</a>
+<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 2</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200925T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
 <p>Primary: Jörg Holetschek</p>
 <p>Support: Tim Robertson</p>
