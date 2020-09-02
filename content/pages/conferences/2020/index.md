@@ -23,14 +23,14 @@ In 2020, we cannot meet in person, so TDWG 2020 will be virtual — a collection
 
 In the virtual conference week, we envision a mixture of three to four 90-minute or 2 h sessions each day, separated by at least a 30 minute break. Additional presenter instructions will be posted at a later date. Although we hope to avoid concurrent sessions, the time zones differences across our global community will guarantee that some of the audience for any session will be participating outside normal working hours. Committing to a schedule will help reduce frustration among people who have to get up early or stay up late to join the conference.  We hope you will join us in this experiment to reimagine our in-person meetings in a virtual environment. 
 
-## Call for contributions
+## Two weeks of TDWG 2020
 
 <table style="border-collapse: collapse;" border="1" cellpadding="6">
 <thead>
 <tr>
 <td style="text-align: center; width: 89px;"><strong>Session Dates</strong></td>
 <td style="width: 288px;"><strong>Session Type</strong></td>
-<td style="width: 158px; text-align: center;"><strong>Submission Deadline</strong></td>
+<td style="width: 158px; text-align: center;">Links to Session Schedule and Registration</td>
 </tr>
 </thead>
 <tbody>
@@ -48,7 +48,8 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-<p><strong>Working Session proposals due<br />August 1</strong></p>
+  <p><a href="working-sessions-schedule/">Session Schedule</a></p>
+  <p><a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Register Now (free!)</a></p>
 </td>
 </tr>
 <tr>
@@ -66,8 +67,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-<p><strong>Session Proposals Due</strong><br /><strong>June 19</strong></p>
-  <p><strong>Abstracts due<br /><span style="color:red">August 12</span></strong><br /><em>(new date)</em></p>
+  <p><strong>In Preparation</strong></p>
 </td>
 </tr>
 </tbody>
