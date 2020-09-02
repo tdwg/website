@@ -1,6 +1,6 @@
 ---
 title: TDWG 2020 - A Virtual Conference
-summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) <a href="https://tdwg.eventbrite.com" target="_blank">Register</a> followed by a second week dedicated to dissemination and sharing (Oct 19-23) Registration opening soon.
+summary: TDWG 2020 will be a virtual conference divided into working sessions (Sep 21-25) followed by a second week dedicated to dissemination and sharing (Oct 19-23).
 cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
@@ -30,7 +30,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 <tr>
 <td style="text-align: center; width: 89px;"><strong>Session Dates</strong></td>
 <td style="width: 288px;"><strong>Session Type</strong></td>
-<td style="width: 158px; text-align: center;">Links to Session Schedule and Registration</td>
+<td style="width: 158px; text-align: center;"><strong>Links to Session Schedule and Registration</strong></td>
 </tr>
 </thead>
 <tbody>
@@ -48,7 +48,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><a href="working-sessions-schedule/">Session Schedule</a></p>
+  <p><strong><a href="working-sessions-schedule/">Session Schedule</a></strong></p>
   <p><a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Register Now (free!)</a></p>
 </td>
 </tr>
@@ -88,9 +88,9 @@ Abstracts are required for all presentations and e-posters, including those that
 Pensoft ARPHA system for [_BISS_](https://biss.pensoft.net). The [call for individual contributions](./call-for-abstracts/) has been posted. The submission deadline is 12 August. Detailed [instructions](./instructions-for-abstract-submission/) for making submissions through ARPHA has also been posted.
 
 
-## <a href="https://tdwg.eventbrite.com" target="_blank">Free registration</a>
+## Registration and how to support the conference
 
-Registration is required to participate in the online events, but <a href="https://tdwg.eventbrite.com" target="_blank">registration is free</a>. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either by affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
+Registration is required to participate in the online events (so we can arrange sufficient capacity), but <a href="https://tdwg.eventbrite.com" target="_blank">registration is free</a>. The services required to run an online conference, however, are not free. So we encourage all participants to become TDWG members, either through affiliation with an [institutional member](/about/membership/#institutional%20members%202020_1) or by paying individual membership dues for the 2020 calendar year (\$75). [Request an invoice](mailto:secretariat@tdwg.org) to pay membership online, and help TDWG defray the cost of running the conference.  
 
 ## Abstract publishing fees
 
