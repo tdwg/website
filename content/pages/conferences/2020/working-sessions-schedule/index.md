@@ -20,7 +20,7 @@ page_order: 45
 	</td>
 </tr>
 <tr> 
-	<td colspan=2><a href="/conferences/2020/working-sessions-schedule/" class="btn btn-secondary">Register now (free!)</a>
+	<td colspan=2 style="text-align: center"><a href="https://tdwg.eventbrite.com" target="_blank"" class="btn btn-secondary">Register now (free!)</a>
 	</td>
 </tr></table>
 
