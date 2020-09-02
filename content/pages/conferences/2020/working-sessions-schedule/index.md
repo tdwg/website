@@ -19,7 +19,10 @@ page_order: 45
 	<td colspan=2><p><a href="https://tdwg.eventbrite.com" target="_blank">Registration is now open</a> for sessions in the week of 21-25 September. These include the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and hackathons.  Note that registration for the INTRO sessions is separate from registration for the working sessions.  The schedule of sessions in our September week is below.</p>
 	</td>
 </tr>
-</table>
+<tr> 
+	<td colspan=2><a href="/conferences/2020/working-sessions-schedule/" class="btn btn-secondary">Register now (free!)</a>
+	</td>
+</tr></table>
 
 
 The first column the time of day is given in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
