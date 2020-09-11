@@ -235,7 +235,7 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <td style="background-color: #aae5ff;" rowspan="4">
 <p><a href="../working-sessions/#ws03:%20living%20atlases%20workshop%20for%20end%20users">WS03:Living Atlases</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS03%3a%20Living+Atlases+workshhop+for+end+users&iso=20200924T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Pirmary: Marie-Elise Lecoq</p>
+<p>Primary: Marie-Elise Lecoq</p>
 <p>Support: Paula Zermoglio </p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
