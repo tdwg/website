@@ -53,7 +53,7 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 <tr>
 <td style="text-align: center; width: 89px;"><strong>Fecha Conferencia</strong></td>
 <td style="width: 288px;"><strong>Tipos de sesiones</strong></td>
-<td style="width: 158px; text-align: center;"><strong>Fechas límite de presentación</strong></td>
+<td style="width: 158px; text-align: center;"><strong>Enlaces al Calendario de Sesiones y al Registro</strong></td>
 </tr>
 </thead>
 <tbody>
@@ -71,7 +71,8 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-<p><strong>Propuestas para sesiones de trabajo:<br />1 agosto</strong></p>
+  <p><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés)</p>
+  <p><a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Regístrese Ahora (¡gratis!)</a></p>
 </td>
 </tr>
 <tr>
@@ -89,8 +90,7 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-<p><strong>Propuestas para sesiones de diseminación:</strong><br /><strong>19 Junio</strong></p>
-  <p><strong>Resúmenes:<br /><span style="color:red">12 agosto</span></strong><br /><em>(nueva fecha)*</em><br /></p>
+  <p><strong>En Preparación</strong><br /><strong>19 Junio</strong></p>
 </td>
 </tr>
 </tbody>
