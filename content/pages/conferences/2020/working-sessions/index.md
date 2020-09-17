@@ -129,9 +129,9 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 **Organizers**: [David Shorthouse](mailto:davidpshorthouse@gmail.com), Agriculture and Agri-Food Canada, Ottawa, Canada; Quentin Groom, Meise Botanic Garden, Meise, Belgium
 
 **Description**: In this working meeting ([see schedule](https://docs.google.com/document/d/14HcUjnmKgaR9ZXb5zQCdKHvVrKyOu1657tBujArIplA/edit?usp=sharing)), we will:
-* review the [Attribution Interest Group](https://www.tdwg.org/community/attribution/) and its contexts, tools, outputs, and services
-* demonstrate the [Agent Actions extension](https://github.com/tdwg/attribution/tree/master/people/dwc) to Darwin Core in an Integratated Publishing Toolkit in test mode and prepare a white paper for submission to [BISS](https://biss.pensoft.net/) on its design and use
-* complete the tasks in our [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/) charter, including a plan to produce a best practice guide to the disambiguation of people’s names
+*   review the [Attribution Interest Group](https://www.tdwg.org/community/attribution/) and its contexts, tools, outputs, and services
+*   demonstrate the [Agent Actions extension](https://github.com/tdwg/attribution/tree/master/people/dwc) to Darwin Core in an Integratated Publishing Toolkit in test mode and prepare a white paper for submission to [BISS](https://biss.pensoft.net/) on its design and use
+*   complete the tasks in our [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/) charter, including a plan to produce a best practice guide to the disambiguation of people’s names
 
 
 ## ITG10:  Task Group On Minimum Information About A Digital Specimen (MIDS)  
