@@ -129,9 +129,10 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 **Organizers**: [David Shorthouse](mailto:davidpshorthouse@gmail.com), Agriculture and Agri-Food Canada, Ottawa, Canada; Quentin Groom, Meise Botanic Garden, Meise, Belgium
 
 **Description**: In this working meeting ([see schedule](https://docs.google.com/document/d/14HcUjnmKgaR9ZXb5zQCdKHvVrKyOu1657tBujArIplA/edit?usp=sharing)), we will:
-*   review the [Attribution Interest Group](https://www.tdwg.org/community/attribution/) and its contexts, tools, outputs, and services
-*   demonstrate the [Agent Actions extension](https://github.com/tdwg/attribution/tree/master/people/dwc) to Darwin Core in an Integratated Publishing Toolkit in test mode and prepare a white paper for submission to [BISS](https://biss.pensoft.net/) on its design and use
-*   complete the tasks in our [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/) charter, including a plan to produce a best practice guide to the disambiguation of people’s names
+
+* review the [Attribution Interest Group](https://www.tdwg.org/community/attribution/) and its contexts, tools, outputs, and services
+* demonstrate the [Agent Actions extension](https://github.com/tdwg/attribution/tree/master/people/dwc) to Darwin Core in an Integratated Publishing Toolkit in test mode and prepare a white paper for submission to [BISS](https://biss.pensoft.net/) on its design and use
+* complete the tasks in our [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/) charter, including a plan to produce a best practice guide to the disambiguation of people’s names
 
 
 ## ITG10:  Task Group On Minimum Information About A Digital Specimen (MIDS)  
@@ -162,9 +163,9 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 
 The agenda will include: 
 
-*   Reports on data annotation systems in production use in the biodiversity community.
-*   Discussion of activities in the W3C Web Annotation Working Group [https://www.w3.org/annotation/](https://www.w3.org/annotation/).          
-*   Annotations and data quality assertions resulting from the TDWG BDQ TG2 core tests for biodiversity data quality. 
+* Reports on data annotation systems in production use in the biodiversity community.
+* Discussion of activities in the W3C Web Annotation Working Group [https://www.w3.org/annotation/](https://www.w3.org/annotation/).          
+* Annotations and data quality assertions resulting from the TDWG BDQ TG2 core tests for biodiversity data quality. 
 
 New participants in the Annotations Interest Group are welcomed. 
 
@@ -179,10 +180,10 @@ New participants in the Annotations Interest Group are welcomed.
 
 Discussion topics will include: 
 
-*   Current state of the PPSR-Core standard; 
-*   Uplifting data quality in citizen science with methods such as interacting with observers, digital documentation, artificial intelligence, expert review, and crowdsourcing; 
-*   Optimisation of effort through coordination and collaboration with continental Citizen Science Associations; 
-*   Finding our niche to maximise impact and uptake of standards in biodiversity citizen science. 
+* Current state of the PPSR-Core standard; 
+* Uplifting data quality in citizen science with methods such as interacting with observers, digital documentation, artificial intelligence, expert review, and crowdsourcing; 
+* Optimisation of effort through coordination and collaboration with continental Citizen Science Associations; 
+* Finding our niche to maximise impact and uptake of standards in biodiversity citizen science. 
 
 
 ## ITG14: Genomic Biodiversity Interest Group
@@ -208,16 +209,16 @@ In this session we will present ideas for directions that the tools could adopt,
 
 This will touch on questions and topics such as: 
 
-*   Should the BPS and IPT be merged into a combined tool, and which specific functions can possibly be dropped? 
-*   Should the components for data mapping, metadata authoring, registration in e.g. GBIF/OBIS be separated and available in separate modules? 
-*   Should the tool allow you to push data to an open repository, rather than requiring running a server on the internet? 
-*   What are the institutional needs? Access to a local database? Data served from your own servers? 
-*   What enrichment to metadata is required; aspects of the Collections Descriptions work? 
-*   Would support for RDF, FrictionlessData and more complete EML Data mapping enable wider use of these data?
-*   What level of data validation should be included in the data mapping process? 
-*   What technologies should be used for the next generation of tools?
-*   How can these be deployed with minimal disruption to existing users?
-*   Are there developments in other areas that can be used and adapted instead of a new development? 
+* Should the BPS and IPT be merged into a combined tool, and which specific functions can possibly be dropped? 
+* Should the components for data mapping, metadata authoring, registration in e.g. GBIF/OBIS be separated and available in separate modules? 
+* Should the tool allow you to push data to an open repository, rather than requiring running a server on the internet? 
+* What are the institutional needs? Access to a local database? Data served from your own servers? 
+* What enrichment to metadata is required; aspects of the Collections Descriptions work? 
+* Would support for RDF, FrictionlessData and more complete EML Data mapping enable wider use of these data?
+* What level of data validation should be included in the data mapping process? 
+* What technologies should be used for the next generation of tools?
+* How can these be deployed with minimal disruption to existing users?
+* Are there developments in other areas that can be used and adapted instead of a new development? 
 
 The outputs and key points from the discussion will be captured to help contribute to the roadmap for these tools. 
 
