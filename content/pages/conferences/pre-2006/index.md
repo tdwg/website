@@ -10,7 +10,7 @@ page_order: 45
 
 Year | Location | Host
 --- | --- | ---
-2005 | Saint Petersburg, Russia | [Zoological Institute of the Russian Academy of Sciences](https://www.zin.ru/index_e.htm)
+2005 | Saint Petersburg, Russia | [Zoological Institute of the Russian Academy of Sciences](https://www.zin.ru/conferences/tdwg/)
 2004 | Christchurch, New Zealand | [University of Canterbury](http://www.canterbury.ac.nz/) and [Landcare Research](https://www.landcareresearch.co.nz/)
 2003 | Oeiras, Portugal | [Instituto Gulbenkian de Ciência](http://www.igc.gulbenkian.pt/)
 2002 | Indaiatuba, Brazil | [Centro de Referência em Informação Ambiental (CRIA)](http://www.cria.org.br/)
