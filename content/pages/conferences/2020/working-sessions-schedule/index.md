@@ -240,7 +240,7 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
 <p><a href="../working-sessions/#itg14:%20genomic%20biodiversity%20interest%20group">ITG14: Genomic Biodiversity</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG14%3a%20Genomic+Biodiversity+Interest+Group&iso=20200924T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
+	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG14%3a%20Genomic+Biodiversity+Interest+Group&iso=20200925T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Ramona Walls</p>
 <p>Support:</p>
 </td>
