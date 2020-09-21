@@ -103,11 +103,11 @@ En esta sesión de trabajo, responderemos preguntas sobre el mantenimiento de Da
 **Descripción**: Esta es una oportunidad de aprender acerca del trabajo que se lleva a cabo por el [Grupo de Mantenimiento del Audubon Core](https://www.tdwg.org/community/ac/) y proporcionar insumos para establecer las prioridades futuras del grupo. En la reunión, revisaremos el trabajo principal que se realizó durante el año pasado para desarrollar nuevos términos y recomendaciones de mejores prácticas para metadatos sólidos. También revisaremos los problemas que aun permanecen en la lista y solicitaremos sugerencias sobre cómo debemos enfocar nuestro trabajo el próximo año. Un tema de interés actual es cómo estructurar anotaciones (tales como segmentos de audio o partes de otros elementos multimedia), por lo que anticipamos alguna discusión sobre ese tema. 
 
 
-## ITG07:  How Did It Die?  
+## ITG07:  Cómo Murió?  
 
 **Tipo de Sesión**: Grupo de Interés/Grupo de Tarea
 
-**Organizadores**: [Sophia Ratcliffe](mailto:s.ratcliffe@nbn.org.uk), NBN Trust, Nottingham, UK; Quentin Groom, Meise Botanic Garden, Meise, Belgium 
+**Organizadores**: [Sophia Ratcliffe](mailto:s.ratcliffe@nbn.org.uk), NBN Trust, Nottingham, Reino Unido; Quentin Groom, Jardín Botánico de Meise, Meise, Bélgica 
 
 **Descripción**: The vitality of the organism at the time of the observation or collection is an important attribute of a species record, which currently cannot be expressed in a machine-readable manner. The ['How did it die?' task group](https://www.tdwg.org/community/osr/how-did-it-die/) has been convened to propose the addition of terms, and associated controlled vocabularies, to [Darwin Core](https://www.tdwg.org/standards/dwc/) to enable the interoperability of datasets that hold information on the vitality of the organism and any cause of death (e.g. roadkill, beach stranding, hunting, window strikes and disease monitoring). 
 
