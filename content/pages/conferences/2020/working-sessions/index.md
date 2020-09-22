@@ -220,6 +220,8 @@ This will touch on questions and topics such as:
 * How can these be deployed with minimal disruption to existing users?
 * Are there developments in other areas that can be used and adapted instead of a new development? 
 
+More detail around these topics is given in an [ideas paper](https://doi.org/10.35035/cdps-md62), which may help guide the discussion.
+
 The outputs and key points from the discussion will be captured to help contribute to the roadmap for these tools. 
 
 
