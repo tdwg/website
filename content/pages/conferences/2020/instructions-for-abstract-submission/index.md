@@ -10,7 +10,7 @@ page_order: 65
 
 # Instructions for Abstract Submission
 
-_Last updated 10 July 2020_
+_Last updated 23 September 2020_
 
 1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2020 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **The deadline for submission of abstracts** (see #10) **is 12 August 2020.**
 2. Although there is no registration fee to attend the live conference, view recorded content, or read published abstracts from TDWG 2020's virtual conference, the author submitting an approved abstract will be charged 40€ by the journal as part of the final submission process (just prior to publication).  
@@ -55,9 +55,14 @@ Find the most appropriate collection for your abstract. For an explanation about
     2. **_Validate._** Next, click the validate button first to make sure there are no lingering issues. See [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). Click on the blue text for each issue to resolve it. A successful validation will only show the number of characters in your abstract. 
     3. Once approved, the ‘**_Submit to the journal_**’ button should become visible (if you do not see this button, you may not be listed as the submitting author see #9.3.i above) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the ‘Submit to the journal’ button and then go through the (long) checklist of submission steps.
     4. The first item in the checklist regards the **_license and copyright_** of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if _any_ author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk.
-    5. The fourth and final step asks you to **_assign categories_** (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_.
-    6. When the submission process is finalised, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty). 
-    7. At publication, you should receive a confirmation email from the journal.
+    5. Step 2 addresses invoicing (billing) of the 40€ article processing charge (APC), new this year for TDWG 2020 abstracts. Note that abstracts will not be published until payment is made. Submitting authors may
+        1. Agree to pay for the APC
+        2. Indicate that they have a special agreement via direct contact with TDWG prior to submission to receive a full or partial fee waiver for the submission (must have submitted a waiver request, see link in your abstract approval letter)
+        3. Specify that the submitting author is the person to be charged the APC 
+        4. Specify that a different person (e.g., institutional business manager) will pay (will need their name, email, and postal address). If you anticipate grouping invoices, please work with your business manager to avoid publication delays.
+    6. The final step asks you to **_assign categories_** (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_.
+    7. When the submission process is finalised, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty). 
+    8. At publication, you should receive a confirmation email from the journal.
 13.  **Incomplete Submission:** ( If, after your manuscript has been approved, you fail to complete all of the steps in the previous section, you may see it tagged as _Incomplete Submission_ in your ARPHA dashboard, even though a BISS ID has been assigned to it. Because this now has a BISS identifier, you must access actions to complete the submission (or delete it) via the BISS dashboard [https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63](https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63) not ARPHA’s. <br /> <br />
 ![IncompleteSubmission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "IncompleteSubmission")<br /> <br /> 
 _The deadline for finalizing your abstract for publication in the journal is **11 September 2020**, to enable us to prepare the program._ <br /> <br />
