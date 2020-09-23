@@ -69,6 +69,7 @@ Membership dues can be paid:
 | [National Museum of Natural History](https://naturalhistory.si.edu/) |  Washington, DC |
 | [National Museums Scotland](https://www.nms.ac.uk/) | 	Edinburgh |
 | [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) | 	Canberra |
+| [Natural Science Collections Facility (SANBI)](https://www.sanbi.org/) | Pretoria |
 | [Naturalis Biodiversity Center](https://www.naturalis.nl/en) |   Leiden |
 | [NatureServe](https://www.natureserve.org/) |   Arlington, VA |
 | [New York Botanical Garden](https://www.nybg.org/) | 	The Bronx, NY |
