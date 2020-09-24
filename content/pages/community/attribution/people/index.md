@@ -49,18 +49,18 @@ Last Updated: May 18, 2020
 
 Two terms have been created under the GBIF namespace for use in the exchange of identifiers for people in occurrence data. These are **recordedByID** and **identifiedByID** and are available in the core Darwin Core Occurrence extension of GBIF's Integrated Publishing Toolkit. They are defined as follows:
 
-| **recordedByID** | <!-- --> |
-| --- | --- |
-| Definition | An unordered list (concatenated and separated) of IDs representing names of people, groups, or organizations responsible for recording the original Occurrence. No semantics should be assumed, including for example an ordering of identifiers to indicate a primary collector or any institutional affiliation. The recommended best practice is to separate the values with a vertical bar ('\\|').|
-| Examples | "https://orcid.org/0000-0001-6215-3617 \\| https://orcid.org/0000-0003-1691-239X" "https://orcid.org/0000-0001-6215-3617 \\| https://www.wikidata.org/entity/Q28913658"|
-| Qualname | http://rs.gbif.org/terms/1.0/recordedByID|
+**recordedByID** | <!-- -->
+--- | ---
+Definition | An unordered list (concatenated and separated) of IDs representing names of people, groups, or organizations responsible for recording the original Occurrence. No semantics should be assumed, including for example an ordering of identifiers to indicate a primary collector or any institutional affiliation. The recommended best practice is to separate the values with a vertical bar (`|`).
+Examples | `https://orcid.org/0000-0001-6215-3617 | https://orcid.org/0000-0003-1691-239X` `https://orcid.org/0000-0001-6215-3617 | https://www.wikidata.org/entity/Q28913658`
+Qualname | <http://rs.gbif.org/terms/1.0/recordedByID>
 
 
-| **identifiedByID** | <!-- --> |
-| --- | --- |
-| Definition | An unordered list (concatenated and separated) of IDs representing names of people, groups, or organizations who assigned the Taxon to the subject. No semantics should be assumed, including for example an ordering of identifiers to citation priority or any institutional affiliation. The recommended best practice is to separate the values with a vertical bar ('\\|').|
-| Examples | "https://orcid.org/0000-0001-6215-3617 \\| https://orcid.org/0000-0003-1691-239X" "https://orcid.org/0000-0001-6215-3617 \\| https://www.wikidata.org/entity/Q28913658"|
-| Qualname | http://rs.gbif.org/terms/1.0/identifiedByID|
+**identifiedByID** | <!-- -->
+--- | ---
+Definition | An unordered list (concatenated and separated) of IDs representing names of people, groups, or organizations who assigned the Taxon to the subject. No semantics should be assumed, including for example an ordering of identifiers to citation priority or any institutional affiliation. The recommended best practice is to separate the values with a vertical bar (`|`).
+Examples | `https://orcid.org/0000-0001-6215-3617 | https://orcid.org/0000-0003-1691-239X` `https://orcid.org/0000-0001-6215-3617 | https://www.wikidata.org/entity/Q28913658`
+Qualname | <http://rs.gbif.org/terms/1.0/identifiedByID>
 
 Members of this group are developing an extension to Darwin Core entitled, [Agent Actions](https://github.com/tdwg/attribution/tree/master/people/dwc). This extension accommodates the [theoretical work](http://doi.org/10.5334/dsj-2019-054) produced in collaboration with the Research Data Alliance.
 
@@ -76,8 +76,8 @@ Members of this group are developing an extension to Darwin Core entitled, [Agen
 * Research is underway in how to best extract, reconcile, and resolve people names in occurrence data and publications and we understand that this will encourage focused coordination and will reduce duplication of effort in digitization programs (Nicolson & Tucker, 2019; Nicolson et al. 2018)
 * We have a published model developed under both the Research Data Alliance and Biodiversity Information Standards that may be used as guiding principles in sharing attribution data (Thessen et. al. 2019)
 History and Background
-Many of the participants of the Task Group have worked on people identifiers and person data. We consider that it is time for these initiatives to be brought together under a task group to create common standards, common approaches and best practices.
 
+Many of the participants of the Task Group have worked on people identifiers and person data. We consider that it is time for these initiatives to be brought together under a task group to create common standards, common approaches and best practices.
 
 In March 2019 under the aegis of the Mobilise COST Action a workshop was run on the subject of “Authority Management of People Names” [https://osf.io/qwegk/](https://osf.io/qwegk/). This workshop developed a number of actions and these were progressed at a pre-conference workshop at the Biodiversity Next Conference in October 2019. At the workshop the participants worked on visualization, disambiguation, engagement and dissemination of people identifiers for collections [https://osf.io/9t3f2/](https://osf.io/9t3f2/).
 
@@ -85,7 +85,7 @@ In March 2019 under the aegis of the Mobilise COST Action a workshop was run on 
 
 1. Determine whether Darwin Core must be amended & subsequently ratified to accommodate more granular representations of our information held in terms like recordedBy, identifiedBy, georeferencedBy, measurementDeterminedBy
 2. Establish a draft Darwin Core extension for attribution with feedback from users
-   1. Establish a vocabulary of actions whose URIs are tied to [VIVO](https://wiki.duraspace.org/display/VIVODOC110x/Ontology+Reference)\[1\] (coordinated with Anne Thessen)
+   1. Establish a vocabulary of actions whose URIs are tied to [VIVO](https://wiki.duraspace.org/display/VIVODOC110x/Ontology+Reference) [^1] (coordinated with Anne Thessen)
    2. Develop definitions in multiple languages for terms in the action vocabulary
    3. Reconcile the extension with existing extensions and how they record agents and their actions
    4. Pilot the implementation of the extension with 2-3 museums and herbaria that serve data through the Integrated Publishing Toolkit (IPT)
@@ -100,7 +100,6 @@ In March 2019 under the aegis of the Mobilise COST Action a workshop was run on 
 
 The Task Group will use online means to communicate and document its work. Members have already had various ad hoc online meetings and these will continue. The Group also uses the Open Science Framework to store documents and will use tools such as Google Docs to work collaboratively. The Task Group will seek opportunities to meet face-to-face. Obvious venues are at the annual meetings of TDWG and SPNHC, but members may also have chances to meet at the RDA conferences and at regional meetings. If funding or other resources are needed, we will look for support from various projects, including DiSSCo, ALA and iDigBio. We will also reach out to developers of collection management systems to make them aware of our work.
 
-
 Ultimately, the Task Group will submit its proposals to TDWG’s journal BISS and follow the TDWG Vocabulary Maintenance Standard to get these proposals adopted.
 
 # Summary
@@ -113,18 +112,16 @@ People are an important element in the biodiversity knowledge graph. If we are a
 
 # Literature
 
-Groom, Q.J., C. O’Reilly, and T. Humphrey. 2014. Herbarium specimens reveal the exchange network of British and Irish botanists, 1856–1932. New Journal of Botany 4: 95–103. [https://doi.org/10.1179/2042349714Y.0000000041](https://doi.org/10.1179/2042349714Y.0000000041)
+Groom, Q.J., C. O’Reilly, and T. Humphrey. 2014. Herbarium specimens reveal the exchange network of British and Irish botanists, 1856–1932. New Journal of Botany 4: 95–103. <https://doi.org/10.1179/2042349714Y.0000000041>
 
 Lindon, H. L., Gardiner, L. M., Brady, A., & Vorontsova, M. S. (2015). Fewer than three percent of land plant species named by women: Author gender over 260 years. Taxon, 64(2), 209-215.
 
-Penn, M.G., S. Cafferty, and M. Carine. 2017. Mapping the history of botanical collectors: spatial patterns, diversity, and uniqueness through time. Systematics and Biodiversity 16: 1–13. [https://doi.org/10.1080/14772000.2017.1355854](https://doi.org/10.1080/14772000.2017.1355854)
+Penn, M.G., S. Cafferty, and M. Carine. 2017. Mapping the history of botanical collectors: spatial patterns, diversity, and uniqueness through time. Systematics and Biodiversity 16: 1–13. <https://doi.org/10.1080/14772000.2017.1355854>
 
-Nicolson, N., A. Paton, S. Phillips, and A. Tucker. 2018. Specimens as Research Objects: Reconciliation Across Distributed Repositories to Enable Metadata Propagation. 2018 IEEE 14th International Conference on e-Science (e-Science). [https://doi.org/10.1109/eScience.2018.00028](https://doi.org/10.1109/eScience.2018.00028)
+Nicolson, N., A. Paton, S. Phillips, and A. Tucker. 2018. Specimens as Research Objects: Reconciliation Across Distributed Repositories to Enable Metadata Propagation. 2018 IEEE 14th International Conference on e-Science (e-Science). <https://doi.org/10.1109/eScience.2018.00028>
 
-Nicolson, N., and A. Tucker. 2017. Identifying Novel Features from Specimen Data for the Prediction of Valuable Collection Trips. Lecture Notes in Computer Science 235–246. [https://doi.org/10.1007/978-3-319-68765-0_20](https://doi.org/10.1007/978-3-319-68765-0_20)
+Nicolson, N., and A. Tucker. 2017. Identifying Novel Features from Specimen Data for the Prediction of Valuable Collection Trips. Lecture Notes in Computer Science 235–246. <https://doi.org/10.1007/978-3-319-68765-0_20>
 
-Thessen, A.E., Woodburn, M., Koureas, D., Paul, D., Conlon, M., Shorthouse, D.P. and Ramdeen, S., 2019. Proper Attribution for Curation and Maintenance of Research Collections: Metadata Recommendations of the RDA/TDWG Working Group. Data Science Journal, 18(1), p.54. [http://doi.org/10.5334/dsj-2019-054](http://doi.org/10.5334/dsj-2019-054)
+Thessen, A.E., Woodburn, M., Koureas, D., Paul, D., Conlon, M., Shorthouse, D.P. and Ramdeen, S., 2019. Proper Attribution for Curation and Maintenance of Research Collections: Metadata Recommendations of the RDA/TDWG Working Group. Data Science Journal, 18(1), p.54. <http://doi.org/10.5334/dsj-2019-054>
 
-
-________________
-[1] “VIVO is member-supported, open source software and an ontology for representing scholarship.”
+[^1]: VIVO is member-supported, open source software and an ontology for representing scholarship.
