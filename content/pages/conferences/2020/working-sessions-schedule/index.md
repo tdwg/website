@@ -130,7 +130,7 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <p>Support: </p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
-<p><a href="../working-sessions/#itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20(“vocabularies”)">ITG04: Vocabularies</a>
+<p><a href="../working-sessions/#itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20(%22vocabularies%22)">ITG04: Vocabularies</a>
 	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG04%3a%20Best+practices+for+development+of+vocabularies+of+values&iso=20200924T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
 <p>Primary: Paula Zermoglio</p>
 <p>Support: </p>
