@@ -44,7 +44,7 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
   <p><a href="../working-sessions/#itg07:%20how%20did%20it%20die?">ITG07: How Did It Die?</a>
   <p>Primary: Sophia Ratcliffe</p>
   <p>Support: Quentin Groom</p>
-  <p><a href="https://youtu.be/tsWXd1LWXbI" target="_blank" alt="ITG07: How Did It Die?">Recorded Video</a></p>
+  <p><a href="https://youtu.be/tsWXd1LWXbI" target="_blank" title="ITG07: How Did It Die?">Recorded Video</a></p>
 </td>
 <td style="background-color: #bbffaa;" rowspan="4">
   <p><a href="../working-sessions/#hack01:%20hack4nature">HACK01: Hack4Nature</a></p>
