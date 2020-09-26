@@ -13,18 +13,15 @@ page_order: 45
 <table>
 <tr> 
 	<td>Latest news</td>
-	<td style="text-align: right;">31 Aug, 2020 </td>
+	<td style="text-align: right;">26 Sep, 2020 </td>
 </tr>
 <tr> 
-	<td colspan=2><p><a href="https://tdwg.eventbrite.com" target="_blank">Registration is now open</a> for sessions in the week of 21-25 September. These include the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and hackathons.  Note that registration for the INTRO sessions is separate from registration for the working sessions.  The schedule of sessions in our September week is below.</p>
-	<p style="text-align: center"><a href="https://tdwg.eventbrite.com" target="_blank"" class="btn btn-secondary">Register now (free!)</a></p>
+	<td colspan=2><p>The working sessions of TDWG 2020 were held in the week of 21-25 September. These included the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and a hackathon.  The schedule of sessions is below.</p>
+	<p>Videos of our session are posted on the TDWG YouTube channel.  A link to each video is shown in the session block below.</p>
 	</td>
 </tr>
 </table>
-
-
-The first column the time of day is given in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
-
+<p>&nbsp;</p>
 <table border="1">
 <thead>
 <tr style="border-style: double;">
