@@ -8,23 +8,19 @@ tags: conference
 page_order: 45
 ---
 
-# DRAFT Schedule of Working Sessions<br />21-25 September
+# Schedule of Working Sessions<br />21-25 September
 
 <table>
 <tr> 
 	<td>Latest news</td>
-	<td style="text-align: right;">31 Aug, 2020 </td>
+	<td style="text-align: right;">26 Sep, 2020 </td>
 </tr>
 <tr> 
-	<td colspan=2><p><a href="https://tdwg.eventbrite.com" target="_blank">Registration is now open</a> for sessions in the week of 21-25 September. These include the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and hackathons.  Note that registration for the INTRO sessions is separate from registration for the working sessions.  The schedule of sessions in our September week is below.</p>
-	<p style="text-align: center"><a href="https://tdwg.eventbrite.com" target="_blank"" class="btn btn-secondary">Register now (free!)</a></p>
+	<td colspan=2><p>The working sessions of TDWG 2020 were held in the week of 21-25 September. These included the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and a hackathon.  If you missed a session, you can watch the recorded video on the TDWG YouTube channel.  A link to each session's video is listed in the table below.</p>
 	</td>
 </tr>
 </table>
-
-
-The first column the time of day is given in UTC (=GMT). Under each session title is a "Local Time" link that will show you the session start and end times in your local time zone.  The "Time-And-Date" page also contains a link that will add the displayed session to your calendar.
-
+<p>&nbsp;</p>
 <table border="1">
 <thead>
 <tr style="border-style: double;">
@@ -41,16 +37,15 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <td>08:00</td>
 <td> </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p><a href="../working-sessions/#itg07:%20how%20did%20it%20die?">ITG07: How Did It Die?</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG07%3a%20How+did+it+die?&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Sophia Ratcliffe</p>
-<p>Support: Quentin Groom</p>
+  <p><a href="../working-sessions/#itg07:%20how%20did%20it%20die?">ITG07: How Did It Die?</a>
+  <p>Primary: Sophia Ratcliffe</p>
+  <p>Support: Quentin Groom</p>
+  <p><a href="https://youtu.be/tsWXd1LWXbI" target="_blank" title="ITG07: How Did It Die?">Recorded Video</a></p>
 </td>
 <td style="background-color: #bbffaa;" rowspan="4">
-<p><a href="../working-sessions/#hack01:%20hack4nature">HACK01: Hack4Nature</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+HACK01%3a%20Hack4Nature&iso=20200923T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span>
-</p>
-<p>Primary: Olivier Rovellotti</p>
+  <p><a href="../working-sessions/#hack01:%20hack4nature">HACK01: Hack4Nature</a></p>
+  <p>Primary: Olivier Rovellotti</p>
+  <p><a href="https://youtu.be/xYvTEnqtGdQ" target="_blank" title="HACK01: Hack4Nature">Recorded Video</a><p></p>
 </td>
 <td> </td>
 <td> </td>
@@ -58,10 +53,10 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <tr>
 <td>08:30</td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#intro:%20introduction%20to%20tdwg">INTRO: Introduction to TDWG</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+INTRO%3a%20Introduction+to+TDWG&iso=20200921T0830&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Holly Little</p>
-<p>Support: Deb Paul</p>
+	<p><a href="../working-sessions/#intro:%20introduction%20to%20tdwg">INTRO: Introduction to TDWG</a></p>
+	<p>Primary: Holly Little</p>
+	<p>Support: Deb Paul</p>
+	<p><a href="https://youtu.be/2btF029nSiI" target="_blank" title="INTRO: Introduction to TDWG (1)">Recorded Video</a></p>
 </td>
 <td> </td>
 <td> </td>
@@ -82,10 +77,10 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <td> </td>
 <td> </td>
 <td style="background-color: #aaffc3;" rowspan="4">
-<p><a href="../working-sessions/#itg09:%20people%20in%20biodiversity%20data%20task%20group">ITG09:  People in Biodiv</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG09%3a%20People+in+Biodiversity+Data+Task+Group&iso=20200924T1000&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: David Shorthouse</p>
-<p>Support: Quentin Groom   </p>
+	<p><a href="../working-sessions/#itg09:%20people%20in%20biodiversity%20data%20task%20group">ITG09: People in Biodiv</a></p>
+	<p>Primary: David Shorthouse</p>
+	<p>Support: Quentin Groom</p>
+	<p><a href="https://youtu.be/DiulnUoY2SI" target="_blank" title="ITG09: People in Biodiversity">Recorded Video</a><p></p>
 </td>
 <td> </td>
 </tr>
@@ -113,33 +108,31 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <tr>
 <td>12:00</td>
 <td style="background-color: #aaffee;" rowspan="4">
-<p><a href="../working-sessions/#itg06:%20audubon%20core%20maintenance%20group%20annual%20meeting">ITG06 Audubon Core</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG06%3a%20Audubon+Core+Maintenance+Group+Annual+Meeting&iso=20200921T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Steve Baskauf</p>
+	<p><a href="../working-sessions/#itg06:%20audubon%20core%20maintenance%20group%20annual%20meeting">ITG06 Audubon Core</a></p>
+	<p>Primary: Steve Baskauf</p>
+	<p><a href="https://youtu.be/O5A4IpIyn8w" target="_blank" title="ITG06 Audubon Core">Recorded Video</a></p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="4">
-<p><a href="../working-sessions/#ws02:%20abcd/dwc%20alignment%20working%20group">WS02: ABCD/DwC</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS02%3a%20ABCD/DwC+Alignment+Working+Group&iso=20200922T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: David Fichtmüller</p>
-<p>Support: Paula Zermoglio</p>
+	<p><a href="../working-sessions/#ws02:%20abcd/dwc%20alignment%20working%20group">WS02: ABCD/DwC</a></p>
+	<p>Primary: David Fichtmüller</p>
+	<p>Support: Paula Zermoglio</p>
+	<p><a href="https://youtu.be/aTWmsaVAVf0" target="_blank" title="WS02: ABCD/DwC">Recorded Video</a></p>
 </td>
 <td style="background-color: #aae5ff;" rowspan="4">
-<p><a href="../working-sessions/#itg10:%20task%20group%20on%20minimum%20information%20about%20a%20digital%20specimen%20(mids)">ITG10: MIDS</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG10%3a%20TDWG+Task+Group+on+Minimum+Information+about+a+Digital+Specimen+(MIDS)&iso=20200923T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Alex Hardisty</p>
-<p>Support: </p>
+	<p><a href="../working-sessions/#itg10:%20task%20group%20on%20minimum%20information%20about%20a%20digital%20specimen%20(mids)">ITG10: MIDS</a></p>
+	<p>Primary: Alex Hardisty</p>
+	<p><a href="https://youtu.be/ZNdL7ttOKd8" target="_blank" title="ITG10: MIDS">Recorded Video</a></p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
-<p><a href="../working-sessions/#itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20(%22vocabularies%22)">ITG04: Vocabularies</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG04%3a%20Best+practices+for+development+of+vocabularies+of+values&iso=20200924T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Paula Zermoglio</p>
-<p>Support: </p>
+	<p><a href="../working-sessions/#itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20(%22vocabularies%22)">ITG04: Vocabularies</a></p>
+	<p>Primary: Paula Zermoglio</p>
+	<p><a href="https://youtu.be/iAvaGpiO-g8" target="_blank" title="ITG04: Vocabularies">Recorded Video</a><p></p>
 </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p><a href="../working-sessions/#itg12:%20annotations%20interest%20group">ITG12: Annotations</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG12%3a%20Annotations+Interest+Group&iso=20200925T1200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Paul J. Morris</p>
-<p>Support: James Macklin, Tim Robertson </p>
+	<p><a href="../working-sessions/#itg12:%20annotations%20interest%20group">ITG12: Annotations</a></p>
+	<p>Primary: Paul J. Morris</p>
+	<p>Support: James Macklin, Tim Robertson </p>
+	<p><a href="https://youtu.be/FkYhs9lt1Ps" target="_blank" title="ITG12: Annotations">Recorded Video</a></p>
 </td>
 </tr>
 <tr>
@@ -162,35 +155,34 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <tr>
 <td>14:30</td>
 <td style="background-color: #aae5ff;" rowspan="3">
-<p><a href="../working-sessions/#itg03:%20collections%20descriptions%20task%20group">ITG03: Collection Descriptions (CD)
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG03%3a%20Collection+Descriptions+Task+Group&iso=20200921T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span>
-</p>
-<p>Primary: Matt Woodburn</p>
-<p>Support: Deb Paul, Holly Little</p>
+	<p><a href="../working-sessions/#itg03:%20collections%20descriptions%20task%20group">ITG03: Collection Descriptions (CD)</a></p>
+	<p>Primary: Matt Woodburn</p>
+	<p>Support: Deb Paul, Holly Little</p>
+	<p><a href="https://youtu.be/L44dWAa-tF4" target="_blank" title="CD">Recorded Video</a></p>
 </td>
 <td style="background-color: #eeaaff;" rowspan="4">
-<p><a href="../working-sessions/#bof01:%20converging%20digital%20specimens%20and%20extended%20specimens%20-%20towards%20a%20global%20specification">BOF01: Global specification for specimens</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+BOF01%3a%20Converging+Digital+Specimens+and+Extended+specimens:+Towards+a+global+specification&iso=20200922T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Alex Hardisty</p>
-<p>Support: Andrew Bentley</p>
+	<p><a href="../working-sessions/#bof01:%20converging%20digital%20specimens%20and%20extended%20specimens%20-%20towards%20a%20global%20specification">BOF01: Global specification for specimens</a></p>
+	<p>Primary: Alex Hardisty</p>
+	<p>Support: Andrew Bentley</p>
+	<p><a href="https://youtu.be/8ljokNRkjeo" target="_blank" title="Digital Specimens">Recorded Video</a></p>
 </td>
 <td style="background-color: #aaffee;" rowspan="4">
-<p><a href="../working-sessions/#itg02:%20darwin%20core%20maintenance%20group">ITG02: Darwin Core</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG02%3a%20Darwin+Core+Maintenance+Group&iso=20200923T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: John Wieczorek</p>
-<p>Support: Paula Zermoglio, Tim Robertson</p>
+	<p><a href="../working-sessions/#itg02:%20darwin%20core%20maintenance%20group">ITG02: Darwin Core</a></p>
+	<p>Primary: John Wieczorek</p>
+	<p>Support: Paula Zermoglio, Tim Robertson</p>
+	<p><a href="https://youtu.be/ooHOxGoCm18" target="_blank" title="DwC Maintenance">Recorded Video</a></p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 1</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200924T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
-<p>Primary: Jörg Holetschek</p>
-<p>Support: Tim Robertson</p>
+	<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 1</a></p>
+	<p>Primary: Jörg Holetschek</p>
+	<p>Support: Tim Robertson</p>
+	<p><a href="https://youtu.be/hU1I1ER9qLw" target="_blank" title="BioCASe/IPT">Recorded Video</a><p></p>
 </td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 2</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS01%3a%20Capturing+ideas+for+the+future+of+BioCASe+Provider+Software+and+the+GBIF+Integrated+Publishing+Toolkit&iso=20200925T1430&p1=1440&ah=1&am=30" target="_blank">Local Time</a></span></p>
-<p>Primary: Jörg Holetschek</p>
-<p>Support: Tim Robertson</p>
+	<p><a href="../working-sessions/#ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)">WS01: BioCASe &amp; IPT; Part 2</a></p>
+	<p>Primary: Jörg Holetschek</p>
+	<p>Support: Tim Robertson</p>
+	<p><a href="https://youtu.be/l4ORGpzHKe4" target="_blank" title="WS01: BioCASe+IPT(2)">Recorded Video</a></p>
 </td>
 </tr>
 <tr>
@@ -216,33 +208,32 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <tr>
 <td>17:00</td>
 <td style="background-color: #ffeeaa;" rowspan="3">
-<p><a href="../working-sessions/#intro:%20introduction%20to%20tdwg">INTRO: Introduction to TDWG</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+INTRO%3a%20Introduction+to+TDWG&iso=20200921T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Holly Little</p>
-<p>Support: Deb Paul</p>
+	<p><a href="../working-sessions/#intro:%20introduction%20to%20tdwg">INTRO: Introduction to TDWG</a></p>
+	<p>Primary: Holly Little</p>
+	<p>Support: Deb Paul</p>
+	<p><a href="https://youtu.be/YC0N0fxwBxo" target="_blank" title="INTRO: Introduction to TDWG (2)">Recorded Video</a></p>
 </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p><a href="../working-sessions/#itg08:%20earth%20science%20and%20paleobiology%20interest%20group">ITG08: Earth Sci/Paleo (ESP)
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG08%3a%20Earth+Science+and+Paleobiology+Interest+Group&iso=20200922T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Denné Reed</p>
-<p>Support: Holly Little    </p>
+	<p><a href="../working-sessions/#itg08:%20earth%20science%20and%20paleobiology%20interest%20group">ITG08: Earth Sci/Paleo (ESP)</a></p>
+	<p>Primary: Denné Reed</p>
+	<p>Support: Holly Little</p>
+	<p><a href="https://youtu.be/q9r22lXlpIA" target="_blank" title="ITG08: Earth Sci/Paleo (ESP)">Recorded Video</a></p>
 </td>
 <td style="background-color: #bbffaa;" rowspan="4">
-<p><a href="../working-sessions/#itg11:%20species%20information%20interest%20group">ITG11: Species Info</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG11%3a%20Species+Information+IG&iso=20200923T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Paco Pando</p>
+	<p><a href="../working-sessions/#itg11:%20species%20information%20interest%20group">ITG11: Species Info</a></p>
+	<p>Primary: Paco Pando</p>
+	<p><a href="https://youtu.be/lFi82CPmC2U" target="_blank" title="ITG11: Species Information">Recorded Video</a></p>
 </td>
 <td style="background-color: #aae5ff;" rowspan="4">
-<p><a href="../working-sessions/#ws03:%20living%20atlases%20workshop%20for%20end%20users">WS03:Living Atlases</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+WS03%3a%20Living+Atlases+workshhop+for+end+users&iso=20200924T1700&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Marie-Elise Lecoq</p>
-<p>Support: Paula Zermoglio </p>
+	<p><a href="../working-sessions/#ws03:%20living%20atlases%20workshop%20for%20end%20users">WS03: Living Atlases</a></p>
+	<p>Primary: Marie-Elise Lecoq</p>
+	<p>Support: Paula Zermoglio </p>
+	<p><a href="https://youtu.be/LVR4weoOoRQ" target="_blank" title="WS03: Living Atlases">Recorded Video</a><p></p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
-<p><a href="../working-sessions/#itg14:%20genomic%20biodiversity%20interest%20group">ITG14: Genomic Biodiversity</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG14%3a%20Genomic+Biodiversity+Interest+Group&iso=20200925T1430&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Ramona Walls</p>
-<p>Support:</p>
+	<p><a href="../working-sessions/#itg14:%20genomic%20biodiversity%20interest%20group">ITG14: Genomic Biodiversity</a></p>
+	<p>Primary: Ramona Walls</p>
+	<p><a href="https://youtu.be/FmrV6fQwyNQ" target="_blank" title="ITG14: Genomics">Recorded Video</a></p>
 </td>
 </tr>
 <tr>
@@ -291,17 +282,17 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <td>21:00</td>
 <td> </td>
 <td style="background-color: #ffff99;" rowspan="4">
-<p><a href="../working-sessions/#itg01:%20taxon%20names%20and%20concepts">ITG01: TNC <br />
-  <span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020++%3A++Taxon+Names+and+Concepts+Interest+Group&iso=20200922T2100&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Niels Klazenga</p>
-<p>Support:</p>
+	<p><a href="../working-sessions/#itg01:%20taxon%20names%20and%20concepts">ITG01: TNC</a></p>
+	<p>Primary: Niels Klazenga</p>
+	<p>Support:</p>
+	<p><a href="https://youtu.be/-bQLjUP0eRc" target="_blank" title="ITG01: TNC">Recorded Video</a></p>
 </td>
 <td> </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
-<p><a href="../working-sessions/#itg05:%20machine%20observations%20interest%20group">ITG05: Machine Observations</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG05%3a%20Machine+Observations+Interest+Group&iso=20200924T2100&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Peggy Newman</p>
-<p>Support: Peter Desmet</p>
+	<p><a href="../working-sessions/#itg05:%20machine%20observations%20interest%20group">ITG05: Machine Observations</a></p>
+	<p>Primary: Peggy Newman</p>
+	<p>Support: Peter Desmet</p>
+	<p><a href="https://youtu.be/dxoW-miXINo" target="_blank" title="ITG05: Machine Observations">Recorded Video</a></p>
 </td>
 <td> </td>
 </tr>
@@ -315,10 +306,9 @@ The first column the time of day is given in UTC (=GMT). Under each session titl
 <td>22:00</td>
 <td> </td>
 <td style="background-color: #bbffaa;" rowspan="4">
-<p><a href="../working-sessions/#itg13:%20citizen%20science%20interest%20group">ITG13: Citizen Science</a>
-	<br /><span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG13%3a%20Citizen+Science+Interest+Group&iso=20200923T2200&p1=1440&ah=2&am=" target="_blank">Local Time</a></span></p>
-<p>Primary: Rob Stevenson</p>
-<p>Support: </p>
+	<p><a href="../working-sessions/#itg13:%20citizen%20science%20interest%20group">ITG13: Citizen Science</a></p>
+	<p>Primary: Rob Stevenson</p>
+	<p><a href="https://youtu.be/TxUf-krdhMw" target="_blank" title="ITG13: Citizen Science">Recorded Video</a></p>
 </td>
 <td> </td>
 </tr>
