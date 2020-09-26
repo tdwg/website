@@ -16,8 +16,7 @@ page_order: 45
 	<td style="text-align: right;">26 Sep, 2020 </td>
 </tr>
 <tr> 
-	<td colspan=2><p>The working sessions of TDWG 2020 were held in the week of 21-25 September. These included the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and a hackathon.  The schedule of sessions is below.</p>
-	<p>Videos of our session are posted on the TDWG YouTube channel.  A link to each video is shown in the session block below.</p>
+	<td colspan=2><p>The working sessions of TDWG 2020 were held in the week of 21-25 September. These included the Introduction to TDWG, interest group, task group, and birds-of-a-feather meetings, as well as workshops and a hackathon.  If you missed a session, you can watch the recorded video on the TDWG YouTube channel.  A link to each session's video is listed in the table below.</p>
 	</td>
 </tr>
 </table>
