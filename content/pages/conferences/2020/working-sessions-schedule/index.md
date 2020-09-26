@@ -124,7 +124,7 @@ page_order: 45
 	<p><a href="https://youtu.be/ZNdL7ttOKd8" target="_blank" title="ITG10: MIDS">Recorded Video</a></p>
 </td>
 <td style="background-color: #aabbff;" rowspan="4">
-	<p><a href="../working-sessions/#itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20(“vocabularies”)">ITG04: Vocabularies</a></p>
+	<p><a href="../working-sessions/#itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20(%22vocabularies%22)">ITG04: Vocabularies</a></p>
 	<p>Primary: Paula Zermoglio</p>
 	<p><a href="https://youtu.be/iAvaGpiO-g8" target="_blank" title="ITG04: Vocabularies">Recorded Video</a><p></p>
 </td>
