@@ -8,7 +8,7 @@ tags: conference
 page_order: 45
 ---
 
-# DRAFT Schedule of Working Sessions<br />21-25 September
+# Schedule of Working Sessions<br />21-25 September
 
 <table>
 <tr> 
