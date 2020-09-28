@@ -74,14 +74,12 @@ information.
 
 ## Goals, outputs and outcomes
 
-- Beginning with the existing draft MIDS specification (July 2020)<sup>[1](#1)</sup> developed with input from the DiSSCo and ADBC
+- Beginning with the existing [draft MIDS specification](https://bit.ly/MIDSv011) (July 2020) developed with input from the DiSSCo and ADBC
 programmes, the goal now is to broaden applicability and to achieve international consensus that leads to widespread adoption and implementation.
 
 - Outputs will include the draft standard itself, a summary of the use cases served, reports of pilot implementations and evaluations of the standard's content, and appropriate proposals for MIDS sup   > by other TDWG standards, such as Darwin Core, ABCD, CD, 
 
 - The complete draft minimum information standard for Minimum Information about a Digital Specimen (MIDS) will be submitted for consideration as a TDWG Standard (Autumn 2021).
-
-<a name="1"><sup>1</sup></a> [Draft MIDS specification](https://bit.ly/MIDSv011)
 
 ## Strategy
 
@@ -143,9 +141,9 @@ minimum information standards, Digital Specimen information, experience with dig
 
 ## Context/history
 
-Minimum information standards have been an initiative in biosciences
+[Minimum information standards](https://en.wikipedia.org/wiki/Minimum\_information\_standard) have been an initiative in biosciences
 to provide sets of guidelines for reporting data derived by relevant
-scientific methods.<sup>[2](#2)</sup> As a general principle, however there is no
+scientific methods. As a general principle, however there is no
 reason confining them to bioscientific disciplines. Minimum
 information standards can be applied wherever else it is necessary to
 capture and present (publish) data for interoperability and re-use by
@@ -155,8 +153,8 @@ interpreted by the wider scientific community. Minimum information
 standards also facilitate structured databases, public repositories,
 and development of processes, procedures and software tools.
 
-The Minimum Information Standards for Scientific Collections
-(MISC)/Authority Files Working Group3 was established in 2012 by
+The [Minimum Information Standards for Scientific Collections
+(MISC)/Authority Files Working Group](https://www.idigbio.org/wiki/index.php/MISC/Authority-File-Working-Group) was established in 2012 by
 iDigBio, the National Resource for Advancing Digitization of
 Biodiversity Collections (ADBC) funded by the National Science
 Foundation. It was not an attempt to establish a standard for minimum
@@ -170,11 +168,7 @@ of globally unique identifiers (GUID), for example) . This work helped
 the USA community move toward understanding what was needed to enhance
 discovery, research use, and linking.
 
-<a name="2"><sup>2</sup></a> [Wikipedia: Minimum Information Standards](https://en.wikipedia.org/wiki/Minimum\_information\_standard).
-
-<a name="3"><sup>3</sup></a> [https://www.idigbio.org/wiki/index.php/MISC/Authority-File-Working-Group](https://www.idigbio.org/wiki/index.php/MISC/Authority-File-Working-Group). 
-
-Design study work funded by the European Union Horizon 2020 ICEDIG ([https://icedig.eu/]{.underline}) project (2018 - 2020) for the future European Distributed System of Scientific Collections (DiSSCo) research infrastructure identified that when discussing digitization, many people have different understandings of the term. This leads to confusion and uncertainty when something is described as having been digitized. Thus, the idea for a 'minimum information standard' was born to serve a range of aims that include:
+Design study work funded by the European Union Horizon 2020 [ICEDIG](https://icedig.eu/) project (2018 - 2020) for the future European Distributed System of Scientific Collections (DiSSCo) research infrastructure identified that when discussing digitization, many people have different understandings of the term. This leads to confusion and uncertainty when something is described as having been digitized. Thus, the idea for a 'minimum information standard' was born to serve a range of aims that include:
 
 - Offering clarity to collection owners about the minimum information they should be publishing out of digitization initiatives to make digital specimen information useful for multiple purposes of teaching and learning, research, etc.;
 
