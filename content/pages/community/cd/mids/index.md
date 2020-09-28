@@ -172,7 +172,7 @@ discovery, research use, and linking.
 
 <a name="2"><sup>2</sup></a> [Wikipedia: Minimum Information Standards](https://en.wikipedia.org/wiki/Minimum\_information\_standard).
 
-<a name="3"><sup>3</sup></a> https://www.idigbio.org/wiki/index.php/MISC/Authority-File-Working-Group. 
+<a name="3"><sup>3</sup></a> [https://www.idigbio.org/wiki/index.php/MISC/Authority-File-Working-Group]. 
 
 Design study work funded by the European Union Horizon 2020 ICEDIG ([https://icedig.eu/]{.underline}) project (2018 - 2020) for the future European Distributed System of Scientific Collections (DiSSCo) research infrastructure identified that when discussing digitization, many people have different understandings of the term. This leads to confusion and uncertainty when something is described as having been digitized. Thus, the idea for a 'minimum information standard' was born to serve a range of aims that include:
 
@@ -184,7 +184,7 @@ Design study work funded by the European Union Horizon 2020 ICEDIG ([https://ice
 
 - Assisting researchers to know what information to include in their journal articles and data deposits about specimens they have used in their research.
 
-Drawing on prior work, drafting commenced on a specification for > Minimum Information about a Digital Specimen (MIDS), (Hardisty et al. > draft) and this is continuing in the present DiSSCo Prepare > ([https://www.dissco.eu/prepare/]{.underline}) project. This work is > offered as the starting point for a TDWG task group.
+Drawing on prior work, drafting commenced on a specification for Minimum Information about a Digital Specimen (MIDS), (Hardisty et al. draft) and this is continuing in the present DiSSCo [Prepare](https://www.dissco.eu/prepare/) project. This work is offered as the starting point for a TDWG task group.
 
 Considering the global nature of the aims outlined, it is appropriate now to propose a TDWG Task Group to prepare a draft global standard on the topic.
 
@@ -198,9 +198,9 @@ Biodiversity Data Quality: (BDQ IG): MIDS recognises the importance of both qual
 
 -   Hardisty, A., Addink, W., Dillen, M., Groom, Q., Haston, E., et al. [(*Draft*) Minimum Information about a Digital Specimen (MIDS) v0.11, July 2020](http://bit.ly/MIDSv011). *draft text of a specification.*
 
--   Borsch, T., Stevens, A.-D., Häffner, E., Güntsch, A., Berendsohn, W.G., et al. (2020): A complete digitization of German herbaria is possible, sensible and should be started now. Research Ideas and Outcomes 6: e50675. https://doi.org/10.3897/rio.6.e50675.
+-   Borsch, T., Stevens, A.-D., Häffner, E., Güntsch, A., Berendsohn, W.G., et al. (2020): A complete digitization of German herbaria is possible, sensible and should be started now. Research Ideas and Outcomes 6: e50675. [https://doi.org/10.3897/rio.6.e50675].
 
--   MISC 2012. iDigBio MISC Data Element Catalog (Phase 1, V0, rev. 15 December 2012).  https://www.idigbio.org/wiki/images/c/c9/Phase\_I\_Report.pdf.
+-   MISC 2012. iDigBio MISC Data Element Catalog (Phase 1, V0, rev. 15 December 2012).  [https://www.idigbio.org/wiki/images/c/c9/Phase\_I\_Report.pdf].
 
 ---
 
