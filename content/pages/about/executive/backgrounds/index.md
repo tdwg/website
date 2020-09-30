@@ -22,11 +22,11 @@ __Agriculture Agri-food, Canada, Ottawa, Canada__
 
 ### Deb Paul
 
-__iDigBio, Florida State University, Tallahassee, Florida, USA__
+__Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA__
 
 __Background__
 
-I am passionate about working to build bridges between groups and creating environments where all feel welcome. For more than twelve years, I have participated in various biodiversity initiatives. Examples include digitization in the FSU R.K. Godfrey Herbarium, mobilizing data and images for Morphbank, leading digitization and workforce training efforts at iDigBio, collaborating worldwide to develop symposia and workshops, and networking and mentoring to foster biodiversity informatics skills in the collections and research communities. I am an active participant in the Society for the Preservation of Natural History Collections (SPNHC), Biodiversity Information Standards (TDWG), the Entomological Collections Network (ECN), ICEDIG, the Research Data Alliance (RDA), and The Carpentries. 
+I am passionate about working to build bridges between groups and creating environments where all feel welcome. For more than twelve years, I have participated in various biodiversity initiatives. Examples include digitization in the FSU R.K. Godfrey Herbarium, mobilizing data and images for Morphbank, leading digitization and capacity development efforts at iDigBio, collaborating worldwide to develop symposia and workshops, and networking and mentoring to foster biodiversity informatics skills in the collections and research communities. I am an active participant in the Society for the Preservation of Natural History Collections (SPNHC), Biodiversity Information Standards (TDWG), the Entomological Collections Network (ECN), ICEDIG, the Research Data Alliance (RDA), and The Carpentries. 
 
 __Vision Statement__
 
