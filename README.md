@@ -1,4 +1,4 @@
-# TDWG website
+# TDWG website amazing project
 
 This repository contains the content and settings for the new TDWG website. It is generated as a static website with [Pelican](http://docs.getpelican.com/).
 
