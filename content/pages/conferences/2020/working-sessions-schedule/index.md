@@ -71,14 +71,29 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 </script>
 </td>
 <td style="background-color: #99aacc; text-align: center;">
-<script type="text/javascript">
-  document.write( DiaLocal('2020-09-21T08:00:00Z', 1, 'short', 'short', 'en-US') );
-</script>
+  <script type="text/javascript">
+    document.write( DiaLocal('2020-09-21T08:00:00Z', 1, 'short', 'short', 'en-US') );
+  </script>
 </td>
-<td style="background-color: #99aacc; text-align: center;">Tue <br /> 22 Sep</td>
-<td style="background-color: #99aacc; text-align: center;">Wed <br /> 23 Sep</td>
-<td style="background-color: #99aacc; text-align: center;">Thu <br /> 24 Sep</td>
-<td style="background-color: #99aacc; text-align: center;">Fri <br /> 25 Sep</td>
+<td style="background-color: #99aacc; text-align: center;">
+  <script type="text/javascript">
+    document.write( DiaLocal('2020-09-22T08:00:00Z', 1, 'short', 'short', 'en-US') );
+  </script>
+</td>
+<td style="background-color: #99aacc; text-align: center;">
+  <script type="text/javascript">
+    document.write( DiaLocal('2020-09-23T08:00:00Z', 1, 'short', 'short', 'en-US') );
+  </script>
+</td>
+  <td style="background-color: #99aacc; text-align: center;"><script type="text/javascript">
+    document.write( DiaLocal('2020-09-24T08:00:00Z', 1, 'short', 'short', 'en-US') );
+  </script>
+</td>
+<td style="background-color: #99aacc; text-align: center;">
+  <script type="text/javascript">
+    document.write( DiaLocal('2020-09-25T08:00:00Z', 1, 'short', 'short', 'en-US') );
+  </script>
+</td>
 </tr>
 </thead>
 <tbody>
@@ -104,7 +119,11 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>08:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T08:30:00Z') );
+</script>
+</td>
 <td style="background-color: #ffeeaa;" rowspan="3">
 	<p><a href="../working-sessions/#intro:%20introduction%20to%20tdwg">INTRO: Introduction to TDWG</a></p>
 	<p>Primary: Holly Little</p>
@@ -115,17 +134,29 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>09:00</td>
+<td>
+<script type="text/javascript">
+    document.write( horaLocal('2020-09-21T09:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>09:30</td>
+<td>
+<script type="text/javascript">
+  document.write( horaLocal('2020-09-21T09:30:00Z') );
+</script>
+</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>10:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T10:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -138,28 +169,44 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>10:30</td>
+<td>10:30
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T10:30:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>11:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T11:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>11:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T11:30:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>12:00</td>
+  <td>
+    <script type="text/javascript">
+      document.write( horaLocal('2020-09-21T12:00:00Z') );
+    </script>
+</td>
 <td style="background-color: #aaffee;" rowspan="4">
 	<p><a href="../working-sessions/#itg06:%20audubon%20core%20maintenance%20group%20annual%20meeting">ITG06 Audubon Core</a></p>
 	<p>Primary: Steve Baskauf</p>
@@ -189,16 +236,32 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 </td>
 </tr>
 <tr>
-<td>12:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T12:30:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>13:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T13:00:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>13:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T13:30:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>14:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T14:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -206,7 +269,11 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>14:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T14:30:00Z') );
+  </script>
+</td>
 <td style="background-color: #aae5ff;" rowspan="3">
 	<p><a href="../working-sessions/#itg03:%20collections%20descriptions%20task%20group">ITG03: Collection Descriptions (CD)</a></p>
 	<p>Primary: Matt Woodburn</p>
@@ -239,19 +306,35 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 </td>
 </tr>
 <tr>
-<td>15:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T15:00:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>15:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T15:30:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>16:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T16:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>16:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T16:30:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -259,7 +342,11 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>17:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T17:00:00Z') );
+  </script>
+</td>
 <td style="background-color: #ffeeaa;" rowspan="3">
 	<p><a href="../working-sessions/#intro:%20introduction%20to%20tdwg">INTRO: Introduction to TDWG</a></p>
 	<p>Primary: Holly Little</p>
@@ -290,41 +377,33 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 </td>
 </tr>
 <tr>
-<td>17:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T17:30:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>18:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T18:00:00Z') );
+  </script>
+</td>
 </tr>
 <tr>
-<td>18:30</td>
-<td> </td>
-</tr>
-<tr>
-<td>19:00</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td>19:30 </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T18:30:00Z') );
+  </script>
+</td>
 <td> </td>
 </tr>
 <tr>
-<td>20:00</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td>20:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T19:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -332,7 +411,47 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>21:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T19:30:00Z') );
+  </script>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T20:00:00Z') );
+  </script>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T20:30:00Z') );
+  </script>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T21:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td style="background-color: #ffff99;" rowspan="4">
 	<p><a href="../working-sessions/#itg01:%20taxon%20names%20and%20concepts">ITG01: TNC</a></p>
@@ -350,13 +469,21 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>21:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T21:30:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>22:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T22:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td style="background-color: #bbffaa;" rowspan="4">
 	<p><a href="../working-sessions/#itg13:%20citizen%20science%20interest%20group">ITG13: Citizen Science</a></p>
@@ -366,19 +493,31 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>22:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T22:30:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>23:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T23:00:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td>23:30</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-09-21T23:30:00Z') );
+  </script>
+</td>
 <td> </td>
 <td> </td>
 <td> </td>
