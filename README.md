@@ -18,7 +18,7 @@ This repository contains the content and settings for the new TDWG website. It i
 
 [tdwg.org](https://www.tdwg.org) is rebuilt automatically for any change on the `master` branch in [this repository](https://github.com/tdwg/website) or the [tdwg-theme repository](https://github.com/tdwg/tdwg-theme). You can see the status of the builds at <https://builds.gbif.org/job/tdwg-website/>. If you want to build the website locally, do the following:
 
-### Installation
+### Installation Process
 
 1. Clone the [website repo](https://github.com/tdwg/website): `git clone https://github.com/tdwg/website`
 2. Clone the [theme repo](https://github.com/tdwg/tdwg-theme): `git clone https://github.com/tdwg/tdwg-theme`
@@ -26,7 +26,7 @@ This repository contains the content and settings for the new TDWG website. It i
 4. Verify Python 3.3+ is installed: `python --version`
 5. Navigate to the website repo and install the [requirements](requirements.txt) (including [Pelican](http://docs.getpelican.com/en/stable/install.html)): `pip install -r requirements.txt`
 
-### Build site
+### Process Of Building The Site
 
 1. Optional: activate your virtual environment (e.g. `source activate tdwg`)
 2. Navigate to the website directory: `cd website`
