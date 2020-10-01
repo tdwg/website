@@ -23,15 +23,19 @@ function horaLocal(hileraFechaHora) {
   return horas + ":" + minutos;
 }
 
-function UTCLocal(hileraFechaHora) {
+function UTCLocalTimeZone(hileraFechaHora) {
   var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
-  var desfase = (0-fecha.getTimezoneOffset())/60;
-  if (desfase > 0) {
-     desfase = "+" + desfase.toString();
-  } else {
-     desfase = desfase.toString();
-  }
-  return "UTC"+desfase;
+  var desfase = fecha.getTimezoneOffset();
+  var signo = "+";
+  
+  if (desfase < 0) { signo = "+"; } else { signo = "-"; }
+  desfase = Math.abs(desfase);
+  var horas = Math.trunc(desfase/60);
+  var minutos = Math.trunc(desfase - (horas * 60));
+  
+  if (horas < 9) {horas = "0" + horas};
+  if (minutos < 9) {minutos = "0"+ minutos};
+  return ("UTC" + signo) + (horas + ":" + minutos);
 }
 
 function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
@@ -67,7 +71,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <tr style="border-style: double;">
 <td style="background-color: #cccccc; vertical-align: bottom;">
 <script type="text/javascript">
-  document.write( UTCLocal('2020-09-21T08:00:00Z') );
+  document.write( UTCLocalTimeZone('2020-09-21T08:00:00Z') );
 </script>
 </td>
 <td style="background-color: #99aacc; text-align: center;">
