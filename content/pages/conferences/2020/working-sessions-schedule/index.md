@@ -7,7 +7,48 @@ cover_image_ref:
 tags: conference
 page_order: 45
 ---
+<script type="text/javascript"> 
 
+function horaLocal(hileraFechaHora) {
+  var fecha = new Date(hileraFechaHora);   // The function convert the parameter ISO Date string to the local hour HH:MM.
+  var horas = fecha.getHours();
+  var minutos = fecha.getMinutes();
+  
+  if (horas < 10) {
+     horas = "0" + horas.toString();
+  }
+  if (minutos < 10) {
+     minutos = "0" + minutos.toString();
+  }
+  return horas + ":" + minutos;
+}
+
+function UTCLocal(hileraFechaHora) {
+  var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
+  var desfase = (0-fecha.getTimezoneOffset())/60;
+  if (desfase > 0) {
+     desfase = "+" + desfase.toString();
+  } else {
+     desfase = desfase.toString();
+  }
+  return "UTC"+desfase;
+}
+
+function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
+  // The function convert the parameter ISO Date string to the day string.
+  // lineas indicates if the result is more than 1 line (No:0, Yes:1)
+  var fecha = new Date(hileraFechaHora);
+  var nombreDia = fecha.toLocaleDateString(localidad, { weekday: formatoDia });
+  var nombreMes = fecha.toLocaleDateString(localidad, { month: formatoMes });
+  if (lineas = 1) {
+    nombreDia = nombreDia + "<br>";
+  } else {
+    nombreDia = nombreDia + " ";
+  }
+  nombreDia = nombreDia + fecha.getDate() + " " + nombreMes;
+  return nombreDia;
+}
+</script>
 # Schedule of Working Sessions<br />21-25 September
 
 <table>
@@ -24,8 +65,16 @@ page_order: 45
 <table border="1">
 <thead>
 <tr style="border-style: double;">
-<td style="background-color: #cccccc; vertical-align: bottom;">UTC</td>
-<td style="background-color: #99aacc; text-align: center;">Mon <br /> 21 Sep</td>
+<td style="background-color: #cccccc; vertical-align: bottom;">
+<script type="text/javascript">
+  document.write( UTCLocal('2020-09-21T08:00:00Z') );
+</script>
+</td>
+<td style="background-color: #99aacc; text-align: center;">
+<script type="text/javascript">
+  document.write( DiaLocal('2020-09-21T08:00:00Z', 1, 'short', 'short', 'en-US') );
+</script>
+</td>
 <td style="background-color: #99aacc; text-align: center;">Tue <br /> 22 Sep</td>
 <td style="background-color: #99aacc; text-align: center;">Wed <br /> 23 Sep</td>
 <td style="background-color: #99aacc; text-align: center;">Thu <br /> 24 Sep</td>
@@ -34,7 +83,11 @@ page_order: 45
 </thead>
 <tbody>
 <tr>
-<td>08:00</td>
+<td>
+<script type="text/javascript">
+  document.write( horaLocal('2020-09-21T08:00:00Z') );
+</script>
+</td>
 <td> </td>
 <td style="background-color: #e6ffaa;" rowspan="4">
   <p><a href="../working-sessions/#itg07:%20how%20did%20it%20die?">ITG07: How Did It Die?</a>
