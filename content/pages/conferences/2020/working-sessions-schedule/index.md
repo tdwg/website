@@ -169,7 +169,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <td> </td>
 </tr>
 <tr>
-<td>10:30
+<td>
   <script type="text/javascript">
     document.write( horaLocal('2020-09-21T10:30:00Z') );
   </script>
