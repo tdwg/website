@@ -27,6 +27,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
   // The function convert the parameter UTC ISO Date string to the local time.
   // Use addlinebreak to indicate a new line (1), a space (0) between "UTC" and the sign of the time.
   var fecha = new Date(hileraFechaHora);    
+
   var desfase = fecha.getTimezoneOffset();
   var signo = "+";
   
