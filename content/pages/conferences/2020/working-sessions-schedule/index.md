@@ -23,8 +23,11 @@ function horaLocal(hileraFechaHora) {
   return horas + ":" + minutos;
 }
 
-function UTCLocalTimeZone(hileraFechaHora) {
-  var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
+function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
+  // The function convert the parameter UTC ISO Date string to the local time.
+  // Use addlinebreak to indicate a new line (1), a space (0) between "UTC" and the sign of the time.
+  var fecha = new Date(hileraFechaHora);    
+
   var desfase = fecha.getTimezoneOffset();
   var signo = "+";
   
@@ -35,7 +38,8 @@ function UTCLocalTimeZone(hileraFechaHora) {
   
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
-  return ("UTC" + signo) + (horas + ":" + minutos);
+  if (addlinebreak == 1) { linebreak = "<br>"; } else { if (addlinebreak == 0) {linebreak = " "; } else { linebreak = ""; }; };
+  return ("UTC" + linebreak + signo) + (horas + ":" + minutos);
 }
 
 function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
@@ -44,7 +48,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
   var fecha = new Date(hileraFechaHora);
   var nombreDia = fecha.toLocaleDateString(localidad, { weekday: formatoDia });
   var nombreMes = fecha.toLocaleDateString(localidad, { month: formatoMes });
-  if (lineas = 1) {
+  if (lineas == 1) {
     nombreDia = nombreDia + "<br>";
   } else {
     nombreDia = nombreDia + " ";
@@ -71,7 +75,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <tr style="border-style: double;">
 <td style="background-color: #cccccc; vertical-align: bottom;">
 <script type="text/javascript">
-  document.write( UTCLocalTimeZone('2020-09-21T08:00:00Z') );
+  document.write( UTCZonaHorariaLocal('2020-09-21T08:00:00Z', 1) );
 </script>
 </td>
 <td style="background-color: #99aacc; text-align: center;">
