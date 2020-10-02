@@ -25,6 +25,16 @@ Over the past decades, numerous standards have been developed that are used for 
 
 Many fields in biodiversity research are generating a vast amount of images. Examples are the mass digitization of natural history collections or automatic sensor-collected images. The amount of images is growing exponentially, and new methodologies such as machine learning are generating derived taxonomic data and metadata. Handling these images imposes new challenges: ranging from visualizing them to storage and sharing of data and metadata. In this symposium we want to give an overview of the use of metadata standards in biological imagery and the various issues that might arise from it, and how to integrate image information. Do existing standards cover well the user needs associated with image handling? What standards exist? Can we learn from other community driven standards (e.g. IIIF)?
 
+14:00 UTC - Tuesday, 20 October 2020
+| 14:00 UTC | Introduction | 
+| | Bonnett |
+| | Hyam |
+| | Gries |
+| | Exter |
+| | Howell |
+| | Martin-Cabrera |
+| 16:00 UTC | Session End |
+
 
 ## SYM03  Enhancing connections with the global neighbourhood through expanding partnerships
 
@@ -33,6 +43,14 @@ Many fields in biodiversity research are generating a vast amount of images. Exa
 **Organizers:** [Constance Rinaldo](mailto:crinaldo@oeb.harvard.edu), Harvard University, Cambridge, US; Colleen Funkhouser, Biodiversity Heritage Library, Washington, US
 
 The Biodiversity Heritage Library (BHL) is more than a digital library, it is a key resource for data related to biodiversity. Data such as museum specimens, taxonomic names, environmental and geolocation variables is embedded in the published and unpublished literature found in BHL.Over the past year, BHL has developed a five year strategic plan designed to bring more focus on data, technology and partnerships. BHL is already well-established within the global bibliographical knowledge base. The plan for the symposium is to highlight some new directions and identify synergies and connections with current, new and potential partners in the biodiversity knowledge infrastructure. 
+
+20:00 UTC - Tuesday, 20 October 2020
+| 20:00 UTC | Rinaldo, Introduction |
+| 20:04 UTC | Herrmann |
+| 20:26 UTC | Kearney |
+| 20:48 UTC | Richard |
+| 21:10 UTC | Kalfatovic |
+| 21:30 UTC | Session End|
 
 
 ## SYM04 Challenges of the alignment of collection management systems across the globe and different domains
@@ -56,6 +74,13 @@ The aim of the symposium is to identify and discuss common grounds for addressin
 
 The COVID-19 pandemic, zoonoses, and pathogens in general provide key opportunities to highlight the predictive value of collections and the information specimens and related materials (e.g. genetic / genomic data, associated species data, trait data) can contribute to ecological understanding, tracking the origin and transmission of disease, policy development, and global infrastructure needs. In addition, the current pandemic highlights (and has encouraged) much-needed cross-disciplinary collaboration and the impetus to advance changes needed in standards of practice. For these reasons, representatives from SPNHC, iDigBio, NSCA, and the US mammalogy, virology, and disease ecology communities formed the ViralMuse task force. Leadership from SPNHC, GBIF, iDigBio, Pensoft, and Plazi, along with relevant domain scientists, joined the COVID-19 Task Force convened by CETAF and DiSSCo to identify both short-term responses and longer-term prediction and mitigation roles for these communities. Ongoing efforts show data and knowledge gaps for pathogens and their hosts as well as possible solutions for data integration. Behind these data integration efforts are needs for standards development and adoption. 
 
+17:00 UTC - Friday, 23 October 2020
+| 17:00 UTC | Introduction | 
+| 17:10 UTC | Soltis | 
+| 17:30 UTC | Krimmel | 
+| 17:50 UTC | Upham | 
+| 18:10 UTC | Discussion | 
+| 18:30 UTC | Session End |
 
 
 ## SYM06 You have what in your collection?
@@ -68,6 +93,14 @@ Digitization and publishing of museum specimen data is happening worldwide. Whil
 
 This session will include presentations that introduce the first version of the new TDWG Collection Descriptions data standard, and examples of trying out the standard with real world collection descriptions use cases. It will also, through a short talk and discussion session, consider the bigger picture of a communal approach to describing our collections at a global level, building on the outputs of GBIF’s recent open consultation on "Advancing the Catalogue of the World’s Natural History Collections". 
 
+20:00 UTC - Monday, 19 October 2020
+| 20:00 UTC | Woodburn |
+| 20:20 UTC | Trekels |
+| 20:40 UTC | Grant | 
+| 21:00 UTC | Islam | 
+| 21:20 UTC | Hobern |
+| 21:40 UTC | Discussion |
+| 22:00 UTC | Session End |
 
 
 ## SYM07 New standards development to support the transformation of collection data into digital specimens 
@@ -88,6 +121,13 @@ The session will report on development of new standards in support of the Digita
 For a few years, we have presented the Atlas of Living Australia platform and Living Atlases community to the TDWG. We managed to show you how this community has moved forward and how we have grown from a group of developers to a more stable community. We will use this new session to present what we have achieved since the last conference. 
 
 We will explain the work done by both coordinators helped by all the participants and the Living Atlases Management Committee to consolidate this new version of the community. It will include the description of the Memorandum of Understanding, the remote session organized by the technical coordinator and the improvement that we made regarding the technical and non-technical documentation. A presentation of Atlas of Living Australia’s pipeline will close this new symposium.
+
+20:00 UTC - Wednesday, 21 October 2020
+| 20:00 UTC | Lecoq | 
+| 20:20 UTC | Shah |
+| 20:40 UTC | Lecoq | 
+| 21:00 UTC | Martin, Molina | 
+| 21:30 UTC | Session End |
 
 
 ## SYM09 Technical and standards implications in data liberation and semantic publishing for biodiversity
@@ -135,7 +175,72 @@ Digital specimens represent physical collection objects in cyberspace and consis
 
 In this session central questions on the requirements, obstacles and chances of implementing the concepts of digital specimens and extended specimens in software tools are being discussed. The aim is to identify the major tasks and priorities regarding the transformation of tools and services from multiple perspectives: local collection data management, international data infrastructures like DiSSCo and GBIF, data usage outside of domain specific subject areas.
 
+## CO01 Contributed Oral 1
+
+**Session Type:** Symposium
+
+22:00 UTC - Wednesday, 21 October 2020 
+| 22:00 UTC | Chapman |
+| 22:20 UTC | Zarate |
+| 22:40 UTC | Belbin |
+| 23:00 UTC | Shorthouse |
+| 23:20 UTC | Pender |
+| 23:40 UTC | Discussion and additional questions | 
+| 0:00 UTC | Session End |
+
+## CO02 Contributed Oral 2
+
+**Session Type:** Symposium
+
+17:00 UTC - Monday, 19 October 2020
+| 17:00 UTC | Page |
+| 17:20 UTC | Shorthouse |
+| 17:40 UTC | LeVan |
+| 18:00 UTC | Seltmann |
+| 18:20 UTC | Costa |
+| 18:40 UTC | Discussion and additional questions | 
+| 19:00 UTC | Session End |
+
+## CO03 Contributed Oral 3
+
+**Session Type:** Symposium
+
+17:00 UTC - Thursday, 22 October 2020
+| 17:00 UTC | Ulate |
+| 17:20 UTC | Baskauf |
+| 17:40 UTC | Zermoglio |
+| 18:00 UTC | Stevenson |
+| 18:20 UTC | Shashkov |
+| 18:40 UTC | Discussion and additional questions | 
+| 19:00 UTC | Session End |
+
+## CO04 Contributed Oral 4
+
+**Session Type:** Symposium
+
+8:30 UTC - Friday, 23 October 2020
+| 8:30 UTC | Coetzer |
+| 8:50 UTC | Davis |
+| 9:10 UTC | Driller |
+| 9:30 UTC | Body |
+| 9:50 UTC | Waller  |
+| 10:10 UTC | Discussion and additional questions | 
+| 10:30 UTC | Session End |
+
+## CO05 Contributed Oral 5
+
+**Session Type:** Symposium
+
+11:30 UTC - Friday, 23 October 2020
+| 11:30 UTC | Kommineni |
+| 11:50 UTC | Schigel |
+| 12:10 UTC | Oldoni |
+| 12:30 UTC | Kiddle |
+| 12:50 UTC | Köhler |
+| 13:10 UTC | Discussion and additional questions | 
+| 13:30 UTC | Session End |
+
 __Last updated 23 July 2020__
 
 
-
+<iframe width="100%" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-NfGfIPPrYThi-DuLfUpw0rBkh7nO7NfReE21vabcdYxsCYh6qpyzDmk5E9dUixFvoUWo2ok4BEfn/pubhtml?gid=696526741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
