@@ -73,7 +73,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 <table border="1">
 <thead>
 <tr style="border-style: double;">
-<td style="background-color: #cccccc; vertical-align: bottom;">
+<td style="background-color: #cccccc; vertical-align: bottom; text-align:center;" >
 <script type="text/javascript">
   document.write( UTCZonaHorariaLocal('2020-09-21T08:00:00Z', 1) );
 </script>
