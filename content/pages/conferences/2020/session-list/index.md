@@ -27,15 +27,15 @@ Many fields in biodiversity research are generating a vast amount of images. Exa
 
 14:00 UTC - Tuesday, 20 October 2020
 
-| --- | --- |
-| 14:00 UTC | Introduction | 
-| | Bonnett |
-| | Hyam |
-| | Gries |
-| | Exter |
-| | Howell |
-| | Martin-Cabrera |
-| 16:00 UTC | Session End |
+| --- | --- | 
+| 14:00 UTC | Introduction |  
+| | Bonnett |  
+| | Hyam |  
+| | Gries |  
+| | Exter |  
+| | Howell |  
+| | Martin-Cabrera |  
+| 16:00 UTC | Session End |  
 
 
 ## SYM03  Enhancing connections with the global neighbourhood through expanding partnerships
