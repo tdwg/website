@@ -25,17 +25,17 @@ Over the past decades, numerous standards have been developed that are used for 
 
 Many fields in biodiversity research are generating a vast amount of images. Examples are the mass digitization of natural history collections or automatic sensor-collected images. The amount of images is growing exponentially, and new methodologies such as machine learning are generating derived taxonomic data and metadata. Handling these images imposes new challenges: ranging from visualizing them to storage and sharing of data and metadata. In this symposium we want to give an overview of the use of metadata standards in biological imagery and the various issues that might arise from it, and how to integrate image information. Do existing standards cover well the user needs associated with image handling? What standards exist? Can we learn from other community driven standards (e.g. IIIF)?
 
-14:00 UTC - Tuesday, 20 October 2020
-
-| --- | --- |  
-| 14:00 UTC | Introduction |  
-| | Bonnett |  
-| | Hyam |  
-| | Gries |  
-| | Exter |  
-| | Howell |  
-| | Martin-Cabrera |  
-| 16:00 UTC | Session End |  
+**14:00 UTC - Tuesday, 20 October 2020**
+<table>
+<tr><td> 14:00 UTC </td><td> Introduction </td></tr>
+  <tr><td>  </td><td> <b>Bonnet P</b>, Champ J, Goëau H, Stöter F-R, Deneu B, Servajean M, Affouard A, Lombardo J-C, Levchenko O, Gresse H, Joly A (2020) Pl@ntNet Services, a Contribution to the Monitoring and Sharing of Information on the World Flora. Biodiversity Information Science and Standards 4: e58933. https://doi.org/10.3897/biss.4.58933 </td></tr>
+<tr><td>  </td><td> Hyam </td></tr>
+  <tr><td>  </td><td> <b>Gries C</b>, Beaulieu S, Brown RF, Gastil-Buhl G, Elmendorf S, Hsieh H-Y, Kui L, Maurer G, Porter JH (2020) Change in Pictures: Creating best practices in archiving ecological imagery for reuse. Biodiversity Information Science and Standards 4: e59082. https://doi.org/10.3897/biss.4.59082 </td></tr>
+<tr><td>  </td><td> Exter </td></tr>
+<tr><td>  </td><td> Howell </td></tr>
+  <tr><td>  </td><td> <b>Martin-Cabrera P</b>, Lombard F, Irisson J-O, Stemmann L, Möller KO, Lindh M, Creach V, Schepers L (2020) Coordinating Efforts to Define Marine Plankton Imagery Data and Metadata Best Practices and Standards. Biodiversity Information Science and Standards 4: e58932. https://doi.org/10.3897/biss.4.58932 </td></tr>
+<tr><td> 16:00 UTC </td><td> Session End </td></tr>
+</table>
 
 
 ## SYM03  Enhancing connections with the global neighbourhood through expanding partnerships
@@ -46,14 +46,15 @@ Many fields in biodiversity research are generating a vast amount of images. Exa
 
 The Biodiversity Heritage Library (BHL) is more than a digital library, it is a key resource for data related to biodiversity. Data such as museum specimens, taxonomic names, environmental and geolocation variables is embedded in the published and unpublished literature found in BHL.Over the past year, BHL has developed a five year strategic plan designed to bring more focus on data, technology and partnerships. BHL is already well-established within the global bibliographical knowledge base. The plan for the symposium is to highlight some new directions and identify synergies and connections with current, new and potential partners in the biodiversity knowledge infrastructure. 
 
-20:00 UTC - Tuesday, 20 October 2020
-| 20:00 UTC | Rinaldo, Introduction |
-| 20:04 UTC | Herrmann |
-| 20:26 UTC | Kearney |
-| 20:48 UTC | Richard |
-| 21:10 UTC | Kalfatovic |
-| 21:30 UTC | Session End|
-
+**20:00 UTC - Tuesday, 20 October 2020**
+<table>
+<tr><td>  20:00 UTC </td><td> Introduction </td></tr>
+<tr><td>  20:04 UTC </td><td> Herrmann </td></tr>
+<tr><td>  20:26 UTC </td><td> Kearney </td></tr>
+  <tr><td>  20:48 UTC </td><td> <b>Richard J</b> (2020) Improving Taxonomic Name Finding in the Biodiversity Heritage Library. Biodiversity Information Science and Standards 4: e58482. https://doi.org/10.3897/biss.4.58482 </td></tr>
+  <tr><td>  21:10 UTC </td><td> <b>Kalfatovic M</b>, Rinaldo C, Smith J, Iggulden D, Funkhouser C (2020) The Biodiversity Heritage Library Response to the Global COVID-19 Pandemic. Biodiversity Information Science and Standards 4: e58481. https://doi.org/10.3897/biss.4.58481 </td></tr>
+<tr><td>  21:30 UTC </td><td> Session End </td></tr>
+</table>
 
 ## SYM04 Challenges of the alignment of collection management systems across the globe and different domains
 
@@ -76,13 +77,15 @@ The aim of the symposium is to identify and discuss common grounds for addressin
 
 The COVID-19 pandemic, zoonoses, and pathogens in general provide key opportunities to highlight the predictive value of collections and the information specimens and related materials (e.g. genetic / genomic data, associated species data, trait data) can contribute to ecological understanding, tracking the origin and transmission of disease, policy development, and global infrastructure needs. In addition, the current pandemic highlights (and has encouraged) much-needed cross-disciplinary collaboration and the impetus to advance changes needed in standards of practice. For these reasons, representatives from SPNHC, iDigBio, NSCA, and the US mammalogy, virology, and disease ecology communities formed the ViralMuse task force. Leadership from SPNHC, GBIF, iDigBio, Pensoft, and Plazi, along with relevant domain scientists, joined the COVID-19 Task Force convened by CETAF and DiSSCo to identify both short-term responses and longer-term prediction and mitigation roles for these communities. Ongoing efforts show data and knowledge gaps for pathogens and their hosts as well as possible solutions for data integration. Behind these data integration efforts are needs for standards development and adoption. 
 
-17:00 UTC - Friday, 23 October 2020
-| 17:00 UTC | Introduction | 
-| 17:10 UTC | Soltis | 
-| 17:30 UTC | Krimmel | 
-| 17:50 UTC | Upham | 
-| 18:10 UTC | Discussion | 
-| 18:30 UTC | Session End |
+**17:00 UTC - Friday, 23 October 2020**
+<table>
+<tr><td> 17:00 UTC </td><td> Introduction </td></tr> 
+<tr><td> 17:10 UTC </td><td> Soltis </td></tr> 
+  <tr><td> 17:30 UTC </td><td> <b>Krimmel EM</b>, Mast A, Paul D, Bruhn R, Rios N, Shorthouse DP (2020) Rapid Creation of a Data Product for the World's Specimens of Horseshoe Bats and Relatives, a Known Reservoir for Coronaviruses. Biodiversity Information Science and Standards 4: e59067. https://doi.org/10.3897/biss.4.59067 </td></tr>
+<tr><td> 17:50 UTC </td><td> Upham </td></tr>
+<tr><td> 18:10 UTC </td><td> Discussion </td></tr> 
+<tr><td> 18:30 UTC </td><td> Session End </td></tr>
+</table>
 
 
 ## SYM06 You have what in your collection?
@@ -95,14 +98,16 @@ Digitization and publishing of museum specimen data is happening worldwide. Whil
 
 This session will include presentations that introduce the first version of the new TDWG Collection Descriptions data standard, and examples of trying out the standard with real world collection descriptions use cases. It will also, through a short talk and discussion session, consider the bigger picture of a communal approach to describing our collections at a global level, building on the outputs of GBIF’s recent open consultation on "Advancing the Catalogue of the World’s Natural History Collections". 
 
-20:00 UTC - Monday, 19 October 2020
-| 20:00 UTC | Woodburn |
-| 20:20 UTC | Trekels |
-| 20:40 UTC | Grant | 
-| 21:00 UTC | Islam | 
-| 21:20 UTC | Hobern |
-| 21:40 UTC | Discussion |
-| 22:00 UTC | Session End |
+**20:00 UTC - Monday, 19 October 2020**
+<table>
+<tr><td>  20:00 UTC </td><td> Woodburn </td></tr>
+<tr><td>  20:20 UTC </td><td> Trekels </td></tr>
+  <tr><td>  20:40 UTC </td><td> <b>Grant S</b>, Jones J, Webbink K, Trekels M (2020) Reducing the Pain of Getting your Backlog Published. Biodiversity Information Science and Standards 4: e59183. https://doi.org/10.3897/biss.4.59183 </td></tr> 
+<tr><td>  21:00 UTC </td><td> Islam </td></tr> 
+<tr><td>  21:20 UTC </td><td> Hobern </td></tr>
+<tr><td>  21:40 UTC </td><td> Discussion </td></tr>
+<tr><td>  22:00 UTC </td><td> Session End </td></tr>
+</table>
 
 
 ## SYM07 New standards development to support the transformation of collection data into digital specimens 
@@ -124,12 +129,14 @@ For a few years, we have presented the Atlas of Living Australia platform and Li
 
 We will explain the work done by both coordinators helped by all the participants and the Living Atlases Management Committee to consolidate this new version of the community. It will include the description of the Memorandum of Understanding, the remote session organized by the technical coordinator and the improvement that we made regarding the technical and non-technical documentation. A presentation of Atlas of Living Australia’s pipeline will close this new symposium.
 
-20:00 UTC - Wednesday, 21 October 2020
-| 20:00 UTC | Lecoq | 
-| 20:20 UTC | Shah |
-| 20:40 UTC | Lecoq | 
-| 21:00 UTC | Martin, Molina | 
-| 21:30 UTC | Session End |
+**20:00 UTC - Wednesday, 21 October 2020**
+<table>
+<tr><td> 20:00 UTC </td><td> Lecoq </td></tr> 
+<tr><td> 20:20 UTC </td><td> Shah </td></tr>
+<tr><td> 20:40 UTC </td><td> Lecoq </td></tr> 
+<tr><td> 21:00 UTC </td><td> Martin, Molina </td></tr> 
+<tr><td> 21:30 UTC </td><td> Session End </td></tr>
+</table>
 
 
 ## SYM09 Technical and standards implications in data liberation and semantic publishing for biodiversity
@@ -181,66 +188,77 @@ In this session central questions on the requirements, obstacles and chances of 
 
 **Session Type:** Symposium
 
-22:00 UTC - Wednesday, 21 October 2020 
-| 22:00 UTC | Chapman |
-| 22:20 UTC | Zarate |
-| 22:40 UTC | Belbin |
-| 23:00 UTC | Shorthouse |
-| 23:20 UTC | Pender |
-| 23:40 UTC | Discussion and additional questions | 
-| 0:00 UTC | Session End |
+**22:00 UTC - Wednesday, 21 October 2020**
+<table>
+  <tr><td> 22:00 UTC </td><td> <b>Chapman AD</b>, Wieczorek JR, Zermoglio PF, Luna MC, Bloom DA (2020) Improved Georeferencing: Three essential guiding documents. Biodiversity Information Science and Standards 4: e58983. https://doi.org/10.3897/biss.4.58983 </td></tr>
+  <tr><td> 22:20 UTC </td><td> <b>Zárate M</b>, Zermoglio PF, Wieczorek J, Plos A, Mazzanti R (2020) Linked Open Biodiversity Data (LOBD): A semantic application for integrating biodiversity information. Biodiversity Information Science and Standards 4: e58975. https://doi.org/10.3897/biss.4.58975 </td></tr>
+  <tr><td> 22:40 UTC </td><td> <b>Belbin L</b>, Chapman A, Wieczorek J, Morris PJ, Zermoglio PF (2020) Task Group 2 – Data Quality Tests and Assertions. Biodiversity Information Science and Standards 4: e58982. https://doi.org/10.3897/biss.4.58982 </td></tr>
+  <tr><td> 23:00 UTC </td><td> <b>Shorthouse DP</b> (2020) Slinging With Four Giants on a Quest to Credit Natural Historians for our Museums and Collections. Biodiversity Information Science and Standards 4: e59167. https://doi.org/10.3897/biss.4.59167 </td></tr>
+<tr><td> 23:20 UTC </td><td> Pender </td></tr>
+<tr><td> 23:40 UTC </td><td> Discussion and additional questions </td></tr> 
+<tr><td> 0:00 UTC </td><td> Session End </td></tr>
+</table>
 
 ## CO02 Contributed Oral 2
 
 **Session Type:** Symposium
 
-17:00 UTC - Monday, 19 October 2020
-| 17:00 UTC | Page |
-| 17:20 UTC | Shorthouse |
-| 17:40 UTC | LeVan |
-| 18:00 UTC | Seltmann |
-| 18:20 UTC | Costa |
-| 18:40 UTC | Discussion and additional questions | 
-| 19:00 UTC | Session End |
+**17:00 UTC - Monday, 19 October 2020**
+<table>
+<tr><td> 17:00 UTC </td><td> Page </td></tr>
+<tr><td> 17:20 UTC </td><td> Shorthouse </td></tr>
+  <tr><td> 17:40 UTC </td><td> <b>LeVan</b> KE (2020) Specimens in a Broader Context: The National Ecological Observatory Network and the extended specimen. Biodiversity Information Science and Standards 4: e59208. https://doi.org/10.3897/biss.4.59208 </td></tr>
+  <tr><td> 18:00 UTC </td><td> <b>Seltmann KC</b>, Poelen JH, Sullivan K, Zaspel J (2020) Making Parasite-Host Associations Visible using Global Biotic Interactions. Biodiversity Information Science and Standards 4: e58985. https://doi.org/10.3897/biss.4.58985 </td></tr>
+<tr><td> 18:20 UTC </td><td> Costa </td></tr>
+<tr><td> 18:40 UTC </td><td> Discussion and additional questions </td></tr> 
+<tr><td> 19:00 UTC </td><td> Session End </td></tr>
+</table>
 
 ## CO03 Contributed Oral 3
 
 **Session Type:** Symposium
 
-17:00 UTC - Thursday, 22 October 2020
-| 17:00 UTC | Ulate |
-| 17:20 UTC | Baskauf |
-| 17:40 UTC | Zermoglio |
-| 18:00 UTC | Stevenson |
-| 18:20 UTC | Shashkov |
-| 18:40 UTC | Discussion and additional questions | 
-| 19:00 UTC | Session End |
+**17:00 UTC - Thursday, 22 October 2020**
+<table>
+<tr><td> 17:00 UTC </td><td> Ulate </td></tr>
+  <tr><td> 17:20 UTC </td><td> <b>Baskauf SJ</b> (2020) Creating and Maintaining TDWG Vocabularies using Spreadsheets. Biodiversity Information Science and Standards 4: e59124. https://doi.org/10.3897/biss.4.59124 </td></tr>
+  <tr><td> 17:40 UTC </td><td> <b>Zermoglio PF</b>, Plos A, Acosta N, Amaya L, Escobar DA, Grattarola F, Mancina CA, Nuñez F, Plata CA, Quintero E, Vargas M (2020) Latin American Plea for Incorporation of Other, Non-English Languages in TDWG Standards Documentation. Biodiversity Information Science and Standards 4: e58973. https://doi.org/10.3897/biss.4.58973 </td></tr>
+  <tr><td> 18:00 UTC </td><td> <b>Stevenson RD</b>, Merrill CL, Burn PR (2020) Assessment of Biodiversity Data Collected Using iNaturalist Compiled Over Three Years of College Freshman Orientations. Biodiversity Information Science and Standards 4: e59128. https://doi.org/10.3897/biss.4.59128 </td></tr>
+  <tr><td> 18:20 UTC </td><td> Ivanova N, <b>Shashkov M</b> (2020) Contribution of Citizen Science to Biodiversity Data Mobilization in Russia. Biodiversity Information Science and Standards 4: e59197. https://doi.org/10.3897/biss.4.59197 </td></tr>
+<tr><td> 18:40 UTC </td><td> Discussion and additional questions </td></tr> 
+<tr><td> 19:00 UTC </td><td> Session End </td></tr>
+</table>
 
 ## CO04 Contributed Oral 4
 
 **Session Type:** Symposium
 
-8:30 UTC - Friday, 23 October 2020
-| 8:30 UTC | Coetzer |
-| 8:50 UTC | Davis |
-| 9:10 UTC | Driller |
-| 9:30 UTC | Body |
-| 9:50 UTC | Waller  |
-| 10:10 UTC | Discussion and additional questions | 
-| 10:30 UTC | Session End |
+**8:30 UTC - Friday, 23 October 2020**
+<table>
+  <tr><td> 8:30 UTC </td><td> <b>Coetzer W</b> (2020) Development of Protocols and Tools to Manage and Archive Data from Aquatic Biodiversity Surveys. Biodiversity Information Science and Standards 4: e59027. https://doi.org/10.3897/biss.4.59027 </td></tr>
+<tr><td> 8:50 UTC </td><td> Davis </td></tr>
+<tr><td> 9:10 UTC </td><td> Driller </td></tr>
+  <tr><td> 9:30 UTC </td><td> <b>Body G</b> (2020) Using the Darwin Core Standard for Estimated Records. Biodiversity Information Science and Standards 4: e59120. https://doi.org/10.3897/biss.4.59120 </td></tr>
+<tr><td> 9:50 UTC </td><td> Waller  </td></tr>
+<tr><td> 10:10 UTC </td><td> Discussion and additional questions </td></tr>
+<tr><td> 10:30 UTC </td><td> Session End </td></tr>
+</table>
+
 
 ## CO05 Contributed Oral 5
 
 **Session Type:** Symposium
 
-11:30 UTC - Friday, 23 October 2020
-| 11:30 UTC | Kommineni |
-| 11:50 UTC | Schigel |
-| 12:10 UTC | Oldoni |
-| 12:30 UTC | Kiddle |
-| 12:50 UTC | Köhler |
-| 13:10 UTC | Discussion and additional questions | 
-| 13:30 UTC | Session End |
+**11:30 UTC - Friday, 23 October 2020**
+<table>
+  <tr><td> 11:30 UTC </td><td> <b>Kommineni VK</b>, Kattge J, Gaikwad J, Baddam P, Tautenhahn S (2020) Understanding Intraspecific Trait Variability Using Digital Herbarium Specimen Images. Biodiversity Information Science and Standards 4: e59061. https://doi.org/10.3897/biss.4.59061 </td></tr>
+<tr><td> 11:50 UTC </td><td> Schigel </td></tr>
+  <tr><td> 12:10 UTC </td><td> <b>Oldoni D</b>, Groom Q, Desmet P (2020) Occurrence Cubes: A new way of aggregating heterogeneous species occurrence data. Biodiversity Information Science and Standards 4: e59154. https://doi.org/10.3897/biss.4.59154 </td></tr>
+<tr><td> 12:30 UTC </td><td> Kiddle </td></tr>
+  <tr><td> 12:50 UTC </td><td> <b>Köhler C</b> (2020) Managing Audio Monitoring Data with SIMON – Concept for Data Administration, Online Repository and Dissemination. Biodiversity Information Science and Standards 4: e59108. https://doi.org/10.3897/biss.4.59108 </td></tr>
+<tr><td> 13:10 UTC </td><td> Discussion and additional questions </td></tr> 
+<tr><td> 13:30 UTC </td><td> Session End </td></tr>
+</table>
 
 __Last updated 23 July 2020__
 
