@@ -136,3 +136,6 @@ Digital specimens represent physical collection objects in cyberspace and consis
 In this session central questions on the requirements, obstacles and chances of implementing the concepts of digital specimens and extended specimens in software tools are being discussed. The aim is to identify the major tasks and priorities regarding the transformation of tools and services from multiple perspectives: local collection data management, international data infrastructures like DiSSCo and GBIF, data usage outside of domain specific subject areas.
 
 __Last updated 23 July 2020__
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYwLpSrleJSZkz9aH9Bd9s0Ofi1nFlj7Et7nlAwUr_J3Wx3_ImpFlsZDRBsX62S-rNTjVdVOjr9RJk/pubhtml?gid=1676063213&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
