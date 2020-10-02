@@ -26,6 +26,7 @@ Over the past decades, numerous standards have been developed that are used for 
 Many fields in biodiversity research are generating a vast amount of images. Examples are the mass digitization of natural history collections or automatic sensor-collected images. The amount of images is growing exponentially, and new methodologies such as machine learning are generating derived taxonomic data and metadata. Handling these images imposes new challenges: ranging from visualizing them to storage and sharing of data and metadata. In this symposium we want to give an overview of the use of metadata standards in biological imagery and the various issues that might arise from it, and how to integrate image information. Do existing standards cover well the user needs associated with image handling? What standards exist? Can we learn from other community driven standards (e.g. IIIF)?
 
 14:00 UTC - Tuesday, 20 October 2020
+| --- | ---|
 | 14:00 UTC | Introduction | 
 | | Bonnett |
 | | Hyam |
