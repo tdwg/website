@@ -67,7 +67,8 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong>In Preparation</strong></p>
+  <p><strong><a href="conference-schedule/">Session Schedule</a></strong></p>
+  <p><strong><a href="session-list/">Session Details</a></strong></p>
 </td>
 </tr>
 </tbody>
