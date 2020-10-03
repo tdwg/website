@@ -52,7 +52,15 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
   
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
-  if (addlinebreak == 1) { linebreak = "<br>"; } else { if (addlinebreak == 0) {linebreak = " "; } else { linebreak = ""; }; };
+  if (addlinebreak == 1) { 
+    linebreak = "<br>"; 
+  } else { 
+    if (addlinebreak == 0) {
+      linebreak = " "; 
+    } else { 
+      linebreak = ""; 
+    } 
+  }
   return ("UTC" + linebreak + signo) + (horas + ":" + minutos);
 }
 
@@ -81,8 +89,8 @@ The times posted for events below (in <script type="text/javascript"> document.w
   let breakLocalDayLine = 1;
   let weekOfDayFormat = 'long';
   let monthFormat = 'short';
-  let localLocale = 'en-US';  
-  let showDayShift = 1; 
+  let localLocale = 'en-US';
+  let showDayShift = 1;
 </script>
 
 <table style="border-collapse: collapse" border="1px">
