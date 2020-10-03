@@ -108,7 +108,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 <td align="center" valign="top"><strong>
   Tuesday<br />Oct. 20
-  <script type="text/javascript">document.write( DiaLocal('2020-10-20T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script>
+<!--  <script type="text/javascript">document.write( DiaLocal('2020-10-20T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> -->
 <br /> </strong></td>
 <td align="center" valign="top"><strong>
   Wednesday<br />Oct. 21
@@ -475,17 +475,16 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </script>
 </td>
 <td style="background-color: #EEACEC;" rowspan="2">
+  Conference welcome and Keynote<br /> Scott Edwards
   <span style="font-size:75%"><strong>
-    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=" target="_blank">
-      Local Time: 
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T15:00:00Z", 0, "short", "short", "en-US") );
-        document.write(" ");
-        document.write( horaLocal("2020-10-19T15:00:00Z", 0) );
+<!--        document.write(" ");
+        document.write( horaLocal("2020-10-19T15:00:00Z", 0) ); -->
       </script>
     </a></strong></span>
-  Conference welcome and Keynote<br /> Scott Edwards
-</td>
+  </td>
 </tr>
 <tr>
 <td>
@@ -625,7 +624,17 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td style="background-color: #acdfee;" rowspan="3"><p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p></td>
-<td style="background-color: #EEACEC;" rowspan="2">Mid Conference Keynote</td>
+<td style="background-color: #EEACEC;" rowspan="2">Mid Conference Keynote
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
+<!--        document.write(" ");
+        document.write( horaLocal("2020-10-22T22:00:00Z", 0) ); -->
+      </script>
+    </a></strong>
+  </span>
+</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
