@@ -479,7 +479,12 @@ The times posted for events below (in <script type="text/javascript"> document.w
     document.write( horaLocal('2020-10-19T15:00:00Z', showDayShift) );
   </script>
 </td>
-<td style="background-color: #EEACEC;" rowspan="2">Conference welcome and Keynote<br /> Scott Edwards</td>
+<td style="background-color: #EEACEC;" rowspan="2">
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=" target="_blank">Local Time: <script type="text/javascript">document.write( DiaLocal("20201019T15:00:00Z", 0, 'short', 'short', 'en-US')+" "+ horaLocal("20201019T15:00:00Z", 0));</script>
+    </a></strong></span>
+  Conference welcome and Keynote<br /> Scott Edwards
+</td>
 </tr>
 <tr>
 <td>
