@@ -103,24 +103,24 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 <td align="center" valign="top"><strong>
   Monday<br />Oct. 19
-<!-- <script type="text/javascript">document.write( DiaLocal('2020-10-19T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> -->
+<!--- <script type="text/javascript">document.write( DiaLocal('2020-10-19T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   <br /> </strong>
 </td>
 <td align="center" valign="top"><strong>
   Tuesday<br />Oct. 20
-<!--  <script type="text/javascript">document.write( DiaLocal('2020-10-20T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> -->
+<!---  <script type="text/javascript">document.write( DiaLocal('2020-10-20T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
 <br /> </strong></td>
 <td align="center" valign="top"><strong>
   Wednesday<br />Oct. 21
-<!--  <script type="text/javascript">document.write( DiaLocal('2020-10-21T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> -->
+<!---  <script type="text/javascript">document.write( DiaLocal('2020-10-21T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   <br /> </strong></td>
 <td align="center" valign="top"><strong>
   Thursday<br />Oct. 22
-<!--  <script type="text/javascript">document.write( DiaLocal('2020-10-22T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> -->
+<!---  <script type="text/javascript">document.write( DiaLocal('2020-10-22T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   <br /> </strong></td>
 <td align="center" valign="top"><strong>
   Friday<br />Oct. 23
-<!--  <script type="text/javascript">document.write( DiaLocal('2020-10-23T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> -->
+<!---  <script type="text/javascript">document.write( DiaLocal('2020-10-23T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   </strong></td>
 </tr>
 <tbody valign="top">
@@ -160,8 +160,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD02:%20The%20Biocultural%20labels%20initiative&iso=20201020T0100&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T01:00:00Z", 0, "short", "short", "en-US") );
-<!--        document.write(" ");
-        document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); -->
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
       </script>
     </a></strong>
   </span>
@@ -490,8 +489,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T15:00:00Z", 0, "short", "short", "en-US") );
-<!--        document.write(" ");
-        document.write( horaLocal("2020-10-19T15:00:00Z", 0) ); -->
+<!---        document.write(" "); document.write( horaLocal("2020-10-19T15:00:00Z", 0) ); --->
       </script>
     </a></strong></span>
   </td>
@@ -639,8 +637,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
-<!--        document.write(" ");
-        document.write( horaLocal("2020-10-22T22:00:00Z", 0) ); -->
+<!---        document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", 0) ); --->
       </script>
     </a></strong>
   </span>
