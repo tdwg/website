@@ -59,7 +59,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 </script>
 # Draft Conference Schedule, Oct 19-23
 
-The times posted for events below (in UTC) are nearly final, but some confirmations are still pending so changes are still possible.
+The times posted for events below (in your local time) are nearly final, but some confirmations are still pending so changes are still possible.
 
 
 <table style="border-collapse: collapse" border="1px">
@@ -238,7 +238,11 @@ The times posted for events below (in UTC) are nearly final, but some confirmati
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>06:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-10-19T06:00:00Z') );
+  </script>
+</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -526,7 +530,7 @@ The times posted for events below (in UTC) are nearly final, but some confirmati
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>19:30
+<td>
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T19:30:00Z') );
   </script>
