@@ -74,6 +74,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 
 # Draft Conference Schedule, Oct 19-23
 
+The times posted for events below (in <script type="text/javascript"> document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', 2) ); </script>) are nearly final, but some confirmations are still pending so changes are still possible.
 <script type="text/javascript"> 
   // Some configuration variables
   let breakUTCLine = 1;
@@ -83,9 +84,6 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
   let localLocale = 'en-US';  
   let showDayShift = 1; 
 </script>
-
-The times posted for events below (in UTC) are nearly final, but some confirmations are still pending so changes are still possible.
-
 
 <table style="border-collapse: collapse" border="1px">
 <tbody>
