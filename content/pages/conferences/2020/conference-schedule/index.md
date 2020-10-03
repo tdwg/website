@@ -526,7 +526,7 @@ The times posted for events below (in UTC) are nearly final, but some confirmati
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>19:30
+<td>
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T19:30:00Z') );
   </script>
