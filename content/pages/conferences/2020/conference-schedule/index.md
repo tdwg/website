@@ -65,7 +65,7 @@ The times posted for events below (in UTC) are nearly final, but some confirmati
 <table style="border-collapse: collapse" border="1px">
 <tbody>
 <tr style="border-style: double;">
-<td>Time
+<td style="vertical-align: bottom; text-align:center;">Time
   <script type="text/javascript">
     document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', 1) );
   </script>
@@ -190,7 +190,11 @@ The times posted for events below (in UTC) are nearly final, but some confirmati
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>04:00</td>
+<td>
+  <script type="text/javascript">
+    document.write( horaLocal('2020-10-19T04:00:00Z') );
+  </script>
+</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
