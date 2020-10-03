@@ -155,7 +155,17 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </script>
 </td>
 <td>&nbsp;</td>
-<td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p></td>
+<td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD02:%20The%20Biocultural%20labels%20initiative&iso=20201020T0100&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-20T01:00:00Z", 0, "short", "short", "en-US") );
+<!--        document.write(" ");
+        document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); -->
+      </script>
+    </a></strong>
+  </span>
+</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
