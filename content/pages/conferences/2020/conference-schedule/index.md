@@ -124,7 +124,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
   <br /> </strong></td>
 <td align="center" valign="top"><strong>
   <script type="text/javascript">
-    document.write( DiaLocal('2020-10-23T00:00:00Z', 1, breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );
+    document.write( DiaLocal('2020-10-23T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );
   </script>
   </strong></td>
 </tr>
