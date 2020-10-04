@@ -634,6 +634,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td style="background-color: #acdfee;" rowspan="3"><p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p></td>
 <td style="background-color: #EEACEC;" rowspan="2">Mid Conference Keynote <br />
+  by Ken-Ichi Ueda of iNaturalist<br />
   <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
