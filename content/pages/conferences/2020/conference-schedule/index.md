@@ -68,7 +68,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
     linebreak = "<br>"; 
   } else { 
     if (addlinebreak == 0) {
-      linebreak = "&nbsp"; 
+      linebreak = "&nbsp;"; 
     } else { 
       linebreak = ""; 
     } 
@@ -150,10 +150,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>00:30&nbsp;UTC<br /><span style="font-size:75%"><strong>(
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T00:30:00Z', dontBreakLocalHour, showDayShift) );
-  </script>)</strong></span>
+<td>00:30&nbsp;UTC<br /><span style="font-size:75%"><strong>(<script type="text/javascript">document.write( horaLocal('2020-10-19T00:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
