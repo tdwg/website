@@ -135,7 +135,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <!---  <script type="text/javascript">document.write( DiaLocal('2020-10-23T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   </strong></td>
 </tr>
-<tbody valign="top">
+<tbody valign="top" style="vertical-align: bottom; text-align:center; width=10%;" >
 <tr>
 <td>00:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(<script type="text/javascript">document.write( horaLocal('2020-10-19T00:00:00Z', dontBreakLocalHour, showDayShift));</script>)</strong></span>
 </td>
