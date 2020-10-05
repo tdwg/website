@@ -107,7 +107,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
   let showDayShift = 1;
 </script>
 
-<table style="border-collapse: collapse" border="1px">
+<table style="border-collapse: collapse; table-layout: fixed" border="1px">
 <tbody>
 <tr style="border-style: double;">
 <td style="vertical-align: bottom; text-align:center; width=15%;">UTC Time<br />
