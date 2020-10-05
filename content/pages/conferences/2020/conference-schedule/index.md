@@ -233,7 +233,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <tr>
 <td>
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T03:30:00Z', breakLocalHour, breakLocalHourshowDayShift) );
+    document.write( horaLocal('2020-10-19T03:30:00Z', breakLocalHour, breakLocalHour, showDayShift) );
   </script>
 </td>
 <td>&nbsp;</td>
@@ -508,7 +508,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM02%3A%20Use%20and%20Re-use%20of%20%20images%20and%20their%20metadata%20in%20biodiversity%20research&iso=20201020T1400&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T14:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", , breakLocalHour0) ); --->
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
       </script></a></strong></span>
 </td>
 <td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity">SYM09: Technical standards implications in data liberation and semantic publishing for biodiversity</a></p>
