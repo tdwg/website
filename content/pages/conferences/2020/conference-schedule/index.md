@@ -111,11 +111,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <tbody>
 <tr style="border-style: double;">
 <td style="vertical-align: bottom; text-align:center;">Time<br />
-  <span style="font-size:75%"><strong>(Local&nbsp;Time:
-    <script type="text/javascript">
-      document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1) );
-    </script>)
-    </strong></span>
+  <span style="font-size:75%"><strong>(Local&nbsp;Time:<script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script>)</strong></span>
 </td>
 <td align="center" valign="top"><strong>
   Monday<br />Oct. 19
