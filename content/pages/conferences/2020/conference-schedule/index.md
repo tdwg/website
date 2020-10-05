@@ -138,9 +138,9 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </tr>
 <tbody valign="top">
 <tr>
-<td>00:00 UTC<br /><span style="font-size:75%"><strong>
+<td>00:00&nbsp;UTC<br /><span style="font-size:75%"><strong>
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T00:00:00Z', breakLocalHour, showDayShift) );
+    document.write( horaLocal('2020-10-19T00:00:00Z', -1, showDayShift) );
   </script></strong></span>
 </td>
 <td>&nbsp;</td>
@@ -150,9 +150,9 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>00:30 UTC<br /><span style="font-size:75%"><strong>
+<td>00:30&nbsp;UTC<br /><span style="font-size:75%"><strong>
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T00:30:00Z', breakLocalHour, showDayShift) );
+    document.write( horaLocal('2020-10-19T00:30:00Z', -1, showDayShift) );
   </script></strong></span>
 </td>
 <td>&nbsp;</td>
