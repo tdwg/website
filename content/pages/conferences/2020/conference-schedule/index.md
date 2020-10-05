@@ -595,17 +595,19 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym06%20you%20have%20what%20in%20your%20collection?">SYM06: You've got what in your collection?</a></p></td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships">SYM03: Enhancing connections with the global neighbourhood through expanding partnerships</a></p></td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym08%20introduction%20to%20the%20new%20living%20atlases%20community">SYM08: Introduction to the new Living Atlases community</a></p></td>
-  <td style="background-color: #EEACEC;" rowspan="2">
-    Keynote by<br />
-    Ken-Ichi Ueda of iNaturalist<br />
-  <span style="font-size:75%"><strong>
+  <td style="background-color: #EEACEC;" rowspan="4">
+    <p>Keynote by<br />
+    Ken-Ichi Ueda</p>
+    <p style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", 0) ); --->
       </script>
     </a></strong>
-  </span>
+  </p>
+  <p style="font-size:50%; text-align:center; background-color:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</p>
+  <p>TDWG Business Meeting</p>
 </td>
 <td>&nbsp;</td>
 </tr>
@@ -623,11 +625,8 @@ The times posted for events below (in <script type="text/javascript"> document.w
     document.write( horaLocal('2020-10-19T21:00:00Z', showDayShift) );
   </script>
 </td>
-<td style="background-color: #d8c3ad;" rowspan="3">
-  <p style="font-size:50%; align:center; background-color:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</p>
-  <p>TDWG Business Meeting</p>
+<td>&nbsp; <!---style="background-color: #d8c3ad;" rowspan="3" --->
 </td>
-
 </tr>
 <tr>
 <td>
@@ -648,6 +647,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td style="background-color: #acdfee;" rowspan="3"><p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p></td>
+<td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
