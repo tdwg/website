@@ -484,7 +484,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </script>
 </td>
 <td style="background-color: #EEACEC;" rowspan="2">
-  Conference welcome and Keynote<br /> Scott Edwards<br />
+  Conference welcome and Keynote by<br />Scott Edwards<br />
   <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
@@ -625,8 +625,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
     document.write( horaLocal('2020-10-19T21:00:00Z', showDayShift) );
   </script>
 </td>
-<td>&nbsp; <!---style="background-color: #d8c3ad;" rowspan="3" --->
-</td>
+<!---<td>&nbsp; style="background-color: #d8c3ad;" rowspan="3" --->
 </tr>
 <tr>
 <td>
