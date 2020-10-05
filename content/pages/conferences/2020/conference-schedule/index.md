@@ -595,7 +595,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym06%20you%20have%20what%20in%20your%20collection?">SYM06: You've got what in your collection?</a></p></td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships">SYM03: Enhancing connections with the global neighbourhood through expanding partnerships</a></p></td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym08%20introduction%20to%20the%20new%20living%20atlases%20community">SYM08: Introduction to the new Living Atlases community</a></p></td>
-  <td style="background-color: #EEACEC;" rowspan="2"><span style="font-size:50%; align:center;">5 min break</span><br />
+  <td style="background-color: #EEACEC;" rowspan="2">
     Keynote by<br />
     Ken-Ichi Ueda of iNaturalist<br />
   <span style="font-size:75%"><strong>
@@ -623,7 +623,10 @@ The times posted for events below (in <script type="text/javascript"> document.w
     document.write( horaLocal('2020-10-19T21:00:00Z', showDayShift) );
   </script>
 </td>
-<td style="background-color: #d8c3ad;" rowspan="3">TDWG Business Meeting&nbsp;&nbsp; </td>
+<td style="background-color: #d8c3ad;" rowspan="3">
+  <span style="font-size:50%; align:center;text-background:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</span><br />
+  TDWG Business Meeting&nbsp;&nbsp; 
+</td>
 
 </tr>
 <tr>
