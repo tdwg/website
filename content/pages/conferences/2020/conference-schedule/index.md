@@ -624,8 +624,8 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </script>
 </td>
 <td style="background-color: #d8c3ad;" rowspan="3">
-  <span style="font-size:50%; align:center;text-background:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</span><br />
-  TDWG Business Meeting&nbsp;&nbsp; 
+  <p style="font-size:50%; align:center; background-color:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</p>
+  <p>TDWG Business Meeting</p>
 </td>
 
 </tr>
