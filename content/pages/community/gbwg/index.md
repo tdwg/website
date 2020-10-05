@@ -23,7 +23,8 @@ github:
 * Gabi Dröge
 * Chris Hunter
 * Ramona Walls
-
+* Thomas Stjernegaard Jeppesen
+* Dmitry Schigel
 
 ## Motivation and scope
 
