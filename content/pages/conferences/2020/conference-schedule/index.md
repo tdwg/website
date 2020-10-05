@@ -28,7 +28,7 @@ function horaLocal(hileraFechaHora, addlinebreak, addDay) {
     linebreak = "<br>"; 
   } else { 
     if (addlinebreak == 0) {
-      linebreak = " "; 
+      linebreak = "&nbsp;"; 
     } else { 
       linebreak = ""; 
     } 
@@ -68,7 +68,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
     linebreak = "<br>"; 
   } else { 
     if (addlinebreak == 0) {
-      linebreak = " "; 
+      linebreak = "&nbsp"; 
     } else { 
       linebreak = ""; 
     } 
@@ -85,7 +85,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
   if (lineas == 1) {
     nombreDia = nombreDia + "<br>";
   } else {
-    nombreDia = nombreDia + " ";
+    nombreDia = nombreDia + "&nbsp;";
   }
   nombreDia = nombreDia + fecha.getDate() + " " + nombreMes;
   return nombreDia;
