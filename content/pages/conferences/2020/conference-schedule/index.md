@@ -157,7 +157,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p>
   <span style="font-size:75%"><strong>
-    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD02:%20The%20Biocultural%20labels%20initiative&iso=20201020T0100&p1=1440&ah=2&am=" target="_blank"> 
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD02%3A%20The%20Biocultural%20labels%20initiative&iso=20201020T0100&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T01:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
@@ -178,7 +178,16 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #ECEEAC;" rowspan="4"><p><a href="../session-list/#pd01%20avenues%20into%20integration:%20communicating%20taxonomic%20intelligence%20from%20sender%20to%20recipient">PD01: Avenues into integration: communicating taxonomic intelligence from sender to recipient</a></p></td>
+<td style="background-color: #ECEEAC;" rowspan="4"><p><a href="../session-list/#pd01%20avenues%20into%20integration:%20communicating%20taxonomic%20intelligence%20from%20sender%20to%20recipient">PD01: Avenues into integration: communicating taxonomic intelligence from sender to recipient</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD01%3A%20Avenues%20into%20integration&iso=20201023T0130&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-23T01:30:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
 </tr>
 <tr>
 <td>
@@ -303,7 +312,16 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </script>
 </td>
 <td>&nbsp;</td>
-<td style="background-color: #c8add8;" rowspan="2">Social Hour?</td>
+  <td style="background-color: #c8add8;" rowspan="2">Social Hour?</p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Hour&iso=20201020T0700&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-20T07:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -341,7 +359,16 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co04%20contributed%20oral%204">CO4: Contributed Oral 4</a></p></td>
+<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co04%20contributed%20oral%204">CO4: Contributed Oral 4</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO04%3A%20Contributed%20Oral%204&iso=20201023T0830&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-23T08:30:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
 </tr>
 <tr>
 <td>
@@ -410,7 +437,16 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co05%20contributed%20oral%205">CO5: Contributed Oral 5</a></p></td>
+<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co05%20contributed%20oral%205">CO5: Contributed Oral 5</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO05%3A%20Contributed%20Oral%205&iso=20201023T1130&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-23T11:30:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
 </tr>
 <tr>
 <td>
@@ -464,10 +500,46 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </script>
 </td>
 <td>&nbsp;</td>
-<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym02%20use%20and%20re-use%20of%20images%20and%20their%20metadata%20in%20biodiversity%20research">SYM02: Use and re-use of images and their metadata in biodiversity research</a></p></td>
-<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity">SYM09: Technical standards implications in data liberation and semantic publishing for biodiversity</a></p></td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym01%20standards%20alignment:%20which%20and%20how?">SYM01: Standards alignment: which and how?</a></p></td>
-<td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services">PD03: Enabling digital specimen and extended specimen concepts in current tools and services</a></p></td>
+<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym02%20use%20and%20re-use%20of%20images%20and%20their%20metadata%20in%20biodiversity%20research">SYM02: Use and re-use of images and their metadata in biodiversity research</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM02%3A%20Use%20and%20Re-use%20of%20%20images%20and%20their%20metadata%20in%20biodiversity%20research&iso=20201020T1400&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-20T14:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
+<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity">SYM09: Technical standards implications in data liberation and semantic publishing for biodiversity</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM09%3A%20Technical%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity&iso=20201021T1400&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-21T14:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
+<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym01%20standards%20alignment:%20which%20and%20how?">SYM01: Standards alignment: which and how?</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM01%3A%20Standards%20alignment%3F%20which%20and%20how%3F&iso=20201022T1400&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-22T14:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
+<td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services">PD03: Enabling digital specimen and extended specimen concepts in current tools and services</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD03%3A%20Enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services&iso=20201023T1400&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-23T14:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
+      </script>
+    </a></strong>
+  </span>
+</td>
 </tr>
 <tr>
 <td>
