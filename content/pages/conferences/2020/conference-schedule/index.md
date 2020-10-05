@@ -100,6 +100,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
   let breakUTCLine = 1;
   let breakLocalDayLine = 1;
   let breakLocalHour = 1;
+  let dontBreakLocalHour = -1;
   let weekOfDayFormat = 'long';
   let monthFormat = 'short';
   let localLocale = 'en-US';
@@ -140,10 +141,10 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </tr>
 <tbody valign="top">
 <tr>
-<td>00:00&nbsp;UTC<br /><span style="font-size:75%"><strong>
+<td>00:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T00:00:00Z', -1, showDayShift) );
-  </script></strong></span>
+    document.write( horaLocal('2020-10-19T00:00:00Z', dontBreakLocalHour, showDayShift) );
+  </script>)</strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -152,10 +153,10 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>00:30&nbsp;UTC<br /><span style="font-size:75%"><strong>
+<td>00:30&nbsp;UTC<br /><span style="font-size:75%"><strong>(
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T00:30:00Z', -1, showDayShift) );
-  </script></strong></span>
+    document.write( horaLocal('2020-10-19T00:30:00Z', dontBreakLocalHour, showDayShift) );
+  </script>)</strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -164,10 +165,10 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>01:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T01:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+    document.write( horaLocal('2020-10-19T01:00:00Z', dontBreakLocalHour, showDayShift) );
+  </script>)</strong></span>
 </td>
 <td>&nbsp;</td>
 <td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p>
@@ -183,10 +184,10 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>01:30&nbsp;UTC<br /><span style="font-size:75%"><strong>(
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T01:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+    document.write( horaLocal('2020-10-19T01:30:00Z', dontBreakLocalHour, showDayShift) );
+  </script>)</strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -201,10 +202,10 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 </tr>
 <tr>
-<td>
+<td>02:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(
   <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T02:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+    document.write( horaLocal('2020-10-19T02:00:00Z', dontBreakLocalHour, showDayShift) );
+  </script>)</strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
