@@ -110,27 +110,27 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <table style="border-collapse: collapse; table-layout: fixed" border="1px">
 <tbody>
 <tr style="border-style: double;">
-<td style="vertical-align: bottom; text-align:center; width=15%;">UTC Time<br />
+<td style="vertical-align: bottom; text-align:center; width=10%;">UTC Time<br />
   <span style="font-size:75%"><strong>(Local&nbsp;Time: <script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script>)</strong></span>
 </td>
-<td align="center" valign="top; width=17%;"><strong>
+<td align="center" valign="top; width=18%;"><strong>
   Monday<br />Oct. 19
 <!--- <script type="text/javascript">document.write( DiaLocal('2020-10-19T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   <br /> </strong>
 </td>
-<td align="center" valign="top; width=17%"><strong>
+<td align="center" valign="top; width=18%"><strong>
   Tuesday<br />Oct. 20
 <!---  <script type="text/javascript">document.write( DiaLocal('2020-10-20T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
 <br /> </strong></td>
-<td align="center" valign="top; width=17%"><strong>
+<td align="center" valign="top; width=18%"><strong>
   Wednesday<br />Oct. 21
 <!---  <script type="text/javascript">document.write( DiaLocal('2020-10-21T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   <br /> </strong></td>
-<td align="center" valign="top; width=17%"><strong>
+<td align="center" valign="top; width=18%"><strong>
   Thursday<br />Oct. 22
 <!---  <script type="text/javascript">document.write( DiaLocal('2020-10-22T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   <br /> </strong></td>
-<td align="center" valign="top; width=17%"><strong>
+<td align="center" valign="top; width=18%"><strong>
   Friday<br />Oct. 23
 <!---  <script type="text/javascript">document.write( DiaLocal('2020-10-23T00:00:00Z', breakLocalDayLine, weekOfDayFormat, monthFormat, localLocale) );</script> --->
   </strong></td>
