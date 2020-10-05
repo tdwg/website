@@ -57,7 +57,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
   var desfase = fecha.getTimezoneOffset();
   var signo = "+";
   
-  if (desfase < 0) { signo = "+"; } else { signo = "-"; }
+  if (desfase < 0) { signo = "&plus;"; } else { signo = "&minus;"; }
   desfase = Math.abs(desfase);
   var horas = Math.trunc(desfase/60);
   var minutos = Math.trunc(desfase - (horas * 60));
@@ -87,7 +87,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
   } else {
     nombreDia = nombreDia + "&nbsp;";
   }
-  nombreDia = nombreDia + fecha.getDate() + " " + nombreMes;
+  nombreDia = nombreDia + fecha.getDate() + "&nbsp;" + nombreMes;
   return nombreDia;
 }
 </script>
