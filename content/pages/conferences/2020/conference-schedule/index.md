@@ -158,13 +158,14 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>01:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T01:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
-<td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p>
+<td style="background-color: #ECEEAC;" rowspan="3">
   <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD02%3A%20The%20Biocultural%20labels%20initiative&iso=20201020T0100&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T01:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+<p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
