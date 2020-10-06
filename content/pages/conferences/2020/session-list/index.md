@@ -93,12 +93,13 @@ The aim of the symposium is to identify and discuss common grounds for addressin
 **17:00 UTC - Wednesday, 21 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM04%3A%20Challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains&iso=20201021T1700&p1=1440&ah=2&am=">Find your local time here</a>)
 <table>
   <tr><td> 17:00 UTC </td><td> Introduction </td></tr>
-  <tr><td> </td><td> Smith </td></tr>
-  <tr><td> </td><td> Heikkinen </td></tr>
-  <tr><td> </td><td> <b>Gilbert E</b>, Franz N, Sterner B (2020) Historical Overview of the Development of the Symbiota Specimen Management Software and Review of the Interoperability Challenges and Opportunities Informing Future Development. Biodiversity Information Science and Standards 4: e59077. <a href="https://doi.org/10.3897/biss.4.59077">https://doi.org/10.3897/biss.4.59077</a> </td></tr>
-  <tr><td> </td><td> Beach </td></tr>
-  <tr><td> </td><td> <b>Glöckler F</b>, Macklin J, Shorthouse DP, Bölling C, Bilkhu S, Gendreau C (2020) DINA—Development of open source and open services for natural history collections & research. Biodiversity Information Science and Standards 4: e59070. <a href="https://doi.org/10.3897/biss.4.59070">https://doi.org/10.3897/biss.4.59070</a> </td></tr>
-  <tr><td> </td><td> Yoder </td></tr>
+  <tr><td> 17:05 UTC </td><td> Smith </td></tr>
+  <tr><td> 17:23 UTC </td><td> Heikkinen </td></tr>
+  <tr><td> 17:41 UTC </td><td> <b>Gilbert E</b>, Franz N, Sterner B (2020) Historical Overview of the Development of the Symbiota Specimen Management Software and Review of the Interoperability Challenges and Opportunities Informing Future Development. Biodiversity Information Science and Standards 4: e59077. <a href="https://doi.org/10.3897/biss.4.59077">https://doi.org/10.3897/biss.4.59077</a> </td></tr>
+  <tr><td> 17:59 UTC </td><td> Beach </td></tr>
+  <tr><td> 18:17 UTC </td><td> <b>Glöckler F</b>, Macklin J, Shorthouse DP, Bölling C, Bilkhu S, Gendreau C (2020) DINA—Development of open source and open services for natural history collections & research. Biodiversity Information Science and Standards 4: e59070. <a href="https://doi.org/10.3897/biss.4.59070">https://doi.org/10.3897/biss.4.59070</a> </td></tr>
+  <tr><td> 18:35 UTC </td><td> Yoder </td></tr>
+  <tr><td> 18:53 UTC </td><td> Closing Words </td></tr>
   <tr><td> 19:00 UTC </td><td> Session End </td></tr>
 </table>  
 
