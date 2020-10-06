@@ -535,14 +535,28 @@ The times posted for events below in UTC (and in <script type="text/javascript">
 </td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym07%20new%20standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens">SYM07: New Standards development to support the transformation of collection data into digital specimens</a></p>
   <span style="font-size:75%"><strong>
-    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM07%3A%20New%20Standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens&iso=20201020T1700&p1=1440&ah=2&am=" target="_blank"> %20
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM07%3A%20New%20Standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens&iso=20201020T1700&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T17:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T17:00:00Z", breakLocalHour, 0) ); --->
       </script></a></strong></span>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym04%20challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains">SYM04: Challenges of the alignment of collection management systems across the globe and different domains</a></p></td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co03%20contributed%20oral%203">CO3: Contributed Oral 3</a></p></td>
+<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym04%20challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains">SYM04: Challenges of the alignment of collection management systems across the globe and different domains</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM04%3A%20Challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains&iso=20201021T1700&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-21T17:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-21T17:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+  </td>
+<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co03%20contributed%20oral%203">CO3: Contributed Oral 3</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO03%3A%20Contributed%20oral%2003&iso=20201022T1700&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-22T17:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-22T17:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration">SYM05: Using collections to mitigate and prevent zoonotic disease: data mobilization and integration</a></p></td>
 </tr>
 <tr>
