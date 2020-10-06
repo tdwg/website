@@ -689,7 +689,14 @@ The times posted for events below in UTC (and in <script type="text/javascript">
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #acdfee;" rowspan="3"><p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p></td>
+<td style="background-color: #acdfee;" rowspan="3"><p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO01%3A%20Contributed%20oral%2001&iso=20201021T2200&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-21T22:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-21T22:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
@@ -708,7 +715,14 @@ The times posted for events below in UTC (and in <script type="text/javascript">
     document.write( horaLocal('2020-10-19T23:00:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #c8add8;" rowspan="2">Social Hour?</td>
+<td style="background-color: #c8add8;" rowspan="2"><p>Social Hour?</p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Hour?&iso=20201019T2300&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-19T23:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-19T23:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
