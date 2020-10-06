@@ -178,7 +178,7 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td style="background-color: #ECEEAC;" rowspan="4">
-  <span style="font-size:50%"><strong>Local&nbsp;Time:
+  <span style="font-size:60%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD01%3A%20Avenues%20into%20integration&iso=20201023T0130&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T01:30:00Z", 0, "short", "short", "en-US") );
