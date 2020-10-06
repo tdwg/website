@@ -340,8 +340,7 @@ The times posted for events below in UTC (and in <script type="text/javascript">
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>10:00&nbsp;UTC<br /><span style="font-size:75%">(
-  <script type="text/javascript">
+<td>10:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">
     document.write( horaLocal('2020-10-19T10:00:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
