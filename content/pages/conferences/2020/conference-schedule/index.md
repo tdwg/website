@@ -159,7 +159,7 @@ The times posted for events below in UTC (and in local time <script type="text/j
 </td>
 <td>&nbsp;</td>
 <td style="background-color: #ECEEAC;" rowspan="3">
-  <span style="font-size:50%"><strong>Local&nbsp;Time:
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD02%3A%20The%20Biocultural%20labels%20initiative&iso=20201020T0100&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T01:00:00Z", 0, "short", "short", "en-US") );
@@ -178,7 +178,7 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td style="background-color: #ECEEAC;" rowspan="4">
-  <span style="font-size:60%"><strong>Local&nbsp;Time:
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD01%3A%20Avenues%20into%20integration&iso=20201023T0130&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T01:30:00Z", 0, "short", "short", "en-US") );
@@ -277,13 +277,14 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>07:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T07:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
-<td style="background-color: #c8add8;" rowspan="2"><p>Social Hour?</p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #c8add8;" rowspan="2">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Hour&iso=20201020T0700&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T07:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
       </script></a></strong></span>
+  <p>Social Hour?</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -313,13 +314,14 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co04%20contributed%20oral%204">CO4: Contributed Oral 4</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #acdfee;" rowspan="4">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO04%3A%20Contributed%20Oral%204&iso=20201023T0830&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T08:30:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
       </script></a></strong></span>
+  <p><a href="../session-list/#co04%20contributed%20oral%204">CO4: Contributed Oral 4</a></p>
 </td>
 </tr>
 <tr>
@@ -381,13 +383,14 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co05%20contributed%20oral%205">CO5: Contributed Oral 5</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #acdfee;" rowspan="4">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO05%3A%20Contributed%20Oral%205&iso=20201023T1130&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T11:30:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
       </script></a></strong></span>
+  <p><a href="../session-list/#co05%20contributed%20oral%205">CO5: Contributed Oral 5</a></p>
 </td>
 </tr>
 <tr>
