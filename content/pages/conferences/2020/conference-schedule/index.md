@@ -473,7 +473,7 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
 <td style="background-color: #ECEEAC;" rowspan="3">
   <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD03%3A%20Enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services&iso=20201023T1400&p1=1440&ah=2&am=" target="_blank"> 
-      <script type="text/javascript">
+      <script type="text/javascript">Local&nbsp;Time:
         document.write( DiaLocal("2020-10-23T14:00:00Z", 0, "short", "short", "en-US") );
         document.write(" "); document.write( horaLocal("2020-10-23T14:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
@@ -493,14 +493,14 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
   </script>)</span>
 </td>
 <td style="background-color: #EEACEC;" rowspan="2">
-  Conference welcome and Keynote by<br />Scott Edwards<br />
-  <span style="font-size:75%"><strong>
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T15:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-19T15:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-19T15:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
-  </td>
+  Conference welcome and Keynote by<br />Scott Edwards<br />
+</td>
 </tr>
 <tr>
 <td>15:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">
@@ -537,45 +537,50 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
     document.write( horaLocal('2020-10-19T17:00:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co02%20contributed%20oral%202">CO2: Contributed Oral 2</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #acdfee;" rowspan="4">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO02%3A%20Contributed%20oral%2002&iso=20201019T1700&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T17:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-19T17:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-19T17:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#co02%20contributed%20oral%202">CO2: Contributed Oral 2</a></p>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym07%20new%20standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens">SYM07: New Standards development to support the transformation of collection data into digital specimens</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #C3EEAC;" rowspan="3">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM07%3A%20New%20Standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens&iso=20201020T1700&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T17:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T17:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-20T17:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym07%20new%20standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens">SYM07: New Standards development to support the transformation of collection data into digital specimens</a></p>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym04%20challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains">SYM04: Challenges of the alignment of collection management systems across the globe and different domains</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #C3EEAC;" rowspan="4">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM04%3A%20Challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains&iso=20201021T1700&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-21T17:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-21T17:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-21T17:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym04%20challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains">SYM04: Challenges of the alignment of collection management systems across the globe and different domains</a></p>
   </td>
-<td style="background-color: #acdfee;" rowspan="4"><p><a href="../session-list/#co03%20contributed%20oral%203">CO3: Contributed Oral 3</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #acdfee;" rowspan="4">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO03%3A%20Contributed%20oral%2003&iso=20201022T1700&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-22T17:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-22T17:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-22T17:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#co03%20contributed%20oral%203">CO3: Contributed Oral 3</a></p>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration">SYM05: Using collections to mitigate and prevent zoonotic disease: data mobilization and integration</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #C3EEAC;" rowspan="3">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM05%3A%20Using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease%3A%20data%20mobilization%20and%20integration&iso=20201023T1700&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T17:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-23T17:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-23T17:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration">SYM05: Using collections to mitigate and prevent zoonotic disease: data mobilization and integration</a></p>
 </td>
 </tr>
 <tr>
@@ -625,40 +630,42 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
     document.write( horaLocal('2020-10-19T20:00:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym06%20you%20have%20what%20in%20your%20collection?">SYM06: You've got what in your collection?</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #C3EEAC;" rowspan="4">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM06%3A%20You've%20got%20what%20in%20your%20collection?&iso=20201019T2000&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T20:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-19T20:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-19T20:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym06%20you%20have%20what%20in%20your%20collection?">SYM06: You've got what in your collection?</a></p>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships">SYM03: Enhancing connections with the global neighbourhood through expanding partnerships</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #C3EEAC;" rowspan="3">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM03%3A%20Enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships&iso=20201020T2000&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T20:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T20:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-20T20:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships">SYM03: Enhancing connections with the global neighbourhood through expanding partnerships</a></p>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym08%20introduction%20to%20the%20new%20living%20atlases%20community">SYM08: Introduction to the new Living Atlases community</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #C3EEAC;" rowspan="3">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM08%3A%20Introduction%20to%20the%20new%20Living%20Atlases%20community&iso=20201021T2000&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-21T20:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-21T20:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-21T20:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym08%20introduction%20to%20the%20new%20living%20atlases%20community">SYM08: Introduction to the new Living Atlases community</a></p>
 </td>
 <td style="background-color: #EEACEC;" rowspan="4">
-  <p>Keynote by<br />Ken-Ichi Ueda</p>
-  <p style="font-size:75%"><strong>
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
   <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
     <script type="text/javascript">
       document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
-<!---      document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", breakLocalHour, 0) ); --->
+      document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", breakLocalHour, 0) );
     </script>
-  </a></strong>
-  </p>
+  </a></strong></span>
+  <p>Keynote by<br />Ken-Ichi Ueda</p>
   <p style="font-size:50%; text-align:center; background-color:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</p>
   <p>TDWG Business Meeting</p>
 </td>
@@ -669,13 +676,14 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
     document.write( horaLocal('2020-10-19T20:30:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #c8add8;" rowspan="2"><p>Closing social session</p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #c8add8;" rowspan="2">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Closing%20social%20session&iso=20201023T2030&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T20:30:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-23T20:30:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-23T20:30:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p>Closing social session</p>
 </td>
 </tr>
 <tr>
@@ -701,13 +709,14 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #acdfee;" rowspan="3"><p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #acdfee;" rowspan="3">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+CO01%3A%20Contributed%20oral%2001&iso=20201021T2200&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-21T22:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-21T22:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-21T22:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#co01%20contributed%20oral%201">CO1: Contributed Oral 1</a></p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -727,13 +736,14 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
     document.write( horaLocal('2020-10-19T23:00:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #c8add8;" rowspan="2"><p>Social Hour?</p>
-  <span style="font-size:75%"><strong>
+<td style="background-color: #c8add8;" rowspan="2">
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Hour?&iso=20201019T2300&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T23:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-19T23:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-19T23:00:00Z", breakLoc
       </script></a></strong></span>
+  <p>Social Hour?</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
