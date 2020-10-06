@@ -177,13 +177,14 @@ The times posted for events below in UTC (and in local time <script type="text/j
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td style="background-color: #ECEEAC;" rowspan="4"><p><a href="../session-list/#pd01%20avenues%20into%20integration:%20communicating%20taxonomic%20intelligence%20from%20sender%20to%20recipient">PD01: Avenues into integration: communicating taxonomic intelligence from sender to recipient</a></p>
+<td style="background-color: #ECEEAC;" rowspan="4">
   <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD01%3A%20Avenues%20into%20integration&iso=20201023T0130&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T01:30:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+<p><a href="../session-list/#pd01%20avenues%20into%20integration:%20communicating%20taxonomic%20intelligence%20from%20sender%20to%20recipient">PD01: Avenues into integration: communicating taxonomic intelligence from sender to recipient</a></p>
 </td>
 </tr>
 <tr>
