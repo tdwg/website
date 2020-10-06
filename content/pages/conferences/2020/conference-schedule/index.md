@@ -613,19 +613,39 @@ The times posted for events below in UTC (and in <script type="text/javascript">
     document.write( horaLocal('2020-10-19T20:00:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym06%20you%20have%20what%20in%20your%20collection?">SYM06: You've got what in your collection?</a></p></td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships">SYM03: Enhancing connections with the global neighbourhood through expanding partnerships</a></p></td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym08%20introduction%20to%20the%20new%20living%20atlases%20community">SYM08: Introduction to the new Living Atlases community</a></p></td>
-  <td style="background-color: #EEACEC;" rowspan="4">
-    <p>Keynote by<br />
-    Ken-Ichi Ueda</p>
-    <p style="font-size:75%"><strong>
-    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
+<td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym06%20you%20have%20what%20in%20your%20collection?">SYM06: You've got what in your collection?</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM06%3A%20You've%20got%20what%20in%20your%20collection?&iso=20201019T2000&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
-        document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", breakLocalHour, 0) ); --->
-      </script>
-    </a></strong>
+        document.write( DiaLocal("2020-10-19T20:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-19T20:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
+<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships">SYM03: Enhancing connections with the global neighbourhood through expanding partnerships</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM03%3A%20Enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships&iso=20201020T2000&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-20T20:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-20T20:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
+<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym08%20introduction%20to%20the%20new%20living%20atlases%20community">SYM08: Introduction to the new Living Atlases community</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM08%3A%20Introduction%20to%20the%20new%20Living%20Atlases%20community&iso=20201021T2000&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-21T20:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-21T20:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
+<td style="background-color: #EEACEC;" rowspan="4">
+  <p>Keynote by<br />Ken-Ichi Ueda</p>
+  <p style="font-size:75%"><strong>
+  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
+    <script type="text/javascript">
+      document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
+<!---      document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", breakLocalHour, 0) ); --->
+    </script>
+  </a></strong>
   </p>
   <p style="font-size:50%; text-align:center; background-color:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</p>
   <p>TDWG Business Meeting</p>
@@ -637,7 +657,14 @@ The times posted for events below in UTC (and in <script type="text/javascript">
     document.write( horaLocal('2020-10-19T20:30:00Z', dontBreakLocalHour, showDayShift) );
   </script>)</span>
 </td>
-<td style="background-color: #c8add8;" rowspan="2">Closing social session</td>
+<td style="background-color: #c8add8;" rowspan="2"><p>Closing social session</p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Closing%20social%20session&iso=20201023T2030&p1=1440&ah=2&am=" target="_blank"> 
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-23T20:30:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-23T20:30:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
 </tr>
 <tr>
 <td>21:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">
