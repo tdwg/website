@@ -110,7 +110,7 @@ The times posted for events below in UTC (and in <script type="text/javascript">
 <table style="border-collapse: collapse;" border="1px">
 <tbody>
 <tr style="border-style: double;">
-<td style="vertical-align: bottom; text-align:center; width=10%;">UTC Time<br />
+<td style="vertical-align: bottom; text-align:center; width=10%;"><strong>UTC Time</strong><br />
   <span style="font-size:75%"><strong>Local&nbsp;Time: <script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script></strong></span>
 </td>
 <td align="center" valign="top;"><strong>
