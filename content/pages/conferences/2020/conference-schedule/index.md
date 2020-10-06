@@ -111,7 +111,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <tbody>
 <tr style="border-style: double;">
 <td style="vertical-align: bottom; text-align:center; width=10%;">UTC Time<br />
-  <span style="font-size:75%"><strong>(Local&nbsp;Time: <script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script>)</strong></span>
+  <span style="font-size:75%"><strong>Local&nbsp;Time: <script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script></strong></span>
 </td>
 <td align="center" valign="top;"><strong>
   Monday<br />Oct. 19
@@ -146,7 +146,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>00:30&nbsp;UTC<br /><span style="font-size:75%"><strong>(<script type="text/javascript">document.write( horaLocal('2020-10-19T00:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</strong></span>
+<td>00:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T00:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -155,7 +155,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>01:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(<script type="text/javascript">document.write( horaLocal('2020-10-19T01:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</strong></span>
+<td>01:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T01:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources">PD02: The Biocultural labels initiative: supporting indigenous rights in data derived from genetic resources</a></p>
