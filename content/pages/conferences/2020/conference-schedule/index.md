@@ -137,7 +137,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </tr>
 <tbody valign="top" >
 <tr>
-<td>00:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(<script type="text/javascript">document.write( horaLocal('2020-10-19T00:00:00Z', dontBreakLocalHour, showDayShift));</script>)</strong></span>
+<td>00:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T00:00:00Z', dontBreakLocalHour, showDayShift));</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -171,10 +171,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>01:30&nbsp;UTC<br /><span style="font-size:75%"><strong>(
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T01:30:00Z', dontBreakLocalHour, showDayShift) );
-  </script>)</strong></span>
+<td>01:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T01:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -189,20 +186,14 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 </tr>
 <tr>
-<td>02:00&nbsp;UTC<br /><span style="font-size:75%"><strong>(
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T02:00:00Z', dontBreakLocalHour, showDayShift) );
-  </script>)</strong></span>
+<td>02:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T02:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T02:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>02:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T02:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -210,10 +201,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T03:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>03:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T03:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -221,10 +209,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T03:30:00Z', breakLocalHour, breakLocalHour, showDayShift) );
-  </script>
+<td>03:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T03:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -233,10 +218,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T04:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>04:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T04:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -245,10 +227,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T04:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>04:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T04:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -257,10 +236,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T05:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>05:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T05:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -269,10 +245,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T05:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>05:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T05:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -281,10 +254,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T06:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>06:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T06:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -293,10 +263,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T06:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>06:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T06:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -305,10 +272,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T07:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>07:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T07:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td style="background-color: #c8add8;" rowspan="2"><p>Social Hour?</p>
@@ -324,10 +288,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T07:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>07:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T07:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -335,10 +296,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T08:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>08:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T08:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -347,10 +305,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T08:30:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>08:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T08:30:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -366,10 +321,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 </tr>
 <tr>
-<td>
-  <script type="text/javascript">
-    document.write( horaLocal('2020-10-19T09:00:00Z', breakLocalHour, showDayShift) );
-  </script>
+<td>09:00&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2020-10-19T09:00:00Z', dontBreakLocalHour, showDayShift) );</script>)</span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -377,7 +329,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>09:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T09:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -388,7 +340,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>10:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T10:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -399,7 +351,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>10:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T10:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -411,7 +363,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>11:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T11:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -423,7 +375,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>11:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T11:30:00Z', breakLocalHour, showDayShift) );
   </script>  
@@ -442,7 +394,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 </tr>
 <tr>
-<td>
+<td>12:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T12:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -453,7 +405,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>12:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T12:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -464,7 +416,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>13:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T13:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -475,7 +427,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>13:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T13:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -487,7 +439,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>14:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T14:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -527,7 +479,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 </td>
 </tr>
 <tr>
-<td>
+<td>14:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T14:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -535,7 +487,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>15:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T15:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -551,7 +503,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
   </td>
 </tr>
 <tr>
-<td>
+<td>15:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T15:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -560,7 +512,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>16:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T16:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -572,7 +524,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>16:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T16:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -584,7 +536,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>17:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T17:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -596,21 +548,21 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration">SYM05: Using collections to mitigate and prevent zoonotic disease: data mobilization and integration</a></p></td>
 </tr>
 <tr>
-<td>
+<td>17:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T17:30:00Z', breakLocalHour, showDayShift) );
   </script>
 </td>
 </tr>
 <tr>
-<td>
+<td>18:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T18:00:00Z', breakLocalHour, showDayShift) );
   </script>
 </td>
 </tr>
 <tr>
-<td>
+<td>18:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T18:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -619,7 +571,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>19:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T19:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -631,7 +583,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>19:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T19:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -643,7 +595,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>20:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T20:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -668,7 +620,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>20:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T20:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -676,7 +628,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td style="background-color: #c8add8;" rowspan="2">Closing social session</td>
 </tr>
 <tr>
-<td>
+<td>21:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T21:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -684,7 +636,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <!---<td>&nbsp; style="background-color: #d8c3ad;" rowspan="3" --->
 </tr>
 <tr>
-<td>
+<td>21:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T21:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -694,7 +646,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>22:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T22:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -706,7 +658,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>22:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T22:30:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -717,7 +669,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>23:00&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T23:00:00Z', breakLocalHour, showDayShift) );
   </script>
@@ -728,7 +680,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td>23:30&nbsp;UTC<br />
   <script type="text/javascript">
     document.write( horaLocal('2020-10-19T23:30:00Z', breakLocalHour, showDayShift) );
   </script>
