@@ -557,7 +557,14 @@ The times posted for events below in UTC (and in <script type="text/javascript">
 <!---        document.write(" "); document.write( horaLocal("2020-10-22T17:00:00Z", breakLocalHour, 0) ); --->
       </script></a></strong></span>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration">SYM05: Using collections to mitigate and prevent zoonotic disease: data mobilization and integration</a></p></td>
+<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration">SYM05: Using collections to mitigate and prevent zoonotic disease: data mobilization and integration</a></p>
+  <span style="font-size:75%"><strong>
+    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM05%3A%20Using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease%3A%20data%20mobilization%20and%20integration&iso=20201023T1700&p1=1440&ah=2&am=" target="_blank">
+      <script type="text/javascript">
+        document.write( DiaLocal("2020-10-23T17:00:00Z", 0, "short", "short", "en-US") );
+<!---        document.write(" "); document.write( horaLocal("2020-10-23T17:00:00Z", breakLocalHour, 0) ); --->
+      </script></a></strong></span>
+</td>
 </tr>
 <tr>
 <td>17:30&nbsp;UTC<br /><span style="font-size:75%">(<script type="text/javascript">
