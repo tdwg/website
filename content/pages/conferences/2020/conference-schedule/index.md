@@ -25,7 +25,7 @@ function horaLocal(hileraFechaHora, addlinebreak, addDay) {
   }
   
   if (addlinebreak == 1) { 
-    linebreak = "<br>"; 
+    linebreak = "<br />"; 
   } else { 
     if (addlinebreak == 0) {
       linebreak = "&nbsp;"; 
@@ -39,10 +39,10 @@ function horaLocal(hileraFechaHora, addlinebreak, addDay) {
   if (addDay == 1) {
     shiftDays = fecha.getDate() - parseInt(hileraFechaHora.substr(hileraFechaHora.search("T")-2,2),10);
     if (shiftDays > 0) {
-      shifted = "+1 day";
+      shifted = "&plus;1 day";
     } else {
       if (shiftDays < 0) {
-        shifted = "-1 day";
+        shifted = "&minus;1 day";
       }
     }
   }
@@ -55,7 +55,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
   var fecha = new Date(hileraFechaHora);    
 
   var desfase = fecha.getTimezoneOffset();
-  var signo = "+";
+  var signo = "&plus;";
   
   if (desfase < 0) { signo = "&plus;"; } else { signo = "&minus;"; }
   desfase = Math.abs(desfase);
@@ -65,7 +65,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
   if (addlinebreak == 1) { 
-    linebreak = "<br>"; 
+    linebreak = "<br />"; 
   } else { 
     if (addlinebreak == 0) {
       linebreak = "&nbsp;"; 
@@ -110,7 +110,7 @@ The times posted for events below in UTC (and in <script type="text/javascript">
 <table style="border-collapse: collapse;" border="1px">
 <tbody>
 <tr style="border-style: double;">
-<td style="vertical-align: bottom; text-align:center; width=10%;"><strong>UTC Time</strong><br />
+<td style="vertical-align: bottom; text-align:center; width=10%;"><strong>UTC&nbsp;Time</strong><br />
   <span style="font-size:75%"><strong>Local&nbsp;Time: <script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script></strong></span>
 </td>
 <td align="center" valign="top;"><strong>
