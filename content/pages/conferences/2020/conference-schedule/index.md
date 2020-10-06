@@ -458,21 +458,23 @@ The times posted for events below in UTC (and in local time <script type="text/j
       </script></a></strong></span>
   <p><a href="../session-list/#sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity">SYM09: Technical standards implications in data liberation and semantic publishing for biodiversity</a></p>
 </td>
-<td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym01%20standards%20alignment:%20which%20and%20how?">SYM01: Standards alignment: which and how?</a></p>
+<td style="background-color: #C3EEAC;" rowspan="3">
   <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM01%3A%20Standards%20alignment%3F%20which%20and%20how%3F&iso=20201022T1400&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-22T14:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-22T14:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#sym01%20standards%20alignment:%20which%20and%20how?">SYM01: Standards alignment: which and how?</a></p>
 </td>
-<td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services">PD03: Enabling digital specimen and extended specimen concepts in current tools and services</a></p>
+<td style="background-color: #ECEEAC;" rowspan="3">
   <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD03%3A%20Enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services&iso=20201023T1400&p1=1440&ah=2&am=" target="_blank"> 
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T14:00:00Z", 0, "short", "short", "en-US") );
-<!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", breakLocalHour, 0) ); --->
+        document.write(" "); document.write( horaLocal("2020-10-23T14:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
+  <p><a href="../session-list/#pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services">PD03: Enabling digital specimen and extended specimen concepts in current tools and services</a></p>
 </td>
 </tr>
 <tr>
