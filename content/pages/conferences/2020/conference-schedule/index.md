@@ -741,9 +741,9 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Hour?&iso=20201019T2300&p1=1440&ah=2&am=" target="_blank">
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T23:00:00Z", 0, "short", "short", "en-US") );
-        document.write(" "); document.write( horaLocal("2020-10-19T23:00:00Z", breakLococalHour, showDayShift) );
+        document.write(" "); document.write( horaLocal("2020-10-19T23:00:00Z", breakLococalHour, 0) );
       </script></a></strong></span>
-  <p>Social Hour?</p>
+  <p>Social Hour</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
