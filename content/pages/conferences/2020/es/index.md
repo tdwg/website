@@ -30,19 +30,8 @@ tienen dos propósitos:
     mucha de la cual depende de estándares creados por TDWG y otras
     organizaciones.
 
-En 2020 no podemos reunirnos en persona, por lo que
-[<span class="underline">TDWG 2020</span>](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=1cc72e19e6&e=e333c91e92) será
-virtual – una serie de sesiones de trabajo en línea, simposios de estilo
-seminario virtual, presentaciones, paneles de discusión, y
-presentaciones grabadas. Este año separaremos las sesiones de trabajo de
-las sesiones de diseminación (compuestas por presentaciones). Las
-sesiones de trabajo serán programadas durante la semana del 21-25 de
-septiembre, y las sesiones de diseminación serán programadas para la
-semana del 19-23 de octubre. Esta separación nos ayudará a minimizar
-sesiones paralelas, optimizar tecnologías, y evitar conflictos de
-programación con otras organizaciones. También dará tiempo a los
-participantes en nuestras sesiones de trabajo de sintetizar sus
-resultados en presentaciones.  
+En 2020 no podemos reunirnos en persona, por lo que [<span class="underline">TDWG 2020</span>](https://tdwg.us9.list-manage.com/track/click?u=50f3cc44307841383062ca0d6&id=1cc72e19e6&e=e333c91e92) será virtual – una serie de sesiones de trabajo en línea, simposios de estilo
+seminario virtual, presentaciones, paneles de discusión, y presentaciones grabadas. Este año separaremos las sesiones de trabajo de las sesiones de diseminación (compuestas por presentaciones). Las sesiones de trabajo serán programadas durante la semana del 21-25 de septiembre, y las sesiones de diseminación serán programadas para la semana del 19-23 de octubre. Esta separación nos ayudará a minimizar sesiones paralelas, optimizar tecnologías, y evitar conflictos de programación con otras organizaciones. También dará tiempo a los participantes en nuestras sesiones de trabajo de sintetizar sus resultados en presentaciones.  
 
 En la semana de conferencia virtual esperamos una combinación de tres a cuatro sesiones de 90 minutos o 2hs cada día, separadas por al menos un intervalo de 30 minutos. Instrucciones adicionales para los presentadores serán publicadas más adelante. Aunque esperamos evitar las sesiones simultáneas, las diferencias en las zonas horarias en nuestra comunidad global garantizan que parte de la audiencia de cualquier sesión estará participando fuera de los horarios laborales normales. Comprometerse con un horario ayudará a reducir la frustración entre las personas que deben despertarse temprano o permanecer despiertas hasta tarde para participar de la conferencia. Esperamos que se nos unan en este experimento para reimaginar nuestras reuniones presenciales en un entorno virtual. 
 
@@ -71,15 +60,19 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés)</p>
-  <p><a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Regístrese Ahora (¡gratis!)</a></p>
+  <p>Encuentre vínculos a la grabación de las sesiones en el
+  <ul>
+    <li><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés) y 
+    <li><strong><a href="./working-sessions">Descripción de las Sesiones</a></strong>
+  </ul>
+<!---      <a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Regístrese Ahora (¡gratis!)</a></p> --->
 </td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: center; width: 89px;">
 <p><strong>19-23</strong><br /><strong>octubre</strong></p>
 </td>
-<td style="vertical-align: top; width: 288px;">
+<td style="vertical-align: top; width: 288px;">x
 <p>&nbsp;<strong>Conferencia virtual</strong></p>
 <ul>
 <li>Simposios y Paneles de discusión</li>
@@ -90,7 +83,9 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong>En Preparación</strong><br /><strong>19 Junio</strong></p>
+ <p><strong><a href="conference-schedule/">Calendario de la Conferencia</a></strong></p>
+  <p><strong><a href="session-list/">Detalles de las Sesiones</a></strong></p>
+  <p><!--- a href="https://tdwg-2020-oct.eventbrite.com" target="_blank" class="btn btn-secondary" ---><strong>El registo inicia el 7 de Oct.</strong></p>
 </td>
 </tr>
 </tbody>
@@ -121,48 +116,28 @@ La fecha límite para proponer simposios o paneles de discusión durante la sema
 
 ### Contribuciones individuales (Presentaciones, E-Posters)
 
-Se requieren resúmenes para todas las presentaciones y e-posters,
-incluyendo aquellos que son parte de un simposio, y deben ser enviados a
-través de sistema de Pensoft ARPHA para
-[<span class="underline">BISS</span>](https://biss.pensoft.net).
-El [llamado para contribuciones individuales](https://www.tdwg.org/conferences/2020/es/envio-de-resumenes) ya ha sido publicado. La fecha límite para el envío de resúmenes es el 12 de agosto. Las instrucciones detalladas para
-presentación a través de ARPHA también han sido publicadas.
+Se requieren resúmenes para todas las presentaciones y e-posters, incluyendo aquellos que son parte de un simposio, y deben ser enviados a
+través de sistema de Pensoft ARPHA para [<span class="underline">BISS</span>](https://biss.pensoft.net).
+El [llamado para contribuciones individuales](https://www.tdwg.org/conferences/2020/es/envio-de-resumenes) ya ha sido publicado. La fecha límite para el envío de resúmenes es el 12 de agosto. Las instrucciones detalladas para presentación a través de ARPHA también han sido publicadas.
  
 
 ## Inscripción Gratuita
 
-Se requerirá inscripción para participar en los eventos en línea, pero
-la inscripción será gratuita. Los servicios requeridos para organizer
+Se requerirá inscripción para participar en los eventos en línea, pero la inscripción será gratuita. Los servicios requeridos para organizer
 una conferencia en línea, sin embargo, no son gratuitos.
 
-Por ello, alentamos a todos los participantes a convertirse en miembros
-de TDWG, ya sea por afiliación con un [<span class="underline">miembro
-institucional</span>](/about/membership/#institutional%20members%202020_1) existente o pagando cuotas de membresía
-individuales para el año calendario 2020 ($ 75).
-[<span class="underline">Solicite una
-factura</span>](mailto:secretariat@tdwg.org) para pagar la membresía en
-línea y ayude a TDWG a sufragar el costo de organizar la conferencia.  
+Por ello, alentamos a todos los participantes a convertirse en miembros de TDWG, ya sea por afiliación con un [<span class="underline">miembro
+institucional</span>](/about/membership/#institutional%20members%202020_1) existente o pagando cuotas de membresía individuales para el año calendario 2020 ($ 75).
+[<span class="underline">Solicite una factura</span>](mailto:secretariat@tdwg.org) para pagar la membresía en línea y ayude a TDWG a sufragar el costo de organizar la conferencia.  
  
 
 ## Costo de publicación de resúmenes
 
-Se requerirán resúmenes para todas las contribuciones (i.e., todas las
-presentaciones y los e-posters), los cuales compondrán el Proceedings
-of TDWG 2020, una colección en [<span class="underline">Biodiversity
-Information Science and
-Standards</span>](https://biss.pensoft.net).
-Normalmente, incluimos los costos de publicación en las tarifas de
-inscripción para la conferencia. Pero este año, sin tarifa de
-inscripción, seguiremos el modelo usual para publicación de acceso
-abierto: los autores pagan la publicación, y luego el paper es libre
-para siempre. El costo para cada resumen será de 40€. El costo de
-publicación podrá ser eximida en caso de dificultades financieras. Los
-autores, por favor noten que los resúmenes en TDWG Proceedings pueden
-ser tan largas como un paper corto (hasta 6.000 caracteres, incluyendo
-referencias, autores y afiliaciones), y pueden incluir figuras y enlaces
-a medios relacionados. Puede publicar algo significativo por una tarifa
-nominal; menos de un décimo del costo para publicar un artículo
-completo.  
+Se requerirán resúmenes para todas las contribuciones (i.e., todas las presentaciones y los e-posters), los cuales compondrán el Proceedings of TDWG 2020, una colección en [<span class="underline">Biodiversity Information Science and Standards</span>](https://biss.pensoft.net). Normalmente, incluimos los costos de publicación en las tarifas de
+inscripción para la conferencia. Pero este año, sin tarifa de inscripción, seguiremos el modelo usual para publicación de acceso
+abierto: los autores pagan la publicación, y luego el paper es libre para siempre. El costo para cada resumen será de 40€. El costo de publicación podrá ser eximida en caso de dificultades financieras. Los autores, por favor noten que los resúmenes en TDWG Proceedings pueden ser tan largas como un paper corto (hasta 6.000 caracteres, incluyendo
+referencias, autores y afiliaciones), y pueden incluir figuras y enlaces a medios relacionados. Puede publicar algo significativo por una tarifa
+nominal; menos de un décimo del costo para publicar un artículo completo.  
 
 ## Zonas horarias
 Uno de los mayores desafíos de planear una conferencia virtual para TDWG es que nuestra comunidad es global. Las diferencias en zonas horarias hacen que la participación simultánea de todos no sea práctica – para alguien cada sesión será programada en mitad de la noche. Mitigaremos estos conflictos de las siguientes formas:
