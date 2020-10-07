@@ -48,13 +48,11 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: left; vertical-align: top; width: 158px;">
-  <p><strong></strong></p>
   <p>Find links to recorded sessions on the</p>
   <ul>
-    <li><strong><a href="working-sessions-schedule/">Session Schedule</a></strong> and 
-    <li><strong><a href="./working-sessions">Session Descriptions</a></strong>.
+    <li><strong><a href="working-sessions-schedule/">Working Session Schedule</a></strong> and 
+    <li><strong><a href="./working-sessions">Working Session Descriptions</a></strong>.
   </ul>
-  
 </td>
 </tr>
 <tr>
@@ -72,8 +70,8 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong><a href="conference-schedule/">Session Schedule</a></strong></p>
-  <p><strong><a href="session-list/">Session Details</a></strong></p>
+  <p><strong><a href="conference-schedule/">Conference Session Schedule</a></strong></p>
+  <p><strong><a href="session-list/">Conference Session Details</a></strong></p>
   <p><!--- a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary" --->Registration opens 7 Oct</p>
 </td>
 </tr>
