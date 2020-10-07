@@ -92,11 +92,11 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
 }
 </script>
 
-# Draft Conference Schedule, Oct 19-23
+# Conference Schedule, Oct 19-23
 
 The times posted for events below in UTC (and in local time <script type="text/javascript"> document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', 2) ); </script>) are nearly final, but some confirmations are still pending so changes are still possible.
 
-Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25zMmIxY21kMzUzbnRsdmNjZWlqcmt0OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) link to add the TDWG2020 Conference Schedule to your calendar in your time zone. (NOTE: some sessions may change).
+Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25zMmIxY21kMzUzbnRsdmNjZWlqcmt0OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) link to add the TDWG2020 Conference Schedule to your calendar in your time zone. 
 
 <script type="text/javascript"> 
   // Some configuration variables
