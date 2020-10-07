@@ -80,7 +80,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 
 ### Working sessions for interest/task groups, workshops, and hackathons
 
-Working sessions will be structured as meetings in which all participants can be enabled to speak. Requests to convene working sessions (including interest and task groups) during the week of September 21-25 should be submitted through a [short survey](https://www.surveymonkey.com/r/C9723S8). All I/TG proposals should be endorsed, if not submitted, by the I/TG convener. The survey will close August 1, and a draft schedule of working sessions will be posted on August 17.
+Working sessions will be structured as meetings in which all participants can be enabled to speak. Requests to convene working sessions (including interest and task groups) during the week of September 21-25 should be submitted through a short survey (closed). All I/TG proposals should be endorsed, if not submitted, by the I/TG convener. The survey will close August 1, and a draft schedule of working sessions will be posted on August 17.
  
 
 ### Symposia and panel discussions
