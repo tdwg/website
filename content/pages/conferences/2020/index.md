@@ -47,12 +47,12 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 <li>"Birds of a Feather" meeting — to organize a new Interest Group</li>
 </ul>
 </td>
-<td style="text-align: center; vertical-align: top; width: 158px;">
+<td style="text-align: left; vertical-align: top; width: 158px;">
   <p><strong></strong></p>
   <p>Find links to recorded sessions on the</p>
   <ul>
-    <li><a href="working-sessions-schedule/">session schedule</a> and 
-    <li><a href="./working-sessions">session descriptions</a>.
+    <li><strong><a href="working-sessions-schedule/">Session Schedule</a></strong> and 
+    <li><strong><a href="./working-sessions">Session Descriptions</a></strong>.
   </ul>
   
 </td>
