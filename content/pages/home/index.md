@@ -9,9 +9,9 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG 2020 goes virtual. Registration to open 7 Oct.
-alert_text: TDWG 2020 will be held online. A draft schedule for the main conference sessions during the week of Oct 19-23 has been posted. Registration for the main conference sessions will open later this week.
-alert_button: Register soon (free!)
+alert_title: TDWG 2020 goes virtual. Registration now open!
+alert_text: TDWG 2020 will be held online. The schedule for the main conference sessions during the week of Oct 19-23 has been posted. Registration is now open.
+alert_button: REGISTER NOW (free!)
 alert_link: /conferences/2020/conference-schedule/
 alert_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 newsletter_title: Keep up to date with TDWG
