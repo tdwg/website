@@ -72,7 +72,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 <td style="text-align: center; vertical-align: top; width: 158px;">
   <p><strong><a href="conference-schedule/">Conference Session Schedule</a></strong></p>
   <p><strong><a href="session-list/">Conference Session Details</a></strong></p>
-  <p><!--- a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary" ---><strong>Registration opens 7 Oct</strong></p>
+  <p><a href="https://tdwg-2020-oct.eventbrite.com/" target="_blank" class="btn btn-secondary"><strong>REGISTER NOW (free!)</strong></p>
 </td>
 </tr>
 </tbody>
@@ -85,7 +85,7 @@ Working sessions will be structured as meetings in which all participants can be
 
 ### Symposia and panel discussions
 
-The deadline for proposing a symposium or panel discussion during the week of October 19-23 has already passed. See the [list of organized sessions](./session-list/). We hope to post a draft schedule in early September, after the abstracts have been reviewed and accepted.
+The deadline for proposing a symposium or panel discussion during the week of October 19-23 has already passed. See the [list of organized sessions](./session-list/).
  
 ### Individual contributions (presentations, e-posters)
 
