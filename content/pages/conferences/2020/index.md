@@ -47,9 +47,12 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 <li>"Birds of a Feather" meeting — to organize a new Interest Group</li>
 </ul>
 </td>
-<td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong><a href="working-sessions-schedule/">Session Schedule</a></strong></p>
-  <p><a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Register Now (free!)</a></p>
+<td style="text-align: left; vertical-align: top; width: 158px;">
+  <p>Find links to recorded sessions on the</p>
+  <ul>
+    <li><strong><a href="working-sessions-schedule/">Working Session Schedule</a></strong> and 
+    <li><strong><a href="./working-sessions">Working Session Descriptions</a></strong>
+  </ul>
 </td>
 </tr>
 <tr>
@@ -67,9 +70,9 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong><a href="conference-schedule/">Session Schedule</a></strong></p>
-  <p><strong><a href="session-list/">Session Details</a></strong></p>
-  <p>Register Soon (free!)</p>
+  <p><strong><a href="conference-schedule/">Conference Session Schedule</a></strong></p>
+  <p><strong><a href="session-list/">Conference Session Details</a></strong></p>
+  <p><!--- a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary" ---><strong>Registration opens 7 Oct</strong></p>
 </td>
 </tr>
 </tbody>
@@ -77,7 +80,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 
 ### Working sessions for interest/task groups, workshops, and hackathons
 
-Working sessions will be structured as meetings in which all participants can be enabled to speak. Requests to convene working sessions (including interest and task groups) during the week of September 21-25 should be submitted through a [short survey](https://www.surveymonkey.com/r/C9723S8). All I/TG proposals should be endorsed, if not submitted, by the I/TG convener. The survey will close August 1, and a draft schedule of working sessions will be posted on August 17.
+Working sessions will be structured as meetings in which all participants can be enabled to speak. Requests to convene working sessions (including interest and task groups) during the week of September 21-25 should be submitted through a short survey (closed). All I/TG proposals should be endorsed, if not submitted, by the I/TG convener. The survey will close August 1, and a draft schedule of working sessions will be posted on August 17.
  
 
 ### Symposia and panel discussions
