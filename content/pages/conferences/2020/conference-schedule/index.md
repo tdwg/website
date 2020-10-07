@@ -287,7 +287,7 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
         document.write( DiaLocal("2020-10-20T07:00:00Z", 0, "short", "short", "en-US") );
         document.write(" "); document.write( horaLocal("2020-10-20T07:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
-  <p>Social Hour?</p>
+  <p>Social Hour</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -743,7 +743,7 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
         document.write( DiaLocal("2020-10-19T23:00:00Z", 0, "short", "short", "en-US") );
         document.write(" "); document.write( horaLocal("2020-10-19T23:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
-  <p>Social Hour?</p>
+  <p>Social Hour</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
