@@ -48,8 +48,12 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p><strong><a href="working-sessions-schedule/">Session Schedule</a></strong></p>
-  <p>Find links to recorded sessions on the schedule and <a href="./working-sessions">session descriptions</a>.</p>
+  <p><strong></strong></p>
+  <p>Find links to recorded sessions on the</p>
+  <ul>
+    <li><a href="working-sessions-schedule/">session schedule</a> and 
+    <li><a href="./working-sessions">session descriptions</a>.
+  </ul>
   
 </td>
 </tr>
