@@ -60,10 +60,10 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
-  <p>Encuentre vínculos a la grabación de las sesiones en el
+  <p>Encuentre vínculos a la grabación de las sesiones en el</p>
   <ul>
-    <li><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés) y la </li>
-    <li><strong><a href="./working-sessions">Descripción de las Sesiones</a></strong></li>
+    <li><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés) y la
+    <li><strong><a href="./working-sessions">Descripción de las Sesiones</a></strong>
   </ul>
 <!---      <a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Regístrese Ahora (¡gratis!)</a></p> --->
 </td>
