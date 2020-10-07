@@ -62,8 +62,8 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 <td style="text-align: center; vertical-align: top; width: 158px;">
   <p>Encuentre vínculos a la grabación de las sesiones en el
   <ul>
-    <li><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés) y 
-    <li><strong><a href="./working-sessions">Descripción de las Sesiones</a></strong>
+    <li><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés) y la </li>
+    <li><strong><a href="./working-sessions">Descripción de las Sesiones</a></strong></li>
   </ul>
 <!---      <a href="https://tdwg.eventbrite.com" target="_blank" class="btn btn-secondary">Regístrese Ahora (¡gratis!)</a></p> --->
 </td>
@@ -72,7 +72,7 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 <td style="vertical-align: top; text-align: center; width: 89px;">
 <p><strong>19-23</strong><br /><strong>octubre</strong></p>
 </td>
-<td style="vertical-align: top; width: 288px;">x
+<td style="vertical-align: top; width: 288px;">
 <p>&nbsp;<strong>Conferencia virtual</strong></p>
 <ul>
 <li>Simposios y Paneles de discusión</li>
