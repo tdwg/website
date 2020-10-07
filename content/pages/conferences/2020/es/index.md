@@ -59,8 +59,8 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 <li>Reuniones “Birds of a Feather” para proponer nuevos Grupos de Interés / de Tareas</li>
 </ul>
 </td>
-<td style="text-align: center; vertical-align: top; width: 158px;">
-  <p>Encuentre vínculos a la grabación de las sesiones en el</p>
+<td style="text-align: left; vertical-align: top; width: 158px;">
+  <p>Encuentre enlaces la grabación de las sesiones en el</p>
   <ul>
     <li><strong><a href="./../working-sessions-schedule/">Calendario de Sesiones</a></strong> (en inglés) y la
     <li><strong><a href="./working-sessions">Descripción de las Sesiones</a></strong>
