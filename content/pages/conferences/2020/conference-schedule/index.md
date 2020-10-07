@@ -471,9 +471,9 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
   <p><a href="../session-list/#sym01%20standards%20alignment:%20which%20and%20how?">SYM01: Standards alignment: which and how?</a></p>
 </td>
 <td style="background-color: #ECEEAC;" rowspan="3">
-  <span style="font-size:75%"><strong>
+  <span style="font-size:75%"><strong>Local&nbsp;Time:
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+PD03%3A%20Enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services&iso=20201023T1400&p1=1440&ah=2&am=" target="_blank"> 
-      <script type="text/javascript">Local&nbsp;Time:
+      <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T14:00:00Z", 0, "short", "short", "en-US") );
         document.write(" "); document.write( horaLocal("2020-10-23T14:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
