@@ -83,8 +83,8 @@ En la semana de conferencia virtual esperamos una combinación de tres a cuatro 
 </ul>
 </td>
 <td style="text-align: center; vertical-align: top; width: 158px;">
- <p><strong><a href="conference-schedule/">Calendario de la Conferencia</a></strong></p>
-  <p><strong><a href="session-list/">Detalles de las Sesiones</a></strong></p>
+ <strong><a href="../conference-schedule/">Calendario de la Conferencia (en inglés)</a></strong></p>
+  <p><strong><a href="../session-list/">Detalles de las Sesiones</a></strong></p>
   <p><!--- a href="https://tdwg-2020-oct.eventbrite.com" target="_blank" class="btn btn-secondary" ---><strong>El registo inicia el 7 de Oct.</strong></p>
 </td>
 </tr>
