@@ -659,10 +659,10 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
 </td>
 <td style="background-color: #EEACEC;" rowspan="4">
   <span style="font-size:75%"><strong>Local&nbsp;Time:
-  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=" target="_blank"> 
+  <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201020T2200&p1=1440&ah=2&am=" target="_blank"> 
     <script type="text/javascript">
-      document.write( DiaLocal("2020-10-22T22:00:00Z", 0, "short", "short", "en-US") );
-      document.write(" "); document.write( horaLocal("2020-10-22T22:00:00Z", breakLocalHour, 0) );
+      document.write( DiaLocal("2020-10-22T20:00:00Z", 0, "short", "short", "en-US") );
+      document.write(" "); document.write( horaLocal("2020-10-22T20:00:00Z", breakLocalHour, 0) );
     </script>
   </a></strong></span>
   <p>Keynote by<br />Ken-Ichi Ueda</p>
