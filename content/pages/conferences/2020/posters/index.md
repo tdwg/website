@@ -14,7 +14,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <table>
 <tr>
-	<td >To Be Posted<br />18 Oct.
+	<td >To Be Posted<br />18 Oct
 	</td>
   <td>
 	<strong>Title:</strong> Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections<br />
@@ -24,7 +24,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td >To Be Posted<br />18 Oct.
+	<td >To Be Posted<br />18 Oct
 	</td>
 <td>
 	<strong>Title:</strong> Virtual Systematics with Annotate: The Mexican archaeocyaths example<br />
@@ -34,7 +34,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td >To Be Posted<br />18 Oct.
+	<td >To Be Posted<br />18 Oct
 	</td>
 <td>
 	<strong>Title:</strong> Survey of Species Covered by DNA Barcoding Data in BOLD and GenBank for Integration of Data for Museomics<br />
@@ -44,7 +44,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td >To Be Posted<br />18 Oct.
+	<td >To Be Posted<br />18 Oct
 	</td>
 <td>
 	<strong>Title:</strong> Streamlined Conversion of Omics Metadata into Manuscript Facilitates Publishing and Reuse of Omics Data<br />
@@ -53,7 +53,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td >To Be Posted<br />18 Oct.
+	<td >To Be Posted<br />18 Oct
 	</td>
 <td>
 	<strong>Title:</strong> Linking Agrobiodiversity Data through Metadata Standards<br />
