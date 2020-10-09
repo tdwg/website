@@ -113,7 +113,7 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
 <table style="border-collapse: collapse;" border="1px">
 <tbody>
 <tr style="border-style: double;">
-<td style="vertical-align: bottom; text-align:center; width=10%;"><strong>UTC&nbsp;Time</strong><br />
+<td style="vertical-align: bottom; text-align:center; width:10%;"><strong>UTC&nbsp;Time</strong><br />
   <span style="font-size:75%"><strong>(Local&nbsp;Time: <script type="text/javascript">document.write( UTCZonaHorariaLocal('2020-10-19T00:00:00Z', -1));</script>)</strong></span>
 </td>
 <td align="center" valign="top;"><strong>
@@ -499,7 +499,7 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
         document.write( DiaLocal("2020-10-19T15:00:00Z", 0, "short", "short", "en-US") );
         document.write(" "); document.write( horaLocal("2020-10-19T15:00:00Z", breakLocalHour, 0) );
       </script></a></strong></span>
-  Conference welcome and Keynote by<br />Scott Edwards<br />
+  <a href="https://www.tdwg.org/conferences/2020/session-list/#keynote%20by%20scott%20edwards">Conference welcome and Keynote by<br />Scott Edwards</a><br />
 </td>
 </tr>
 <tr>
@@ -665,7 +665,7 @@ Use this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y191N25z
       document.write(" "); document.write( horaLocal("2020-10-22T20:00:00Z", breakLocalHour, 0) );
     </script>
   </a></strong></span>
-  <p>Keynote by<br />Ken-Ichi Ueda</p>
+  <p><a href="https://www.tdwg.org/conferences/2020/session-list/#keynote%20by%20ken-ichi%20ueda">Keynote by<br />Ken-Ichi Ueda</a></p>
   <p style="font-size:50%; text-align:center; background-color:white">&nbsp;&nbsp;5 min break&nbsp;&nbsp;</p>
   <p>TDWG Business Meeting</p>
 </td>
