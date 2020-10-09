@@ -13,6 +13,17 @@ page_order: 35
 Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be found in the [poster collection](https://biss.pensoft.net/collection/224/) of our Proceedings this year.  In normal TDWG conferences, we place posters up around the venue and encourage authors to stand by their posters during a social hour or two.  With a virtual conference we are going to convene a few social hours and encourage poster authors to be available in a "break out room" off of the main social hour "meeting". (More detailed instructions to come.) Unfortunately, time zones will mean that most authors won't be able to participate in all social hours.  In the list below, we hope to indicate which social hour(s) each author plan to attend so participants can have a chance to discuss the author's work.
 
 <table>
+
+<tr>
+	<td >To Be Posted<br />18 Oct
+	</td>
+  <td>
+	<strong>Title:</strong> What Can You Do with a TaxonWorks API?<br />
+	Author(s): Matthew Yoder, Hernán Pereira, José Luis Pereira, Dmitry Dmitriev, Geoffrey Ower, James Flood<br />
+	<a href="https://biss.pensoft.net/article/59170/" target="_blank">Abstract</a> <br/>
+  </td>
+</tr>
+
 <tr>
 	<td >To Be Posted<br />18 Oct
 	</td>
@@ -21,6 +32,16 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 	Author(s):	Roger Hyam<br />
 	<a href="https://biss.pensoft.net/article/59055/" target="_blank">Abstract</a> <br/>
   </td>
+</tr>
+
+<tr>
+	<td >To Be Posted<br />18 Oct
+	</td>
+<td>
+	<strong>Title:</strong> A Google Sheet Add-on for Biodiversity Data Standardization and Sharing<br />
+	Author(s):	José Augusto Salim, Antonio Saraiva<br />
+	<a href="https://biss.pensoft.net/article/59228/" target="_blank">Abstract</a> <br/>
+</td>
 </tr>
 
 <tr>
@@ -52,14 +73,5 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </td>
 </tr>
 
-<tr>
-	<td >To Be Posted<br />18 Oct
-	</td>
-<td>
-	<strong>Title:</strong> Linking Agrobiodiversity Data through Metadata Standards<br />
-	Author(s):	Filipi Soares, Antonio Saraiva, Debora Drucker<br />
-	<a href="https://biss.pensoft.net/article/58928/" target="_blank">Abstract</a> <br/>
-</td>
-</tr>
 </table>
 
