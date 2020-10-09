@@ -48,10 +48,9 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 	</td>
 <td>
 	<strong>Title:</strong> Streamlined Conversion of Omics Metadata into Manuscript Facilitates Publishing and Reuse of Omics Data<br />
-	Author(s):	Mariya Dimitrova, Raïssa Meyer, Pier Luigi Buttigieg, Teodor Georgiev, Georgi Zhelezov, Seyhan Demirov, Vincent Smith, Lyubo<br />mir Penev <br/>
+	Author(s):	Mariya Dimitrova, Raïssa Meyer, Pier Luigi Buttigieg, Teodor Georgiev, Georgi Zhelezov, Seyhan Demirov, Vincent Smith, Lyubomir Penev <br/>
 </td>
 </tr>
-ref="poster-link"><img src="Thumbnail"></a>
 
 <tr>
 	<td >To Be Posted<br />18 Oct
