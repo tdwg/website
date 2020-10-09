@@ -5,7 +5,7 @@ cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
 tags: conference
-page_order: 55
+page_order: 25
 ---
 
 ## Keynote by Scott Edwards
