@@ -32,7 +32,7 @@ Over the past decades, numerous standards have been developed that are used for 
 
 **14:00 UTC - Thursday, 22 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+SYM01%3A%20Standards%20alignment%3F%20which%20and%20how%3F&iso=20201022T1400&p1=1440&ah=2&am=">Find your local time here</a>)
 <table>
-  <tr><td>14:00 UTC</td><td>Soares</td></tr>
+  <tr><td>14:00 UTC</td><td><b>Soares, FM</b>, Saraiva, AM, Drucker DP (2020) Linking Agrobiodiversity Data through Metadata Standards. Biodiversity Information Science and Standards 4: e58928. <a href="https://doi.org/10.3897/biss.4.58928">https://doi.org/10.3897/biss.4.58928</a></td></tr>
   <tr><td>14:20 UTC</td><td><b>Fichtmüller D</b>, Güntsch A, Blum S (2020) The ABCD/DwC Alignment Working Group: Presenting the results from the TDWG 2020 Workshop. Biodiversity Information Science and Standards 4: e59048. <a href="https://doi.org/10.3897/biss.4.59048">https://doi.org/10.3897/biss.4.59048</a></td></tr>
   <tr><td>14:40</td><td>Discussion</td></tr>
   <tr><td>15:30</td><td>Session End</td></tr>
@@ -340,7 +340,7 @@ In this session central questions on the requirements, obstacles and chances of 
 <tr><td> 13:30 UTC </td><td> Session End </td></tr>
 </table>
 
-__Last updated 09 October 2020__
+__Last updated 11 October 2020__
 
 
 <iframe width="100%" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-NfGfIPPrYThi-DuLfUpw0rBkh7nO7NfReE21vabcdYxsCYh6qpyzDmk5E9dUixFvoUWo2ok4BEfn/pubhtml?gid=696526741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
