@@ -8,17 +8,18 @@ tags: conference
 page_order: 25
 ---
 
-<div><img src="https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg" alt="Scott Edwards, photo by James Deshler" style="float:right;padding-left:10px;padding-bottom:10px;">
+<img src="https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg" alt="Scott Edwards, photo by James Deshler" style="float:right;padding-left:10px;padding-bottom:10px;">
+
 ## Keynote by Scott Edwards
 
 **15:00 UTC - Monday, 19 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=">Find your local time here</a>)
 
 Dr. Scott Edwards is the Alexander Agassiz Professor of Organismal and Evolutionary Biology at Harvard University and the Curator of Ornithology at Harvard's Museum of Comparative Zoology.
 
-Edwards SV (2020) Bicycling, Birding and #BLM across America in a Summer of Chaos. Biodiversity Information Science and Standards 4: e59303. <a href="https://doi.org/10.3897/biss.4.59303">https://doi.org/10.3897/biss.4.59303</a><br />
-</div>  
+Edwards SV (2020) Bicycling, Birding and #BLM across America in a Summer of Chaos. Biodiversity Information Science and Standards 4: e59303. <a href="https://doi.org/10.3897/biss.4.59303">https://doi.org/10.3897/biss.4.59303</a><br />&nbsp;
 
 <img src="https://static.tdwg.org/conferences/2020/spkrs/ken-ichi-ueda.jpg" alt="Ken-ichi Ueda" style="float:right;padding-left:10px;padding-bottom:10px;">
+
 ## Keynote by Ken-ichi Ueda
 
 **20:00 UTC - Thursday, 22 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=">Find your local time here</a>)
