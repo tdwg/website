@@ -16,8 +16,9 @@ page_order: 25
 
 Dr. Scott Edwards is the Alexander Agassiz Professor of Organismal and Evolutionary Biology at Harvard University and the Curator of Ornithology at Harvard's Museum of Comparative Zoology.
 
-Edwards SV (2020) Bicycling, Birding and #BLM across America in a Summer of Chaos. Biodiversity Information Science and Standards 4: e59303. <a href="https://doi.org/10.3897/biss.4.59303">https://doi.org/10.3897/biss.4.59303</a><br />&nbsp;<br />
+Edwards SV (2020) Bicycling, Birding and #BLM across America in a Summer of Chaos. Biodiversity Information Science and Standards 4: e59303. <a href="https://doi.org/10.3897/biss.4.59303">https://doi.org/10.3897/biss.4.59303</a>
 
+<div style="clear:right">
 
 ## Keynote by Ken-ichi Ueda
 
