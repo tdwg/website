@@ -8,9 +8,9 @@ tags: conference
 page_order: 25
 ---
 
+<img src="https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg" alt="Scott Edwards, photo by James Deshler" style="float:right;padding-left:10px;padding-bottom:10px">
 ## Keynote by Scott Edwards
 
-<img src="https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg" alt="Scott Edwards, photo by James Deshler" style="float:right;padding-left:10px;padding-bottom:10px">
 Dr. Scott Edwards is the Alexander Agassiz Professor of Organismal and Evolutionary Biology at Harvard University and the Curator of Ornithology at Harvard's Museum of Comparative Zoology.
 
 **15:00 UTC - Monday, 19 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=">Find your local time here</a>)
