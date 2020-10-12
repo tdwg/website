@@ -18,18 +18,15 @@ Dr. Scott Edwards is the Alexander Agassiz Professor of Organismal and Evolution
 
 Edwards SV (2020) Bicycling, Birding and #BLM across America in a Summer of Chaos. Biodiversity Information Science and Standards 4: e59303. <a href="https://doi.org/10.3897/biss.4.59303">https://doi.org/10.3897/biss.4.59303</a>
 
-<div style="clear:right">
+<img src="https://static.tdwg.org/conferences/2020/spkrs/ken-ichi-ueda.jpg" alt="Ken-ichi Ueda" style="float:right;clear:right;padding-left:10px;padding-bottom:10px;">
 
 ## Keynote by Ken-ichi Ueda
-
-<img src="https://static.tdwg.org/conferences/2020/spkrs/ken-ichi-ueda.jpg" alt="Ken-ichi Ueda" style="float:right;padding-left:10px;padding-bottom:10px;">
 
 **20:00 UTC - Thursday, 22 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=">Find your local time here</a>)
 
 iNaturalist (iNat) Co-Director, Ken-ichi Ueda, is a naturalist, web developer, and co-founder of iNat. Both Ken-ichi and iNat are based at the California Academy of Sciences. 
 
 Ueda K-i (2020) An Overview of Computer Vision in iNaturalist. Biodiversity Information Science and Standards 4: e59133. <a href="https://doi.org/10.3897/biss.4.59133">https://doi.org/10.3897/biss.4.59133</a>
-</div>
 
 ## SYM01 Standards alignment: which and how?
 
