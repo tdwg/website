@@ -281,7 +281,7 @@ In this session central questions on the requirements, obstacles and chances of 
   <tr><td> 22:20 UTC </td><td> <b>Zárate M</b>, Zermoglio PF, Wieczorek J, Plos A, Mazzanti R (2020) Linked Open Biodiversity Data (LOBD): A semantic application for integrating biodiversity information. Biodiversity Information Science and Standards 4: e58975. <a href="https://doi.org/10.3897/biss.4.58975">https://doi.org/10.3897/biss.4.58975</a> </td></tr>
   <tr><td> 22:40 UTC </td><td> <b>Belbin L</b>, Chapman A, Wieczorek J, Morris PJ, Zermoglio PF (2020) Task Group 2 – Data Quality Tests and Assertions. Biodiversity Information Science and Standards 4: e58982. <a href="https://doi.org/10.3897/biss.4.58982">https://doi.org/10.3897/biss.4.58982</a> </td></tr>
   <tr><td> 23:00 UTC </td><td> <b>Shorthouse DP</b> (2020) Slinging With Four Giants on a Quest to Credit Natural Historians for our Museums and Collections. Biodiversity Information Science and Standards 4: e59167. <a href="https://doi.org/10.3897/biss.4.59167">https://doi.org/10.3897/biss.4.59167</a> </td></tr>
-  <tr><td> 23:20 UTC </td><td> <b>Pender J</b>, Sachs J, Lujan-Toro B, Macklin J (2020) Even Simple Habitat Ontologies are Hard to Use. Biodiversity Information Science and Standards 4: e59190. <a href="https://doi.org/10.3897/biss.4.59190">https://doi.org/10.3897/biss.4.59190</a> </td></tr>
+  <tr><td> 23:20 UTC </td><td> Pender J, <b>Sachs J, Lujan-Toro B</b>, Macklin J (2020) Even Simple Habitat Ontologies are Hard to Use. Biodiversity Information Science and Standards 4: e59190. <a href="https://doi.org/10.3897/biss.4.59190">https://doi.org/10.3897/biss.4.59190</a> </td></tr>
 <tr><td> 23:40 UTC </td><td> Discussion and additional questions </td></tr> 
 <tr><td> 0:00 UTC </td><td> Session End </td></tr>
 </table>
@@ -347,7 +347,7 @@ In this session central questions on the requirements, obstacles and chances of 
 <tr><td> 13:30 UTC </td><td> Session End </td></tr>
 </table>
 
-__Last updated 11 October 2020__
+__Last updated 15 October 2020__
 
 
 <iframe width="100%" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-NfGfIPPrYThi-DuLfUpw0rBkh7nO7NfReE21vabcdYxsCYh6qpyzDmk5E9dUixFvoUWo2ok4BEfn/pubhtml?gid=696526741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
