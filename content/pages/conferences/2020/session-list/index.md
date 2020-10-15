@@ -347,7 +347,7 @@ In this session central questions on the requirements, obstacles and chances of 
 <tr><td> 13:30 UTC </td><td> Session End </td></tr>
 </table>
 
-__Last updated 11 October 2020__
+__Last updated 15 October 2020__
 
 
 <iframe width="100%" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-NfGfIPPrYThi-DuLfUpw0rBkh7nO7NfReE21vabcdYxsCYh6qpyzDmk5E9dUixFvoUWo2ok4BEfn/pubhtml?gid=696526741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
