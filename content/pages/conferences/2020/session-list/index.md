@@ -22,7 +22,7 @@ Edwards SV (2020) **Bicycling, Birding and #BLM across America in a Summer of Ch
 
 ## Keynote by Ken-ichi Ueda
 
-**20:00 UTC - Thursday, 22 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2200&p1=1440&ah=2&am=">Find your local time here</a>)
+**20:00 UTC - Thursday, 22 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2000&p1=1440&ah=2&am=">Find your local time here</a>)
 
 [iNaturalist](https://www.inaturalist.org/) (iNat) Co-Director, [Ken-ichi Ueda](https://www.inaturalist.org/users/1), is a naturalist, web developer, and co-founder of iNat. Both Ken-ichi and iNat are based at the [California Academy of Sciences](https://www.calacademy.org/). 
 
