@@ -347,6 +347,32 @@ In this session central questions on the requirements, obstacles and chances of 
 <tr><td> 13:30 UTC </td><td> Session End </td></tr>
 </table>
 
+
+## Social Sessions
+
+**Session Type:** Social sessions
+
+### Social session 1: Ooooh! We didn’t know that
+**23:00 UTC - Monday, 19 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Session%201&iso=20201019T2300&p1=1440&ah=2&am=">Find your local time here</a>)
+
+So yes, there are people behind the computers… We have faces, and dogs, and cats and children. And messy living rooms, and cute coffee (tea!) cups. And slippers you can’t see but you can imagine! You want to learn more about the actual people in this community? Take your seat, and your microphone, in this TDWG 2020 Social Hour 1!
+
+### Social session 2: Away with TDWG words
+**07:00 UTC - Tuesday, 20 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Session%202&iso=20201020T0700&p1=1440&ah=2&am=">Find your local time here</a>)
+
+A fun game where participants will mime, draw or describe words from the TDWG world. To make things a little more animated, participants are requested to wear something on their head – this can be a wig, hat, cat, etc.
+
+### Closing Social session: TDWG Just Dance
+**20:30 UTC - Friday, 23 October 2020** (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Social%20Session%203&iso=20201023T2030&p1=1440&ah=2&am=">Find your local time here</a>)
+
+What better way to close out a meeting than with an epic dance party? While we cannot dance with each other in person, we can still have fun and dance together on camera! Join us for endless smiles and laughter as we listen to music, dance, try TikTok challenges, and just have a good time together as best as we can. There will also be breakout rooms to just hang out and chat if you need a break from the dancefloor!
+
+
+**NOTE** At all social hours, we plan to include a breakout room for those who want to discuss meeting content or related topics of interest including our [contributed posters](https://www.tdwg.org/conferences/2020/posters/).
+
+
+
+
 __Last updated 15 October 2020__
 
 
