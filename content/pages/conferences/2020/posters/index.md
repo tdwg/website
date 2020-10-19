@@ -33,7 +33,8 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
   <td style="vertical-align:middle">
 	Title: <strong>Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections</strong><br />
 	Author(s): Roger Hyam<br />
-	<a href="https://biss.pensoft.net/article/59055/" target="_blank">Abstract</a> <br/>
+	<a href="https://biss.pensoft.net/article/59055/" target="_blank">Abstract</a> | 
+	<a href="https://youtu.be/_jpRD-DcO_0" target="_blank">Video</a> <br/>
   </td>
 </tr>
 
