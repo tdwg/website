@@ -44,7 +44,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
   <td style="vertical-align:middle">
 	Title: <strong>A Google Sheet Add-on for Biodiversity Data Standardization and Sharing</strong><br />
 	Author(s): José Augusto Salim, Antonio Saraiva<br />
-	<a href="https://biss.pensoft.net/article/59228/" target="_blank">Abstract</a> 
+	<a href="https://biss.pensoft.net/article/59228/" target="_blank">Abstract</a> | 
 	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.mp4" target="_blank">Video</a> <br/>
   </td>
 </tr>
@@ -69,7 +69,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
   <td style="vertical-align:middle">
 	Title: <strong>Survey of Species Covered by DNA Barcoding Data in BOLD and GenBank for Integration of Data for Museomics</strong><br />
 	Author(s): Takeru Nakazato<br />
-	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> 
+	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> | 
 	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
 	Contact: nakazato AT dbcls.rois.ac DOT jp <br/>
 	Twitter: @tkr_nak
