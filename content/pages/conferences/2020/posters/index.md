@@ -15,7 +15,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 <table>
 
 <tr>
-<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder" style="max-width:300px; max-height:300px;">
+  <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder" style="max-width:300px; max-height:300px;">
 	</td>
   <td style="vertical-align:middle">
 	Title: <strong>What Can You Do with a TaxonWorks API?</strong><br />
@@ -27,7 +27,8 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam-thm.png" alt="ps_59055_hyam" style="max-width:300px; max-height:300px;">
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam-thm.png" alt="ps_59055_hyam" style="max-width:300px; max-height:300px;">
 	</td>
   <td style="vertical-align:middle">
 	Title: <strong>Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections</strong><br />
@@ -37,47 +38,53 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png" alt="ps_59228_salim"  style="max-width:300px; max-height:300px;">
-	</td>
-<td style="vertical-align:middle">
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png" alt="ps_59228_salim"  style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
 	Title: <strong>A Google Sheet Add-on for Biodiversity Data Standardization and Sharing</strong><br />
 	Author(s): José Augusto Salim, Antonio Saraiva<br />
-	<a href="https://biss.pensoft.net/article/59228/" target="_blank">Abstract</a> <br/>
-</td>
+	<a href="https://biss.pensoft.net/article/59228/" target="_blank">Abstract</a> 
+	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.mp4" target="_blank">Video</a> <br/>
+  </td>
 </tr>
 
 <tr>
-	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png" alt="ps_59106_kerner" style="max-width:300px; max-height:300px;">
-	</td>
-<td style="vertical-align:middle">
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png" alt="ps_59106_kerner" style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
 	Title: <strong>Virtual Systematics with Annotate: The Mexican archaeocyaths example</strong><br />
 	Author(s): Lucile-Morgane Hays, Adeline Kerner<br />
 	<a href="https://biss.pensoft.net/article/59106/" target="_blank">Abstract</a> <br/>
 	Contact: kerner AT mnhm DOT fr <br/>
 	<a href="https://www.tdwg.org/conferences/2020/session-list/#social%20sessions">Social Hours: 1 and 2</a><br/>
-</td>
+  </td>
 </tr>
 
 <tr>
-	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png" alt="ps_59065_nakazato" style="max-width:300px; max-height:300px;">
-	</td>
-<td style="vertical-align:middle">
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png" alt="ps_59065_nakazato" style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
 	Title: <strong>Survey of Species Covered by DNA Barcoding Data in BOLD and GenBank for Integration of Data for Museomics</strong><br />
 	Author(s): Takeru Nakazato<br />
-	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> <br/>
+	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> 
+	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
 	Contact: nakazato AT dbcls.rois.ac DOT jp <br/>
 	Twitter: @tkr_nak
-</td>
+  </td>
 </tr>
 
 <tr>
-	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png" alt="ps_59041_dimitrova" style="max-width:300px; max-height:300px;">
-	</td>
-<td style="vertical-align:middle">
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png" alt="ps_59041_dimitrova" style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
 	Title: <strong>Streamlined Conversion of Omics Metadata into Manuscript Facilitates Publishing and Reuse of Omics Data</strong><br />
 	Author(s): Mariya Dimitrova, Raïssa Meyer, Pier Luigi Buttigieg, Teodor Georgiev, Georgi Zhelezov, Seyhan Demirov, Vincent Smith, Lyubomir Penev <br/>
 	<a href="https://biss.pensoft.net/article/59041/" target="_blank">Abstract</a> <br/>
-</td>
+  </td>
 </tr>
 
 </table>
