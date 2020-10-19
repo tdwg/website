@@ -15,7 +15,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 <table>
 
 <tr>
-<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder">
+<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder" style="max-width:300px; max-height:300px;">
 	</td>
   <td>
 	Title: <strong>What Can You Do with a TaxonWorks API?</strong><br />
