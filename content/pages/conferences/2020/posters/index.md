@@ -17,7 +17,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 <tr>
 <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder" style="max-width:300px; max-height:300px;">
 	</td>
-  <td>
+  <td style="vertical-align:middle">
 	Title: <strong>What Can You Do with a TaxonWorks API?</strong><br />
 	Author(s): Matthew Yoder, Hernán Pereira, José Luis Pereira, Dmitry Dmitriev, Geoffrey Ower, James Flood<br />
 	<a href="https://biss.pensoft.net/article/59170/" target="_blank">Abstract</a> <br/>
