@@ -348,6 +348,11 @@ In this session central questions on the requirements, obstacles and chances of 
 </table>
 
 
+## Posters
+
+A number of posters have been contributed to TDWG 2020. Each poster has an abstract published in BISS, and the poster file itself will soon be attached to the published abstract. In the mean time, please see the list of [contributed posters](../posters/) and their files here on the conference website. Also please note, we have asked poster authors to attend at least one of the social sessions to make themselves available to discuss their posters with conference participants.  Social sessions are listed below and blocked on the [conference schedule](../conference-schedule/).
+
+
 ## Social Sessions
 
 **Session Type:** Social sessions
@@ -368,12 +373,10 @@ A fun game where participants will mime, draw or describe words from the TDWG wo
 What better way to close out a meeting than with an epic dance party? While we cannot dance with each other in person, we can still have fun and dance together on camera! Join us for endless smiles and laughter as we listen to music, dance, try TikTok challenges, and just have a good time together as best as we can. There will also be breakout rooms to just hang out and chat if you need a break from the dancefloor!
 
 
-**NOTE** At all social hours, we plan to include a breakout room for those who want to discuss meeting content or related topics of interest including our [contributed posters](https://www.tdwg.org/conferences/2020/posters/).
 
 
 
-
-__Last updated 15 October 2020__
+__Last updated 18 October 2020__
 
 
 <iframe width="100%" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-NfGfIPPrYThi-DuLfUpw0rBkh7nO7NfReE21vabcdYxsCYh6qpyzDmk5E9dUixFvoUWo2ok4BEfn/pubhtml?gid=696526741&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
