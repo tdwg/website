@@ -27,7 +27,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td >To Be Posted<br />18 Oct
+	<td> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam-thm.png" alt="ps_59055_hyam" style="">
 	</td>
   <td>
 	Title: <strong>Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections</strong><br />
