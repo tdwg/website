@@ -15,7 +15,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 <table>
 
 <tr>
-	<td >To Be Posted<br />18 Oct
+<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder">
 	</td>
   <td>
 	Title: <strong>What Can You Do with a TaxonWorks API?</strong><br />
@@ -37,7 +37,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td > <a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png" alt="ps_59228_salim" style="">
+	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png" alt="ps_59228_salim" style="">
 	</td>
 <td>
 	Title: <strong>A Google Sheet Add-on for Biodiversity Data Standardization and Sharing</strong><br />
@@ -47,7 +47,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td > <a href="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png" alt="ps_59106_kerner" style="">
+	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png" alt="ps_59106_kerner" style="">
 	</td>
 <td>
 	Title: <strong>Virtual Systematics with Annotate: The Mexican archaeocyaths example</strong><br />
@@ -59,7 +59,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td > <a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png" alt="ps_59065_nakazato" style="">
+	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png" alt="ps_59065_nakazato" style="">
 	</td>
 <td>
 	Title: <strong>Survey of Species Covered by DNA Barcoding Data in BOLD and GenBank for Integration of Data for Museomics</strong><br />
@@ -71,7 +71,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 </tr>
 
 <tr>
-	<td > <a href="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png" alt="ps_59041_dimitrova" style="">
+	<td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png" alt="ps_59041_dimitrova" style="">
 	</td>
 <td>
 	Title: <strong>Streamlined Conversion of Omics Metadata into Manuscript Facilitates Publishing and Reuse of Omics Data</strong><br />
