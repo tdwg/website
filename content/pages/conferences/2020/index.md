@@ -72,7 +72,7 @@ In the virtual conference week, we envision a mixture of three to four 90-minute
 <td style="text-align: center; vertical-align: top; width: 158px;">
   <p><strong><a href="conference-schedule/">Conference Session Schedule</a></strong></p>
   <p><strong><a href="session-list/">Conference Session Details</a></strong></p>
-  <p><a href="https://tdwg-2020-oct.eventbrite.com/" target="_blank" class="btn btn-secondary"><strong>REGISTER NOW (free!)</strong></p>
+  <p><a href="https://tdwg-2020-oct.eventbrite.com/" target="_blank" class="btn btn-secondary"><strong>REGISTER NOW (free!)</strong><p>or Access Event</p></p>
 </td>
 </tr>
 </tbody>
