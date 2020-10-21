@@ -232,7 +232,7 @@ Conventional approaches to reconciling taxonomic information in biodiversity dat
   <tr><td> 2:10 UTC </td><td> <b>Sen A</b>, Franz N, Sterner BW, Upham N (2020) The Automated Taxonomic Concept Reasoner. Biodiversity Information Science and Standards 4: e59074. <a href="https://doi.org/10.3897/biss.4.59074">https://doi.org/10.3897/biss.4.59074</a> </td></tr>
   <tr><td> 2:20 UTC </td><td> <b>Franz NM</b>, Sterner BW, Upham NS, Cortés Hernández KA (2020) Redesigning the Trading Zone between Systematics and Conservation: Insights from Malagasy mouse lemur classifications, 1982 to present. Biodiversity Information Science and Standards 4: e59234. <a href="https://doi.org/10.3897/biss.4.59234">https://doi.org/10.3897/biss.4.59234</a> </td></tr>
 <tr><td> 2:30 UTC </td><td> Discussion. Additional panelists: Katja Schulz, Cam Webb, Johan Liljeblad, Anne Fuchs, Nico Franz, Jeff Gerbracht, and Jonathan Rees.</td></tr>
-  <tr><td> 3:00 UTC </td><td> Session End </td></tr>
+  <tr><td> 3:30 UTC </td><td> Session End </td></tr>
 </table>  
 
 
