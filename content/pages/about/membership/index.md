@@ -32,7 +32,7 @@ Membership is based on the calendar year.  We solicit membership payments early 
 
 ### Payment methods
 
-Request an invoice to pay membership dues by sending an email to the TDWG Treasurer (treasurer@tdwg.org) with your name, institution name, and address. TDWG is now managing membership through the Zoho Invoicing platform. Prospective and current members may establish an account on the platform to help manage their membership, including printing invoices, pay an invoice (online or offline), print receipts, and view payment history. [Request an invitation](mailto:secretariat@tdwg.org) to establish your account with TDWG.
+[Request an invoice](mailto:treasurer@tdwg.org?subject=Membership%20request) to pay membership dues by sending your name, affiliation, address, and desired membership type to the TDWG Treasurer. 
 
 Membership dues can be paid:
 
