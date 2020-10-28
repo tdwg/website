@@ -34,6 +34,11 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 ## Offices open for election
 
+### Deputy Chair
+The Chair of TDWG holds the post for four years, two as the deputy chair and two as the chair. They preside at meetings of TDWG and at meetings of the Executive Committee. They are responsible for leading TDWG, they seek advice from the Executive Committee and Conveners of Interest, Maintenance and Task groups. They write an annual update to members on TDWG’s status, activities, priorities and vision for the year ahead.
+
+Unless delegated to other Executive Committee members, the chair represents TDWG at meetings, conferences and other meetings. The chair also opens and closes presentations at the annual conference.
+
 ### Secretary
 
 The Secretary is responsible for coordinating the activities of the Executive Committee and for the daily business of Biodiversity Information Standards. They organizes meeting agendas and take minutes. They help to coordinate the review of standards and the organization of interest and task groups. The secretary acts as a proxy for the Chair during any significant period of unavailability and communication with the Executive Committee is normally through the Secretary.
