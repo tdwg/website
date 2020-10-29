@@ -160,7 +160,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by th
     </a>
   </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
-    <a href="https://iDigBio.org">
+    <a href="https://www.idigbio.org/">
        <img src="https://static.tdwg.org/sponsors/Idigbio-logo-rgb-600px.png" alt="iDigBio.org" width="" height="" />
     </a>
   </td>
