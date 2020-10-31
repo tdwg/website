@@ -18,6 +18,8 @@ page_order: 25
 
 Edwards SV (2020) **Bicycling, Birding and #BLM across America in a Summer of Chaos.** Biodiversity Information Science and Standards 4: e59303. <a href="https://doi.org/10.3897/biss.4.59303">https://doi.org/10.3897/biss.4.59303</a>
 
+**Video:** [Welcome and Keynote Speaker](https://www.youtube.com/watch?v=bb1mPXlNotA&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=24)
+
 <img src="https://static.tdwg.org/conferences/2020/spkrs/ken-ichi-ueda.jpg" alt="Ken-ichi Ueda" style="float:right;clear:right;width:202px;padding-left:10px;padding-bottom:10px;">
 
 ## Keynote by Ken-ichi Ueda
@@ -27,6 +29,8 @@ Edwards SV (2020) **Bicycling, Birding and #BLM across America in a Summer of Ch
 [iNaturalist](https://www.inaturalist.org/) (iNat) Co-Director, [Ken-ichi Ueda](https://www.inaturalist.org/users/1), is a naturalist, web developer, and co-founder of iNat. Both Ken-ichi and iNat are based at the [California Academy of Sciences](https://www.calacademy.org/). 
 
 Ueda K-i (2020) **An Overview of Computer Vision in iNaturalist.** Biodiversity Information Science and Standards 4: e59133. <a href="https://doi.org/10.3897/biss.4.59133">https://doi.org/10.3897/biss.4.59133</a>
+
+**Video:** [Keynote by Ken-ichi Ueda](https://www.youtube.com/watch?v=xfbabznYFV0&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=48)
 
 ## SYM01 Standards alignment: which and how?
 
