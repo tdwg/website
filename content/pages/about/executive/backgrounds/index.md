@@ -227,7 +227,27 @@ __Vision statement for the position__
 
 ### Wouter Addink
 
+[ORCID](https://orcid.org/0000-0002-3090-1761)
+
 __Naturalis Biodiversity Center, Leiden, The Netherlands__
+
+__Background:__
+
+For about 15 years I have been participating in TDWG in different roles. I have actively participated in several interest groups and task groups and I recently assisted with setting up the new task groups for Collections Descriptions (CD) and Minimum Information about a Digital Specimen (MIDS). As Europe representative I co-founded TDWG Europe, a stichting to enable participation of TDWG in EC funded projects. I also contributed to the organisation of Biodiversity_Next, development of the TDWG standards ratification process and a slide deck for presentations about TDWG and the standardisation process.  
+
+I am employed as Coordinator Research-data and E-infrastructure at Naturalis Biodiversity Center, with a background in plant systematics and agricultural biology. 
+
+In my current position I am leading the technical development of DiSSCo (Distributed System of Scientific Collections), a new research infrastructure in Europe. I am participating as stream coordinator or work package leader in several related European projects: SYNTHESYS+, MOBILISE, DiSSCo Prepare and the former ICEDIG project. I participated in several other EC funded projects for biodiversity data in the past: e.g. Fauna Europea, ENBI, MarBEF, EuroCat, KeyToNature, 4D4Life, i4Life and OpenUp! I have also been working as IT systems manager for Species2000/Catalogue of Life.
+
+Besides my work for DiSSCo I am also active in the GBIF community as DiSSCo node manager and GBIF ambassador. I organised several GBIF mentoring projects and a GBIF species checklist hackathon and I have been 2nd vice chair in the GBIF Nodes Committee. 
+
+As Chair of the RDA Biodiversity Data Integration interest group (with support from RDA Europe as RDA Ambassador), I have re-activated the RDA Biodiversity Data Integration interest group with new goals described in an updated charter and created a RDA discipline page for biodiversity.
+
+__Vision:__
+
+TDWG has many active participants in Europe and as such Europe plays a major role in development, maintenance and use of the TDWG standards.
+
+It is my vision that TDWG and the development and support of TDWG standards can be strengthened through EC funded projects in Europe like SYNTHESYS+, DiSSCo Prepare and BiCIKL. The foundation of TDWG Europe has made it possible to now participate as TDWG in such projects and through my role in DiSSCo I am well connected with these projects which enables me to position TDWG well.
 
 
 ## Latin America representative 
