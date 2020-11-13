@@ -63,6 +63,7 @@ Membership dues can be paid:
 | [Illinois Natural History Survey](https://www.inhs.illinois.edu/) |   Champaign, IL |
 | [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/) | Beijing |
 | [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/) | 	St Louis, MO |
+| [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en) |   Berlin |
 | [Museum of Natural Sciences / Museu de Ciències Naturals](https://museuciencies.cat/en/) |   Barcelona |
 | [Museum Victoria](https://museumsvictoria.com.au/) |   Melbourne |
 | [National Museum / Národní Muzeum](https://www.nm.cz/en) |  Prague |
