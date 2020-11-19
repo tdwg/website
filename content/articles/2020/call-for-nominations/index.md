@@ -57,7 +57,7 @@ Regional representatives give voice to the members, institutions, and projects i
 
 ## Nomination procedure
 
-To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before **16 November 2020**, extended to the **1st December 2020**.
+To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before **16 November 2020**, extended to the **1st December 2020** for the Deputy Chair, Secretary, Fundraising and Partnerships, North America representative and Asian Representative.
 
 ## Election procedure
 
@@ -65,4 +65,4 @@ The TDWG Secretariat will post [nominees’ statements](https://www.tdwg.org/abo
 
 ## Deadline
 
-Nominations will be closed on 16 November. Ballots will be distributed by email shortly thereafter. The balloting period will be at least 30 days from the date of distribution.  Exact date-times will be announced via TDWG Announcements and posted here.
+Nominations are now closed for the Chair of the Functional Subcommittee for Communications and Outreach, Africa Representative and European Representative. Nominations are still open until the 1st December for the Deputy Chair, Secretary, Fundraising and Partnerships, North America representative and Asian Representative. Ballots will be distributed by email shortly thereafter. The balloting period will be at least 30 days from the date of distribution.  Exact date-times will be announced via TDWG Announcements and posted here.
