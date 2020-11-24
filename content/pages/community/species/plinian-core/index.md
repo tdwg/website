@@ -73,12 +73,12 @@ If you are interested in participating in the group, please contact the convener
 
 ## Resources
 
-* Gerbracht J (2018) A Content Management System and underlying models for avian taxonomic monographs. Biodiversity Information Science and Standards 2: e25693. https://doi.org/10.3897/biss.2.25693 
-* Pando F (2017) How species interactions are managed in Plinian Core: Status and questions. Proceedings of TDWG 1: e20556. https://doi.org/10.3897/tdwgproceedings.1.20556
-* Pando F (2018) Comparison of species information TDWG standards from the point of view of the Plinian Core specification. Biodiversity Information Science and Standards 2: e25869. https://doi.org/10.3897/biss.2.25869
-* Plinian Core pages at TDWG’s GitHub: specification, documentation, issues and developments: https://github.com/tdwg/PlinianCore 
-* Vargas M, Mora M, Ulate W, Cuadra J (2018) The Living Atlases Community in Action: Sharing Species Pages through the Atlas of Living Costa Rica. Biodiversity Information Science and Standards 2: e25990. https://doi.org/10.3897/biss.2.25990
-* Vargas M, Mora Cross M, Cuadra J, Ulate Rodríguez W (2019) Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core. Biodiversity Information Science and Standards 3: e35474.  https://doi.org/10.3897/biss.3.35474
+* Gerbracht J (2018) A Content Management System and underlying models for avian taxonomic monographs. Biodiversity Information Science and Standards 2: e25693. [https://doi.org/10.3897/biss.2.25693](https://doi.org/10.3897/biss.2.25693)
+* Pando F (2017) How species interactions are managed in Plinian Core: Status and questions. Proceedings of TDWG 1: e20556. [https://doi.org/10.3897/tdwgproceedings.1.20556](https://doi.org/10.3897/tdwgproceedings.1.20556)
+* Pando F (2018) Comparison of species information TDWG standards from the point of view of the Plinian Core specification. Biodiversity Information Science and Standards 2: e25869. [https://doi.org/10.3897/biss.2.25869](https://doi.org/10.3897/biss.2.25869)
+* Plinian Core pages at TDWG’s GitHub: specification, documentation, issues and developments: [https://github.com/tdwg/PlinianCore](https://github.com/tdwg/PlinianCore)
+* Vargas M, Mora M, Ulate W, Cuadra J (2018) The Living Atlases Community in Action: Sharing Species Pages through the Atlas of Living Costa Rica. Biodiversity Information Science and Standards 2: e25990. [https://doi.org/10.3897/biss.2.25990](https://doi.org/10.3897/biss.2.25990)
+* Vargas M, Mora Cross M, Cuadra J, Ulate Rodríguez W (2019) Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core. Biodiversity Information Science and Standards 3: e35474.  [https://doi.org/10.3897/biss.3.35474](https://doi.org/10.3897/biss.3.35474)
 
 
 ## Relevant projects and initiatives  
