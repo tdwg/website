@@ -10,7 +10,7 @@ github:
 
 ## Convenor  
 
-[Francisco Pando](pando@rjb.csic.es) - Real Jardín Botánico -CSIC. Madrid
+[Francisco Pando](pando@rjb.csic.es) - Real Jardín Botánico, CSIC. Madrid
 
 ## Core members  
 
