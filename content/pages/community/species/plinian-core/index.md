@@ -44,10 +44,10 @@ Plinian Core design required to be easy to use, self-contained, able to support 
 
 ## Goals outputs and outcomes
 
-* An assessment on how Plinian Core relates to other TDWG standards. Done: https://doi.org/10.3897/biss.2.25869 
-* A detailed documentation on the different terms included in Plinian Core. Done: https://github.com/tdwg/PlinianCore/wiki 
-* At least three implementations of species information systems based on Plinian Core. Done : See below, section “Relevant projects and initiatives”
-* A SPARQL Endpoint and underlying ontology implemented and working. Done: https://crossnature.eu/visor/ 
+* An assessment on how Plinian Core relates to other TDWG standards. Done: [https://doi.org/10.3897/biss.2.25869](https://doi.org/10.3897/biss.2.25869)
+* A detailed documentation on the different terms included in Plinian Core. Done: [https://github.com/tdwg/PlinianCore/wiki](https://github.com/tdwg/PlinianCore/wiki)
+* At least three implementations of species information systems based on Plinian Core. Done (See below, section “Relevant projects and initiatives”)
+* A SPARQL Endpoint and underlying ontology implemented and working. Done: [https://crossnature.eu/visor/](https://crossnature.eu/visor/)
 * A standard specification complying with the TDWG SDS. The TG plans to make a formal submission of the documentation to the TDWG Executive by November 27th, 2020. In progress
 
 ## Becoming involved
@@ -84,15 +84,15 @@ If you are interested in participating in the group, please contact the convener
 ## Relevant projects and initiatives  
 
 * Atlas de la Biodiversidad de Costa Rica – CRBio
-  * See [species pages](http://www.crbio.cr/crbio/?page_id=61&lang=en)
+    * See [species pages](http://www.crbio.cr/crbio/?page_id=61&lang=en)
 * Spanish Ministry for the Ecological transition, [Species Information System](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/Eidos_acceso.aspx)
-  * [SPARQL Endpoint](https://crossnature.eu/visor/)
-  * Underlying [ontology](https://datos.iepnb.es/def/sector-publico/medio-ambiente/pliniancore/)
-  * [Ontology visualisation](http://www.visualdataweb.de/webvowl/#iri=https://datos.iepnb.es/def/sector-publico/medio-ambiente/pliniancore/3.0.0)
+    * [SPARQL Endpoint](https://crossnature.eu/visor/)
+    * Underlying [ontology](https://datos.iepnb.es/def/sector-publico/medio-ambiente/pliniancore/)
+    * [Ontology visualisation](http://www.visualdataweb.de/webvowl/#iri=https://datos.iepnb.es/def/sector-publico/medio-ambiente/pliniancore/3.0.0)
 * Vasque Country (Spain) Official [Nature Information System](https://www.ivap.euskadi.eus/contenidos/ds_informes_estudios/plinian_core/eu_def/adjuntos/plinian.pdf)
-  * [Specification](https://opendata.euskadi.eus/catalogo/-/txostenak-ikerketak/euskadiko-naturari-buruzko-informazio-sisteman-jasota-dauden-espezieak-deskribatzen-dituen-informazioa/) for creating DwC-Archives based on Plinian Core
+    * [Specification](https://opendata.euskadi.eus/catalogo/-/txostenak-ikerketak/euskadiko-naturari-buruzko-informazio-sisteman-jasota-dauden-espezieak-deskribatzen-dituen-informazioa/) for creating DwC-Archives based on Plinian Core
 * Colombian Biodiversity [Catalog](https://catalogo.biodiversidad.co/)
-  * Documentation for [exotic](http://repository.humboldt.org.co/handle/20.500.11761/9691) and [threatened](http://repository.humboldt.org.co/handle/20.500.11761/9690) species
-  * [Documentation](http://repository.humboldt.org.co/handle/20.500.11761/9689) about species pages editor
+    * Documentation for [exotic](http://repository.humboldt.org.co/handle/20.500.11761/9691) and [threatened](http://repository.humboldt.org.co/handle/20.500.11761/9690) species
+    * [Documentation](http://repository.humboldt.org.co/handle/20.500.11761/9689) about species pages editor
 * Enciclovida, méxican [species catalog](https://enciclovida.mx/)
 
