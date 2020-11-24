@@ -1,6 +1,6 @@
 ---
 title: Plinian Core
-summary: This group works towards developing a data specification, the Plinian Core, that can be used to describe different aspects of biological species information. By "biological species Information" all kinds of properties or traits related to taxa, including biological and non-biological traits. Thus, for instance, terms pertaining to descriptions, legal aspects, conservation, management, demography, nomenclature, and related resources are incorporated. The Plinian Core’s aim is to facilitate the exchange of information about species and higher taxa, covering biological and non-biological aspects pertaining to all taxonomic groups.
+summary: This group works towards developing a data specification, the Plinian Core, that can be used to describe different aspects of biological species information. By "biological species information" all kinds of properties or traits related to taxa, including biological and non-biological traits are within scope. Thus, for instance, terms pertaining to descriptions, legal aspects, conservation, management, demography, nomenclature, and related resources are incorporated. The Plinian Core’s aim is to facilitate the exchange of information about species and higher taxa, covering biological and non-biological aspects pertaining to all taxonomic groups.
 cover_image: https://images.unsplash.com/photo-1605315222417-f2ddd393a2e9
 cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/Fk99LvrIqws
