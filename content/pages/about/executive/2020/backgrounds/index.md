@@ -13,6 +13,13 @@ page_order: 1
 
 ## Chair
 
+### James Macklin
+
+__Agriculture Agri-food, Canada, Ottawa, Canada__
+
+
+## Deputy Chair
+
 ### Deb Paul
 
 __Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA__
@@ -31,13 +38,24 @@ Additionally, it would be great to examine membership and choose some strategic 
 
 As a TDWG member myself, I most want to support the development of your ideas, and your vision for TDWG.
 
-## Deputy Chair
-
-To be determined 
-
 ## Secretary
 
-To be determined
+### Quentin Groom 
+
+[ORCID](https://orcid.org/0000-0002-0596-5376)
+
+__Meise Botanic Garden, Belgium__
+
+__Curriculum Vitae__
+
+I have broad experience in the plant sciences having originally worked in the UK and USA on the physiology, biophysics and molecular biology of photosynthesis and plant iron metabolism. Now I work in Belgium at [Meise Botanic Garden](http://www.plantentuinmeise.be/index.php) where I work at the interface of biodiversity science and information technology. I am currently part of a team digitizing and disseminating images of the Garden’s four million herbarium specimens. I take every opportunity to encourage data sharing and openness, though I am keen to ensure that data providers are adequately acknowledged and supported. Currently, I am leading the Open Science project [TrIAS](https://osf.io/7dpgr/) to create open workflows for the creation of policy ready information on invasive species from citizen science data. I am also working on the [ICEDIG](https://icedig.eu/) project to prepare for mass digitization and dissemination of museums and herbaria across Europe.
+
+I have a particular research interest in introduced plants, their ecology and biogeography. In this context I am Vice Chair of the [Alien-CSI](http://www.cost.eu/COST_Actions/ca/CA17122) COST Action towards monitoring and understanding of invasive species with citizen scientists. I am also leading a TDWG Task Group to improve the Darwin Core standard for its use with invasive species data.
+
+__Vision statement__
+
+We live in exciting times for biodiversity informatics, both a time when we have the capability to do more and better science with information technology, but also a time when the global challenges for biodiversity are extreme. Through my work with TDWG I hope to make new science possible and make a significant contribution to protecting our living heritage. Having learned much in my first two years as TDWG Secretary I hope to be even more effective in my role and in promoting TDWG to a wider audience.
+
 
 ## Treasurer 
 
@@ -61,7 +79,18 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 ## Technical Architecture Group
 
-To be appointed
+### Simon Checksfield
+
+__CSIRO, Canberra, Australia__
+
+__Background:__
+
+I have significant experience in main stream IT in the development, maintenance and implementation of Architectural Frameworks in various enterprises.  I feel I can bring these skills to bear in chairing the TDWG TAG.  Additionally I have 25+ years experience as a developer, data manager and solution architect.  In my current role as the manager of NRCA's Digital Collections and Informatics Group, I maintain daily contact with all the aspects TDWG/DwC encompass.
+
+__Vision:__
+
+With 2 years experience behind me as the TDWG Oceania representative on the executive, I feel I am in the position to understand the strategic direction of TDWG as well as the operational environment in which the TAG needs to work.  While I will not pretend to have an in depth knowledge of TDWG's technical aspects, I feel the strength of the TAG's members can make up for this, and I will be free to provide operational direction and strategic advice on the issues faced in the TAG.  While I have many ideas on how the TAG could / should work, the initial term as chair should focus on how it works now, and what may be done to improve that.  I am more than happy at a later time to outline other ideas that will come out of that period.
+
 
 ## Infrastructure 
 
@@ -83,7 +112,27 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ## Communications and Outreach
 
-To be appointed
+### Prabhakar Rajagopal 
+
+[ORCID](https://orcid.org/0000-0001-9320-5942)
+
+__Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), Bangalore, India__
+
+__Background__
+
+I did my bachelors in engineering from Indian Institute of Technology, Madras and my PhD from the Indian Institute of Science in Bangalore in the biological sciences. I work in Strand Life Sciences, which is a bioinformatics and computational biology company working in clinical genomics. 
+
+Since 2008, I have been involved in biodiversity informatics and have been working on building the [India Biodiversity Portal](http://indiabiodiversity.org), leading a team of developers within Strand Life Sciences. The platform is now mature, and powers three instances, the India Biodiversity Portal, the WIKWIO portal for the weeds of Africa and the Bhutan Biodiversity Portal.  
+
+__Vision statement__
+
+I have been involved in TDWG since 2014. I would like to build a team from members of TDWG who guide the activities of the outreach and communication sub-committee. The team would address four specific activities: 
+
+- They will create and put together publicity material as digital presentations, pamphlets and flyers for open access and use to all members of TDWG.
+- They will help advocate, evangelize and build capacity in biodiversity informatics standards  in stakeholder groups across the world.
+- They will work closely with regional representatives, especially in Africa, Asia and South America in building capacity in biodiversity informatics in collaboration with local institutions.
+- They will document and report all TDWG conducted and upcoming outreach and communication activities through the newly launched and website for global visibility
+
 
 ## Fundraising and Partnernships
 
@@ -119,51 +168,59 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 ## Africa representative 
 
-To be determined by election (two nominations received)
+### Brenda Daly 
+
+[ORCID](https://orcid.org/0000-0002-3732-8339)
+
+__South African National Biodiversity Institute (SANBI), Capetown, South Africa__
+
+__Background__
+
+Brenda Daly is the Information Systems Manager for the Biodiversity Information and Planning Directorate at the South African National Biodiversity Institute (SANBI), with 16 years’ experience in information management and digital curation. She leads several projects in the delivery of operational systems which includes external-facing availability of applications, infrastructure and data. Brenda also provides strategic technical leadership in implementing SANBI’s enterprise information architecture to integrate South African biodiversity information.
+
+Prior to her appointment at SANBI, Brenda was the Global Biodiversity Information Facility (GBIF) Node Manager for the Endangered Wildlife Trust (EWT) a Non-Profit Organisation dedicated to conserving threatened species and ecosystems in southern Africa. It was her engagement with the GBIF community that introduced her to the internationally recognised data standards and the Biodiversity Information Standards (TDWG) community.
+
+__Vision statement__
+
+With a genuine enthusiasm for information technology and a passion for biodiversity, Brenda’s research interest is the importance of biodiversity data in addressing research and decision-making in the use and management of living resources and how these data can be shared in a more effective and appropriate platform for any type of use or application.  It is therefore vital that biodiversity information standards are adapted to allow for this.
 
 
 ## Asia representative
 
-### Takeru Nakazato nakazato@dbcls.rois.ac.jp
+### Ji Liqiang
 
-__Database Center for Life Science, Mishima, Japan__
+__Institute of Zoology, Chinese Academy of Sciences, Beijing, China__
 
-__Background__
+__Curriculum Vitae__
 
-I work as a researcher at the Database Center for Life Science (DBCLS)
-in Japan. DBCLS is a sister institute of DNA Data Bank of Japan
-(DDBJ), the International Nucleotide Sequence Database Collaboration
-(INSDC) member. The mission of DBCLS is to increase the accessibility
-of data related to DNA sequences. We develop web services using
-Semantic Web techonology, create tutorial movies, and organize an
-annual hackathon. I am involved in the development of a search engine
-for public next-generation sequencing (NGS) data collected by INSDC.
-These data related to DNA sequences are becoming important in
-biodiversity, such as DNA barcoding and genome sequence, and I will
-contribute to the TDWG to the collaboration with these data.
-My original background was molecular biology. I earned my master's
-degree by studying physiology and molecular mechanisms of fishes that
-can live in both freshwater and seawater. I also obtained my Ph.D. in
-information science with the development of methods for interpreting a
-large amount of gene expression data from biological aspects.
-And I am also a citizen scientist. I collect, raise, and mount
-butterflies and beetles on my own. I am also deeply involved in the
-community to promote biodiversity informatics in Japan, working with
-researchers in bioinformatics and natural history museums.
+- 1999-present: Leader of Biodiversity Informatics Research Group, Institute of Zoology, Chinese Academy of Sciences
+- 1999-present: Professor of Institute of Zoology, Chinese Academy of Sciences
+- 1993-1999: Associate Professor of Institute of Zoology, Chinese Academy of Sciences
+- 1990-1993: Assistant Professor of Institute of Zoology, Chinese Academy of Sciences
+- 1990: Ph.D., Institute of Zoology, Chinese Academy of Sciences
+- 1982: BS, Peking University
 
-__Vision__
+__Responsibility in organization and project__
 
-The activities of TDWG are open to the world. Unfortunately, however,
-only a small number of participants from Asia attended the annual
-meeting in recent years. As TDWG Asia Representative, I will increase
-the number of people in Asia who are interested in TDWG's activities
-and enhance the presence of Asia's rich biodiversity.
-Currently, I specialize in bioinformatics and work to improve the
-accessibility of data related to DNA sequences. Bioinformatics and
-biodiversity informatics face the same challenges of standardization
-of data but have tried to solve them individually. By acting as a
-bridge between these, I will contribute to making it easier for
-researchers to approach life science data from various aspects.
+- Member of Global Team, Catalogue of Life (CoL)
+- Asia Representatives of Executive Committee, TDWG
+- Member and Deputy Secretary-General, Chinese National Committee of DIVERSITAS (CNC-DIVERSITAS)
+- Member of China Committee, International Council for Science (ICSU)
+- Member and Deputy Secretary-General, Biodiversity Committee, Chinese Academy of Sciences (BC-CAS)
+- Leader of IT Group, Species 2000 China Node (CoL-CHINA)
+- Leader of Species Diversity Information Platform, CAS Key Programme
+
+__Research Interests__
+
+Major research field is biodiversity informatics, focused on key technique and methodology of collection, processing, publishing and sharing of biodiversity data and information, developing the methods and software tools for biodiversity assessment, planning, designing and implementing biodiversity information system and database.
+
+__Vision statement for the position__
+
+- Introduce the TDWG’s standards to colleagues of biodiversity informatics from Asia and recommend them to apply these standards in local system;
+- Engage local scientists, especially young scientists in the activities of TDWG;
+- Have the responsibility to represent the interests of TDWG members from Asia on the Executive Committee; 
+- Have the responsibility to represent the interests of colleagues in biodiversity informatics from Asia in TDWG.
+- Represent TDWG in appropriate meetings and other activities;
 
 
 ## Europe representative
