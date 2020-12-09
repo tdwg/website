@@ -32,7 +32,7 @@ Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasure
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
 [Technical Architecture Group](../committees/tag/) | [TBA] [✉️] |  | 2020-2021
-[Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2019-2020
+[Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2021-2022
 [Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2020-2021
 [Outreach and Communications](../committees/outreach/) | [Mareike Petersen](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:Mareike.Petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2021-2022
 [Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2020-2021
@@ -43,7 +43,7 @@ Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Africa | [To Be Determined by Election]() [✉️](mailto:) |  | 2021-2022
 Asia | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto:) |  | 2021-2022
-Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2019-2020
+Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2021-2022
 Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
 North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2021-2022
 Oceania | [To Be Appointed](./backgrounds/#oceania%20representative_1) [✉️] | | 2020-2021
