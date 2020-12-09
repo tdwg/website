@@ -1,6 +1,6 @@
 ---
 title: Background and vision statements
-summary: Executive Committee officers, 2020
+summary: Executive Committee officers, 2021
 cover_image: https://images.unsplash.com/photo-1496374200594-218d93021c8c
 cover_image_by: Nathan Dumlao
 cover_image_ref: https://unsplash.com/photos/UoehHcoiMB0
@@ -17,11 +17,11 @@ page_order: 1
 
 __Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA__
 
-__Background__
+__Background:__
 
 I am passionate about working to build bridges between groups and creating environments where all feel welcome. For more than twelve years, I have participated in various biodiversity initiatives. Examples include digitization in the FSU R.K. Godfrey Herbarium, mobilizing data and images for Morphbank, leading digitization and capacity development efforts at iDigBio, collaborating worldwide to develop symposia and workshops, and networking and mentoring to foster biodiversity informatics skills in the collections and research communities. I am an active participant in the Society for the Preservation of Natural History Collections (SPNHC), Biodiversity Information Standards (TDWG), the Entomological Collections Network (ECN), ICEDIG, the Research Data Alliance (RDA), and The Carpentries. 
 
-__Vision Statement__
+__Vision:__
 
 As Deputy and then Chair, I would continue to strengthen TDWG’s role as a community leader and partner in biodiversity standards development and implementation. Initiating and continuing work with key organizations like ECN, RDA, CODATA, and The Carpentries, helps TDWG develop natural communities to use and contribute to biodiversity standards. Collaboration with GBIF, ALA, VertNet, iDigBio and others is key for testing and implementing TDWG ideas and products. Moreover, we need to work with other standards organizations to learn from them and share our expertise.
 
@@ -33,11 +33,28 @@ As a TDWG member myself, I most want to support the development of your ideas, a
 
 ## Deputy Chair
 
-To be determined 
+### Elycia Wallis
+
+__Atlas of Living Australia, CSIRO, Melbourne, Australia__
+
+__Background:__
+
+My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website https://collections.museumvictoria.com.au/ and the Field Guide apps for Australia https://museumsvictoria.com.au/apps/ 
+
+I have now  joined the Atlas of Living Australia team https://www.ala.org.au/ as the Collections Community Engagement Manager and leader of the Projects team. As Engagement Manager, I work with the Museums and Herbaria around Australia and New Zealand to share knowledge and work to continuously improve data standards, data pipelines, and data quality. 
+
+My other passion is for the Biodiversity Heritage Library https://www.biodiversitylibrary.org/ and I led the Australian project for a number of years. The Australian BHL has always been proud of the amount it has achieved with a small staff and a number of fabulous volunteers and continues to go from strength to strength. 
+
+__Vision:__
+
+The advantages of technology are many, but one that we haven’t yet fully overcome is the challenge of timezones and distance. I am often amazed at being able to talk with – and see – colleagues on the other side of the world and think that we are all the richer for being able to communicate in a way that would have been unthinkable just a few years ago. Timezones being what they are that communication does come at a price – which is usually a very early morning for some, and a late night for others. My initial focus will be on communication within the Oceania region; and I will work hard to ensure that the work of TDWG is disseminated widely and that I can represent the interests of the region back to the TDWG Executive. 
+
+
 
 ## Secretary
 
-To be determined
+To be appointed
+
 
 ## Treasurer 
 
@@ -83,7 +100,46 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ## Communications and Outreach
 
-To be appointed
+### Mareike Petersen
+
+__Museum für Naturkunde Berlin__
+
+[ORCID](https://orcid.org/0000-0001-8666-1931)
+
+__Background:__
+
+For the past six years, I have been involved in various national and international research projects to
+improve access to and use of natural science collections. I am interested in advancing data linkage
+mechanisms and optimizing the management of research and collection data and its open access.
+I am a biologist by training with a scientific background in herpetology (amphibian ecology and
+taxonomy). At the Museum für Naturkunde Berlin (MfN), I work on the mobilization of content to
+subject-specific and cross-domain portals (e.g. GBIF or Europeana), open access to research data, and
+on the application and further development of data standards (e.g. in the context of TDWG).
+Recently, I am strongly involved in the multifaceted information management linked to the
+digitization project of MfNs’ collections and in the development and establishment of the European
+research infrastructure DiSSCo (e.g. leading Work package and tasks in DiSSCo Prepare, contributing
+to Synthesys+).
+
+In order to open up information from research processes and information about objects in research
+collections, to enrich it semantically, and to make it accessible for further use, I bridge the gap
+between the requirements of research, management of research collections, and the technical
+implementation by developers. Solving these tasks in an interdisciplinary team is often challenging,
+but at the same time, it enriches my daily work.
+
+__Vision:__
+
+I am enthusiastic about TDWG complexity and member several Interest and Task Groups. Some of
+them are regularly crossing the border of biodiversity informatics and reach out to the managers and
+users of natural science collections. Outreach and communication thus being usual tasks for my work
+in TDWG.
+
+As a chair of the subcommittee ‘Communications and Outreach’, I will work on a better visibility of
+TDWG, its standards and their application, importantly also beyond the biodiversity informatics and
+natural science domain. Together with the whole subcommittee, I will prepare new communication
+material and use innovative tools to transport TDWGs’ key messages and achievements to
+stakeholders and potential new user groups around the world. This will help us to reach out to new
+members, even in in current times, where travelling and meetings in person are limited or impossible
+at all.
 
 ## Fundraising and Partnernships
 
@@ -218,7 +274,7 @@ More broadly, as member of the Executive, I will work towards a better integrati
 
 __Dept of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington DC, USA__
 
-__Background__
+__Background:__
 
 As the Informatics Specialist for the Smithsonian National Museum of Natural History Department of Paleobiology, I am responsible for all aspects of our digital collections, from designing and managing digitization projects to long term preservation and stewardship of our data. This work requires me to maintain a core focus of designing extensible and replicable methods integrated with and based upon the standards of the global community, but adapted to local needs. 
 
@@ -226,7 +282,7 @@ In addition, I am a member of community efforts including Darwin Core Hour, Data
 
 My current research is focused on evaluating the landscape of data sharing practices in the paleo community through analysis of occurrence records and datasets in GBIF. I participate in and facilitate discussion on best practices for use of established standards for fossil occurrence data and on development of new terms, vocabularies, and additional tools that may be needed.
 
-__Vision__
+__Vision:__
 
 It is vital that TDWG actively engage with the individuals, projects, and institutions that utilize and contribute to the standards, best practices, and tools developed and maintained by TDWG. The North American Representative acts as a facilitator of that effort. I look forward to the opportunity to bring TDWG to the community and to bring the community to TDWG. In this role, I will highlight discussions of discipline specific and broader biodiversity community needs, and work towards implementation of TDWG standards and tools across the many projects and initiatives in North America.
 
@@ -237,19 +293,5 @@ My experience within the community and engagement in efforts to establish an env
 
 ## Oceania representative 
 
-### Elycia Wallis
-
-__Atlas of Living Australia, CSIRO, Melbourne, Australia__
-
-__Background:__
-
-My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website https://collections.museumvictoria.com.au/ and the Field Guide apps for Australia https://museumsvictoria.com.au/apps/ 
-
-I have now  joined the Atlas of Living Australia team https://www.ala.org.au/ as the Collections Community Engagement Manager and leader of the Projects team. As Engagement Manager, I work with the Museums and Herbaria around Australia and New Zealand to share knowledge and work to continuously improve data standards, data pipelines, and data quality. 
-
-My other passion is for the Biodiversity Heritage Library https://www.biodiversitylibrary.org/ and I led the Australian project for a number of years. The Australian BHL has always been proud of the amount it has achieved with a small staff and a number of fabulous volunteers and continues to go from strength to strength. 
-
-__Vision:__
-
-The advantages of technology are many, but one that we haven’t yet fully overcome is the challenge of timezones and distance. I am often amazed at being able to talk with – and see – colleagues on the other side of the world and think that we are all the richer for being able to communicate in a way that would have been unthinkable just a few years ago. Timezones being what they are that communication does come at a price – which is usually a very early morning for some, and a late night for others. My initial focus will be on communication within the Oceania region; and I will work hard to ensure that the work of TDWG is disseminated widely and that I can represent the interests of the region back to the TDWG Executive. 
+To be Appointed
 

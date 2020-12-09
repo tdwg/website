@@ -22,7 +22,7 @@ Term of office shown as span of calendar years, inclusive.
 
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Chair | [Deb Paul](./backgrounds/#deputy%20chair_1) [✉️](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, Tallahassee FL USA | 2021-2022
+Chair | [Deb Paul](./backgrounds/#chair_1) [✉️](mailto:dlpssf@gmail.com) | Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA | 2021-2022
 Deputy Chair | [Elycia (Ely) Wallis](./backgrounds/#deputy%20chair_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2021-2022
 Secretary | [To Be Appointed] [✉️](mailto:secretary@tdwg.org) |  | 2021-2022
 Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
