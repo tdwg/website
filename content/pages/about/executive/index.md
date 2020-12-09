@@ -14,7 +14,7 @@ TDWG is led by an Executive Committee composed of officers elected by TDWG membe
 
 The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
-## Executive Committee 2020
+## Executive Committee 2021
 
 Term of office shown as span of calendar years, inclusive.
 
@@ -22,31 +22,31 @@ Term of office shown as span of calendar years, inclusive.
 
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Chair | James Macklin [✉️](mailto:james.macklin@agr.gc.ca) | Agriculture and Agri-Food Canada, ON, Canada | 2019-2020
-Deputy Chair | [Deb Paul](./backgrounds/#deputy%20chair_1) [✉️](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, Tallahassee FL USA | 2019-2020
-Secretary | [Quentin Groom](./backgrounds/#secretary_1) [✉️](mailto:secretary@tdwg.org) | Botanic Garden Meise, Belgium | 2019-2020
+Chair | [Deb Paul](./backgrounds/#deputy%20chair_1) [✉️](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, Tallahassee FL USA | 2021-2022
+Deputy Chair | [Elycia (Ely) Wallis](./backgrounds/#deputy%20chair_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2021-2022
+Secretary | [To Be Appointed] [✉️](mailto:secretary@tdwg.org) |  | 2021-2022
 Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
 
 ### Subcommittee chairs
 
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](../committees/tag/) | [Simon Checksfield](./backgrounds/#technical%20architecture%20group_1) [✉️](mailto:simon.checksfield@csiro.au) | CSIRO, Australia | 2020-2021
+[Technical Architecture Group](../committees/tag/) | [TBA] [✉️] |  | 2020-2021
 [Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2019-2020
 [Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2020-2021
-[Outreach and Communications](../committees/outreach/) | [Prabhakar Rajagopal](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2019-2020
+[Outreach and Communications](../committees/outreach/) | [Mareike Petersen](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:Mareike.Petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2021-2022
 [Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2020-2021
 
 ### Regional representatives
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Africa | [Brenda Daly](./backgrounds/#africa%20representative_1) [✉️](mailto:B.Daly@sanbi.org.za) | South African National Biodiversity Institute, Cape Town, South Africa (SANBI) | 2019-2020
-Asia | [Ji Liqiang](./backgrounds/#asia%20representative_1) [✉️](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2019-2020
+Africa | [To Be Determined by Election]() [✉️](mailto:) |  | 2021-2022
+Asia | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto:) |  | 2021-2022
 Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2019-2020
 Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
-North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2019-2020
-Oceania | [Elycia (Ely) Wallis](./backgrounds/#oceania%20representative_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2020-2021
+North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2021-2022
+Oceania | [To Be Appointed](./backgrounds/#oceania%20representative_1) [✉️] | | 2020-2021
 
 ### Regularly invited participants (non-voting)
 
