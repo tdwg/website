@@ -14,14 +14,6 @@ github:
 
 ## Core members  
 
-Name | Role
---- | ---
-María Mora | Biodiversity informatics expertise
-William Ulate | Biodiversity informatics expertise
-Manuel Vargas | Biodiversity informatics expertise
-Camila Plata | Biodiversity informatics expertise
-José Cuadra | Biodiversity informatics expertise
-
 Name | Institution | Email
 --- | --- | ---
 Walter Jetz | Map of Life, Yale University | walter.jetz@yale.edu
@@ -74,8 +66,8 @@ communication and enhanced value for re-use.
 Our _main_ goal is to enable biodiversity inventory data sharing as part of the TDWG
 corpus of standards. The primary deliverable will be in the form of either:
 
-    1. one or more vocabulary enhancements (extensions) to Darwin Core, or
-    2. a new standard for biodiversity inventory data sharing.
+1. one or more vocabulary enhancements (extensions) to Darwin Core, or
+2. a new standard for biodiversity inventory data sharing.
 
 Please refer to the Strategy section for clarifications.
 
@@ -156,15 +148,18 @@ about processes underpinning inventory work (Guralnick et al. 2018).
 ## Resources
 
 Humboldt Core resources:
+
 * Humboldt Core in Map of Life: https://mol.org/humboldtcore/
 * Humboldt Core current implementation: https://github.com/MapofLife/humboldtcore
 * Humboldt Core publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. https://doi.org/10.1111/ecog.02942
 
 TDWG Documentation
+
 * TDWG Vocabulary Maintenance Specification (VMS): https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md
 * TDWG Standards Documentation Standard (SDS): https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md
 
 Other resources and references:
+
 * Biological Collections Ontology (BCO): http://www.obofoundry.org/ontology/bco.html
 * GBIF Darwin Core Extension schema: http://rs.gbif.org/schema/extension.xsd
 * Gries C, Gilbert E, Franz N. (2014) Symbiota – A virtual platform for creating voucher-based biodiversity information communities. Biodiversity Data Journal 2: e1114. https://doi.org/10.3897/BDJ.2.e1114
