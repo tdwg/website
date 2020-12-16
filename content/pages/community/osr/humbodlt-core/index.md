@@ -10,22 +10,22 @@ github:
 
 ## Convenor  
 
-[Yanina Sica](yanina.sica@yale.edu) - - Map of Life, Yale University. 
+[Yanina Sica](yanina.sica@yale.edu) - Map of Life, Yale University. 
 
 ## Core members  
 
 Name | Institution | Email
 --- | --- | ---
-Walter Jetz | Map of Life, Yale University | walter.jetz@yale.edu
-Guralnick | Florida Museum of Natural History | rguralnick@flmnh.ufl.edu
-John Wieczorek | VertNet, Darwin Core Maintenance Interest Group | gtuco.btuco@gmail.com
-Paula Zermoglio | VertNet, Darwin Core Maintenance Interest Group | pzermoglio@gmail.com
-Kate Ingenloff | Map of Life | kathryn.ingenloff@gmail.com
-Steve Baskaufs | Vanderbilt University, Darwin Core Maintenance Interest Group | steve.baskauf@vanderbilt.edu
-Tim Robertson | GBIF | trobertson@gbif.org
-Dmitry Schiegel | GBIF | dschigel@gbif.org
-Erlend B. Nilsen | Living Norway Ecological Data Network & NINA | erlend.nilsen@nina.no
-Peter Brenton | CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group | peter.brenton@csiro.au
+Walter Jetz | Map of Life, Yale University | <walter.jetz@yale.edu>
+Guralnick | Florida Museum of Natural History | <rguralnick@flmnh.ufl.edu>
+John Wieczorek | VertNet, Darwin Core Maintenance Interest Group | <gtuco.btuco@gmail.com>
+Paula Zermoglio | VertNet, Darwin Core Maintenance Interest Group | <pzermoglio@gmail.com>
+Kate Ingenloff | Map of Life | <kathryn.ingenloff@gmail.com>
+Steve Baskaufs | Vanderbilt University, Darwin Core Maintenance Interest Group | <steve.baskauf@vanderbilt.edu>
+Tim Robertson | GBIF | <trobertson@gbif.org>
+Dmitry Schiegel | GBIF | <dschigel@gbif.org>
+Erlend B. Nilsen | Living Norway Ecological Data Network & NINA | <erlend.nilsen@nina.no>
+Peter Brenton | CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group | <peter.brenton@csiro.au>
 Robert D Stevenson | | 
 
 
@@ -44,7 +44,7 @@ effort).
 Page 2 of 2
 These limitations could be overcome by formalizing the Humboldt Core, a framework
 developed to deal specifically with this kind of data (Guralnick et al. 2018), and which is
-currently implemented in Map of Life (https://mol.org/humboldtcore/). While originally
+currently implemented in Map of Life (<https://mol.org/humboldtcore/>). While originally
 planned as a TDWG standard, ratification was not pursued until now. Broader
 implementation throughout the community has been hampered by a needed review of how
 to best integrate its terms with existing standards and implementation schemas.
@@ -75,7 +75,7 @@ The primary deliverable will be accompanied by:
 
 * Formal definitions of the terms following the Darwin Core format, adapted from the original definitions provided in Guralnick et al. (2018). No dependencies.
 * A Quick Reference Guide to the terms of the Humboldt Core standard/extension following the Darwin Core Quick Reference Guide model. Depends on term definitions being created.
-* In the case of Darwin Core extension(s), XML document(s) for the extension(s) following the GBIF Darwin Core Extension schema (http://rs.gbif.org/schema/extension.xsd). Depends on term definitions being created.
+* In the case of Darwin Core extension(s), XML document(s) for the extension(s) following the GBIF Darwin Core Extension schema (<http://rs.gbif.org/schema/extension.xsd>). Depends on term definitions being created.
 * In the case of Darwin Core extension(s), publication of at least seven distinct realworld case study data sets via Darwin Core Archives to cover the range of inventory types identified in Guralnick et al. (2018). Depends on the extension XML documents being created.
 * In the case of a new standard, documentation on how to encode the biodiversity inventories in documents of various relevant formats following the model of the Darwin Core Text, XML, and RDF Guides. Page 3 of 2
 
@@ -102,17 +102,17 @@ amendments submitted for review.
 
 Regardless of the outcome of the first task, the definitions provided in the original
 publication of the Humboldt Core (Guralnick et al. 2018,
-https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.02942) will be formalized using the Darwin
+<https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.02942>) will be formalized using the Darwin
 Core model. For this work we will also review the formal ontological definitions of inventory
 concepts that have been developed in the Biological Collections Ontology (BCO,
-http://www.obofoundry.org/ontology/bco.html).
+<http://www.obofoundry.org/ontology/bco.html>).
 
 The development of extensions will follow the process and expected deliverable of
 the TDWG Vocabulary Maintenance Specification (VMS,
-https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md). If a new
+<https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md>). If a new
 standard is indicated, development will follow the TDWG Standards Documentation
-Standard (SDS, https://github.com/tdwg/vocab/blob/master/sds/documentationspecification.md) and will be reviewed as required by the TDWG by-laws
-https://www.tdwg.org/about/process/ for the ratification of standards.
+Standard (SDS, <https://github.com/tdwg/vocab/blob/master/sds/documentationspecification.md>) and will be reviewed as required by the TDWG by-laws
+<https://www.tdwg.org/about/process/> for the ratification of standards.
 
 Throughout the process we will work closely with the Darwin Core Maintenance
 Interest Group, some members of whom are also members of this Task Group, and who
@@ -149,22 +149,22 @@ about processes underpinning inventory work (Guralnick et al. 2018).
 
 Humboldt Core resources:
 
-* Humboldt Core in Map of Life: https://mol.org/humboldtcore/
-* Humboldt Core current implementation: https://github.com/MapofLife/humboldtcore
-* Humboldt Core publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. https://doi.org/10.1111/ecog.02942
+* Humboldt Core in Map of Life: <https://mol.org/humboldtcore/>
+* Humboldt Core current implementation: <https://github.com/MapofLife/humboldtcore>
+* Humboldt Core publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. <https://doi.org/10.1111/ecog.02942>
 
 TDWG Documentation
 
-* TDWG Vocabulary Maintenance Specification (VMS): https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md
-* TDWG Standards Documentation Standard (SDS): https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md
+* TDWG Vocabulary Maintenance Specification (VMS): <https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md>
+* TDWG Standards Documentation Standard (SDS): <https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md>
 
 Other resources and references:
 
-* Biological Collections Ontology (BCO): http://www.obofoundry.org/ontology/bco.html
-* GBIF Darwin Core Extension schema: http://rs.gbif.org/schema/extension.xsd
-* Gries C, Gilbert E, Franz N. (2014) Symbiota – A virtual platform for creating voucher-based biodiversity information communities. Biodiversity Data Journal 2: e1114. https://doi.org/10.3897/BDJ.2.e1114
-* Meyer C, Kreft H, Guralnick R, et al. (2015) Global priorities for an effective information basis of biodiversity distributions. Nat Commun 6, 8221. https://doi.org/10.1038/ncomms9221
-* Proença V, Martin LJ, Pereira HM, et al. (2013) Global biodiversity monitoring: from data sources to essential biodiversity variables. Bio Conserv 213: 256-263. https://doi.org/10.1016/j.biocon.2016.07.014. Part B.
-* Robertson T, Döring M, Guralnick R, et al. (2014) The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8): e102623. https://doi.org/10.1371/journal.pone.0102623
-* Schmeller DS, Julliard R, Bellingham PJ, et al. (2015) Towards a global terrestrial species monitoring program. J Nat Conserv 25: 51-57. https://doi.org/10.1016/j.jnc.2015.03.003
-* Wieczorek J, Bloom D, Guralnick R, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. https://doi.org/10.1371/journal.pone.0029715
+* Biological Collections Ontology (BCO): <http://www.obofoundry.org/ontology/bco.html>
+* GBIF Darwin Core Extension schema: <http://rs.gbif.org/schema/extension.xsd>
+* Gries C, Gilbert E, Franz N. (2014) Symbiota – A virtual platform for creating voucher-based biodiversity information communities. Biodiversity Data Journal 2: e1114. <https://doi.org/10.3897/BDJ.2.e1114>
+* Meyer C, Kreft H, Guralnick R, et al. (2015) Global priorities for an effective information basis of biodiversity distributions. Nat Commun 6, 8221. <https://doi.org/10.1038/ncomms9221>
+* Proença V, Martin LJ, Pereira HM, et al. (2013) Global biodiversity monitoring: from data sources to essential biodiversity variables. Bio Conserv 213: 256-263. <https://doi.org/10.1016/j.biocon.2016.07.014>. Part B.
+* Robertson T, Döring M, Guralnick R, et al. (2014) The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8): e102623. <https://doi.org/10.1371/journal.pone.0102623>
+* Schmeller DS, Julliard R, Bellingham PJ, et al. (2015) Towards a global terrestrial species monitoring program. J Nat Conserv 25: 51-57. <https://doi.org/10.1016/j.jnc.2015.03.003>
+* Wieczorek J, Bloom D, Guralnick R, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. <https://doi.org/10.1371/journal.pone.0029715>
