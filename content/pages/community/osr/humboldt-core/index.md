@@ -131,7 +131,7 @@ repository from TDWG GitHub organization.
 Individuals having an interest in this work should contact the convener and are
 invited to watch and contribute via the Humboldt Core GitHub repository(<https://github.com/tdwg/hc>).
 
-Please join the mailing list to contact the group ()<http://lists.tdwg.org/mailman/listinfo/tdwg-humboldt>). 
+Please join the mailing list to contact the group (<http://lists.tdwg.org/mailman/listinfo/tdwg-humboldt>). 
 
 ## History/context
 
