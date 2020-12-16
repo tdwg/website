@@ -17,7 +17,7 @@ Yanina Sica <yanina.sica@yale.edu> - Map of Life, Yale University.
 Name | Institution | Email
 --- | --- | ---
 Walter Jetz | Map of Life, Yale University | <walter.jetz@yale.edu>
-Guralnick | Florida Museum of Natural History | <rguralnick@flmnh.ufl.edu>
+Rob Guralnick | Florida Museum of Natural History | <rguralnick@flmnh.ufl.edu>
 John Wieczorek | VertNet, Darwin Core Maintenance Interest Group | <gtuco.btuco@gmail.com>
 Paula Zermoglio | VertNet, Darwin Core Maintenance Interest Group | <pzermoglio@gmail.com>
 Kate Ingenloff | Map of Life | <kathryn.ingenloff@gmail.com>
@@ -26,7 +26,7 @@ Tim Robertson | GBIF | <trobertson@gbif.org>
 Dmitry Schiegel | GBIF | <dschigel@gbif.org>
 Erlend B. Nilsen | Living Norway Ecological Data Network & NINA | <erlend.nilsen@nina.no>
 Peter Brenton | CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group | <peter.brenton@csiro.au>
-Robert D Stevenson | | 
+Robert D Stevenson | University of Massachusetts-Boston | rdstevenson10@gmail.com
 
 
 ## Motivation
