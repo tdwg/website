@@ -10,7 +10,7 @@ github:
 
 ## Convenor  
 
-[Yanina Sica](yanina.sica@yale.edu) - Map of Life, Yale University. 
+Yanina Sica <yanina.sica@yale.edu> - Map of Life, Yale University. 
 
 ## Core members  
 
@@ -129,7 +129,9 @@ repository from TDWG GitHub organization.
 ## Becoming involved
 
 Individuals having an interest in this work should contact the convener and are
-invited to watch and contribute via the Humboldt Core GitHub repository.
+invited to watch and contribute via the Humboldt Core GitHub repository(<https://github.com/tdwg/hc>).
+
+Please join the mailing list to contact the group (<http://lists.tdwg.org/mailman/listinfo/tdwg-humboldt>). 
 
 ## History/context
 
