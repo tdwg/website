@@ -10,7 +10,7 @@ github:
 
 ## Convenor  
 
-[Yanina Sica](yanina.sica@yale.edu) - Map of Life, Yale University. 
+Yanina Sica <yanina.sica@yale.edu> - Map of Life, Yale University. 
 
 ## Core members  
 
