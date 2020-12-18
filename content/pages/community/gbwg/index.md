@@ -13,7 +13,7 @@ github:
 ## Conveners
 
 * [Gabi Dröge](mailto:G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
-* [Ramona Walls](mailto:rwalls@email.arizona.edu), Bio5 Institute University of Arizona
+* [Katharine Barker](mailto:BarkerK@si.edu), Smithsonian Institution, National Museum of Natural History
 * [John Deck](mailto:jdeck88@gmail.com), University of California at Berkeley
 
 ## Core members
