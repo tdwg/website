@@ -26,9 +26,9 @@ Thomas Stjernegaard Jeppesen | GBIF
 Ward Appeltans | OBIS 
 Pieter Provoost | OBIS
 Saara Suominen | OBIS
-Anton Van de Putte | Polar ‘Omics Links to Antarctic, Arctic and Alpine Research. Antarctic Biodiversity Portal
-Yi Ming Gan | Polar ‘Omics Links to Antarctic, Arctic and Alpine Research. Antarctic Biodiversity Portal
-Maxime Sweetlove | Polar ‘Omics Links to Antarctic, Arctic and Alpine Research. Antarctic Biodiversity Portal
+Anton Van de Putte | 
+Yi Ming Gan | 
+Maxime Sweetlove | 
 
 ## Motivation
 
@@ -43,7 +43,7 @@ A key motivation for this group is to ensure the “digital health” efforts le
 
 ## Goals outputs and outcomes
 
-Phase 1
+### Phase 1
 
 - Building on previous work, create and complete a MIxS-driven extension of DwC, synchronised with GSC MIxS release cycles and mapped through IRIs
     - Explore both item-level IRI binding and extensible mapping through SSSOM-like approaches
@@ -52,12 +52,13 @@ Phase 1
 - Explore sustainable technology to preserve extensions and alternative mappings in a systematic way [12]
 - Draft a Memorandum of Understanding (MoU) between TDWG and the GSC on how this mapping shall be maintained and developed to protect and deepen interoperability
 
-Phase 2
+### Phase 2
 
 - For selected fields, propose controlled vocabularies in DwC to promote improved consistency and DwC-MIxS alignment
 - For selected fields, propose term lists from a curated list of ontologies for semantic control
 
-Phase 3
+### Phase 3
+
 - Socialise the extension and call for community feedback
 - Test technical interoperability in a demonstration exercise (e.g. simulating an INSDC database using MIxS interoperating with an OBIS or GBIF simulation)
 
@@ -87,13 +88,13 @@ Interested parties are invited to watch and contribute to the GitHub repository 
 
 ## Resources
 
-1. 	Darwin Core. [cited 23 Nov 2020]. Available: https://dwc.tdwg.org
-2. 	MIxS. [cited 23 Nov 2020]. Available: https://gensc.org/mixs/
+1. 	Darwin Core. [cited 23 Nov 2020]. Available: <https://dwc.tdwg.org>
+2. 	MIxS. [cited 23 Nov 2020]. Available: <https://gensc.org/mixs/>
 3. 	Yilmaz P, Kottmann R, Field D, Knight R, Cole JR, Amaral-Zettler L, et al. Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nat Biotechnol. 2011;29: 415–420.
-4. 	Genomic Standards Consortium. [cited 23 Nov 2020]. Available: https://gensc.org
-5. 	International Nucleotide Sequence Database Collaboration. [cited 23 Nov 2020]. Available: http://www.insdc.org
-6. 	Ocean Biodiversity Information System. [cited 23 Nov 2020]. Available: https://obis.org
-7. 	GBIF. [cited 23 Nov 2020]. Available: https://www.gbif.org/
+4. 	Genomic Standards Consortium. [cited 23 Nov 2020]. Available: <https://gensc.org>
+5. 	International Nucleotide Sequence Database Collaboration. [cited 23 Nov 2020]. Available: <http://www.insdc.org>
+6. 	Ocean Biodiversity Information System. [cited 23 Nov 2020]. Available: <https://obis.org>
+7. 	GBIF. [cited 23 Nov 2020]. Available: <https://www.gbif.org/>
 8. 	[No title]. [cited 23 Nov 2020]. Available: <https://www.google.com/url?q=http://rs.gbif.org/sandbox/extension/mixs_sample.xml&sa=D&ust=1606134852828000&usg=AOvVaw2Uc21jolJo9dFujBI1u3D4>
 9. 	Tuama ÉÓ, Deck J, Dröge G, Döring M, Field D, Kottmann R, et al. Meeting Report: Hackathon-Workshop on Darwin Core and MIxS Standards Alignment (February 2012). Stand Genomic Sci. 2012;7: 166.
 10. <http://rs.gbif.org/sandbox/extension/dna_derived_data.xml>
