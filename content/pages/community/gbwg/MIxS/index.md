@@ -43,7 +43,7 @@ A key motivation for this group is to ensure the “digital health” efforts le
 
 ## Goals outputs and outcomes
 
-### Phase 1
+#### Phase 1
 
 - Building on previous work, create and complete a MIxS-driven extension of DwC, synchronised with GSC MIxS release cycles and mapped through IRIs
     - Explore both item-level IRI binding and extensible mapping through SSSOM-like approaches
@@ -52,12 +52,12 @@ A key motivation for this group is to ensure the “digital health” efforts le
 - Explore sustainable technology to preserve extensions and alternative mappings in a systematic way [12]
 - Draft a Memorandum of Understanding (MoU) between TDWG and the GSC on how this mapping shall be maintained and developed to protect and deepen interoperability
 
-### Phase 2
+#### Phase 2
 
 - For selected fields, propose controlled vocabularies in DwC to promote improved consistency and DwC-MIxS alignment
 - For selected fields, propose term lists from a curated list of ontologies for semantic control
 
-### Phase 3
+#### Phase 3
 
 - Socialise the extension and call for community feedback
 - Test technical interoperability in a demonstration exercise (e.g. simulating an INSDC database using MIxS interoperating with an OBIS or GBIF simulation)
