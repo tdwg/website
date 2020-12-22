@@ -10,7 +10,7 @@ github:
 
 ## Convenors
 
-Pier Luigi Buttigieg, Raïssa Meyer
+[Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088), [Raïssa Meyer](https://orcid.org/0000-0002-2996-719X)
 
 ## Core members  
 
