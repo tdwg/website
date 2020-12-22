@@ -14,21 +14,23 @@ Pier Luigi Buttigieg, Raïssa Meyer
 
 ## Core members  
 
+In alphabetical order by first name:
+
 Name | Institution 
 --- | --- 
-Chris Mungall |
+[Anton Van de Putte](https://orcid.org/0000-0003-1336-5554) |
+[Chris Mungall](https://orcid.org/0000-0002-6601-2165) |
 John Wieczorek |
-Pier Luigi Buttigieg |
-Ramona Walls |
-Raïssa Meyer |
-Tim Robertson | GBIF
-Thomas Stjernegaard Jeppesen | GBIF
-Ward Appeltans | OBIS 
-Pieter Provoost | OBIS
-Saara Suominen | OBIS
-Anton Van de Putte | 
-Yi Ming Gan | 
-Maxime Sweetlove | 
+[Maxime Sweetlove](https://orcid.org/0000-0003-3770-3714) |
+[Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088) | 
+[Pieter Provoost](https://orcid.org/0000-0002-4236-0384) | OBIS
+[Ramona Walls](https://orcid.org/0000-0001-8815-0078) |
+[Raïssa Meyer](https://orcid.org/0000-0002-2996-719X) |
+[Saara Suominen](https://orcid.org/0000-0001-9401-8460) | OBIS
+[Thomas Stjernegaard Jeppesen](https://orcid.org/0000-0003-1691-239X) | 
+[Tim Robertson](https://orcid.org/0000-0001-6215-3617) | GBIF
+Ward Appeltans | OBIS
+[Yi Ming Gan](https://orcid.org/0000-0002-3237-4547) | 
 
 ## Motivation
 
@@ -49,7 +51,7 @@ A key motivation for this group is to ensure the “digital health” efforts le
     - Explore both item-level IRI binding and extensible mapping through SSSOM-like approaches
 - Qualify all mappings between MIxS fields and their counterparts in DwC
     - Qualifications will explain if discrepancies in, e.g., syntax are to be expected and suggest how these can be resolved
-- Explore sustainable technology to preserve extensions and alternative mappings in a systematic way [12]
+- Explore sustainable technology to preserve extensions and alternative mappings in a systematic way [10]
 - Draft a Memorandum of Understanding (MoU) between TDWG and the GSC on how this mapping shall be maintained and developed to protect and deepen interoperability
 
 #### Phase 2
@@ -72,7 +74,7 @@ A key motivation for this group is to ensure the “digital health” efforts le
 
 ## Becoming involved
 
-Interested parties are invited to watch and contribute to the GitHub repository (will be set up when the Task Group is endorsed [13]).
+Interested parties are invited to watch and contribute to the GitHub repository (will be set up when the Task Group is endorsed [11]).
 
 ## History/context
 
@@ -88,17 +90,16 @@ Interested parties are invited to watch and contribute to the GitHub repository 
 
 ## Resources
 
-1. 	Darwin Core. [cited 23 Nov 2020]. Available: <https://dwc.tdwg.org>
-2. 	MIxS. [cited 23 Nov 2020]. Available: <https://gensc.org/mixs/>
-3. 	Yilmaz P, Kottmann R, Field D, Knight R, Cole JR, Amaral-Zettler L, et al. Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nat Biotechnol. 2011;29: 415–420.
-4. 	Genomic Standards Consortium. [cited 23 Nov 2020]. Available: <https://gensc.org>
-5. 	International Nucleotide Sequence Database Collaboration. [cited 23 Nov 2020]. Available: <http://www.insdc.org>
-6. 	Ocean Biodiversity Information System. [cited 23 Nov 2020]. Available: <https://obis.org>
-7. 	GBIF. [cited 23 Nov 2020]. Available: <https://www.gbif.org/>
-8. 	[No title]. [cited 23 Nov 2020]. Available: <https://www.google.com/url?q=http://rs.gbif.org/sandbox/extension/mixs_sample.xml&sa=D&ust=1606134852828000&usg=AOvVaw2Uc21jolJo9dFujBI1u3D4>
-9. 	Tuama ÉÓ, Deck J, Dröge G, Döring M, Field D, Kottmann R, et al. Meeting Report: Hackathon-Workshop on Darwin Core and MIxS Standards Alignment (February 2012). Stand Genomic Sci. 2012;7: 166.
-10. <http://rs.gbif.org/sandbox/extension/dna_derived_data.xml>
-11. Andersson AF, Bissett A, Finstad AG, Fossøy F, Grosjean M, Hope M, et al. Publishing DNA-derived data through biodiversity data platforms [Community review draft]. [cited 23 Nov 2020]. Available: <https://doi.org/10.35035/doc-vf1a-nr22>
-12. microbiomedata. microbiomedata/metadata_converter. [cited 23 Nov 2020]. Available: <https://github.com/microbiomedata/metadata_converter>
-13. GitHub repository: To be decided shortly
+1.  Darwin Core. <https://dwc.tdwg.org>
+2.  MIxS <https://gensc.org/mixs/>
+3.  Yilmaz P, Kottmann R, Field D, Knight R, Cole JR, Amaral-Zettler L, et al. Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nat Biotechnol. 2011 May;29(5):415-20. doi: <https://doi.org/10.1038/nbt.1823>. PMID: 21552244; PMCID: PMC3367316.
+4. 	Genomic Standards Consortium <https://gensc.org> 
+5. 	International Nucleotide Sequence Database Collaboration <https://insdc.org>
+6. 	Ocean Biodiversity Information System <https://obis.org>
+7. 	GBIF <https://www.gbif.org/> 
+8. 	MIxS sample extension <https://rs.gbif.org/sandbox/extension/>
+9. 	Tuama EÓ, Deck J, Dröge G, Döring M, Field D, Kottmann R, Ma J, Mori H, Morrison N, Sterk P, Sugawara H, Wieczorek J, Wu L, Yilmaz P. Meeting Report: Hackathon-Workshop on Darwin Core and MIxS Standards Alignment (February 2012). Stand Genomic Sci. 2012 Oct 10;7(1):166-70. doi: <https://doi.org/10.4056/sigs.3166513>.  Epub 2012 Sep 28. PMID: 23451295; PMCID: PMC3570805.
+10. <https://github.com/microbiomedata/metadata_converter> 
+11. GitHub repository: <https://github.com/tdwg/gbwg>
+
 
