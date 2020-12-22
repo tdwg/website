@@ -16,21 +16,21 @@ github:
 
 In alphabetical order by first name:
 
-Name | Institution 
---- | --- 
-[Anton Van de Putte](https://orcid.org/0000-0003-1336-5554) |
-[Chris Mungall](https://orcid.org/0000-0002-6601-2165) |
-John Wieczorek |
-[Maxime Sweetlove](https://orcid.org/0000-0003-3770-3714) |
-[Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088) | 
-[Pieter Provoost](https://orcid.org/0000-0002-4236-0384) | OBIS
-[Ramona Walls](https://orcid.org/0000-0001-8815-0078) |
-[Raïssa Meyer](https://orcid.org/0000-0002-2996-719X) |
-[Saara Suominen](https://orcid.org/0000-0001-9401-8460) | OBIS
-[Thomas Stjernegaard Jeppesen](https://orcid.org/0000-0003-1691-239X) | 
-[Tim Robertson](https://orcid.org/0000-0001-6215-3617) | GBIF
-Ward Appeltans | OBIS
-[Yi Ming Gan](https://orcid.org/0000-0002-3237-4547) | 
+| Name |
+| --- |  
+| [Anton Van de Putte](https://orcid.org/0000-0003-1336-5554) |
+| [Chris Mungall](https://orcid.org/0000-0002-6601-2165) |
+| John Wieczorek |
+| [Maxime Sweetlove](https://orcid.org/0000-0003-3770-3714) |
+| [Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088) |
+| [Pieter Provoost](https://orcid.org/0000-0002-4236-0384) |
+| [Ramona Walls](https://orcid.org/0000-0001-8815-0078) |
+| [Raïssa Meyer](https://orcid.org/0000-0002-2996-719X) |
+| [Saara Suominen](https://orcid.org/0000-0001-9401-8460) |
+| [Thomas Stjernegaard Jeppesen](https://orcid.org/0000-0003-1691-239X) |
+| [Tim Robertson](https://orcid.org/0000-0001-6215-3617) |
+| [Ward Appeltans](https://orcid.org/0000-0002-3237-4547) |
+| Yi Ming Gan | 
 
 ## Motivation
 
