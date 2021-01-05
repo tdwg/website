@@ -23,8 +23,8 @@ Term of office shown as span of calendar years, inclusive.
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Chair | [Deb Paul](./backgrounds/#chair_1) [✉️](mailto:dlpssf@gmail.com) | Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA | 2021-2022
-Deputy Chair | [Elycia (Ely) Wallis](./backgrounds/#deputy%20chair_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2021-2022
-Secretary | [To Be Appointed] [✉️](mailto:secretary@tdwg.org) |  | 2021-2022
+Deputy Chair | [Elycia (Ely) Wallis](./backgrounds/#deputy%20chair_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Melbourne, Australia | 2021-2022
+Secretary | Visotheary Ung [✉️](mailto:secretary@tdwg.org) | Muséum National d'Histoire Naturelle, Paris, France | 2021-2022
 Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
 
 ### Subcommittee chairs
@@ -41,9 +41,9 @@ Functional subcommittee | Name | Affiliation | Term of office
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Africa | [To Be Determined by Election]() [✉️](mailto:) |  | 2021-2022
-Asia | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto:) |  | 2021-2022
-Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2021-2022
+Africa | Lawrence Monda [✉️](mailto:lmonda@museums.or.ke) | National Museums of Kenya, Nairobi, Kenya | 2021-2022
+Asia | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto:) | Database Center for Life Science, Mishima, Japan | 2021-2022
+Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Leiden, Netherlands | 2021-2022
 Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
 North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2021-2022
 Oceania | [To Be Appointed](./backgrounds/#oceania%20representative_1) [✉️] | | 2020-2021
