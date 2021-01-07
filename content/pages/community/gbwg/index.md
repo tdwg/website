@@ -12,7 +12,7 @@ github:
 
 ## Conveners
 
-* [Gabi Dröge](mailto:G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
+* [Gabi Droege](mailto:G.Droege@bgbm.org), Botanical Garden and Botanical Museum, Berlin
 * [Katharine Barker](mailto:BarkerK@si.edu), Smithsonian Institution, National Museum of Natural History
 * [John Deck](mailto:jdeck88@gmail.com), University of California at Berkeley
 
@@ -20,11 +20,17 @@ github:
 
 * Katie Barker
 * John Deck
-* Gabi Dröge
+* Gabi Droege
 * Chris Hunter
+* Chris Meyer
 * Ramona Walls
 * Thomas Stjernegaard Jeppesen
 * Dmitry Schigel
+* Mari Pent
+* Lynn Schriml
+* Maxime Sweetlove
+* Raïssa Meyer
+* Michael Hope
 
 ## Motivation and scope
 
