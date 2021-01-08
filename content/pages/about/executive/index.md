@@ -31,7 +31,7 @@ Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasure
 
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](../committees/tag/)<br />Co-Chairs | Nicky Nicolson [✉️](mailto:n.nicolson@kew.org) <br />James Macklin [✉️](mailto:james.macklin@gmail.com)| Royal Botanic Gardens, Kew, London, United Kingdom <br />Agriculture Agri-Food Canada, Ottawa, Canada | 2020-2021
+[Technical Architecture Group](../committees/tag/)<br />Co-Chairs | Nicky Nicolson [✉️](mailto:n.nicolson@kew.org) <br />James Macklin [✉️](mailto:james.macklin@gmail.com)| Royal Botanic Gardens, Kew, London, United Kingdom <br />&nbsp;<br />Agriculture Agri-Food Canada, Ottawa, Canada | 2020-2021
 [Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2021-2022
 [Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2020-2021
 [Outreach and Communications](../committees/outreach/) | [Mareike Petersen](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:Mareike.Petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2021-2022
