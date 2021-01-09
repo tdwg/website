@@ -74,11 +74,16 @@ As Treasurer, I envision my role these next 2 years supporting an active standar
 
 As a personal conviction, I’ll be always looking to promote the participation and involvement of colleagues from Latin American countries and low-income economies and the promotion of multi-language approaches.
 
+
 # Subcommittee chairs
 
 ## Technical Architecture Group
 
-To be appointed
+### Nicky Nicolson
+_TAG co-chair_
+
+### James Macklin
+_TAG co-chair_
 
 ## Infrastructure 
 
@@ -164,6 +169,8 @@ A long-term vision is to reinforce the visibility of TDWG across the globe, esta
 
 ### Patricia Mergen
 
+[ORCID](https://orcid.org/0000-0003-2848-8231)
+
 __Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium__
 
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in"  or "visit"  or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues.  Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
@@ -176,6 +183,8 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 ## Africa representative 
 
 ### Lawrence Monda
+
+[ORCID](https://orcid.org/0000-0003-0299-0418)
 
 __National Museums of Kenya, Kenya__
 
@@ -201,7 +210,9 @@ in the African region within TDWG.
 
 ## Asia representative
 
-### Takeru Nakazato nakazato@dbcls.rois.ac.jp
+### [Takeru Nakazato](mailto:nakazato@dbcls.rois.ac.jp)
+
+[ORCID](https://orcid.org/0000-0002-0706-2867)
 
 __Database Center for Life Science, Mishima, Japan__
 
@@ -274,6 +285,8 @@ It is my vision that TDWG and the development and support of TDWG standards can 
 
 ### Paula Zermoglio
 
+[ORCID](https://orcid.org/0000-0002-6056-5084)
+
 __VertNet, Bariloche, Argentina__
 
 __Background:__
@@ -292,6 +305,8 @@ More broadly, as member of the Executive, I will work towards a better integrati
 ## North America representative
 
 ### Holly Little
+
+[ORCID](https://orcid.org/0000-0001-7909-4166)
 
 __Dept of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington DC, USA__
 
