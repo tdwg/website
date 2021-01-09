@@ -103,7 +103,7 @@ _TAG co-chair_
 
 ### Tim Robertson 
 
-[ORCID])https://orcid.org/0000-0001-6215-3617)
+[ORCID](https://orcid.org/0000-0001-6215-3617)
 
 __Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark__
 
