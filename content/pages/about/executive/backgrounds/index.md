@@ -226,7 +226,7 @@ in the African region within TDWG.
 
 ## Asia representative
 
-### [Takeru Nakazato](mailto:nakazato@dbcls.rois.ac.jp)
+### Takeru Nakazato
 
 [ORCID](https://orcid.org/0000-0002-0706-2867)
 
