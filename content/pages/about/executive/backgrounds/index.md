@@ -53,12 +53,18 @@ The advantages of technology are many, but one that we haven’t yet fully overc
 
 ## Secretary
 
-To be appointed
+### Visotheary Ung
+
+[ORCID](https://orcid.org/0000-0002-4049-0820)
+
+__Muséum National d'Histoire Naturelle, Paris, France__
 
 
 ## Treasurer 
 
 ### William Ulate Rodriguez
+
+[ORCID](https://orcid.org/0000-0003-2863-2491)
 
 __Missouri Botanical Garden, St. Louis, MO, USA__
 
