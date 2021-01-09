@@ -175,7 +175,28 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 ## Africa representative 
 
-To be determined by election (two nominations received)
+### Lawrence Monda
+
+__National Museums of Kenya, Kenya__
+
+__Background__
+
+Joining the museum community has since cultivated a love for biodiversity and cultural
+Heritage informatics. At the National Museums of Kenya, fusing Information technology
+with science has been a great challenging experience where I work as the chief information
+officer. I am involved in various digitization initiatives within the institution and advocate for
+data sharing, attribution while also building capacity on various areas of biodiversity
+informatics with emphasis on data quality assurance. I am currently the technical advisor for
+Biodiversity Heritage Library Africa, promoting digitization of biodiversity heritage literature
+in the region, and the Node manager for GBIF Kenya
+
+__Vision Statement__
+
+TDWG plays a vital role in the development and maintenance of standards.
+As a TDWG member, through my engagement as Node Manager and a technical advisor for
+BHL Africa, I will focus on building capacity on greater understanding and use of the
+standards, its implementation and support the interests of partners and collaborators
+in the African region within TDWG.
 
 
 ## Asia representative
