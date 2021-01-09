@@ -37,6 +37,8 @@ As a TDWG member myself, I most want to support the development of your ideas, a
 
 ### Elycia Wallis
 
+[ORCID](https://orcid.org/0000-0001-6017-0894)
+
 __Atlas of Living Australia, CSIRO, Melbourne, Australia__
 
 __Background:__
@@ -96,6 +98,8 @@ _TAG co-chair_
 ## Infrastructure 
 
 ### Tim Robertson 
+
+[ORCID])https://orcid.org/0000-0001-6215-3617)
 
 __Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark__
 
