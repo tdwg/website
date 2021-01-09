@@ -92,8 +92,12 @@ As a personal conviction, I’ll be always looking to promote the participation 
 ### Nicky Nicolson
 _TAG co-chair_
 
+[ORCID](https://orcid.org/0000-0003-3700-4884)
+
 ### James Macklin
 _TAG co-chair_
+
+[ORCID](https://orcid.org/0000-0001-9508-1349)
 
 ## Infrastructure 
 
