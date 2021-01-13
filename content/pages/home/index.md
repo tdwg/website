@@ -13,7 +13,7 @@ alert_title: Biodiversity Next Wins Best New Conference Award!
 alert_text: 2019's Biodiversity Next was celebrated as Best New Conference or Event at the International & European Association Awards 2020.
 alert_button: About Award
 alert_link: https://www.dissco.eu/biodiversity-next-wins-new-conference-award-2020/
-alert_image: https://static.tdwg.org/conferences/2019/biodiversity_next_wide.jpg
+alert_image: https://static.tdwg.org/conferences/2019/biodiversity_next_award_wide.jpg
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
