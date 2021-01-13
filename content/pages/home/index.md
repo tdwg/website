@@ -9,11 +9,11 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG 2020 goes virtual. Registration now open!
-alert_text: TDWG 2020 will be held online. The schedule for the main conference sessions during the week of Oct 19-23 has been posted.
-alert_button: About TDWG 2020
-alert_link: conferences/2020/#two%20weeks%20of%20tdwg%202020
-alert_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
+alert_title: Biodiversity Next Wins Best New Conference Award!
+alert_text: 2019's Biodiversity Next was celebrated as Best New Conference or Event at the International & European Association Awards 2020.
+alert_button: About Award
+alert_link: https://www.dissco.eu/biodiversity-next-wins-new-conference-award-2020/
+alert_image: https://static.tdwg.org/conferences/2019/biodiversity_next_wide.jpg
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
