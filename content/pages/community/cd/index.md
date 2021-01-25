@@ -14,11 +14,15 @@ TDWG Interest Group
 
 ## Conveners
 
-[Deborah Paul](mailto:dpaul@fsu.edu), Florida State University, Tallahassee FL
+[Sharon Grant](mailto:sgrant@fieldmuseum.org), Field Museum, Chicago IL, USA
 
-[Matt Woodburn](mailto:m.woodburn@nhm.ac.uk), Natural History Museum, London
+[Janeen Jones](mailto:jjones@fieldmuseum.org), Field Museum, Chicago IL, USA
 
-(Past Co-convener, Alex Thompson)
+[Kate Webbink](mailto:kwebbink@fieldmuseum.org), Field Museum, Chicago IL, USA
+
+[Matt Woodburn](mailto:m.woodburn@nhm.ac.uk), Natural History Museum, London, UK
+
+(Past co-conveners: Deborah Paul, Alex Thompson)
 
 ## Current people expressing interest to work on CD
 
