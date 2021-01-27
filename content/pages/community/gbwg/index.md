@@ -1,9 +1,9 @@
 ---
 title: Genomic Biodiversity
 summary: GBWG operates as in interest group under both TDWG and the Genomics Standards Consortium (GSC) to foster discussion between the biodiversity and genomics communities
-cover_image: https://images.unsplash.com/photo-1531902706636-a9966c06605a
+cover_image: https://images.unsplash.com/photo-1605298721656-8a72a357492d
 cover_image_by: rawpixel
-cover_image_ref: https://unsplash.com/photos/bBgqqWZAVT4
+cover_image_ref: https://unsplash.com/photos/zY_ww-aVYSU
 tags: interest group
 github:
 ---
@@ -31,6 +31,9 @@ github:
 * Maxime Sweetlove
 * Raïssa Meyer
 * Michael Hope
+* Saara Suominen
+* Pieter Provoost
+* Ward Appeltans
 
 ## Motivation and scope
 
