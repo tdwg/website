@@ -37,3 +37,7 @@ The Functional Subcommittee shall convene by teleconference (e.g. over Skype) at
 ### Agenda, minutes, and reports
 
 The Functional Subcommittee chair, in collaboration with the deputy, shall be responsible for establishing the agendas for meetings. An open issue tracking system will be used (e.g. GitHub issues) to ensure transparency of work and for assignment of tasks.
+
+## Contact Us
+If you are interested in hosting a Meeting or have any questions, please [send an email to the time and place subcommittee](mailto:tardis@tdwg.org)
+
