@@ -1,6 +1,6 @@
 ---
 title: Vocabulary Maintenance Standard (VMS)
-summary: The TDWG Vocabulary Maintenance Standard consists of a single document: the [Vocabulary Maintenance Specification](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md). That document describes the processes used to modify TDWG vocabularies and their associated documents.
+summary: "The TDWG Vocabulary Maintenance Standard consists of a single document: the [Vocabulary Maintenance Specification](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md). That document describes the processes used to modify TDWG vocabularies and their associated documents."
 cover_image: https://images.unsplash.com/photo-1502911679107-2b54f5c0292c
 cover_image_by: Igor Ovsyannykov
 cover_image_ref: https://unsplash.com/photos/VkFhaQHVcE4
