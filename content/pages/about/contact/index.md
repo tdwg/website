@@ -11,7 +11,7 @@ page_order: 7
 For official business with the TDWG Executive Committee, such as reports and applications, please contact the TDWG Secretary. For questions and comments concerning TDWG membership and our website, please contact Stan Blum at the TDWG Secretariat (see below, email preferred).
 
 TDWG Secretary
-: [Quentin Groom](mailto:secretary@tdwg.org), Brussels, Belgium
+: [Visotheary Ung](mailto:secretary@tdwg.org), Paris, France
 
 TDWG Coordinator
 : [Stan Blum](mailto:secretariat@tdwg.org), San Francisco, CA, USA
