@@ -1,9 +1,9 @@
 ---
 title: Geographic Schemes
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1580380853761-76b20197ef99
+cover_image_by: USGS
+cover_image_ref: https://unsplash.com/photos/rXj2M7xtdB8
 tags: interest group
 github: https://github.com/tdwg/geoschemes
 ---
