@@ -1,5 +1,5 @@
 ---
-title: Geographic Schemes
+title: Geographical Schemes
 summary: 
 cover_image: https://images.unsplash.com/photo-1580380853761-76b20197ef99
 cover_image_by: USGS
