@@ -19,8 +19,10 @@ In alphabetical order by first name:
 | Name |
 | --- |  
 | [Anton Van de Putte](https://orcid.org/0000-0003-1336-5554) |
+| [Bill Duncan](https://orcid.org/0000-0001-9625-1899) |
 | [Chris Mungall](https://orcid.org/0000-0002-6601-2165) |
 | John Wieczorek |
+| [Mariya Dimitrova](https://orcid.org/0000-0002-8083-6048) |
 | [Maxime Sweetlove](https://orcid.org/0000-0003-3770-3714) |
 | [Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088) |
 | [Pieter Provoost](https://orcid.org/0000-0002-4236-0384) |
@@ -30,7 +32,7 @@ In alphabetical order by first name:
 | [Thomas Stjernegaard Jeppesen](https://orcid.org/0000-0003-1691-239X) |
 | [Tim Robertson](https://orcid.org/0000-0001-6215-3617) |
 | [Ward Appeltans](https://orcid.org/0000-0002-3237-4547) |
-| Yi Ming Gan | 
+| [Yi Ming Gan](https://orcid.org/0000-0001-7087-2646) | 
 
 ## Motivation
 
