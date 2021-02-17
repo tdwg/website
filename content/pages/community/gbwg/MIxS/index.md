@@ -21,7 +21,7 @@ In alphabetical order by first name:
 | [Anton Van de Putte](https://orcid.org/0000-0003-1336-5554) |
 | [Bill Duncan](https://orcid.org/0000-0001-9625-1899) |
 | [Chris Mungall](https://orcid.org/0000-0002-6601-2165) |
-| John Wieczorek |
+| [John Wieczorek](https://orcid.org/0000-0003-1144-0290) |
 | [Mariya Dimitrova](https://orcid.org/0000-0002-8083-6048) |
 | [Maxime Sweetlove](https://orcid.org/0000-0003-3770-3714) |
 | [Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088) |
