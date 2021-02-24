@@ -9,11 +9,11 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: Biodiversity Next Wins Best New Conference Award!
-alert_text: 2019's Biodiversity Next was celebrated as Best New Conference or Event at the International & European Association Awards 2020.
-alert_button: About Award
-alert_link: https://www.dissco.eu/biodiversity-next-wins-new-conference-award-2020/
-alert_image: https://static.tdwg.org/conferences/2019/biodiversity_next_award_wide.jpg
+alert_title: TDWG starts a webinar series!
+alert_text: Join our Webinar Series on topics related to Biodiversity Information. Registration is required but Free!
+alert_button: Webinar announcement
+alert_link: https://www.tdwg.org/news/2021/webinar-bioschemas-marking-up-biodiversity-websites-for-discovery-and-web-scale-integration/
+alert_image: https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
