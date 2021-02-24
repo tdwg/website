@@ -1,5 +1,5 @@
 ---
-title: "Webinar - Bioschemas: marking up biodiversity websites to improve data discovery and web-scale integration"
+title: "Webinar - Bioschemas: marking up biodiversity websites for discovery and web-scale integration"
 date: 2021-02-24
 cover_image: 
 cover_image_by: 
