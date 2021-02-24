@@ -1,5 +1,5 @@
 ---
-title: "Webinar - Bioschemas: marking up biodiversity websites for discovery and web-scale integration"
+title: "Webinar - Bioschemas: marking up biodiversity websites to improve data discovery and web-scale integration"
 date: 2021-02-24
 cover_image: 
 cover_image_by: 
@@ -8,8 +8,9 @@ tags: Webinar
 ---
 ## Save the Date!  March 10, 2021 16:00 UTC
  
-### Registration is required, but FREE.  [Register here.](https://zoom.us/meeting/register/tJ0pfuugqj0qEtORUXgGHAJAM8eg6w6cVURA) &nbsp;<br />
+#### Registration is required, but FREE.  [Register here.](https://zoom.us/meeting/register/tJ0pfuugqj0qEtORUXgGHAJAM8eg6w6cVURA) &nbsp; <br />
 
+<img src="https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png" alt="biodschemas for discovery and integration" width="" height="" />
  
 ## Bioschemas:  marking up biodiversity websites to improve data discovery and web-scale integration
  
