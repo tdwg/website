@@ -8,7 +8,8 @@ tags: Webinar
 ---
 ## Save the Date!  March 10, 2021 16:00 UTC
  
-Registration is required, but FREE.  [Register here.](https://zoom.us/meeting/register/tJ0pfuugqj0qEtORUXgGHAJAM8eg6w6cVURA)
+### Registration is required, but FREE.  [Register here.](https://zoom.us/meeting/register/tJ0pfuugqj0qEtORUXgGHAJAM8eg6w6cVURA) &nbsp;<br />
+
  
 ## Bioschemas:  marking up biodiversity websites to improve data discovery and web-scale integration
  
