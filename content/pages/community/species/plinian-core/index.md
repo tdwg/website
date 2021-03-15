@@ -94,5 +94,5 @@ If you are interested in participating in the group, please contact the convener
 * Colombian Biodiversity [Catalog](https://catalogo.biodiversidad.co/)
     * Documentation for [exotic](http://repository.humboldt.org.co/handle/20.500.11761/9691) and [threatened](http://repository.humboldt.org.co/handle/20.500.11761/9690) species
     * [Documentation](http://repository.humboldt.org.co/handle/20.500.11761/9689) about species pages editor
-* Enciclovida, méxican [species catalog](https://enciclovida.mx/)
+* Enciclovida, Mexican [species catalog](https://enciclovida.mx/)
 
