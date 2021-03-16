@@ -10,8 +10,8 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: TDWG starts a webinar series!
-alert_text: Join our Webinar Series on topics related to Biodiversity Information. Registration is required but Free!
-alert_button: Webinar announcement
+alert_text: Our first Webinar is past, but you can...
+alert_button: See it on YouTube
 alert_link: https://www.tdwg.org/news/2021/webinar-bioschemas-marking-up-biodiversity-websites-for-discovery-and-web-scale-integration/
 alert_image: https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png
 newsletter_title: Keep up to date with TDWG
