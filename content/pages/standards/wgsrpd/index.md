@@ -9,7 +9,7 @@ github: https://github.com/tdwg/wgsrpd
 ---
 
 <div class="alert alert-info">
-    TDWG is <a href="https://mailchi.mp/81fd784a1f79/curators-needed-tdwg-world-geographical-scheme-for-recording-plant-distributions?e=99640a1a77">looking for people</a> to curate the World Geographical Scheme for Recording Plant Distributions (WGSRPD). 
+    This standard is now currated by the <a href="https://www.tdwg.org/community/geoschemes/">Geographical Schemes Interest Group</a> . 
 </div>
 
 ## Header section
