@@ -6,13 +6,13 @@ cover_image_by:
 cover_image_ref: 
 tags: Webinar
 ---
-## This webinar is past (presented March 10, 2021), but<br />can be viewed on [TDWG's YouTube Channel](https://youtu.be/ueg5Fi6kgGA) &nbsp; <br />
-
-<img src="https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png" alt="biodschemas for discovery and integration" width="" height="" />
- 
 ## Bioschemas:  marking up biodiversity websites to improve data discovery and web-scale integration
  
+<img src="https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png" alt="biodschemas for discovery and integration" width="" height="" />
+ 
 ### A Webinar by Franck Michel, Université Côte d’Azur, CNRS, Inria
+
+### Presented March 10, 2021.  See it now on [TDWG's YouTube Channel](https://youtu.be/ueg5Fi6kgGA) &nbsp; <br />
 
 ### Abstract
 
