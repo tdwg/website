@@ -6,9 +6,9 @@ cover_image_by:
 cover_image_ref: 
 tags: Webinar
 ---
-## Save the Date!  March 10, 2021 16:00 UTC
+## This webinar was presented March 10, 2021 16:00 UTC
  
-#### Registration is required, but FREE.  [Register here.](https://zoom.us/meeting/register/tJ0pfuugqj0qEtORUXgGHAJAM8eg6w6cVURA) &nbsp; <br />
+#### but can now be viewed on [TDWG's YouTube Channel](https://youtu.be/ueg5Fi6kgGA) &nbsp; <br />
 
 <img src="https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png" alt="biodschemas for discovery and integration" width="" height="" />
  
