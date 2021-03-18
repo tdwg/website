@@ -17,5 +17,5 @@ The 2021 meeting will be hosted "virtually" by the University of Florida, Gaines
 
 In the virtual conference week, we expect to have 3 or 4 sessions per day, with each session lasting 90-120 minutes and at least a 30 minute break between sessions. The time zones differences across our global community makes it unavoidable that some people will be have to participate in some sessions well outside their normal working hours. Still others might find that a highly relevant session has been scheduled in the middle of their night. To mitigate these scheduling difficulties, we will post the recorded presentations as quickly as we can. 
 
-The call for organized sessions (symposia, panel discussions, etc.) will go out shortly.
+The [call for organized sessions](https://mailchi.mp/fc74352c80a2/tdwg-2021-call-for-organized-sessions-in-the-virtual-conference-1822-october) (symposia, panel discussions, etc.) was distributed 18 March.
 
