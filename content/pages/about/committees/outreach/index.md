@@ -9,9 +9,8 @@ tags: functional subcommittee, charter
 
 ## Chair
 
-[Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com), Elected Term: 2019-2020  
-Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE)  
-Bangalore, India  
+[Mareike Petersen](mailto:Mareike.Petersen@mfn.berlin), Elected Term: 2021-2022  
+Museum für Naturkunde, Berlin, Germany  
 
 ## Mission
 
