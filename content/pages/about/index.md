@@ -40,6 +40,10 @@ TDWG is using [GitHub](https://github.com/tdwg) as its primary collaboration pla
 
 From 2006 to 2016, TDWG has published abstracts of contributions to the annual conference (presentations, posters, demonstrations) in conference proceedings (available on [each conference page](../conferences)). Presentation files (PPT or PDF) are available for many oral presentations and posters since 2008. Recordings are available for most presentations since 2015. From 2017 going forward, our conference proceedings (abstracts of contributions) are published in our journal (below).
 
+### Slack
+
+TDWG has a workspace in Slack. Several committees and interest/working groups are using Slack for timely communication and collaboration.  Slack is particularly good for quick communication between colleagues, but please note that the discussion in Slack is not publicly accessible (unlike discussion of "issues" on GitHub).  To be added to the TDWG workplace on Slack, request an invitation from the [Secretariat](mailto:secretariat@tdwg.org?subject=Please%20invite%20me%20to%20TDWG-Slack)
+
 ### Biodiversity Information Science and Standards (BISS)
 
 TDWG has engaged [Pensoft](https://pensoft.net/), an academic publishing company specializing in open-access semantic publishing, to publish our annual Proceedings (abstracts of contributions to the annual conference), as well as descriptions of new TDWG standards and independently contributed full-length papers in a dedicated journal [Biodiversity Information Science and Standards (BISS)](../journal/).
