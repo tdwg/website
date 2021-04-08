@@ -8,7 +8,7 @@ tags: conference
 page_order: 29
 ---
 
-<img src="https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo_plant_400w.png" alt="TDWG 2021 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
+<img src="https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png" alt="TDWG 2021 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
 # TDWG 2021 - October 18-22 
 
