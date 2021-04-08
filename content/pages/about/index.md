@@ -36,13 +36,13 @@ Subscribe to [TDWG announcements](http://eepurl.com/8VIvn) to receive our most s
 
 TDWG is using [GitHub](https://github.com/tdwg) as its primary collaboration platform. It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups](../community/) and [standards](../standards/) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and tasks) in that subject area. Peter Desmet gave us a nice [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) in 2016. 
 
+### Slack
+
+TDWG has a workspace in Slack. Several committees and interest/working groups are using Slack for timely communication and collaboration.  Slack is particularly good for quick, real-time communication between colleagues (i.e., chat or voice calls between members of a team), but please note that discussions in Slack are not publicly accessible (unlike discussion of "issues" on GitHub).  To be added to the TDWG workplace on Slack, request an invitation from the [Secretariat](mailto:secretariat@tdwg.org?subject=Please%20invite%20me%20to%20TDWG-Slack).
+
 ### Conference proceedings
 
 From 2006 to 2016, TDWG has published abstracts of contributions to the annual conference (presentations, posters, demonstrations) in conference proceedings (available on [each conference page](../conferences)). Presentation files (PPT or PDF) are available for many oral presentations and posters since 2008. Recordings are available for most presentations since 2015. From 2017 going forward, our conference proceedings (abstracts of contributions) are published in our journal (below).
-
-### Slack
-
-TDWG has a workspace in Slack. Several committees and interest/working groups are using Slack for timely communication and collaboration.  Slack is particularly good for quick communication between colleagues, but please note that the discussion in Slack is not publicly accessible (unlike discussion of "issues" on GitHub).  To be added to the TDWG workplace on Slack, request an invitation from the [Secretariat](mailto:secretariat@tdwg.org?subject=Please%20invite%20me%20to%20TDWG-Slack)
 
 ### Biodiversity Information Science and Standards (BISS)
 
