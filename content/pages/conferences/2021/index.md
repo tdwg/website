@@ -10,7 +10,7 @@ page_order: 29
 
 <img src="https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png" alt="TDWG 2021 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
-# TDWG 2021 - October 18-22 
+# TDWG 2021<br />October 18-22 
 
 As in 2020, our annual conference must again be virtual. While biomedical scientists have made great progress against the SARS-COV-2 pandemic, the distribution of vaccines worldwide is very uneven.  Moreover, travel budgets at most organizations have been eliminated. The Fall of 2021 is therefore still too soon to return to an in-person annual conference.  As we did last year, TDWG 2021 will be composed of webinar-style symposia, presentations, panel discussions, and virtual posters. We are again separating working sessions from the virtual conference, but in response to feedback from last year's conference, we will hold working sessions after the main conference. **The main conference will be held over the week of October 18-22,** and working sessions will be scheduled for the following month. The theme for this year's meeting will be:
 
