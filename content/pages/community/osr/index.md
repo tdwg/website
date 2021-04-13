@@ -1,5 +1,5 @@
 ---
-title: Observations & specimens
+title: Observations & Specimens
 summary: 
 cover_image: https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6
 cover_image_by: Chris Lawton
@@ -12,6 +12,10 @@ github:
 
 ## Convenor
 
+[Quentin Groom](quentin.groom@plantentuinmeise.be)
+Meise Botanic Garden, Belgium
+
+Former Convenor 
 [Steve Kelling](mailto:stk2@cornell.edu)  
 Cornell Lab of Ornithology  
 Cornell University  
@@ -25,10 +29,12 @@ Most primary biodiversity data is based on observational data, which consists of
 ## Becoming involved
 
 * Anyone with and interest in organizing observational and specimen data can be involved.
-* Contact Steve Kelling (stk2@cornell.edu)
+* Contact Quention Groom (quentin.groom@plantentuinmeise.be)
 
 ## Resources
 
 * [Access to Biological Collections Data (ABCD) Task Group Website](http://www.tdwg.org/activities/abcd/)
 * [Darwin Core Task Group Website](http://www.tdwg.org/activities/darwincore/)
 * [Observational Data Task Group Wiki](http://wiki.tdwg.org/Observational/)
+* [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/)
+* [OSR How Did It Die](https://www.tdwg.org/community/osr/how-did-it-die/)
