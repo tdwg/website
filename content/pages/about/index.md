@@ -34,7 +34,9 @@ Subscribe to [TDWG announcements](http://eepurl.com/8VIvn) to receive our most s
 
 ### GitHub
 
-TDWG is using [GitHub](https://github.com/tdwg) as its primary collaboration platform. It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups](../community/) and [standards](../standards/) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and tasks) in that subject area. Peter Desmet gave us a nice [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) in 2016. 
+TDWG is using [GitHub](https://github.com/tdwg) as its primary collaboration platform. It combines the functions of online discussion, collaborative document writing, and code repository. The content for all [interest groups](../community/) and [standards](../standards/) is publicly available (no account needed to view), but to participate effectively you should create a user account on GitHub. With a user account you can watch relevant repositories and ultimately participate in developing guidelines or standards in that area. _"Watching"_ a repository is effectively subscribing to the online discussion of issues (problems and tasks) in that subject area. 
+
+If you are new to GitHub: [tutorial on GitHub using TDWG examples](https://vimeo.com/album/4308386/video/195812163) (by Peter Desmet, 2016):
 
 ### Slack
 
