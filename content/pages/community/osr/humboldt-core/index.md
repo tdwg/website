@@ -23,7 +23,7 @@ Paula Zermoglio | VertNet, Darwin Core Maintenance Interest Group | <pzermoglio@
 Kate Ingenloff | Map of Life | <kathryn.ingenloff@gmail.com>
 Steve Baskaufs | Vanderbilt University, Darwin Core Maintenance Interest Group | <steve.baskauf@vanderbilt.edu>
 Tim Robertson | GBIF | <trobertson@gbif.org>
-Dmitry Schiegel | GBIF | <dschigel@gbif.org>
+Dmitry Schigel | GBIF | <dschigel@gbif.org>
 Erlend B. Nilsen | Living Norway Ecological Data Network & NINA | <erlend.nilsen@nina.no>
 Peter Brenton | CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group | <peter.brenton@csiro.au>
 Robert D Stevenson | University of Massachusetts-Boston | rdstevenson10@gmail.com
