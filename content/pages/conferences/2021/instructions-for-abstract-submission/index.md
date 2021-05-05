@@ -11,7 +11,7 @@ status: hidden
 
 # Instructions for Abstract Submission
 
-_Last updated 30 September 2020_
+_Last updated 5 May 2021_
 
 1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2020 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **The deadline for submission of abstracts** (see #10) **is 12 August 2020.**
 2. Although there is no registration fee to attend the live conference, view recorded content, or read published abstracts from TDWG 2020's virtual conference, the author submitting an approved abstract will be charged 40€ by the journal as part of the final submission process (just prior to publication).  
