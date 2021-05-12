@@ -11,7 +11,7 @@ status: hidden
 
 # Instructions for Abstract Submission
 
-_Last updated 6 May 2021_
+_Last updated 12 May 2021_
 
 1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2021 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **The deadline for submission of abstracts** (see #10) **is 2 August 2021.**
 2. The theme of the conference is _Connecting the world of biodiversity data: standards uniting people, processes, and tools._  
@@ -55,8 +55,8 @@ Find the most appropriate collection for your abstract. For an explanation about
     1. **_Double check the presenting author_** (should only be the name as listed as an author) and do a final proofing of your abstract.
     2. **_Validate._** Next, click the validate button first to make sure there are no lingering issues. See [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). Click on the blue text for each issue to resolve it. A successful validation will only show the number of characters in your abstract. 
     3. Once approved, the ‘**_Submit to the journal_**’ button should become visible (if you do not see this button, you may not be listed as the submitting author see #9.3.i above) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the ‘Submit to the journal’ button and then go through the (long) checklist of submission steps.
-    4. The first item in the checklist regards the **_license and copyright_** of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if _any_ author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk.
-    5. Publication charges for abstracts for TDWG 2021 are part of registration costs.
+    4. The first step in the checklist regards the **_license and copyright_** of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if _any_ author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk.
+    5. Step 2 requires that you mark the box indicating "I am aware that my abstract will be published only after payment of the registration fee for the TDWG 2021 conference". 
     6. The final step asks you to **_assign categories_** (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_.
     7. When the submission process is finalised, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty). 
     8. At publication, you should receive a confirmation email from the journal.
