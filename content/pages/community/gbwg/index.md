@@ -41,6 +41,10 @@ Biodiversity genomics is a fast-growing field of study that describes biological
 
 Any TDWG working groups and task groups associated with genomics data will fall under this newly formed interest group as well as biodiversity-related task and interest groups from Genomics Standards Consortium (GSC).
 
+## Task forces
+
+<!-- subpages -->
+
 ## Goals, outputs, and outcomes
 
 ### Goals
@@ -66,7 +70,6 @@ A list of known gaps and use cases can be found in the GGBN wiki use case collec
 This group welcomes participation from interested parties with backgrounds in informatics, biodiversity, molecular collections, genetics, technical architecture, or taxonomy. We propose the organization point for this group to be the TDWG website. Prospective members should refer to the email of the conveners for more information.
 
 The benefit of inclusion in this group is to be informed of, influence, and promote new technologies and standards having to do with genomic biodiversity collections, data and research. Members will explore new avenues for research for both biologists and informaticians, and garner the opportunities of working directly with a globally diverse set of participants.
-
 
 ## Resources
 
