@@ -2,7 +2,7 @@
 title: Genomic Biodiversity
 summary: GBWG operates as in interest group under both TDWG and the Genomics Standards Consortium (GSC) to foster discussion between the biodiversity and genomics communities
 cover_image: https://images.unsplash.com/photo-1605298721656-8a72a357492d
-cover_image_by: rawpixel
+cover_image_by: Cameron Venti
 cover_image_ref: https://unsplash.com/photos/zY_ww-aVYSU
 tags: interest group
 github:
@@ -40,6 +40,9 @@ github:
 Biodiversity genomics is a fast-growing field of study that describes biological variation in all its dimensions from the foundational DNA layer to organisms and ecosystems, phylogeny and function. Much of the data collected in such efforts currently has no consistent vocabulary implementation, standards representation, or implementation for dissemination and integration in the public domain. This group focuses on metadata about genomic and metagenomic samples and not the management of actual sequence data.  It also facilitates discussion of use cases, forms task groups to produce specific deliverables, and communicates relevant advances in biodiversity genomics technologies, vocabularies, and standards to the wider community of genomics data managers.
 
 Any TDWG working groups and task groups associated with genomics data will fall under this newly formed interest group as well as biodiversity-related task and interest groups from Genomics Standards Consortium (GSC).
+
+## Task Forces
+<!-- subpages -->
 
 ## Goals, outputs, and outcomes
 
