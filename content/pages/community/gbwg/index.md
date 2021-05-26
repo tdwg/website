@@ -41,10 +41,6 @@ Biodiversity genomics is a fast-growing field of study that describes biological
 
 Any TDWG working groups and task groups associated with genomics data will fall under this newly formed interest group as well as biodiversity-related task and interest groups from Genomics Standards Consortium (GSC).
 
-
-## Task Forces
-<!-- subpages -->
-
 ## Goals, outputs, and outcomes
 
 ### Goals
