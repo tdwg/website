@@ -1,6 +1,6 @@
 # TDWG website
 
-This repository contains the content and settings for the new TDWG website. It is generated as a static website with [Pelican](http://docs.getpelican.com/).
+This repository contains the content and settings for the [TDWG website](https://www.tdwg.org/). It is generated as a static website with [Pelican](http://docs.getpelican.com/).
 
 ## Getting started
 
@@ -11,7 +11,24 @@ This repository contains the content and settings for the new TDWG website. It i
 ## Repo structure
 
 ```
-
+├── README.md                 : Description of this repository
+│
+├── content                   : Website content. Each news item/page is a directory, containing at least an index.md
+│   ├── articles              : News items, organized by year
+│   └── pages
+│       ├── home              : Homepage
+│       ├── standards         : Standards pages
+│       ├── journal           : BISS page
+│       ├── community         : Interest, Task and Maintenance Groups pages
+│       ├── conferences       : Conference landing pages
+│       └── about             : Executive, constitution, contact, etc. pages
+│
+├── settings.py, settings-prod.py : Generic website settings
+├── requirements.txt          : Python requirements for Pelican
+│
+├── LICENSE                   : Repository license
+├── .github                   : Contributing guide, issue templates
+└── .gitignore                : Files and directories to be ignored by git
 ```
 
 ## Deployment
