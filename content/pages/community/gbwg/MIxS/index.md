@@ -99,7 +99,7 @@ Interested parties are invited to watch and contribute to the GitHub repository 
 5. 	International Nucleotide Sequence Database Collaboration <https://insdc.org>
 6. 	Ocean Biodiversity Information System <https://obis.org>
 7. 	GBIF <https://www.gbif.org/> 
-8. 	MIxS sample extension <https://rs.gbif.org/sandbox/extension/>
+8. 	MIxS DwC extension <https://github.com/tdwg/gbwg/tree/main/dwc-mixs/dwc>
 9. 	Tuama EÓ, Deck J, Dröge G, Döring M, Field D, Kottmann R, Ma J, Mori H, Morrison N, Sterk P, Sugawara H, Wieczorek J, Wu L, Yilmaz P. Meeting Report: Hackathon-Workshop on Darwin Core and MIxS Standards Alignment (February 2012). Stand Genomic Sci. 2012 Oct 10;7(1):166-70. doi: <https://doi.org/10.4056/sigs.3166513>.  Epub 2012 Sep 28. PMID: 23451295; PMCID: PMC3570805.
 10. <https://github.com/microbiomedata/metadata_converter> 
 11. GitHub repository: <https://github.com/tdwg/gbwg>
