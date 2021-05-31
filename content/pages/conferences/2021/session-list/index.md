@@ -45,11 +45,13 @@ The session aims to start with a general overview of DiSSCo e-services, demonstr
 
 ## SYM04 SYM04 Where and how to find, store and use links between biodiversity data: the BiCIKL perspective
 
-**Session Type:** Symposium (no unsolicited presentations considered)
+**Session Type:** Symposium (unsolicited presentations considered)
 
-**Organizers:** [Lyubomir Penev](mailto:l.penev@pensoft.net), Pensoft Publishers, Sofia, Bulgaria
+**Organizers:** [Lyubomir Penev](mailto:l.penev@pensoft.net), Pensoft Publishers, Sofia, Bulgaria; Tim Robertson, Global Biodiversity Information Facility, Copenhagen, Denmark
 
 Biodiversity data is a web of connections, between specimens, sequences, names, taxa, images, species interactions, traits, treatments, people and more. These connections are often clearly documented in the literature and are even available in digital form for interpretation. However, many, if not most, of these connections are not explicitly made to connect data across the internet. Making these connections explicit increases the findability of data, increases the efficiency of research and enables novel research. This symposium will examine how to find the links between the elements of biodiversity data, how and where they can be stored and how new information can be extracted from them. It is supported by the [BiCIKL project](https://drive.google.com/file/d/1772fQyRjQQFUK6kvMmRA_mr0DVRPEG8S/view), which over the next three years will build the Biodiversity Community Integrated Knowledge Library to connect the whole spectrum of biodiversity data, enabling new, cross disciplinary research on biodiversity.
+
+The symposium welcomes contributions illustrating different approaches, methods and standards of discovery, preservation, annotation, management and re-use of linked biodiversity data, for example data warehousing, linking between Fair Digital Objects (FDO), Linked Open Data (LOD) technologies, and others. 
 
 ## WKSH05 Translating TDWG Controlled Vocabularies
 
@@ -189,4 +191,4 @@ This half-day workshop/hackathon will explore how connected our global community
 
 First, together we will quickly enumerate the existing APIs we each know about. Our goal is not to be comprehensive, but rather to collectively aggregate known application resources (this itself is a nice proxy test of accessibility). From there we will proceed to the best of our ability, in the time provided, by linking the APIs, and documenting these linkages, in three ways: 1) by quickly observing that some combination of responses from 2 or more APIs could be used to do X, i.e. "theoretically linked"; 2) by identifying sets of specific (real) API calls across two or more providers that represent a specific use case, i.e. "demonstrably linked" and 3) time permitting, by coding tiny proofs of concepts that demonstrate integration across two or more APIs, i.e. "actually linked". Each of these three ways can be run in parallel based on participants' interest. We plan to offer a small prize in each category.
 
-_Last modified 30 May 2021_
+_Last modified 31 May 2021_
