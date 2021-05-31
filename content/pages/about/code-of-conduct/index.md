@@ -24,10 +24,10 @@ If you are being harassed, would like to file a complaint, or have other concern
 
 <strong>Authors and Presenters</strong> should conform to the highest standards of scientific attribution and citation in their abstracts and presentations. All authors connected to a presentation and its associated abstract must be aware of and agree with the information presented. Obtaining consent from all authors associated with the presentation is the responsibility of the lead author. The presenter of a submitted abstract must have the intention of attending and participating in the conference and must be fully registered before the final acceptance of their abstract for publication and scheduling in the program.
 
-Authors are solely responsible for using original images/graphics that they own or otherwise have permission to use. If your slides or poster require either a license (e.g., from [Creative Commons](https://creativecommons.org/about/cclicenses/) or are unable to be shared, these warnings must be displayed on affected media.
+Authors are solely responsible for using original images/graphics that they own or otherwise have permission to use. If your slides or poster require either a license (e.g., from [Creative Commons](https://creativecommons.org/about/cclicenses/)) or are unable to be shared, these warnings must be displayed on affected media.
 
 <strong>Attendees:</strong> Please respect the presenter's "no sharing" or attribution license posted on slides, posters, or other media. Conference attendees may not share links to conference sessions with non-registrants outside of the conference platform (e.g. to social media).
 
 Because TDWG's mission is to reach as broad an audience as possible, abstracts are published, and presentations (audio/video, slides, and posters) may be streamed, recorded, and/or made publically available after the event. TDWG reserves the right to use photographs and videos taken and testimonials given during any event or activity or in subsequent meeting surveys for informational and promotional purposes.
 
-_Last revised 29 May 2021_
+_Last revised 31 May 2021_
