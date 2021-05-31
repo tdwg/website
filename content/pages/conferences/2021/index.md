@@ -1,9 +1,9 @@
 ---
 title: TDWG 2021 - Virtual Annual Conference
-summary: TDWG 2021 will be a virtual conference the week of Oct 18-22. Working sessions for interest and task groups will follow in November.
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
+summary: Theme: Connecting the world of biodiversity data: standards uniting people, processes, and tools
+cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+cover_image_by: Waranot (Joe)
+cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
 tags: conference
 page_order: 29
 ---
@@ -12,13 +12,32 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-As in 2020, our annual conference must again be virtual. While biomedical scientists have made great progress against the SARS-COV-2 pandemic, the distribution of vaccines worldwide is very uneven.  Moreover, travel budgets at most organizations have been eliminated. The Fall of 2021 is therefore still too soon to return to an in-person annual conference.  As we did last year, TDWG 2021 will be composed of webinar-style symposia, presentations, panel discussions, and virtual posters. We are again separating working sessions from the virtual conference, but in response to feedback from last year's conference, we will hold working sessions after the main conference. **The main conference will be held over the week of October 18-22,** and working sessions will be scheduled for the following month. The theme for this year's meeting will be:
+_Last updated 31 May 2021_
 
-**Connecting the world of biodiversity data: standards uniting people, processes, and tools**
+As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. The Interest/Task Group working sessions will be held separately during the month following the virtual conference (November 2021). 
 
-The 2021 meeting will be hosted "virtually" by the University of Florida, Gainesville and its [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/), with [Dr. Pam Soltis](https://www.floridamuseum.ufl.edu/soltis-lab/), Director of the [University of Florida Biodiversity Institute](https://biodiversity.research.ufl.edu/), and Research PI for [iDigBio](https://www.idigbio.org), leading the hosting effort. Among the lessons learned from last year's conference is that virtual events still require a lot of work, so this year we will be using the University of Florida Conference Services group to help organize and manage TDWG 2021. We will have a modest registration fee for this virtual event (discounted for students and participants from lower middle-income countries).  Abstracts for all contributions (oral presentations and virtual posters) will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/).  Unlike last year, publication costs will _not_ be passed to authors, but defrayed by registration fees and conference sponsorships. 
+## Hosts
 
-In the virtual conference week, we expect to have 3 or 4 sessions per day, with each session lasting 90-120 minutes, and with at least a 30 minute break between sessions. The time zone differences across our global community makes it unavoidable that some people will be have to participate in some sessions well outside their normal working hours. Still others might find that a highly relevant session has been scheduled in the middle of their night. To mitigate these scheduling difficulties, we will post the recorded presentations as quickly as we can. 
+TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by the University of Florida, Gainesville and the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/), with [Dr. Pam Soltis](https://www.floridamuseum.ufl.edu/soltis-lab/), Director of the [University of Florida Biodiversity Institute](https://biodiversity.research.ufl.edu/), and Research PI for [iDigBio](https://www.idigbio.org/), leading the hosting effort. Brianna Blassneck, of the University of Florida Conference Services group, will be helping to organize and manage TDWG 2021. 
 
-The [call for organized session proposals](https://mailchi.mp/fc74352c80a2/tdwg-2021-call-for-organized-sessions-in-the-virtual-conference-1822-october) (symposia, panel discussions, etc.) was distributed 18 March.
+## Registration
 
+While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and is well worth the price. It also helps to defray the cost of abstract publication. **Registration will open in early June.**
+
+## Abstracts
+
+Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). **The call for abstracts, including instructions for submission, will be distributed in early June.**
+
+## Scheduling
+
+During the virtual conference week, sessions will be scheduled primarily during the time zone of our host (1100–2300 UTC), with most sessions lasting 90-120 minutes, and with a break between sessions. To accommodate all submissions, some parallel sessions will be scheduled. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some. The Program Committee is working to make the schedule as inclusive as possible, and to mitigate these timing difficulties, recorded presentations will be posted in a timely fashion.
+
+## Supporters
+
+TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by the following organizations.
+
+## Contacts
+
+Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
+
+## Additional information
