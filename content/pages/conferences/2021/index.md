@@ -36,6 +36,10 @@ During the virtual conference week, sessions will be scheduled primarily during 
 
 TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by the following organizations.
 
+## Code of Conduct
+
+By participating in TDWG 2021, you agree voluntarily to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/).
+
 ## Contacts
 
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
