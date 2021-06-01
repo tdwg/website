@@ -47,7 +47,7 @@ The session aims to start with a general overview of DiSSCo e-services, demonstr
 
 **Session Type:** Symposium (unsolicited presentations considered)
 
-**Organizers:** [Lyubomir Penev](mailto:l.penev@pensoft.net), Pensoft Publishers, Sofia, Bulgaria; Tim Robertson, Global Biodiversity Information Facility, Copenhagen, Denmark
+**Organizers:** [Lyubomir Penev](mailto:l.penev@pensoft.net), Pensoft Publishers, Sofia, Bulgaria; [Tim Robertson](mailto:trobertson@gbif.org), Global Biodiversity Information Facility, Copenhagen, Denmark
 
 Biodiversity data is a web of connections, between specimens, sequences, names, taxa, images, species interactions, traits, treatments, people and more. These connections are often clearly documented in the literature and are even available in digital form for interpretation. However, many, if not most, of these connections are not explicitly made to connect data across the internet. Making these connections explicit increases the findability of data, increases the efficiency of research and enables novel research. This symposium will examine how to find the links between the elements of biodiversity data, how and where they can be stored and how new information can be extracted from them. It is supported by the [BiCIKL project](https://drive.google.com/file/d/1772fQyRjQQFUK6kvMmRA_mr0DVRPEG8S/view), which over the next three years will build the Biodiversity Community Integrated Knowledge Library to connect the whole spectrum of biodiversity data, enabling new, cross disciplinary research on biodiversity.
 
