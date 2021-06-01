@@ -36,6 +36,23 @@ During the virtual conference week, sessions will be scheduled primarily during 
 
 TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by the following organizations.
 
+<table border="0">
+<tbody>
+<tr>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://ala.org.au">
+      <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="" height="" />
+    </a>
+  </td>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
+  <a href="https://gbif.org">
+    <img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="" height="" />
+  </a>
+</td>
+  </tr>
+</tbody>
+</table>
+
 ## Code of Conduct
 
 By participating in TDWG 2021, you agree voluntarily to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/).
