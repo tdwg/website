@@ -132,12 +132,12 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2020 by th
 <tr>
 <td style="background-color: #FFFFFF; vertical-align: middle;">
   <a href="https://gbif.org">
-    <img src="https://static.tdwg.org/conferences/2020/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="" height="" />
+    <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="" height="" />
   </a>
 </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://pensoft.net">
-    <img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
+    <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
     </a>
   </td>
 </tr>
