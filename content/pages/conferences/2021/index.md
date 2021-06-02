@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 31 May 2021_
+_Last updated 1 June 2021_
 
 As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. The Interest/Task Group working sessions will be held separately during the month following the virtual conference (November 2021). 
 
@@ -50,6 +50,14 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
   </a>
 </td>
   </tr>
+<tr>
+    </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://pensoft.net">
+    <img src="https://static.tdwg.org/conferences/2020/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
+    </a>
+  </td>
+</tr>
 </tbody>
 </table>
 
