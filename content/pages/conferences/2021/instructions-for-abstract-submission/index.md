@@ -1,9 +1,9 @@
 ---
 title: Instructions for Abstract Submission
 summary: Organized sessions include symposia and panel discussions
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+cover_image_by: Waranot (Joe)
+cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
 tags: conference
 page_order: 65
 status: hidden
@@ -11,7 +11,7 @@ status: hidden
 
 # Instructions for Abstract Submission
 
-_Last updated 17 May 2021_
+_Last updated 2 June 2021_
 
 1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2021 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **The deadline for submission of abstracts** (see #10) **is 2 August 2021.**
 2. The theme of the conference is _Connecting the world of biodiversity data: standards uniting people, processes, and tools._  
@@ -23,7 +23,7 @@ _Last updated 17 May 2021_
 8. **Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). The Collections constitute the themes of the conference. This step is critical as your abstract cannot be directed to the proper editors without this designation. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections) _but only_ when they have control of the manuscript.
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon") <br /> <br />
 Find the most appropriate collection for your abstract. For an explanation about available collections (some are not accepting unsolicited abstracts), please see the [Session List](../session-list/). <br /> <br />
-![Collections List](https://static.tdwg.org/conferences/2020/instructions/1_CollectionsList2020.png "Collections List") <br /> <br />
+![Collections List](https://drive.google.com/file/d/1vdg4A8qnCg5LpKEcP0-zj311emyK2GqQ/view?usp=sharing "Collections List") <br /> <br />
 9. Next, **fill in your abstract’s metadata** from the list at the left by hovering over a category, and then clicking on the pencil icon.
     1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2020” and only that).
     2. **Title format:** all major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun, (e.g., Title of Awesome Talk: Why are we here in Alexandria?). _Please do not use all uppercase or inappropriate italics in your title._
