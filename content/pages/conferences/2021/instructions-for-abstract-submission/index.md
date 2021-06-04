@@ -1,6 +1,6 @@
 ---
 title: Instructions for Abstract Submission
-summary: Organized sessions include symposia and panel discussions
+summary: For presentations at TDWG 2021, to be published in _Biodiversity Information Science and Standards_
 cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
 cover_image_by: Waranot (Joe)
 cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
@@ -11,12 +11,12 @@ status: hidden
 
 # Instructions for Abstract Submission
 
-_Last updated 2 June 2021_
+_Last updated 3 June 2021_
 
 1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2021 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **The deadline for submission of abstracts** (see #10) **is 2 August 2021.**
 2. The theme of the conference is _Connecting the world of biodiversity data: standards uniting people, processes, and tools._  
 3. Your abstract will be peer reviewed and submission implies registration for and participation in the TDWG 2021 virtual conference to present its content (live or pre-recorded).  
-4. The Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author. Abstracts will be published with digital object identifiers (DOIs) upon acceptance.
+4. The Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author. Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid.
 5. **To submit your abstract, log in or register** at [https://biss.pensoft.net/](https://biss.pensoft.net/). You will need to acknowledge [Terms of Use](https://biss.pensoft.net/about#TermsofUse) if you are new to the system. While links in emails from pensoft.net should no longer automatically log you in without an intervening Captcha step, **please whitelist or otherwise train your email system to recognize these vital communications**.
 6. **If you are starting a new abstract**, click the “Start Abstract” button, which should be visible after signing in at [https://biss.pensoft.net](https://biss.pensoft.net). Clicking this button takes you to the ARPHA writing tool and creates a _new_ Untitled abstract with some of the author metadata you used to create your account. _This is the easiest way to start a NEW abstract._
 7. **If you have already started an abstract** and are coming back to work on it (will show as Draft), log in to ARPHA directly from [https://arpha.pensoft.net](https://arpha.pensoft.net). After logging in you will see the titles of “My recent manuscripts.” Click on your manuscript title, or click on “See More” to go to your dashboard [https://arpha.pensoft.net/dashboard.php](https://arpha.pensoft.net/dashboard.php), where you will see all manuscripts on which you are listed as an author, their status, and revision history. If you accidentally create more than one abstract, you need to delete the extra one(s) here. You can also start new abstracts here, but you will need to specify the journal (_BISS_) and the manuscript type (conference abstract).
@@ -25,16 +25,16 @@ _Last updated 2 June 2021_
 Find the most appropriate collection for your abstract. For an explanation about available collections (some are not accepting unsolicited abstracts), please see the [Session List](../session-list/). <br /> <br />
 ![Collections List](https://static.tdwg.org/conferences/2021/images/tdwg2021-biss-collections.png "Collections List") <br /> <br />
 9. Next, **fill in your abstract’s metadata** from the list at the left by hovering over a category, and then clicking on the pencil icon.
-    1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2020” and only that).
+    1. The only mandatory fields are “Title”, “Author”, “Abstract”, “Keywords”, “Presenting Author” and “Presented At” (should be filled in with “TDWG 2021” and only that).
     2. **Title format:** all major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun, (e.g., Title of Awesome Talk: Why are we here in Alexandria?). _Please do not use all uppercase or inappropriate italics in your title._
     3. **Authors:**
         1. The **_submitting author_** is the person who will ultimately be responsible _and available_ to submit your abstract to the journal for publication, which will also submit your abstract to the conference. This is automatically assumed to be the person first logging in and starting the abstract in ARPHA and that person's name is assumed to be first author. This can be [changed](https://arpha.pensoft.net/tips/Edit-author-order-details).
         2. **_[Add co-authors](https://arpha.pensoft.net/tips/Add-authors)_** by clicking the icon beside “Authors” in the left-side navigation panel. Be sure to add affiliations for all authors. **_When adding co-authors, please specify what rights each will have to comment only or to edit and comment_**. Note that it is the _submitting_ author's responsibility to notify all authors of this submission and their rights with regard to commenting or editing.
         3. Make sure that one author is designated as the **_corresponding author_** (the person to whom correspondence should be addressed _after_ publication). May be any author.
-        4. The **_Presenting Author_** (added outside of Authors metadata panel, after Keywords) is the person who will be delivering the presentation at the conference. List their name in the same way it is listed as an author. The presenting author will be responsible for a live, recorded, or poster presentation.
+        4. The **_Presenting Author_** (added outside of Authors metadata panel, after Keywords) is the person who will be delivering the presentation at the conference. List their name in the same way it is listed as an author. _The presenting author will be responsible for a live, recorded, or poster presentation and must be fully registered for the conference by the time the abstract is approved for publication._
     4. **Abstract** submissions are limited to 6,000 characters (including spaces, title, authors and affiliations, keywords, references, etc.), written in English, and should be appropriate to the conference theme, _Connecting the world of biodiversity data: standards uniting people, processes, and tools_. 
         1. Please write for a general audience, providing context for your presentation and no unexplained jargon. _Note that this is not a venue for reporting the results of research in your discipline._
-        2. The first mention of acronyms (including organizational acronyms) or abbreviations in the abstract or figure/table legends must be spelled out (exceptions: 3D, DNA, RNA, GIS, HTML, WWW, URL, URI, XML, JPG, TIF, TIFF, PDF).
+        2. The first mention of acronyms (including organizational acronyms) or abbreviations in the abstract or figure/table legends must be spelled out (exceptions: 3D, DNA, RNA, GIS, HTML, WWW, URL, URI, XML, RDF, JPG, TIF, TIFF, PDF).
         3. Consider [embedding hyperlinks](https://arpha.pensoft.net/tips/Insert-Hyperlinks) (URLs) to institutions and concepts that will help readers to appreciate more fully the topic you are presenting. This can be especially helpful for jargon. Be mindful of persistence (not having future users find broken links) and irrelevant advertising if you choose to do this.
         4. You may add [references](https://arpha.pensoft.net/tips/References), [figures](https://arpha.pensoft.net/tips/Figures), [tables](https://arpha.pensoft.net/tips/Tables) and upload [supplementary materials](https://arpha.pensoft.net/tips/Supplementary-files) associated with the abstract. None of these are required. Create these resources first from the end of the left menu, [before linking them to the appropriate text](https://arpha.pensoft.net/tips/Cite-references) in your abstract.
     5. **Keywords:** are words that readers might use in a search to find your content
@@ -70,7 +70,7 @@ _The deadline for finalizing your abstract for publication in the journal will *
 
 **How does the editing process work?**
 
-Your abstract will be edited and reviewed for content and suitability as well as style and language by conference organizers and volunteers. If your abstract is not accepted by the conference organizers under the theme to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
+Your abstract will be edited and reviewed for content and suitability as well as style and language by conference and session organizers and other volunteers. If your abstract is not accepted by the conference organizers under the theme to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
 
 **Where do I enter the state or province under address as an author?**
 
@@ -94,10 +94,11 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 *   **_Draft_** = authors have editing rights; editors see as read-only; authors must submit the abstract for review for the abstract to be released for editorial assessment.
 *   **_In pre-submission review_** = authors see as read-only; technical editors are able to make changes to the abstract and add comments. Authors may see these updates but will not be able to make changes until editors release the abstract back to the authors using the Send Feedback button. Pressing the Send Feedback button returns the abstract to Draft mode so that authors may respond.
-*   Once your abstract has been **_Approved_**, the submitting author will need to **_Submit to Journal_** and complete the final publication checklist (this consists of multiple screens; please be sure to follow it to the end). It then proceeds to **_Layout_** and is in a queue to be **_Published_**. **The final deadline for submission to the journal will be determined.**
+*   Once your abstract has been **_Approved_**, the submitting author will need to **_Submit to Journal_** and complete the final publication checklist (this consists of multiple screens; please be sure to follow it to the end). It then proceeds to **_Layout_** and is in a queue to be **_Published_**. **The final deadline for submission to the journal will be determined.** Make sure that the submitting author will be available until the process is complete.
 *   If you fail to complete the final publication checklist, your abstract may be marked as **_Incomplete Submission_**. You will get three automated warnings to remedy this before the system automatically buries/removes your submission from the publication queue.
 *   Both authors and technical editors can send email (see icon near the top of the page) to co-authors and/or editors at any time during the pre-approval process, _this does not change the status of the manuscript. _If you use this step, please fully reference your manuscript ID, the issue(s) and the person(s) you think should be responding to the email. The system sends individual emails out so no one receiving them knows who else is being asked to address your question. If in doubt, email [editor@tdwg.org](mailto:editor@tdwg.org) outside of the system instead.
-*   Abstracts will be published once their place in the program is confirmed, but authors should receive notification of successful submission (after payment of 40€ publication fee) to the journal, pending publication. For an abstract associated with TDWG 2020 to be published, the presenter must intend to register for the conference.
+*   For an abstract associated with TDWG 2021 to be published, the presenter must be fully registered (i.e., any assessed fee paid) for the conference.
+*   Approved abstracts will be published once the placement of their presentation in the program is confirmed. Authors should receive notification of successful submission to the journal, pending publication. 
 
 **What if I don’t see my abstract anywhere?**
 
@@ -109,4 +110,4 @@ Otherwise, communicate with the help desk (use the feedback icon located in the 
 
 **Where will I find published abstracts?**
 
-See [published abstract collections](https://biss.pensoft.net/collections) and look for _TDWG 2021_. Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
+See [published abstract collections](https://biss.pensoft.net/collections) or find [_TDWG Proceedings 2021_](https://biss.pensoft.net/collection/293/). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
