@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 1 June 2021_
+_Last updated 4 June 2021_
 
 As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. The Interest/Task Group working sessions will be held separately during the month following the virtual conference (November 2021). 
 
@@ -30,7 +30,7 @@ Abstracts are required for all contributions (oral presentations and virtual pos
 
 ## Scheduling
 
-During the virtual conference week, sessions will be scheduled primarily during the time zone of our host (1100–2300 UTC), with most sessions lasting 90-120 minutes, and with a break between sessions. To accommodate all submissions, some parallel sessions will be scheduled. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some. The Program Committee is working to make the schedule as inclusive as possible, and to mitigate these timing difficulties, recorded presentations will be posted in a timely fashion.
+During the virtual conference week, sessions will be scheduled primarily during the time zone of our host (1100–2300 UTC), with most sessions lasting 90-120 minutes, and with a break between sessions. To accommodate all submissions, some parallel sessions will be scheduled. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some. The Program Committee is working to make the schedule as inclusive as possible, and to mitigate these timing difficulties, recorded presentations will be posted in a timely fashion. See [more about presentations](https://tdwg.org/conferences/2021/presentation-info/)...
 
 ## Supporters
 
