@@ -51,7 +51,6 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 </td>
   </tr>
 <tr>
-    </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://pensoft.net">
     <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
