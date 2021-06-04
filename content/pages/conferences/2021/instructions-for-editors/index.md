@@ -1,17 +1,16 @@
 ---
 title: Instructions for Editors
-summary: Organized sessions include symposia and panel discussions
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
+summary: Of abstracts of presentations for TDWG 2021, to be published in _Biodiversity Information Science and Standards_
+cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+cover_image_by: Waranot (Joe)
+cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
 tags: conference
 page_order: 70
-status: hidden
 ---
 
 # Instructions for Editors 
 
-_Last updated 6 May 2021_
+_Last updated 4 June 2021_
 
 **A note on terminology:** Those working with abstracts submitted to TDWG 2021 are considered to be _technical editors_ of one or more collections in [ARPHA](https://arpha.pensoft.net/), the online editing platform used for submissions to the Pensoft journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ or _BISS_). Please [create or update your profile](https://pensoft.net/profile). Make sure that you have only one email address registered.
 
@@ -59,7 +58,7 @@ _Last updated 6 May 2021_
             4. Non-expansion of acronyms at first use, 
             5. There are also typos and wording issues, particularly, but not exclusively from authors for whom English is not primary, 
             6. Titles should be in title case (e.g., Title of Awesome Talk: Why are we here?),
-            7. Missing _Keywords_ and _Presented at_ metadata (latter should be filled in with “TDWG 2020” and only that),
+            7. Missing _Keywords_ and _Presented at_ metadata (latter should be filled in with “TDWG 2021” and only that),
             8. Keywords not separated by commas and capitalization of non-proper nouns,
             9. Presenter name(s) should match the format of author (no title or other affiliation information, just the name).
         11. Confused about who has reviewed or touched an abstract? Access the Revision history from your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) for the abstract or use the counterclockwise icon in the top ribbon of the ARPHA writing tool.
@@ -72,6 +71,6 @@ _Last updated 6 May 2021_
         15. Note, you will not receive a copy of this email.
         16. If the deadline passes without anyone appearing to work on the draft, follow up with a personal email outside of ARPHA
         17. The ARPHA platform may send out automatic reminders to authors in the case of prolonged inactivity at critical stages and after three ignored notifications will automatically archive (remove the abstract from view) such manuscripts. Either you or the author will need to notify Pensoft to retrieve such an abstract from this fate.
-    13. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline (11 September) by which we hope all authors will know whether their abstract has been/will be approved.
+    13. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline (in September, final date to be determined) by which we hope all authors will know whether their abstract has been/will be approved.
     14. **Validation and flag for approval.** When the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, mark the flag for approval.
 5. **Approval.** Only designated editors will send out approval notices that ask authors to finalize a checklist that will put the abstract in Pensoft's publication workflow.
