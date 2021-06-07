@@ -20,14 +20,13 @@ The theme for TDWG 2021 is _**Connecting the world of biodiversity data: uniting
 
 ## What you need to know
 
-<ul>
-  <li>Examine the [List of organized sessions](../session-list/) to see which sessions will consider unsolicited presentations fitting your topic. Don't worry if none applies (you can submit a poster or a contributed oral presentation)</li>
-  <li>When you are ready to start your abstract, follow the [Instructions for Authors for Abstract Submission](https://www.tdwg.org/conferences/2021/instructions-for-abstract-submission/) - **deadline 2 August 2021**</li>
-  <li>See where abstracts will be published in [TDWG 2021 Proceedings](https://biss.pensoft.net/collection/293/) and view past in [collections in BISS](https://biss.pensoft.net/collections/) (check out the media tab in individual abstracts for added content such as links to slides and video)</li>
-  <li>Want to know more about how your abstract will be edited? See [Instructions for Editors](https://www.tdwg.org/conferences/2021/instructions-for-editors/)
-  <li>See more about [presentations & timing](https://www.tdwg.org/conferences/2021/presentation-info/)</li>
-  <li>By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/)</li>
-  <li>Please send additional questions to: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)</li>
-</ul>
+ * Examine the [List of organized sessions](../session-list/) to see which sessions will consider unsolicited presentations fitting your topic. Don't worry if none applies (you can submit a poster or a contributed oral presentation)
+ * When you are ready to start your abstract, follow the [Instructions for Authors for Abstract Submission](https://www.tdwg.org/conferences/2021/instructions-for-abstract-submission/) - **deadline 2 August 2021**
+ * See where abstracts will be published in [TDWG 2021 Proceedings](https://biss.pensoft.net/collection/293/) and view past in [collections in BISS](https://biss.pensoft.net/collections/) (check out the media tab in individual abstracts for added content such as links to slides and video)
+ * Want to know more about how your abstract will be edited? See [Instructions for Editors](https://www.tdwg.org/conferences/2021/instructions-for-editors/)
+ * See more about [presentations & timing](https://www.tdwg.org/conferences/2021/presentation-info/)
+ * By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/)
+ * Please send additional questions to: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
+
 
 _Last updated 6 June 2021_
