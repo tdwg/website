@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 4 June 2021_
+_Last updated 7 June 2021_
 
 As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. The Interest/Task Group working sessions will be held separately during the month following the virtual conference (November 2021). 
 
@@ -26,7 +26,7 @@ While virtual, connecting and uniting the TDWG community for the sharing of stan
 
 ## Abstracts
 
-Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). **The call for abstracts, including instructions for submission, will be distributed in early June.**
+Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). **The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June; deadline for abstract submission is 2 August.**
 
 ## Scheduling
 
@@ -62,7 +62,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 
 ## Code of Conduct
 
-By participating in TDWG 2021, you agree voluntarily to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/).
+By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/).
 
 ## Contacts
 
