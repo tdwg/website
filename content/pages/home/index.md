@@ -9,11 +9,11 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG starts a webinar series!
-alert_text: Our first Webinar is past, but you can...
+alert_title: Darwin Core Hour
+alert_text: Our next Webinar is 22 June, 2021
 alert_button: See it on YouTube
-alert_link: https://www.tdwg.org/news/2021/webinar-bioschemas-marking-up-biodiversity-websites-for-discovery-and-web-scale-integration/
-alert_image: https://static.tdwg.org/images/articles/webinars/2021-02-bioschemas-franck-michel-webinar.png
+alert_link: /news/2021/darwin-core-maintenance-proposals-and-webinar/
+alert_image: https://static.tdwg.org/images/articles/webinars/darwin-core-hour.png
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
