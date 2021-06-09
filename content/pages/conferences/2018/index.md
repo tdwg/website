@@ -8,4 +8,4 @@ tags: conference
 page_order: 32
 ---
 
-See the [conference website](http://spnhc-tdwg2018.nz/) for all information.
+See the [(archived) conference website](https://web.archive.org/web/20181221215058/http://spnhc-tdwg2018.nz/) for all information.
