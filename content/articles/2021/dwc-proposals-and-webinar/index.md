@@ -9,7 +9,7 @@ tags: TDWG Standards
 
 ## Public review of Darwin Core maintenance proposals ends
 
-The initial 30-day Darwin Core review (with a one-day bonus) is now over. The Darwin Core Maintenance Group has reviewed the feedback on proposals that were under consideration and believes consensus has been achieved on 30 issues (https://github.com/tdwg/dwc/labels/Process%20-%20prepare%20for%20Executive%20review), which will now be put forward for ratification.
+The initial 30-day Darwin Core review (with a one-day bonus) is now over. The Darwin Core Maintenance Group has reviewed the feedback on proposals that were under consideration and believes consensus has been achieved on [30 issues](https://github.com/tdwg/dwc/labels/Process%20-%20prepare%20for%20Executive%20review), which will now be put forward for ratification.
 
 Ten issues remain controversial. Of these, six have been recommended to go to task groups for resolution (occurrenceStatus, occurrenceStatus controlled vocabulary, preparations, disposition, associatedSequences, biome). The other four contentious issues (individualCount, verbatimLabel, identificationQualifier, subgenus) will remain open under public review for another 30 days in pursuit of consensus so as not to lose any momentum. None of these ten issues will be included in the release resulting from this public review, which will proceed with the changes embodied in the aforementioned 30 resolved issues.
 
