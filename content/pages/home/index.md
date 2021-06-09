@@ -11,7 +11,7 @@ save_as: index.html
 template: page_home
 alert_title: Darwin Core Hour
 alert_text: Our next Webinar is 22 June, 2021
-alert_button: See it on YouTube
+alert_button: Registration - free & required
 alert_link: /news/2021/darwin-core-maintenance-proposals-and-webinar/
 alert_image: https://static.tdwg.org/images/articles/webinars/darwin-core-hour.png
 newsletter_title: Keep up to date with TDWG
