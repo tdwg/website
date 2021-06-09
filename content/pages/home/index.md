@@ -9,9 +9,9 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: Darwin Core Updates
-alert_text: Our next Darwin Core Hour is 22 June, 2021
-alert_button: Register (free) to Participate
+alert_title: Darwin Core Updates!
+alert_text: Our next Darwin Core Hour, 22 June, will review recent changes and proposals still pending.
+alert_button: Please register to participate (FREE!)
 alert_link: /news/2021/darwin-core-maintenance-proposals-and-webinar/
 alert_image: https://static.tdwg.org/images/articles/webinars/darwin-core-hour-graphic.png
 newsletter_title: Keep up to date with TDWG
