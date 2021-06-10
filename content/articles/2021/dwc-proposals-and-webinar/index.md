@@ -45,7 +45,8 @@ Session will be live-streamed to YouTube for overflow (observers can submit ques
 **Time 2 -- 23 June 2021 00:00 UTC** ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%232&iso=20210623T00&p1=1440&ah=1))<br/>
 **Registration:** https://zoom.us/meeting/register/tJMqf-6tqzwsGNVxP_46UIdV7vgsuws47eMX
 
-**Presenter:** John Wieczorek; Support: The Darwin Core Maintenance Group (Steve Baskauf, Peter Desmet, Markus Döring, Tim Robertson, Paula Zermoglio) & Rich Pyle
+**Presenter: John Wieczorek**<br />
+**Support:** The Darwin Core Maintenance Group (Steve Baskauf, Peter Desmet, Markus Döring, Tim Robertson, Paula Zermoglio) & Rich Pyle
 
 
 
