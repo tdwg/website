@@ -37,17 +37,15 @@ Preparations are now under way for a release candidate to be presented to the TD
 An all-important step in TDWG's standard maintenance process is the public review. Periodically, the community is asked to assess proposals for enhancements to a standard that have arisen from community driven needs and effort to resolve them. In this session we will focus on the most recent and uncharacteristically vast public review of 40 proposals, highlighting selected examples from among them to show how the change process works in practice, summarizing the overall results of the review and the destiny of the proposals involved. After a presentation, the session will be open for questions and discussion about the process and the proposals. This session is a co-production of the Darwin Core Hour and TDWG Outreach & Communication sub-committee.
 
 _\[ Note: registration is free, but you must register to participate via Zoom. Logins will be limited to 100. <br/>
-Session will be live-streamed to YouTube for overflow (observers can submit questions via Google Doc). Links will be posted here closer to the event.\]_
-
-**Time 1 -- 22 June 2021 16:00 UTC** ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%231&iso=20210622T16&p1=1440&ah=1))<br />
-**Registration:** https://zoom.us/meeting/register/tJMqcuusrz0vE9Q-iDECMtxVZ0_eEgBR4vq4
-
-**Time 2 -- 23 June 2021 00:00 UTC** ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%232&iso=20210623T00&p1=1440&ah=1))<br/>
-**Registration:** https://zoom.us/meeting/register/tJMqf-6tqzwsGNVxP_46UIdV7vgsuws47eMX
+Session will be live-streamed to YouTube for overflow (observers can submit questions via Google Doc). Links will be posted here closer to the event. \]_
 
 **Presenter: John Wieczorek**<br />
 **Support:** The Darwin Core Maintenance Group (Steve Baskauf, Peter Desmet, Markus Döring, Tim Robertson, Paula Zermoglio) & Rich Pyle
 
+| Event | Date-Time | Registration Link |
+| --- | --- | --- |
+| Time 1 | 22 June 2021 16:00 UTC ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%231&iso=20210622T16&p1=1440&ah=1)) | [Register](https://zoom.us/meeting/register/tJMqcuusrz0vE9Q-iDECMtxVZ0_eEgBR4vq4) |
+| Time 2 | 23 June 2021 00:00 UTC ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%232&iso=20210623T00&p1=1440&ah=1)) | [Register](https://zoom.us/meeting/register/tJMqf-6tqzwsGNVxP_46UIdV7vgsuws47eMX) |
 
 
 #### Session 2
