@@ -7,6 +7,7 @@ cover_image_ref:
 tags: TDWG Standards
 ---
 
+# _News Item_ 
 ## Public review of Darwin Core maintenance proposals ends
 
 The initial 30-day Darwin Core review (with a one-day bonus) is now over. The Darwin Core Maintenance Group has reviewed the feedback on proposals that were under consideration and believes consensus has been achieved on [30 issues](https://github.com/tdwg/dwc/labels/Process%20-%20prepare%20for%20Executive%20review), which will now be put forward for ratification.
@@ -16,11 +17,39 @@ Ten issues remain controversial. Of these, six have been recommended to go to ta
 Preparations are now under way for a release candidate to be presented to the TDWG Executive Committee for approval with the assistance of the Technical Architecture Group. Once presented, the Executive Committee has 30 days within which to decide to ratify all, part, or none of the proposed release.
 
 
-## Darwin Core hour (webinar): maintenance proposals - details and discussion
+# _News Item_ 
+## Webinar announcements 
 
-An essential step in maintaining a TDWG standard is the public review of changes or enhancements that have been proposed by members of the community. TDWG's public reviews are typically 30 days and enable stakeholders to review and comment on proposed modifications. The Darwin Core Maintenance Group usually schedules two public reviews per year to cover pending issues and proposals. On behalf of the Darwin Core Hour and the TDWG Outreach & Communication sub-committee, the Darwin Core Maintenance Group will hold two webinars this summer. Each webinar will be conducted twice to give our global community a chance to participate. The first webinar we will focus on the last public review of 40 proposals and present the next steps for the various issues according to review results. After the results have been reviewed, participants will have time for ask questions and discuss the proposals being advanced for ratification, as well as those still under review. These webinars are free, but registration is required, so please follow one of the links below. We will also live-stream the webinar on TDWG's YouTube channel -- in case we exceed our 100-person limit on Zoom.
+## General Title:
 
- * [Register for 1st iteration](https://zoom.us/meeting/register/tJMqcuusrz0vE9Q-iDECMtxVZ0_eEgBR4vq4):  22 June - 16:00 UTC ([convert to local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core+Hour%2C+Summer+2021+%231a&iso=20210622T16&p1=1440))
- * [Register for 2nd iteration](https://zoom.us/meeting/register/tJMqf-6tqzwsGNVxP_46UIdV7vgsuws47eMX):  23 June - 00:00 UTC ([convert to local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core+Hour%2C+Summer+2021+%231b&iso=20210623T00&p1=1440))
+### The Evolution of Biodiversity Information Standards (two sessions)
 
-The second Darwin Core Hour/webinar of the summer (mid/late August) will address the propsals still pending and under development, as well as the whole Darwin Core development/maintenance process, how it changed over time, and will highlight the different opportunities to participate in the process. 
+**General Abstract**
+
+[Darwin Core](https://www.tdwg.org/standards/dwc/) is a commonly-used standard for sharing biodiversity information, maintained by the Darwin Core Maintenance Group of Biodiversity Information Standards (TDWG). The Maintenance group monitors community interest in enhancements to the standard and periodically conducts public reviews of coordinated sets of changes. Changes may consist of the addition of new terms, changes to existing terms, and improvements in documentation about how to use the standard. Proposals are generated and discussed as issues in the [Darwin Core GitHub Repository](https://github.com/tdwg/dwc). In order to promote a better understanding of the process of evolution of the Darwin Core standard, TDWG and the [Darwin Core Hour](https://github.com/tdwg/dwc-qa/wiki/Webinars) Team are offering two webinars topics. The first webinar will focus on the recent Darwin Core public review, with explanations of how the review was conducted, the distinctions between distinct types of proposals , a summary of results, and explanations of what happens next. The second webinar will go into the broader topics of standards development and maintenance, covering topics such as the chartering of task groups to effect change, with particular emphasis of the essential role of and opportunities for people in the community to make the standards they use ever more relevant and useful.
+
+#### Session 1
+
+**Title: Darwin Core - a (Public) Review**
+
+**Abstract**
+
+An all-important step in TDWG's standard maintenance process is the public review. Periodically, the community is asked to assess proposals for enhancements to a standard that have arisen from community driven needs and effort to resolve them. In this session we will focus on the most recent and uncharacteristically vast public review of 40 proposals, highlighting selected examples from among them to show how the change process works in practice, summarizing the overall results of the review and the destiny of the proposals involved. After a presentation, the session will be open for questions and discussion about the process and the proposals. This session is a co-production of the Darwin Core Hour and TDWG Outreach & Communication sub-committee.
+
+_\[ Note: registration is free, but you must register to participate via Zoom. Logins will be limited to 100. <br/>
+Session will be live-streamed to YouTube for overflow (observers can submit questions via Google Doc). Links will be posted here closer to the event.\]_
+
+**Time 1 -- 22 June 2021 16:00 UTC** ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%231&iso=20210622T16&p1=1440&ah=1))<br />
+**Registration:** https://zoom.us/meeting/register/tJMqcuusrz0vE9Q-iDECMtxVZ0_eEgBR4vq4
+
+**Time 2 -- 23 June 2021 00:00 UTC** ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%232&iso=20210623T00&p1=1440&ah=1))<br/>
+**Registration:** https://zoom.us/meeting/register/tJMqf-6tqzwsGNVxP_46UIdV7vgsuws47eMX
+
+**Presenter:** John Wieczorek; Support: The Darwin Core Maintenance Group (Steve Baskauf, Peter Desmet, Markus Döring, Tim Robertson, Paula Zermoglio) & Rich Pyle
+
+
+
+#### Session 2
+
+**Will be held in mid / late August. Further details coming soon!** 
+
