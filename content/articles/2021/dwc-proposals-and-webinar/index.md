@@ -20,19 +20,13 @@ Preparations are now under way for a release candidate to be presented to the TD
 # _News Item_ 
 ## Webinar announcements 
 
-## General Title:
-
 ### The Evolution of Biodiversity Information Standards (two sessions)
-
-**General Abstract**
 
 [Darwin Core](https://www.tdwg.org/standards/dwc/) is a commonly-used standard for sharing biodiversity information, maintained by the Darwin Core Maintenance Group of Biodiversity Information Standards (TDWG). The Maintenance group monitors community interest in enhancements to the standard and periodically conducts public reviews of coordinated sets of changes. Changes may consist of the addition of new terms, changes to existing terms, and improvements in documentation about how to use the standard. Proposals are generated and discussed as issues in the [Darwin Core GitHub Repository](https://github.com/tdwg/dwc). In order to promote a better understanding of the process of evolution of the Darwin Core standard, TDWG and the [Darwin Core Hour](https://github.com/tdwg/dwc-qa/wiki/Webinars) Team are offering two webinars. The first will focus on the recent Darwin Core public review, with explanations of how the review was conducted, the distinctions between distinct types of proposals, a summary of results, and explanations of what happens next. The second webinar will go into the broader topics of standards development and maintenance, covering topics such as the chartering of task groups to affect change, with particular emphasis of the essential role of and opportunities for people in the community to make the standards they use ever more relevant and useful.
 
 #### Session 1
 
 **Title: Darwin Core - a (Public) Review**
-
-**Abstract**
 
 An all-important step in TDWG's standard maintenance process is the public review. Periodically, the community is asked to assess proposals for enhancements to a standard that have arisen from community driven needs and effort to resolve them. In this session we will focus on the most recent and uncharacteristically vast public review of 40 proposals, highlighting selected examples from among them to show how the change process works in practice, summarizing the overall results of the review and the destiny of the proposals involved. After a presentation, the session will be open for questions and discussion about the process and the proposals. This session is a co-production of the Darwin Core Hour and TDWG Outreach & Communication sub-committee.
 
