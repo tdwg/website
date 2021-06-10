@@ -14,8 +14,7 @@ The initial 30-day Darwin Core review (with a one-day bonus) is now over. The Da
 
 Ten issues remain controversial. Of these, six have been recommended to go to task groups for resolution (occurrenceStatus, occurrenceStatus controlled vocabulary, preparations, disposition, associatedSequences, biome). The other four contentious issues (individualCount, verbatimLabel, identificationQualifier, subgenus) will remain open under public review for another 30 days in pursuit of consensus so as not to lose any momentum. None of these ten issues will be included in the release resulting from this public review, which will proceed with the changes embodied in the aforementioned 30 resolved issues.
 
-Preparations are now under way for a release candidate to be presented to the TDWG Executive Committee for approval with the assistance of the Technical Architecture Group. Once presented, the Executive Committee has 30 days within which to decide to ratify all, part, or none of the proposed release.
-<br />
+Preparations are now under way for a release candidate to be presented to the TDWG Executive Committee for approval with the assistance of the Technical Architecture Group. Once presented, the Executive Committee has 30 days within which to decide to ratify all, part, or none of the proposed release.<br />&nbsp;
 
 
 # _News Item_ 
