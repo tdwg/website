@@ -1,5 +1,5 @@
 ---
-title: Darwin Core Maintenance Proposals and Webinar
+title: Darwin Core Maintenance Proposals and Webinars
 date: 2021-06-09
 cover_image: 
 cover_image_by: 
