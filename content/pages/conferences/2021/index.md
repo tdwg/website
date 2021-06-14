@@ -12,7 +12,9 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 7 June 2021_
+_Last updated 13 June 2021_
+
+_Translations: [ES](https://tdwg.org/conferences/2021/es/)_
 
 As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. The Interest/Task Group working sessions will be held separately during the month following the virtual conference (November 2021). 
 
@@ -22,7 +24,7 @@ TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by
 
 ## Registration
 
-While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and is well worth the price. It also helps to defray the cost of abstract publication. **Registration will open in early June.**
+While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and is well worth the price. It also helps to defray the cost of abstract publication. **Registration will open in June.**
 
 ## Abstracts
 
