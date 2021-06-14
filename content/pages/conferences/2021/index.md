@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 13 June 2021_
+_Last updated 14 June 2021_
 
 _Translations: [ES](https://tdwg.org/conferences/2021/es/)_
 
