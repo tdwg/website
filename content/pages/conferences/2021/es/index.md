@@ -14,7 +14,7 @@ page_order: 80
 
 [EN](../)
 
-_Last updated 7 June 2021_
+_Last updated 13 June 2021_
 
 Como continuamos conectando personas y datos de biodiversidad a nivel mundial a través de la virtualidad en estos tiempos de incertidumbre global, TDWG 2021 estará compuesto por simposios, talleres, presentaciones orales y pósters, sesiones de demostración y debates, así como por charlas magistrales y eventos sociales. Las sesiones de trabajo de los Grupo de Trabajo/de Interés se llevarán a cabo por separado durante el mes siguiente a la conferencia virtual (noviembre de 2021).
 
@@ -24,11 +24,11 @@ TDWG 2021 será alojado en la plataforma virtual [Whova](https://whova.com/) por
 
 ## Registro
 
-Si bien es virtual, conectar y unir a la comunidad TDWG para compartir estándares, procesos y herramientas, no es gratis. La modesta tarifa de inscripción de este año incluye una estructura de descuentos, y el precio vale la pena. Los montos también ayudan a sufragar el costo de la publicación de resúmenes. Las inscripciones se abrirán a principios de junio.
+Si bien es virtual, conectar y unir a la comunidad TDWG para compartir estándares, procesos y herramientas, no es gratis. La modesta tarifa de inscripción de este año incluye una estructura de descuentos, y el precio vale la pena. Los montos también ayudan a sufragar el costo de la publicación de resúmenes. Las inscripciones se abrirán en junio.
 
 ## Resúmenes
 
-Se requieren resúmenes para todas las contribuciones (presentaciones orales y posters virtuales) y se publicarán en nuestra revista de acceso abierto, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). El [llamado para la presentación de resúmenes](https://www.tdwg.org/conferences/2021/call-for-abstracts/) fue publicado el 6 de junio; **la fecha límite para el envío de resúmenes es el 2 de agosto.**
+Se requieren resúmenes para todas las contribuciones (presentaciones orales y posters virtuales) y se publicarán en nuestra revista de acceso abierto, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). El [llamado para la presentación de resúmenes](https://www.tdwg.org/conferences/2021/es/envio-de-resumenes/) fue publicado el 6 de junio; **la fecha límite para el envío de resúmenes es el 2 de agosto.**
 
 ## Planificación
 
