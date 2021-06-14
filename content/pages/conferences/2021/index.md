@@ -59,7 +59,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
     </a>
   </td>
   <td style="background-color: #FFFFFF; vertical-align: middle;">
-    <a href="https://pensoft.net">
+    <a href="https://biodiversity.research.ufl.edu/">
     <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="" height="" />
     </a>
   </td>
