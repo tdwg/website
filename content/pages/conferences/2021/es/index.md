@@ -32,7 +32,7 @@ Se requieren resúmenes para todas las contribuciones (presentaciones orales y p
 
 ## Planificación
 
-Durante la semana de la conferencia virtual, las sesiones se programarán principalmente en la zona horaria de nuestro anfitrión (1100 a 2300 UTC), con la mayoría de las sesiones de 90 a 120 minutos de duración y con un descanso entre sesiones. Para dar cabida a todas las presentaciones, se programarán algunas sesiones paralelas. Las diferencias de zona horaria en nuestra comunidad global hacen inevitable que algunas sesiones de interés puedan ocurrir fuera del horario laboral normal o en mitad de la noche para algunas personas. El Comité de Programa está trabajando para que el calendario sea lo más inclusivo posible y, para mitigar estas dificultades de tiempos, las presentaciones grabadas se publicarán de manera oportuna. Ver [más sobre presentaciones](https://tdwg.org/conferences/2021/presentation-info/)…
+Durante la semana de la conferencia virtual, las sesiones se programarán principalmente en la zona horaria de nuestro anfitrión (1100 a 2300 UTC), con la mayoría de las sesiones de 90 a 120 minutos de duración y con un descanso entre sesiones. Para dar cabida a todas las presentaciones, se programarán algunas sesiones paralelas. Las diferencias de zona horaria en nuestra comunidad global hacen inevitable que algunas sesiones de interés puedan ocurrir fuera del horario laboral normal o en mitad de la noche para algunas personas. El Comité de Programa está trabajando para que el calendario sea lo más inclusivo posible y, para mitigar estas dificultades de tiempos, las presentaciones grabadas se publicarán de manera oportuna. Ver [más sobre presentaciones](https://tdwg.org/conferences/2021/es/info-de-presentaciones/)…
 
 ## Auspiciantes
 
