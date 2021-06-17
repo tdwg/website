@@ -9,6 +9,8 @@ page_order: 70
 ---
 ## Presentation Expectations
 
+_Translations: [ES](https://tdwg.org/conferences/2021/es/info-de-presentaciones/)_
+
 During the virtual conference week, sessions will be scheduled primarily during the time zone of our host (1100–2300 UTC), with most sessions lasting 90-120 minutes, and with a break between sessions. To accommodate all submissions, some parallel sessions will be scheduled. Time zone differences across our global community make it inevitable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some. The Program Committee is working to make the schedule as inclusive as possible, and to mitigate these timing difficulties, recorded presentations will be posted in a timely fashion for registered attendees.
 
 ### Contributed Oral Presentations
