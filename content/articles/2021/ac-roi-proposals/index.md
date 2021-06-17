@@ -5,7 +5,6 @@ date: 2021-06-17
 cover_image: 
 cover_image_by: 
 cover_image_ref: 
-status: hidden
 tags: TDWG Standards
 ---
 
