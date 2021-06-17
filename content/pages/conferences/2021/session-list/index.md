@@ -43,7 +43,7 @@ The goal of the session is to give an update on the current status of developmen
 
 The session aims to start with a general overview of DiSSCo e-services, demonstrations and pilot projects in development, followed by more detailed presentations discussing some of the e-services and TDWG standards development in relation to DiSSCo, with a focus on the impact that this will have on collections and the wider community globally.
 
-## SYM04 SYM04 Where and how to find, store and use links between biodiversity data: the BiCIKL perspective
+## SYM04 Where and how to find, store and use links between biodiversity data: the BiCIKL perspective
 
 **Session Type:** Symposium (unsolicited presentations considered)
 
