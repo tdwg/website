@@ -57,6 +57,11 @@ TDWG agradece el apoyo financiero o en especie a TDWG 2021 por parte de las sigu
     <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
     </a>
   </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://biodiversity.research.ufl.edu/">
+    <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="" height="" />
+    </a>
+  </td>
 </tr>
 </tbody>
 </table>
