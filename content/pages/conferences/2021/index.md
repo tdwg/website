@@ -67,7 +67,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 </tbody>
 </table>
 
-## Code%20of%20Conduct
+## Code of Conduct
 
 By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/).
 
@@ -75,4 +75,4 @@ By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https
 
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
 
-## Additional%20information
+## Additional information
