@@ -59,6 +59,7 @@ Membership dues can be paid:
 | [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | 	Ithaca, NY |
 | [Field Museum](https://www.fieldmuseum.org/) |  Chicago, IL |
 | [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) | Gainesville, FL |
+| [GBIF-ES](https://www.gbif.es/) | Madrid |
 | [Harvard University/Ernst Mayr Library/Museum of Comparative Zoology](https://library.mcz.harvard.edu/) |   Cambridge, MA |
 | [Illinois Natural History Survey](https://www.inhs.illinois.edu/) |   Champaign, IL |
 | [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/) | Beijing |
