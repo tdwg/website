@@ -20,7 +20,7 @@ The world's largest biodiversity data aggregators use TDWG data standards to int
 
 ### Membership duration/schedule
 
-Membership is based on the calendar year.  We solicit membership payments early in the year from past members, but memberships fees can be paid at any time during the year. Membership payments apply to the current calendar year.
+Membership is based on the calendar year.  We send past members an invoice for membership early in the year, but membership fees can be paid at any time during the year. Membership payments will apply to the current calendar year.
 
 ### Membership dues 
 
