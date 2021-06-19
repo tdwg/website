@@ -29,11 +29,11 @@ Membership is based on the calendar year.  We solicit membership payments early 
 | Individual | `$ 75  `|   |   |
 | Institutional  | `$500 [*]` |   |   |
 
-  \[\*\] _Institutional memberships paid in the first quarter (before 31 March) are usually discounted 20% (reduced to $400)._ 
+ \[\*\] _Institutional memberships paid in the first quarter (before 31 March) are usually discounted 20% (reduced to $400)._ 
 
 ### Payment methods
 
-Individual membership can be paid online with a credit or debit card <button onclick="window.location.href='https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership'" class="btn btn-secondary">Join TDWG as an Individual!</button>
+| Individual membership can be paid online with a credit or debit card. | <button onclick="window.location.href='https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership'" class="btn btn-secondary">Join TDWG as an Individual!</button> |
 
 Institutions and individuals needing to pay through a formal _quote/purchase order/invoice_ process should send an email with name, affiliation, address, and desired membership type \[ individual | institutional \] to the [TDWG Treasurer](mailto:treasurer@tdwg.org?subject=Membership%20request). 
 
