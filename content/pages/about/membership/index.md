@@ -8,18 +8,19 @@ tags:
 page_order: 3
 ---
 
-The world's largest biodiversity data aggregators use TDWG data standards to integrate data from more than 1,300 data providers. Our standards are developed and maintained by practicing biodiversity scientists and data managers from around the world. The social infrastructure provided by TDWG enables this international collaboration. TDWG itself depends on its members to operate and maintain its communication tools and support the actual work of standards development. The financial support of its members makes TDWG more effective. Please join! TDWG has individual and institutional memberships. Please contact the <a href="mailto:treasurer@tdwg.org?subject=Membership request&body=Please provide contact name and email if different than sender, billing address, and membership type (individual or institutional).">treasurer@tdwg.org</a> if you would like to become a member.
+The world's largest biodiversity data aggregators use TDWG data standards to integrate data from more than 1,300 data providers. Our standards are developed and maintained by practicing biodiversity scientists and data managers from around the world. The social infrastructure that TDWG provides enables this international collaboration. TDWG itself depends on its members to operate and maintain its collaboration tools and do the actual work of standards development. The financial support of its members makes TDWG more effective. Please join! TDWG has individual and institutional memberships. 
 
 ### Benefits of membership
 
 * Voting rights:  TDWG members\[\*\] can vote in TDWG elections (Executive officers, subcommittee Chairs, rules of governance)
 * Discount on article publishing charges (APCs) in the TDWG Journal [Biodiversity Information Science and Standards (BISS)](../../journal/)
+* Discount on conference registration (up to five registrations discounted for institutional members)
 
 \[\*\] _Institutional member votes are weighted by five ( &times; 5 ) in situations where votes of institutional and individual members must be combined, such as the election of officers._
 
-### Membership schedule
+### Membership duration/schedule
 
-Membership is based on the calendar year.  We solicit membership payments early in the year. Memberships fees can be paid at any time during the year, but apply to the calendar year.
+Membership is based on the calendar year.  We solicit membership payments early in the year from past members, but memberships fees can be paid at any time during the year. Membership payments apply to the current calendar year.
 
 ### Membership dues 
 
@@ -32,11 +33,13 @@ Membership is based on the calendar year.  We solicit membership payments early 
 
 ### Payment methods
 
-[Request an invoice](mailto:treasurer@tdwg.org?subject=Membership%20request) to pay membership dues by sending your name, affiliation, address, and desired membership type to the TDWG Treasurer. 
+Individual membership can be paid online with a credit or debit card <button onclick="window.location.href='https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership'">Individual Membership</button>
 
-Membership dues can be paid:
+Institutions and individuals needing to pay through a formal _quote/purchase order/invoice_ process should send an email with name, affiliation, address, and desired membership type \[ individual | institutional \] to the [TDWG Treasurer](mailto:treasurer@tdwg.org?subject=Membership%20request). 
 
-* online by credit card, or  
+Invoices for membership dues can be paid:
+
+* online by credit card  
 * by bank wire (banking details included with an invoice)
 * by check drawn on a United States bank. 
 
