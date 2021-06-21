@@ -42,7 +42,7 @@ Session will be live-streamed to YouTube for overflow (observers can submit ques
 | 1b | 23 June 2021 00:00 UTC ([show in local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core%3A++a+%28public%29+review+--+Time+%232&iso=20210623T00&p1=1440&ah=1)) | [Register](https://zoom.us/meeting/register/tJMqf-6tqzwsGNVxP_46UIdV7vgsuws47eMX) |
 
 
-#### Webnar 2
+#### Webinar 2
 
 **A second Darwin Core Hour (webinar) will be conducted in mid/late August. The current plan is to discuss the process of standards maintenance more generally, and to highlight opportunities to participate.  Further details coming soon!** 
 
