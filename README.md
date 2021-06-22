@@ -16,12 +16,12 @@ This repository contains the content and settings for the [TDWG website](https:/
 ├── content                   : Website content. Each news item/page is a directory, containing at least an index.md
 │   ├── articles              : News items, organized by year
 │   └── pages
-│       ├── home              : Homepage
-│       ├── standards         : Standards pages
-│       ├── journal           : BISS page
-│       ├── community         : Interest, Task and Maintenance Groups pages
-│       ├── conferences       : Conference landing pages
-│       └── about             : Executive, constitution, contact, etc. pages
+│       ├── home              : Homepage
+│       ├── standards         : Standards pages
+│       ├── journal           : BISS page
+│       ├── community         : Interest, Task and Maintenance Groups pages
+│       ├── conferences       : Conference landing pages
+│       └── about             : Executive, constitution, contact, etc. pages
 │
 ├── settings.py, settings-prod.py : Generic website settings
 ├── requirements.txt          : Python requirements for Pelican
