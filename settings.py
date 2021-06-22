@@ -162,7 +162,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [ # Links in footer. Format: title, SITEURL/path
     ["What is TDWG?", "about/"],
     ["Contact us", "about/contact/"],
-    ["Privacy policy", "about/privacy/"]
+    ["Privacy policy", "about/terms-of-use/#privacy%20statement"]
 ]
 
 
