@@ -8,11 +8,14 @@ tags: functional subcommittee, charter
 github: https://github.com/tdwg/tag
 ---
 
-## Chair
+## Co-Chairs
 
-[Simon Checksfield](mailto:), Elected Term: 2020-2021  
-Commonwealth Scientific and Industrial Research Organisation (CSIRO)  
-Canberra, Australia  
+[Nicky Nicolson](mailto:n.nicolson@kew.org), Elected Term: 2020-2021 
+[Royal Botanic Gardens, Kew](https://kew.org), Richmond, London
+
+[James A. Macklin](mailto:james.macklin@canada.ca), Elected Term: 2020-2021
+[Agriculture Agri-Food Canada](https://www.agr.gc.ca/), Ottawa
+
 
 ## Mission
 
