@@ -28,11 +28,11 @@ Même si la conférence est virtuelle, connecter et unifier la communauté du TD
 
 ## Résumés
 
-Des résumés sont demandés pour toute contribution (présentation orale ou poster virtuel) et seront publiés dans notre journal en accès libre, [_Biodiversity Information Science and Standards_](https://biss.pensoft.net/) (BISS). **[L’appel à participation](https://www.tdwg.org/conferences/2021/call-for-abstracts/) a été diffusée le 6 juin, la date limite pour proposer un résumé est le 2 août.**
+Des résumés sont demandés pour toute contribution (présentation orale ou poster virtuel) et seront publiés dans notre journal en accès libre, [_Biodiversity Information Science and Standards_](https://biss.pensoft.net/) (BISS). **[L’appel à participation](https://www.tdwg.org/conferences/2021/fr/appel-a-participation/) a été diffusée le 6 juin, la date limite pour proposer un résumé est le 2 août.**
 
 ## Programmation
 
-Pendant la semaine de conférence, des sessions seront programmées et suivront les plages horaires de notre hôte hébergeur (1100-2300 UTC), avec la plupart des sessions d’une durée de 90-120 minutes, et une pause entre les sessions. Afin de pouvoir accueillir toutes les sessions proposées, quelques sessions se feront en parallèle. Le décalage horaire de notre communauté mondiale rend inévitable que certaines sessions intéressantes se passent en dehors des horaires classiques de travail ou au milieu de la nuit pour certaines et certains. Le comité de programmation fait en sorte de rendre le programme aussi inclusif que possible et d’atténuer ces difficultés temporelles, les enregistrements des présentations seront mis à disposition dès que possible. Voir [information pour les présentations](https://tdwg.org/conferences/2021/presentation-info/)…
+Pendant la semaine de conférence, des sessions seront programmées et suivront les plages horaires de notre hôte hébergeur (1100-2300 UTC), avec la plupart des sessions d’une durée de 90-120 minutes, et une pause entre les sessions. Afin de pouvoir accueillir toutes les sessions proposées, quelques sessions se feront en parallèle. Le décalage horaire de notre communauté mondiale rend inévitable que certaines sessions intéressantes se passent en dehors des horaires classiques de travail ou au milieu de la nuit pour certaines et certains. Le comité de programmation fait en sorte de rendre le programme aussi inclusif que possible et d’atténuer ces difficultés temporelles, les enregistrements des présentations seront mis à disposition dès que possible. Voir [information pour les présentations](https://www.tdwg.org/conferences/2021/fr/info-pour-les-presentations/)…
 
 ## Donateurs
 
@@ -74,3 +74,6 @@ En participant au TDWG 2021, vous acceptez de respecter notre [Code de conduite]
 ## Contact
 
 Si vous avez des questions, veuillez contacter [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
+
+## Informations complémentaires
+
