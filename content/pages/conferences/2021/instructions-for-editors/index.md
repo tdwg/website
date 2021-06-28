@@ -30,7 +30,7 @@ _Last updated 4 June 2021_
 2. **Workflow.** The diagram below splits editorial duties into two parts that should ultimately work in concert with authors for revisions and with the PC editors [editor@tdwg.org](mailto:editor@tdwg.org) for placement. Please work with your co-editors to decide on the best workflow for your group.
     1. Suggest changes using ARPHA's [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) and [Comment](https://arpha.pensoft.net/tips/Comments) features. Only obvious spelling errors are exceptions to this rule.
     2. Use FLAGS (see 3.b.i–vii) to mark editing progress 
-    3. Use the following buttons: _Send Feedback; Validate_. ![ARPHA Editing Flowchart](https://static.tdwg.org/conferences/2020/instructions/ARPHAEditingFlowchart.png "ARPHA Editing Flowchart")
+    3. Use the following buttons: _Send Feedback; Validate_. ![ARPHA Editing Flowchart](https://static.tdwg.org/conferences/2021/images/arpha-editing-flowchart.png "ARPHA Editing Flowchart")
 
 3. **Abstract Status.** You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s ‘Collection editor’ view. On the right hand side in the dashboard you](https://arpha.pensoft.net/dashboard.php? &showall=1&state_type=23) can see the status of the abstract and the subcollection (i.e. “Part of” [collection]) to which it was submitted. Some of you may be technical editors of more than one collection). Here is a short explanation of the document statuses:
     4. **Draft**: It has not yet been submitted by the authors OR it has been returned to the authors for revision (via “Send Feedback”). Editors will have read-only access at this time.
