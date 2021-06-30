@@ -16,7 +16,7 @@ Presentaciones orales - 10 minutos para presentar + 3 min. para preguntas + 2 mi
 ### Simposios
 Los simposios pueden usar el mismo formato que las presentaciones orales contribuidas o los organizadores del simposio pueden decidir cambiar la cantidad de tiempo que se les permite a los oradores. Los simposios pueden incluir tiempo reservado para una introducción y una discusión. Cada presentación requiere un resumen publicado.
 
-### Talleres, paneles de discusión y [inconferencia](https://quesignificado.org/que-es-una-inconferencia/)
+### Talleres, paneles de discusión e [inconferencia](https://quesignificado.org/que-es-una-inconferencia/)
 Los talleres, el panel de discusión y la no conferencia pueden incluir presentaciones para preparar el escenario para la sesión. Si bien recomendamos la presentación de al menos un resumen para representar cada sesión, los organizadores pueden hacer arreglos para enviar un resumen que sumarize los resultados (posterior a la conferencia), o enviar un artículo posterior a la conferencia más largo (el costo no se incluye como parte de la inscripción) a la colección de resúmenes [TDWG 2021 Proceedings](https://biss.pensoft.net/collection/293/).
 
 ### Carteles
