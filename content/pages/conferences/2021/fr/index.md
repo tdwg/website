@@ -14,7 +14,7 @@ page_order: 90
 
 [EN](../)
 
-_Last updated 13 June 2021_
+_Last updated 30 June 2021_
 
 Alors que nous continuons à connecter les personnes et les données sur la biodiversité à l’échelle mondiale grâce aux technologies virtuelles en ces temps globalement incertains, le TDWG 2021 sera composé de symposiums, de workshops, de présentations de communications orales et de posters, de démos, et de discussions, mais aussi de conférences plénières et d’évènements conviviaux. Les sessions de travail des groupes de travail et d’intérêt auront lieu séparément pendant le mois suivant la conférence virtuelle (novembre 2021).
 
@@ -62,6 +62,16 @@ Le TDWG remercie les organisations suivantes pour leur soutien financier ou en n
     <a href="https://biodiversity.research.ufl.edu/">
     <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="" height="" />
     </a>
+  </td>
+</tr>
+    <tr>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://biodiversitylibrary.org">
+    <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="" height="" />
+    </a>
+  </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    &nbsp;
   </td>
 </tr>
 </tbody>
