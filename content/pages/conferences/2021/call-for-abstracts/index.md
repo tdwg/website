@@ -12,11 +12,13 @@ page_order: 36
 
 # TDWG 2021 Call for Abstracts 
 
+_Translations: [ES](https://www.tdwg.org/conferences/2021/es/envio-de-resumenes/), [FR](https://www.tdwg.org/conferences/2021/fr/appel-a-participation/)_
+
 We are pleased to announce the call for abstracts for [TDWG 2021](https://www.tdwg.org/conferences/2021/), the virtual conference of [Biodiversity Information Standards](https://tdwg.org/) (TDWG), which will be held 18–22 October 2021. Abstracts will be submitted to and published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). **The deadline for the submission of abstracts is 2 August 2021.** Abstracts will be peer reviewed and final approval for publication requires payment of any registration fees by the presenter. Content may be presented either live or pre-recorded for TDWG 2021. Sessions will be recorded and made available initially only to registered attendees.
 
 ## About the conference
 
-The theme for TDWG 2021 is _**Connecting the world of biodiversity data: uniting people, processes, and tools._** In addition to opening and closing plenaries, the conference will feature 15 symposia, 2 workshops, a panel discussion, and an unconference, as well as contributed oral presentations and posters. There will also be opportunities to network and socialize on the [Whova platform](https://whova.com/), chosen to host this year's conference.
+The theme for TDWG 2021 is _**Connecting the world of biodiversity data: uniting people, processes, and tools.**_ In addition to opening and closing plenaries, the conference will feature 15 symposia, 2 workshops, a panel discussion, and an unconference, as well as contributed oral presentations and posters. There will also be opportunities to network and socialize on the [Whova platform](https://whova.com/), chosen to host this year's conference.
 
 ## What you need to know
 
