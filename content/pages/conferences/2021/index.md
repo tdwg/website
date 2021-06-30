@@ -64,6 +64,16 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
     </a>
   </td>
 </tr>
+<tr>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://biodiversitylibrary.org">
+    <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="" height="" />
+    </a>
+  </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    &nbsp;
+  </td>
+</tr>
 </tbody>
 </table>
 
