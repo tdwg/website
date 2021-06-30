@@ -22,7 +22,7 @@ El tema de TDWG 2021 es _Conectando el mundo de los datos de biodiversidad: unie
 * Cuando esté listo/a para comenzar su resumen, siga las [Instrucciones para Autores para el Envío de Resúmenes](https://www.tdwg.org/conferences/2021/instructions-for-abstract-submission/) - **fecha límite 2 de agosto de 2021**
 * Vea dónde serán publicados los resúmenes en [TDWG 2021 Proceedings](https://biss.pensoft.net/collection/293/) y visite [colecciones pasadas en BISS](https://biss.pensoft.net/collections/) (revise la pestaña de medios en los resúmenes individuales para ver contenido extra como enlaces a diapositivas y videos)
 * ¿Quiere saber más acerca de cómo su resumen será editado? Vea las [Instrucciones para Editoras](https://www.tdwg.org/conferences/2021/instructions-for-editors/)
-* Vea más acerca de [presentaciones & tiempos](https://www.tdwg.org/conferences/2021/presentation-info/)
+* Vea más acerca de [presentaciones & tiempos](https://www.tdwg.org/conferences/2021/es/info-de-presentaciones/)
 * Al participar en TDWG 2021, acepta cumplir con nuestro [Código de Conducta](https://www.tdwg.org/about/code-of-conduct/)
 * Por favor envíe preguntas adicionales a: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
 
