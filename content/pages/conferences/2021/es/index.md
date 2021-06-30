@@ -14,7 +14,7 @@ page_order: 80
 
 [EN](../)
 
-_Last updated 13 June 2021_
+_Last updated 30 June 2021_
 
 Como continuamos conectando personas y datos de biodiversidad a nivel mundial a través de la virtualidad en estos tiempos de incertidumbre global, TDWG 2021 estará compuesto por simposios, talleres, presentaciones orales y pósters, sesiones de demostración y debates, así como por charlas magistrales y eventos sociales. Las sesiones de trabajo de los Grupo de Trabajo/de Interés se llevarán a cabo por separado durante el mes siguiente a la conferencia virtual (noviembre de 2021).
 
@@ -63,7 +63,17 @@ TDWG agradece el apoyo financiero o en especie a TDWG 2021 por parte de las sigu
     </a>
   </td>
 </tr>
-</tbody>
+<tr>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://biodiversitylibrary.org">
+    <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="" height="" />
+    </a>
+  </td>
+  <td style="background-color: #FFFFFF; vertical-align: middle;">
+    &nbsp;
+  </td>
+</tr>
+    </tbody>
 </table>
 
 ## Código de Conducta
