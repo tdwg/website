@@ -24,7 +24,7 @@ TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by
 
 ## Registration
 
-While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and is well worth the price. It also helps to defray the cost of abstract publication. **Registration will open in June.**
+While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and is well worth the price. It also helps to defray the cost of abstract publication. [**Register now**](https://reg.conferences.dce.ufl.edu/Basic/1400081801)
 
 ## Abstracts
 
