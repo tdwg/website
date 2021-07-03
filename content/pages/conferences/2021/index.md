@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 14 June 2021_
+_Last updated 2 July 2021_
 
 _Translations: [ES](./es/), [FR](./fr)_
 
@@ -24,11 +24,13 @@ TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by
 
 ## Registration
 
-While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and is well worth the price. It also helps to defray the cost of abstract publication. [**Register now**](https://reg.conferences.dce.ufl.edu/Basic/1400081801)
+While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and helps to defray the cost of abstract publication. Register by 1 August 2021 (UTC-4) to qualify for a $50 early registration discount. Special discounts are in place for students, post-docs, and participants from developing nations. Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202021_1) enjoy a $25 discount for regular registration. Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) before registering for TDWG 2021. 
+
+[**Register now for TDWG 2021**](https://reg.conferences.dce.ufl.edu/Basic/1400081801)
 
 ## Abstracts
 
-Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). **The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June; deadline for abstract submission is 2 August.**
+Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). Presenters are required to complete registration before abstracts can be published. **The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June; deadline for abstract submission is 2 August.**
 
 ## Scheduling
 
