@@ -13,7 +13,7 @@ alert_title: TDWG 2021 Registration Now Open!
 alert_text: TDWG 2021, will be a full week of symposia, panels, presentations, etc., 18-22 Oct. Professionals save $50 by registering before 2 Aug. Students, post-docs, and participants from developing countries receive even larger discounts.
 alert_button: Learn more...
 alert_link: https://mailchi.mp/ae0070a6a57a/registration-for-tdwg-2021-now-open
-alert_image: https://static.tdwg.org/conferences/2021/logos/tdwg-2021-logo-plant-wide-cropped.png
+alert_image: https://static.tdwg.org/conferences/2021/logos/tdwg-2021-logo-plant-wide-cropped2.png
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
