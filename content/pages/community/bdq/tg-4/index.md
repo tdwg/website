@@ -11,8 +11,8 @@ status: published
 
 The detailed goals and expected outcomes for the Vocabularies Task Group (TG4), as well as the steps to produce them are described here.
 
-## Convenor
-[Paula Zermoglio](pzermoglio@gmail.com)
+## Convener
+[Paula Zermoglio](mailto:pzermoglio@gmail.com)
 
 ## Motivation
 
