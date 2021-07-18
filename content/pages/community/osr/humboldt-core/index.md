@@ -5,10 +5,10 @@ cover_image: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
 cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/oe25dLOXpL8
 tags: task group
-github:
+github: https://github.com/tdwg/hc
 ---
 
-## Convenor  
+## Convener  
 
 Yanina Sica <yanina.sica@yale.edu> - Map of Life, Yale University. 
 
@@ -21,12 +21,12 @@ Rob Guralnick | Florida Museum of Natural History | <rguralnick@flmnh.ufl.edu>
 John Wieczorek | VertNet, Darwin Core Maintenance Interest Group | <gtuco.btuco@gmail.com>
 Paula Zermoglio | VertNet, Darwin Core Maintenance Interest Group | <pzermoglio@gmail.com>
 Kate Ingenloff | Map of Life | <kathryn.ingenloff@gmail.com>
-Steve Baskaufs | Vanderbilt University, Darwin Core Maintenance Interest Group | <steve.baskauf@vanderbilt.edu>
+Steve Baskauf | Vanderbilt University, Darwin Core Maintenance Interest Group | <steve.baskauf@vanderbilt.edu>
 Tim Robertson | GBIF | <trobertson@gbif.org>
 Dmitry Schigel | GBIF | <dschigel@gbif.org>
 Erlend B. Nilsen | Living Norway Ecological Data Network & NINA | <erlend.nilsen@nina.no>
 Peter Brenton | CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group | <peter.brenton@csiro.au>
-Robert D Stevenson | University of Massachusetts-Boston | rdstevenson10@gmail.com
+Robert D Stevenson | University of Massachusetts-Boston | <rdstevenson10@gmail.com>
 
 
 ## Motivation
