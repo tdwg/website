@@ -24,7 +24,7 @@ Freie Universität Berlin
 Botanic Garden and Botanical Museum Berlin-Dahlem  
 Berlin, Germany
 
-[James Macklin](mailto:james.macklin@agr.gc.ca)  
+[James Macklin](mailto:james.macklin@canada.ca)  
 Research Scientist  
 Botany and Biodiversity Informatics  
 Agriculture and Agri-Food Canada  
