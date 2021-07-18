@@ -5,11 +5,14 @@ cover_image: https://images.unsplash.com/photo-1492031215329-791748ee1253
 cover_image_by: Alex Guillaume
 cover_image_ref: https://unsplash.com/photos/0MC0o-xLucM
 tags: interest group, maintenance group
+github: https://github.com/tdwg/dwc
+standard: https://www.tdwg.org/standards/dwc/
+standard_title: Darwin Core Standard
 ---
 
 ## Convener 
 
-John Wieczorek - VertNet
+[John Wieczorek](mailto:gtuco.btuco@gmail.com) - VertNet
 
 ## Core members
 
@@ -21,7 +24,7 @@ John Wieczorek - VertNet
 
 ## Motivation
 
-This interest group is established to meet the requirements in Section 2.1 of the TDWG Vocabulary Maintenance Specification: to maintain the Darwin Core vocabulary.
+This interest group is established to meet the requirements in [Section 2.1](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md#21-vocabulary-maintenance-interest-groups) of the [TDWG Vocabulary Maintenance Specification](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md): to maintain the Darwin Core vocabulary.
 
 ## Becoming involved
 
