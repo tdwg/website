@@ -5,7 +5,7 @@ cover_image: https://images.unsplash.com/photo-1605298721656-8a72a357492d
 cover_image_by: Cameron Venti
 cover_image_ref: https://unsplash.com/photos/zY_ww-aVYSU
 tags: interest group
-github:
+github: https://github.com/tdwg/gbwg
 ---
 
 <!-- Copied from http://www.tdwg.org/activities/genomic-biodiversity/charter/ -->
