@@ -5,10 +5,10 @@ cover_image:
 cover_image_by: 
 cover_image_ref: 
 tags: task group
-github: https://github.com/tdwg/bdq
+github: https://github.com/tdwg/bdq/tree/master/tg2
 ---
 
-## Convenor
+## Convener
 
 Lee Belbin
 
