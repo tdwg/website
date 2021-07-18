@@ -9,7 +9,7 @@ tags: functional subcommittee, charter
 
 ## Chair
 
-[Connie Rinaldo](mailto:crinaldo@oeb.harvard.edu), Elected Term: 2019-2020  
+[Connie Rinaldo](mailto:farmandcircus@gmail.com), Elected Term: 2019-2022  
 Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University   
 Cambridge, MA, USA  
 
