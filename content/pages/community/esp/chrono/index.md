@@ -5,19 +5,19 @@ cover_image: https://images.unsplash.com/photo-1580407196238-dac33f57c410
 cover_image_by: Wolfgang Hasselman
 cover_image_ref: https://unsplash.com/photos/6JZJyHXQ-p0https://unsplash.com/photos/6JZJyHXQ-p0
 tags: task group
-github: https://github.com/tdwg/esp
+github: https://github.com/VertNet/dwc-chronology
 status: published
 ---
 
-# **Darwin Core Chronometric Age Extension** **Charter**
+# Darwin Core Chronometric Age Extension Charter
 A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 
-# Convenor
+## Convener
 
-* John Wieczorek    
+* [John Wieczorek](mailto:gtuco.btuco@gmail.com)    
 
 
-# Core Members
+## Core Members
 
 * John Wieczorek  
 * Laura Brenskelle  
@@ -27,11 +27,11 @@ A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 * Denné Reed  
 
 
-# Motivation
+## Motivation
 
 The Task Group is required in order to produce a new TDWG standard vocabulary. The new vocabulary to be produced by the Task Group is an extension to Darwin Core for chronometric age information. Chronometric age information is not covered by terms in Darwin Core, and is important in paleontology, zooarchaeology, and archaeobotany.
 
-# Goals Outputs and Outcomes
+## Goals Outputs and Outcomes
 
 * Formal definitions for chronometric age terms following the Darwin Core model.  
 * Specification for a Chronometric Age extension to Darwin Core that can be used as supplementary information in a Darwin Core Archive. Depends on term definitions.  
@@ -41,18 +41,18 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
 * We will include mappings from the Chronometric Age terms to EFG ([http://geocase.eu/efg](http://geocase.eu/efg)). This will be done in the same way that mappings between Darwin Core and ABCD is done - with the term attribute abcd\_equivalence.  
 
 
-# Strategy
+## Strategy
 
 * Most of the outputs have already been produced and used for the publication of chronometric age data for multiple zooarchaeology and paleontology data sets. We will try to finalize the definitions of the uncertainty terms through continued community discussion to try to achieve a consensus.  
 * The outputs will follow the TDWG Standards Documentation Standard (SDS) and will be reviewed as required processes by the TDWG by-laws [https://www.tdwg.org/about/process/](https://www.tdwg.org/about/process/) for the ratification of standards.  
 
 
-# Becoming Involved
+## Becoming Involved
 
 * Interested parties are invited to watch and contribute to the GitHub repository.  
 
 
-# History/Context
+## History/Context
 
 * Presentations (see references) at the annual meetings of TDWG in 2017 and 2018 as well as in the Darwin Core Hour showed the need for terms to capture chronometric age information for non-neontological information spanning recent archaeological to paleontological biodiversity data. Prototypes and testing were done in a collaboration between ZooArchNet and VertNet, resulting datasets published with a functional Chronometric Date extension, and later with a replacement Chronometric Age extension.  
 * Review of the Chronometric Age extension was done in the Paleontology Interest Group meetings in 2017 and 2018, and with researchers in the representing the following groups:  
@@ -69,12 +69,12 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
 
 * This Task Group was created to do the followup work necessary to make the already developed material into a ratified TDWG standard, the process and standards for which did not exist when the work on the Chronometric Age extension began.  
 
-# Summary
+## Summary
 
 * The Task Group will produce a set of chronometric age terms and with them construct an extension to Darwin Core.  
 
 
-# Resources
+## Resources
 
 * GitHub repository: [https://github.com/VertNet/dwc-chronology](https://github.com/VertNet/dwc-chronology)  
 * Brenskelle L, Wieczorek J, Guralnick R, Emery K, LeFebvre M (2017) Extending Darwin Core to incorporate data about material condition and absolute deep time. Proceedings of TDWG 1: e20126. https://doi.org/10.3897/tdwgproceedings.1.20126  
