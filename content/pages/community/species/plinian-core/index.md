@@ -5,10 +5,10 @@ cover_image: https://images.unsplash.com/photo-1605315222417-f2ddd393a2e9
 cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/Fk99LvrIqws
 tags: task group
-github:
+github: https://github.com/tdwg/PlinianCore
 ---
 
-## Convenor  
+## Convener  
 
 [Francisco Pando](pando@rjb.csic.es) - Real Jardín Botánico, CSIC. Madrid
 
