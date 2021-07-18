@@ -5,7 +5,7 @@ cover_image:
 cover_image_by:
 cover_image_ref:
 tags: task group
-github: 
+github: https://github.com/tdwg/dwc/issues/228
 status: published
 ---
 
@@ -13,9 +13,9 @@ status: published
 
 'How did it die?' is a placeholder name for the Task Group until the name is agreed. 
 
-## Convenor
+## Convener
 
-  - Sophia Ratcliffe, NBN Trust, UK
+  - [Sophia Ratcliffe](mailto:s.ratcliffe@nbn.org.uk), NBN Trust, UK
 
 ## Core members
 
@@ -165,7 +165,7 @@ any cause of death.
     science and wildlife disease surveillance. *EcoHealth*, *12*(4),
     693-702. 
   - The initial request for a new term:
-    <https://github.com/tdwg/dwc/issues/228and
+    <https://github.com/tdwg/dwc/issues/228> and
     <https://github.com/tdwg/dwc-qa/issues/142>
 
 ##### Examples of datasets that use the term vitality:
@@ -179,4 +179,4 @@ any cause of death.
   - Seasearch Marine Records in England:
     <https://registry.nbnatlas.org/public/show/dr690>
   - Wild boar SASA sightings record:
-    https://registry.nbnatlas.org/public/show/dr538
+    <https://registry.nbnatlas.org/public/show/dr538>
