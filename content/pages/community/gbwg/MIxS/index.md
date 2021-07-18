@@ -5,10 +5,10 @@ cover_image: https://images.unsplash.com/photo-1606698235008-0b44ca6f7594
 cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/EyEdZ2aKRfA 
 tags: task group
-github:
+github: https://github.com/tdwg/gbwg/tree/main/dwc-mixs
 ---
 
-## Convenors
+## Conveners
 
 [Pier Luigi Buttigieg](https://orcid.org/0000-0002-4366-3088), [Raïssa Meyer](https://orcid.org/0000-0002-2996-719X)
 
