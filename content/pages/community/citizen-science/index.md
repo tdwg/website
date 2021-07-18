@@ -19,7 +19,7 @@ University of Massachusetts Boston
 Boston, MA 02125-3393  
 USA  
 
-[Elizabeth (Libby) Ellwood](mailto:eellwoodlibby.gmail.com)  
+[Elizabeth (Libby) Ellwood](mailto:ellwoodlibby@gmail.com)  
 La Brea Tar Pits & Museum  
 Natural History Museum of Los Angeles County  
 5801 Wilshire Blvd.  
