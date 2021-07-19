@@ -10,8 +10,8 @@ github: https://github.com/tdwg/tnc
 
 ## Convener
 
-[Niels Klazenga](Niels.Klazenga@rbg.vic.gov.au)  
-Royal botanic Gardens Victoria
+[Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au)  
+Royal Botanic Gardens Victoria
 
 ## Summary
 
