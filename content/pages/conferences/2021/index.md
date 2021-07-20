@@ -20,7 +20,7 @@ As we continue to connect people and biodiversity data globally by virtual means
 
 ## Hosts
 
-TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by the University of Florida, Gainesville and the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/), with [Dr. Pam Soltis](https://www.floridamuseum.ufl.edu/soltis-lab/), Director of the [University of Florida Biodiversity Institute](https://biodiversity.research.ufl.edu/), and Research PI for [iDigBio](https://www.idigbio.org/), leading the hosting effort. Brianna Blassneck, of the University of Florida Conference Services group, will be helping to organize and manage TDWG 2021. 
+TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by the [University of Florida Biodiversity Institute](https://biodiversity.research.ufl.edu/) with Director [Dr. Pam Soltis](https://www.floridamuseum.ufl.edu/soltis-lab/) at the University of Florida, Gainesville, along with the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) and [iDigBio](https://www.idigbio.org/). The University of Florida Conference Services group, led by Avery Bender will be managing registration, and our use of the Conference virtual platform.
 
 ## Registration
 
