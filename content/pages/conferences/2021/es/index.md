@@ -12,7 +12,7 @@ page_order: 80
 
 # TDWG 2021<br />Octubre 18-22 
 
-_Traducciones: [EN](../), [FR](../fr)_
+_Traducciones: [EN](../), [FR](../fr), [JP](../ja)_
 
 _Last updated 30 June 2021_
 
