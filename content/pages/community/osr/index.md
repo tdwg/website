@@ -29,7 +29,7 @@ Most primary biodiversity data is based on observational data, which consists of
 ## Becoming involved
 
 * Anyone with and interest in organizing observational and specimen data can be involved.
-* Contact Quention Groom (quentin.groom@plantentuinmeise.be)
+* Contact Quentin Groom (quentin.groom@plantentuinmeise.be)
 
 ## Resources
 
