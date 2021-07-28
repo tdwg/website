@@ -14,31 +14,31 @@ page_order: 75
 <tbody>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/barve-vijay.jpg" alt="Vijay Barve" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Vijay Barve</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/brosens-dimi.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Dimitry Brosens</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/cook-kimberly.jpg" alt="" width="271" height="300" /></td>
-<td>&nbsp;</td>
+<td>Kimberly Cook</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/earl-chandra.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Chandra Earl</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/gadelha-luiz.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Luiz Gadelha</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/james-shelley.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Shelley James</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/johadien-rukaya.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Rukaya Johadien</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/kampmeier-gail.jpg" alt="" width="300" height="300" /></td>
@@ -50,15 +50,15 @@ page_order: 75
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/ulate-william.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>William Ulate</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/ung-theary.jpg" alt="" width="301" height="300" /></td>
-<td>&nbsp;</td>
+<td>Theary Ung</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/weiland-claus.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>Claus Weiland</td>
 </tr>
 </tbody>
 </table>
