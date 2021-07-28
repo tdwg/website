@@ -65,6 +65,7 @@ Invoices for membership dues can be paid:
 | [California Academy of Sciences](https://www.calacademy.org) |  San Francisco, CA |
 | [Centre for Australian National Biodiversity Research](http://www.cpbr.gov.au/cpbr/) |  Canberra |
 | [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | 	Ithaca, NY |
+| [DiSSCo](https://www.dissco.eu/) (Distributed System of Scientific Collections) hosted at Naturalis Biodiversity Center | Leiden Netherlands |
 | [Field Museum](https://www.fieldmuseum.org/) |  Chicago, IL |
 | [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) | Gainesville, FL |
 | [GBIF-ES](https://www.gbif.es/) | Madrid |
