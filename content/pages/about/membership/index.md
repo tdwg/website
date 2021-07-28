@@ -65,16 +65,16 @@ Invoices for membership dues can be paid:
 | [California Academy of Sciences](https://www.calacademy.org) |  San Francisco, CA |
 | [Centre for Australian National Biodiversity Research](http://www.cpbr.gov.au/cpbr/) |  Canberra |
 | [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | 	Ithaca, NY |
-| [DiSSCo](https://www.dissco.eu/) (Distributed System of Scientific Collections) hosted at Naturalis Biodiversity Center | Leiden Netherlands |
+| [DiSSCo - Distributed System of Scientific Collections](https://www.dissco.eu/), hosted by _Naturalis Biodiversity Center_ |  Leiden |
 | [Field Museum](https://www.fieldmuseum.org/) |  Chicago, IL |
 | [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) | Gainesville, FL |
 | [GBIF-ES](https://www.gbif.es/) | Madrid |
-| [Harvard University/Ernst Mayr Library/Museum of Comparative Zoology](https://library.mcz.harvard.edu/) |   Cambridge, MA |
+| [Harvard University/Ernst Mayr Library/Museum of Comparative Zoology](https://library.mcz.harvard.edu/) |  Cambridge, MA |
 | [Illinois Natural History Survey](https://www.inhs.illinois.edu/) |   Champaign, IL |
 | [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/) | Beijing |
 | [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/) | 	St Louis, MO |
 | [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en) |   Berlin |
-| [Museum of Natural Sciences / Museu de Ciències Naturals](https://museuciencies.cat/en/) |   Barcelona |
+| [Museum of Natural Sciences / Museu de Ciències Naturals](https://museuciencies.cat/en/) |  Barcelona |
 | [National Museum / Národní Muzeum](https://www.nm.cz/en) |  Prague |
 | [National Museum of Natural History](https://naturalhistory.si.edu/) |  Washington, DC |
 | [National Museums Scotland](https://www.nms.ac.uk/) | 	Edinburgh |
