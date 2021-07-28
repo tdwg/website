@@ -42,7 +42,11 @@ page_order: 75
 </tr>
 <tr>
 <td>&nbsp;<img src="https://static.tdwg.org/conferences/2021/images/pc/kampmeier-gail.jpg" alt="" width="300" height="300" /></td>
-<td>&nbsp;</td>
+<td>
+  <b>Gail Kampmeier</b><br />
+  Illinois Natural History Survey<br />
+  Gail has worked on the TDWG program committee since 2013; been an active TDWG member since 2006; was review manager for the Darwin Core Standard; was elected as North American representative for 6 years, and is currently Editor-in-Chief of Biodiversity Information Science and Standard, and a regularly invited (non-voting) member of the TDWG Executive Committee.  
+  </td>
 </tr>
 <tr>
 <td>&nbsp;<img src="https://static.tdwg.org/conferences/2021/images/pc/ulate-william.jpg" alt="" width="300" height="300" /></td>
