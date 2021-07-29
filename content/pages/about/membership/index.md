@@ -64,7 +64,7 @@ Invoices for membership dues can be paid:
 | [Botanic Garden Meise / Plantentuin Meise](https://www.plantentuinmeise.be/en/home/) |  Meise Belgium |
 | [California Academy of Sciences](https://www.calacademy.org) |  San Francisco, CA |
 | [Centre for Australian National Biodiversity Research](http://www.cpbr.gov.au/cpbr/) |  Canberra |
-| [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | 	Ithaca, NY |
+| [Cornell Laboratory of Ornithology](https://www.birds.cornell.edu/home/) | 	Ithaca, NY |
 | [DiSSCo - Distributed System of Scientific Collections](https://www.dissco.eu/), hosted by _Naturalis Biodiversity Center_ |  Leiden |
 | [Field Museum](https://www.fieldmuseum.org/) |  Chicago, IL |
 | [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) | Gainesville, FL |
