@@ -10,6 +10,8 @@ page_order: 75
 ---
 # The Program Committee for TDWG 2021
 
+Meeting regularly on Zoom, Slack, and collaborating on Google Drive throughout 2021 from all over the world, the #TDWG2021PrgmCmte is fueled by volunteers who have called for session organizers; solicited, reviewed, and edited abstracts; explored spaces for virtual social networking; and worked on scheduling events. Some wear multiple hats; some are veterans of conference planning, others are new to the process, but all learn something new, have the chance to take a leadership role on a team, and to meet and work with new colleagues and friends.
+
 <table>
 <tbody>
 <tr>
@@ -44,8 +46,8 @@ page_order: 75
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/kampmeier-gail.jpg" alt="" width="300" height="300" /></td>
 <td>
   <b>Gail Kampmeier</b><br />
-  Illinois Natural History Survey<br />
-  Gail has worked on the TDWG program committee since 2013; been an active TDWG member since 2006; was review manager for the Darwin Core Standard; was elected as North American representative for 6 years, and is currently Editor-in-Chief of Biodiversity Information Science and Standard, and a regularly invited (non-voting) member of the TDWG Executive Committee.  
+  University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA<br />
+  As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She is Editor-in-Chief of [*Biodiversity Information Science and Standards*](https://biss.pensoft.net) and served as review manager for the Darwin Core Standard. Elected as North American representative (2008–2013) to the TDWG Exec, she has since served as an invited (non-voting) member.  
   </td>
 </tr>
 <tr>
@@ -62,3 +64,7 @@ page_order: 75
 </tr>
 </tbody>
 </table>
+
+Also:
+Prosper Karame
+Maxim Shashkov
