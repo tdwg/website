@@ -74,7 +74,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
     </td>
 <td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://www.natural-solutions.eu/">
-       <img src="https://user-images.githubusercontent.com/2990155/127685176-62833f05-5e78-4a29-9d7b-97b19d20634b.png" alt="Natural Solutions logo" width="" height="" />
+       <img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="" height="" />
     </a>
   </td>
 </tr>
