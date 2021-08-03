@@ -52,18 +52,18 @@ https://orcid.org/0000-0001-9850-882X
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/gadelha-luiz.jpg" alt="" width="300" height="300" /></td>
 <td><b>Luiz Gadelha</b><br />
-Luiz Gadelha is a postdoctoral researcher at the Cheminformatics and Computational Metabolomics Research Group in the Institute for Analytical Chemistry and at the Fusion Research Group in the Faculty of Mathematics and Computer Science at the Friedrich-Schiller-University Jena, Germany. He is responsible for integrative research data management for the Cluster of Excellence Balance of the Microverse.
-
+Luiz Gadelha is a postdoctoral researcher at the Cheminformatics and Computational Metabolomics Research Group in the Institute for Analytical Chemistry and at the Fusion Research Group in the Faculty of Mathematics and Computer Science at the Friedrich-Schiller-University Jena, Germany. He is responsible for integrative research data management for the Cluster of Excellence Balance of the Microverse.<br />
+<br />
 He has a D.Sc. degree in Computer and Systems Engineering from the Federal University of Rio de Janeiro (UFRJ), obtained in 2012, which included a doctoral internship at the University of Chicago. Since 2004, he is a Technologist at the National Laboratory for Scientific Computing (LNCC) in Brazil (currently on leave). His main areas of research are scientific workflows, provenance, reproducibility, parallel computing, and scientific databases. He has been involved in the design and implementation of biodiversity databases such as the Brazilian Biodiversity Information System (SiBBr) – the Brazilian GBIF node, the Wildlife Health Information System (SISS-Geo), and the Brazilian Marine Biodiversity Database (BaMBa). Previously, he also implemented a provenance management system for the Swift parallel scripting system.
   </td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/james-shelley.jpg" alt="" width="300" height="300" /></td>
 <td><b>Shelley James</b><br />
-Dr Shelley James is the Collections Manager of the Western Australian Herbarium. She has been a botanical research scientist for more than two decades, and her research has taken her to the far reaches of the globe to see and explore some of the world’s most fascinating ecosystems, including Hawaii, Papua New Guinea, Solomon Islands, the Indian Ocean Territories, and Western Australia.
-
-Shelley currently serves the Society for the Preservation of Natural History Collections (SPNHC) as elected Member-at-Large and also The Biodiversity Information Standards (TDWG) Organization as Representative for Oceania.
-
+Dr Shelley James is the Collections Manager of the Western Australian Herbarium. She has been a botanical research scientist for more than two decades, and her research has taken her to the far reaches of the globe to see and explore some of the world’s most fascinating ecosystems, including Hawaii, Papua New Guinea, Solomon Islands, the Indian Ocean Territories, and Western Australia.<br />
+<br />
+Shelley currently serves the Society for the Preservation of Natural History Collections (SPNHC) as elected Member-at-Large and also The Biodiversity Information Standards (TDWG) Organization as Representative for Oceania.<br />
+<br />
 Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
   </td>
 </tr>
