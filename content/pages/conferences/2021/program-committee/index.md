@@ -18,16 +18,16 @@ Meeting regularly on Zoom, Slack, and collaborating on Google Drive throughout 2
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/barve-vijay.jpg" alt="Vijay Barve" width="300" height="300" /></td>
 <td><b>Vijay Barve</b><br />
 Bangalore, India <br / >
-Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued following his research interests of Biodiversity Informatics and Citizen Science through a PhD program at the University Kansas. He has been involved with the Audubon Core standard since its inception. You can find him on Twitter @vijaybarve
-https://orcid.org/0000-0002-4852-2567
+Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the <a href="https://www.tdwg.org/standards/ac/>Audubon Core Standard</a> since its inception. You can find him on Twitter @vijaybarve
+<a href="https://orcid.org/0000-0002-4852-2567">ORCID</a>
   </td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/brosens-dimi.jpg" alt="" width="300" height="300" /></td>
 <td><b>Dimitri Brosens</b><br />
 Belgian Biodiversity Platform/ Research Institute for Nature and Forest, Brussels, Belgium<br />
-Dimitri Brosens is the Biodiversity Data Liaison Manager from the Belgian Biodiversity Platform in the Flemish Research Institute for Nature and Forest since early 2009. The ultimate goal of Dimitri is to get Belgium on the world map of biodiversity data. He has a particular interest in the publication, standardization and interoperability of biodiversity datasets.
-https://orcid.org/0000-0002-0846-9116
+Dimitri Brosens is the Biodiversity Data Liaison Manager from the Belgian Biodiversity Platform in the Flemish Research Institute for Nature and Forest since early 2009. Dimitri's ultimate goal is to get Belgium on the world map of biodiversity data. He has a particular interest in the publication, standardization and interoperability of biodiversity datasets.
+  <a href="https://orcid.org/0000-0002-0846-9116">ORCID</a>
 @dimibro on Twitter
    </td>
 </tr>
@@ -36,8 +36,8 @@ https://orcid.org/0000-0002-0846-9116
 <td><b>Kimberly Cook</b><br />
 University of Kentucky, Lexington, KY, United States <br / >
 Indiana University, Bloomington, IN, United States <br />
-Kimberly is a PhD student at University of Kentucky studying biogeography. Informed by her background in biology and library science, she seeks to combine life history and environmental data to understand spatiotemporal patterns in biodiversity. Using this methodology, her ultimate goal is to build better relationships between academia and conservation practitioners for a more environmentally resilient future. Newly active in the TDWG community, Kimberly is eager to find new ways to think about biodiversity data and the people who generate it.
-https://www.researchgate.net/profile/Kimberly-Cook-3 
+Kimberly is a Ph.D. student at the University of Kentucky studying biogeography. Informed by her background in biology and library science, she seeks to combine life history and environmental data to understand spatiotemporal patterns in biodiversity. Using this methodology, her ultimate goal is to build better relationships between academia and conservation practitioners for a more environmentally resilient future. Newly active in the TDWG community, Kimberly is eager to find new ways to think about biodiversity data and the people who generate it.
+  Find her on <a href="https://www.researchgate.net/profile/Kimberly-Cook-3">ResearchGate</a>. 
   </td>
 </tr>
 <tr>
@@ -45,8 +45,8 @@ https://www.researchgate.net/profile/Kimberly-Cook-3
 <td><b>Chandra Earl</b><br />
 Bernice Pauahi Bishop Museum, Honolulu, HI, USA <br />
 Chandra is the Joshua M. Copus Memorial Postdoctoral Fellow in Biodiversity Informatics and Computational Biology at the Bishop Museum in Honolulu, Hawaii. She received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers. 
-https://orcid.org/0000-0001-9850-882X
-@ChandraEarl
+  <a href="https://orcid.org/0000-0001-9850-882X">ORCID</a>
+Twitter @ChandraEarl
   </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ https://orcid.org/0000-0001-9850-882X
 <td><b>Luiz Gadelha</b><br />
 Luiz Gadelha is a postdoctoral researcher at the Cheminformatics and Computational Metabolomics Research Group in the Institute for Analytical Chemistry and at the Fusion Research Group in the Faculty of Mathematics and Computer Science at the Friedrich-Schiller-University Jena, Germany. He is responsible for integrative research data management for the Cluster of Excellence Balance of the Microverse.<br />
 <br />
-He has a D.Sc. degree in Computer and Systems Engineering from the Federal University of Rio de Janeiro (UFRJ), obtained in 2012, which included a doctoral internship at the University of Chicago. Since 2004, he is a Technologist at the National Laboratory for Scientific Computing (LNCC) in Brazil (currently on leave). His main areas of research are scientific workflows, provenance, reproducibility, parallel computing, and scientific databases. He has been involved in the design and implementation of biodiversity databases such as the Brazilian Biodiversity Information System (SiBBr) – the Brazilian GBIF node, the Wildlife Health Information System (SISS-Geo), and the Brazilian Marine Biodiversity Database (BaMBa). Previously, he also implemented a provenance management system for the Swift parallel scripting system.
+He has a D.Sc. degree in Computer and Systems Engineering from the Federal University of Rio de Janeiro (UFRJ), obtained in 2012, which included a doctoral internship at the University of Chicago. Since 2004, he is a Technologist at the National Laboratory for Scientific Computing (LNCC) in Brazil (currently on leave). His main areas of research are scientific workflows, provenance, reproducibility, parallel computing, and scientific databases. He has been involved in the design and implementation of biodiversity databases such as the Brazilian Biodiversity Information System (SiBBr) – the Brazilian GBIF node, the Wildlife Health Information System (SISS-Geo), and the Brazilian Marine Biodiversity Database (BaMBa). 
   </td>
 </tr>
 <tr>
@@ -79,27 +79,30 @@ Rukaya is currently Head Engineer of the Geo-Ecology Research Group for the Natu
 <td>
   <b>Gail Kampmeier</b><br />
 University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA<br />
-As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She is Editor-in-Chief of the Pensoft Journal <a href="https://biss.pensoft.net">Biodiversity Information Science and Standards</a> and served as review manager for the Darwin Core Standard. Elected as North American representative (2008–2013) to the TDWG Exec, she has since served as an invited (non-voting) member.  
+As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She is Editor-in-Chief of the Pensoft Journal <i><a href="https://biss.pensoft.net">Biodiversity Information Science and Standards</a></i> and served as review manager for the <a href="https://www.tdwg.org/standards/dwc/">Darwin Core Standard</a>. Elected as North American representative (2008–2013) to the TDWG Exec, she has since served as an invited (non-voting) member.  <a href="https://orcid.org/0000-0002-5178-4170">ORCID</a>; @gkampmeier on Twitter
   </td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/ulate-william.jpg" alt="" width="300" height="300" /></td>
-<td><b>William Ulate</b><br />
-Missouri Botanic Garden, St. Louis, Missouri, USA <br />
-William is Senior Project Manager at the Missouri Botanical Garden's Center for Biodiversity Informatics. He does research in Semantics, Systematics (Taxonomy) and Data Mining. His current project is 'World Flora Online'. He serves TDWG as Treasurer. You can find him on Twitter @WUlate
+<td>
+  <b>William Ulate</b><br />
+Missouri Botanical Garden, St. Louis, Missouri, USA <br />
+William is Senior Project Manager at the Missouri Botanical Garden's Center for Biodiversity Informatics. He does research in semantics, systematics (taxonomy) and data mining. His current project is <a href="http://www.worldfloraonline.org/>World Flora Online</a>. He serves TDWG as Treasurer. You can find him on Twitter @WUlate
   </td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/ung-theary.jpg" alt="" width="301" height="300" /></td>
-<td><b>Theary Ung</b><br />
-As the head of BIRD, my role is to assist our researchers in their development projects in Biodiversity Informatics. It covers various activities like overseeing potential fundings opportunities, helping in defining and writing their specifications, hiring personnel and managing their projects on a daily basis.
-My research is focussed on applying comparative biogeography methods to different regions of the globe with a special interest in Southeast Asia and the West Pacific region. Since I’m very much interested in standardisation and interoperability, I’m developing an ontology for biogeographic areas which will facilitate their use.
-I provide technical support to our webmaster, Françoise Lopez and am Secretary for the Biodiversity Information Standards (TDWG) Organization.  
+<td>
+  <b>Visotheary Ung</b><br />
+As the head of BIRD, Theary's role is to assist researchers in their development projects in Biodiversity Informatics. It covers various activities like overseeing potential funding opportunities, helping define and write their specifications, hiring personnel and managing their projects on a daily basis.
+Her research is focussed on applying comparative biogeography methods to different regions of the globe with a special interest in Southeast Asia and the West Pacific region. Because she is very much interested in standardisation and interoperability, she is developing an ontology for biogeographic areas, which will facilitate their use.
+She also provides technical support to their webmaster, Françoise Lopez and is Secretary for the Biodiversity Information Standards (TDWG).  
   </td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/weiland-claus.jpg" alt="" width="300" height="300" /></td>
-<td><b>Claus Weiland</b><br />
+<td>
+  <b>Claus Weiland</b><br />
 Senckenberg – Leibniz Institution for Biodiversity and Earth System Research , Frankfurt/M, Germany <br />
 Claus leads Senckenberg’s biodiversity informatics service team in Frankfurt/Main, Germany. He is a member of DiSSCo’s technical team and NFDI4Earth, the German Consortium for Earth System Sciences. His main field of interest is the mobilization of geobiodiversity data for grand challenge questions like One Health, Anthropocene biodiversity loss and FAIR-compliant agroscience.  In this context, he is involved in the development of several knowledge representation models, including the FLORA Phenotype Ontology, EnviroPackets and openDS. 
  </td>
