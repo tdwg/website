@@ -23,6 +23,6 @@ Los talleres, el panel de discusión y la no conferencia pueden incluir presenta
 Los carteles requieren un resumen publicado, pero se anima a los autores a reinventar lo que podrían ser sus carteles virtuales sin dejar de mantener el espíritu de una entidad que es autónoma y se explica por sí misma, enfatizando menos palabras y más flujo gráfico de ideas. Los presentadores tendrán la oportunidad de vincular o cargar un video corto (<3 min) sobre su póster.
 
 ### Oradores principales
-Los ponentes en la Plenaria serán elegidos por el comité organizador y se requerirán un resumen.
+Los ponentes en la Plenaria serán elegidos por el comité organizador y requerirán un resumen.
 
 _Última actualización 17 de junio de 2021_
