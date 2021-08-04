@@ -18,7 +18,7 @@ Meeting regularly on Zoom, Slack, and collaborating on Google Drive throughout 2
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/barve-vijay.jpg" alt="Vijay Barve" width="300" height="300" /></td>
 <td><b>Vijay Barve</b><br />
 Bangalore, India <br / >
-Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the <a href="https://www.tdwg.org/standards/ac/>Audubon Core Standard</a> since its inception. You can find him on Twitter @vijaybarve
+Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the <a href="https://www.tdwg.org/standards/ac/">Audubon Core Standard</a> since its inception. You can find him on Twitter @vijaybarve
 <a href="https://orcid.org/0000-0002-4852-2567">ORCID</a>
   </td>
 </tr>
