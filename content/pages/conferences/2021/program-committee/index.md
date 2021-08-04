@@ -87,7 +87,7 @@ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. A
 <td>
   <b>William Ulate</b><br />
 Missouri Botanical Garden, St. Louis, Missouri, USA <br />
-William is Senior Project Manager at the Missouri Botanical Garden's Center for Biodiversity Informatics. He does research in semantics, systematics (taxonomy) and data mining. His current project is <a href="http://www.worldfloraonline.org/>World Flora Online</a>. He serves TDWG as Treasurer. You can find him on Twitter @WUlate
+William is Senior Project Manager at the Missouri Botanical Garden's Center for Biodiversity Informatics. He does research in semantics, systematics (taxonomy) and data mining. His current project is <a href="http://www.worldfloraonline.org/">World Flora Online</a>. He serves TDWG as Treasurer. You can find him on Twitter @WUlate
   </td>
 </tr>
 <tr>
