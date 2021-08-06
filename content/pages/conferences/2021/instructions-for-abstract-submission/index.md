@@ -10,9 +10,9 @@ page_order: 65
 
 # Instructions for Abstract Submission
 
-_Last updated 4 June 2021_
+_Last updated 6 August 2021_
 
-1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2021 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **The deadline for submission of abstracts** (see #10) **is 2 August 2021.**
+1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2021 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. The deadline for submission of abstracts was 2 August 2021 (now passed). **The deadline has been extended to 20 August 2021 for POSTER abstract submissions only** (see #10 below). See also [expectations of poster presentations](https://www.tdwg.org/conferences/2021/presentation-info/#posters).
 2. The theme of the conference is _Connecting the world of biodiversity data: standards uniting people, processes, and tools._  
 3. Your abstract will be peer reviewed and submission implies registration for and participation in the TDWG 2021 virtual conference to present its content (live or pre-recorded).  
 4. The Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author. Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid.
@@ -42,7 +42,7 @@ Find the most appropriate collection for your abstract. For an explanation about
         3. Only capitalize proper nouns; do not capitalize the first keyword unnecessarily
     6. **_Please proofread your submission carefully._** 
     7. **Validate:** Click this button (near bottom of left panel) to have the system automatically ensure that mandatory fields are filled in, you have not exceeded the 6,000 character limit, and the abstract is assigned to a collection. Be sure to finish this step, even if you and your co-authors are not finished writing or reviewing your submission.
-10. **Submit for Technical Review:** <a id="submit-for-technical-review"></a>Clicking this button (bottom of the left panel) is the first step toward submitting your abstract for consideration as part of the virtual conference. This is the step that must be completed by the **2 August deadline**.
+10. **Submit for Technical Review:** <a id="submit-for-technical-review"></a>Clicking this button (bottom of the left panel) is the first step toward submitting your abstract for consideration as part of the virtual conference. **This is the step that must be completed by the deadline** (extended for POSTERS ONLY to 20 August).
     1. You should receive an auto-generated confirmation email (be sure to find this in your email). 
     2. On your ARPHA dashboard, the status of the manuscript will change to _in pre-submission review_ and will be in read-only mode for authors.
     3. You may see the work of various technical editors suggesting changes to be made or making comments on your abstract, but you will only be able to view, not edit your submission while it is in pre-submission review. Wait until you receive official notice that feedback has been requested—do not ask technical editors to make changes.
@@ -77,7 +77,7 @@ ARPHA does not currently track that information. If you feel it is necessary, ad
 
 **My abstract has been approved and it validates but why don’t I see a “submit to journal” button?**
 
-You may not be the designated submitting author. To check this, open the Authors metadata (top left choice) to Manage Authors and make sure that despite the fact that you may be “Corresponding Author” that “Make submitting author” is not an option to be chosen next to your name. If it is (and one of your co-authors does not have this), click on the button to make you the submitting author, save the changes, and see if you now can submit the abstract to the journal. You may need to log out of ARPHA and/or your browser to have changes made reflect properly when you log back in. Still have issues? Please contact the help desk.
+You may not be the person who originally submitted the abstract. To check this, open the Authors metadata (top left choice) to Manage Authors and make sure that despite the fact that you may be “Corresponding Author” that “Make submitting author” is not an option to be chosen next to your name _(note that currently this is not working; efforts are being made to restore this function)_. If it is (and one of your co-authors does not have this), click on the button to make you the submitting author, save the changes, and see if you now can submit the abstract to the journal. You may need to log out of ARPHA and/or your browser to have changes made reflect properly when you log back in. Still have issues? Please contact the help desk.
 
 **I use more than one email for my work. How do I choose one?**
 
