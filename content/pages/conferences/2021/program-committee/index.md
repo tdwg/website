@@ -55,12 +55,10 @@ He has a D.Sc. degree in Computer and Systems Engineering from the Federal Unive
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/james-shelley.jpg" alt="" width="300" height="300" /></td>
 <td><b>Shelley James</b><br />
-Western Australian Herbarium (WAH), Perth, Australia<br />
-Dr Shelley James is the Collections Manager at the WAH. She has been a botanical research scientist for more than two decades, and her research has taken her to the far reaches of the globe to see and explore some of the world’s most fascinating ecosystems, including Hawaii, Papua New Guinea, Solomon Islands, the Indian Ocean Territories, and Western Australia.<br />
+Western Australian Herbarium, Perth, Australia<br />
+Dr <a href="https://orcid.org/0000-0003-1105-1850">Shelley James</a> is the Collections Manager at PERTH. She has been a botanical research scientist for more than two decades, and her research has taken her to the far reaches of the globe to see and explore some of the world’s most fascinating ecosystems, including Hawaii, Papua New Guinea, Solomon Islands, the Indian Ocean Territories, and Western Australia.<br />
 <br />
-Shelley currently serves the Society for the Preservation of Natural History Collections (SPNHC) as elected Member-at-Large and also The Biodiversity Information Standards (TDWG) Organization as Representative for Oceania.<br />
-<br />
-Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
+Shelley currently serves the Society for the Preservation of Natural History Collections (SPNHC) as elected Member-at-Large and also The Biodiversity Information Standards (TDWG) Organization as Representative for Oceania. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
   </td>
 </tr>
 <tr>
