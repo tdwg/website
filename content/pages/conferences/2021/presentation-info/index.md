@@ -23,9 +23,9 @@ Symposia may use the same format as Contributed Oral presentations or symposium 
 Workshops, the panel discussion, and the unconference may include presentations to set the stage for the session. While we encourage the submission of at least one abstract to represent each session, organizers may arrange to submit an abstract summarizing outcomes (post-conference), or to submit a longer, post-conference article (cost not included as part of registration) to the TDWG 2021 Proceedings collection.
 
 ## Posters
-Posters require a published abstract, but the authors are encouraged to reimagine what their virtual posters could be while still keeping with the spirit of an entity that is self-contained and self-explanatory, emphasizing fewer words and more graphical flow of ideas. Presenters will have the opportunity to link or upload a short (<3 min) video about their poster. We encourage you to think beyond the "scientific paper as a poster" mode to combine science, art, and storytelling (e.g. https://theoatmeal.com/comics/wombats). The Whova Conference Platform offeres a dedicated area for sharing these media and discussing relevant topics in a shared space.
+Posters require a published abstract, but the authors are encouraged to reimagine what their virtual posters could be while still keeping with the spirit of an entity that is self-contained and self-explanatory, emphasizing fewer words and more graphical flow of ideas. Presenters will have the opportunity to link or upload a short (<3 min) video about their poster. We encourage you to think beyond the "scientific paper as a poster" mode to combine science, art, and storytelling (e.g. [https://theoatmeal.com/comics/wombats](https://theoatmeal.com/comics/wombats)). The Whova Conference Platform offers a dedicated area we are calling "PostersPlus" for sharing these media and discussing relevant topics in a shared space.
 
 ## Plenary speakers
 Plenary speakers will be chosen by the organizing committee and an abstract will be required.
 
-_Last updated 4 June 2021_
+_Last updated 9 August 2021_
