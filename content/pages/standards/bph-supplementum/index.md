@@ -1,5 +1,5 @@
 ---
-title: Botanico-periodicum-huntianum/supplementum
+title: Botanico-Periodicum-Huntianum/Supplementum
 tags: prior standard, 1991
 github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-huntianum-supplementum
 ---
@@ -7,7 +7,7 @@ github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-
 ## Header section
 
 Title
-: Botanico-periodicum-huntianum/supplementum
+: Botanico-Periodicum-Huntianum/Supplementum
 
 Permanent IRI (for citations and links)
 : <http://www.tdwg.org/standards/114>

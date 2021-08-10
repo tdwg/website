@@ -1,5 +1,5 @@
 ---
-title: Botanico-periodicum-huntianum
+title: Botanico-Periodicum-Huntianum
 tags: prior standard, 1970
 github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-huntianum
 ---
@@ -7,7 +7,7 @@ github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-
 ## Header section
 
 Title
-: Botanico-periodicum-huntianum
+: Botanico-Periodicum-Huntianum
 
 Permanent IRI (for citations and links)
 : <http://www.tdwg.org/standards/112>
@@ -25,7 +25,7 @@ Abstract
 : A list of periodicals with botanical content, including abbreviations for the titles of books.
 
 Bibliographic citation
-: > Bridson, G. D. R. 2004. Botanico-periodicum-huntianum Standard. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/112
+: > Bridson, G. D. R. 2004. Botanico-Periodicum-Huntianum Standard. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/112
 
 ## Parts of the standard
 
