@@ -82,11 +82,11 @@ to the membership for any change in the level of membership fees.
 
 The responsibilities of subcommittee chairs are described in these linked pages
 
-- [Technical Architecture Group (TAG)](../committees/tag/)
-- [Infrastructure](../committees/infrastructure/)
-- [Fundraising and Partnerships](../committees/fundraising/)
-- [Outreach and Communication])(../committees/outreach/)
-- [Time and Place](../committees/tardis/)
+- [Technical Architecture Group (TAG)](/about/committees/tag/)
+- [Infrastructure](/about/committees/infrastructure/)
+- [Fundraising and Partnerships](/about/committees/fundraising/)
+- [Outreach and Communication](/about/committees/outreach/)
+- [Time and Place](/about/committees/tardis/)
 
 
 ## Regional Representatives
