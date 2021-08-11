@@ -10,7 +10,7 @@ page_order: 10
 
 # Roles and Responsibilities of Executive Committee Members
 
-The offices and responsibilities of each office holder are set forth in the TDWG Constitution.  The relevant text from the Constitution is presented below in italics.  Other responsibilities delegated to the office holder by agreement with the Executive Committee are elaborted under each role. 
+The offices and responsibilities of each office holder are set forth in the [TDWG Constitution](/about/constitution/).  The relevant text from that document is presented below in italics.  Other significant responsibilities accepted and performed to the office holder in current practice are elaborted under each role. 
 
 ## Chair
 
