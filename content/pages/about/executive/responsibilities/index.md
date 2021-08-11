@@ -10,7 +10,7 @@ page_order: 10
 
 # Roles and Responsibilities of Executive Committee Members
 
-The offices and responsibilities of each office holder are set forth in the TDWG Constitution.  The relevant text is presented below in italics.  Other responsibilities delegated to the office holder by agreement with the Executive Committee are elaborted under each role. 
+The offices and responsibilities of each office holder are set forth in the TDWG Constitution.  The relevant text from the Constitution is presented below in italics.  Other responsibilities delegated to the office holder by agreement with the Executive Committee are elaborted under each role. 
 
 ## Chair
 
@@ -59,7 +59,7 @@ unavailability.
 
 ## Treasurer
 
-*Is entitled to sign jointly with one other officer on behalf of TDWG;
+*The Treasurer s entitled to sign jointly with one other officer on behalf of TDWG;
 maintains the membership list, reports finances annually to the
 membership; collects membership dues; arranges audits; administers the
 assets of TDWG in conformance with instructions from the Executive
@@ -91,7 +91,7 @@ The responsibilities of subcommittee chairs are described in these linked pages
 
 ## Regional Representatives
 
-*Have the responsibility to represent the interests of TDWG members on
+*Regional Representatives have the responsibility to represent the interests of TDWG members on
 the Executive Committee; and to represent TDWG in appropriate meetings
 and other activities.*
 
