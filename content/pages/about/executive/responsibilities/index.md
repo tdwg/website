@@ -10,7 +10,7 @@ page_order: 10
 
 # Roles and Responsibilities of Executive Committee Members
 
-The offices and responsibilities of each office holder are set forth in the [TDWG Constitution](/about/constitution/).  The relevant text from that document is presented below in italics.  Other significant responsibilities accepted and performed to the office holder in current practice are elaborted under each role. 
+The offices and responsibilities of each office holder are set forth in the [TDWG Constitution](/about/constitution/).  The relevant text from that document is presented below in italics.  Other significant responsibilities accepted and performed by the office holder in current practice are elaborted under each role. 
 
 ## Chair
 
@@ -20,16 +20,12 @@ behalf of TDWG; enacts such functions as are assigned by the Executive Committee
 represents TDWG at external meetings; delegates on an ad-hoc basis the above 
 responsibilities to other Executive Committee members.* 
 
-- is entitled to sign jointly with one other officer on behalf of TDWG;
-- Enacts such functions as are assigned by the Executive Committee.
 - Is ultimately responsible for leading TDWG through the Executive
 Committee;
 - Seeks feedback and advice from the Executive Committee and
 group Conveners on status, activities, goals and priorities;
 - Provides a written annual update to members on TDWG’s status,
 activities, priorities and vision for the year ahead;
-- Unless delegated to other Executive Committee members, represents
-TDWG’s interests at meetings, conferences, discussion lists;
 - Delivers opening and closing presentations at the annual conference;
 - Notifies the Secretary prior to any significant period of unavailability.
 
