@@ -30,7 +30,7 @@ While virtual, connecting and uniting the TDWG community for the sharing of stan
 
 ## Abstracts
 
-Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). Presenters are required to complete registration before abstracts can be published. **The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June; deadline for abstract submission is 2 August.**
+Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). Presenters are required to complete registration before abstracts can be published. The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June with a deadline of 2 August. **The deadline has been extended to 20 August for submission of abstracts for posters only.**
 
 ## Scheduling
 
