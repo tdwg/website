@@ -68,6 +68,18 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 </tr>
 <tr>
 <td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://www.floridamuseum.ufl.edu/">
+      <img src="https://user-images.githubusercontent.com/2990155/129251541-7bf19dec-9d1a-4f91-89b1-062fd772f501.png" alt="Florida Museum of Natural History logo" width="" height="" />
+    </a>
+    </td>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
+    <a href="https://www.idigbio.org/">
+       <img src="https://user-images.githubusercontent.com/2990155/129251766-2bd8adeb-0506-49a1-9776-c6734303d737.png" alt="iDigBio logo" width="" height="" />
+    </a>
+  </td>
+</tr>
+<tr>
+<td style="background-color: #FFFFFF; vertical-align: middle;">
     <a href="https://biodiversitylibrary.org">
       <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="" height="" />
     </a>
