@@ -19,10 +19,12 @@ Nashville, TN 37235, USA
 
 ## 2. Core members 
 
-* Douglas Boyer - Department of Evolutionary Anthropology, Duke University, Director of MorphoSource open access 3D repository 
+* Ed Baker - Natural History Museum, London and University of York, UK  
+* Douglas Boyer - Department of Evolutionary Anthropology, Duke University, Director of MorphoSource open access 3D repository  
 * Niels Klazenga - Royal Botanic Gardens Victoria  
-* Robert A. Morris - University of Massachusetts, Boston  
 * Rebecca Snyder - Smithsonian Institution, National Museum of Natural History  
+* Dan Stowell - Tilburg University and Naturalis Biodiversity Centre
+* Kate Webbink - Field Museum of Natural History
 
 ## 3. Motivation 
 
@@ -36,6 +38,8 @@ in maintaining the stability and interoperability of Audubon Core. We need peopl
 vocabulary creation, people who are well versed in best practices for metadata documentation, people with technical 
 data management skills, and people who are experts on various types of media. If you are interested in participating 
 in the group, please contact the convener or a core member.
+
+The day-to-day operations of the Maintenance Group are managed in the group's [GitHub repository](https://github.com/tdwg/ac). You can find there contact information for all of the core members, [records of meetings](https://github.com/tdwg/ac/tree/master/historical), and a tracker for [issues](https://github.com/tdwg/ac/issues) currently under consideration by the group. The issue tracker also contains information about upcoming scheduled meetings.
 
 ## 5. History/context 
 
