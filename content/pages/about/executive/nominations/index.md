@@ -9,7 +9,7 @@ status: published
 page_order: 2
 ---
 
-**Nominations for the open positions will be posted here shortly after the 2021 annual conference.**
+**Nominations for the open positions will be posted here as they are received and finalized shortly after the 2021 annual conference.**
 
 ## Treasurer
 
