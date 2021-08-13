@@ -1,6 +1,6 @@
 ---
-title: Contributors
-summary: Oranizations that contributed financial or in-kind assistance to produce the conference.
+title: Acknowledgements
+summary: Organizations that have contributed financial or in-kind assistance to produce the conference are shown below.
 cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
 cover_image_by: Waranot (Joe)
 cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
