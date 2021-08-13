@@ -17,8 +17,8 @@ status: hidden
 <td colspan="2"><a href="https://worldwildlife.org"> <img src="https://static.tdwg.org/sponsors/wwf-globalsci-sm.png" alt="Global Biodiversity Information Facility logo" width="410" height="" /> </a></td>
 </tr>
 <tr>
-<td colspan="2"><a href="https://pensoft.net"> <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="270" height="" /> </a></td>
-<td colspan="2"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="270" height="" /> </a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://pensoft.net"> <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="270" height="" /> </a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="270" height="" /> </a></td>
 </tr>
 <tr>
 <td colspan="1"><a href="https://biodiversity.research.ufl.edu/"> <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="206" height="" /> </a></td>
@@ -27,8 +27,8 @@ status: hidden
 <td colspan="1"><a href="https://biodiversity.research.ufl.edu/"> <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="206" height="" /> </a></td>
 </tr>
 <tr>
-<td colspan="2"><a href="https://biodiversitylibrary.org"> <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="206" height="" /> </a></td>
-<td colspan="3"><a href="https://www.natural-solutions.eu/"> <img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="206" height="" /> </a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://biodiversitylibrary.org"> <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="206" height="" /> </a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3"><a href="https://www.natural-solutions.eu/"> <img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="206" height="" /> </a></td>
 </tr>
 </tbody>
 </table>
