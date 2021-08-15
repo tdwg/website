@@ -44,19 +44,19 @@ TDWG has a workspace in Slack. Several committees and interest/working groups ar
 
 ### Conference proceedings
 
-From 2006 to 2016, TDWG has published abstracts of contributions to the annual conference (presentations, posters, demonstrations) in conference proceedings (available on [each conference page](../conferences)). Presentation files (PPT or PDF) are available for many oral presentations and posters since 2008. Recordings are available for most presentations since 2015. From 2017 going forward, our conference proceedings (abstracts of contributions) are published in our journal (below).
+From 2006 to 2016, TDWG published abstracts of contributions to the annual conference (presentations, posters, demonstrations) in conference proceedings (available on [each conference page](../conferences)). Presentation files (PPT or PDF) are available for many oral presentations and posters since 2008. Recordings are available for most presentations since 2015. From 2017 going forward, our conference proceedings (abstracts of contributions) are published in our journal (below) and from 2020 most are [linked to media](https://blog.pensoft.net/2021/07/13/not-your-typical-conference-abstract-tdwg2021/) (slides and video) from the conference. 
 
 ### Biodiversity Information Science and Standards (BISS)
 
-TDWG has engaged [Pensoft](https://pensoft.net/), an academic publishing company specializing in open-access semantic publishing, to publish our annual Proceedings (abstracts of contributions to the annual conference), as well as descriptions of new TDWG standards and independently contributed full-length papers in a dedicated journal [Biodiversity Information Science and Standards (BISS)](../journal/).
+In 2017, TDWG engaged [Pensoft](https://pensoft.net/), an academic publishing company specializing in open-access semantic publishing, to publish our [annual Proceedings](https://biss.pensoft.net/collections), as well as descriptions of new TDWG standards and independently contributed full-length papers in a dedicated journal [Biodiversity Information Science and Standards (BISS)](../journal/).
 
 <!-- #### [Other resources]() and key partnerships? -->
 
 ## Participate and contribute
 
-Participation is the key driver of progress in TDWG. You do not have to be a member to participate. Begin by reading and getting oriented, then participate in our community of interest groups by sharing your opinions and ideas. Perhaps sooner than you expected, you might become a leader in TDWG. Consider standing for election to the [Executive Committee](executive/), stepping up to lead an [interest group](../community/), or contributing to the work of a [subcommittee](committees/).
+Participation is the key driver of progress in TDWG. You do not have to be a member to participate. Begin by reading and getting oriented, then participate in our community of interest and task groups by sharing your opinions and ideas during meetings (virtual or in-person) or as part of [GitHub discussions](https://github.com/tdwg). Perhaps sooner than you expected, you might become a leader in TDWG. Consider standing for election to the [Executive Committee](executive/), stepping up to lead an [interest group](https://www.tdwg.org/community/#interest-group) or [task group](https://www.tdwg.org/community/#task-group), or contributing to the work of a [subcommittee](committees/).
 
 ### Conferences
 
-TDWG's [annual conferences](../conferences) are usually held in the fall and occupy a full work week (Mon-Fri). Conference locations rotate among the continents something like "Europe, North America, and other", where "other" can be Africa, Asia, Australia/Oceania, or Latin America. Conferences typically draw between 150 and 225 participants.
+TDWG's [annual conferences](../conferences) are usually held in late September or in October and occupy a full work week (Mon-Fri). Conference venues rotate among the continents something like "Europe, North America, and other", where "other" can be Africa, Asia, Australia/Oceania, or Latin America. Virtual conferences may replace traditional conference venues. Conferences typically draw between 150 and 225 participants.
 
