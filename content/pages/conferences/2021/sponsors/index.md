@@ -14,7 +14,7 @@ status: hidden
 <tbody>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://gbif.org"> <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="360" height="" /> </a><img src="https://static.tdwg.org/sponsors/1-gold.png" width="16" height="16"></td>
-<td style="text-align: center;" colspan="1"><a href="https://worldwildlife.org"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="World Wild Life Fund - Science" width="360" height="" style="position: top;" /> </a><img src="https://static.tdwg.org/sponsors/1-gold.png" width="16" height="16" style="position: bottom;"></td>
+<td style="text-align: center;" colspan="1"><a href="https://worldwildlife.org"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="World Wild Life Fund - Science" width="360" height="" style="vertical-align: top;" /> </a><img src="https://static.tdwg.org/sponsors/1-gold.png" width="16" height="16" style="vertical-align: bottom;"></td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="290" height="" /></a><img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16"></td>
