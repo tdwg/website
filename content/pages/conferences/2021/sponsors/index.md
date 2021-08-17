@@ -14,7 +14,7 @@ status: hidden
 <tbody>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://gbif.org"> <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="410" height="" /> </a></td>
-<td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://worldwildlife.org"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="Global Biodiversity Information Facility logo" width="410" height="" /> </a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://worldwildlife.org"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="World Wild Life Fund - Science" width="410" height="" /> </a></td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://pensoft.net"> <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="270" height="" /> </a></td>
