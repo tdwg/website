@@ -18,7 +18,7 @@ status: hidden
 </tr>
 <tr>
 <td style="text-align: center;" colspan="1"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="290" height="" style="vertical-align: middle;" /></a><img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16" style="vertical-align: bottom; /"></td>
-<td style="text-align: center;" colspan="1"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="290" height="" style="vertical-align: middle;" /><img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16" style="vertical-align: bottom;" /></a></td>
+<td style="text-align: center;" colspan="1"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="290" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16" style="vertical-align: bottom;" /></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="1"><a href="https://biodiversity.research.ufl.edu/"><img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="250" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<img src="https://static.tdwg.org/sponsors/3-bronze.png" width="16" height="16" style="vertical-align: bottom;" /></td>
