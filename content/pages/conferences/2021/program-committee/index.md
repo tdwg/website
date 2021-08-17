@@ -77,6 +77,14 @@ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. A
   </td>
 </tr>
 <tr>
+<td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/shashkov.jpg" alt="" width="300" height="300" /></td>
+<td>
+  <b>Maxim Shashkov</b><br />
+Russian Academy of Science, Pushchino, Russia<br />
+Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences, Pushchino, Russia
+Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science, Pushchino, Russia. [ResearchGate](https://www.researchgate.net/profile/Maxim-Shashkov-2) 
+</td>
+</tr><tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/ung-theary.jpg" alt="" width="301" height="300" /></td>
 <td>
   <b>Visotheary Ung</b><br />
@@ -97,9 +105,3 @@ Claus leads Senckenberg’s biodiversity informatics service team in Frankfurt/M
 </tbody>
 </table>
 
-Also:<br />
-**Prosper Karame**, Rwanda Biomedical Centre, Rwanda. On Twitter as @karapros. 
-  
-**Maxim Shashkov**, Russian Academy of Science, Pushchino, Russia  
-Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences, Pushchino, Russia
-Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science, Pushchino, Russia. [ResearchGate](https://www.researchgate.net/profile/Maxim-Shashkov-2) 
