@@ -17,7 +17,7 @@ status: hidden
 <td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://worldwildlife.org"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="World Wild Life Fund - Science" width="360" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<img src="https://static.tdwg.org/sponsors/1-gold.png" width="16" height="16" style="vertical-align: bottom;" /></td>
 </tr>
 <tr>
-<td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="290" height="" style="vertical-align: middle;" /></a><img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16" style="vertical-align: bottom; /"></td>
+<td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="290" height="" style="vertical-align: middle;" /></a><img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16" style="vertical-align: bottom; /"></td>
 <td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="290" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<img src="https://static.tdwg.org/sponsors/2-silver.png" width="16" height="16" style="vertical-align: bottom;" /></td>
 </tr>
 <tr>
