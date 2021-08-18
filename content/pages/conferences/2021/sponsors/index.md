@@ -29,7 +29,7 @@ status: hidden
 <td style="text-align: center; vertical-align: middle;" colspan="1"><a href="https://research.ufl.edu/"><img src="https://static.tdwg.org/sponsors/uf-research.png" alt="UF Research logo" width="290" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<!-- <img src="https://static.tdwg.org/sponsors/3-bronze.png" width="16" height="16" style="vertical-align: bottom;" /> --></td>
 </tr>
 <tr>
-<!-- <td style="text-align: center;" colspan="1"><a href="https://www.natural-solutions.eu/"><img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="290" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<!-- <img src="https://static.tdwg.org/sponsors/3-bronze.png" width="16" height="16" style="vertical-align: bottom;" /> --></td>
+<!-- <td style="text-align: center;" colspan="1"><a href="https://www.natural-solutions.eu/"><img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="290" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<img src="https://static.tdwg.org/sponsors/3-bronze.png" width="16" height="16" style="vertical-align: bottom;" /> </td>-->
 <td style="text-align: center; vertical-align: middle;" colspan="2"><a href="https://biodiversitylibrary.org"><img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="290" height="" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<!-- <img src="https://static.tdwg.org/sponsors/3-bronze.png" width="16" height="16" style="vertical-align: bottom;" /> --></td>
 </tr>
 </tbody>
