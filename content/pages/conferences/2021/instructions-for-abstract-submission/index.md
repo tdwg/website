@@ -71,6 +71,10 @@ _The deadline for finalizing your abstract for publication in the journal will *
 
 Your abstract will be edited and reviewed for content and suitability as well as style and language by conference and session organizers and other volunteers. If your abstract is not accepted by the conference organizers under the theme to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
 
+**I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?**
+
+Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to "How do I know the status of my abstract") and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](https://www.tdwg.org/conferences/2021/session-list/) so they can prioritize providing you feedback, or email [editor@tdwg.org](mailto:editor@tdwg.org).
+
 **Where do I enter the state or province under address as an author?**
 
 ARPHA does not currently track that information. If you feel it is necessary, add an [ISO 3166-2 code](http://www.unece.org/cefact/locode/subdivisions.html) for your country's subdivision, separating it from the city name with a comma and space.
