@@ -71,6 +71,6 @@ _Last updated 4 June 2021_
         15. Note, you will not receive a copy of this email.
         16. If the deadline passes without anyone appearing to work on the draft, follow up with a personal email outside of ARPHA
         17. The ARPHA platform may send out automatic reminders to authors in the case of prolonged inactivity at critical stages and after three ignored notifications will automatically archive (remove the abstract from view) such manuscripts. Either you or the author will need to notify Pensoft to retrieve such an abstract from this fate.
-    13. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the deadline (in September, final date to be determined) by which we hope all authors will know whether their abstract has been/will be approved.
+    13. This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the **27 August** deadline by which we hope all authors will know whether their abstract has been/will be approved.
     14. **Validation and flag for approval.** When the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, mark the flag for approval.
 5. **Approval.** Only designated editors will send out approval notices that ask authors to finalize a checklist that will put the abstract in Pensoft's publication workflow.
