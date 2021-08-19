@@ -44,7 +44,7 @@ Last Updated: May 18, 2020
 [Rod Page](mailto:Roderic.Page@glasgow.ac.uk) (Glasgow University)  
 [Sarah Phillips](mailto:Sarah.Phillips@kew.org) (Royal Botanic Gardens, Kew, UK)  
 [Simon Chagnoux](mailto:simon.chagnoux@mnhn.fr) (National Museum of Natural History, Paris, France)  
-[Deborah L Paul](mailto:dlpaul@illinois.edu) (Illinois Natural History Survey, Champaign-Urbana, Illinois, USA)
+[Deborah L Paul](mailto:dlpaul@illinois.edu) (Illinois Natural History Survey, Champaign-Urbana, Illinois, USA)  
 [Mathias Dillen](mailto:mathias.dillen@plantentuinmeise.be) (Meise Botanic Garden, Belgium)
 
 # Current Activities
