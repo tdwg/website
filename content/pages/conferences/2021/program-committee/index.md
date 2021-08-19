@@ -90,9 +90,9 @@ Institute of Physicochemical and Biological Problems in Soil Sciences Russian Ac
 <td>
   <b>Visotheary Ung</b><br />
 Museum Nacional d'Histoire Naturelle, Paris, France<br />
-  As the head of BIRD, Theary's role is to assist researchers in their development projects in Biodiversity Informatics. It covers various activities like overseeing potential funding opportunities, helping define and write their specifications, hiring personnel and managing their projects on a daily basis.
+  As the head of BIRD, Theary's role is to assist researchers in their development projects in Biodiversity Informatics including looking for funding opportunities, helping define and write their specifications, hiring personnel and managing their projects on a daily basis.
 Her research is focussed on applying comparative biogeography methods to different regions of the globe with a special interest in Southeast Asia and the West Pacific region. Because she is very much interested in standardisation and interoperability, she is developing an ontology for biogeographic areas, which will facilitate their use.
-She also provides technical support to their webmaster, Françoise Lopez and serves as Secretary for Biodiversity Information Standards (TDWG).  
+She serves as Secretary for Biodiversity Information Standards (TDWG).  
   </td>
 </tr>
 <tr>
