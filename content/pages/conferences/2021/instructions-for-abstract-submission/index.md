@@ -10,7 +10,7 @@ page_order: 65
 
 # Instructions for Abstract Submission
 
-_Last updated 6 August 2021_
+_Last updated 19 August 2021_
 
 1. You will be using Pensoft’s ARPHA online publishing platform to submit your abstract to TDWG 2021 through the online editor ([ARPHA](https://arpha.pensoft.net/)) to the journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. The deadline for submission of abstracts was 2 August 2021 (now passed). **The deadline has been extended to 20 August 2021 for POSTER abstract submissions only** (see #10 below). See also [expectations of poster presentations](https://www.tdwg.org/conferences/2021/presentation-info/#posters).
 2. The theme of the conference is _Connecting the world of biodiversity data: standards uniting people, processes, and tools._  
@@ -67,29 +67,30 @@ _The deadline for finalizing your abstract for publication in the journal will *
 
 ## ARPHA-related FAQs
 
-**How does the editing process work?**
+### How does the editing process work?
 
-Your abstract will be edited and reviewed for content and suitability as well as style and language by conference and session organizers and other volunteers. If your abstract is not accepted by the conference organizers under the theme to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
+Your abstract will be edited and reviewed for content and suitability as well as style and language by conference and session organizers and other volunteers.  Once authors submit an abstract, the collection editors are notified about it, and they gain access to it. Once they evaluate it, and leave notes for its improvement (if any), they send feedback to the authors. At that point you—as the Submitting author—receive an automated notification from awt@pensoft.net, with access in editing mode to the abstract. After you coordinate the modifications with your coauthors, you can resubmit. This cycle can be reiterated as many times as needed, until the abstract is accepted, and ready to be submitted to the journal (to be published as is). Please wait for the system notification.
+If, for some reason, your abstract is not accepted by the conference organizers under the collection (e.g., symposium) to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
 
-**I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?**
+### I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?
 
 Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to "How do I know the status of my abstract") and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](https://www.tdwg.org/conferences/2021/session-list/) so they can prioritize providing you feedback, or email [editor@tdwg.org](mailto:editor@tdwg.org).
 
-**Where do I enter the state or province under address as an author?**
+### Where do I enter the state or province under address as an author?
 
 ARPHA does not currently track that information. If you feel it is necessary, add an [ISO 3166-2 code](http://www.unece.org/cefact/locode/subdivisions.html) for your country's subdivision, separating it from the city name with a comma and space.
 
-**My abstract has been approved and it validates but why don’t I see a “submit to journal” button?**
+### My abstract has been approved and it validates but why don’t I see a “submit to journal” button?
 
 You may not be the person who originally submitted the abstract. To check this, open the Authors metadata (top left choice) to Manage Authors and make sure that despite the fact that you may be “Corresponding Author” that “Make submitting author” is not an option to be chosen next to your name _(note that currently this is not working; efforts are being made to restore this function)_. If it is (and one of your co-authors does not have this), click on the button to make you the submitting author, save the changes, and see if you now can submit the abstract to the journal. You may need to log out of ARPHA and/or your browser to have changes made reflect properly when you log back in. Still have issues? Please contact the help desk.
 
-**I use more than one email for my work. How do I choose one?**
+### I use more than one email for my work. How do I choose one?
 
 In the ARPHA editorial platform, you should use only one email account that you check regularly, will have persistence, and that you do not mind being public (the system displays it publicly to other users and in published papers). This way all tasks appointed to the user will be accumulated under a single account and you will not have to log in and out and access several dashboards for a single journal. The editorial platform allows users to have different roles within the same journal and also in other journals hosted by Pensoft. The system does not allow adding more than one email per account and is not set to enable sending a copy of the same notification to an alternative email of the same user. If you have been asked to merge two or more accounts into a single one, Pensoft will need to choose one of the emails as primary. This is also used to send alerts and newsletters of Pensoft journal content to which you may subscribe.
 
 Regardless of email, if you are an author and need to credit a particular institution for the work you are presenting, modify your affiliation in the author metadata for each abstract or manuscript submitted.
 
-**How do I know the status of my abstract?**
+### How do I know the status of my abstract?
 
 Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed under the My Manuscripts tab (text will be gray) on your dashboard. On the right of each manuscript, you can see the status. Note that only one person can work on an abstract at a time (either as authors or editors). If you are not actively working on a manuscript, please close the window to give others a chance to contribute. _Note:_ the dashboard may give misleading indications that someone is editing the manuscript. You can verify if this is true by clicking on the manuscript title.
 
@@ -103,7 +104,7 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 *   For an abstract associated with TDWG 2021 to be published, the presenter must be fully registered (i.e., any assessed fee paid) for the conference.
 *   Approved abstracts will be published once the placement of their presentation in the program is confirmed. Authors should receive notification of successful submission to the journal, pending publication. 
 
-**What if I don’t see my abstract anywhere?**
+### What if I don’t see my abstract anywhere?
 
 It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case.
 
@@ -111,6 +112,6 @@ Another possibility is that the ARPHA platform has automatically archived your a
 
 Otherwise, communicate with the help desk (use the feedback icon located in the top banner of your abstract) to try to resolve technical issues or with [editor@tdwg.org](mailto:editor@tdwg.org) or [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) for content/meeting-related questions.
 
-**Where will I find published abstracts?**
+### Where will I find published abstracts?
 
 See [published abstract collections](https://biss.pensoft.net/collections) or find [_TDWG Proceedings 2021_](https://biss.pensoft.net/collection/293/). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
