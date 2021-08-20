@@ -80,10 +80,8 @@ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. A
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/shashkov.jpg" alt="" width="300" height="300" /></td>
 <td>
   <b>Maxim Shashkov</b><br />
-Russian Academy of Science, Pushchino, Russia<br />
-Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences, Pushchino, Russia
-Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science, Pushchino, Russia. 
-<a href="https://www.researchgate.net/profile/Maxim-Shashkov-2">ResearchGate</a>
+Institute of Mathematical Problems of Biology RAS, Pushchino, Moscow Region, Russia<br />
+Maxim has participated in GBIF activities since 2015. He participated in several Node Meetings as an observer from Russia and translated this experience into the development of an informal GBIF community in Russia. He is the admin of the related listserv and Facebook group. Maxim has taught or lectured in national courses on data standardisation and publishing as well as acted as a translator for presentations in BIODATA courses and as a mentor in Belarus and Tajikistan. He was a member of the program committee of national biodiversity data mobilization (BDI) conferences in 2018, 2020. He played a leading role in the translation of the GBIF portal interface into Russian. He participated in TDWG in 2019 (Leiden) for the first time. Scientifically, Maxim is interested in the study of forest structure using unmanned aerial vehicles (UAVs) and in population ecology of earthworms. Find him in <a href=https://orcid.org/0000-0002-1328-8758">ORCID</a>
 </td>
 </tr><tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/ung-theary.jpg" alt="" width="301" height="300" /></td>
