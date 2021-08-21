@@ -1,9 +1,9 @@
 ---
 title: Information pour les présentations
 summary: Ce que vous devez savoir lorsque vous présentez à la conférence TDWG 2021
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
+cover_image: https://images.unsplash.com/photo-1509105494475-358d372e6ade
+cover_image_by: Jakob Creutz
+cover_image_ref: https://unsplash.com/photos/ZtqnVVvOyjA
 tags: conference
 page_order: 97
 ---
