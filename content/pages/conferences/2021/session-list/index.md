@@ -1,9 +1,9 @@
 ---
 title: Symposia, Workshops, & Discussion Sessions
 summary: Organized sessions include symposia, workshops, demos, a panel discussion, & unconference
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
+cover_image: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
+cover_image_by: Paul Talbot
+cover_image_ref: https://unsplash.com/photos/pQDBGxtiDEo
 tags: conference
 page_order: 25
 ---
