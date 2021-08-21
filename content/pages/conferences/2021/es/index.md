@@ -1,7 +1,7 @@
 ---
 title: TDWG 2021 - Una Conferencia Virtual
 summary: Conectando el mundo de los datos de biodiversidad: uniendo personas, procesos y herramientas
-cover_image: https://images.unsplash.com/photo-1512076249812-fd58fb2c8748?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2550&q=80
+cover_image: https://images.unsplash.com/photo-1512076249812-fd58fb2c8748
 cover_image_by: Vladislav Klapin
 cover_image_ref: https://unsplash.com/photos/YeO44yVTl20
 tags: conference
@@ -39,42 +39,27 @@ Durante la semana de la conferencia virtual, las sesiones se programarán princi
 TDWG agradece el apoyo financiero o en especie a TDWG 2021 por parte de las siguientes organizaciones.
 <table border="0">
 <tbody>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
-<td style="background-color: #FFFFFF; vertical-align: middle;">
-    <a href="https://ala.org.au">
-      <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-600.png" alt="Atlas of Living Australia logo" width="" height="" />
-    </a>
-  </td>
-<td style="background-color: #FFFFFF; vertical-align: middle;">
-  <a href="https://gbif.org">
-    <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="" height="" />
-  </a>
-</td>
-  </tr>
-<tr>
-  <td style="background-color: #FFFFFF; vertical-align: middle;">
-    <a href="https://pensoft.net">
-    <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="" height="" />
-    </a>
-  </td>
-  <td style="background-color: #FFFFFF; vertical-align: middle;">
-    <a href="https://biodiversity.research.ufl.edu/">
-    <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="" height="" />
-    </a>
-  </td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://gbif.org"> <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://www.worldwildlife.org/initiatives/science"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="World Wild Life Fund - Science" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
-  <td style="background-color: #FFFFFF; vertical-align: middle;">
-    <a href="https://biodiversitylibrary.org">
-    <img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="" height="" />
-    </a>
-  </td>
-  <td style="background-color: #FFFFFF; vertical-align: middle;">
-    &nbsp;
-  </td>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://dissco.eu/"><img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="UF Biodiversity Institute logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
-    </tbody>
-</table>
+<tr>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://research.ufl.edu/"><img src="https://static.tdwg.org/sponsors/uf-research.png" alt="UF Research logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://biodiversity.research.ufl.edu/"><img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://www.floridamuseum.ufl.edu/"> <img src="https://static.tdwg.org/sponsors/flmnh.png" alt="Florida Museum of Natural History logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://www.idigbio.org/"><img src="https://static.tdwg.org/sponsors/idigbio_w799.png" alt="iDigBio logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center;" colspan="2"  width="33%"><a href="https://www.natural-solutions.eu/"><img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://biodiversitylibrary.org"><img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+</tr>
+<tr>
 
 ## Código de Conducta
 
