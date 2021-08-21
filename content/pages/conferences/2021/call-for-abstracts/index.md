@@ -1,9 +1,9 @@
 ---
 title: TDWG 2021 - Call for Abstracts
 summary: Connecting the world of biodiversity data: standards uniting people, processes, and tools
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
+cover_image: https://images.unsplash.com/photo-1625465809518-56046973ecbf
+cover_image_by: Sammy Wong
+cover_image_ref: https://unsplash.com/photos/v3iCc0K6Kfo
 tags: conference
 page_order: 36
 ---
