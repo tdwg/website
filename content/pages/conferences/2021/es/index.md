@@ -1,9 +1,9 @@
 ---
 title: TDWG 2021 - Una Conferencia Virtual
 summary: Conectando el mundo de los datos de biodiversidad: uniendo personas, procesos y herramientas
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
+cover_image: https://images.unsplash.com/photo-1512076249812-fd58fb2c8748?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2550&q=80
+cover_image_by: Vladislav Klapin
+cover_image_ref: https://unsplash.com/photos/YeO44yVTl20
 tags: conference
 page_order: 80
 ---
