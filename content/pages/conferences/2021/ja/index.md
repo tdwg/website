@@ -1,9 +1,9 @@
 ---
 title: TDWG 2021 - バーチャル年会
 summary: 生物多様性データの世界をつなぐ: 人々、プロセス、そしてツールをつなぐスタンダード
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
+cover_image: https://images.unsplash.com/photo-1512076249812-fd58fb2c8748
+cover_image_by: Vladislav Klapin
+cover_image_ref: https://unsplash.com/photos/YeO44yVTl20
 tags: conference
 page_order: 100
 ---
