@@ -37,6 +37,7 @@ Durante la semana de la conferencia virtual, las sesiones se programarán princi
 ## Auspiciantes
 
 TDWG agradece el apoyo financiero o en especie a TDWG 2021 por parte de las siguientes organizaciones.
+
 <table border="0">
 <tbody>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -60,6 +61,10 @@ TDWG agradece el apoyo financiero o en especie a TDWG 2021 por parte de las sigu
 <td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://biodiversitylibrary.org"><img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
+
+</tr>
+</tbody>
+</table>
 
 ## Código de Conducta
 
