@@ -1,6 +1,6 @@
 ---
 title: Authors of Plant Names
-summary: An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author. Authors of Plant Names has been incorporated into the [International Plant Names Index (IPNI)](http://www.ipni.org/). 
+summary: An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author. Authors of Plant Names has been incorporated into the [International Plant Names Index (IPNI)](https://www.ipni.org/).
 cover_image: https://images.unsplash.com/photo-1530027644375-9c83053d392e
 cover_image_by: Xuan Nguyen
 cover_image_ref: https://unsplash.com/photos/v6V-hfxjboI
@@ -15,26 +15,23 @@ website_title: Authors of Plant Names at kew.org
 Title
 : Authors of Plant Names
 
-Date created
-: 1992-10-01
+Permanent IRI (for citations and links)
+: <http://www.tdwg.org/standards/101>
+
+Publisher
+: [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
+
+Ratified
+: 1992
 
 Status
-: Prior standard
-
-Category
-: 
-
-Permanent IRI
-: <http://www.tdwg.org/standards/101>
+: [Prior standard](https://www.tdwg.org/standards/status-and-categories/)
 
 Abstract
 : An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author.
 
-Creator
-: Brummitt RK & Powell CE
-
 Bibliographic citation
-: > Brummitt RK & Powell CE (eds) (1992) Authors of plant names. A list of authors of scientific names of plants, with recommended standard form of their names including abbreviations. Royal Botanic Gardens, Kew. Pp [4], 732. ISBN 0947643443
+: > Brummitt, R. K. and C. E. Powell. 1992. Authors of Plant Names Standard. International Working Group on Taxonomic Databases (TDWG) http://www.tdwg.org/standards/101
 
 ## Where is the Brummitt & Powell "Authors of Plant Names" database?
 
@@ -43,3 +40,22 @@ Since 1998 the database of author names and their standard forms (which formed t
 ## Authors of Plant Names and TDWG
 
 The Taxonomic Databases Working Group (TDWG) adopted the original printed version of Brummitt & Powell (1992) as their data standard for Authors of Plant Names. The adoption of the current live database is still currently under discussion. This would represent a new precedent for TDWG in that all standards adopted to date have been static and in hard copy.
+
+## Parts of the standard
+
+This standard is comprised of one document. 
+
+Documents:
+
+**Title:** Authors of Plant Names \
+**Permanent IRI:** [http://rs.tdwg.org/apn/doc/data/](https://www.kew.org/data/authors.html) \
+**Created:** 1992 \
+**Last modified:** 1992 \
+**Contributors:** \
+Richard K. Brummitt (author) \
+C. Emma Powell (author) \
+**Publisher:** Royal Botanic Gardens, Kew \
+**Abstract:** An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author.  \
+**Note:** Note: Authors of Plant Names eBook is behind a GBP 60 paywall (http://shop.kew.org/authors-of-plant-names-11770).  Since 1998, the database of author names and their standard forms has been maintained and updated online as part of The International Plant Names Index (http://www.ipni.org/). \
+**Citation:** Brummitt, R. K. and C. E. Powell. 1992. Authors of Plant Names. Kew Publishing. ISBN: 1842460854 http://rs.tdwg.org/apn/doc/data/1992
+
