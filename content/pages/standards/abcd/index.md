@@ -42,30 +42,30 @@ This standard is comprised of 2 documents.
 
 Documents:
 
-**Title:** Access to Biological Collection Data (ABCD) Primer \
-**Permanent IRI:** [http://rs.tdwg.org/abcd/doc/primer/](https://github.com/tdwg/wiki-archive/blob/master/twiki/data/ABCD/AbcdPrimer.txt) \
-**Created:** 2006-07-27 \
-**Last modified:** 2006-07-27 \
-**Contributors:** \
-Neil Thomson (author) - Natural History Museum, London \
-Markus Döring (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-Renato De Giovanni (author) - Centro de Referência em Informação Ambiental \
-Javier de la Torre (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-Walter G. Berendsohn (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-Wouter Addink (author) - Expertise Centre for Taxonomic Identification, Amsterdam  \
-William Ulate  (author) - INBioparque, Santo Domingo de Heredia  \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This primer is intended to provide an easily readable background to ABCD and should take anyone with no knowledge of the standard to the very point where they would be able to understand the principles and the more detailed technical specification. Examples are given which are complemented by references to the normative texts. \
+**Title:** Access to Biological Collection Data (ABCD) Primer <br/>
+**Permanent IRI:** [http://rs.tdwg.org/abcd/doc/primer/](https://github.com/tdwg/wiki-archive/blob/master/twiki/data/ABCD/AbcdPrimer.txt) <br/>
+**Created:** 2006-07-27 <br/>
+**Last modified:** 2006-07-27 <br/>
+**Contributors:** <br/>
+Neil Thomson (author) - Natural History Museum, London <br/>
+Markus Döring (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+Renato De Giovanni (author) - Centro de Referência em Informação Ambiental <br/>
+Javier de la Torre (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+Walter G. Berendsohn (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+Wouter Addink (author) - Expertise Centre for Taxonomic Identification, Amsterdam  <br/>
+William Ulate  (author) - INBioparque, Santo Domingo de Heredia  <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This primer is intended to provide an easily readable background to ABCD and should take anyone with no knowledge of the standard to the very point where they would be able to understand the principles and the more detailed technical specification. Examples are given which are complemented by references to the normative texts. <br/>
 **Citation:** TDWG Access to Biological Collections Data (ABCD) Task Group 2006. Access to Biological Collections Data (ABCD) Primer. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/abcd/doc/primer/
 
-**Title:** Access to Biological Collection Data (ABCD) XML Schema \
-**Permanent IRI:** [http://rs.tdwg.org/abcd/doc/xmlschema/](http://rs.tdwg.org/abcd/2.06/ABCD_2.06.xsd) \
-**Created:** 2007-06-13 \
-**Last modified:** 2007-06-13 \
-**Contributors:** \
-Walter G. Berendsohn (lead author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** XML schema document for the Access to Biological Collection Data standard. \
-**Note:** See also https://raw.githack.com/tdwg/abcd/master/2.06/rddl-2007-10-18.html \
+**Title:** Access to Biological Collection Data (ABCD) XML Schema <br/>
+**Permanent IRI:** [http://rs.tdwg.org/abcd/doc/xmlschema/](http://rs.tdwg.org/abcd/2.06/ABCD_2.06.xsd) <br/>
+**Created:** 2007-06-13 <br/>
+**Last modified:** 2007-06-13 <br/>
+**Contributors:** <br/>
+Walter G. Berendsohn (lead author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** XML schema document for the Access to Biological Collection Data standard. <br/>
+**Note:** See also https://raw.githack.com/tdwg/abcd/master/2.06/rddl-2007-10-18.html <br/>
 **Citation:** TDWG Access to Biological Collections Data (ABCD) Task Group 2007. Access to Biological Collections Data (ABCD) XML Schema. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/abcd/doc/xmlschema/
 

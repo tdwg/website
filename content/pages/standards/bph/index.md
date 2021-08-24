@@ -33,14 +33,14 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** B-P-H-2: Periodicals with Botanical content (edition 2) \
-**Permanent IRI:** [http://rs.tdwg.org/bph/doc/book/](http://huntbotanical.org/publications/show.php?=92) \
-**Created:** 1968 \
-**Last modified:** 2004 \
-**Contributors:** \
-Gavin D. R. Bridson (author) - Hunt Institute \
-**Publisher:** Hunt Institute for Botanical Documentation \
-**Abstract:** This edition includes the abbreviations for titles of books. \
-**Note:** The second edition includes material in both the first edition of B-H-P and the 1991 B-P-H/S supplement.  The print version is out of print.  See http://huntbotanical.org/publications/show.php?=92. The online database is at http://huntbotanical.org/databases/show.php?1 \
+**Title:** B-P-H-2: Periodicals with Botanical content (edition 2) <br/>
+**Permanent IRI:** [http://rs.tdwg.org/bph/doc/book/](http://huntbotanical.org/publications/show.php?=92) <br/>
+**Created:** 1968 <br/>
+**Last modified:** 2004 <br/>
+**Contributors:** <br/>
+Gavin D. R. Bridson (author) - Hunt Institute <br/>
+**Publisher:** Hunt Institute for Botanical Documentation <br/>
+**Abstract:** This edition includes the abbreviations for titles of books. <br/>
+**Note:** The second edition includes material in both the first edition of B-H-P and the 1991 B-P-H/S supplement.  The print version is out of print.  See http://huntbotanical.org/publications/show.php?=92. The online database is at http://huntbotanical.org/databases/show.php?1 <br/>
 **Citation:** Bridson, G. D. R. 2004. B-P-H-2: Periodicals with Botanical content (edition 2). Hunt Institute for Botanical Documentation, Carnegie Mellon University (Pittsburgh). ISBN: 0913196789. http://rs.tdwg.org/bph/doc/book/
 
