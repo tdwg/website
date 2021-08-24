@@ -40,16 +40,16 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** World Geographic Scheme for Recording Plant Distributions \
-**Permanent IRI:** [http://rs.tdwg.org/wgsrpd/doc/data/](https://github.com/tdwg/wgsrpd/blob/master/109-488-1-ED/2nd%20Edition/TDWG_geo2.pdf) \
-**Created:** 2001-08 \
-**Last modified:** 2001-08 \
-**Contributors:** \
-Richard K. Brummitt (author) \
-Francisco Pando (author) \
-S. Hollis (author) \
-Neil A. Brummitt (author) \
-**Publisher:** Hunt Institute for Botanical Documentation \
-**Abstract:** This document defines a schem for recording geographical units.  The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called “Botanical Country” level (which may often ignore purely political considerations), and fourthly at a slightly lower level called “Basic Recording Units” where political integrity is fully recognised. \
+**Title:** World Geographic Scheme for Recording Plant Distributions <br/>
+**Permanent IRI:** [http://rs.tdwg.org/wgsrpd/doc/data/](https://github.com/tdwg/wgsrpd/blob/master/109-488-1-ED/2nd%20Edition/TDWG_geo2.pdf) <br/>
+**Created:** 2001-08 <br/>
+**Last modified:** 2001-08 <br/>
+**Contributors:** <br/>
+Richard K. Brummitt (author) <br/>
+Francisco Pando (author) <br/>
+S. Hollis (author) <br/>
+Neil A. Brummitt (author) <br/>
+**Publisher:** Hunt Institute for Botanical Documentation <br/>
+**Abstract:** This document defines a schem for recording geographical units.  The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called “Botanical Country” level (which may often ignore purely political considerations), and fourthly at a slightly lower level called “Basic Recording Units” where political integrity is fully recognised. <br/>
 **Citation:** R. K. Brummitt. 2001. World Geographic Scheme for Recording Plant Distributions, Edition 2. Hunt Institute for Botanical Documentation, Carnegie Mellon University (Pittsburgh). http://rs.tdwg.org/wgsrpd/doc/data/
 

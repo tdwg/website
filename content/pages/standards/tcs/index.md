@@ -43,25 +43,25 @@ This standard is comprised of 2 documents.
 
 Documents:
 
-**Title:** Taxon Concept Schema User Guide \
-**Permanent IRI:** [http://rs.tdwg.org/tcs/doc/guide/](https://github.com/tdwg/tcs/blob/master/TCS101/UserGuidev_1.3.pdf) \
-**Created:** 2006-09-21 \
-**Last modified:** 2006-09-21 \
-**Contributors:** \
-Jessie Kennedy (author) - Napier University  \
-Roger Hyam (author) - TDWG Infrastructure Project \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This guide is meant to act as a readable introduction to the Taxon Concept Schema (TCS). It is aimed at both decision makers and implementers of systems and so the content varies from being of a general nature, assuming little prior knowledge of taxonomy or XML technologies, to being quite detailed concerning the technicalities of biological nomenclature and XML schemas. Generally it becomes more specific as it goes on. This document is not a step by step manual for mapping a data source to a TCS document. Each data source is likely to be different in structure and so this is not a feasible exercise. What it attempts to do is provided the information needed for an implementer to make intelligent decisions as to how their data source should be mapped to the schema so that they can publish and/or receive data from other systems with as little confusion as possible.  \
+**Title:** Taxon Concept Schema User Guide <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tcs/doc/guide/](https://github.com/tdwg/tcs/blob/master/TCS101/UserGuidev_1.3.pdf) <br/>
+**Created:** 2006-09-21 <br/>
+**Last modified:** 2006-09-21 <br/>
+**Contributors:** <br/>
+Jessie Kennedy (author) - Napier University  <br/>
+Roger Hyam (author) - TDWG Infrastructure Project <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This guide is meant to act as a readable introduction to the Taxon Concept Schema (TCS). It is aimed at both decision makers and implementers of systems and so the content varies from being of a general nature, assuming little prior knowledge of taxonomy or XML technologies, to being quite detailed concerning the technicalities of biological nomenclature and XML schemas. Generally it becomes more specific as it goes on. This document is not a step by step manual for mapping a data source to a TCS document. Each data source is likely to be different in structure and so this is not a feasible exercise. What it attempts to do is provided the information needed for an implementer to make intelligent decisions as to how their data source should be mapped to the schema so that they can publish and/or receive data from other systems with as little confusion as possible.  <br/>
 **Citation:** Taxonomic Names Subgroup. 2006. Taxon Concept Schema User Guide. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tcs/doc/guide/
 
-**Title:** Taxon Concept Schema XML Schema \
-**Permanent IRI:** [http://rs.tdwg.org/tcs/doc/xmlschema/](https://github.com/tdwg/tcs/blob/master/TCS101/v101.xsd) \
-**Created:** 2006-09-21 \
-**Last modified:** 2006-09-21 \
-**Contributors:** \
-Jessie Kennedy (author) - Napier University  \
-Roger Hyam (author) - TDWG Infrastructure Project \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This document is the validation schema for Taxon Concept Schema XML documents. \
+**Title:** Taxon Concept Schema XML Schema <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tcs/doc/xmlschema/](https://github.com/tdwg/tcs/blob/master/TCS101/v101.xsd) <br/>
+**Created:** 2006-09-21 <br/>
+**Last modified:** 2006-09-21 <br/>
+**Contributors:** <br/>
+Jessie Kennedy (author) - Napier University  <br/>
+Roger Hyam (author) - TDWG Infrastructure Project <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This document is the validation schema for Taxon Concept Schema XML documents. <br/>
 **Citation:** Taxonomic Names Subgroup. 2006. Taxon Concept Schema XML Schema. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tcs/doc/xmlschema/
 

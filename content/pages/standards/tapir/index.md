@@ -85,68 +85,68 @@ This standard is comprised of 6 documents.
 
 Documents:
 
-**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Protocol Specification \
-**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/specification/](http://tdwg.github.io/tapir/docs/tdwg_tapir_specification_2010-05-05.html) \
-**Created:** 2010-05-05 \
-**Last modified:** 2010-05-05 \
-**Contributors:** \
-Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental \
-Charles Copp (lead author) - Environmental Information Management  \
-Markus Döring (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-Anton Güntsch (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-Dave Vieglais (author) - KU Natural History Museum \
-Donald Hobern (author) - Global Biodiversity Information Facility \
-Javier de la Torre (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-John Wieczorek (author) - Museum of Vertebrate Zoology at Berkeley \
-Robert Gales (author) - KU Natural History Museum \
-Roger Hyam (author) - TDWG \
-Stanley Blum (author) - California Academy of Sciences \
-Perry Steven (author) - KU Natural History Museum \
-Piers Higgs (review manager) \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This document specifies the TAPIR protocol and the structure and syntax of TAPIR messages.   \
+**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Protocol Specification <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/specification/](http://tdwg.github.io/tapir/docs/tdwg_tapir_specification_2010-05-05.html) <br/>
+**Created:** 2010-05-05 <br/>
+**Last modified:** 2010-05-05 <br/>
+**Contributors:** <br/>
+Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental <br/>
+Charles Copp (lead author) - Environmental Information Management  <br/>
+Markus Döring (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+Anton Güntsch (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+Dave Vieglais (author) - KU Natural History Museum <br/>
+Donald Hobern (author) - Global Biodiversity Information Facility <br/>
+Javier de la Torre (author) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+John Wieczorek (author) - Museum of Vertebrate Zoology at Berkeley <br/>
+Robert Gales (author) - KU Natural History Museum <br/>
+Roger Hyam (author) - TDWG <br/>
+Stanley Blum (author) - California Academy of Sciences <br/>
+Perry Steven (author) - KU Natural History Museum <br/>
+Piers Higgs (review manager) <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This document specifies the TAPIR protocol and the structure and syntax of TAPIR messages.   <br/>
 **Citation:** TAPIR Task Group. 2010. TDWG Access Protocol for Information Retrieval (TAPIR) Protocol Specification. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tapir/doc/specification/
 
-**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) XML Schema  \
-**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/xmlschema/](http://tdwg.github.io/tapir/schema/tapir.xsd) \
-**Created:** 2009-02-05 \
-**Last modified:** 2009-02-05 \
-**Contributors:** \
-Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** TAPIR XML Schema. TAPIR is an acronym for TDWG Access Protocol for Information Retrieval. It is a unified and extended protocol based on DiGIR and BioCASe. TAPIR specifies a standardised, stateless, HTTP transmittable, XML-based request and response protocol for accessing structured data that may be stored on any number of distributed databases of varied physical and logical structure.   \
+**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) XML Schema  <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/xmlschema/](http://tdwg.github.io/tapir/schema/tapir.xsd) <br/>
+**Created:** 2009-02-05 <br/>
+**Last modified:** 2009-02-05 <br/>
+**Contributors:** <br/>
+Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** TAPIR XML Schema. TAPIR is an acronym for TDWG Access Protocol for Information Retrieval. It is a unified and extended protocol based on DiGIR and BioCASe. TAPIR specifies a standardised, stateless, HTTP transmittable, XML-based request and response protocol for accessing structured data that may be stored on any number of distributed databases of varied physical and logical structure.   <br/>
 **Citation:** TAPIR Task Group. 2009. TDWG Access Protocol for Information Retrieval (TAPIR) XML Schema. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tapir/doc/xmlschema/
 
-**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Concept Aliases \
-**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/conceptaliases/](http://tdwg.github.io/tapir/cns/alias.txt) \
-**Created:** 2015-06-01 \
-**Last modified:** 2015-06-01 \
-**Contributors:** \
-Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** Globally unique aliases for concepts. The aliases listed here are only unique within their concept source.  \
+**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Concept Aliases <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/conceptaliases/](http://tdwg.github.io/tapir/cns/alias.txt) <br/>
+**Created:** 2015-06-01 <br/>
+**Last modified:** 2015-06-01 <br/>
+**Contributors:** <br/>
+Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** Globally unique aliases for concepts. The aliases listed here are only unique within their concept source.  <br/>
 **Citation:** TAPIR Task Group. 2015. TDWG Access Protocol for Information Retrieval (TAPIR) Concept Aliases. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tapir/doc/conceptaliases/
 
-**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Network Builders' Guide \
-**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/guide/](http://tdwg.github.io/tapir/docs/TAPIRNetworkBuildersGuide_2010-05-05.html) \
-**Created:** 2015-06-03 \
-**Last modified:** 2015-06-03 \
-**Contributors:** \
-Charles Copp (lead author) - Environmental Information Management  \
-Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental \
-Lee Belbin (reviewer) - TDWG Infrastructure Project \
-Markus Döring (reviewer) - Botanic Garden and Botanical Museum Berlin-Dahlem  \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This document provides guidelines for building networks based on the TAPIR protocol.   \
+**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Network Builders' Guide <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/guide/](http://tdwg.github.io/tapir/docs/TAPIRNetworkBuildersGuide_2010-05-05.html) <br/>
+**Created:** 2015-06-03 <br/>
+**Last modified:** 2015-06-03 <br/>
+**Contributors:** <br/>
+Charles Copp (lead author) - Environmental Information Management  <br/>
+Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental <br/>
+Lee Belbin (reviewer) - TDWG Infrastructure Project <br/>
+Markus Döring (reviewer) - Botanic Garden and Botanical Museum Berlin-Dahlem  <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This document provides guidelines for building networks based on the TAPIR protocol.   <br/>
 **Citation:** TAPIR Task Group. 2015. TDWG Access Protocol for Information Retrieval (TAPIR) Network Builders' Guide. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tapir/doc/guide/
 
-**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Output Models and Query Templates \
-**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/models/](http://tdwg.github.io/tapir/cs/) \
-**Created:** 2015-11-25 \
-**Last modified:** 2015-11-25 \
-**Contributors:** \
-Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This page is an index to TAPIR XML models and query templates. \
+**Title:** TDWG Access Protocol for Information Retrieval (TAPIR) Output Models and Query Templates <br/>
+**Permanent IRI:** [http://rs.tdwg.org/tapir/doc/models/](http://tdwg.github.io/tapir/cs/) <br/>
+**Created:** 2015-11-25 <br/>
+**Last modified:** 2015-11-25 <br/>
+**Contributors:** <br/>
+Renato De Giovanni (lead author) - Centro de Referência em Informação Ambiental <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This page is an index to TAPIR XML models and query templates. <br/>
 **Citation:** TAPIR Task Group. 2015. TDWG Access Protocol for Information Retrieval (TAPIR) Output Models and Query Templates. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tapir/doc/models/
 

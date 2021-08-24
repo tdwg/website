@@ -40,23 +40,23 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** The International Transfer Format (ITF) for Botanic Garden Plant Records (Version 2) \
-**Permanent IRI:** [http://rs.tdwg.org/itfbgpr/doc/specification/](http://www.bgci.org/files/Databases/itf2.pdf) \
-**Created:** 1987-09-15 \
-**Last modified:** 1998 \
-**Contributors:** \
-Diane Wyse Jackson (lead author) - Botanic Gardens Conservation International \
-Christopher Hobson (editor) - Botanic Gardens Conservation International \
-Barry Conn (editor) - Botanic Gardens Conservation International \
-Richard Piacentini (editor) - Botanic Gardens Conservation International \
-Steve Waldren (editor) - Botanic Gardens Conservation International \
-Chris Ward (editor) - Botanic Gardens Conservation International \
-Ken Bailey (author) - Royal Botanic Garden, Kew \
-Peter Wyse Jackson (author) - Botanic Gardens Conservation International \
-Simon Thornton Wood (author) - Royal Horticultural Society \
-Kerry Walter (author) - BG-BASE and Royal Botanic Garden, Edinburgh \
-**Publisher:** Botanic Gardens Conservation International \
-**Abstract:** This document contains a complete description of version 2 of the International Transfer Format for Botanic Garden Records. It includes all the information which institutions will need when making use of the ITF2 to send or receive plant records in the ITF2 format. The annexes to this manual describe some of the problem areas which needed to be addressed during the definition of ITF2.  \
-**Note:** Available only in electronic format. \
+**Title:** The International Transfer Format (ITF) for Botanic Garden Plant Records (Version 2) <br/>
+**Permanent IRI:** [http://rs.tdwg.org/itfbgpr/doc/specification/](http://www.bgci.org/files/Databases/itf2.pdf) <br/>
+**Created:** 1987-09-15 <br/>
+**Last modified:** 1998 <br/>
+**Contributors:** <br/>
+Diane Wyse Jackson (lead author) - Botanic Gardens Conservation International <br/>
+Christopher Hobson (editor) - Botanic Gardens Conservation International <br/>
+Barry Conn (editor) - Botanic Gardens Conservation International <br/>
+Richard Piacentini (editor) - Botanic Gardens Conservation International <br/>
+Steve Waldren (editor) - Botanic Gardens Conservation International <br/>
+Chris Ward (editor) - Botanic Gardens Conservation International <br/>
+Ken Bailey (author) - Royal Botanic Garden, Kew <br/>
+Peter Wyse Jackson (author) - Botanic Gardens Conservation International <br/>
+Simon Thornton Wood (author) - Royal Horticultural Society <br/>
+Kerry Walter (author) - BG-BASE and Royal Botanic Garden, Edinburgh <br/>
+**Publisher:** Botanic Gardens Conservation International <br/>
+**Abstract:** This document contains a complete description of version 2 of the International Transfer Format for Botanic Garden Records. It includes all the information which institutions will need when making use of the ITF2 to send or receive plant records in the ITF2 format. The annexes to this manual describe some of the problem areas which needed to be addressed during the definition of ITF2.  <br/>
+**Note:** Available only in electronic format. <br/>
 **Citation:** Wyse Jackson, D., C. Hobson, B. Conn, R. Piacentini, S. Waldren, C. Ward, K. Bailey, P. Wyse Jackson, S. T. Wood, K. Walter. 1998. The International Transfer Format (ITF) for Botanic Garden Plant Records (Version 2). Botanic Gardens Conservation International. http://rs.tdwg.org/itfbgpr/doc/specification/
 

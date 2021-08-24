@@ -33,15 +33,15 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** XDF: A Language for the Definition and Exchange of Biological Data Sets \
-**Permanent IRI:** [http://rs.tdwg.org/xdf/doc/article/](https://doi.org/10.1016/0895-7177(92)90163-F) \
-**Created:** 1992 \
-**Last modified:** 1992 \
-**Contributors:** \
-Richard J. White (author) \
-Robert Allkin (author) \
-**Publisher:** IUBS Commission for Plant Taxonomic Databases (TDWG) \
-**Abstract:** XDF (the Exchange Data Format) is a database file exchange medium to handle diverse classes of biological data required for file transfers between different database projects. Data sets prepared in XDF consists of text files that are effectively independent of any particular project. XDF is a high-level language for describing biological data, with its own syntax and command vocabulary, analogous to the high-level programming languages used to describe software algorithms.  \
-**Note:** Note: the article linked to the access uri does not seem to be the actual standard itself.  See reference number 16 in the article. \
+**Title:** XDF: A Language for the Definition and Exchange of Biological Data Sets <br/>
+**Permanent IRI:** [http://rs.tdwg.org/xdf/doc/article/](https://doi.org/10.1016/0895-7177(92)90163-F) <br/>
+**Created:** 1992 <br/>
+**Last modified:** 1992 <br/>
+**Contributors:** <br/>
+Richard J. White (author) <br/>
+Robert Allkin (author) <br/>
+**Publisher:** IUBS Commission for Plant Taxonomic Databases (TDWG) <br/>
+**Abstract:** XDF (the Exchange Data Format) is a database file exchange medium to handle diverse classes of biological data required for file transfers between different database projects. Data sets prepared in XDF consists of text files that are effectively independent of any particular project. XDF is a high-level language for describing biological data, with its own syntax and command vocabulary, analogous to the high-level programming languages used to describe software algorithms.  <br/>
+**Note:** Note: the article linked to the access uri does not seem to be the actual standard itself.  See reference number 16 in the article. <br/>
 **Citation:** TDWG XDF Subgroup (Authors: R. J. White and R. Allkin). 1992. XDF: A Language for the Definition and Exchange of Biological Data Sets. IUBS Commission for Plant Taxonomic Databases (TDWG). http://rs.tdwg.org/xdf/doc/article/
 

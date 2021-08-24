@@ -37,13 +37,13 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** Plant Occurrence and Status Scheme: A Standard for Recording the Relationship between a Plant and a Place \
-**Permanent IRI:** [http://rs.tdwg.org/poss/doc/specification/](https://github.com/tdwg/prior-standards/blob/master/poss/106-522-1-RV.pdf) \
-**Created:** 1995-11 \
-**Last modified:** 1995-11 \
-**Contributors:** \
-Hugh Synge (author) - IUCN Conservation Monitoring Centre \
-**Publisher:** International Working Group on Taxonomic Databases (TDWG) \
-**Abstract:** This document describes the general principles of POSS and describes the data fields and their suggested values. \
+**Title:** Plant Occurrence and Status Scheme: A Standard for Recording the Relationship between a Plant and a Place <br/>
+**Permanent IRI:** [http://rs.tdwg.org/poss/doc/specification/](https://github.com/tdwg/prior-standards/blob/master/poss/106-522-1-RV.pdf) <br/>
+**Created:** 1995-11 <br/>
+**Last modified:** 1995-11 <br/>
+**Contributors:** <br/>
+Hugh Synge (author) - IUCN Conservation Monitoring Centre <br/>
+**Publisher:** International Working Group on Taxonomic Databases (TDWG) <br/>
+**Abstract:** This document describes the general principles of POSS and describes the data fields and their suggested values. <br/>
 **Citation:** World Conservation Monitoring Centre. 1995. Plant Occurrence and Status Scheme: A Standard for Recording the Relationship between a Plant and a Place. International Working Group on Taxonomic Databases (TDWG). http://rs.tdwg.org/poss/doc/specification/
 

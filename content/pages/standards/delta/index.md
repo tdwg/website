@@ -42,15 +42,15 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** Definition of the Delta Format \
-**Permanent IRI:** [http://rs.tdwg.org/delta/doc/definition/](https://github.com/tdwg/delta/blob/master/107-516-1-ED.pdf) \
-**Created:** 2005-09-13 \
-**Last modified:** 2005-09-13 \
-**Contributors:** \
-Michael J. Dallwitz (author) \
-Toni Anne Paine (author) \
-**Publisher:** Commonwealth Scientific and Industrial Research Organisation (CSIRO) \
-**Abstract:** This document is primarily for the benefit of programmers, and contains more detail than would usually be required by users of the DELTA format. It provides an introduction to the format, and details necessary to encode data in the format. \
-**Note:** See http://delta-intkey.com/www/overview.htm for an overview and http://delta-intkey.com/www/use.htm for conditions of use. \
+**Title:** Definition of the Delta Format <br/>
+**Permanent IRI:** [http://rs.tdwg.org/delta/doc/definition/](https://github.com/tdwg/delta/blob/master/107-516-1-ED.pdf) <br/>
+**Created:** 2005-09-13 <br/>
+**Last modified:** 2005-09-13 <br/>
+**Contributors:** <br/>
+Michael J. Dallwitz (author) <br/>
+Toni Anne Paine (author) <br/>
+**Publisher:** Commonwealth Scientific and Industrial Research Organisation (CSIRO) <br/>
+**Abstract:** This document is primarily for the benefit of programmers, and contains more detail than would usually be required by users of the DELTA format. It provides an introduction to the format, and details necessary to encode data in the format. <br/>
+**Note:** See http://delta-intkey.com/www/overview.htm for an overview and http://delta-intkey.com/www/use.htm for conditions of use. <br/>
 **Citation:** Dallwitz, M. J. and T. A. Paine. 1999 onwards. Definition of the Delta Format. Version: 2005-09-13. http://delta-intkey.com/
 

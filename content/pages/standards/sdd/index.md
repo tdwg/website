@@ -40,29 +40,29 @@ This standard is comprised of 2 documents.
 
 Documents:
 
-**Title:** Introduction and Primer to the Structured Descriptive Data (SDD) Standard \
-**Permanent IRI:** [http://rs.tdwg.org/sdd/doc/introduction/](https://github.com/tdwg/wiki-archive/blob/master/twiki/data/SDD/Primer/SddIntroduction.txt) \
-**Created:** 2006-05-11 \
-**Last modified:** 2006-05-11 \
-**Contributors:** \
-Gregor Hagedorn (author) - Julius Kühn Institute  \
-Kevin R. Thiele (author) - Western Australian Herbarium  \
-Robert A. Morris (author) - University of Massachusetts at Boston, USA \
-P. Bryan Heidorn (author) - University of Illinois at Urbana-Champaign \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This document is a non-normative introduction to the Taxonomic Databases Working Group SDD (Structure of Descriptive Data) Standard. Its intention is to provide a background, introduction and primer to the SDD Standard, with examples. \
+**Title:** Introduction and Primer to the Structured Descriptive Data (SDD) Standard <br/>
+**Permanent IRI:** [http://rs.tdwg.org/sdd/doc/introduction/](https://github.com/tdwg/wiki-archive/blob/master/twiki/data/SDD/Primer/SddIntroduction.txt) <br/>
+**Created:** 2006-05-11 <br/>
+**Last modified:** 2006-05-11 <br/>
+**Contributors:** <br/>
+Gregor Hagedorn (author) - Julius Kühn Institute  <br/>
+Kevin R. Thiele (author) - Western Australian Herbarium  <br/>
+Robert A. Morris (author) - University of Massachusetts at Boston, USA <br/>
+P. Bryan Heidorn (author) - University of Illinois at Urbana-Champaign <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This document is a non-normative introduction to the Taxonomic Databases Working Group SDD (Structure of Descriptive Data) Standard. Its intention is to provide a background, introduction and primer to the SDD Standard, with examples. <br/>
 **Citation:** Structure of Descriptive Data (SDD) Subgroup. 2006. Introduction and Primer to the Structured Descriptive Data (SDD) Standard. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/sdd/doc/introduction/
 
-**Title:** Structured Descriptive Data XML Schema \
-**Permanent IRI:** [http://rs.tdwg.org/sdd/doc/xmlschema/](https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/SDD.xsd) \
-**Created:** 2006-05-11 \
-**Last modified:** 2006-05-11 \
-**Contributors:** \
-Gregor Hagedorn (author) - Julius Kühn Institute  \
-Kevin R. Thiele (author) - Western Australian Herbarium  \
-Robert A. Morris (author) - University of Massachusetts at Boston, USA \
-**Publisher:** Biodiversity Information Standards (TDWG) \
-**Abstract:** This is the schema file to be referenced in instance documents for validation. It is the top level schema file that integrates the schema components.  \
-**Note:** See also https://raw.githack.com/tdwg/sdd/master/2006/rddl.html and https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/UBIF_(c).xsd \
+**Title:** Structured Descriptive Data XML Schema <br/>
+**Permanent IRI:** [http://rs.tdwg.org/sdd/doc/xmlschema/](https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/SDD.xsd) <br/>
+**Created:** 2006-05-11 <br/>
+**Last modified:** 2006-05-11 <br/>
+**Contributors:** <br/>
+Gregor Hagedorn (author) - Julius Kühn Institute  <br/>
+Kevin R. Thiele (author) - Western Australian Herbarium  <br/>
+Robert A. Morris (author) - University of Massachusetts at Boston, USA <br/>
+**Publisher:** Biodiversity Information Standards (TDWG) <br/>
+**Abstract:** This is the schema file to be referenced in instance documents for validation. It is the top level schema file that integrates the schema components.  <br/>
+**Note:** See also https://raw.githack.com/tdwg/sdd/master/2006/rddl.html and https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/UBIF_(c).xsd <br/>
 **Citation:** Structure of Descriptive Data (SDD) Subgroup. 2006. Structured Descriptive Data XML Schema. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/sdd/doc/xmlschema/
 

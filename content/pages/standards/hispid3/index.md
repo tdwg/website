@@ -42,13 +42,13 @@ This standard is comprised of one document.
 
 Documents:
 
-**Title:** HISPID3 Herbarium Information Standards and Protocols for Interchange of Data \
-**Permanent IRI:** [http://rs.tdwg.org/hispid/doc/specification/](https://raw.githack.com/tdwg/prior-standards/master/hispid3/110-540-1-RV.html) \
-**Created:** 1989 \
-**Last modified:** 2007-05-11 \
-**Contributors:** \
-Barry J. Conn (editor) \
-**Publisher:** Council of Heads of Australian Herbaria \
-**Abstract:** This document describes the form of HISPID3 records and the fields that can be included in an interchange flat file. \
+**Title:** HISPID3 Herbarium Information Standards and Protocols for Interchange of Data <br/>
+**Permanent IRI:** [http://rs.tdwg.org/hispid/doc/specification/](https://raw.githack.com/tdwg/prior-standards/master/hispid3/110-540-1-RV.html) <br/>
+**Created:** 1989 <br/>
+**Last modified:** 2007-05-11 <br/>
+**Contributors:** <br/>
+Barry J. Conn (editor) <br/>
+**Publisher:** Council of Heads of Australian Herbaria <br/>
+**Abstract:** This document describes the form of HISPID3 records and the fields that can be included in an interchange flat file. <br/>
 **Citation:** Herbarium Information Systems Committee. 2007. HISPID3 Herbarium Information Standards and Protocols for Interchange of Data. Council of Heads of Australian Herbaria. http://rs.tdwg.org/hispid/doc/specification/
 
