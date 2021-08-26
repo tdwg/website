@@ -21,8 +21,6 @@ page_order: 2
 
 ## Time and Place, Chair
 
-## Regional Representative, Europe
-
 ## Regional Representative, Latin America
 
 ## Regional Representative, Oceania
