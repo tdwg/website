@@ -46,7 +46,7 @@ Asia | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto
 Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Leiden, Netherlands | 2021-2022
 Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
 North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2021-2022
-Oceania | [Shelley James](./backgrounds/#oceania%20representative_1) [✉️](mailto:shelley.james@dbca.wa.gov.au) | Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions | 2021-2022
+Oceania | [Shelley James](./backgrounds/#oceania%20representative_1) [✉️](mailto:shelley.james@dbca.wa.gov.au) | Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions | 2020-2021
 
 
 ### Regularly invited participants (non-voting)
