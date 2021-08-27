@@ -17,7 +17,8 @@ status: published
 
 + Teresa J. Mayfield-Meyer | Arctos | [jegelewicz66@gmail.com](jegelewicz66@gmail.com) | @Jegelewicz 
 
- ## 2. Core Members 
+
+## 2. Core Members 
 
 + John Wieczorek | VertNet - Darwin Core Maintenance Interest Group | [gtuco.btuco@gmail.com)](gtuco.btuco@gmail.com) | @tucotuco 
 + Richard L. Pyle | Bernice P. Bishop Museum | [deepreef@bishopmuseum.org](deepreef@bishopmuseum.org) | @deepreef 
