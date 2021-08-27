@@ -45,7 +45,7 @@ status: published
 
 ## 3. Motivation 
 
-Members of the Arctos Working Group feel that [MaterialSample]() and [PreservedSpecimen]() are currently interchangeable. See [ArctosDB/arctos#2432]() for further discussion. The Global Genome Biodiversity Network ([GGBN]()) community is using the Occurrence class currently as a MaterialSample class, as there is no alternative available right now if we want to publish information to aggregators such as the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). It became apparent in the [TDWG issue]() about this change request that other issues pertaining to the representation of settings and events in which material samples occur need clarification too. There are terms in the Occurrence class that feel unnatural there, and the distinction between Darwin Core terms that are related to physical objects<sup>1</sup>feels arbitrary. 
+Members of the Arctos Working Group feel that [MaterialSample]() and [PreservedSpecimen]() are currently interchangeable. See [ArctosDB/arctos#2432]() for further discussion. The Global Genome Biodiversity Network ([GGBN]()) community is using the Occurrence class currently as a MaterialSample class, as there is no alternative available right now if we want to publish information to aggregators such as the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). It became apparent in the [TDWG issue]() about this change request that other issues pertaining to the representation of settings and events in which material samples occur need clarification too. There are terms in the Occurrence class that feel unnatural there, and the distinction between Darwin Core terms that are related to physical objects<sup>1</sup> feels arbitrary. 
 
 The purpose of this task group is to investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data. 
 
@@ -107,8 +107,9 @@ See Motivation
 
 ## 8. Summary 
 
-This task group will review Darwin Core terms related to physical objects<sup>1 </sup>and how they may change over time, with the goal of enabling data about physical objects to be shared, re-used, compared to one another, and further integrated with other sources of biodiversity data. The outcome will be to provide clear semantics for physical object classes and properties with possible recommendations for changes to the class associated with some properties. 
+This task group will review Darwin Core terms related to physical objects<sup>1</sup> and how they may change over time, with the goal of enabling data about physical objects to be shared, re-used, compared to one another, and further integrated with other sources of biodiversity data. The outcome will be to provide clear semantics for physical object classes and properties with possible recommendations for changes to the class associated with some properties. 
 
+<div><sup>1</sup>1 Physical object - In common usage and classical mechanics, a physical object or physical body (or simply an object or body) is a collection of matter within a defined contiguous boundary in three-dimensional space. -- [Wikipedia](https://en.wikipedia.org/wiki/Physical_object)</div>
 
 ## 9. Resources 
 
@@ -142,3 +143,5 @@ This task group will review Darwin Core terms related to physical objects<sup>1 
  - Change term - disposition: https://github.com/tdwg/dwc/issues/347
 
 **NOTE: The TDWG Executive Committee has stipulated that by default, products of TDWG will use the [Creative Commons CC-BY license]().**
+
+
