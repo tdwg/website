@@ -109,7 +109,7 @@ See Motivation
 
 This task group will review Darwin Core terms related to physical objects<sup>1</sup> and how they may change over time, with the goal of enabling data about physical objects to be shared, re-used, compared to one another, and further integrated with other sources of biodiversity data. The outcome will be to provide clear semantics for physical object classes and properties with possible recommendations for changes to the class associated with some properties. 
 
-<div><sup>1</sup>1 Physical object - In common usage and classical mechanics, a physical object or physical body (or simply an object or body) is a collection of matter within a defined contiguous boundary in three-dimensional space. -- [Wikipedia](https://en.wikipedia.org/wiki/Physical_object)</div>
+<sup>1</sup>1 Physical object - In common usage and classical mechanics, a physical object or physical body (or simply an object or body) is a collection of matter within a defined contiguous boundary in three-dimensional space. -- [Wikipedia](https://en.wikipedia.org/wiki/Physical_object)
 
 ## 9. Resources 
 
