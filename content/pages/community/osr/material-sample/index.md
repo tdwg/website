@@ -1,6 +1,6 @@
 ---
 title: OSR - Material Sample
-summary: this task group will investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data.
+summary: This task group will investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data.
 cover_image:
 cover_image_by:
 cover_image_ref:
@@ -10,7 +10,9 @@ status: published
 ---
 
 
-# MaterialSample Task Group Charter <br />A Task Group of Observation & Specimen Records Interest Group
+# MaterialSample Task Group Charter 
+
+A Task Group of the [Observation & Specimen Records Interest Group](../)
 
 
 ## 1. Convenors 
