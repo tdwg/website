@@ -47,7 +47,7 @@ A Task Group of the [Observation & Specimen Records Interest Group](../)
 
 ## 3. Motivation 
 
-Members of the Arctos Working Group feel that [MaterialSample]() and [PreservedSpecimen]() are currently interchangeable. See [ArctosDB/arctos#2432]() for further discussion. The Global Genome Biodiversity Network ([GGBN]()) community is using the Occurrence class currently as a MaterialSample class, as there is no alternative available right now if we want to publish information to aggregators such as the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). It became apparent in the [TDWG issue]() about this change request that other issues pertaining to the representation of settings and events in which material samples occur need clarification too. There are terms in the Occurrence class that feel unnatural there, and the distinction between Darwin Core terms that are related to physical objects<sup>1</sup> feels arbitrary. 
+Members of the Arctos Working Group feel that [MaterialSample](https://dwc.tdwg.org/terms/#materialsample) and [PreservedSpecimen](https://dwc.tdwg.org/terms/#preservedspecimen) are currently interchangeable. See [ArctosDB/arctos#2432](https://github.com/ArctosDB/arctos/issues/2432) for further discussion. The Global Genome Biodiversity Network ([GGBN](https://www.ggbn.org/ggbn_portal/)) community is using the Occurrence class currently as a MaterialSample class, as there is no alternative available right now if we want to publish information to aggregators such as the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). It became apparent in the [TDWG issue](https://github.com/tdwg/dwc/issues/314) about this change request that other issues pertaining to the representation of settings and events in which material samples occur need clarification too. There are terms in the Occurrence class that feel unnatural there, and the distinction between Darwin Core terms that are related to physical objects<sup>1</sup> feels arbitrary. 
 
 The purpose of this task group is to investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data. 
 
@@ -64,21 +64,21 @@ While Darwin Core is described as a bag of terms, users do apply additional sema
 
 Our **main goal** is to enable physical object data sharing as part of the TDWG corpus of standards. The **primary deliverable** will be revised formal definitions of the terms below with appropriate use case examples following the Darwin Core format, adapted from the original definitions currently provided in Darwin Core. This does not depend upon any other tasks/goals of the Task Group. 
 
-+ [MaterialSample]() 
-+ [PreservedSpecimen]() 
-+ [LivingSpecimen]() 
-+ [FossilSpecimen]() 
++ [MaterialSample](https://dwc.tdwg.org/terms/#materialsample) 
++ [PreservedSpecimen](https://dwc.tdwg.org/terms/#preservedspecimen) 
++ [LivingSpecimen](https://dwc.tdwg.org/terms/#livingspecimen) 
++ [FossilSpecimen](https://dwc.tdwg.org/terms/#fossilspecimen) 
 
 **Other deliverables.**
 
-The primary deliverable will be accompanied by a review of the following properties that fall under [Occurrence](), but seem to be properties of one of the above. The task group will make a recommendation for each of these terms as to which class in the Darwin Core standard these properties belong which may also include recommendations for terms being revised, added, disambiguated, or deprecated. Depends upon definitions provided above. 
+The primary deliverable will be accompanied by a review of the following properties that fall under [Occurrence](https://dwc.tdwg.org/terms/#occurrence), but seem to be properties of one of the above. The task group will make a recommendation for each of these terms as to which class in the Darwin Core standard these properties belong which may also include recommendations for terms being revised, added, disambiguated, or deprecated. Depends upon definitions provided above. 
 
-+ [catalogNumber]() 
-+ [preparations]() 
-+ [disposition]() 
-+ [associatedSequences]() 
-+ [otherCatalogNumbers]() 
-+ [BasisOfRecord]() 
++ [catalogNumber](https://dwc.tdwg.org/terms/#dwc:catalogNumber) 
++ [preparations](https://dwc.tdwg.org/terms/#dwc:preparations) 
++ [disposition](https://dwc.tdwg.org/terms/#dwc:disposition) 
++ [associatedSequences](https://dwc.tdwg.org/terms/#dwc:associatedSequences) 
++ [otherCatalogNumbers](https://dwc.tdwg.org/terms/#dwc:otherCatalogNumbers) 
++ [BasisOfRecord](https://dwc.tdwg.org/terms/#dwc:basisOfRecord) 
   - Recommendations will be provided for a revised formal definition as it pertains to materialSample but will not consider other data types. 
 
 **Other documentation**
@@ -97,9 +97,9 @@ The task group will develop term definitions using GitHub issues in the GitHub r
 
 ## 6. Becoming Involved 
 
-Individuals having an interest in this work should contact the conveners, and are invited to watch and contribute via the GitHub repository ([https://github.com/tdwg/material-sample]()). 
+Individuals having an interest in this work should contact the conveners, and are invited to watch and contribute via the GitHub repository ([https://github.com/tdwg/material-sample](https://github.com/tdwg/material-sample)). 
 
-A mailing list is used for discussion outside of GitHub, and is open to follow or join ([http://lists.tdwg.org/mailman/listinfo/dwc-material-sample]()) 
+A mailing list is used for discussion outside of GitHub, and is open to follow or join ([http://lists.tdwg.org/mailman/listinfo/dwc-material-sample](http://lists.tdwg.org/mailman/listinfo/dwc-material-sample)) 
 
 
 ## 7. History/Context 
@@ -144,6 +144,6 @@ This task group will review Darwin Core terms related to physical objects<sup>1<
  - Change term - preparations: https://github.com/tdwg/dwc/issues/346
  - Change term - disposition: https://github.com/tdwg/dwc/issues/347
 
-**NOTE: The TDWG Executive Committee has stipulated that by default, products of TDWG will use the [Creative Commons CC-BY license]().**
+**NOTE: The TDWG Executive Committee has stipulated that by default, products of TDWG will use the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/).**
 
 
