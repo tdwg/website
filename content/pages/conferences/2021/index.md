@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 20 August 2021_
+_Last updated 31 August 2021_
 
 _Translations: [ES](./es/), [FR](./fr), [JP](./ja)_
 
@@ -30,7 +30,9 @@ While virtual, connecting and uniting the TDWG community for the sharing of stan
 
 ## Abstracts
 
-Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS). Presenters are required to complete registration before abstracts can be published. The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June with a deadline of 2 August. **The deadline for abstract submission has now closed.**
+Abstracts are required for all contributions (oral presentations and virtual posters) and are being published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS) as [TDWG Proceedings 2021](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published. **[Please register](https://reg.conferences.dce.ufl.edu/Basic/1400081801) by 3 September 2021.**
+
+The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June with a deadline of 2 August. This deadline was extended to 20 August for posters only. The deadline for submission of abstracts has now closed.
 
 ## Scheduling
 
@@ -78,3 +80,5 @@ By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
 
 ## Additional information
+
+Don't forget to tweet using **#TDWG2021**
