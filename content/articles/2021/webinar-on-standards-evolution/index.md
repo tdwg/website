@@ -11,9 +11,9 @@ tags: TDWG Standards
 
 ## Webinar: How Community Standards Develop and Evolve
 
-**Date / Time: 16 September 2021, 
-13:00 UTC ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T13&ah=1)) / 
-23:00 UTC ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T23&ah=1))**
+**Date / Time: 16 September 2021**
+ - **13:00 UTC** ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T13&ah=1)) | Register on Zoom for **[Session I](https://us06web.zoom.us/meeting/register/tZUofuyupzooE9LcBF6-QP36b40kSebxsEwd)**
+ - **23:00 UTC** ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T23&ah=1)) | Register on Zoom for **[Session II](https://us06web.zoom.us/meeting/register/tZUofuyupzooE9LcBF6-QP36b40kSebxsEwd)**
 
 **Presenters:  Steve Baskauf and Stan Blum**
 
@@ -23,4 +23,6 @@ TDWGs core function is the development and maintenance of biodiversity informati
 
 **Moderators: Mareike Petersen (13:00 UTC) / Paula Zermoglio (23:00 UTC)**
 
-**Platform:  Zoom (link to be posted here).  Registration required.**
+**Platform:  Zoom; registration required.**
+
+
