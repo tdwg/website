@@ -77,6 +77,12 @@ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. A
   </td>
 </tr>
 <tr>
+<td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/loo-tina.jpg" alt="" width="300" height="300" /></td>
+<td>
+  <b>Tina Loo</b><br />
+Naturalis Biodiversity Center, Leiden, The Netherlands<br />
+Biographical-sketch coming soon. </td>
+</tr><tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/shashkov.jpg" alt="" width="300" height="300" /></td>
 <td>
   <b>Maxim Shashkov</b><br />
