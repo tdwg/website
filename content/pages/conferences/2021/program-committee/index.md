@@ -81,7 +81,9 @@ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. A
 <td>
   <b>Tina Loo</b><br />
 Naturalis Biodiversity Center, Leiden, The Netherlands<br />
-Biographical-sketch coming soon. </td>
+  Distributed System of Scientific Collections, Leiden, The Netherlands<br />
+Tina currently works as a senior project officer with the International Collaboration on Biodiversity Infrastructures (ISBI) as part of a distributed team working to realize construction of the pan-European Distributed System of Scientific Collections (DiSSCo) research infrastructure in 2026. Prior to this she worked coordinating several bird, mammal and butterfly data mobilization projects at Naturalis Biodiversity Center and has a background in Zoology. 
+  </td>
 </tr><tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2021/images/pc/shashkov.jpg" alt="" width="300" height="300" /></td>
 <td>
