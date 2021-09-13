@@ -37,39 +37,30 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](../responsibilities/#treasurer)
 
-**Nominees:**
 
 ### Technical Architecture Group, Convener
 
 [Responsibilities](/about/committees/tag/#responsibilities)
 
-**Nominees:**
 
 ### Infrastructure, Chair
 
 [Responsibilities](/about/committees/infrastructure/#responsibilities)
 
-**Nominees:**
 
 ### Fundraising and Partnerships, Chair
 
 [Responsibilities](/about/committees/fudraising/#responsibilities)
 
-**Nominees:**
 
 ### Time and Place, Chair
 
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
-**Nominees:**
 
 ### Regional Representatives: Latin America, Oceania
 
 [Responsibilities](/about/executive/responsibilities/#regional%20representatives)
 
-**Latin America Nominees:**
-
-
-**Oceania Nominees:**
 
 
