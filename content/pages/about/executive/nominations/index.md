@@ -65,7 +65,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 ### Regional Representatives: Latin America, Oceania
 
-Responsibilities](/about/executive/responsibilities/#regional%20representatives)
+[Responsibilities](/about/executive/responsibilities/#regional%20representatives)
 
 #### Latin America Nominees:
 
