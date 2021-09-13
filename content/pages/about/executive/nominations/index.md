@@ -59,7 +59,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 ### Time and Place, Chair
 
-[Responsibilities](/about/committees/tardis/$responsibilities)
+[Responsibilities](/about/committees/tardis/#responsibilities)
 
 #### Nominees:
 
