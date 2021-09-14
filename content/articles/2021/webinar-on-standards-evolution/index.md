@@ -14,7 +14,7 @@ tags: TDWG Standards
 **Date / Time: 16 September 2021**
 
 - **13:00 UTC** ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T13&ah=1)) | Register on Zoom for **[Session I](https://us06web.zoom.us/meeting/register/tZUofuyupzooE9LcBF6-QP36b40kSebxsEwd)**  
-- **23:00 UTC** ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T23&ah=1)) | Register on Zoom for **[Session II](https://us06web.zoom.us/meeting/register/tZUofuyupzooE9LcBF6-QP36b40kSebxsEwd)**
+- **23:00 UTC** ([show local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Webinar+%233%3A++How+Community+Standards+Develop+and+Evolve&iso=20210916T23&ah=1)) | Register on Zoom for **[Session II](https://us06web.zoom.us/meeting/register/tZAlcO6gqTIiGtM0fx17EUbyPbu5MJ2H60iW)**
 
 **Presenters:  Steve Baskauf and Stan Blum**
 
