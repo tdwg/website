@@ -58,17 +58,15 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
 
-### Regional Representatives: Latin America, Oceania
+### Regional Representatives
 
 [Responsibilities](/about/executive/responsibilities/#regional%20representatives)
+
+#### Regional Representative for Latin America
 
 #### Regional Representative for Oceania
 
 **Dr. Shelley James, Western Australian Herbarium**
 
 Dr Shelley James is the Collections Manager of the Western Australian Herbarium, based in Kensington, Western Australia. She has been acting as the Regional Representative for Oceania for the past six months, and is part of the TDWG 2021 Program Committee.  Shelley has been assisting with the planning for the TDWG 2024 meeting in her position as Member at Large on the Society for the Preservation of Natural History Collections (SPNHC)  Council, and looks forward to continuing to help with planning.  Shelley has been an active participant and member of TDWG for more than 10 years.  Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities. With her experience working in Australasia, Melanesia and the Pacific, she is well placed to communicate the biodiversity data standards activities being undertaken across the globe as the TDWG Oceania Regional Representative.
-
- 
-
-
 
