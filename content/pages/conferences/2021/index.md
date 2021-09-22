@@ -55,7 +55,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-<td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://bit.ly/3BzmbmN"><img src="https://static.tdwg.org/sponsors/picturae-logo-600.png" alt="Pensoft Publishers logo" width="" height="100" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://bit.ly/3BzmbmN"><img src="https://static.tdwg.org/sponsors/picturae-logo-600.png" alt="Picturae logo" width="" height="100px" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://research.ufl.edu/"><img src="https://static.tdwg.org/sponsors/uf-research.png" alt="UF Research logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
