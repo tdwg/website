@@ -50,9 +50,12 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 <td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://www.worldwildlife.org/initiatives/science"> <img src="https://static.tdwg.org/sponsors/wwf-science-whitebkgd.png" alt="World Wild Life Fund - Science" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
-<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://dissco.eu/"><img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="UF Biodiversity Institute logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-<td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://dissco.eu/"><img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="UF Biodiversity Institute logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://pensoft.net"><img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft Publishers logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="33%"><a href="https://bit.ly/3BzmbmN"><img src="https://static.tdwg.org/sponsors/picturae-logo-600.png" alt="Pensoft Publishers logo" width="" height="100" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://research.ufl.edu/"><img src="https://static.tdwg.org/sponsors/uf-research.png" alt="UF Research logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
