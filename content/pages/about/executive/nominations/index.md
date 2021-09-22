@@ -50,7 +50,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 ### Fundraising and Partnerships, Chair
 
-[Responsibilities](/about/committees/fudraising/#responsibilities)
+[Responsibilities](/about/committees/fundraising/#responsibilities)
 
 
 ### Time and Place, Chair
