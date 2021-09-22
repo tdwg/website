@@ -61,7 +61,7 @@ TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by th
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://www.idigbio.org/"><img src="https://static.tdwg.org/sponsors/idigbio_w799.png" alt="iDigBio logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-<td style="text-align: center;" colspan="2"  width="33%"><a href="https://www.natural-solutions.eu/"><img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center;" colspan="2"  width="33%"><a href="https://www.natural-solutions.world/"><img src="https://static.tdwg.org/sponsors/natural-solutions-logo-et-nom.png" alt="Natural Solutions logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 <td style="text-align: center; vertical-align: middle;" colspan="2" width="33%"><a href="https://biodiversitylibrary.org"><img src="https://static.tdwg.org/sponsors/bhl-combined-1024x329.png" alt="Biodiversity Heritage Library logo" width="250" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
