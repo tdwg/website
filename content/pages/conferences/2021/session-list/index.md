@@ -171,7 +171,7 @@ Scientists use a variety of methods to collect, record and store biological inte
 
 Data collected by citizen scientists make up a strong and growing part of biodiversity occurrence data yet there is still much discussion around the best approaches to produce, identify and make available high quality, trustworthy data. How do citizen science managers, projects, and platforms streamline workflows such that the data produced are trusted and ready for research? What metrics are most helpful for evaluating trustworthiness in citizen science data? Is it possible to reach a point where trustworthy data are apparent and speak for themselves? In this symposium, hosted by the [TDWG Citizen Science Interest Group](https://www.tdwg.org/community/citizen-science/), speakers will discuss trustworthy data, the ways in which projects and platforms may programmatically classify, identify and account for data quality, and the role of standards and protocols in robust citizen science projects.
 
-## SYM18 Discovering known biodiversity: Digital accessible knowledge
+## SYM18 (Re)Discovering known biodiversity: Digital accessible knowledge
 
 **Session Type:** Symposium (no unsolicited presentations considered)
 
@@ -191,4 +191,4 @@ This half-day workshop/hackathon will explore how connected our global community
 
 First, together we will quickly enumerate the existing APIs we each know about. Our goal is not to be comprehensive, but rather to collectively aggregate known application resources (this itself is a nice proxy test of accessibility). From there we will proceed to the best of our ability, in the time provided, by linking the APIs, and documenting these linkages, in three ways: 1) by quickly observing that some combination of responses from 2 or more APIs could be used to do X, i.e. "theoretically linked"; 2) by identifying sets of specific (real) API calls across two or more providers that represent a specific use case, i.e. "demonstrably linked" and 3) time permitting, by coding tiny proofs of concepts that demonstrate integration across two or more APIs, i.e. "actually linked". Each of these three ways can be run in parallel based on participants' interest. We plan to offer a small prize in each category.
 
-_Last modified 31 May 2021_
+_Last modified 26 September 2021_
