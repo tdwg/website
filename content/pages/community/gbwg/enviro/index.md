@@ -87,6 +87,7 @@ In this context it will be important to fulfill the needs of both the collection
 ## Timeline
 
 | Milestones and Deliverables| Due Month | Description | Remarks |
+| :---: | :---: | :--- | :--- | :--- |
 | M1 | 4 | Use cases and priorities defined |  |
 | D1 | 6 | Definition of glossary terms done |  |
 | M2 | 10 | Agreement on terms describing gathering event, description and storage of sample, relationships between samples | In parts dependent on other Task Groups: i) [MaterialSample](/community/osr/material-sample/), ii) Permits and Loans | 
