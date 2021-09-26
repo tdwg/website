@@ -6,7 +6,7 @@ cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/EyEdZ2aKRfA 
 tags: task group
 github: https://github.com/tdwg/gbwg/
-status: hidden
+status: published
 ---
 
 
@@ -19,7 +19,7 @@ This group has been established to develop a data standard and usage guidelines 
 
 ## Convener
 
-| [Gabi Droege](mailto:g.droege@bgbm.org) | GGBN/Botanic Garden and Botanical Museum Berlin | @gdadade |
+* [Gabi Droege](mailto:g.droege@bgbm.org) (@gdadade), GGBN / Botanic Garden and Botanical Museum, Berlin
 
 ## Core members
 
@@ -86,8 +86,8 @@ In this context it will be important to fulfill the needs of both the collection
 
 ## Timeline
 
-| Milestones and Deliverables| Due Month | Description | Remarks |
-| :---: | :---: | :--- | :--- | :--- |
+| Milestones and Deliverables | Due Month | Description | Remarks |
+|:---------------------------:|:---------:|:------------|:--------| 
 | M1 | 4 | Use cases and priorities defined |  |
 | D1 | 6 | Definition of glossary terms done |  |
 | M2 | 10 | Agreement on terms describing gathering event, description and storage of sample, relationships between samples | In parts dependent on other Task Groups: i) [MaterialSample](/community/osr/material-sample/), ii) Permits and Loans | 
