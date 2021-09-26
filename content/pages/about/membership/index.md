@@ -88,5 +88,6 @@ Invoices for membership dues can be paid:
 | [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) | 	Edinburgh |
 | [Royal Botanic Gardens, Kew](https://www.kew.org/) |   Richmond London |
 | [Royal Botanic Gardens, Melbourne](https://www.rbg.vic.gov.au/) | 	Melbourne |
+| [Specify Collections Consortium](https://www.specifysoftware.org/membership-levels/) |  Lawrence, KS |
 | [US Geological Survey](https://www.usgs.gov/) |  Reston, VA |
 
