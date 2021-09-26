@@ -6,6 +6,7 @@ cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/EyEdZ2aKRfA 
 tags: task group
 github: https://github.com/tdwg/gbwg/
+status: hidden
 ---
 
 
