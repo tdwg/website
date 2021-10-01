@@ -16,7 +16,11 @@ _Last updated 1 October 2021_
 
 _Translations: [ES](./es/), [FR](./fr), [JP](./ja)_
 
-As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. The Interest/Task Group working sessions will be held separately during the month following the virtual conference (November 2021). 
+As we continue to connect people and biodiversity data globally by virtual means in these globally uncertain times, TDWG 2021 will be composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. 
+
+Working sessions of the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held separately in November 2021.
+
+Working session details and logistics (page in prep.) [](./working-sessions/)
 
 ## Hosts
 
