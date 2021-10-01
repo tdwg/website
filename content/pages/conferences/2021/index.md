@@ -12,7 +12,7 @@ page_order: 29
 
 # TDWG 2021<br />October 18-22 
 
-_Last updated 31 August 2021_
+_Last updated 1 October 2021_
 
 _Translations: [ES](./es/), [FR](./fr), [JP](./ja)_
 
@@ -30,13 +30,15 @@ While virtual, connecting and uniting the TDWG community for the sharing of stan
 
 ## Abstracts
 
-Abstracts are required for all contributions (oral presentations and virtual posters) and are being published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS) as [TDWG Proceedings 2021](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published. **[Please register](https://reg.conferences.dce.ufl.edu/Basic/1400081801) by 3 September 2021.**
+Abstracts are required for all contributions (oral presentations and virtual posters) and are being published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS) as [TDWG Proceedings 2021](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published. 
 
-The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June with a deadline of 2 August. This deadline was extended to 20 August for posters only. The deadline for submission of abstracts has now closed.
+The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June with a deadline of 2 August. This deadline was extended to 20 August for posters only. The deadline for submission of abstracts has now closed. **See published abstracts in [TDWG Proceedings 2021](https://biss.pensoft.net/collection/293/).**
 
-## Scheduling
+## Schedule - Newly posted!
 
-During the virtual conference week, sessions will be scheduled primarily during the time zone of our host (1100–2300 UTC), with most sessions lasting 90-120 minutes, and with a break between sessions. To accommodate all submissions, some parallel sessions will be scheduled. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some. The Program Committee is working to make the schedule as inclusive as possible, and to mitigate these timing difficulties, recorded presentations will be posted in a timely fashion. See [more about presentations](https://tdwg.org/conferences/2021/presentation-info/)...
+The latest schedule (v4 30 Sept) been posted as a Google spreadsheet. See the [TDWG 2021 October Schedule](https://docs.google.com/spreadsheets/d/17J5T0QdATdnrXgHWhguMErlSrfMo59qOCbss-R5whEU/edit?usp=sharing) overview (first tab, see the [session list](https://www.tdwg.org/conferences/2021/session-list/) for descriptions of each session) and detailed schedule with speakers and times (second tab). Three time zones are listed for *start times* of each session or presentation, the middle one, [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20211018T110000&p1=1440&p2=tz_et&p3=tz_aet) is that of our hosts at the University of Florida. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some; recorded sessions will be posted in a timely fashion on the platform for on-demand viewing. 
+
+See [more about presentations](https://tdwg.org/conferences/2021/presentation-info/)...
 
 ## Supporters
 
