@@ -10,7 +10,7 @@ page_order: 77
 status: hidden
 ---
 
-# TDWG November 2021, Working Sessions 
+#TDWG November 2021, Working Sessions 
 
 _Last updated 1 October 2021_
 
@@ -24,7 +24,7 @@ Working sessions will include introductions, overviews of IG/TG use cases, solut
 Below you can find the list of sessions, including workshops on a specific subject and meetings of the respective Interest Groups and Task Groups (ITG) and Functional Groups (FG) to progress on their activities and planning.
 
 
-## Schedule
+##Schedule
 Check back soon for the November 2021 schedule. It will be posted by 2021 October 8.
 
 ## Registration and how to support the conference
