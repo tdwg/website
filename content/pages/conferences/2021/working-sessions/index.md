@@ -31,10 +31,10 @@ Check back soon for the November 2021 schedule. It will be posted by 2021 Octobe
 Registration is required to participate in the online events (so we can arrange sufficient capacity), but registration is free. The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
 
 
-## Session Descriptions
+##Session Descriptions
 
 
-### WS01: GeoSchemes (Terrestrial Domain)
+###WS01: GeoSchemes (Terrestrial Domain)
 
 **Session Type:** Workshop
 
@@ -43,7 +43,7 @@ Registration is required to participate in the online events (so we can arrange 
 **Description:** This workshop will focus on reviewing the work done so far in relation to bringing up-to-date the "World Geographic Scheme for Recording Plant Distributions" in the context of the newly created "Geographic Schemes", and to gather more input and participation in the current developments. We will specifically address the terrestrial component. More information at: [https://github.com/tdwg/geoschemes](https://github.com/tdwg/geoschemes)
 
 
-### WS02: Plinian Core
+###WS02: Plinian Core
 **Session Type:** Workshop
 
 **Organizers:** [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC / GBIF Spain, Madrid, Spain
