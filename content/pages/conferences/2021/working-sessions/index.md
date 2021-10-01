@@ -14,7 +14,7 @@ page_order: 77
 _Last updated 1 October 2021_
 
 
-TDWG will host working sessions of the Interest and Task Groups each Wednesday and Thursday in November. These sessions will be hosted in Zoom by TDWG and be free but require registration.
+TDWG will host working sessions of the Interest and Task Groups (IG/TG) each Wednesday and Thursday in November. These sessions will be hosted in Zoom by TDWG and be free but require registration.
 
 
 Working sessions will include introductions, overviews of IG/TG use cases, solutions, collaboration resources, and current work practices. The sessions will be interactive, with the participants being able to see each other and raise hands to interact with the conveners, speakers and other participants. 
@@ -198,7 +198,7 @@ In this working session of the IG, we will present relevant updates to the above
 **Description:** The observation and specimens are at the heart of what interests many in the Biodiversity Informatics community. At this meeting we aim to give you an overview of what is happening within the related task groups, what progress they are making, and how you might get involved.  The current task groups of the Interest Group are Humboldt Core, Material Sample and "How did it die?". Some of which will hold their own, more specific, meetings. However, there is lots going on and this meeting will aim to show the links and overlaps between the task groups.
 
 
-## ITG14 : Humboldt Extension to Darwin Core Task Group
+## ITG14: Humboldt Extension to Darwin Core Task Group
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Yanina Sica](mailto:yanina.sica@yale.edu), Yale University, Hamden, CT, USA | Paula Zermoglio , VertNet, Bariloche, Argentina
@@ -206,7 +206,7 @@ In this working session of the IG, we will present relevant updates to the above
 **Description:** In 2021 the TDWG Humboldt Core Task Group was established to review how to best integrate the terms proposed in the Humboldt Core original publication (Guralnick et al. 2018) with existing standards and implementation schemas. Since the different types of inventories can be thought of as Events with different nesting levels (events within events, e.g., plots within sites), and after an initial mapping to existing Darwin Core terms, it was deemed appropriate to start from a Darwin Core Event Core and build an extension to include Humboldt Core terms. The task group members currently meet every other Wednesday to revise all original Humboldt Core terms, reformulating definitions, comments, and examples, and discarding or adding new terms where needed. We are also gathering real datasets to test the use of the extension once an initial list of revised terms is ready, before undergoing a public review period as established by the TDWG process. At this session we will explain the process we followed, present the preliminary  list of terms that would compose the extension, and invite all of you to join in an open discussion.
 
 
-## ITG15 : Biodiversity Services & Clients IG meeting
+## ITG15: Biodiversity Services & Clients IG meeting
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Falko Glöckler](mailto:falko.gloeckler@mfn.berlin), Museum für Naturkunde (MfN) Berlin, Berlin, Germany; Anton Güntsch, Botanic Garden and Botanical Museum Berlin, Berlin, Germany
@@ -221,3 +221,9 @@ In this working session of the IG, we will present relevant updates to the above
 **Organizers:** [Jenn Yost](mailto:Jyost@calpoly.edu), California Polytechnic State University, San Luis Obispo, CA, USA | Katie Pearson, California Polytechnic State University, San Luis Obispo, CA, USA
 
 **Description:** In this session, we will discuss a standard vocabulary for a phenology DwC extension using vascular plants as our primary case study.
+
+# Code of Conduct
+By participating in TDWG 2021, you agree to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/).
+
+# Contact
+Please send questions to [WrkSessCoord@tdwg.org](mailto:WrkSessCoord@tdwg.org)
