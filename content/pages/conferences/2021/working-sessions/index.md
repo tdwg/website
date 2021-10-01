@@ -7,7 +7,6 @@ cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
 tags: conference
 toc_headers: ^h[2-3]
 page_order: 77
-status: hidden
 ---
 
 # TDWG November 2021, Working Sessions 
