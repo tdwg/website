@@ -9,10 +9,9 @@ page_order: 29
 ---
 
 <img src="https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png" alt="TDWG 2021 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
-
 # TDWG 2021<br />October 18-22 
 
-_Last updated 1 October 2021_
+_Last updated 3 October 2021_
 
 _Translations: [ES](./es/), [FR](./fr), [JP](./ja)_
 
@@ -40,7 +39,7 @@ The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstract
 
 ## Schedule - Newly posted!
 
-The latest schedule (v4 30 Sept) been posted as a Google spreadsheet. See the [TDWG 2021 October Schedule](https://docs.google.com/spreadsheets/d/17J5T0QdATdnrXgHWhguMErlSrfMo59qOCbss-R5whEU/edit?usp=sharing) overview (first tab, see the [session list](https://www.tdwg.org/conferences/2021/session-list/) for descriptions of each session) and detailed schedule with speakers and times (second tab). Three time zones are listed for *start times* of each session or presentation, the middle one, [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20211018T110000&p1=1440&p2=tz_et&p3=tz_aet) is that of our hosts at the University of Florida. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some; recorded sessions will be posted in a timely fashion on the platform for on-demand viewing. 
+The latest schedule (v4 30 Sept) has been posted as a Google spreadsheet. See the [TDWG 2021 October Schedule](https://docs.google.com/spreadsheets/d/17J5T0QdATdnrXgHWhguMErlSrfMo59qOCbss-R5whEU/edit?usp=sharing) overview (first tab, see the [session list](https://www.tdwg.org/conferences/2021/session-list/) for descriptions of each session) and detailed schedule with speakers and times (second tab). Three time zones are listed for *start times* of each session or presentation, the middle one, [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20211018T110000&p1=1440&p2=tz_et&p3=tz_aet) is that of our hosts at the University of Florida. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some; recorded sessions will be posted in a timely fashion on the platform for on-demand viewing. 
 
 See [more about presentations](https://tdwg.org/conferences/2021/presentation-info/)...
 
