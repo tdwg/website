@@ -161,15 +161,12 @@ In this working session of the IG, we will present relevant updates to the above
 
 **Organizers:** [Elspeth Haston](mailto:ehaston@rbge.org.uk), RGBE, Edinburgh, UK | Alex Hardisty, Cardiff, UK
 
-**Description:**  
-
+**Description:** The MIDS Task Group has developed a draft specification. The group is now focused on finalising the specification for MIDS Level 1 (Basic record). A conformance statement template has been developed and is being tested. The meeting will include feedback from test implementations and guidance for more institutions to test implementation.  
 
 ## ITG10: How did it die? Task Group
 **Session Type:** Interest/Task Group meeting
 
-
 **Organizers:** [Sophia Ratcliffe](mailto:s.ratcliffe@nbn.org.uk), NBN Trust, Nottingham, UK
-
 
 **Description:** Update on progress made. A proposal has been submitted for the addition of a new DwC core term called vitality to indicate whether the organism was alive or dead at the time of collection or observation and the group are preparing a proposal for a new extension for properties relating to the cause(s) of death.
 
