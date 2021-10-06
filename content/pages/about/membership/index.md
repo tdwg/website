@@ -82,6 +82,7 @@ Invoices for membership dues can be paid:
 | [Natural Science Collections Facility (SANBI)](https://www.sanbi.org/) | Pretoria |
 | [Natural Solutions](https://www.natural-solutions.eu/) | Marseille |
 | [NatureServe](https://www.natureserve.org/) | Arlington, VA |
+| [Naturhistorisches Museum, Wien](https://www.nhm-wien.ac.at/en) | Vienna |
 | [New York Botanical Garden](https://www.nybg.org/) | The Bronx, NY |
 | [PLAZI](http://plazi.org/) | Bern |
 | [Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) | 	Brussels |
