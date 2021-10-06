@@ -57,7 +57,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
-**Dr. Patricia Mergen, Botanical Garden, Meise, Belgium**
+**Dr. Patricia Mergen, Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium**
 
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
