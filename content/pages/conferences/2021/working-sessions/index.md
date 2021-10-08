@@ -50,7 +50,7 @@ Registration is required to participate in the online events (so we can arrange 
 **Description:** 
 With this workshop we aim to:
 1. Present the recent developments and point to future directions of Plinian Core, specifically the works to make Plinian core compliant with the TDWG's SDS (Standards Documentation Standard.
-2. Maintain an open discussion on different aspects of Plinian Core implementation, documentation and evolution as to gather feed-back and additional participation to tackle the Plinian Core specification maintenance and future developments.
+2. Maintain an open discussion on different aspects of Plinian Core implementation, documentation and evolution as to gather feed-back and additional participation to tackle the Plinian Core specification maintenance and future developments. More information at: [https://github.com/tdwg/PlinianCore](https://github.com/tdwg/PlinianCore)
 
 
 ## WS03: Hands-on session on standardization of biological interactions data
