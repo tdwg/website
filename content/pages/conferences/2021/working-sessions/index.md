@@ -168,7 +168,11 @@ In this working session of the IG, we will present relevant updates to the above
 
 **Organizers:** [Sophia Ratcliffe](mailto:s.ratcliffe@nbn.org.uk), NBN Trust, Nottingham, UK
 
-**Description:** Update on progress made. A proposal has been submitted for the addition of a new DwC core term called vitality to indicate whether the organism was alive or dead at the time of collection or observation and the group are preparing a proposal for a new extension for properties relating to the cause(s) of death.
+**Description:**  We will report on the progress that we have made. A proposal has been submitted for the addition of a new Darwin Core term called vitality to indicate whether the organism was alive or dead at the time of collection or observation: https://github.com/tdwg/dwc/issues/363. The proposal is ready for public comment, and we would appreciate any comments and support for the term.
+
+We are preparing a proposal for a new extension for information relating to the cause(s) of death. We would welcome feedback on the proposal and any use cases of datasets with cause of death details that we could map to our proposed controlled vocabulary.
+
+Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG11: Views Controlled Vocabularies Task Group
