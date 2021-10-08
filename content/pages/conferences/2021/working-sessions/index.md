@@ -97,7 +97,7 @@ The People in Biodiversity Task Group within the Joint Research Data Alliance - 
 ## ITG02: Taxon Names and Concepts Interest Group (TNC)
 **Session Type:** Interest/Task Group meeting
 
-**Organizers:** [Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au), Royal Botanic Gardens Victoria/Atlas of Living Australia, Melbourne, Victoria, Australia
+**Organizers:** [Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au), Royal Botanic Gardens Victoria/Atlas of Living Australia, Melbourne, Victoria, Australia | Johan Liljeblad, SLU Swedish Species Information Centre, Uppsala, Sweden
 
 **Description:** This year a TCS 2 Task Group was established whose job is to bring the Taxon Concept Schema (TCS) into a state in which it can be maintained, which means taking it out of the XML Schema it is currently in and turning it into a vocabulary standard similar to Darwin Core and Audubon Core. While the Task Group is doing its work, the Interest Group has suspended most other activities. Therefore, while at last year's Interest Group meeting we had more general discussions about what we are looking for in a standard for dealing with taxon information, in this meeting we will do a deep dive into TCS, discussing where we have gotten to so far and which issues need further discussion. As always, we very much like input from people outside the Interest Group, partly because knowing how the wider community feels about things might help resolve differences of opinion within the Interest Group and partly because it is better for issues we have not thought of to come up now than during review. All information can be found in the TCS 2 Task Group's GitHub repository [https://github.com/tdwg/tcs2/](https://github.com/tdwg/tcs2/). 
 
