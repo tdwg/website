@@ -44,6 +44,10 @@ The latest schedule (v4.1 10 October) has been posted as a Google spreadsheet. S
 
 **See [more about presentations](https://tdwg.org/conferences/2021/presentation-info/)...**
 
+## Worldwide Bioblitz
+
+Participate in the TDWG 2021 Worldwide Bioblitz in this special iNaturalist project (collections of observations with a common purpose), from wherever you are during our virtual conference, including the weekends before and after the conference. Log in and join the project [https://www.inaturalist.org/projects/tdwg-2021-annual-conference-bioblitz](https://www.inaturalist.org/projects/tdwg-2021-annual-conference-bioblitz)! New to iNaturalist? See their [Getting Started guide](https://www.inaturalist.org/pages/getting+started), [watch their video guides](https://www.inaturalist.org/pages/video+tutorials), and join in the fun! 
+
 ## Supporters
 
 TDWG gratefully acknowledges the financial or in-kind support of TDWG 2021 by the following organizations.
