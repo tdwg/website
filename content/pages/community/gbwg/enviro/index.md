@@ -26,7 +26,7 @@ This group has been established to develop a data standard and usage guidelines 
 * [Kristy Deiner](mailto:alpinedna@gmail.com)
 * [Chris Hunter](mailto:chris@gigasciencejournal.com)
 * [Stefania Marcheggiani](mailto:stefania.marcheggiani@iss.it)
-* [Mariel Campbell] (mailto:campbell@carachupa.org)
+* [Mariel Campbell](mailto:campbell@carachupa.org)
 
 ## Motivation
 
