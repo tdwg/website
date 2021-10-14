@@ -45,8 +45,8 @@ Presenters are encouraged to reimagine what their virtual posters could be while
 Posters should be uploaded as PDF files. Presenters may also link a short video (<3 min) about their posters (instructions for uploading these to a private space on TDWG's YouTube channel will be provided separately). See also [Instructions for Posters](https://docs.google.com/document/d/1P4t_iG59HeaD3m-6O0J5NCKZNLQUuI0XfOjBmZViNSc/edit?usp=sharing).
 
 ## Featured plenary or keynote speakers
-The Opening Session [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening+Plenary+with+Dr.+Alice+Ruhweza&iso=20211018T11&p1=1440&ah=1) will feature [Dr. Alice Ruhweza](https://www.worldwildlife.org/magazine/issues/fall-2021/articles/it-s-her-time#Ruhweza), World Wildlife Fund, Africa Regional Director.
+The Opening Session [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening+Plenary+with+Dr.+Alice+Ruhweza&iso=20211018T11&p1=1440&ah=1) will feature [Dr. Alice Ruhweza](https://www.worldwildlife.org/magazine/issues/fall-2021/articles/it-s-her-time#Ruhweza), Africa Regional Director at the World Wildlife Fund. She will be speaking on *Data for Good: Using Data and Technology to achieve conservation and development impact*
 
 Dr. Michael S. Webster will be the featured keynote speaker at SYM07 Digital Extended Specimens on Wednesday 20 Sept [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dr.+Michael+S.+Webster+-+The+Digital+Extended+Specimen+will+Enable+New+Science+and+Applications&iso=20211020T21&p1=1440&am=40). [Read his abstract](https://doi.org/10.3897/biss.5.75736).
 
-_Last updated 11 October 2021_
+_Last updated 14 October 2021_
