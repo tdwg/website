@@ -24,10 +24,12 @@ Below you can find the list of sessions, including workshops on a specific subje
 
 
 # Schedule
-Check back soon for the November 2021 schedule. It will be posted by 2021 October 8.
+The latest schedule (17 Oct.) has been posted as a Google spreadsheet. See the [TDWG 2021 November Working Sessions Schedule](https://docs.google.com/spreadsheets/d/1Uffjh1SAXvSi_si53ljCbAsfqRUSvqzB8DnUHV-UV3A/edit?usp=sharing). Three time zones are listed for start times of each session. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
+
+Check back for more repeated sessions to be added soon. Each session will be recorded and made available for later viewing. Session organizers are encouraged to use shared notes to enable asynchronous participation. Links will be added to the descriptions below after the live session. 
 
 # Registration and how to support the conference
-Registration is required to participate in the online events (so we can arrange sufficient capacity), but registration is free. The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
+Registration will be available through Eventbrite (link to be posted soon). Registration is required to participate in the online events (so we can arrange sufficient capacity), but registration is free. The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
 
 
 # Session Descriptions
