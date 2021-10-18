@@ -32,6 +32,13 @@ While virtual, connecting and uniting the TDWG community for the sharing of stan
 
 <b><a href="https://reg.conferences.dce.ufl.edu/Basic/1400081801" target="_blank" class="btn btn-secondary">Register now for TDWG 2021</a></b>
 
+## Join Conference
+
+If you have registered for the conference and been notified that you have been added to Whova as a conference attendee, 
+
+<b><a href="https://whova.com/portal/tvac_202110" target="_blank" class="btn btn-secondary">Join #tdwg2021 on Whova</a></b>
+
+
 ## Abstracts
 
 Abstracts are required for all contributions (oral presentations and virtual posters) and are being published in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS) as [TDWG Proceedings 2021](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published. 
