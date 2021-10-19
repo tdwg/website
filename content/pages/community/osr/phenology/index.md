@@ -6,7 +6,7 @@ cover_image_by:
 cover_image_ref:
 tags: task group
 github: 
-status: hidden
+status: published
 ---
 
 ## Plant Phenology Task Group Charter
