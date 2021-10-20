@@ -79,7 +79,7 @@ Phenological data are increasingly being used to examine the effects of climate 
 
 ## Get Involved
 
-Email conveners Jenn Yost and Katie Pearson to participate, contribute, and/or join our listserv. To contribute or comment on our developing standards, visit our GitHub repository: [Links coming -- *Editor 2021-10-18*]
+Email conveners [Jenn Yost](mailto:jyost@calpoly.edu) and [Katie Pearson](mailto:kdpearso@calpoly.edu) to participate, contribute, and/or [join our listserv](http://lists.tdwg.org/mailman/listinfo/phenology). To contribute or comment on our developing standards, visit and "Watch" our [GitHub repository](https://github.com/tdwg/phenology).
 
 ## Resources
 
