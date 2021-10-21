@@ -9,9 +9,6 @@ github: https://github.com/tdwg/abcd
 status: hidden
 ---
 
-# [Access to Biological Collection Data (ABCD)](https://abcd.tdwg.org/)
-## Maintenance Group Charter
-
 ## Convenor
 
 [Walter G. Berendsohn](mailto:w.berendsohn(at)bgbm.org)  
@@ -119,4 +116,7 @@ exchange and retrieval for biological collections.
 
 ## Resources
 
-??
+* The standard: [Access to Biological Collection Data (ABCD)](https://abcd.tdwg.org/)
+* The [GitHub repository](https://github.com/tdwg/abcd)
+
+
