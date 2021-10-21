@@ -9,9 +9,8 @@ github: https://github.com/tdwg/abcd
 status: hidden
 ---
 
-# Access to Biological Collection Data (ABCD) Charter
-
-**The TDWG Maintenance Group for the [ABCD Standard](https://abcd.tdwg.org/)**
+# [Access to Biological Collection Data (ABCD)](https://abcd.tdwg.org/)
+## Maintenance Group Charter
 
 ## Convenor
 
