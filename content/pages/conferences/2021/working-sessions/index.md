@@ -31,7 +31,7 @@ Check back for more repeated sessions to be added soon. Each session will be rec
 # Registration and how to support the conference
 [Registration is available through Eventbrite](https://tdwg-2021-working-sessions.eventbrite.com). Registration is required to participate in the online events (so we can arrange sufficient capacity), but registration is free. 
 
-<b><a href="https://tdwg-2021-working-sessions.eventbrite.com" target="_blank" class="btn btn-secondary">Register for Nov Working Sessions</a></b>
+<b><a href="https://tdwg-2021-working-sessions.eventbrite.com" target="_blank" class="btn btn-secondary">Register for November Working Sessions</a></b>
 
 The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
 
