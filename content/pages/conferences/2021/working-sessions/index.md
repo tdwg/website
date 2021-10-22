@@ -11,7 +11,7 @@ page_order: 77
 
 # TDWG November 2021, Working Sessions 
 
-_Last updated 1 October 2021_
+_Last updated 22 October 2021_
 
 
 TDWG will host working sessions of the Interest and Task Groups (IG/TG) each Wednesday and Thursday in November. These sessions will be hosted in Zoom by TDWG and be free but require registration.
@@ -29,17 +29,15 @@ The latest schedule (21 Oct.) has been posted as a Google spreadsheet. See the [
 Check back for more repeated sessions to be added soon. Each session will be recorded and made available for later viewing. Session organizers are encouraged to use shared notes to enable asynchronous participation. Links will be added to the descriptions below after the live session. 
 
 # Registration and how to support the conference
-[Registration is available through Eventbrite](https://tdwg-2021-working-sessions.eventbrite.com). Registration is required to participate in the online events (so we can arrange sufficient capacity), but registration is free. 
-
-<b><a href="https://tdwg-2021-working-sessions.eventbrite.com" target="_blank" class="btn btn-secondary">Register for November Working Sessions</a></b>
-
-The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
+[Registration is available through Eventbrite](https://tdwg-2021-working-sessions.eventbrite.com). Registration is required to participate in the online events (so we can arrange sufficient capacity), but registration is free. The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
 
 
 # Session Descriptions
 
 
 ## WS01: GeoSchemes (Terrestrial Domain)
+**Date/Time:** November 24, 13:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WS01%3A+GeoSchemes+%28Terrestrial+Domain%29&iso=20211124T13&p1=%3A))
+
 **Session Type:** Workshop
 
 **Organizers:** [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC / GBIF Spain, Madrid, Spain | Nicolas Bailly, FishBase/SeaLifeBase, Q‑quatics, Philippines, Beaty Biodiversity Museum and Sea Around Us, Vancouver, British Columbia, Canada | Visotheary Ung, Museum Nacional d'Histoire Natural, Paris 
@@ -48,6 +46,8 @@ The services required to run an online conference, however, are not free. We enc
 
 
 ## WS02: Plinian Core
+**Date/Time:** November 24, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WS02%3A+Plinian+Core&iso=20211124T1730))
+
 **Session Type:** Workshop
 
 **Organizers:** [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC / GBIF Spain, Madrid, Spain
@@ -59,6 +59,8 @@ With this workshop we aim to:
 
 
 ## WS03: Hands-on session on standardization of biological interactions data
+**Date/Time:** November 10, 14:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WS03%3A+Hands-on+session+on+standardization+of+biological+interactions+data&iso=20211110T14))
+
 **Session Type:** Workshop
 
 **Organizers:** [José Augusto Salim](mailto:joseasalim@usp.br), University of São Paulo, São Paulo, SP, Brazil | Maarten Trekels, Meise Botanic Garden, Meise, Belgium
@@ -67,6 +69,8 @@ With this workshop we aim to:
 
 
 ## WS04: People in Biodiversity Data: Sharing the Disambiguation Work
+**Date/Time:** November 17, 20:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WS04%3A+People+in+Biodiversity+Data%3A+Sharing+the+Disambiguation+Work&iso=20211117T20))
+
 **Session Type:** Workshop
 
 **Organizers:** [David P. Shorthouse](mailto:davidpshorthouse@gamil.com), Agriculture & Agri-Food Canada, Ottawa, Ontario, Canada | Quentin Groom, Meise Botanical Garden, Meise, Belgium | Elspeth Haston, Royal Botanic Garden Edinburgh, Edinburgh, Scotland | Anne Thessen, Oregon State University, Oregon, USA
@@ -76,14 +80,20 @@ The People in Biodiversity Task Group within the Joint Research Data Alliance - 
 
 
 ## FS01: Technical Architecture Group (TAG)
+**Date/Time:** November 10, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FS01%3A+Technical+Architecture+Group+%28TAG%29&iso=20211110T1730))
+
 **Session Type:** Functional Subcommittee meeting
 
 **Organizers:** [James Macklin](mailto:james.macklin@agr.gc.ca), Agriculture and Agri-Food Canada, Ottawa, ON, Canada | Nicky Nicolson, Royal Botanic Gardens, Kew, London, UK
 
 **Description:** This session will involve an overview of the responsibilities of the Technical Architecture Group and a discussion and prioritization of relevant issues.
 
+**Repeated Session (FS01-R):** November 17, 23:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FS01-R%3A+Technical+Architecture+Group+%28TAG%29&iso=20211117T23))
+
 
 ## FS02: TDWG Outreach and Communication
+**Date/Time:** November 24, 14:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FS02%3A+TDWG+Outreach+and+Communication&iso=20211124T1430))
+
 **Session Type:** Functional Subcommittee meeting
 
 **Organizers:** [Mareike Petersen](mailto:mareike.petersen@mfn.berlin), Museum für Naturkunde (MfN) Berlin, Berlin, Germany
@@ -92,22 +102,30 @@ The People in Biodiversity Task Group within the Joint Research Data Alliance - 
 
 
 ## ITG01: Earth Sciences and Paleobiology Interest Group
+**Date/Time:** November 4, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG01%3A+Earth+Sciences+and+Paleobiology+Interest+Group&iso=20211104T1730))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Holly Little](mailto:littleh@si.edu), Smithsonian National Museum of Natural History, Washington, DC, USA | Mareike Petersen, Museum für Naturkunde, Berlin, Germany
 
 **Description:** This meeting of the Earth Sciences and Paleobiology Interest Group will include updates from and discussions about coordinating work and information sharing across related efforts like DiSSCo, COST Mobilize, and the Paleo Data Working Group. We will also delve into assessments of terms from TDWG data standards (e.g. DwC and EFG) and how to expand their use and applicability for earth sciences and paleobiology data.   
 
+**Repeated Session (ITG01-R):** November 10, 23:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG01-R%3A+Earth+Sciences+and+Paleobiology+Interest+Group&iso=20211110T23))
 
 ## ITG02: Taxon Names and Concepts Interest Group (TNC)
+**Date/Time:** November 4, 21:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG02%3A+Taxon+Names+and+Concepts+Interest+Group+%28TNC%29&iso=20211104T21))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au), Royal Botanic Gardens Victoria/Atlas of Living Australia, Melbourne, Victoria, Australia | Johan Liljeblad, SLU Swedish Species Information Centre, Uppsala, Sweden
 
 **Description:** This year a TCS 2 Task Group was established whose job is to bring the Taxon Concept Schema (TCS) into a state in which it can be maintained, which means taking it out of the XML Schema it is currently in and turning it into a vocabulary standard similar to Darwin Core and Audubon Core. While the Task Group is doing its work, the Interest Group has suspended most other activities. Therefore, while at last year's Interest Group meeting we had more general discussions about what we are looking for in a standard for dealing with taxon information, in this meeting we will do a deep dive into TCS, discussing where we have gotten to so far and which issues need further discussion. As always, we very much like input from people outside the Interest Group, partly because knowing how the wider community feels about things might help resolve differences of opinion within the Interest Group and partly because it is better for issues we have not thought of to come up now than during review. All information can be found in the TCS 2 Task Group's GitHub repository [https://github.com/tdwg/tcs2/](https://github.com/tdwg/tcs2/). 
 
+**Repeated Session (ITG02-R):** November 18, 9:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG02-R%3A+Taxon+Names+and+Concepts+Interest+Group+%28TNC%29&iso=20211118T09))
 
 ## ITG03: Citizen Science Interest Group - PPSR core
+**Date/Time:** November 18, 20:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG03%3A+Citizen+Science+Interest+Group+-+PPSR+core&iso=20211118T20))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Rob Stevenson](mailto:robert.stevenson@umb.edu), University of Massachusetts Boston, Boston, USA | Libby Ellwood, iDigBio: Global Communications Manager; La Brea Tar Pits, Los Angles, California, USA
@@ -118,6 +136,8 @@ In this working session of the IG, we will present relevant updates to the above
 
 
 ## ITG04: Machine Observations Interest Group
+**Date/Time:** November 3, 21:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG04%3A+Machine+Observations+Interest+Group&iso=20211103T21))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Peggy Newman](mailto:peggy.newman@csiro.au), Atlas of Living Australia, Melbourne, Victoria, Australia | Peter Desmet
@@ -126,6 +146,8 @@ In this working session of the IG, we will present relevant updates to the above
 
 
 ## ITG05: Genomic Biodiversity Interest Group
+**Date/Time:** November 24, 19:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG05%3A+Genomic+Biodiversity+Interest+Group&iso=20211124T19))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Gabi Droege](mailto:g.droege@bgbm.org), Botanic Garden and Botanical Museum Berlin, Berlin, Germany | Katie Barker, Smithsonian National Museum of Natural History, Washington, DC, USA
@@ -134,6 +156,8 @@ In this working session of the IG, we will present relevant updates to the above
 
 
 ## ITG06: Access to Biological Collection Data (ABCD) Interest Group
+**Date/Time:** November 18, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG06%3A+IG+Access+to+Biological+Collection+Data+%28ABCD%29&iso=20211118T1730))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Anton Güntsch](mailto:a.guentsch@bgbm.org), Botanic Garden and Botanical Museum Berlin, Berlin, Germany | David Fichtmüller, Botanic Garden and Botanical Museum Berlin, Berlin, Germany
@@ -142,14 +166,20 @@ In this working session of the IG, we will present relevant updates to the above
 
 
 ## ITG07: Darwin Core Maintenance Group
+**Date/Time:** November 3, 12:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG07%3A+Darwin+Core+Maintenance+Group&iso=20211103T12))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [John Wieczorek](mailto:gtuco.btuco@gmail.com), VertNet, Rauthiflor LLC, Bariloche, Río Negro, Argentina
 
 **Description:** Annual open meeting of the Darwin Core Maintenance Group to Introduce Darwin Core, share updates on developments, support usage, and make progress on open issues.
 
+**Repeated Session (ITG07-R):** November 11, 23:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG07-R%3A+Darwin+Core+Maintenance+Group&iso=20211111T23))
+
 
 ## ITG08: Collection Descriptions Interest Group
+**Date/Time:** November 18, 14:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG08%3A+Collection+Descriptions+Interest+Group&iso=20211118T14))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Matt Woodburn](mailto:M.Woodburn@nhm.ac.uk ), Natural History Museum, London, UK | Sharon Grant, Field Museum of Natural History, Chicago, IL, USA
@@ -162,6 +192,8 @@ In this working session of the IG, we will present relevant updates to the above
 
 
 ## ITG09: MIDS Task Group
+**Date/Time:** November 4, 13:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG09%3A+TG+MIDS&iso=20211104T1330))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Elspeth Haston](mailto:ehaston@rbge.org.uk), RGBE, Edinburgh, UK | Alex Hardisty, Cardiff, UK
@@ -169,6 +201,8 @@ In this working session of the IG, we will present relevant updates to the above
 **Description:** The MIDS Task Group has developed a draft specification. The group is now focused on finalising the specification for MIDS Level 1 (Basic record). A conformance statement template has been developed and is being tested. The meeting will include feedback from test implementations and guidance for more institutions to test implementation.  
 
 ## ITG10: How did it die? Task Group
+**Date/Time:** November 17, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG10%3A+How+did+it+die%3F+TG&iso=20211117T1730))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Sophia Ratcliffe](mailto:s.ratcliffe@nbn.org.uk), NBN Trust, Nottingham, UK
@@ -181,6 +215,8 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG11: Views Controlled Vocabularies Task Group
+**Date/Time:** November 11, 21:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG11%3A+Views+Controlled+Vocabularies+Task+Group&iso=20211111T21))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu), Vanderbilt University Heard Libraries, Nashville, TN, USA
@@ -189,6 +225,8 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG12: Audubon Core Maintenance Group
+**Date/Time:** November 10, 21:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG12%3A+Audubon+Core+Maintenance+Group&iso=20211110T21))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu), Vanderbilt University Heard Libraries, Nashville, TN, USA
@@ -197,6 +235,8 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG13: Observation and Specimen Records, what's new
+**Date/Time:** November 17, 15:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG13%3A+Observation+and+Specimen+Records%2C+what%27s+new&iso=20211117T15))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be), Meise Botanical Garden, Meise, Belgium
@@ -205,6 +245,8 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG14: Humboldt Extension to Darwin Core Task Group
+**Date/Time:** November 17, 13:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG14%3A+Humboldt+Extension+to+Darwin+Core+Task+Group&iso=20211117T13))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Yanina Sica](mailto:yanina.sica@yale.edu), Yale University, Hamden, CT, USA | Paula Zermoglio , VertNet, Bariloche, Argentina
@@ -213,6 +255,8 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG15: Biodiversity Services & Clients IG meeting
+**Date/Time:** November 11, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG15%3A+Biodiversity+Services+%26+Clients+IG+meeting&iso=20211111T1730))
+
 **Session Type:** Interest/Task Group meeting
 
 **Organizers:** [Falko Glöckler](mailto:falko.gloeckler@mfn.berlin), Museum für Naturkunde (MfN) Berlin, Berlin, Germany; Anton Güntsch, Botanic Garden and Botanical Museum Berlin, Berlin, Germany
@@ -221,6 +265,7 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 
 
 ## ITG16: Plant Phenology Standards Task Group
+**Date/Time:** November 3, 17:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG16%3A+Plant+Phenology+Standards+Task+Group&iso=20211103T1730))
 
 **Session Type:** Interest/Task Group meeting
 
