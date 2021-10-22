@@ -9,8 +9,8 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG 2021 Registration Now Open!
-alert_text: TDWG 2021, will be a full week of symposia, panels, presentations, posters, wild ideas, etc., 18-22 Oct. TDWG Members receive a discount, while students, post-docs, and participants from developing countries receive even larger discounts.
+alert_title: Register for November Working Sessions!
+alert_text: Following our main conference of 2021, TDWG Interest and Task Groups will hold working sessions every Wednesday and Thursday of November. Please register (free!) to participate.
 alert_button: Learn more...
 alert_link: https://mailchi.mp/ae0070a6a57a/registration-for-tdwg-2021-now-open
 alert_image: https://static.tdwg.org/conferences/2021/logos/tdwg-2021-logo-plant-wide-cropped2.png
