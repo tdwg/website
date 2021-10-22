@@ -8,7 +8,7 @@ cover_image_ref:
 tags: Interest Group, Task Group, Conference
 ---
 
-## Working sessions for TDWG interest and task groups will meet Wednesdays and Thursdays through the month of November.
+### Working sessions for TDWG interest and task groups will meet Wednesdays and Thursdays through the month of November.
 
 Help shape the standards that enable biodiversity information to be assembled into knowledge. Work with your colleagues in TDWG interest and task groups to create and maintain standards that reflect your work practices and research interests.
 
