@@ -20,7 +20,7 @@ Positions on the executive are staggered two-year terms, such that no more than 
 
 ## Nomination procedure
 
-To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before **1 November 2021**.
+To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before **15 November 2021**.
 
 ## Election procedure
 
