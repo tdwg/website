@@ -102,7 +102,7 @@ The People in Biodiversity Task Group within the Joint Research Data Alliance - 
 
 **Organizers:** [Mareike Petersen](mailto:mareike.petersen@mfn.berlin), Museum für Naturkunde (MfN) Berlin, Berlin, Germany
 
-**Description:**  
+**Description:** The meeting of the Outreach and Communication Sub-Committee will include a short overview of recent activities and future steps. In this working meeting, however, we would like to exchange views on TDWGs current logo and its recognition value. Should we revise the lettering and start the design of a new logo? If yes, what should a new logo contain and illustrate? Everybody who would like to contribute to the discussion is warmly welcome to participate!  
 
 
 ## ITG01: Earth Sciences and Paleobiology Interest Group
@@ -146,7 +146,7 @@ In this working session of the IG, we will present relevant updates to the above
 
 **Organizers:** [Peggy Newman](mailto:peggy.newman@csiro.au), Atlas of Living Australia, Melbourne, Victoria, Australia | Peter Desmet
 
-**Description:** In this session we will tackle three discussion topics related to the work of the Machine Observations Interest Group: 1) [Camtrap DP](https://tdwg.github.io/camtrap-dp) as an example of a Frictionless community standard, 2) Lessons from the [standardisation framework](https://doi.org/10.1111/2041-210X.13593) for bio-logging data to facilitate exchange between manufacturers and repositories and 3) How to document Darwin Core transformation guides in a human- and machine-readable way? Each of the three topics will be introduced with a five minute primer and allow 25 minutes for discussion and questions. The last half hour of the session is reserved for open discussion. Anyone is welcome to join.
+**Description:** In this session we will tackle four discussion topics related to the work of the Machine Observations Interest Group: 1) A project to create a continuous data stream of insect biodiversity using a sensor network grid, 2) [Camtrap DP](https://tdwg.github.io/camtrap-dp) as an example of a Frictionless community standard, 3) Lessons from the [standardisation framework](https://doi.org/10.1111/2041-210X.13593) for bio-logging data to facilitate exchange between manufacturers and repositories and 4) How to document Darwin Core transformation guides in a human- and machine-readable way? Each of the topics will be introduced with a five minute primer and allow 20 minutes for discussion and questions. The last 20 minutes of the session is reserved for open discussion. Anyone is welcome to join.
 
 
 ## ITG05: Genomic Biodiversity Interest Group
