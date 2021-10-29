@@ -11,9 +11,9 @@ status: published
 
 # New BiCIKL project to build a freeway between pieces of biodiversity knowledge
 
-Every day, we amass more data about life on Earth, at all levels from molecular to ecological, to help us understand how it all works and serve policy development. Good news, right? But, to use these data effectively, we need the data to be interconnected across disciplines, organizations, and regions. Often data exist without well-designed links to related information. Doing synthetic research requires a network -- a data commons -- that seamlessly connects the data, the people doing the the work, and places those data in their full context. Enter BiCIKL -- a Biodiversity Community Integrated Knowledge Library.
+Every day we amass more data about life on Earth, at all levels from molecules to ecosystems, to help us understand how it all works and serve policy development. Good news, right? But to use these data effectively, we need the data to be interconnected across disciplines, organizations, and regions. Often data exist without well-designed links to related information. Doing synthetic research requires a network -- a data commons -- that seamlessly connects the data, the people doing the the work, and places those data in their full context. Enter BiCIKL, a Biodiversity Community Integrated Knowledge Library.
 
-As you might imagine, many groups and data infrastructures must work together to build such a community. Data standards provide a critical part of the foundation for the work. As a BiCIKL Partner, Biodiversity Information Standards (TDWG) members will participate in task groups charged with connecting biological occurrence data + specimen data + sequence data + literature + the ability to do analysis across these data infrastructures.
+As you might imagine, many groups and data infrastructures must work together to build such a community. Data standards provide a critical part of the foundation for the work. As a BiCIKL partner, Biodiversity Information Standards (TDWG) members will participate in task groups charged with connecting biological occurrence data, specimen data, sequence data, and literature, creating the ability to do analysis across these data infrastructures.
 
 See the [press release](https://bicikl-project.eu/news/new-bicikl-project) announcing the start of BiCIKL.
 
