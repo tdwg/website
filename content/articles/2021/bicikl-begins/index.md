@@ -6,7 +6,7 @@ cover_image: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images
 cover_image_by: BiCIKL project
 cover_image_ref: https://bicikl-project.eu/media-center
 tags: 
-status: hidden
+status: published
 ---
 
 # New BiCIKL project to build a freeway between pieces of biodiversity knowledge
