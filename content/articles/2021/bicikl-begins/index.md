@@ -1,6 +1,6 @@
 ---
 title: Announcing Biodiversity Community Integrated Knowledge Library (BiCIKL)
-slug: BiCKL begins
+slug: bickl-begins
 date: 2021-10-29
 cover_image: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images/visual_guide.jpg
 cover_image_by: BiCIKL project
@@ -17,6 +17,7 @@ As you might imagine, many groups and data infrastructures must work together to
 
 See the [press release](https://bicikl-project.eu/news/new-bicikl-project) announcing the start of BiCIKL.
 
-Find out more [about BiCIKL](https://bicikl-project.eu/about)
-The [DiSSCo view of BiCIKL](https://www.dissco.eu/bicikl/)
-The [LifeWatch view of BiCIKL](https://www.lifewatch.eu/2021/10/07/new-bicikl-project-to-build-a-freeway-between-pieces-of-biodiversity-knowledge/)
+Find out more [about BiCIKL](https://bicikl-project.eu/about)  
+The [DiSSCo view of BiCIKL](https://www.dissco.eu/bicikl/)  
+The [LifeWatch view of BiCIKL](https://www.lifewatch.eu/2021/10/07/new-bicikl-project-to-build-a-freeway-between-pieces-of-biodiversity-knowledge/)  
+
