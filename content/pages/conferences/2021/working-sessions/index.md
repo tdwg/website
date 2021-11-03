@@ -238,14 +238,11 @@ Our Github repository is here: https://github.com/tdwg/how-did-it-die.
 **Description:** This group maintains the Audubon Core vocabulary. Over the past year, we completed sound-related term proposals, worked extensively on a proposal for defining regions of interest (ROIs), and worked on example guides for still images and sound. At this session, we'll review these accomplishments and answer questions about them, as well as solicit suggestions for activities during the coming year.
 
 
-## ITG13: Observation and Specimen Records, what's new
-**Date/Time:** November 17, 15:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG13%3A+Observation+and+Specimen+Records%2C+what%27s+new&iso=20211117T15))
-
-**Session Type:** Interest/Task Group meeting
+## ITG13: Observation and Specimen Records, what's new - SESSION CANCELED
 
 **Organizers:** [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be), Meise Botanical Garden, Meise, Belgium
 
-**Description:** The observation and specimens are at the heart of what interests many in the Biodiversity Informatics community. At this meeting we aim to give you an overview of what is happening within the related task groups, what progress they are making, and how you might get involved.  The current task groups of the Interest Group are Humboldt Core, Material Sample and "How did it die?". Some of which will hold their own, more specific, meetings. However, there is lots going on and this meeting will aim to show the links and overlaps between the task groups.
+**Description:** [Observations and Specimens Interest Group Page](https://www.tdwg.org/community/osr/). See updates from the task groups of this interest group - ITG14: Humbolt Extension to Darwin Core, ITG10: How did it die?, and ITG16: Plant Phenology Standards.
 
 
 ## ITG14: Humboldt Extension to Darwin Core Task Group
