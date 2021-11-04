@@ -42,6 +42,12 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/committees/tag/#responsibilities)
 
+Dr. Steve Baskauf, Vanderbilt University Heard Libraries, Nashville, Tennessee, USA
+
+I have been an active participant in TDWG since 2009 and have served in a variety of leadership roles since then. They include: review manager of Audubon Core, co-convener of the RDF/OWL Task Group, convener of the Vocabulary Maintenance Task Group, current convener of the Audubon Core Maintenance Group, current convener of the Views Controlled Vocabularies Task Group, and member of the Darwin Core Maintenance Group, the Technical Architecture Group (TAG), and others. I was the lead author of the Standards Documentation Specification (SDS), lead author of the Vocabulary Maintenance Specification, lead author of the Darwin Core RDF Guide, lead author of three controlled vocabularies, and co-author of several other standards documents. I am also a major contributor to the development of the TDWG standards maintenance infrastructure (standards metadata and landing pages) and to bringing existing standards documents into conformance with the SDS.
+
+If elected, my first priority would be to refine the organizational and documentation infrastructure to make the TAG the active group envisioned in its charter. There are currently numerous draft standards that are nearing completion, so this is a critical time for the TAG to exert its oversight role. A longer-term priority is to examine the role that feature and implementation experience reporting play in the overall standards development process, and to bring the TDWG Process into line with our aspirational peer standards organizations in this area. To ensure the success of the group, I would leverage the deep knowledge and technical expertise that already exists within TDWG by recruiting core members from across the community.
+
 
 ### Infrastructure, Chair
 
