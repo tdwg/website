@@ -42,7 +42,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/committees/tag/#responsibilities)
 
-Dr. Steve Baskauf, Vanderbilt University Heard Libraries, Nashville, Tennessee, USA
+**Dr. Steve Baskauf, Vanderbilt University Heard Libraries, Nashville, Tennessee, USA**
 
 I have been an active participant in TDWG since 2009 and have served in a variety of leadership roles since then. They include: review manager of Audubon Core, co-convener of the RDF/OWL Task Group, convener of the Vocabulary Maintenance Task Group, current convener of the Audubon Core Maintenance Group, current convener of the Views Controlled Vocabularies Task Group, and member of the Darwin Core Maintenance Group, the Technical Architecture Group (TAG), and others. I was the lead author of the Standards Documentation Specification (SDS), lead author of the Vocabulary Maintenance Specification, lead author of the Darwin Core RDF Guide, lead author of three controlled vocabularies, and co-author of several other standards documents. I am also a major contributor to the development of the TDWG standards maintenance infrastructure (standards metadata and landing pages) and to bringing existing standards documents into conformance with the SDS.
 
