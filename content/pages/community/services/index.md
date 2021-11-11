@@ -13,8 +13,8 @@ github:
 ## Conveners
 
 [Falko Glöckler](mailto:falko.gloeckler@mfn.berlin)  
-Head, Department Science Data Management & IT Infrastructure 
-Museum für Naturkunde Berlin
+Head, Department Science Data Management & IT Infrastructure  
+Museum für Naturkunde Berlin  
 Leibniz-Institut für Evolutions- und Biodiversitätsforschung  
 Berlin, Germany
 
@@ -34,16 +34,16 @@ Ottawa, Ontario, Canada
 
 Name | Affiliation
 --- | ---
-[David Fichtmüller](mailto:d.fichtmueller@bgbm.org) | 
-John Torgersen | 
-James Macklin | 
-David Shorthouse | 
-Ben Norton | 
-Ian Engelbrecht | 
-William Ulate | 
-Nicky Nicolson | 
-Juan M Barrios | 
-Wai-Yin Kwan | 
+David Fichtmüller | [Botanischer Garten und Botanisches Museum Berlin (BGBM)](https://bgbm.org/)  
+John Torgersen | [Canadian Museum of Nature (CMN)](https://nature.ca/)  
+James Macklin | [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en)  
+David Shorthouse | [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en)  
+Ben Norton | [North Carolina Museum of Natural Sciences (NCMNS)](https://naturalsciences.org/)  
+Ian Engelbrecht | [Natural Science Collections Facility (NSCF) South Africa](https://nscf.org.za/)  
+William Ulate | [Missouri Botanical Garden (MBG)](https://www.missouribotanicalgarden.org/)    
+Nicky Nicolson | [Royal Botanic Gardens (RBG) Kew](https://www.kew.org/)  
+Juan M Barrios | [Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)](https://www.biodiversidad.gob.mx/)  
+Wai-Yin Kwan | [Whirl-i-gig](http://www.whirl-i-gig.com/)    
 
 ## Motivation
 
