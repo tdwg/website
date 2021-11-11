@@ -13,8 +13,8 @@ github:
 ## Conveners
 
 [Falko Glöckler](mailto:falko.gloeckler@mfn.berlin)  
-Head, Department Science Data Management  
-Museum für Naturkunde  
+Head, Department Science Data Management & IT Infrastructure 
+Museum für Naturkunde Berlin
 Leibniz-Institut für Evolutions- und Biodiversitätsforschung  
 Berlin, Germany
 
@@ -35,16 +35,15 @@ Ottawa, Ontario, Canada
 Name | Affiliation
 --- | ---
 [David Fichtmüller](mailto:d.fichtmueller@bgbm.org) | 
-[Dominik Röpert](mailto:d.roepert@bgbm.org) | 
-[Maren Gleisberg](mailto:m.gleisberg@bgbm.org) | 
-[Andreas Müller](mailto:a.mueller@bgbm.org) | 
-[Andreas Kohlbecker](mailto:a.kohlbecker@bgbm.org) | 
-[Paul Morris](mailto:mole@morris.net) | 
-[Bertram Ludäscher](mailto:ludaesch@gmail.com) | 
-[Florian Jansen](mailto:jansen@uni-greifswald.de) | 
-[Alan Williams](mailto:alan.r.williams@manchester.ac.uk ) | 
-[Aleksandra Nenadic](mailto:a.nenadic@manchester.ac.uk) | 
-[Norman Morrison](mailto:norman.morrison@manchester.ac.uk) | 
+John Torgersen | 
+James Macklin | 
+David Shorthouse | 
+Ben Norton | 
+Ian Engelbrecht | 
+William Ulate | 
+Nicky Nicolson | 
+Juan M Barrios | 
+Wai-Yin Kwan | 
 
 ## Motivation
 
@@ -61,7 +60,8 @@ The BSCI group is open to all interested parties. Members should actively partic
 The conveners hosted a Biodiversity Services and Workflow Symposia at the TDWG annual conference in 2013 (Florence) and 2014 (Jönköping) and received a lot of interest from the participants. Both Symposia concluded that improved standardisation and documentation of biodiversity informatics services is urgently needed to avoid uncoordinated development of service APIs worldwide and to enable the development of a new generation of data-driven research platforms and workflows. The participants agreed that a concerted approach in the form of a TDWG interest group would carry forward the process effectively.
 
 ## Resources
+Products and outcome at https://github.com/tdwg/apis
 
-BSCI Service Registry: <http://www.biodiversitycatalogue.org>.
+TDWG Slack channel #developers
 
 BSCI homepage, wiki, and document repository will be made available via the TDWG website.
