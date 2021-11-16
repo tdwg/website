@@ -60,7 +60,7 @@ The BSCI group is open to all interested parties. Members should actively partic
 The conveners hosted a Biodiversity Services and Workflow Symposia at the TDWG annual conference in 2013 (Florence) and 2014 (Jönköping) and received a lot of interest from the participants. Both Symposia concluded that improved standardisation and documentation of biodiversity informatics services is urgently needed to avoid uncoordinated development of service APIs worldwide and to enable the development of a new generation of data-driven research platforms and workflows. The participants agreed that a concerted approach in the form of a TDWG interest group would carry forward the process effectively.
 
 ## Resources
-Products and outcome at https://github.com/tdwg/apis
+Products and outcome at [github.com/tdwg/apis](https://github.com/tdwg/apis)
 
 TDWG Slack channel #developers
 
