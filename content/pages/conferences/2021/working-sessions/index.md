@@ -149,14 +149,11 @@ In this working session of the IG, we will present relevant updates to the above
 **Description:** In this session we will tackle four discussion topics related to the work of the Machine Observations Interest Group: 1) A project to create a continuous data stream of insect biodiversity using a sensor network grid, 2) [Camtrap DP](https://tdwg.github.io/camtrap-dp) as an example of a Frictionless community standard, 3) Lessons from the [standardisation framework](https://doi.org/10.1111/2041-210X.13593) for bio-logging data to facilitate exchange between manufacturers and repositories and 4) How to document Darwin Core transformation guides in a human- and machine-readable way? Each of the topics will be introduced with a five minute primer and allow 20 minutes for discussion and questions. The last 20 minutes of the session is reserved for open discussion. Anyone is welcome to join.
 
 
-## ITG05: Genomic Biodiversity Interest Group
-**Date/Time:** November 24, 19:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ITG05%3A+Genomic+Biodiversity+Interest+Group&iso=20211124T19))
-
-**Session Type:** Interest/Task Group meeting
+## ITG05: Genomic Biodiversity Interest Group - SESSION CANCELED
 
 **Organizers:** [Gabi Droege](mailto:g.droege@bgbm.org), Botanic Garden and Botanical Museum Berlin, Berlin, Germany | Katie Barker, Smithsonian National Museum of Natural History, Washington, DC, USA
 
-**Description:** This session will be a regular working meeting of the Genomic Biodiversity Interest Group, focussing on its current activities: updates TG "Sustainable DarwinCore MIxS Interoperability" and the recently established TG "Environmental Samples and eDNA". For the latter we will present the roadmap for the next two years and discuss use cases and priorities. There will be also time to discuss other topics within the Genomic Biodiversity scope if needed.
+**Description:** [Genomic Biodiversity Interest Group Page](https://www.tdwg.org/community/gbwg/)
 
 
 ## ITG06: Access to Biological Collection Data (ABCD) Interest Group
