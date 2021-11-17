@@ -35,6 +35,7 @@ Last Updated: May 18, 2020
 [Iris Sampaio](mailto:irisfs@gmail.com) (University of the Azores / Senckenberg am Meer)  
 [Jiri Frank](mailto:jiri_frank@nm.cz) (National Museum, Prague, Czech Republic)  
 [Sharif Islam](mailto:sharif.islam@naturalis.nl) (Naturalis, Netherlands)  
+[Shelley James](mailto:botanistsaj@gmail.com) (Department of Biodiversity, Conservation & Attractions, Perth, Australia)  
 [Jonathan Krieger](mailto:j.krieger@kew.org) (Royal Botanic Gardens, Kew, UK)  
 [Nicky Nicolson](mailto:n.nicolson@kew.org) (Royal Botanic Gardens, Kew, UK)  
 [Nicole Kearney](mailto:nkearney@museum.vic.gov.au) (Biodiversity Heritage Library, Australia)  
