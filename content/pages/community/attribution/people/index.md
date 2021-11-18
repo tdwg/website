@@ -46,7 +46,7 @@ Last Updated: May 18, 2020
 [Sarah Phillips](mailto:Sarah.Phillips@kew.org) (Royal Botanic Gardens, Kew, UK)  
 [Simon Chagnoux](mailto:simon.chagnoux@mnhn.fr) (National Museum of Natural History, Paris, France)  
 [Deborah L Paul](mailto:dlpaul@illinois.edu) (Illinois Natural History Survey, Champaign-Urbana, Illinois, USA)  
-[Mathias Dillen](mailto:mathias.dillen@plantentuinmeise.be) (Meise Botanic Garden, Belgium)
+[Mathias Dillen](mailto:mathias.dillen@plantentuinmeise.be) (Meise Botanic Garden, Belgium)  
 [Sabine von Mering](mailto:sabine.vonmering@mfn.berlin) (Museum für Naturkunde, Berlin, Germany)
 
 # Current Activities
