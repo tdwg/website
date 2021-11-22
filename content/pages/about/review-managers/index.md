@@ -19,7 +19,7 @@ status: hidden
 
 **Abstract:**
 
-The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
+The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
 
 **Contributors:**
 
