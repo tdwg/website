@@ -9,8 +9,7 @@ page_order: 8
 status: hidden
 ---
 
-**Title:** <br />
-Guidelines for Review Managers of Proposed TDWG Standards
+**Title:** Guidelines for Review Managers of Proposed TDWG Standards
 
 **Date version issued:** 2021-03-xx
 
