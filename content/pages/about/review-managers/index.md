@@ -9,22 +9,30 @@ page_order: 8
 status: hidden
 ---
 
-Title: Guidelines for Review Managers of Proposed TDWG Standards
+**Title:** 
 
-Date version issued: 2021-03-xx
+Guidelines for Review Managers of Proposed TDWG Standards
 
-Date created: 2009-05-15
+**Date version issued:** 2021-03-xx
 
-Part of TDWG Standard: Not part of any standard
+**Date created:** 2009-05-15
 
-Abstract: The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
+**Part of TDWG Standard:** Not part of any standard
 
-Contributors: <span itemscope itemtype="https://schema.org/Person">Lee Belbin <a itemprop="sameAs" content="https://orcid.org/0000-0001-8900-6203" href="https://orcid.org/0000-0001-8900-6203" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8900-6203</a></span>, 
+**Abstract:**
+
+The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and since then have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
+
+**Contributors:**
+
+<span itemscope itemtype="https://schema.org/Person">Lee Belbin <a itemprop="sameAs" content="https://orcid.org/0000-0001-8900-6203" href="https://orcid.org/0000-0001-8900-6203" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8900-6203</a></span>, 
 <span itemscope itemtype="https://schema.org/Person">Gail Kampmeier <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-5178-4170" href="https://orcid.org/https://orcid.org/0000-0002-5178-4170" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5178-4170</a></span>, 
 <span itemscope itemtype="https://schema.org/Person">Dag Endresen <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-2352-5497" href="https://orcid.org/https://orcid.org/0000-0002-2352-5497" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2352-5497</a></span>, 
 <span itemscope itemtype="https://schema.org/Person">Steve Baskauf <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0003-4365-3135" href="https://orcid.org/https://orcid.org/0000-0003-4365-3135" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4365-3135</a></span>
 
-Bibliographic citation: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines for Review Managers of Proposed TDWG Standards. Biodiversity Information Standards (TDWG). [put the URL here]()
+**Bibliographic citation:**
+
+L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines for Review Managers of Proposed TDWG Standards. Biodiversity Information Standards (TDWG). [https://www.tdwg.org/about/review-managers/](https://www.tdwg.org/about/review-managers/)
 
 # 1 Responsibilities
 
