@@ -9,8 +9,7 @@ page_order: 8
 status: hidden
 ---
 
-**Title:** 
-
+**Title:** <br />
 Guidelines for Review Managers of Proposed TDWG Standards
 
 **Date version issued:** 2021-03-xx
@@ -44,9 +43,9 @@ The **Author**
 
 1. Prepares the submission with their Task Group to conform to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>).
 2. Places the submission in the correct standards category
-  * Technical Specification,
-  * Applicability Statement or
-  * Best Current Practice 
+    * Technical Specification,
+    * Applicability Statement or
+    * Best Current Practice 
 3. Assures that the metadata information under the Summary is accurate and complete, with the understanding that this metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
 4. Presents the submission to the TDWG Executive Committee.
 
