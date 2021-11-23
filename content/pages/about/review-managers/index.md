@@ -6,7 +6,7 @@ cover_image_by: Tj Holowaychuk
 cover_image_ref: https://unsplash.com/photos/D18ZnjlhVqM
 tags:
 page_order: 8
-status: hidden
+status: published
 ---
 
 **Title:** Guidelines for Review Managers of Proposed TDWG Standards
