@@ -247,12 +247,12 @@ Sincerely,
 
 ## 4.4 Past Public Review Announcements and response summaries
 
-[LSID and GUID Applicability Statements](past_public_review_notices/2009_lsid_guid.md)
+[LSID and GUID Applicability Statements](https://github.com/tdwg/process/blob/master/past_public_review_notices/2009_lsid_guid.md)
 
-[Darwin Core Vocabulary Standard](past_public_review_notices/2009_dwc.md)
+[Darwin Core Vocabulary Standard](https://github.com/tdwg/process/blob/master/past_public_review_notices/2009_dwc.md)
 
-[Audubon Core Vocabulary Standard](past_public_review_notices/2013_ac.md)
+[Audubon Core Vocabulary Standard](https://github.com/tdwg/process/blob/master/past_public_review_notices/2013_ac.md)
 
-[Standards Documentation and Vocabulary Maintenance Specifications](past_public_review_notices/2017_sds_vms.md)
+[Standards Documentation and Vocabulary Maintenance Specifications](https://github.com/tdwg/process/blob/master/past_public_review_notices/2017_sds_vms.md)
 
-[Global Genomic Biodiversity Network and ABCD Extension for Geosciences](past_public_review_notices/2020_ggbn_abcd-efg.md)
+[Global Genomic Biodiversity Network and ABCD Extension for Geosciences](https://github.com/tdwg/process/blob/master/past_public_review_notices/2020_ggbn_abcd-efg.md)
