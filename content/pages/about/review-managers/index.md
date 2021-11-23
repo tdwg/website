@@ -25,7 +25,7 @@ The guidelines for review managers of proposed standards were originally written
 
 <span itemscope itemtype="https://schema.org/Person">Lee Belbin <a itemprop="sameAs" content="https://orcid.org/0000-0001-8900-6203" href="https://orcid.org/0000-0001-8900-6203" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8900-6203</a></span>, <br />
 <span itemscope itemtype="https://schema.org/Person">Gail Kampmeier <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-5178-4170" href="https://orcid.org/https://orcid.org/0000-0002-5178-4170" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5178-4170</a></span>, <br />
-<span itemscope itemtype="https://schema.org/Person">Dag Endresen <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-2352-5497" href="https://orcid.org/https://orcid.org/0000-0002-2352-5497" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2352-5497</a></span>, <br />
+<span itemscope itemtype="https://schema.org/Person">Dag Endresen <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-2352-5497" href="https://orcid.org/https://orcid.org/0000-0002-2352-5497" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2352-5497</a></span>, and <br />
 <span itemscope itemtype="https://schema.org/Person">Steve Baskauf <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0003-4365-3135" href="https://orcid.org/https://orcid.org/0000-0003-4365-3135" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4365-3135</a></span>
 
 **Bibliographic citation:**
@@ -43,7 +43,7 @@ The **Author**
 1. Prepares the submission with their Task Group to conform to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>).
 2. Places the submission in the correct standards category
     * Technical Specification,
-    * Applicability Statement or
+    * Applicability Statement, or
     * Best Current Practice 
 3. Assures that the metadata information under the Summary is accurate and complete, with the understanding that this metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
 4. Presents the submission to the TDWG Executive Committee.
