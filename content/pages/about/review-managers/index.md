@@ -1,9 +1,9 @@
 ---
 title: Review Manager Guidelines
 summary: These guidelines have been used by previous review managers and have been revised in light of their experience.
-cover_image:
-cover_image_by:
-cover_image_ref:
+cover_image: https://images.unsplash.com/photo-1498536383836-4d7b97b379b0
+cover_image_by: Tj Holowaychuk
+cover_image_ref: https://unsplash.com/photos/D18ZnjlhVqM
 tags:
 page_order: 8
 status: hidden
