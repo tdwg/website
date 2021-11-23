@@ -11,7 +11,7 @@ status: hidden
 
 **Title:** Guidelines for Review Managers of Proposed TDWG Standards
 
-**Date version issued:** 2021-03-xx
+**Date version issued:** 2021-11-22
 
 **Date created:** 2009-05-15
 
