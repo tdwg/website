@@ -1,6 +1,6 @@
 ---
 title: TDWG members of the Executive committee participated in the BiCIKL hackathon in Meise
-slug: bicikl-begins
+slug: bicikl-hackathon
 date: 2021-11-29
 cover_image: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images/visual_guide.jpg
 cover_image_by: BiCIKL project
