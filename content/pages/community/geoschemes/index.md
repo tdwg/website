@@ -19,8 +19,51 @@ Charter for a TDWG Interest Group
 
 *   [Francisco Pando](mailto:pando@rjb.csic.es) - Real Jardín Botánico-CSIC, Madrid
 *   [Nicolas Bailly](mailto:n.bailly@q-quatics.org) - FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver
-*   [Visotheary Ung](mailto:visotheary.ung@mnhn.fr) - Muséum national d’Histoire Naturelle, Paris
+*   [Visotheary Ung](mailto:visotheary.ung@mnhn.fr) - ISYEB, CNRS/Muséum national d’Histoire Naturelle, Paris
 
+## Potential users and stakeholders
+The current version of the standard, published more than 20 year ago has been cited in more that 350 publications (cf. citations in Google Scholar). The non-exhaustive list of authors’ affiliations of these publications that follows reveal a wide geographical and thematic distribution:
+
+* Aarhus University
+* Bayreuth University
+* Boise State University
+* Durham University
+* East China Normal University
+* German Centre for Integrative Biodiversity Research (iDiv)
+* Institute of Botany
+* Czech Academy of Sciences, Pruhonice
+* International Institute of Tropical Agriculture
+* Iranian Research Organization for Science and Technology (IROST)
+* IRD France
+* Microsoft Research
+* Missouri Botanical Garden
+* Office Français de la Biodiversité (OFB)
+* Oxford University
+* Real Jardín Botánico
+* CSIC
+* Royal Botanic Gardens, Kew 
+* Sherbrooke University
+* Slovak Academy of Sciences, Bratislava
+* Statens Serum Institut
+* UNAM (Mexico)
+* Universidad Autónoma de Madrid
+* Universidad de Almería
+* Université Grenoble Alpes
+* University of Amsterdam
+* University of Arizona
+* University of Cape Town
+* University of Gothenburg
+* University of Konstanz
+* University of KwaZulu-Natal
+* University of Southampton
+* University of Southern Denmark
+* University of Stirling
+* University of Vienna
+* Water Research Institute
+* Verbania
+* Zoological Society of London, etc.
+
+The previous edition was limited to the terrestrial domain and restricted to plans. The current developments, aiming to cover the marine domain and extend to all living organisms, may attract an ever more extended community of uses.  
 
 ## Motivation
 
