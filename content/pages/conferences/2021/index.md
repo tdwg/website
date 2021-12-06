@@ -11,7 +11,7 @@ page_order: 29
 <img src="https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png" alt="TDWG 2021 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 # TDWG 2021<br />October 18-22 
 
-_Last updated 10 October 2021_
+_Last updated 5 December 2021_
 
 _Translations: [ES](./es/), [FR](./fr), [JP](./ja)_
 
@@ -28,9 +28,7 @@ TDWG 2021 will be hosted on the virtual platform, [Whova](https://whova.com), by
 
 ## Registration
 
-While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and helps to defray the cost of abstract publication. **Please register by 15 October for full access to this year's conference. Late registration will incur delays.** Special discounts are in place for students, post-docs, and participants from developing nations. If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier. Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202021_1) enjoy a $25 discount for regular registration. Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) before registering for TDWG 2021. 
-
-<b><a href="https://reg.conferences.dce.ufl.edu/Basic/1400081801" target="_blank" class="btn btn-secondary">Register now for TDWG 2021</a></b>
+While virtual, connecting and uniting the TDWG community for the sharing of standards, processes and tools, does not come free. This year's modest registration fee includes a discount structure, and helps to defray the cost of abstract publication. **Registration is now closed.** Special discounts were in place for students, post-docs, and participants from developing nations. If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier. Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202021_1) enjoy a $25 discount for regular registration. Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) before registering for TDWG 2021. 
 
 ## Join Conference
 
@@ -45,7 +43,7 @@ Abstracts are required for all contributions (oral presentations and virtual pos
 
 The [call for abstracts](https://www.tdwg.org/conferences/2021/call-for-abstracts/) was released 6 June with a deadline of 2 August. This deadline was extended to 20 August for posters only. The deadline for submission of abstracts has now closed. **See published abstracts in [TDWG Proceedings 2021](https://biss.pensoft.net/collection/293/).**
 
-## Schedule - Newly posted!
+## Schedule
 
 The latest schedule (v4.1 10 October) has been posted as a Google spreadsheet. See the [TDWG 2021 October Schedule](https://docs.google.com/spreadsheets/d/17J5T0QdATdnrXgHWhguMErlSrfMo59qOCbss-R5whEU/edit?usp=sharing) overview (first tab, see the [session list](https://www.tdwg.org/conferences/2021/session-list/) for descriptions of each session) and detailed schedule with speakers and times (second tab). Three time zones are listed for *start times* of each session or presentation, the middle one, [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20211018T110000&p1=1440&p2=tz_et&p3=tz_aet) is that of our hosts at the University of Florida. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some; recorded sessions will be posted in a timely fashion on the platform for on-demand viewing. 
 
