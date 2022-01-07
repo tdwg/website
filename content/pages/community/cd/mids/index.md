@@ -15,8 +15,12 @@ status: published
 
 ## Convenors
 
-- [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk) (Cardiff University, UK)
 - [Elspeth Haston](mailto:EHaston@rbge.org.uk) (Royal Botanic Garden Edinburgh, UK)
+- [Cat Chapman](mailto:chapman@floridamuseum.ufl.edu) (Northern Arizona University & iDigBio)
+
+### Previous convenors
+
+- [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk) (Cardiff University, UK)
 
 ## Core Members
 
