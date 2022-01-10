@@ -32,7 +32,7 @@ Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasure
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
 [Technical Architecture Group](../committees/tag/) | Steve Baskauf [✉️](mailto:) | Vanderbilt University Heard Libraries, Nashville, Tennessee, USA  | 2022-2023
-[Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2021-2022
+[Fundraising and Partnerships](../committees/fundraising/) | TBA |  | 2022-2023
 [Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2022-2023
 [Outreach and Communications](../committees/outreach/) | [Mareike Petersen](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:Mareike.Petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2021-2022
 [Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2022-2023
