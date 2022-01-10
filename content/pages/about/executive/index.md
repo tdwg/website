@@ -25,17 +25,17 @@ Role | Name | Affiliation | Term of office
 Chair | [Deb Paul](./backgrounds/#chair_1) [✉️](mailto:dlpssf@gmail.com) | Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA | 2021-2022
 Deputy Chair | [Elycia (Ely) Wallis](./backgrounds/#deputy%20chair_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Melbourne, Australia | 2021-2022
 Secretary | Visotheary Ung [✉️](mailto:secretary@tdwg.org) | Muséum National d'Histoire Naturelle, Paris, France | 2021-2022
-Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
+Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2022-2023
 
 ### Subcommittee chairs
 
 Functional subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](../committees/tag/)<br />Co-Chairs | Nicky Nicolson [✉️](mailto:n.nicolson@kew.org) <br />James Macklin [✉️](mailto:james.macklin@gmail.com)| Royal Botanic Gardens, Kew, London, United Kingdom <br />&nbsp;<br />Agriculture Agri-Food Canada, Ottawa, Canada | 2020-2021
+[Technical Architecture Group](../committees/tag/) | Steve Baskauf [✉️](mailto:) | Vanderbilt University Heard Libraries, Nashville, Tennessee, USA  | 2022-2023
 [Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2021-2022
-[Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2020-2021
+[Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2022-2023
 [Outreach and Communications](../committees/outreach/) | [Mareike Petersen](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:Mareike.Petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2021-2022
-[Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2020-2021
+[Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2022-2023
 
 ### Regional representatives
 
