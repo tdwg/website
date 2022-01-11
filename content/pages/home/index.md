@@ -9,11 +9,11 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: Register for November Working Sessions!
-alert_text: Following our main conference in October, TDWG Interest and Task Groups will hold working sessions every Wednesday and Thursday of November. Please register (free!) to participate.
+alert_title: Audubon Core proposals: public comment opens 15 Jan.
+alert_text: Public comment period opens 15 January for three term-change proposals.
 alert_button: Learn more...
-alert_link: ../conferences/2021/working-sessions/
-alert_image: https://static.tdwg.org/conferences/2021/logos/tdwg-2021-logo-plant-wide-cropped2.png
+alert_link: 
+alert_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
