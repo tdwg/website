@@ -12,7 +12,7 @@ template: page_home
 alert_title: Audubon Core proposals: public comment opens 15 Jan.
 alert_text: Public comment period opens 15 January for three term-change proposals.
 alert_button: Learn more...
-alert_link: 
+alert_link: https://www.tdwg.org/news/2022/audubon-core-term-change-proposals/
 alert_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
