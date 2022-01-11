@@ -1,5 +1,5 @@
 ---
-title: 
+title: Audubon Core term change proposals
 slug: 
 date: 2022-01-10
 cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
