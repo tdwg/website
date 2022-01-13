@@ -120,7 +120,7 @@ CD will build on NCDs effort to connect to and use and link to other standards a
 
 ## Resources
 
-* To join the TDWG mailing list see: http://lists.tdwg.org/mailman/listinfo/tdwg
-* CD Discussion and documents are on GitHub: https://github.com/tdwg/cd
-  * The NCD Archived repo is at: https://github.com/tdwg/cd/blob/master/README.md#old-ncd-repository
-  * NCD data can be found here https://github.com/tdwg/wiki-archive/tree/master/twiki/data/NCD
+* [TDWG mailing list](http://lists.tdwg.org/mailman/listinfo/tdwg) (with subscription information)
+* [CD github site](https://github.com/tdwg/cd) with discussion and documents 
+  * [Archived NCD github repository](https://github.com/tdwg/cd/blob/master/README.md#old-ncd-repository)
+  * [Archived NCD data](https://github.com/tdwg/wiki-archive/tree/master/twiki/data/NCD)
