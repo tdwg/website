@@ -24,7 +24,7 @@ Programme
 : [TDWG 2011 Programme](https://static.tdwg.org/conferences/2011/tdwg_2011_programme.pdf)
 
 Presentations
-: [presentation files](https://static.tdwg.org/conferences/2011/presentations/) by author last name
+: [presentation files](./presentation-files/) by author last name
 
 Recordings
 : not available
