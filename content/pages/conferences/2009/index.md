@@ -25,7 +25,7 @@ Programme
 : [TDWG 2009 Programme](https://static.tdwg.org/conferences/2009/tdwg_2009_programme.pdf)
 
 Presentations
-: [presentation files](https://static.tdwg.org/conferences/2009/presentations/) by author name
+: [presentation files](./presentation-files/) by author name
 
 Recordings
 : not available
