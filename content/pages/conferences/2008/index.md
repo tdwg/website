@@ -24,7 +24,7 @@ Programme
 : [TDWG 2008 Programme](https://static.tdwg.org/conferences/2008/tdwg_2008_programme.pdf)
 
 Presentations
-: [presentation files](https://static.tdwg.org/conferences/2008/presentations/) by author name
+: [presentation files](./presentation-files/) by author name
 
 Recordings
 : see shockwave files (\*.swf) among presentations
