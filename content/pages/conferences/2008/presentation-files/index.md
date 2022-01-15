@@ -1,3 +1,12 @@
+---
+title: TDWG 2008 Presentation Files
+summary: Presentations at TDWG 2008 Annual Conference - Fremantle, Australia
+cover_image: https://c1.staticflickr.com/1/76/178987018_e75b26eb54_b.jpg
+cover_image_by: Chuan Chew
+cover_image_ref: https://www.flickr.com/photos/hangdog/178987018
+tags: conference
+---
+
 ### TDWG 2008 presentation files.
 Files available by request from [secretariat@tdwg.org](mailto:secretariat@tdwg.org).
 
