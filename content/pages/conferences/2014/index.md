@@ -24,7 +24,7 @@ Programme
 : [TDWG 2014 Programme](https://static.tdwg.org/conferences/2014/tdwg_2014_programme.pdf)
 
 Presentations
-: [presentations](https://static.tdwg.org/conferences/2014/presentations/)
+: [presentations](./presentation-files/)
 
 Recordings
 : not available
