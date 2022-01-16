@@ -24,7 +24,7 @@ Programme
 : [TDWG 2013 Programme](https://static.tdwg.org/conferences/2013/tdwg_2013_programme.pdf)
 
 Presentations
-: [presentation files](https://static.tdwg.org/conferences/2013/presentations/) (by first author last name)
+: [presentation files](./presentation-files/) (by first author last name)
 
 Recordings
 : unavailable
