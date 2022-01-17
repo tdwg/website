@@ -9,7 +9,7 @@ tags: conference
 
 ### TDWG 2015 presentation files
 
-Each contribution in the [2015 program](https://static.tdwg.org/conferences/2015/tdwg_2015_programme.pdf) is numbered and contains links to its abstract in the Online Conference System. Presentation slides (Powerpoint files or PDFs) were shared by the authors for the contributions listed below (by author) and are available by request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).  
+Every contribution in the [2015 program](https://static.tdwg.org/conferences/2015/tdwg_2015_programme.pdf) has an ID number (#) and contains a link to its abstract in the Online Conference System. Some authors shared their presentations (PPT, PDF, etc.) and these are listed below (by author). To obtain any of these presentation files, please send a request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).  
 
 
 |  #  | Author |   Title   | Type | Session | Day | Room |
