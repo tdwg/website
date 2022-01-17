@@ -27,5 +27,3 @@ Programme
 Presentations
 : see Recordings
 
-Recordings
-: hosted by [iDigBio](https://www.idigbio.org/wiki/index.php/TDWG_2017_Annual_Conference)
