@@ -8,13 +8,10 @@ tags: functional subcommittee, charter
 github: https://github.com/tdwg/tag
 ---
 
-## Co-Chairs
+## Chairs
 
-[Nicky Nicolson](mailto:n.nicolson@kew.org), Elected Term: 2020-2021 
-[Royal Botanic Gardens, Kew](https://kew.org), Richmond, London
-
-[James A. Macklin](mailto:james.macklin@canada.ca), Elected Term: 2020-2021
-[Agriculture Agri-Food Canada](https://www.agr.gc.ca/), Ottawa
+[Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu), Elected Term: 2022-2023 
+Vandbilt University Libraries, Nashville, Tennessee, USA
 
 
 ## Mission
