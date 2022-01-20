@@ -11,7 +11,7 @@ github: https://github.com/tdwg/tag
 ## Chairs
 
 [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu), Elected Term: 2022-2023 
-Vandbilt University Libraries, Nashville, Tennessee, USA
+Vanderbilt University Libraries, Nashville, Tennessee, USA
 
 
 ## Mission
