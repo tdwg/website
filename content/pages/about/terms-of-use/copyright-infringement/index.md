@@ -13,6 +13,8 @@ toc_headers: ^h[2-3]
 
 # Copyright Infringement: risks and avoidance
 
+_26 January 2022_
+
 TDWG recently paid more than $2,000 to settle a case of alleged copyright infringement out of court.  How did this happen?  How can we prevent it from happening again?
 
 This case began in 2014 when a colleague (Presenter) needed an image to represent the concept of biodiversity. He found a nice image on the web -- a composite showing various plants and animals -- and copied that image into his presentation at that year’s TDWG conference. After the conference he uploaded his slides to the TDWG website. Seven years later a copyright holder’s agent searched the TDWG website and found two images that allegedly infringed the copyrights of their clients. The images were both elements in the composite used in the Presenter's Powerpoint file. And note, the images appeared on one of nineteen slides and were the size of thumbnails; each image occupyied less than one half of one percent (0.5%) of the screen area on one slide.
