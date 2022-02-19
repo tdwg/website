@@ -81,5 +81,6 @@ Invoices for membership dues can be paid:
 | [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) |  Edinburgh |  
 | [Royal Botanic Gardens, Kew](https://www.kew.org/) |  Richmond |  
 | [Royal Botanic Gardens, Melbourne](https://www.rbg.vic.gov.au/) |  South Yarra |  
+| [Swedish Museum of Natural History](https://www.nrm.se/en/forskningochsamlingar/samlingar.179.html) |  Stockholm |  
 | [US Geological Survey](https://www.usgs.gov/) |  Reston |  
 
