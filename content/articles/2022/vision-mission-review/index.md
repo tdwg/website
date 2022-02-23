@@ -9,7 +9,7 @@ tags:
 status: published
 ---
 
-# TDWG Vision and Mission Statement open for review
+# New TDWG vision and mission statements open for review
 
 Biodiversity Information Standards (TDWG) Outreach and Communication Subcommittee has drafted Vision and Mission Statements that are now available for comments. Both statements should convey the main goal of our organization and the purpose of TDWG. We would like to ask our TDWG members and associates whether these sentences are in accordance with their work related to TDWG and whether the statements do cover TDWG's scope from their personal point of view. Check out our [Website](https://www.tdwg.org/about/) if you would like to learn about TDWG.
 
