@@ -1,0 +1,44 @@
+---
+title: TDWG vision and mission statements open for review
+slug: 
+date: 2022-02-23
+cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
+cover_image_by: Kawin Harasai
+cover_image_ref: https://unsplash.com/photos/VMpIew0mHlo
+tags: 
+status: draft
+---
+
+# TDWG Vision and Mission Statement open for review
+
+Biodiversity Information Standards (TDWG) Outreach and Communication Subcommittee has drafted Vision and Mission Statements that are now available for comments. Both statements should convey the main goal of our organization and the purpose of TDWG. We would like to ask our TDWG members and associates whether these sentences are in accordance with their work related to TDWG and whether the statements do cover TDWG's scope from their personal point of view. Check out our [Website](https://www.tdwg.org/about/) if you would like to learn about TDWG.
+
+For this process, the TDWG Outreach and Communication Subcommittee reviewed various vision and mission statements of other organizations and took relevant sections of written texts about TDWG (e.g., from the website) into account. 
+
+The statements have been reviewed by the TDWG Executive Committee and are now open for your comments. Both statements are relevant for us as an organization, but even more to engage with the broader community and external partners. 
+
+
+## TDWG vision statement:
+
+**Open, free, and interconnected natural science knowledge available for a sustainable world**
+
+_A vision is an aspirational statement of an organization, which articulates what they would like to achieve and guides the direction of the organization's efforts._
+
+## TDWG mission statement:
+
+**Create, maintain and promote the use of community-driven and open natural science data standards to enable research and evidence-based decision making.**
+
+_A mission is a definition of the organization's business state and objectives in the present. It conveys how the organization chooses to pursue its vision._
+
+
+## Feedback
+
+We are looking forward to your feedback in this Survey until 15 March 2022!
+
+Go to [Survey](https://survey.naturkundemuseum-berlin.de/en/node/821/)
+
+
+
+On behalf of the TDWG Outreach and Communication Subcommittee,
+
+Mareike Petersen
