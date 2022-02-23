@@ -9,8 +9,8 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: New mission and vision statements
-alert_text: Please provide feedback on TDWG's proposed new vision and mission statements.
+alert_title: New vision and mission statements
+alert_text: Please provide feedback on TDWG's proposed new vision and mission statements before 15 March.
 alert_button: Learn more...
 alert_link: https://www.tdwg.org/news/2022/vision-mission-review/
 alert_image: https://images.unsplash.com/photo-1510914828947-36f754990aa5
