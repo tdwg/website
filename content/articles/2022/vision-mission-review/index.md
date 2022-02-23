@@ -1,6 +1,6 @@
 ---
 title: TDWG vision and mission statements open for review
-slug: 
+slug: vision-mission-review
 date: 2022-02-23
 cover_image: https://images.unsplash.com/photo-1510914828947-36f754990aa5
 cover_image_by: Valentin Antonucci 
