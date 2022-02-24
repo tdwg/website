@@ -11,7 +11,7 @@ status: published
 
 # New TDWG vision and mission statements open for review
 
-Biodiversity Information Standards (TDWG) Outreach and Communication Subcommittee has drafted new Vision and Mission Statements that are now available for comment. Both statements should convey the main goal of our organization and the purpose of TDWG. We would like to ask our TDWG members and associates whether these sentences accord with their own work related to TDWG, and whether the statements cover TDWG's scope from their personal point of view. Please see our [home page](https://www.tdwg.org/) to compare existing statements of TDWG's purpose and goals, and our "[About](https://www.tdwg.org/about/)" page if you would like to learn more about what TDWG does and how it works.
+Biodiversity Information Standards (TDWG) Outreach and Communication Subcommittee has drafted new Vision and Mission Statements that are now available for comment. Both statements should convey the main goal of our organization and the purpose of TDWG. We would like to ask TDWG members and associates whether these sentences accord with their own work related to TDWG, and whether the statements cover TDWG's scope from their personal point of view. Please see our [home page](https://www.tdwg.org/) to compare existing statements of TDWG's purpose and goals, and our "[About](https://www.tdwg.org/about/)" page to learn more about what TDWG does and how it works.
 
 For this process, the TDWG Outreach and Communication Subcommittee reviewed various vision and mission statements of other organizations and took relevant sections of written texts about TDWG (e.g., from the website) into account. 
 
