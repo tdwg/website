@@ -54,6 +54,7 @@ Invoices for membership dues can be paid:
 | Institution Name | City |
 | :--- | :--- |
 | [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) |  Canberra |  
+| [ArtDatabanken / Swedish Species Information Centre](https://www.artdatabanken.se/en/?menu=open) |  Uppsala |
 | [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) |  Boulder |  
 | [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) |  Washington |  
 | [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) |  Lawrence |  
@@ -81,6 +82,7 @@ Invoices for membership dues can be paid:
 | [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) |  Edinburgh |  
 | [Royal Botanic Gardens, Kew](https://www.kew.org/) |  Richmond |  
 | [Royal Botanic Gardens, Melbourne](https://www.rbg.vic.gov.au/) |  South Yarra |  
+| [Specify Collections Consortium](https://www.specifysoftware.org/membership-levels/) |  Lawrence, KS |
 | [Swedish Museum of Natural History](https://www.nrm.se/en/forskningochsamlingar/samlingar.179.html) |  Stockholm |  
 | [US Geological Survey](https://www.usgs.gov/) |  Reston |  
 
