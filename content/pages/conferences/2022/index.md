@@ -17,7 +17,7 @@ status: hidden
 
 # 17–21 October 2022
 
-Last updated 1 March 2022
+_Last updated 1 March 2022_
 
 <!-- Translations: ES, FR, JP -->
 
