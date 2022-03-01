@@ -25,9 +25,9 @@ status: published
 
 The Biodiversity Information Standards (TDWG) annual conference in 2022 will be a hybrid meeting, hosted in Sofia, Bulgaria by:
 
-- Pensoft Publishers
-- National Museum of Natural History, Bulgarian Academy of Sciences
-- Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences
+- [Pensoft](https://pensoft.net/),
+- [National Museum of Natural History](https://www.nmnhs.com/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en), and 
+- [Institute of Biodiversity and Ecosystem Research](http://www.iber.bas.bg/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en),
 
 Essential early information has been posted on the [conference website](https://www.tdwg.org/conferences/2022/). Additional information will be posted as it becomes available.
 
