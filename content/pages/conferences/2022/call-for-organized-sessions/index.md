@@ -29,8 +29,6 @@ The Biodiversity Information Standards (TDWG) annual conference in 2022 will be 
 - National Museum of Natural History, Bulgarian Academy of Sciences
 - Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences
 
-Be there in person, or join the conference online!
-
 Essential early information has been posted on the [conference website](https://www.tdwg.org/conferences/2022/). Additional information will be posted as it becomes available.
 
 We invite you to [submit a proposal](https://www.surveymonkey.com/r/CYK8HPR) for an organized session at TDWG 2022 reflecting the conference theme, "Stronger Together: Standards for linking biodiversity data." Organized sessions can take the form of a symposium, panel discussion, or another format in which the primary purpose is to convey information and engage the audience. Session proposers will be responsible for soliciting and coordinating presentations, reviewing and approving abstracts, and moderating their proposed session(s). We recommend at least one session organizer should be present at the in-person meeting if possible. Every symposium and presentation listed in the program must have an abstract, which will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_, as part of the _[Proceedings of TDWG 2022]()_. Presenters must be registered for the conference.
