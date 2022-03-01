@@ -9,7 +9,7 @@ page_order: 28
 status: hidden
 ---
 
-<img src="https://static.tdwg.org/conferences/2022/tdwg-2022.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
+<img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
 # TDWG 2022—A Hybrid Conference
 
