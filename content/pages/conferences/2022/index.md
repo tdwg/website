@@ -17,9 +17,9 @@ status: hidden
 
 # 17–21 October 2022
 
-Last updated 25 February 2022
+Last updated 1 March 2022
 
-Translations: ES, FR, JP
+<!-- Translations: ES, FR, JP -->
 
 As borders begin to open and we continue to strengthen the connectivity of people and biodiversity data globally by virtual means, TDWG 2022 will be a hybrid conference composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Our wonderful local hosts from Sofia, Bulgaria include Pensoft Publishers, and the National Museum of Natural History and Institute of Biodiversity and Ecosystem Research both at the Bulgarian Academy of Sciences. They cordially invite you to experience Sofia in-person and virtually. #tdwg2022
 
