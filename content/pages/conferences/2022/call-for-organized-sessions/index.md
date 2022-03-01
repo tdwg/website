@@ -6,7 +6,7 @@ cover_image_by: Waranot (Joe)
 cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
 tags: conference
 page_order: 1
-status: hidden
+status: published
 ---
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
