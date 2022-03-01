@@ -29,7 +29,7 @@ Be there in person or participate online!  #tdwg2022
 
 TDWG 2022 is hosted by:
 
-- [Pensoft Publishers](https://pensoft.net/),
+- [Pensoft](https://pensoft.net/),
 - [National Museum of Natural History, Bulgarian Academy of Sciences](https://www.nmnhs.com/), and 
 - [Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences](http://www.iber.bas.bg/),
 
