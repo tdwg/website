@@ -80,3 +80,5 @@ By participating in TDWG 2022, you agree to abide by our [Code of Conduct](https
 
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
 
+---
+
