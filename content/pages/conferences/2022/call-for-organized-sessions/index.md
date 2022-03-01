@@ -31,7 +31,7 @@ Essential early information has been posted on the [conference website](https://
 
 We invite you to [submit a proposal](https://www.surveymonkey.com/r/CYK8HPR) for an organized session at TDWG 2022 reflecting the conference theme -- Stronger Together: Standards for linking biodiversity data. Organized sessions can take the form of a symposium, panel discussion, or another format in which the primary purpose is to convey information and engage the audience. Session proposers will be responsible for soliciting and coordinating presentations, reviewing and approving abstracts, and moderating their proposed session(s). We recommend at least one session organizer should be present at the in-person meeting if possible. Every symposium and presentation listed in the program must have an abstract, which will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_, as part of the _[Proceedings of TDWG 2022]()_. Presenters must be registered for the conference.
 
-Please note, priority will be given to symposium proposals that address the conference theme (above in blue). If your proposal is accepted, your session title and description will be posted (subject to editing for clarity and length) on the TDWG 2022 conference website.
+Please note, priority will be given to symposium proposals that address the conference theme. If your proposal is accepted, your session title and description will be posted (subject to editing for clarity and length) on the TDWG 2022 conference website.
 
 Submission (hard) deadline:  15 April 2022
 
