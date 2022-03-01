@@ -33,7 +33,7 @@ We invite you to [submit a proposal](https://www.surveymonkey.com/r/CYK8HPR) for
 
 Please note, priority will be given to proposals that address the conference theme. If your proposal is accepted, your session title and description will be posted (subject to editing for clarity and length) on the TDWG 2022 conference website.
 
-Submission (hard) deadline:  15 April 2022
+Submission (hard) deadline:  **15 April 2022**
 
 Please contact the conference organizers with any questions.
 
