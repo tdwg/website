@@ -21,22 +21,21 @@ _Last updated 1 March 2022_
 
 <!-- Translations: ES, FR, JP -->
 
-As borders begin to open and we continue to strengthen the connectivity of people and biodiversity data globally by virtual means, TDWG 2022 will be a hybrid conference composed of symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Our wonderful local hosts from Sofia, Bulgaria include Pensoft Publishers, and the National Museum of Natural History and Institute of Biodiversity and Ecosystem Research both at the Bulgarian Academy of Sciences. They cordially invite you to experience Sofia in-person and virtually. #tdwg2022
+Although the pandemic appears to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
 
-## Working Sessions
-
-Working sessions of the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held separately after the conference. Details TBD. There may be time at the conference for some IG/TG meetings depending on program space.
+Be there in person or participate online!  #tdwg2022
 
 ## Hosts and in-person logistics
-
-TDWG 2022 will be held in-person in Sofia, Bulgaria and online via Zoom and other platforms. Information about hotels and in-person events will be available soon.
 
 TDWG 2022 is hosted by:
 
 - [Pensoft Publishers](https://pensoft.net/),
 - [National Museum of Natural History, Bulgarian Academy of Sciences](https://www.nmnhs.com/), and 
-- [Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences](http://www.iber.bas.bg/).
+- [Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences](http://www.iber.bas.bg/),
 
+who cordially invite you to experience Sofia in-person and virtually. 
+
+Information about hotels and in-person events will be available soon.
 
 ### Local Organizing Committee 
 
@@ -50,16 +49,28 @@ Registration cost will depend on in-person or virtual participation. As in past 
 
 Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published.
 
-The call for abstracts will be distributed after organized sessions have been announced (likely early May).
+The call for abstracts will be distributed after organized sessions have been announced (likely early May).  Please see the [Call for Organized Sessions](./call-for-organized-sessions/).
 
 ## Schedule
  
+## Working Sessions
+
+Working sessions of the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held separately after the conference. Details TBD. There may be time at the conference for some IG/TG meetings depending on program space.
+
 ## Supporters
 
 TDWG gratefully acknowledges the generous financial or in-kind support of TDWG 2022 by the following organizations:
 
-- Global Biodiversity Information Facility (GBIF)
-- Atlas of Living Australia (ALA)
+<table border="0">
+<tbody>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://gbif.org"> <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+</tr>
+</tbody>
+</table>
+
 
 ## Code of Conduct
 
@@ -68,5 +79,4 @@ By participating in TDWG 2022, you agree to abide by our [Code of Conduct](https
 ## Contacts & Program Committee
 
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
-
 
