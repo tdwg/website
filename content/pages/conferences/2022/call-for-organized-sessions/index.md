@@ -17,6 +17,10 @@ status: hidden
 
 # 17–21 October 2022
 
+### Be there in person, or join the conference online!
+
+---
+
 ## Call for organized sessions
 
 The Biodiversity Information Standards (TDWG) annual conference in 2022 will be a hybrid meeting, hosted in Sofia, Bulgaria by:
