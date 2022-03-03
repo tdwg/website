@@ -21,7 +21,7 @@ _Last updated 1 March 2022_
 
 <!-- Translations: ES, FR, JP -->
 
-Although the pandemic appears to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
+Although the pandemic appears to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
 
 Be there in person or participate online!  #tdwg2022
 
