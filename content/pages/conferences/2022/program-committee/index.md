@@ -11,7 +11,7 @@ status: published
 
 # Program committee for TDWG 2022
 
-The program committee meets regularly to develop the structure and organize the content of our 2022 conference.  Their responsibilities include setting the theme for the conference, issuing the calls for organized sessions and abstracts, guiding submissions through the publishing process, and selecting our keynote speakers.
+The program committee meets regularly to develop the structure and content of our 2022 conference.  Their responsibilities include setting the theme for the conference, issuing the calls for organized sessions and abstracts, guiding submissions through the publishing process, and selecting our keynote speakers.
 
 <table>
 <tbody>
