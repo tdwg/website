@@ -39,7 +39,7 @@ Information about hotels and in-person events will be available soon.
 
 ### Local Organizing Committee 
 
-### [Program Committee](./pc/)
+### [Program Committee](./program-committee/)
 
 ## Registration
 
