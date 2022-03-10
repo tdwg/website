@@ -1,5 +1,6 @@
 ---
 title: Call for Organized Sessions
+slug: call-for-organized-sessions
 summary: TDWG 2022 -- A Hybrid Conference in Sofia, Bulgaria
 date: 2022-02-23
 cover_image: https://images.unsplash.com/photo-1510914828947-36f754990aa5
