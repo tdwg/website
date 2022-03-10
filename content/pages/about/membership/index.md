@@ -76,6 +76,7 @@ Invoices for membership dues can be paid:
 | [National Museum / Národní muzeum](https://www.nm.cz/en) |  Prague |  
 | [National Museums Scotland](https://www.nms.ac.uk/) |  Edinburgh |  
 | [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) |  Canberra |  
+| [Natural History Museum Vienna](https://www.nhm-wien.ac.at/en) |  Vienna |  
 | [Natural Science Collections Facility](https://www.sanbi.org/) |  Brummeria, Pretoria |  
 | [Natural Solutions](https://www.natural-solutions.eu/) |  Marseille |  
 | [Own Capital of the Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) |  Brussels |  
