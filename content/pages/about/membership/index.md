@@ -53,6 +53,7 @@ Invoices for membership dues can be paid:
 
 | Institution Name | City |
 | :--- | :--- |
+| [Agriculture and Agri-Food Canada](http://www.agr.gc.ca/) |   Ottawa |
 | [ArtDatabanken / Swedish Species Information Centre](https://www.artdatabanken.se/en/?menu=open) |  Uppsala |
 | [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) |  Canberra |  
 | [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) |  Boulder |  
