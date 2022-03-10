@@ -7,7 +7,7 @@ cover_image: https://images.unsplash.com/photo-1510914828947-36f754990aa5
 cover_image_by: Valentin Antonucci 
 cover_image_ref: https://unsplash.com/photos/LTgTfES5hBI
 tags: 
-status: hidden
+status: published
 ---
 
 # Propose an organized session at TDWG 2022
