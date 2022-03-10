@@ -1,9 +1,9 @@
 ---
 title: Program Committee
 summary: Stronger Together: Standards for linking biodiversity data
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
+cover_image: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
+cover_image_by: Georg Eiermann
+cover_image_ref: https://unsplash.com/photos/eWiTil2CAvA 
 tags: conference
 page_order: 9
 status: published
