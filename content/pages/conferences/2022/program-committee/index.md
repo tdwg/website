@@ -19,7 +19,7 @@ The program committee meets regularly to develop the structure and content of ou
 <tbody>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/barve-vijay.jpg" alt="Vijay Barve" width="300" height="300" /></td>
-  <td><strong>Vijay Barve,</strong> <em>Bangalore, India</em> <br /> Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the <a href="https://www.tdwg.org/standards/ac/">Audubon Core Standard</a> since its inception. You can find him on Twitter @vijaybarve and in <a href="https://orcid.org/0000-0002-4852-2567">ORCID</a>.</td>
+  <td><strong>Vijay Barve,</strong> <em>Bangalore, India</em> <br /><strong>Co-Chair</strong><br /> Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the <a href="https://www.tdwg.org/standards/ac/">Audubon Core Standard</a> since its inception. You can find him on Twitter @vijaybarve and in <a href="https://orcid.org/0000-0002-4852-2567">ORCID</a>.</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/chapman-cat.jpg" alt="Cat Chapman" width="300" height="300" /></td>
@@ -36,7 +36,7 @@ The program committee meets regularly to develop the structure and content of ou
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/gaikwad-jitendra.jpg" alt="Jitendra Gaikwad" width="300" height="300" /></td>
 <td>
-  <strong>Jitendra Gaikwad</strong><br />Jitendra is a biodiversity informatics scientist at the Friedrich Schiller University Jena, Germany and actively championing open science. His main areas of interest over the past 16 years in the field of biodiversity informatics have been (1) Data Strategy, Architecture and Governance, (2) Biodiversity research data management, and (3) Application of novel computational techniques to address biodiversity research questions. Jitendra received PhD degree from Macquarie University, Australia, where the research focus was documentation, digitization, integration, and analysis of traditional medicinal plant knowledge possessed by the Aboriginal communities. He is currently working as a Project Scientist for the NFDI4Biodiversity (National Research Data Infrastructure) project and Community Manager of the BEXIS2 research data management platform. Twitter: @jgaikwad; <a href="https://orcid.org/0000-0002-7565-4389">ORCID</a>.</td>
+  <strong>Jitendra Gaikwad</strong><br /><strong>Co-Chair</strong><br />Jitendra is a biodiversity informatics scientist at the Friedrich Schiller University Jena, Germany and actively championing open science. His main areas of interest over the past 16 years in the field of biodiversity informatics have been (1) Data Strategy, Architecture and Governance, (2) Biodiversity research data management, and (3) Application of novel computational techniques to address biodiversity research questions. Jitendra received PhD degree from Macquarie University, Australia, where the research focus was documentation, digitization, integration, and analysis of traditional medicinal plant knowledge possessed by the Aboriginal communities. He is currently working as a Project Scientist for the NFDI4Biodiversity (National Research Data Infrastructure) project and Community Manager of the BEXIS2 research data management platform. Twitter: @jgaikwad; <a href="https://orcid.org/0000-0002-7565-4389">ORCID</a>.</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/james-shelley.jpg" alt="Shelley James" width="300" height="300" /></td>
@@ -61,7 +61,7 @@ Demetrio has a background in biodiversity research with a focus on diatom taxono
 </tr>
 <tr>
 <td><img src="https://static.tdwg.org/conferences/2022/pc/penev-lyubomir.jpg" alt="Lyubomir Penev" width="300" height="300" /></td>
-<td><strong>Lyubomir Penev</strong> <br />
+<td><strong>Lyubomir Penev</strong> <br /><strong>Local Host Liaison</strong><br />
   Lyubomir is a Professor of Ecology at the Bulgarian Academy of Sciences, Sofia. His main interests over the past 30 years have been the methods of biodiversity study, development of software for biodiversity research and environmental assessment, biogeography, urban ecology and data publishing. He has published more than 160 papers and was co-author or (co-)editor of 8 books. Founder of Pensoft Publishers and publisher of the TDWG's Biodiversity Information Science and Standards (BISS) journal. <a href="https://www.researchgate.net/profile/Lyubomir-Penev">ResearchGate</a>.</td>
 </tr>
 </tbody>
