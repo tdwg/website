@@ -1,7 +1,7 @@
 ---
 title: Call for Organized Sessions
 slug: call-for-organized-sessions
-summary: TDWG 2022 -- Stronger Together: Standards for linking biodiversity data
+summary: TDWG 2022 -- "Stronger Together: Standards for linking biodiversity data." Our 2022 conference will be "hybrid", in-person in Sofia, Bulgaria, but with streaming and recorded sessions for remote participants.
 date: 2022-02-23
 cover_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
 cover_image_by: Ivan Nedelchev 
@@ -12,10 +12,9 @@ status: published
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
-# Propose an organized session at TDWG 2022
+# Propose an organized session at TDWG 2022.
 
-<H2>The annual TDWG conference in Sofia, Bulgaria<br />
-  <em>17–21 October 2022</em></H2>
+<H2><em>17–21 October 2022</em></H2>
 
 The Biodiversity Information Standards (TDWG) annual conference in 2022 will be a hybrid meeting, hosted in Sofia, Bulgaria by:
 
