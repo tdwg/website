@@ -27,7 +27,7 @@ All conference participants are invited to submit abstracts representing their w
 
 You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft.
 
-After submitting your abstract for review, it be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stonger Together: Standards for linking biodiversity data_ and [vision and mission](INSERT URL).
+After submitting your abstract for review, it be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stonger Together: Standards for linking biodiversity data_ and [vision and mission] (INSERT URL).
 
 Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid.
 
@@ -49,7 +49,7 @@ As the person submitting the abstract, you should register or log in to [https:/
 
 After logging in, the button “Start TDWG 2022 Conference Abstract” should be visible on the [BISS homepage](https://biss.pensoft.net). Clicking this button takes you to the ARPHA writing tool and creates a _new_ Untitled abstract with some of the author metadata you used to create your account. _This is the easiest way to start a NEW abstract._ 
 
-While you can now leave your abstract draft here (it will have been assigned an ARPHA identifier, with you as submitter), you are encouraged to start filling out its [required fields](../#required-fields). Later, when you return to work on your abstract, follow access instructions [here](../#to-return-to-an-existing-abstract).
+While you can now leave your abstract draft here (it will have been assigned an ARPHA identifier, with you as submitter), you are encouraged to start filling out its [required fields](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#required-fields). Later, when you return to work on your abstract, follow access instructions [here](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#to-return-to-an-existing-abstract).
 
 Look for an email verification of the creation of your draft abstract in ARPHA (from awt[at]pensoft[dot]net).
 
@@ -65,12 +65,12 @@ Access all but Collection from the list at the left by hovering over a category,
 
 ## Collection
 
-Each Collection represents an [organized session](UPDATE LINK) accepted for TDWG 2022, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Poster.
+Each Collection represents an [organized session] (UPDATE LINK) accepted for TDWG 2022, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Poster.
 
 Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). <br /> <br />
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon") <br /> <br />
 Choose the most appropriate collection for your abstract. Designating a Collection is critical, as your abstract cannot be directed to the proper editors without this assignment. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections). <br /> <br />
-![Collections List](https://static.tdwg.org/conferences/2022/images/tdwg2022-biss-collections.png "Collections List") <br /> <br />
+![Collections List](https://static.tdwg.org/conferences/2022/images/tdwg2022-biss-collections.png "Collections List") <br /> (UPDATE IMAGE with URL) <br />
 
 
 ## Title
@@ -165,7 +165,7 @@ Once the submitting author receives notification that their abstract has been ap
 ### Steps
 1. **_Double check the name of the presenting author_** (should only be the name as listed as an author) and do a final proofing of your abstract. <br />
 2. **_Validate._** Next, click the validate button first to make sure there are no lingering issues. See [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). Click on the blue text for each issue to resolve it. A successful validation will only show the number of characters in your abstract.  <br />
-3. Once approved, the ‘**_Submit to the journal_**’ button should become visible (if you do not see this button, you may not be listed as the submitting author (see [Authors](LINK)) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the ‘Submit to the journal’ button and then go through the (long) checklist of submission steps. <br />
+3. Once approved, the ‘**_Submit to the journal_**’ button should become visible (if you do not see this button, you may not be listed as the submitting author (see [Authors](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#authors)) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the ‘Submit to the journal’ button and then go through the (long) checklist of submission steps. <br />
 4. The first step in the checklist regards the **_license and copyright_** of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if _any_ author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk. <br />
 5. Step 2 requires that you mark the box indicating "I am aware that my abstract will be published only after registering and payment of any fees for the TDWG 2022 conference".  <br />
 6. The final step asks you to **_assign categories_** (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_. <br />
@@ -233,4 +233,4 @@ Otherwise, communicate with the help desk (use the feedback icon located in the 
 
 ### Where will I find published abstracts?
 
-See [published abstract collections](https://biss.pensoft.net/collections) or find [_TDWG Proceedings 2022_](UPDATE LINK). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
+See [published abstract collections](https://biss.pensoft.net/collections) or find [_TDWG Proceedings 2022_] (UPDATE LINK). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
