@@ -11,7 +11,7 @@ page_order: 65
 
 # Instructions for Abstract Submission
 
-_Last updated 14 March 2022_
+_Last updated 15 March 2022_
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ All conference participants are invited to submit abstracts representing their w
 
 You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft.
 
-After submitting your abstract for review, it be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stonger Together: Standards for linking biodiversity data_ and [vision and mission] (INSERT URL).
+After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stonger Together: Standards for linking biodiversity data_ and [vision and mission] (INSERT URL).
 
 Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid.
 
@@ -49,7 +49,7 @@ As the person submitting the abstract, you should register or log in to [https:/
 
 After logging in, the button “Start TDWG 2022 Conference Abstract” should be visible on the [BISS homepage](https://biss.pensoft.net). Clicking this button takes you to the ARPHA writing tool and creates a _new_ Untitled abstract with some of the author metadata you used to create your account. _This is the easiest way to start a NEW abstract._ 
 
-While you can now leave your abstract draft here (it will have been assigned an ARPHA identifier, with you as submitter), you are encouraged to start filling out its [required fields](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#required-fields). Later, when you return to work on your abstract, follow access instructions [here](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#to-return-to-an-existing-abstract).
+While you can now leave your abstract draft here (it will have been assigned an ARPHA identifier, with you as submitter), you are encouraged to start filling out its [required fields](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#required%20fields). Later, when you return to work on your abstract, follow access instructions [here](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#to%20return%20to%20an%20existing%20abstract).
 
 Look for an email verification of the creation of your draft abstract in ARPHA (from awt[at]pensoft[dot]net).
 
