@@ -8,11 +8,12 @@ tags: functional subcommittee, charter
 github: https://github.com/tdwg/tag
 ---
 
-## Chairs
+## Chair
 
 [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu), Elected Term: 2022-2023 
 Vanderbilt University Libraries, Nashville, Tennessee, USA
 
+To see a list of TAG members for the current calendar year and issues under consideration by the group, see the [TAG GitHub repository](https://github.com/tdwg/tag).
 
 ## Mission
 
