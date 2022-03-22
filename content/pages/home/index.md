@@ -9,8 +9,8 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: Organize a session at TDWG 2022 in Sofia, Bulgaria! 
-alert_text: Please note, the deadline for proposals is April 15.
+alert_title: Organize a session at TDWG 2022 in Sofia, Bulgaria, 17–21 October 2022! 
+alert_text: Please note, the deadline for session proposals is April 15.
 alert_button: Learn more...
 alert_link: https://www.tdwg.org/news/2022/call-for-organized-sessions/
 alert_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
