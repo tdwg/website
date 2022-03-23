@@ -11,19 +11,31 @@ status: published
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
-# TDWG 2022—A Hybrid Conference
+# TDWG 2022
+# 17–21 October
 
-# Stronger Together: Standards for linking biodiversity data
 
-# 17–21 October 2022
-
-_Last updated 1 March 2022_
+_Last updated 23 March 2022_
 
 <!-- Translations: ES, FR, JP -->
 
 Although the pandemic appears to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
 
 Be there in person or participate online!  #tdwg2022
+
+## Deadlines
+
+[Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022**
+
+## Registration
+
+Registration cost will depend on in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs, and participants from developing nations. If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier. Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202022_1) enjoy a discounted regular registration. Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or update your membership before registering for TDWG 2022. Rates to be announced soon.
+
+## Abstracts
+
+Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published.
+
+The call for abstracts will be distributed after organized sessions have been announced (likely early May).  Please see the [Call for Organized Sessions](./call-for-organized-sessions/).
 
 ## Hosts and in-person logistics
 
@@ -36,20 +48,6 @@ TDWG 2022 is hosted by:
 who cordially invite you to experience Sofia in-person and virtually. 
 
 Information about hotels and in-person events will be available soon.
-
-### Local Organizing Committee 
-
-### [Program Committee](./program-committee/)
-
-## Registration
-
-Registration cost will depend on in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs, and participants from developing nations. If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier. Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202022_1) enjoy a discounted regular registration. Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or update your membership before registering for TDWG 2022. Rates to be announced soon.
-
-## Abstracts
-
-Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published.
-
-The call for abstracts will be distributed after organized sessions have been announced (likely early May).  Please see the [Call for Organized Sessions](./call-for-organized-sessions/).
 
 ## Schedule
  
@@ -79,6 +77,8 @@ By participating in TDWG 2022, you agree to abide by our [Code of Conduct](https
 ## Contacts & Program Committee
 
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
+
+## Additional Information
 
 ---
 
