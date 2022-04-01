@@ -11,7 +11,7 @@ page_order: 65
 
 # Instructions for Abstract Submission
 
-_Last updated 15 March 2022_
+_Last updated 1 April 2022_
 
 ## Getting Started
 
@@ -21,9 +21,7 @@ Abstracts are required for all scheduled oral presentations and virtual posters.
 
 All conference participants are invited to submit abstracts representing their work, however the Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author.
 
-Please write your abstract for a general audience**, providing context for your presentation and avoid unexplained jargon. _Note that this is not a venue for reporting the results of research in your discipline._
-
-Abstract submissions should be written in English and limited to no more than 6,000 characters (including spaces). You may include references, figures, tables, and if appropriate, supplemental material.
+Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Abstract submissions are limited to no more than 6,000 characters (including spaces), and may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples.
 
 **The deadline for submission of abstracts is 1 August 2022.** 
 
@@ -67,9 +65,9 @@ Fields with required data include _Title, Author, Abstract, Keywords, Presenting
 
 Access all but Collection from the list at the left by hovering over a category, and then clicking on the pencil icon and filling in requested information.
 
-## Collection
+## Collection (Session)
 
-Each Collection represents an [organized session] (UPDATE LINK) accepted for TDWG 2022, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Poster.
+Each Collection (in ARPHA) represents an [organized session] (UPDATE LINK) accepted for TDWG 2022, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Poster.
 
 Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). <br /> <br />
 ![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon") <br /> <br />
@@ -228,7 +226,7 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 *   **_In pre-submission review_** = authors see as read-only; technical editors are able to make changes to the abstract and add comments. Authors may see these updates but will not be able to make changes until editors release the abstract back to the authors using the Send Feedback button. Pressing the Send Feedback button returns the abstract to Draft mode so that authors may respond.
 *   Once your abstract has been **_Approved_**, the submitting author will need to **_Submit to Journal_** and complete the final publication checklist (this consists of multiple screens; please be sure to follow it to the end). It then proceeds to **_Layout_** and is in a queue to be **_Published_**. **The final deadline for submission to the journal will be determined.** Make sure that the submitting author will be available until the process is complete.
 *   If you fail to complete the final publication checklist, your abstract may be marked as **_Incomplete Submission_**. You will get three automated warnings to remedy this before the system automatically buries/removes your submission from the publication queue.
-*   Both authors and technical editors can send email (see icon near the top of the page) to co-authors and/or editors at any time during the pre-approval process, _this does not change the status of the manuscript. _If you use this step, please fully reference your manuscript ID, the issue(s) and the person(s) you think should be responding to the email. The system sends individual emails out so no one receiving them knows who else is being asked to address your question. If in doubt, email [editor@tdwg.org](mailto:editor@tdwg.org) outside of the system instead.
+*   Both authors and technical editors can send email (see icon near the top of the page) to co-authors and/or editors at any time during the pre-approval process, **_this does not change the status of the manuscript._** _If you use this step, please fully reference your manuscript ID, the issue(s) and the person(s) you think should be responding to the email. The system sends individual emails out so no one receiving them knows who else is being asked to address your question. If in doubt, email [editor@tdwg.org](mailto:editor@tdwg.org) outside of the system instead.
 *   For an abstract associated with TDWG 2022 to be published, the presenter must be fully registered (i.e., any assessed fee paid) for the conference.
 *   Approved abstracts will be published once the placement of their presentation in the program is confirmed. Authors should receive notification of successful submission to the journal, pending publication. 
 
