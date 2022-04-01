@@ -21,13 +21,17 @@ Abstracts are required for all scheduled oral presentations and virtual posters.
 
 All conference participants are invited to submit abstracts representing their work, however the Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author.
 
+Please write your abstract for a general audience**, providing context for your presentation and avoid unexplained jargon. _Note that this is not a venue for reporting the results of research in your discipline._
+
+Abstract submissions should be written in English and limited to no more than 6,000 characters (including spaces). You may include references, figures, tables, and if appropriate, supplemental material.
+
 **The deadline for submission of abstracts is 1 August 2022.** 
 
 ### Process Overview
 
 You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft.
 
-After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stonger Together: Standards for linking biodiversity data_ and [vision and mission] (INSERT URL).
+After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [vision and mission] (INSERT URL).
 
 Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid.
 
@@ -112,13 +116,14 @@ Make sure this is filled in with "TDWG 2022" (without quotes; no more, no less)
 
 **Please write your abstract for a general audience**, providing context for your presentation and avoid unexplained jargon. _Note that this is not a venue for reporting the results of research in your discipline._
 
-**Hyperlinks.** Consider [embedding hyperlinks](https://arpha.pensoft.net/tips/Insert-Hyperlinks) (URLs) to institutions and concepts that will help readers to appreciate more fully the topic you are presenting. This can be especially helpful for jargon. Be mindful of persistence (not having future users find broken links) and irrelevant advertising if you choose to do this.
-
 **Abstracts should be written in English**, and be appropriate to the conference theme, _Stronger Together: Standards for linking biodiversity data_.
 
 **Character limit.** Abstract submissions are limited to 6,000 characters (including spaces, title, authors and affiliations, keywords, references, etc. but _not_ Supplementary Materials). The Validate button will let you know this number. 
 
 **Acronyms and abbreviations.** The first mention of acronyms or abbreviations (including institutional/organizational acronyms and country abbreviations) in the abstract or figure/table legends must be spelled out (exceptions: 3D, API, DNA, RNA, GIS, HTML, WWW, URL, URI, XML, RDF, JPG, TIF, TIFF, PDF).
+
+**Hyperlinks.** Consider [embedding hyperlinks](https://arpha.pensoft.net/tips/Insert-Hyperlinks) (URLs) to institutions and concepts that will help readers to appreciate more fully the topic you are presenting. This can be especially helpful for jargon. Be mindful of persistence (not having future users find broken links) and irrelevant advertising if you choose to do this.
+
 
 ## Keywords
 
@@ -190,6 +195,10 @@ If, at any time, you need further technical assistance, check the [Tips and tric
 
 Your abstract will be edited and reviewed for content and suitability as well as style and language by conference and session organizers and other volunteers.  Once authors submit an abstract, the collection editors are notified about it, and they gain access to it. Once they evaluate it, and leave notes for its improvement (if any), they send feedback to the authors. At that point you—as the Submitting author—receive an automated notification from awt@pensoft.net, with access in editing mode to the abstract. After you coordinate the modifications with your co-authors, you can resubmit. This cycle can be reiterated as many times as needed, until the abstract is accepted, and ready to be submitted to the journal (to be published as is). Please wait for the system notification.
 If, for some reason, your abstract is not accepted by the conference organizers under the collection (e.g., symposium) to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
+
+### What are the benefits of submitting a published abstract?
+
+See the 2021 Pensoft blog post, [_Not Your Typical Conference Abstract #TDWG2021_](https://blog.pensoft.net/2021/07/13/not-your-typical-conference-abstract-tdwg2021/) (note that links refer to the 2021 conference, not 2022)
 
 ### I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?
 
