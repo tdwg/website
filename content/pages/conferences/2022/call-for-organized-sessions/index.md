@@ -11,13 +11,9 @@ status: published
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">
 
-# TDWG 2022—A Hybrid Conference
+# TDWG 2022 17–21 October
 
-# Stronger Together: Standards for linking biodiversity data
-
-# 17–21 October 2022
-
-### Be there in person, or join the conference online!
+**Stronger together - in person or online!  #tdwg2022**
 
 ---
 
@@ -40,3 +36,13 @@ Submission (hard) deadline:  **15 April 2022**
 Please contact the conference organizers with any questions.
 
 We look forward to seeing your session ideas (by the 15th April!)!
+
+## Additional Information
+
+### How many co-organizers are allowed?
+
+We recommend listing at least two people and have provided the space for this in the form, but you are welcome to list as many co-organizers as you wish. Please add them in the final open-ended question "Additional comments, concerns, or considerations" along with their contact information.
+
+### Do all co-organizers have to be present in person?
+
+No, although it is recommended that at least one co-organizer is able to attend in person.
