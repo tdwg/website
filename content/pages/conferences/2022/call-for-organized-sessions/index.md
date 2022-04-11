@@ -15,6 +15,8 @@ status: published
 
 **Stronger together - in person or online!  #tdwg2022**
 
+_Last updated 11 April 2022_
+
 ---
 
 ## Call for organized sessions
@@ -33,7 +35,7 @@ Please note, priority will be given to proposals that address the conference the
 
 Submission (hard) deadline:  **15 April 2022**
 
-Please contact the conference organizers with any questions.
+Please contact the [conference organizers](mailto:conf-organizers@tdwg.org) with any questions.
 
 We look forward to seeing your session ideas (by the 15th April!)!
 
