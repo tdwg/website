@@ -67,6 +67,7 @@ Invoices for membership dues can be paid:
 | [Field Museum](https://www.fieldmuseum.org/) |  Chicago |  
 | [Finnish Museum of Natural History](https://www.luomus.fi/en) |  Helsinki University |  
 | [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) |  Gainesville |  
+| [GBIF-ES](https://datos.gbif.es/) (GBIF España) |  Madrid |  
 | [Global Biodiversity Information Facility](https://www.gbif.org) |  2100 København Ø |  
 | [Harvard University/Ernst Mayr Library/MCZ](https://library.mcz.harvard.edu/) |  Cambridge |  
 | [Illinois Natural History Survey](https://www.inhs.illinois.edu/) |  Champaign |  
