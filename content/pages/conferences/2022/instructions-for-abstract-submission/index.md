@@ -11,7 +11,7 @@ page_order: 65
 
 # Instructions for Abstract Submission
 
-_Last updated 1 April 2022_
+_Last updated 13 April 2022_
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ All conference participants are invited to submit abstracts representing their w
 
 Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Abstract submissions are limited to no more than 6,000 characters (including spaces), and may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples.
 
-**The deadline for submission of abstracts is 1 August 2022.** 
+**The deadline for submission of abstracts is 1 July 2022.** 
 
 ### Process Overview
 
