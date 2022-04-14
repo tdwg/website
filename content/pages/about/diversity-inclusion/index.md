@@ -27,7 +27,8 @@ TDWG actively promotes contributions from a diverse community for its membership
 - Webinars, working group meetings, and conference proceedings that are recorded are made available for on-demand viewing on [TDWG's YouTube channel](https://www.youtube.com/channel/UC3k926cEitgTHn0ib9FvJHA/videos)
 - TDWG promotes its work and activities through social media (e.g., Twitter, Facebook), Slack, Github, email lists, its open access Pensoft journal, [_Biodiversity Information Science and Standards_](https://biss.pensoft.net/), and its [website](https://tdwg.org/).
 
-While TDWG has made progress in diversifying its Executive and the participation of a more diverse spectrum of delegates at its conferences, it will continue to strive to
+While TDWG has made progress in diversifying its Executive and the participation of a more diverse spectrum of delegates at its conferences, it will continue to strive to:
+
 - Increase participation in all activities in the Global South by recognizing opportunities to feature speakers, discover priorities that may be addressed by our work through partnerships and programming, and seek support for participation in TDWG events
 - Encourage more students and early career professionals to become involved in the work of developing and maintaining data standards and participating in conference activities
 - Identify, mentor and promote a diverse leadership pool by providing opportunities to become involved in committees, interest and task groups, outreach, and organization of conference events.
