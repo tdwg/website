@@ -117,7 +117,7 @@ This task group will review Darwin Core terms related to physical objects<sup>1<
 
 ### TDWG Documentation
  - TDWG Vocabulary Maintenance Specification (VMS): [https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md)
- [https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md](- TDWG Standards Documentation Standard (SDS): https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md)
+  - TDWG Standards Documentation Standard (SDS): [https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md](https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md)
  - Material Sample Core definition:  [https://tools.gbif.org/dwca-validator/extension.do?id=dwc:MaterialSample](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:MaterialSample).
 
 ### Other resources and references:
