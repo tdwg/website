@@ -31,7 +31,7 @@ The diagram below splits editorial duties into two parts that should ultimately 
 
 - Suggest changes using ARPHA's [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) and [Comment](https://arpha.pensoft.net/tips/Comments) features. Only obvious spelling errors are exceptions to this rule.
 - Use FLAGS (see below) to mark editing progress 
-- Use the following buttons: _Send Feedback; Validate_. ![ARPHA Editing Flowchart](https://static.tdwg.org/conferences/2021/images/arpha-editing-flowchart.png "ARPHA Editing Flowchart")
+- Use the following buttons: _Send Feedback; Validate_. ![ARPHA Editing Flowchart](https://static.tdwg.org/conferences/2022/images/arpha-editing-flowchart.png "ARPHA Editing Flowchart")
 
 ### Abstract status
 
