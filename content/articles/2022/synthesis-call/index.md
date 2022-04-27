@@ -2,9 +2,9 @@
 title: Transnational Access call for SYNTHESYS+
 slug: synthesis+-call
 date: 2022-04-27
-cover_image: https://www.synthesys.info/content/dam/nhm-synthesys/access_lead_image_wider.png
-cover_image_by: synthesis+ project
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
+cover_image_by: Michael D Beckwith
+cover_image_ref: https://unsplash.com/photos/937gZaUJCos
 tags: 
 status: published
 ---
