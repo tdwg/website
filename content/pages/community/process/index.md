@@ -53,10 +53,10 @@ Issues that are likely to be addressed within this work include:
 
 Name | Affiliation
 --- | ---
-[Stan Blum](mailto:sblum@calcademy.org) | 
+[Stan Blum](mailto:stanblum@gmail.com) | 
 [Lee belbin](mailto:lee@tdwg.org) | 
-[John Wieczorek](mailto:tuco@berkeley.edu) | 
-[Mark Jackson](mailto:m.jackson@rbgkew.org.uk) | 
+[John Wieczorek](mailto:gtuco.btuco@gmail.com) | 
+
 
 ## Clients
 
@@ -94,8 +94,3 @@ The work process will include the following steps
 4. Summarize and incorporate comments
 5. Submit New TDWG Process to TDWG membership for approval
 
-## Resources
-
-* Web: <http://www.tdwg.gbif.org/subgroups/process/>
-* Wiki: <http://wiki.tdwg.org/twiki/bin/view/Process/WebHome>
-* Mail List: <http://lists.tdwg.org/mailman/listinfo/tdwg-process>
