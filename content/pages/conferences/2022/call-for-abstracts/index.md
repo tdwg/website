@@ -27,7 +27,7 @@ The theme for TDWG 2022 is _**Stronger Together: Standards for linking biodivers
  * When you are ready to start your abstract, follow the [Instructions for Authors for Abstract Submission](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/) - **deadline 1 July 2022**
  * See where abstracts will be published in [TDWG 2022 Proceedings](https://biss.pensoft.net/collections/) and view past in [collections in BISS](https://biss.pensoft.net/collections/) (check out the media tab in individual abstracts for added content such as links to slides and video)
  * Want to know more about how your abstract will be edited? See [Instructions for Editors](https://www.tdwg.org/conferences/2022/instructions-for-editors/)
- * See more about [presentations & timing](https://www.tdwg.org/conferences/2022/presentation-info/)
+[//] # * See more about [presentations & timing](https://www.tdwg.org/conferences/2022/presentation-info/)
  * By participating in TDWG 2022, you agree to abide by our [Code of Conduct](https://www.tdwg.org/about/code-of-conduct/) and [Terms of Use](https://www.tdwg.org/about/terms-of-use/)
  * Please send additional questions to: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
 
