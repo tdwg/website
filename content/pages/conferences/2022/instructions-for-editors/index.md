@@ -6,12 +6,11 @@ cover_image_by: Erol Ahmed
 cover_image_ref: https://unsplash.com/photos/aIYFR0vbADk
 tags: conference
 page_order: 70
-status: hidden
 ---
 
 # Instructions for Editors 
 
-_Last updated 19 April 2022_
+_Last updated 6 May 2022_
 
 ## Introduction
 
@@ -73,6 +72,8 @@ If the abstract is not a good fit for your collection, but you think it might be
 ### Language
 
 **English**...British or American or Canadian or ? - the style and spelling should be consistent (e.g., organisation OR organization NOT both) and above all comprehensible (no unexplained slang or jargon) by readers. If in doubt, ask for a second opinion at [editor@tdwg.org](mailto:editor@tdwg.org). 
+
+**Need another opinion?** Sometimes editors have a conflict of interest or no one has the expertise to do a proper review of an abstract. You can [invite contributors](https://arpha.pensoft.net/tips/Invite-contributors) who will not appear in the text of the abstract when it is published. 
 
 ### Content
 
