@@ -5,8 +5,10 @@ cover_image: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Stu
 cover_image_by: Paul Talbot
 cover_image_ref: https://unsplash.com/photos/pQDBGxtiDEo
 tags: conference
-page_order: 25
+page_order: 5
 ---
+
+_last updated 6 May 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
