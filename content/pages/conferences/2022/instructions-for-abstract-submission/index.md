@@ -5,8 +5,8 @@ cover_image: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=M
 cover_image_by: Dave Hoefler
 cover_image_ref: https://unsplash.com/photos/DVauUHIJby0
 tags: conference
-status: hidden
-page_order: 11
+status: published
+page_order: 8
 ---
 
 # Instructions for Abstract Submission
@@ -29,7 +29,7 @@ Abstracts should be written in English for a general audience, providing context
 
 You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft. Outside contributors (not listed as authors), such as linguistic editors, may be given access to your abstract (see "need help" [below](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#abstract))
 
-After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [vision and mission](https://tdwg.org).
+After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [purpose](https://tdwg.org).
 
 Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid. 
 
@@ -69,12 +69,12 @@ Access all but Collection from the list at the left by hovering over a category,
 
 ## Collection (Session)
 
-Each Collection (in ARPHA) represents an [organized session] (UPDATE LINK) accepted for TDWG 2022, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Poster.
+Each Collection (in ARPHA) represents an [organized session](https://tdwg.org/conferences/2022/session-list/) accepted for TDWG 2022, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Virtual Poster.
 
-Click “Collections” on the top navigation bar of your manuscript** (top right of figure below). <br /> <br />
-![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon") <br /> <br />
-Choose the most appropriate collection for your abstract. Designating a Collection is critical, as your abstract cannot be directed to the proper editors without this assignment. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections). <br /> <br />
-![Collections List](https://static.tdwg.org/conferences/2022/images/tdwg2022-biss-collections.png "Collections List") <br /> (UPDATE IMAGE with URL) <br />
+**Click “Collections” on the top navigation bar of your manuscript** (top right of figure below) for a drop-down list of sessions. Choose the most appropriate collection for your abstract. Designating a Collection is critical, as your abstract cannot be directed to the proper editors without this assignment. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections).  <br />
+
+![Collections Banner Icon](https://static.tdwg.org/conferences/2020/instructions/2_CollectionsBannerIcon.png "Collections Banner Icon")
+
 
 
 ## Title
@@ -204,7 +204,7 @@ See the 2021 Pensoft blog post, [_Not Your Typical Conference Abstract #TDWG2021
 
 ### I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?
 
-Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to "How do I know the status of my abstract") and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](UPDATE LINK) so they can prioritize providing you feedback, or email [editor@tdwg.org](mailto:editor@tdwg.org).
+Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to "How do I know the status of my abstract") and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](https://www.tdwg.org/conferences/2022/session-list/) so they can prioritize providing you feedback, or email [editor@tdwg.org](mailto:editor@tdwg.org).
 
 ### Where do I enter the state or province under address as an author?
 
