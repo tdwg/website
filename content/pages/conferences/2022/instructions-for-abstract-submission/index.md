@@ -6,12 +6,12 @@ cover_image_by: Dave Hoefler
 cover_image_ref: https://unsplash.com/photos/DVauUHIJby0
 tags: conference
 status: hidden
-page_order: 65
+page_order: 11
 ---
 
 # Instructions for Abstract Submission
 
-_Last updated 13 April 2022_
+_Last updated 7 May 2022_
 
 ## Getting Started
 
@@ -27,11 +27,11 @@ Abstracts should be written in English for a general audience, providing context
 
 ### Process Overview
 
-You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft.
+You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft. Outside contributors (not listed as authors), such as linguistic editors, may be given access to your abstract (see "need help" [below](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#abstract))
 
-After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [vision and mission] (INSERT URL).
+After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [vision and mission](https://tdwg.org).
 
-Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid.
+Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid. 
 
 ### Email communications
 Email communications within ARPHA are limited. Only the submitting author will receive notifications from the editors. Messages sent within ARPHA to editors go through Pensoft first.
@@ -51,9 +51,11 @@ As the person submitting the abstract, you should register or log in to [https:/
 
 After logging in, the button “Start TDWG 2022 Conference Abstract” should be visible on the [BISS homepage](https://biss.pensoft.net). Clicking this button takes you to the ARPHA writing tool and creates a _new_ Untitled abstract with some of the author metadata you used to create your account. _This is the easiest way to start a NEW abstract._ 
 
-While you can now leave your abstract draft here (it will have been assigned an ARPHA identifier, with you as submitter), you are encouraged to start filling out its [required fields](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#required%20fields). Later, when you return to work on your abstract, follow access instructions [here](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#to%20return%20to%20an%20existing%20abstract).
+While you can now leave your abstract draft here (it will have been assigned an ARPHA identifier, with you as submitter), you are encouraged to start filling out its [required fields](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#required%20fields). Later, when you return to work on your abstract, follow access instructions [here](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#to%20return%20to%20an%20existing%20abstract). 
 
 Look for an email verification of the creation of your draft abstract in ARPHA (from awt[at]pensoft[dot]net).
+
+**Do not create more than one draft for an abstract that you intend to submit.** To make it easier to see your drafts, Pensoft has added a "My drafts" button (only appears if you _have existing drafts_) on your BISS dashboard, next to "My tasks" and "Submit manuscript" buttons when you sign in through [BISS](https://biss.pensoft.net).
 
 ## To return to an EXISTING abstract
 
@@ -122,6 +124,8 @@ Make sure this is filled in with "TDWG 2022" (without quotes; no more, no less)
 
 **Hyperlinks.** Consider [embedding hyperlinks](https://arpha.pensoft.net/tips/Insert-Hyperlinks) (URLs) to institutions and concepts that will help readers to appreciate more fully the topic you are presenting. This can be especially helpful for jargon. Be mindful of persistence (not having future users find broken links) and irrelevant advertising if you choose to do this.
 
+**Need help** with linguistics or other opinions about your abstract by non-authors? You may [invite contributors](https://arpha.pensoft.net/tips/Invite-contributors) to _Edit & comment_ or _Comment only_ within the manuscript. You may also email [editor@tdwg.org](mailto:editor@tdwg.org) for help.
+
 
 ## Keywords
 
@@ -135,7 +139,7 @@ Only capitalize proper nouns; do not capitalize the first keyword unnecessarily.
 
 You may add [references](https://arpha.pensoft.net/tips/References), [figures](https://arpha.pensoft.net/tips/Figures), [tables](https://arpha.pensoft.net/tips/Tables) and upload [supplementary materials](https://arpha.pensoft.net/tips/Supplementary-files) associated with the abstract. None of these are required. Create these resources first from the end of the left menu, [before linking them to the appropriate text](https://arpha.pensoft.net/tips/Cite-references) in your abstract.
 
-Any figures, images, or media used in abstracts or presentations must be [credited with their copyright status](https://www.tdwg.org/about/terms-of-use/copyright-infringement/#a%20general%20recommendation%20to%20presenters). See TDWG's [Terms of Use](https://www.tdwg.org/about/terms-of-use/).
+Any figures, images, or media used in abstracts or presentations must be [credited with their copyright status](https://www.tdwg.org/about/terms-of-use/copyright-infringement/#a%20general%20recommendation%20to%20presenters), _even if they are your own_. See TDWG's [Terms of Use](https://www.tdwg.org/about/terms-of-use/).
 
 ## Submit for Technical Review
 
@@ -240,4 +244,4 @@ Otherwise, communicate with the help desk (use the feedback icon located in the 
 
 ### Where will I find published abstracts?
 
-See [published abstract collections](https://biss.pensoft.net/collections) or find [_TDWG Proceedings 2022_] (UPDATE LINK). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
+See [published abstract collections](https://biss.pensoft.net/collections) to find _TDWG Proceedings 2022_. Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
