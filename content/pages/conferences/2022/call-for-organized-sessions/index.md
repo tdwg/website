@@ -5,7 +5,7 @@ cover_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
 cover_image_by: Ivan Nedelchev 
 cover_image_ref: https://unsplash.com/photos/OENyTAi9dg0 
 tags: conference
-page_order: 1
+page_order: 80
 status: published
 ---
 
@@ -15,7 +15,7 @@ status: published
 
 **Stronger together - in person or online!  #tdwg2022**
 
-_Last updated 11 April 2022_
+_Last updated 6 May 2022_
 
 ---
 
@@ -33,7 +33,7 @@ We invite you to [submit a proposal](https://www.surveymonkey.com/r/CYK8HPR) for
 
 Please note, priority will be given to proposals that address the conference theme. If your proposal is accepted, your session title and description will be posted (subject to editing for clarity and length) on the TDWG 2022 conference website.
 
-Submission (hard) deadline:  **15 April 2022**
+Submission (hard) deadline:  **15 April 2022, now closed. See [list of sessions for 2022](https://www.tdwg.org/conferences/2022/session-list/)** 
 
 Please contact the [conference organizers](mailto:conf-organizers@tdwg.org) with any questions.
 
