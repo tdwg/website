@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 6 April 2022_
+_Last updated 7 May 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -28,7 +28,9 @@ Although the pandemic appears to be waning in many countries, we expect that man
 
 ## Deadlines
 
-[Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022**
+Call for Abstract Submission - **Announcement coming soon! Deadline will be 1 July 2022**
+
+[Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
 
 ## Registration
 
@@ -36,9 +38,9 @@ Registration cost will depend on in-person or virtual participation. As in past 
 
 ## Abstracts
 
-Abstracts are required for all contributions (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/293/). Presenters are required to complete registration before abstracts can be published.
+Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collections). Presenters are required to complete conference registration before abstracts can be published.
 
-The call for abstracts will be distributed after organized sessions have been announced (likely early May).  Please see the [Call for Organized Sessions](./call-for-organized-sessions/).
+The call for abstracts will be distributed in the second week in May with a deadline of 1 July.  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted.
 
 ## Hosts and in-person logistics
 
@@ -53,6 +55,8 @@ who cordially invite you to experience Sofia in-person and virtually.
 Information about hotels and in-person events will be available soon.
 
 ## Schedule
+
+The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. 
  
 ## Working Sessions
 
@@ -82,6 +86,8 @@ By participating in TDWG 2022, you agree to abide by our [Code of Conduct](https
 Please send questions to [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
 
 ## Additional Information
+
+**Tweet #tdwg2022**
 
 ---
 
