@@ -5,7 +5,7 @@ cover_image: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=M
 cover_image_by: Dave Hoefler
 cover_image_ref: https://unsplash.com/photos/DVauUHIJby0
 tags: conference
-status: published
+status: hidden
 page_order: 8
 ---
 
