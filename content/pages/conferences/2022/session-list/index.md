@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 6 May 2022_
+_last updated 8 May 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -100,7 +100,7 @@ The Asian continent is a biodiversity-rich region with a lot of human population
 
 **Session Type:** Workshop 
 
-**Session Organizers:** Jutta Buschbom, Statistical Genetics, Ahrensburg, Germany, [jutta.buschbom@statistical-genetics.de](mailto:jutta.buschbom@statistical-genetics.de)
+**Session Organizers:** Jutta Buschbom, Statistical Genetics, Ahrensburg, Germany, [jutta.buschbom@statistical-genetics.de](mailto:jutta.buschbom@statistical-genetics.de); and Laurence Bénichou, Muséum national d'Histoire naturelle, Paris, France, [laurence.benichou@mnhn.fr](mailto:laurence.benichou@mnhn.fr) 
 
 A key question for biodiversity research and applied conservation, which both rely on large, dynamic and multifaceted biodiversity datasets, is how to free biodiversity data to be able to reuse them. The goal of the workshop is to arrive at a better overview of legal rules governing data publication, and empower participants to use appropriate licenses and language that will allow data to be reused. Currently, most small publishers express concerns related to copyright and are uncertain if they are allowed to share data contained within a published paper without a clear statement from the author. Similarly, many authors are also unaware of whether or not they retain copyright on their text and data in publications. Moreover, rights and obligations associated with data presented by digital infrastructures often are not clearly stated. On the basis of initial impulse statements providing background information and distinct perspectives on the topic, the main part of the session will be an interactive exchange among participants and invited legal experts. The outcomes of the workshop will contribute to the development of guidelines for the community. The workshop is jointly organized by members of the Biodiversity Heritage Library, the Consortium of European Taxonomic Facilities (CETAF) e-Publishing working group and the Society for the Preservation of Natural History Collections (SPNHC).
 
