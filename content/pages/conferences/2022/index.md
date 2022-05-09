@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 7 May 2022_
+_Last updated 9 May 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -28,19 +28,31 @@ Although the pandemic appears to be waning in many countries, we expect that man
 
 ## Deadlines
 
+[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 15 July 2022**
+
 Call for Abstract Submission - **Announcement coming soon! Deadline will be 1 July 2022**
 
 [Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
 
 ## Registration
 
-Registration cost will depend on in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs, and participants from developing nations. If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier. Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202022_1) enjoy a discounted regular registration. Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or update your membership before registering for TDWG 2022. Rates to be announced soon.
+**Early Registration is now open!**
+
+<b><a href="https://events.pensoft.net/events/tdwg-2022-hybrid-conference" target="_blank" class="btn btn-secondary">Register for TDWG 2022</a></b>
+
+Registration costs differ for in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs or early career researchers, and participants from low/low-middle income nations. You can even donate funds to support registration of those in need.  Check out the link above for full details. When you are ready, use the button there to complete your registration.
+
+Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202022_1) enjoy a discounted normal registration.  Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or update your membership before registering for TDWG 2022. All current members (or the primary contact for institutional members) should have received an email (in early May) with discount codes. Members should know their code before registering.
+
+If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier.  
 
 ## Abstracts
 
 Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collections). Presenters are required to complete conference registration before abstracts can be published.
 
 The call for abstracts will be distributed in the second week in May with a deadline of 1 July.  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted.
+
+**Notification of provisional acceptance of abstracts** should be available to all authors on or before the 15 July (end of [early registration](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)).
 
 ## Hosts and in-person logistics
 
