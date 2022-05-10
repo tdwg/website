@@ -5,13 +5,13 @@ cover_image: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=M
 cover_image_by: Dave Hoefler
 cover_image_ref: https://unsplash.com/photos/DVauUHIJby0
 tags: conference
-status: hidden
+status: published
 page_order: 8
 ---
 
 # Instructions for Abstract Submission
 
-_Last updated 7 May 2022_
+_Last updated 10 May 2022_
 
 ## Getting Started
 
@@ -29,9 +29,9 @@ Abstracts should be written in English for a general audience, providing context
 
 You will be writing your abstract in Pensoft's ARPHA online publishing platform. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft. Outside contributors (not listed as authors), such as linguistic editors, may be given access to your abstract (see "need help" [below](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#abstract))
 
-After submitting your abstract for review, it will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [purpose](https://tdwg.org).
+After submitting your abstract for review, it will be assessed for suitablility for the conference and provisionally flagged **by 15 July** as _Accepted with revisions_ on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) (for you to take advantage of the [early registration deadline](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)). Your abstract will be edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader but to help improve your presentation. Submissions will also be assessed for suitability for TDWG's conference theme _Stronger Together: Standards for linking biodiversity data_ and [purpose](https://tdwg.org).
 
-Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid. 
+Abstracts will be published [here](https://biss.pensoft.net/collection/384/) with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid. 
 
 ### Email communications
 Email communications within ARPHA are limited. Only the submitting author will receive notifications from the editors. Messages sent within ARPHA to editors go through Pensoft first.
@@ -143,15 +143,23 @@ Any figures, images, or media used in abstracts or presentations must be [credit
 
 ## Submit for Technical Review
 
-Please **proofread** your submission carefully: double check spelling, make sure that all acronyms and abbreviations have been expanded at first use, and verify that all authors agree with content provided. 
+Please **proofread** your submission carefully: 
+
+ * double check spelling, 
+ * make sure that all acronyms and abbreviations have been expanded at first use
+ * references to published work are properly added
+ * credit all images with licensing information (see [Terms of Use](https://www.tdwg.org/about/terms-of-use/), and
+ * verify that all authors agree with content provided. 
 
 Click the **Validate** button to check that you have no outstanding omissions (ensures that mandatory fields are filled in, you have not exceeded the character limit, and the abstract is assigned to a collection) or errors flagged by the system (unresolved track changes or comments).  
 
-The submitting author should see the **Submit for Technical Review:** button (below the **Validate** button). Clicking this button sends your abstract to the editors for consideration as part of TDWG 2022. **This step must be completed by the deadline.**
+The submitting author should see the **Submit for Technical Review:** button (below the **Validate** button). Clicking this button sends your abstract to the editors for consideration as part of TDWG 2022. **This step must be completed by the deadline of 1 July.**
 
 You should receive an auto-generated confirmation email (be sure to find this in your email). 
 
-On your ARPHA dashboard, the status of the manuscript will change to _in pre-submission review_ and will be in read-only mode for authors.
+On your ARPHA dashboard, the status of the manuscript will change to **_in pre-submission review_** and will be in read-only mode for authors.
+
+**Within 15 days of submission,** your abstract should have been _at a minimum_ reviewed for suitability for the conference and flagged on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) with _Accepted with revisions_ (unless it is rejected as unsuitable). This does not guarantee that your presentation will remain in the collection to which you have submitted it, but it does signify that your work will have a spot in the conference program.
 
 While your abstract is in pre-submission review, you may see the work of various technical editors suggesting changes to be made, making comments on your abstract, or flagging editorial status (in your dashboard) but you will only be able to _view, not edit_ your submission yet. Wait until you receive official notice that feedback has been requested—do not ask technical editors to make changes.
 
@@ -244,4 +252,4 @@ Otherwise, communicate with the help desk (use the feedback icon located in the 
 
 ### Where will I find published abstracts?
 
-See [published abstract collections](https://biss.pensoft.net/collections) to find _TDWG Proceedings 2022_. Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
+See [published abstract collections](https://biss.pensoft.net/collections) or find [_TDWG Proceedings 2022_](https://biss.pensoft.net/collection/384/). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _[Biodiversity Information Science and Standards](https://pensoft.net/) (BISS)_ after signing in.
