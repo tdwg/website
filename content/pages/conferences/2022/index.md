@@ -30,7 +30,7 @@ Although the pandemic appears to be waning in many countries, we expect that man
 
 [Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 15 July 2022**
 
-Call for Abstract Submission - **Announcement coming soon! Deadline will be 1 July 2022**
+[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline 1 July 2022**
 
 [Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
 
@@ -48,11 +48,11 @@ If the cost of registration is a barrier to your participation in this conferenc
 
 ## Abstracts
 
-Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collections). Presenters are required to complete conference registration before abstracts can be published.
+Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Presenters are required to complete conference registration before abstracts can be published.
 
-The call for abstracts will be distributed in the second week in May with a deadline of 1 July.  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted.
+**The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) is out with a deadline of 1 July.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted.
 
-**Notification of provisional acceptance of abstracts** should be available to all authors on or before the 15 July (end of [early registration](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)).
+**Notification of provisional acceptance of abstracts** should be available to all authors within 15 days of submission or before 15 July (end of [early registration](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)).
 
 ## Hosts and in-person logistics
 
