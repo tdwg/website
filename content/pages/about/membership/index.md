@@ -75,6 +75,7 @@ Invoices for membership dues can be paid:
 | [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/) |  Saint Louis |  
 | [Museu de Ciències Naturals de Barcelona](https://museuciencies.cat/en/) |  Barcelona |  
 | [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en) |  Berlin |  
+| [Museum Victoria](https://museumsvictoria.com.au/)  | Melbourne
 | [National Museum / Národní muzeum](https://www.nm.cz/en) |  Prague |  
 | [National Museums Scotland](https://www.nms.ac.uk/) |  Edinburgh |  
 | [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) |  Canberra |  
