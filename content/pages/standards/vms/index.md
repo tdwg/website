@@ -55,7 +55,7 @@ Documents:
 **Contributors:** <br/>
 Steve Baskauf (lead author) - TDWG Vocabulary Maintenance Specification Task Group <br/>
 John Wieczorek (author) - TDWG Darwin Core Task Group <br/>
-Stanley Blum (author) - TDWG Process Interest Group <br/>
+Stan Blum (author) - TDWG Process Interest Group <br/>
 Robert A. Morris (author) - UMASS-Boston, TDWG Imaging Interest Group <br/>
 Jonathan Rees (author) - Duke University <br/>
 Joel Sachs (author) - TDWG RDF Task Group <br/>

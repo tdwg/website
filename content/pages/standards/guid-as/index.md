@@ -56,7 +56,7 @@ Ben Richardson (review manager) - Department of Environment and Conservation, We
 **Created:** 2009-09-03 <br/>
 **Last modified:** 2009-09-03 <br/>
 **Contributors:** <br/>
-Ricardo Scachetti-Pereira (author) - TDWG Infrastructure Project <br/>
+Ricardo Pereira (author) - TDWG Infrastructure Project <br/>
 Kevin Richards (author) - Landcare Research <br/>
 Donald Hobern (author) - Global Biodiversity Information Facility <br/>
 Roger Hyam (author) - TDWG Infrastructure Project <br/>

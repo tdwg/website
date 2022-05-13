@@ -47,8 +47,8 @@ Documents:
 **Created:** 2005-09-13 <br/>
 **Last modified:** 2005-09-13 <br/>
 **Contributors:** <br/>
-Michael J. Dallwitz (author) <br/>
-Toni Anne Paine (author) <br/>
+M. J. (Michael J.) Dallwitz (author) <br/>
+T. A. (Toni Anne) Paine (author) <br/>
 **Publisher:** Commonwealth Scientific and Industrial Research Organisation (CSIRO) <br/>
 **Abstract:** This document is primarily for the benefit of programmers, and contains more detail than would usually be required by users of the DELTA format. It provides an introduction to the format, and details necessary to encode data in the format. <br/>
 **Note:** See http://delta-intkey.com/www/overview.htm for an overview and http://delta-intkey.com/www/use.htm for conditions of use. <br/>
