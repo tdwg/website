@@ -60,23 +60,24 @@ Documents:
 **Title:** Audubon Core Term List <br/>
 **Permanent IRI:** [http://rs.tdwg.org/ac/doc/termlist/](https://tdwg.github.io/ac/termlist/) <br/>
 **Created:** 2013-10-23 <br/>
-**Last modified:** 2021-02-01 <br/>
+**Last modified:** 2021-10-05 <br/>
 **Contributors:** <br/>
 Robert A. Morris (lead author) - University of Massachusetts at Boston, USA <br/>
+Gregor Hagedorn (author) - JKI, Federal Research Institute for Cultivated Plants, Berlin, Germany <br/>
+Annette Olson (author) - American Association for the Advancement of Science <br/>
+Steve Baskauf (author) - Audubon Core Maintenance Group <br/>
 Vijay Barve (author) <br/>
 Mihail Carausu (author) - Danish Biodiversity Information Facility (DanBIF), Copenhagen, Denmark <br/>
 Vishwas Chavan (author) - Global Biodiversity Information Facility, Copenhagen, Denmark <br/>
 José Cuadra (author) <br/>
 Chris Freeland (author) - Missouri Botanical Garden, St. Louis, USA <br/>
-Gregor Hagedorn (author) - JKI, Federal Research Institute for Cultivated Plants, Berlin, Germany <br/>
 Patrick Leary (author) <br/>
 Dimitry Mozzherin (author) - Encyclopedia of Life, Woods Hole, USA <br/>
-Annette Olson (author) - American Association for the Advancement of Science <br/>
 Greg Riccardi (author) - Florida State University, Tallahassee, USA <br/>
 Ivan Teage (author) <br/>
-Steve Baskauf (author) - Audubon Core Maintenance Group <br/>
 Dan Stowell (author) - Queen Mary University of London <br/>
 Edward Baker (author) - Natural History Museum, London <br/>
+Richard Pyle (author) - Bishop Museum, Honolulu, HI, USA <br/>
 Steve Baskauf (review manager) - Vanderbilt University, Nashville, TN, USA <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
 **Abstract:** The Audubon Core is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections. It aims to represent information that will help to determine whether a particular resource or collection will be fit for some particular biodiversity science application before acquiring the media. Among others, the vocabularies address such concerns as the management of the media and collections, descriptions of their content, their taxonomic, geographic, and temporal coverage, and the appropriate ways to retrieve, attribute and reproduce them. This document contains a list of attributes of each Audubon Core term, including a documentation name, a specified URI, a recommended English label for user interfaces, a definition, and some ancillary notes. The version shown here was adopted by Biodiversity Information Standards / TDWG at the general meeting in October 2013 and updated in 2021. This document contains normative content that may not be changed without due process. <br/>
@@ -85,7 +86,7 @@ Steve Baskauf (review manager) - Vanderbilt University, Nashville, TN, USA <br/>
 **Title:** Audubon Core Structure <br/>
 **Permanent IRI:** [http://rs.tdwg.org/ac/doc/structure/](https://tdwg.github.io/ac/structure/) <br/>
 **Created:** 2013-10-23 <br/>
-**Last modified:** 2020-01-27 <br/>
+**Last modified:** 2021-10-05 <br/>
 **Contributors:** <br/>
 Robert A. Morris (lead author) - University of Massachusetts at Boston, USA <br/>
 Vijay Barve (author) <br/>
@@ -99,6 +100,7 @@ Dimitry Mozzherin (author) - Encyclopedia of Life, Woods Hole, USA <br/>
 Annette Olson (author) - American Association for the Advancement of Science <br/>
 Greg Riccardi (author) - Florida State University, Tallahassee, USA <br/>
 Ivan Teage (author) <br/>
+Steve Baskauf (author) - Vanderbilt University, Nashville, TN, USA <br/>
 Steve Baskauf (review manager) - Vanderbilt University, Nashville, TN, USA <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
 **Abstract:** The Audubon Core is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections. These vocabularies aim to represent information that will help to determine whether a particular resource or collection will be fit for some particular biodiversity science application before acquiring the media. Among others, the vocabularies address such concerns as the management of the media and collections, descriptions of their content, their taxonomic, geographic, and temporal coverage, and the appropriate ways to retrieve, attribute and reproduce them. This document contains material introductory to the Audubon Core Term List. <br/>
@@ -131,15 +133,18 @@ Steve Baskauf (review manager) - Vanderbilt University, Nashville, TN, USA <br/>
 **Created:** 2013-10-15 <br/>
 **Last modified:** 2013-10-15 <br/>
 **Contributors:** <br/>
+Robert A. Morris (lead author) - University of Massachusetts at Boston, USA <br/>
+Vijay Barve (author) <br/>
 Mihail Carausu (author) - Danish Biodiversity Information Facility (DanBIF), Copenhagen, Denmark <br/>
 Vishwas Chavan (author) - Global Biodiversity Information Facility, Copenhagen, Denmark <br/>
+José Cuadra (author) <br/>
 Chris Freeland (author) - Missouri Botanical Garden, St. Louis, USA <br/>
 Gregor Hagedorn (author) - JKI, Federal Research Institute for Cultivated Plants, Berlin, Germany <br/>
-Robert A. Morris (lead author) - University of Massachusetts at Boston, USA <br/>
+Patrick Leary (author) <br/>
 Dimitry Mozzherin (author) - Encyclopedia of Life, Woods Hole, USA <br/>
 Annette Olson (author) - American Association for the Advancement of Science <br/>
 Greg Riccardi (author) - Florida State University, Tallahassee, USA <br/>
-Éamonn Ó Tuama (author) - Global Biodiversity Information Facility, Copenhagen, Denmark <br/>
+Ivan Teage (author) <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
 **Abstract:** The Audubon Core is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections. This non-normative document provides some background to the aims and uses of the standard. <br/>
 **Citation:** Multimedia Resources Task Group. 2013. Audubon Core Guide. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/ac/doc/guide/
@@ -172,8 +177,8 @@ Steven J Baskauf (lead author) - Vanderbilt University Heard Libraries <br/>
 **Last modified:** 2020-10-13 <br/>
 **Contributors:** <br/>
 Steven J Baskauf (lead author) - Vanderbilt University Heard Libraries <br/>
+Ed Baker (contributor) - Natural History Museum, London <br/>
 Dan Stowell (contributor) - Queen Mary University of London <br/>
-Edward Baker (contributor) - Natural History Museum, London <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
 **Abstract:** Audubon Core uses the terms ac:variant and ac:variantLiteral to provide information about the size, extent, and availability of the Service Access Point of a media item. This controlled vocabulary provides values for those terms. <br/>
 **Citation:** Audubon Core Maintenance Group. 2020. Controlled Vocabulary for Audubon Core variant: List of Terms. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/ac/doc/variant/2020-10-13

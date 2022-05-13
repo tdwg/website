@@ -48,8 +48,8 @@ Documents:
 **Created:** 2006-09-21 <br/>
 **Last modified:** 2006-09-21 <br/>
 **Contributors:** <br/>
-Jessie Kennedy (author) - Napier University  <br/>
 Roger Hyam (author) - TDWG Infrastructure Project <br/>
+Jessie Kennedy (editor) - Napier University  <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
 **Abstract:** This guide is meant to act as a readable introduction to the Taxon Concept Schema (TCS). It is aimed at both decision makers and implementers of systems and so the content varies from being of a general nature, assuming little prior knowledge of taxonomy or XML technologies, to being quite detailed concerning the technicalities of biological nomenclature and XML schemas. Generally it becomes more specific as it goes on. This document is not a step by step manual for mapping a data source to a TCS document. Each data source is likely to be different in structure and so this is not a feasible exercise. What it attempts to do is provided the information needed for an implementer to make intelligent decisions as to how their data source should be mapped to the schema so that they can publish and/or receive data from other systems with as little confusion as possible.  <br/>
 **Citation:** Taxonomic Names Subgroup. 2006. Taxon Concept Schema User Guide. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/tcs/doc/guide/

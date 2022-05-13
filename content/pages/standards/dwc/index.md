@@ -110,13 +110,14 @@ Mark Schildhauer  (author) - National Center for Ecological Analysis and Synthes
 **Title:** Darwin Core Text Guide <br/>
 **Permanent IRI:** [http://rs.tdwg.org/dwc/terms/guides/text/](https://dwc.tdwg.org/text/) <br/>
 **Created:** 2014-11-08 <br/>
-**Last modified:** 2014-11-08 <br/>
+**Last modified:** 2021-07-15 <br/>
 **Contributors:** <br/>
 Tim Robertson (lead author) - Global Biodiversity Information Facility <br/>
 Markus Döring (author) - Global Biodiversity Information Facility <br/>
-John Wieczorek (author) - TDWG Darwin Core Task Group <br/>
+John Wieczorek (author) - Darwin Core Maintenance Group <br/>
 Renato De Giovanni (author) - Centro de Referência em Informação Ambiental <br/>
 Dave Vieglais (author) - KU Natural History Museum <br/>
+Steve Baskauf (author) - Darwin Core Maintenance Group <br/>
 Gail E. Kampmeier (review manager) - University of Illinois at Urbana-Champaign <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
 **Abstract:** This document provides guidelines for implementing Darwin Core in Text files. <br/>
@@ -183,7 +184,7 @@ David Bloom (contributor) - VertNet <br/>
 Paula Zermoglio (contributor) - VertNet <br/>
 Robert Guralnick (contributor) - University of Florida <br/>
 John Deck (contributor) - Genomic Biodiversity Working Group <br/>
-Gail Kampmeier (review manager) - Illinois Natural History Survey <br/>
+Gail Kampmeier (contributor) - Illinois Natural History Survey <br/>
 Dave Vieglais (contributor) - KU Natural History Museum <br/>
 Renato De Giovanni (contributor) - Centro de Referência em Informação Ambiental <br/>
 Campbell Webb (contributor) - TDWG RDF/OWL Task Group <br/>
@@ -196,7 +197,7 @@ Mark Schildhauer (contributor) - National Center for Ecological Analysis and Syn
 **Title:** Degree of Establishment Controlled Vocabulary List of Terms <br/>
 **Permanent IRI:** [http://rs.tdwg.org/dwc/doc/doe/](https://dwc.tdwg.org/doe/) <br/>
 **Created:** 2020-10-13 <br/>
-**Last modified:** 2020-10-13 <br/>
+**Last modified:** 2021-09-01 <br/>
 **Contributors:** <br/>
 Quentin Groom (lead author) - Botanic Garden Meise <br/>
 Peter Desmet (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
@@ -204,7 +205,7 @@ Lien Reyserhove (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <b
 Tim Adriaens (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
 Damiano Oldoni (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
 Sonia Vanderhoeven (contributor) - Belgian Biodiversity Platform <br/>
-Steve Baskauf (contributor) - Vanderbilt University Libraries <br/>
+Steven J Baskauf (contributor) - Vanderbilt University Libraries <br/>
 Arthur Chapman (contributor) - Australian Biodiversity Information Services <br/>
 Melodie McGeoch (contributor) - McGeoch Research Group <br/>
 Ramona Walls (contributor) - University of Arizona <br/>
@@ -219,7 +220,7 @@ Annie Simpson (contributor) - U.S. Geological Survey <br/>
 **Title:** Establishment Means Controlled Vocabulary List of Terms <br/>
 **Permanent IRI:** [http://rs.tdwg.org/dwc/doc/em/](https://dwc.tdwg.org/em/) <br/>
 **Created:** 2020-10-13 <br/>
-**Last modified:** 2020-10-13 <br/>
+**Last modified:** 2021-09-01 <br/>
 **Contributors:** <br/>
 Quentin Groom (lead author) - Botanic Garden Meise <br/>
 Peter Desmet (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
@@ -227,7 +228,7 @@ Lien Reyserhove (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <b
 Tim Adriaens (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
 Damiano Oldoni (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
 Sonia Vanderhoeven (contributor) - Belgian Biodiversity Platform <br/>
-Steve Baskauf (contributor) - Vanderbilt University Libraries <br/>
+Steven J Baskauf (contributor) - Vanderbilt University Libraries <br/>
 Arthur Chapman (contributor) - Australian Biodiversity Information Services <br/>
 Melodie McGeoch (contributor) - McGeoch Research Group <br/>
 Ramona Walls (contributor) - University of Arizona <br/>
@@ -242,7 +243,7 @@ Annie Simpson (contributor) - U.S. Geological Survey <br/>
 **Title:** Pathway Controlled Vocabulary List of Terms <br/>
 **Permanent IRI:** [http://rs.tdwg.org/dwc/doc/pw/](https://dwc.tdwg.org/pw/) <br/>
 **Created:** 2020-10-13 <br/>
-**Last modified:** 2020-10-13 <br/>
+**Last modified:** 2021-09-01 <br/>
 **Contributors:** <br/>
 Quentin Groom (lead author) - Botanic Garden Meise <br/>
 Peter Desmet (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
@@ -250,7 +251,7 @@ Lien Reyserhove (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <b
 Tim Adriaens (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
 Damiano Oldoni (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO) <br/>
 Sonia Vanderhoeven (contributor) - Belgian Biodiversity Platform <br/>
-Steve Baskauf (contributor) - Vanderbilt University Libraries <br/>
+Steven J Baskauf (contributor) - Vanderbilt University Libraries <br/>
 Arthur Chapman (contributor) - Australian Biodiversity Information Services <br/>
 Melodie McGeoch (contributor) - McGeoch Research Group <br/>
 Ramona Walls (contributor) - University of Arizona <br/>
