@@ -24,23 +24,26 @@ More information available at [https://www.visitsofia.bg/en/](https://www.visits
 TDWG 2022 will be held at the **Grand Hotel Millennium Sofia**, a 5-star hotel located in the heart of the city and within walking distance of the vibrant city center, an area filled with iconic historical and cultural sights, vast green parks and numerous government institutions.
 
 Website: [https://grandhotelmillenniumsofia.bg/](https://grandhotelmillenniumsofia.bg/)
+
 Address: 89B, Vitosha Blvd, 1463 Sofia, Bulgaria
 
 ### Accommodations
 
-Special rates have been secured for delegates at the **Grand Hotel Millenium Sofia**
+Special rates* have been secured for delegates at the **Grand Hotel Millenium Sofia**
 
 Room type | Price per night (1 person) | Price per night (2 people)
 --- | --- | ---
-Exclusive room (B&B) | 100.67 € | 121.34 €
-Premium room (B&B) | 120.67 € | 141.34 €
+[Exclusive room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/exclusive-room/) (B&B) | 100.67 € | 121.34 €
+[Premium room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/premium-room/) (B&B) | 120.67 € | 141.34 €
+
+_*rates include VAT and tourist taxes_
 
 However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates. All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
 - **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
-- **[Hotel Downtown](https://hoteldowntownsofia.com/bg/)** (4 stars) 
+- **[Hotel Downtown](https://hoteldowntownsofia.com/)** (4 stars) 
 - **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars)
-- **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/)** (3 stars) 
+- **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/en)** (3 stars) 
 
 ## Getting to the Conference Venue
 
