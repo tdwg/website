@@ -9,7 +9,7 @@ page_order: 28
 status: hidden
 ---
 
-_last updated 21 May 2022_
+_last updated 22 May 2022_
 
 ## About Sofia
 
@@ -19,18 +19,54 @@ Sofia is no grand metropolis, but it's a modern, youthful city, with a scatterin
 
 More information available at [https://www.visitsofia.bg/en/](https://www.visitsofia.bg/en/)
 
+## Conference Venue
+
+TDWG 2022 will be held at the **Grand Hotel Millennium Sofia**, a 5-star hotel located in the heart of the city and within walking distance of the vibrant city center, an area filled with iconic historical and cultural sights, vast green parks and numerous government institutions.
+
+Website: [https://grandhotelmillenniumsofia.bg/](https://grandhotelmillenniumsofia.bg/)
+Address: 89B, Vitosha Blvd, 1463 Sofia, Bulgaria
+
+### Accommodations
+
+Special rates have been secured for delegates at the **Grand Hotel Millenium Sofia**
+
+Room type | Price per night (1 person) | Price per night (2 people)
+--- | --- | ---
+Exclusive room (B&B) | 100.67 € | 121.34 €
+Premium room (B&B) | 120.67 € | 141.34 €
+
+However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates. All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
+
+- **Rosslyn Central Park Hotel Sofia** (4 stars) - [https://www.centralparkhotel.bg/](https://www.centralparkhotel.bg/)
+- **Hotel Downtown** (4 stars) - [https://hoteldowntownsofia.com/bg/](https://hoteldowntownsofia.com/bg/) 
+- **Best Western Art Plaza Hotel** (3 stars) - [https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)
+- **Sofia Place Hotel by HMG** (3 stars) - [https://sofiaplacehotel.com/](https://sofiaplacehotel.com/) 
+
+## Getting to the Conference Venue
+
+- **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the high blue building of the hotel.
+- **From Central Railway station or the Central Bus Station**: You can get the metro from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
+- **By car**: You can access the Grand Hotel Millennium by car and there is parking available at a special rate for their guests.
+
 ## General Information
 
-- **Currency** - BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the euro at a rate of EUR/BGN 1.95583.
-- **Card payments** are accepted at most of the restaurants and supermarkets.
-- **Dinner options** - Any trip to Bulgaria would be incomplete without diving into our country’s unique food, folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
-  - Restaurant Moma - restaurant with traditional cuisine 
-  - Shtastlivetsa -  European and Bulgarian national cuisine
-  - Chevermeto - traditional folklore restaurant
-  - Hadjidraganov's Houses Restaurant - traditional folklore restaurant with traditional cuisine 
-  - Happy Bar & Grill - domestic chain of daily restaurants with traditional cuisine 
+### Money
 
-- **Handy phrases to know before visiting Bulgaria** - Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their face, learn a few words in Bulgarian
+BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the euro at a rate of EUR/BGN 1.95583. Card payments are accepted at most = restaurants and supermarkets as well as hotels.
+
+### Dinner options
+
+Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://en.wikipedia.org/wiki/Bulgarian_cuisine), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
+
+- **Restaurant Moma** - restaurant with traditional cuisine 
+- **Shtastlivetsa** -  European and Bulgarian national cuisine
+- **Chevermeto** - traditional folklore restaurant
+- **Hadjidraganov's Houses Restaurant** - traditional folklore restaurant with traditional cuisine 
+- **Happy Bar & Grill** - domestic chain of daily restaurants with traditional cuisine 
+
+### Handy phrases
+
+Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their faces, learn a few words in Bulgarian before leaving home.
 
   - **Dobar den!** (Добър ден!/Doh-bur dehn!)
 Meaning: “Hello!” in the local language is always a great start no matter where in the world you are.
@@ -59,8 +95,17 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 
 ## Galleries & Museums
 
-- National Art Gallery is the largest art museum in Bulgaria, with over 41,000 paintings, sculptures, graphics, decorative and contemporary artworks. 
-- National Museum of Natural History - Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History at the Bulgarian Academy of Sciences studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world.
-- National Museum of History - one of the largest and richest history museums on the Balkan Peninsula. More than 700,000 cultural monuments are preserved inside it, representing the history of the present Bulgarian lands from the period 8,000 years ago to the present day.
-- Earth and Man National Museum is a mineralogical museum in the centre of Sofia. It's one of the biggest mineralogical museums in the world.
-- Sofia History Museum is located in one of the most beautiful and emblematic buildings of the capital city – the former Central Mineral Bathhouse.
+- **National Art Gallery** is the largest art museum in Bulgaria, with over 41,000 paintings, sculptures, graphics, decorative and contemporary artworks. 
+- **National Museum of Natural History** - Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History at the Bulgarian Academy of Sciences studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world.
+- **National Museum of History** is one of the largest and richest history museums on the Balkan Peninsula. More than 700,000 cultural monuments are preserved inside it, representing the history of the present Bulgarian lands from the period 8,000 years ago to the present day.
+- **Earth and Man National Museum** is a mineralogical museum in the centre of Sofia. It's one of the biggest mineralogical museums in the world.
+- **Sofia History Museum** is located in one of the most beautiful and emblematic buildings of the capital city – the former Central Mineral Bathhouse.
+
+## Excursions
+
+See [detailed descriptions](https://drive.google.com/file/d/1dnSrZj3xv00IjWfsn8dX1bxmwFpXfLbU/view) of
+
+- The one-day trip from Sofia to the **Rila Monastery** is already included in the in-person registration fee
+- **Sofia city tour** - 3 hour walking tour
+- **2-day Southwest Bulgaria Nature & Culture tour** (Sofia – Melnik – Sandanski – Sofia)
+- **4-day South Bulgaria Nature & Culture** (Sofia - Plovdiv - Madzharovo - Bourgas – Sofia)
