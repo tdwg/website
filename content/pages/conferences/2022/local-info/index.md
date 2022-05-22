@@ -1,6 +1,6 @@
 ---
-title: TDWG 2022 - Sofia, Bulgaria 17–20 Oct
-summary: About Sofia, sightseeing, galleries & museums
+title: Attend TDWG 2022 In Person!
+summary: Find out about Sofia, the conference venue, accommodations, sightseeing, galleries & museums, and excursions
 cover_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
 cover_image_by: Ivan Nedelchev 
 cover_image_ref: https://unsplash.com/photos/OENyTAi9dg0
@@ -37,15 +37,15 @@ Premium room (B&B) | 120.67 € | 141.34 €
 
 However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates. All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
-- **Rosslyn Central Park Hotel Sofia** (4 stars) - [https://www.centralparkhotel.bg/](https://www.centralparkhotel.bg/)
-- **Hotel Downtown** (4 stars) - [https://hoteldowntownsofia.com/bg/](https://hoteldowntownsofia.com/bg/) 
-- **Best Western Art Plaza Hotel** (3 stars) - [https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)
-- **Sofia Place Hotel by HMG** (3 stars) - [https://sofiaplacehotel.com/](https://sofiaplacehotel.com/) 
+- **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
+- **[Hotel Downtown](https://hoteldowntownsofia.com/bg/)** (4 stars) 
+- **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars)
+- **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/)** (3 stars) 
 
 ## Getting to the Conference Venue
 
-- **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the high blue building of the hotel.
-- **From Central Railway station or the Central Bus Station**: You can get the metro from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
+- **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station, which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the tall blue building of the hotel.
+- **From Central Railway station or the Central Bus Station**: You can get the [metro](https://www.metrosofia.com/en/route) from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
 - **By car**: You can access the Grand Hotel Millennium by car and there is parking available at a special rate for their guests.
 
 ## General Information
