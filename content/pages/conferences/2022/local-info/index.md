@@ -22,14 +22,16 @@ More information available at [https://www.visitsofia.bg/en/](https://www.visits
 ## General Information
 
 - **Currency** - BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the euro at a rate of EUR/BGN 1.95583.
-- **Card payments** are quite popular nowadays at most of the restaurants and supermarkets.
+- **Card payments** are accepted at most of the restaurants and supermarkets.
 - **Dinner options** - Any trip to Bulgaria would be incomplete without diving into our country’s unique food, folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
   - Restaurant Moma - restaurant with traditional cuisine 
   - Shtastlivetsa -  European and Bulgarian national cuisine
   - Chevermeto - traditional folklore restaurant
   - Hadjidraganov's Houses Restaurant - traditional folklore restaurant with traditional cuisine 
   - Happy Bar & Grill - domestic chain of daily restaurants with traditional cuisine 
+
 - **Handy phrases to know before visiting Bulgaria** - Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their face, learn a few words in Bulgarian
+
   - **Dobar den!** (Добър ден!/Doh-bur dehn!)
 Meaning: “Hello!” in the local language is always a great start no matter where in the world you are.
   - **Blagodarya!** (Благодаря!/Blah-goh-da-rya!)
