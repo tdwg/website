@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 9 May 2022_
+_Last updated 22 May 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -64,11 +64,33 @@ TDWG 2022 is hosted by:
 
 who cordially invite you to experience Sofia in-person and virtually. 
 
-Information about hotels and in-person events will be available soon.
+### Conference venue
+
+TDWG 2022 will be held at the **[Grand Hotel Millennium Sofia](https://grandhotelmillenniumsofia.bg/)**, a 5-star hotel located in the heart of the city and within walking distance of the vibrant city center, an area filled with iconic historical and cultural sights, vast green parks and numerous government institutions. See the [360˚ tour](https://360tour.ghms.bg/) of the Conference Center 4th floor.
+
+### Accommodations
+
+Special rates have been secured for delegates at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)**, although other options are also available. Details provided soon.
+
+### Visa requirements
+
+If you are attending the conference in person, please secure any necessary documents or visas prior to travel. See [details](https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria).
+
+### COVID updates
+
+The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 30 April 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
+
+The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandhotelmillenniumsofia.bg/hotel-policies/), information specific to the conference venue and hotel, detailed further in "[Millenium Prime](https://grandhotelmillenniumsofia.bg/millennium-prime/)."
+
+### Travel insurance
+
+It is highly recommended that those traveling to the conference in person should secure travel insurance to cover potential delays or other mishaps that may be encountered.
 
 ## Schedule
 
 The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. 
+
+The in-person conference registration includes a full-day field trip to [Rila Monastery](https://whc.unesco.org/en/list/216/), a UNESCO World Heritage site, on Wednesday 19 October.
  
 ## Working Sessions
 
