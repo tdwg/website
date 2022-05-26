@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 22 May 2022_
+_Last updated 26 May 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -28,7 +28,7 @@ Although the pandemic appears to be waning in many countries, we expect that man
 
 ## Deadlines
 
-[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 15 July 2022**
+[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 22 July 2022** (extended 1 week!)
 
 [Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline 1 July 2022**
 
