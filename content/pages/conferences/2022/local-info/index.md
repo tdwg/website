@@ -6,10 +6,10 @@ cover_image_by: Ivan Nedelchev
 cover_image_ref: https://unsplash.com/photos/OENyTAi9dg0
 tags: conference
 page_order: 28
-status: hidden
+status: published
 ---
 
-_last updated 22 May 2022_
+_last updated 26 May 2022_
 
 ## About Sofia
 
@@ -36,9 +36,9 @@ Room type | Price per night (1 person) | Price per night (2 people)
 [Exclusive room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/exclusive-room/) (B&B) | 100.67 € | 121.34 €
 [Premium room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/premium-room/) (B&B) | 120.67 € | 141.34 €
 
-_*rates include VAT and tourist taxes_
+_*rates include breakfast (B&B), VAT, and tourist taxes_
 
-However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates. All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
+However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates (reservation details coming soon). All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
 - **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
 - **[Hotel Downtown](https://hoteldowntownsofia.com/)** (4 stars) 
@@ -69,7 +69,7 @@ Any trip to Bulgaria would be incomplete without diving into our country’s uni
 
 ### Handy phrases
 
-Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their faces, learn a few words in Bulgarian before leaving home.
+Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their faces, learn a few words in Bulgarian before leaving home. 
 
   - **Dobar den!** (Добър ден!/Doh-bur dehn!)
 Meaning: “Hello!” in the local language is always a great start no matter where in the world you are.
@@ -106,9 +106,7 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 
 ## Excursions
 
-See [detailed descriptions](https://drive.google.com/file/d/1dnSrZj3xv00IjWfsn8dX1bxmwFpXfLbU/view) of
-
-- The one-day trip from Sofia to the **Rila Monastery** is already included in the in-person registration fee
-- **Sofia city tour** - 3 hour walking tour
-- **2-day Southwest Bulgaria Nature & Culture tour** (Sofia – Melnik – Sandanski – Sofia)
-- **4-day South Bulgaria Nature & Culture** (Sofia - Plovdiv - Madzharovo - Bourgas – Sofia)
+- A one-day trip from Sofia to the **Rila Monastery** is already included in the in-person registration fee
+- **Sofia city tour** - [3-hour walking tour](https://traventuria.bg/half-day-city-tour-of-sofia) - A special date/time for this tour will be organized for the TDWG conference (likely Sunday afternoon, 16 October) at a discounted rate. 
+- **[2-day Southwest Bulgaria - culture, history, and natural wonders](https://www.traventuria.bg/pensoft-2-day-tour)** (Sofia – Melnik – Sandanski – Sofia) - departs 15 October
+- **[4-day South Bulgaria Explorer](https://www.traventuria.bg/pensoft-4-day-tour)** (Sofia - Plovdiv - Madzharovo - Bourgas – Sofia) - departs 13 October
