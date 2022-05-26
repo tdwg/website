@@ -49,7 +49,7 @@ However, we are glad to offer options for nearby hotels at special rates for TDW
 
 - **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station, which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the tall blue building of the hotel.
 - **From Central Railway station or the Central Bus Station**: You can get the [metro](https://www.metrosofia.com/en/route) from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
-- **By car**: You can access the Grand Hotel Millennium by car and there is parking available at a special rate for their guests.
+- **By car**: You can access the Grand Hotel Millennium by car and there is parking available (€4 per hour or €20 per day). Those staying in the hotel qualify for special rates. Please inquire about rates during booking.
 
 ## General Information
 
