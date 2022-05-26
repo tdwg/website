@@ -62,7 +62,7 @@ TDWG 2022 is hosted by:
 - [National Museum of Natural History](https://www.nmnhs.com/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en), and 
 - [Institute of Biodiversity and Ecosystem Research](http://www.iber.bas.bg/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en),
 
-who cordially invite you to experience Sofia in-person and virtually. 
+who cordially invite you to experience Sofia [in-person](https://www.tdwg.org/conferences/2022/local-info/) and virtually. 
 
 ### Conference venue
 
@@ -70,7 +70,7 @@ TDWG 2022 will be held at the **[Grand Hotel Millennium Sofia](https://grandhote
 
 ### Accommodations
 
-Special rates have been secured for delegates at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)**, although other options are also available. Details provided soon.
+Special rates have been secured for delegates at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)**, although other options are also available. [See details...](https://www.tdwg.org/conferences/2022/local-info/#accommodations)
 
 ### Visa requirements
 
