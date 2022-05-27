@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 26 May 2022_
+_last updated 27 May 2022_
 
 ## About Sofia
 
@@ -69,19 +69,19 @@ Any trip to Bulgaria would be incomplete without diving into our country’s uni
 
 ### Handy phrases
 
-Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their faces, learn a few words in Bulgarian before leaving home. 
+Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their faces, learn a few words in Bulgarian before leaving home. _Hint: listen to the pronounciation in Google Translate and practice!_
 
-  - **Dobar den!** (Добър ден!/Doh-bur dehn!)
+  - **Dobar den!** ([Добър ден](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%94%D0%BE%D0%B1%D1%8A%D1%80%20%D0%B4%D0%B5%D0%BD&op=translate)!/Doh-bur dehn!)
 Meaning: “Hello!” in the local language is always a great start no matter where in the world you are.
-  - **Blagodarya!** (Благодаря!/Blah-goh-da-rya!)
+  - **Blagodarya!** ([Благодаря](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8F%0A&op=translate)!/Blah-goh-da-rya!)
 Meaning: “Thank you!” in Bulgarian requires quite an effort to pronounce but you’ll be rewarded with a big, genuine smile when you do. Another, more casual word for “thank you” is the French “Merci”, which is very widely used and it’s easier to remember. You can use both.
-  - **Dovijdane!** (Довиждане!/Doh-veezh-dah-nay!)
+  - **Dovijdane!** ([Довиждане](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%94%D0%BE%D0%B2%D0%B8%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5&op=translate)!/Doh-veezh-dah-nay!)
 Meaning: “Goodbye” is another long and tongue-twisting word and again you have an easier option. Bulgarians use the Italian “Ciao” as a more informal equivalent.
-  - **Izvinete!** (Извинете/Eez-vee-neh-teh)
+  - **Izvinete!** ([Извинете](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%98%D0%B7%D0%B2%D0%B8%D0%BD%D0%B5%D1%82%D0%B5&op=translate)/Eez-vee-neh-teh)
 Meaning: “Excuse me”. You might need this word if you happen to use the public transportation in rush hour and have to get to the door to get off. Just keep on repeating “Izvinete, izvinete” while pushing your way to the door.
-  - **Nazdrave!** (Наздраве!/Naz-drah-veh!)
+  - **Nazdrave!** ([Наздраве](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%9D%D0%B0%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%B5&op=translate)!/Naz-drah-veh!)
 Meaning: In Bulgarian they use the same word for “Cheers” when drinking and for “Bless you” when you sneeze. It literally means “To your health!”, or “Be healthy”. Remember that in Bulgaria, it’s not acceptable to say “Cheers” if you’re not drinking alcohol.
-  - **Edna golyama bira/rakia, molya!** (Една голяма бира/ракия, моля!/Eh-dna goh-lya-ma rah-kiya beera moh-lya)
+  - **Edna golyama bira/rakia, molya!** ([Една голяма бира/ракия, моля](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%95%D0%B4%D0%BD%D0%B0%20%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0%20%D0%B1%D0%B8%D1%80%D0%B0%2F%D1%80%D0%B0%D0%BA%D0%B8%D1%8F%2C%20%D0%BC%D0%BE%D0%BB%D1%8F&op=translate)!/Eh-dna goh-lya-ma rah-kiya beera moh-lya)
 Meaning: “One big beer/rakia, please!”. All the alcohol names are the same or very similar to English, so you’ll find it easy to compile a sentence. If you don’t have time to learn the numbers, use your fingers, it’s a universal language. Rakiya is our national strong drink, similar to the Italian “grapa” (if produced from grape), however other famous blends of it are “Slivova” (plum rakia), or “Kaisieva” (apricot rakia).
 
 ## Sightseeing
@@ -98,11 +98,11 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 
 ## Galleries & Museums
 
-- **National Art Gallery** is the largest art museum in Bulgaria, with over 41,000 paintings, sculptures, graphics, decorative and contemporary artworks. 
-- **National Museum of Natural History** - Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History at the Bulgarian Academy of Sciences studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world.
-- **National Museum of History** is one of the largest and richest history museums on the Balkan Peninsula. More than 700,000 cultural monuments are preserved inside it, representing the history of the present Bulgarian lands from the period 8,000 years ago to the present day.
-- **Earth and Man National Museum** is a mineralogical museum in the centre of Sofia. It's one of the biggest mineralogical museums in the world.
-- **Sofia History Museum** is located in one of the most beautiful and emblematic buildings of the capital city – the former Central Mineral Bathhouse.
+- **[National Art Gallery](https://nationalgallery.bg/)** is the largest art museum in Bulgaria, with over 41,000 paintings, sculptures, graphics, decorative and contemporary artworks. 
+- **[National Museum of Natural History](https://www.nmnhs.com/)** - Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History at the Bulgarian Academy of Sciences studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world.
+- **[National Museum of History](https://historymuseum.org/en/)** is one of the largest and richest history museums on the Balkan Peninsula. More than 700,000 cultural monuments are preserved inside it, representing the history of the present Bulgarian lands from the period 8,000 years ago to the present day.
+- **[Earth and Man National Museum](https://historymuseum.org/en/)** is a mineralogical museum in the centre of Sofia. It's one of the biggest mineralogical museums in the world.
+- **[Sofia History Museum](https://www.sofiahistorymuseum.bg/en/)** is located in one of the most beautiful and emblematic buildings of the capital city – the former Central Mineral Bathhouse.
 
 ## Excursions
 
