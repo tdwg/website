@@ -4,14 +4,14 @@ summary: For presentations at TDWG 2022, to be published in _Biodiversity Inform
 cover_image: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
 cover_image_by: Dave Hoefler
 cover_image_ref: https://unsplash.com/photos/DVauUHIJby0
-tags: conference
+tags: conference, abstracts
 status: published
 page_order: 9
 ---
 
 # Instructions for Abstract Submission
 
-_Last updated 10 May 2022_
+_Last updated 27 May 2022_
 
 ## Getting Started
 
@@ -22,6 +22,8 @@ Abstracts are required for all scheduled oral presentations and virtual posters.
 All conference participants are invited to submit abstracts representing their work, however the Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author.
 
 Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Abstract submissions are limited to no more than 6,000 characters (including spaces), and may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples.
+
+**NEW** If you are planning to attend the conference in person and have travel arrangements (e.g., visa, flights) or budget deadlines that require notification of acceptance of your abstract for presentation at the conference, please submit your abstract early and email [editor@tdwg.org](mailto:editor@tdwg.org) and inform us of your needs. _Make sure to include the ARPHA ID of your abstract in the title of your email._ Abstracts will otherwise be reviewed after the 1 July submission deadline and notification of "acceptance with revision" will be flagged on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) by 15 July (a week before the early in-person registration deadline of 22 July).
 
 **The deadline for submission of abstracts is 1 July 2022.** 
 
@@ -241,6 +243,12 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 *   Both authors and technical editors can send email (see icon near the top of the page) to co-authors and/or editors at any time during the pre-approval process, **_this does not change the status of the manuscript._** _If you use this step, please fully reference your manuscript ID, the issue(s) and the person(s) you think should be responding to the email. The system sends individual emails out so no one receiving them knows who else is being asked to address your question. If in doubt, email [editor@tdwg.org](mailto:editor@tdwg.org) outside of the system instead.
 *   For an abstract associated with TDWG 2022 to be published, the presenter must be fully registered (i.e., any assessed fee paid) for the conference.
 *   Approved abstracts will be published once the placement of their presentation in the program is confirmed. Authors should receive notification of successful submission to the journal, pending publication. 
+
+
+### What are the flags all about?
+
+The [flags](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags)—listed along with the status (see above) of your abstract—are to help us keep track of the editing and review process. Authors, however, will want to monitor when their abstract is flagged as "Accepted with revisions." Check the status of your abstract after signing in to your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) under My Manuscripts. You will be informed there (not by separate email) by 15 July of the provisional acceptance of your abstract for presentation at the conference. If you need confirmation before that because of travel or budget deadlines, please email us at [editor@tdwg.org](mailto:editor@tdwg.org]. _Make sure to include the ARPHA ID of your abstract in the title of your email._
+
 
 ### What if I don’t see my abstract anywhere?
 
