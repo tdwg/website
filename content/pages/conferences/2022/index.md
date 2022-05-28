@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 26 May 2022_
+_Last updated 27 May 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -52,7 +52,8 @@ Abstracts are required for all contributions listed in the program (oral present
 
 **The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) is out with a deadline of 1 July.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted.
 
-**Notification of provisional acceptance of abstracts** should be available to all authors within 15 days of submission or before 15 July (end of [early registration](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)).
+**Notification of provisional acceptance of abstracts.** Abstracts will be reviewed for suitability for the conference and flagged with "Accepted with revision" (or rejected) on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) by 15 July (a week before the early in-person registration deadline of 22 July). If you are planning to attend the conference in person and have travel arrangements (e.g., visa, flights) or budget deadlines that require notification of acceptance of your abstract for presentation at the conference, please submit your abstract early and email [editor@tdwg.org](mailto:editor@tdwg.org) and inform us of your needs. _Make sure to include the ARPHA ID of your abstract in the title of your email._ 
+
 
 ## Hosts and in-person logistics
 
@@ -88,9 +89,11 @@ It is highly recommended that those traveling to the conference in person should
 
 ## Schedule
 
-The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. 
+The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. A welcome reception on Sunday evening, 16 October is included in registration.
 
 The in-person conference registration includes a full-day field trip to [Rila Monastery](https://whc.unesco.org/en/list/216/), a UNESCO World Heritage site, on Wednesday 19 October.
+
+**Pre-conference excursions** are available, see [details](https://www.tdwg.org/conferences/2022/local-info/#excursions). See also options for [sightseeing and museums](https://www.tdwg.org/conferences/2022/local-info/#sightseeing_1) to visit during your stay.
  
 ## Working Sessions
 
