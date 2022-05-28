@@ -247,7 +247,7 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 ### What are the flags all about?
 
-The [flags](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags)—listed along with the status (see above) of your abstract—are to help us keep track of the editing and review process. Authors, however, will want to monitor when their abstract is flagged as "Accepted with revisions." Check the status of your abstract after signing in to your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) under My Manuscripts. You will be informed there (not by separate email) by 15 July of the provisional acceptance of your abstract for presentation at the conference. If you need confirmation before that because of travel or budget deadlines, please email us at [editor@tdwg.org](mailto:editor@tdwg.org]. _Make sure to include the ARPHA ID of your abstract in the title of your email._
+The [flags](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags)—listed along with the status (see above) of your abstract—are to help us keep track of the editing and review process. Authors, however, will want to monitor when their abstract is flagged as "Accepted with revisions." Check the status of your abstract after signing in to your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) under My Manuscripts. You will be informed there (not by separate email) by 15 July of the provisional acceptance of your abstract for presentation at the conference. If you need confirmation before that because of travel or budget deadlines, please email us at [editor@tdwg.org](mailto:editor@tdwg.org). _Make sure to include the ARPHA ID of your abstract in the title of your email._
 
 
 ### What if I don’t see my abstract anywhere?
