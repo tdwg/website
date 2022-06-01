@@ -57,6 +57,7 @@ Invoices for membership dues can be paid:
 | [ArtDatabanken / Swedish Species Information Centre](https://www.artdatabanken.se/en/?menu=open) |  Uppsala |
 | [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) |  Canberra |  
 | [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) |  Boulder |  
+| [Belgian Biodiversity Platform](https://www.biodiversity.be/) |   Brussels |  
 | [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) |  Washington |  
 | [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) |  Lawrence |  
 | [Bishop Museum](https://www.bishopmuseum.org/) |  Honolulu |  
