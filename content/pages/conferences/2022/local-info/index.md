@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 27 May 2022_
+_last updated 6 June 2022_
 
 ## About Sofia
 
@@ -59,7 +59,7 @@ BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the eu
 
 ### Dinner options
 
-Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://en.wikipedia.org/wiki/Bulgarian_cuisine), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
+Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
 
 - **Restaurant Moma** - restaurant with traditional cuisine 
 - **Shtastlivetsa** -  European and Bulgarian national cuisine
