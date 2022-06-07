@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 6 June 2022_
+_last updated 7 June 2022_
 
 ## About Sofia
 
@@ -36,9 +36,9 @@ Room type | Price per night (1 person) | Price per night (2 people)
 [Exclusive room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/exclusive-room/) (B&B) | 100.67 € | 121.34 €
 [Premium room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/premium-room/) (B&B) | 120.67 € | 141.34 €
 
-_*rates include breakfast (B&B), VAT, and tourist taxes_
+_*rates include breakfast (B&B), VAT, and tourist taxes; **[reservation link](http://bookings.ihotelier.com/bookings.jsp?groupID=3543433&hotelID=110569)**_
 
-However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates (reservation details coming soon). All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
+However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates (use code TDWG2022 in communications for discount). All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
 - **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
 - **[Hotel Downtown](https://hoteldowntownsofia.com/)** (4 stars) 
