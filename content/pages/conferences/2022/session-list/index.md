@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 8 May 2022_
+_last updated 8 June 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -92,7 +92,8 @@ Information-rich, standardized and persistent provider records lie at the heart 
 
 **Session Type:** Symposium (unsolicited presentations considered)
 
-**Session Organizers:** Vijay Barve, Nashik, Maharashtra, India, [vijay.barve@gmail.com](mailto:vijay.barve@gmail.com)
+**Session Organizers:** Vijay Barve, Nashik, Maharashtra, India, [vijay.barve@gmail.com](mailto:vijay.barve@gmail.com); Balasubramanian D, French Institute of Pondicherry, India [balu.d@ifpindia.org](mailto:balu.d@ifpindia.org); and
+Prabhakar Rajagopal, Strand Life Sciences, Bangalore, India [prabha.prabhakar@gmail.com](mailto:prabha.prabhakar@gmail.com)
 
 The Asian continent is a biodiversity-rich region with a lot of human population pressure, with some of the most populous cities in the world. There is an alarming amount of pressure from development needs of the people. Biodiversity data from this region is not mobilized in adequate quantity to influence the policies towards protection of important areas and species. The lack of information was also highlighted in the Twenty Year Review of Global Biodiversity Information (GBIF). The symposium will bring together important players active in the region to share their work and perspectives, to come together and build a stronger biodiversity informatics community in Asia, and to mobilize and analyze biodiversity data from Asia to cooperatively address these challenges.
 
