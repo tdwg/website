@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 7 June 2022_
+_last updated 10 June 2022_
 
 ## About Sofia
 
@@ -110,3 +110,5 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 - **Sofia city tour** - [3-hour walking tour](https://traventuria.bg/half-day-city-tour-of-sofia) - A special date/time for this tour will be organized for the TDWG conference (likely Sunday afternoon, 16 October) at a discounted rate. 
 - **[2-day Southwest Bulgaria - culture, history, and natural wonders](https://www.traventuria.bg/pensoft-2-day-tour)** (Sofia – Melnik – Sandanski – Sofia) - departs 15 October
 - **[4-day South Bulgaria Explorer](https://www.traventuria.bg/pensoft-4-day-tour)** (Sofia - Plovdiv - Madzharovo - Bourgas – Sofia) - departs 13 October
+
+Not able to fit one of the excursions above into your schedule? [Traventuria](https://www.traventuria.bg/) will offer a 10% discount on 1-day tours to TDWG 2022 delegates with the code: PENSOFT10.
