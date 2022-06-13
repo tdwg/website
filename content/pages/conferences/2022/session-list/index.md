@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 8 June 2022_
+_last updated 13 June 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -117,7 +117,7 @@ Digitization of specimen images from all over the world is accelerating. All the
 
 **Session Type:** Panel Discussion
 
-**Session Organizers:** Miguel Fernandez, iDiv, Leipzig, Germany, [miguel.fernandez@idiv.de](mailto:miguel.fernandez@idiv.de); Nestor Fernandez, iDiv, Leipzig, Germany, [nestor.fernandez@idiv.de](mailto:nestor.fernandez@idiv.de); Luise Quoss, iDiv, Leipzig, Germany, [luise.quoss@idiv.de](mailto:luise.quoss@idiv.de); Jose Valdez, iDiv, Leipzig, Germany, [jose.valdez@idiv.de](mailto:jose.valdez@idiv.de);  Christian Langer, iDiv, Leipzig, Germany, [christian.langer@idiv.de](mailto:christian.langer@idiv.de); and Henrique Pereira, iDiv, Leipzig, Germany, [henrique.pereira@idiv.de](mailto:henrique.pereira@idiv.de).
+**Session Organizers:** Miguel Fernandez, iDiv, Leipzig, Germany, [miguel.fernandez@idiv.de](mailto:miguel.fernandez@idiv.de); Nestor Fernandez, iDiv, Leipzig, Germany, [nestor.fernandez@idiv.de](mailto:nestor.fernandez@idiv.de); Luise Quoss, iDiv, Leipzig, Germany, [luise.quoss@idiv.de](mailto:luise.quoss@idiv.de); Jose Valdez, iDiv, Leipzig, Germany, [jose.valdez@idiv.de](mailto:jose.valdez@idiv.de);  Christian Langer, iDiv, Leipzig, Germany, [christian.langer@idiv.de](mailto:christian.langer@idiv.de); and Henrique Pereira, iDiv, Leipzig, Germany, [hpereira@idiv.de](mailto:hpereira@idiv.de).
 
 The Essential Biodiversity Variables (EBVs) constitute the information framework that helps characterize and monitor the state of biological systems over time, providing critical information needed for environmental policy and management. To successfully implement this framework, we must collaborate with different groups working at different dimensions and scales of biodiversity and have developed independent standards and protocols to improve the interoperability of their information. In response to this challenge, the Group on Earth Observations Biodiversity Observation Network (GEO BON) and the German Center for Integrative Biodiversity Research (iDiv) have created the EBV-Data-Portal, an openly accessible online repository, which aims to provide freely available geographical data on different dimensions of biodiversity through a harmonized data standard. The objective of this session is to present the EBV-Data-Portal and the gridded data structure (i.e., netCDF) and how it is now adapted to represent EBVs. During the session we will openly discuss the terms we suggest as a basis for the definition of this information standard that could provide and maintain a sustainable information framework and infrastructure that meets the needs of science and society for open, persistent, interoperable, well-described and easily discoverable biodiversity observational data.
 
