@@ -10,7 +10,7 @@ page_order: 10
 
 # Instructions for Editors 
 
-_Last updated 10 May 2022_
+_Last updated 14 June 2022_
 
 ## Introduction
 
@@ -85,7 +85,8 @@ Authors should provide needed context and a coherent flow of information in thei
 The most frequent non-compliance with the journal’s standards, which need to be corrected are: 
 
 - Missing authors’ affiliations, 
-- Non-active or missing links (URLs), 
+- Non-active or missing links (URLs),
+- Missing references to concepts or existing standards (e.g., [TDWG standards](https://www.tdwg.org/standards/)) 
 - Incorrect citing of the references (reference cited in text does not match reference from list), 
 - Non-expansion of acronyms at first use, 
 - Typos and wording issues, particularly, but not exclusively from authors for whom English is not primary, 
