@@ -11,7 +11,7 @@ page_order: 9
 
 # Instructions for Abstract Submission
 
-_Last updated 27 May 2022_
+_Last updated 14 June 2022_
 
 ## Getting Started
 
@@ -119,6 +119,8 @@ Make sure this is filled in with "TDWG 2022" (without quotes; no more, no less)
 **Please write your abstract for a general audience**, providing context for your presentation and avoid unexplained jargon. _Note that this is not a venue for reporting the results of research in your discipline._
 
 **Abstracts should be written in English**, and be appropriate to the conference theme, _Stronger Together: Standards for linking biodiversity data_.
+
+**Be sure to provide references for TDWG or other [standards](https://www.tdwg.org/standards/)** used in your work (e.g., [Darwin Core Standard](http://www.tdwg.org/standards/450))
 
 **Character limit.** Abstract submissions are limited to 6,000 characters (including spaces, title, authors and affiliations, keywords, references, etc. but _not_ Supplementary Materials). The Validate button will let you know this number. 
 
