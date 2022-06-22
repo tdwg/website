@@ -1,7 +1,7 @@
 ---
 title: Open call
 slug: bicikl-opencall
-date: 2022-03-11
+date: 2022-06-22
 cover_image: https://bicikl-project.eu/storage/temp/public/imageresizecache/452/530/893/45253089349952016f3070621ef2f863fb80bbae6bdbc85f8ba13f2f67a45da2.jpg
 cover_image_ref: https://bicikl-project.eu/media-center
 tags: 
