@@ -84,6 +84,7 @@ Invoices for membership dues can be paid:
 | [Natural Science Collections Facility](https://www.sanbi.org/) |  Brummeria, Pretoria |  
 | [Natural Solutions](https://www.natural-solutions.eu/) |  Marseille |  
 | [Own Capital of the Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) |  Brussels |  
+| [PLAZI](http://plazi.org/) | Bern |
 | [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) |  Edinburgh |  
 | [Royal Botanic Gardens, Kew](https://www.kew.org/) |  Richmond |  
 | [Royal Botanic Gardens, Melbourne](https://www.rbg.vic.gov.au/) |  South Yarra |  
