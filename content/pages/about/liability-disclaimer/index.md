@@ -17,6 +17,5 @@ The novel coronavirus, which causes COVID-19, has been declared a worldwide pand
 
 I agree and understand these specific risks and nonetheless accept them in order to utilize TDWG's services and attend an event or activity. These services are of such value to me that I accept the risk of being exposed to, contracting, and/or spreading COVID-19 in order to participate in person rather than participating virtually or not participating at all. I further hereby forever release and waive all claims and rights against TDWG, its members, local organizers and hosts of TDWG activities in connection with exposure, infection, and/or spread of COVID-19 related to utilizing its services or the conference venue or interacting with other members. I understand that this release and waiver means I give up my right to bring any claims including for personal injuries, death, disease, property losses, or any other loss that may be released and waived under applicable law, including, but not limited to, claims of negligence, and I understand that this release and waiver prevents me from seeking damages in any way against TDWG, whether such damages are known or unknown, foreseen or unforeseen, or that occur now or in the future.
 
-I further agree to indemnify TDWG and its officers and hold them harmless from and against any claims, loss, or damage made or suffered by any individual claiming to have been exposed to COVID-19 through me, or claiming to have contracted COVID-19 from me.
 
-_Last updated 23 June 2022_
+_Last updated 24 June 2022_
