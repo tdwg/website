@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 27 May 2022_
+_Last updated 24 June 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -30,7 +30,7 @@ Although the pandemic appears to be waning in many countries, we expect that man
 
 [Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 22 July 2022** (extended 1 week!)
 
-[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline 1 July 2022**
+[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline 1 July 2022** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
 
 [Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
 
@@ -50,7 +50,7 @@ If the cost of registration is a barrier to your participation in this conferenc
 
 Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Presenters are required to complete conference registration before abstracts can be published.
 
-**The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) is out with a deadline of 1 July.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted.
+**The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) is out with a deadline of 1 July.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted. Please address questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).
 
 **Notification of provisional acceptance of abstracts.** Abstracts will be reviewed for suitability for the conference and flagged with "Accepted with revision" (or rejected) on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) by 15 July (a week before the early in-person registration deadline of 22 July). If you are planning to attend the conference in person and have travel arrangements (e.g., visa, flights) or budget deadlines that require earlier notification of acceptance of your abstract for presentation at the conference, please submit your abstract early and email [editor@tdwg.org](mailto:editor@tdwg.org) and inform us of your needs. _Make sure to include the ARPHA ID of your abstract in the title of your email._ 
 
@@ -79,9 +79,11 @@ If you are attending the conference in person, please secure any necessary docum
 
 ### COVID updates
 
-The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 30 April 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
+The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
 
 The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandhotelmillenniumsofia.bg/hotel-policies/), information specific to the conference venue and hotel, detailed further in "[Millenium Prime](https://grandhotelmillenniumsofia.bg/millennium-prime/)."
+
+TDWG now has a [liability disclaimer and release](https://www.tdwg.org/about/liability-disclaimer/) policy regarding COVID-19 and relevant to in-person conference attendees.
 
 ### Travel insurance
 
@@ -89,7 +91,7 @@ It is highly recommended that those traveling to the conference in person should
 
 ## Schedule
 
-The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. A welcome reception on Sunday evening, 16 October is included in registration.
+The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. A welcome reception on Sunday evening, 16 October is included in registration as well as a conference banquet on the evening of the 20th.
 
 The in-person conference registration includes a full-day field trip to [Rila Monastery](https://whc.unesco.org/en/list/216/), a UNESCO World Heritage site, on Wednesday 19 October.
 
