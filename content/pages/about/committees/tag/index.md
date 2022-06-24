@@ -45,16 +45,16 @@ According to TDWG Constitution, the charter may be revised by the the TDWG Execu
 
 ### Membership
 
-The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The TAG shall contain between 5 and 9 members, ideally with representation from core, standards maintenance interest groups and major implementors. The TAG may call on external, expert assistance as required.
+The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The TAG will ideally include representation from core, standards maintenance interest groups and major implementors. The TAG may call on external, expert assistance as required.
 
 ### Meetings, documentation, and reporting
 
 The TAG reports to the TDWG executive.
 
-The TAG will maintain both a private and public GitHub repository for all TAG documentation, and issue and request management.
+The TAG will maintain a public GitHub repository for all TAG documentation, and issue and request management.
 
-The TAG will formally convene at least twice each year. A quorum will be a majority of voting members. Meetings will be conducted using internet technologies and members may participate online. Agenda for formal meetings will be prepared by the chair and distributed to members at least 14 days in advance.
+The TAG will formally convene at least twice each year. Meetings will be conducted using internet technologies and members may participate online. Agenda for formal meetings will be prepared by the chair and distributed to members in advance of the meeting. In circumstances where a vote is necessary, responses by the voting deadline of at least half of the members will be required in order for the vote to be considered valid.
 
 Because the TAG may receive time sensitive Executive Requests for advice or response at any time, a combination of issue tracker, e-mail and internet technologies will be used to conduct TAG business online, and to convene extra-ordinary meetings at short notice, as required.
 
-Agenda and minutes for all meetings and all requests, decisions and responses will be posted to the TAG repository.
+Minutes for all meetings and all requests, decisions and responses will be posted to the TAG repository.
