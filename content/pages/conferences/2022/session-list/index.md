@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 13 June 2022_
+_last updated 26 June 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -109,7 +109,7 @@ A key question for biodiversity research and applied conservation, which both re
 
 **Session Type:** Symposium (unsolicited presentations considered) 
 
-**Session Organizers:** Vamsi Krishna Kommineni, Friedrich Schiller University Jena | German Centre for Integrative Biodiversity Research (iDiv) | Max Planck Institute for Biogeochemistry, Jena, Germany, [vamsi.krishna.kommineni@uni-jena.de](mailto:vamsi.krishna.kommineni@uni-jena.de); Quentin Groom, Meise Botanic Garden, Meise, Belgium, [quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be); Joly Alexis, INRIA Sophia-Antipolis – ZENITH team, LIRMM, Montpellier, France, [alexis.joly@inria.fr](mailto:alexis.joly@inria.fr); Renato Panda, Ci2, Polytechnic Institute of Tomar, Portugal and CISUC, DEI, University of Coimbra, Portugal, [panda@dei.uc.pt](mailto:panda@dei.uc.pt); Bonnet Pierre, CIRAD, Umr AMAP, Montpellier, France, [pierre.bonnet@cirad.fr](mailto:pierre.bonnet@cirad.fr); and Jitendra Gaikwad, Friedrich Schiller University Jena, Jena , Germany, [jitendra.gaikwad@uni-jena.de](mailto:jitendra.gaikwad@uni-jena.de)  
+**Session Organizers:** Vamsi Krishna Kommineni, Friedrich Schiller University Jena | German Centre for Integrative Biodiversity Research (iDiv) | Max Planck Institute for Biogeochemistry, Jena, Germany, [vamsi.krishna.kommineni@uni-jena.de](mailto:vamsi.krishna.kommineni@uni-jena.de); Quentin Groom, Meise Botanic Garden, Meise, Belgium, [quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be); Alexis Joly, INRIA Sophia-Antipolis – ZENITH team, LIRMM, Montpellier, France, [alexis.joly@inria.fr](mailto:alexis.joly@inria.fr); Renato Panda, Ci2, Polytechnic Institute of Tomar, Portugal and CISUC, DEI, University of Coimbra, Portugal, [panda@dei.uc.pt](mailto:panda@dei.uc.pt); Pierre Bonnet, CIRAD, Umr AMAP, Montpellier, France, [pierre.bonnet@cirad.fr](mailto:pierre.bonnet@cirad.fr); and Jitendra Gaikwad, Friedrich Schiller University Jena, Jena , Germany, [jitendra.gaikwad@uni-jena.de](mailto:jitendra.gaikwad@uni-jena.de)  
 
 
 Digitization of specimen images from all over the world is accelerating. All these digital images are available online in institutional portals or large aggregators like iDigBio and GBIF. In general, they can be downloaded by anyone and used for a wide variety of purposes. Apart from specimens, there is often not much more data available to build applications on the diversity of lesser-known species, therefore the availability of digital specimen images are a great asset for the biodiversity research field. Combining these digital image corpuses with Artificial Intelligence (AI) technologies enables the creation of services to aid or automate tasks such as image classification, trait measurement and count, object detection, traits shape analysis, text analysis and so on. This has the potential to generate and increase the data available from specimens by several orders of magnitude, which in turn will allow researchers a better understanding of biodiversity. In this session, we explore the new approaches and difficulties involved in the extraction of information from digital specimen images using machine learning and deep learning approaches. The main goal of the session is to bring experts together, working towards automated extraction and building a shared knowledge.
