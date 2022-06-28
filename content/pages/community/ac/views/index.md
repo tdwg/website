@@ -15,19 +15,18 @@ A Task Group of the Audubon Core Maintenance Group
 ## Convenor
 
   - [**Steve Baskauf**](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt
-    University
+    University Heard Libraries
 
 ## Core members
 
   - [**Neil S. Cobb**](mailto:neil.cobb@nau.edu) - Merriam-Powell Center for
     Environmental Research, Northern Arizona University
+    
+  - [**Jennifer C. Girón Duque**](mailto:jennifer.giron@ttu.edu) - Natural Science Research Laboratory, Museum of Texas Tech University
 
-  - [**Matthew Nielsen**](mailto:matthew.nielsen@zoologi.su.se) - Stockholm
-    University
+  - [**Matthew Nielsen**](mailto:matthew.nielsen@oulu.fi) - University of Oulu
 
   - [**Randy Singer**](mailto:randalas@umich.edu) - University of Michigan
-
-  - [**Martin Stein**](mailto:mdv290@ku.dk) - Natural History Museum of Denmark
 
 ## Motivation
 
