@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 26 June 2022_
+_last updated 29 June 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -52,7 +52,7 @@ Species information and species reference catalogues remain one of the top produ
 
 **Session Type:** Symposium (unsolicited presentations considered) 
 
-**Session Organizers:** Arthur Chapman, TDWG Data Quality Interest Group, Ballan, Vic, Australia, [biodiv_2@achapman.org](mailto:biodiv_2@achapman.org); and Arnald Marcer, Campus Universitat Autònoma de Barcelona, Barcelona, Spain, [Arnald.Marcer@uab.cat](mailto:Arnald.Marcer@uab.cat)
+**Session Organizers:** Arthur Chapman, TDWG Data Quality Interest Group, Ballan, Vic, Australia, [biodiv_2@achapman.org](mailto:biodiv_2@achapman.org); and Arnald Marcer, CREAF, Universitat Autònoma de Barcelona, Catalonia, Spain, [Arnald.Marcer@uab.cat](mailto:Arnald.Marcer@uab.cat)
 
 There is a need for Standardization in Biodiversity Quality - from collecting and recording data in the field (including by citizen scientists), through georeferencing (either in the field or after the fact) and documenting data quality using FAIR principles (Findable, Accessible, Interoperable, Reusable) ([Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18)) so that users can determine the suitability of the data for their own uses. Finally, there is a need for methods for testing and improving the vast amounts of legacy data that exists in museums and herbaria. Many potential users of biodiversity data aren't using the data because of a perceived lack of quality and documentation. This needs to be improved. There are many projects looking at all these aspects of data quality. The TDWG Data Quality Interest Group, for example, is close to publishing a standard for testing and reporting on data quality and relating that to the Darwin Core Standard. Ninety eight core tests for data quality have been developed and these are currently being formulated into a standard for use by data aggregators as well as individual museums and herbaria to help identify issues, and thus improve the quality.
 
