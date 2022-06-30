@@ -2,9 +2,9 @@
 title: Empowering Biodiversity Research II
 slug: EBRII
 date: 2022-05-30
-cover_image: https://images.unsplash.com/photo-1482237935571-d9b52bffe142?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80
-cover_image_by: unsplash
-cover_image_ref: Jennifer Latuperisa-Andresen
+cover_image: [https://static.tdwg.org/images/articles/2022/IMG_20220524_140053.jpg]
+cover_image_by: Visotheary Ung
+cover_image_ref: Visotheary Ung
 tags: 
 status: published
 ---
