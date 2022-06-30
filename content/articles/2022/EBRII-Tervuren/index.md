@@ -2,7 +2,7 @@
 title: Empowering Biodiversity Research II
 slug: EBRII
 date: 2022-05-30
-cover_image: [https://static.tdwg.org/images/articles/2022/IMG_20220524_140053.jpg]
+cover_image: https://static.tdwg.org/images/articles/2022/IMG_20220524_140053.jpg
 cover_image_by: Visotheary Ung
 cover_image_ref: Visotheary Ung
 tags: 
