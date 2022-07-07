@@ -114,7 +114,7 @@ TDWG gratefully acknowledges the generous financial or in-kind support of TDWG 2
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://dissco.eu/"> <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://"> <!--img src="https://static.tdwg.org/sponsors/" alt="LifeWatch logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /--></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://"> <img src="https://static.tdwg.org/sponsors/life-watch-eric-logo.png" alt="LifeWatch ERIC logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 </tbody>
 </table>
