@@ -10,7 +10,7 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: See the latest on TDWG 2022 in Sofia, Bulgaria, 17–21 October! 
-alert_text: Registration and call for abstracts now open!
+alert_text: In-person early registration deadline 22 July!
 alert_button: Learn more...
 alert_link: /conferences/2022/
 alert_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
