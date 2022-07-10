@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 24 June 2022_
+_Last updated 10 July 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -23,14 +23,14 @@ The Biodiversity Information Standards (TDWG) annual conference in 2022 will be 
 
 **Stronger together - in person or online!  #tdwg2022**
 
-Although the pandemic appears to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
+Although pandemic restrictions appear to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
 
 
 ## Deadlines
 
 [Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 22 July 2022** (extended 1 week!)
 
-[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline 1 July 2022** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
+[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline was 1 July 2022, now closed** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
 
 [Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
 
@@ -50,9 +50,9 @@ If the cost of registration is a barrier to your participation in this conferenc
 
 Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Presenters are required to complete conference registration before abstracts can be published.
 
-**The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) is out with a deadline of 1 July.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted. Please address questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).
+**The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) deadline is now passed.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted. Please address questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).
 
-**Notification of provisional acceptance of abstracts.** Abstracts will be reviewed for suitability for the conference and flagged with "Accepted with revision" (or rejected) on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) by 15 July (a week before the early in-person registration deadline of 22 July). If you are planning to attend the conference in person and have travel arrangements (e.g., visa, flights) or budget deadlines that require earlier notification of acceptance of your abstract for presentation at the conference, please submit your abstract early and email [editor@tdwg.org](mailto:editor@tdwg.org) and inform us of your needs. _Make sure to include the ARPHA ID of your abstract in the title of your email._ 
+**Update 8 July 2022: Notification of provisional acceptance of abstracts.** All currently submitted abstracts (check your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) to see) have provisional acceptance for inclusion in TDWG 2022. You will not be able to see any flags used by editors to indicate this. Keep an eye out for requests for revisions.
 
 
 ## Hosts and in-person logistics
