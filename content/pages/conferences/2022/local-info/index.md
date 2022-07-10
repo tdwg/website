@@ -61,11 +61,14 @@ BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the eu
 
 Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
 
-- **Restaurant Moma** - restaurant with traditional cuisine 
-- **Shtastlivetsa** -  European and Bulgarian national cuisine
-- **Chevermeto** - traditional folklore restaurant
-- **Hadjidraganov's Houses Restaurant** - traditional folklore restaurant with traditional cuisine 
-- **Happy Bar & Grill** - domestic chain of daily restaurants with traditional cuisine 
+- **[Restaurant Moma](https://g.page/Restaurant-Moma?share)** - restaurant with traditional cuisine 
+- **[Shtastlivetsa](https://goo.gl/maps/FrJCa3YCbPXdh6CB8)** -  European and Bulgarian national cuisine
+- **[Abergine](https://goo.gl/maps/uVsjKZYiqrwzuES2A)** - European cuisine
+- **[Cactus](https://g.page/RestaurantsCactus?share)** - European cuisine
+- **[Social Cafe Bar & Kitchen](https://goo.gl/maps/Q6ybUAmCd5bQKEyY9)** - European cuisine
+- **[Chevermeto](https://g.page/Chevermetobg?share)** - traditional folklore restaurant
+- **[Hadjidraganov's Houses Restaurant](https://g.page/hadjidraganovite-kashti?share)** - traditional folklore restaurant with traditional cuisine 
+- **[Happy Bar & Grill](https://goo.gl/maps/m7WpKfnxoDRxbcbq6)** - domestic chain of daily restaurants with traditional cuisine 
 
 ### Handy phrases
 
