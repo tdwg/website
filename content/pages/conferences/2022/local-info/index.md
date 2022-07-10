@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 10 June 2022_
+_last updated 10 July 2022_
 
 ## About Sofia
 
@@ -41,8 +41,8 @@ _*rates include breakfast (B&B), VAT, and tourist taxes; **[reservation link](ht
 However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates (use code TDWG2022 in communications for discount). All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
 - **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
-- **[Hotel Downtown](https://hoteldowntownsofia.com/)** (4 stars) 
-- **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars)
+- **[Hotel Downtown](https://hoteldowntownsofia.com/bg)** (4 stars) - Single room €70; Double room €85 - for reservations contact [reservations@hotel-downtown.net](mailto:reservations@hotel-downtown.net) with discount code TDWG2022 
+- **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars) - Single room €53; Double room €55 - for reservations contact [sales@artplazahotel.bg](mailto:sales@artplazahotel.bg) with discount code TDWG2022
 - **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/en)** (3 stars) 
 
 ## Getting to the Conference Venue
