@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 10 July 2022_
+_Last updated 11 July 2022_
 
 <!-- Translations: ES, FR, JP -->
 
