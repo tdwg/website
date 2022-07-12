@@ -64,5 +64,11 @@ Demetrio has a background in biodiversity research with a focus on diatom taxono
 <td><strong>Lyubomir Penev</strong> <br /><strong>Local Host Liaison</strong><br />
   Lyubomir is a Professor of Ecology at the Bulgarian Academy of Sciences, Sofia. His main interests over the past 30 years have been the methods of biodiversity study, development of software for biodiversity research and environmental assessment, biogeography, urban ecology and data publishing. He has published more than 160 papers and was co-author or (co-)editor of 8 books. Founder of Pensoft Publishers and publisher of the TDWG's Biodiversity Information Science and Standards (BISS) journal. <a href="https://www.researchgate.net/profile/Lyubomir-Penev">ResearchGate</a>.</td>
 </tr>
+<tr>
+<td><img src="https://static.tdwg.org/conferences/2022/pc/wallis-ely.jpg" alt="Elicia Wallis" height="300" /></td>
+<td><strong>Elycia Wallis</strong> <br /><em>Atlas of Living Australia, Melbourne, Australia</em><br />
+   Dr Elycia (Ely) Wallis works with the Atlas of Living Australia where she is the Collections Community Engagement Manager and Team Lead for the Engagement Team. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, database administration, working with the library and archives section, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. She has a passion for free access and open sharing of data. Ely is on Twitter @elyw and <a href="https://orcid.org/0000-0001-6017-0894">ORCID</a> 
+</td>
+</tr>
 </tbody>
 </table>
