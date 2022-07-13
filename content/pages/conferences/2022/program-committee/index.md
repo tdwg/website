@@ -25,10 +25,10 @@ The program committee meets regularly to develop the structure and content of ou
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/chapman-cat.jpg" alt="Cat Chapman" width="300" height="300" /></td>
 <td><strong>Cat Chapman</strong> <br />Cat is the Biodiversity Informatics Coordinator for iDigBio and she is based in Gainesville, Florida, USA. Since 2012 she has worked in and adjacent to the field of Biodiversity Informatics, and she has a strong passion for the liberation, digitization, and publication of biological collections data. She has an educational background in biology, specifically entomology and spider community ecology, and her current primary focus is mobilizing collections data for aggregation into online data portals such as iDigBio and GBIF. Find Cat on Twitter @CatDigsBio and <a href="https://orcid.org/0000-0002-0681-2515">ORCID</a>.</td>
 </tr>
-<tr>
+<!-- tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/cook-kimberly.jpg" alt="Kimberly Cook" width="300" height="300" /></td>
 <td><strong>Kimberly Cook,</strong> <em>University of Kentucky,</em> Lexington, KY, United States Indiana University, Bloomington, IN, United States <br />Kimberly is a Ph.D. student at the University of Kentucky studying biogeography. Informed by her background in biology and library science, she seeks to combine life history and environmental data to understand spatiotemporal patterns in biodiversity. Using this methodology, her ultimate goal is to build better relationships between academia and conservation practitioners for a more environmentally resilient future. Newly active in the TDWG community, Kimberly is eager to find new ways to think about biodiversity data and the people who generate it. Find her on <a href="https://www.researchgate.net/profile/Kimberly-Cook-3">ResearchGate</a>.</td>
-</tr>
+</tr -->
 <tr>
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/earl-chandra.jpg" alt="Chandra Earl" width="300" height="300" /></td>
 <td><strong>Chandra Earl</strong><br />Chandra is the Joshua M. Copus Memorial Postdoctoral Fellow in Biodiversity Informatics and Computational Biology at the Bishop Museum in Honolulu, Hawaii. She received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers. Find her on Twitter @ChandraEarl and on <a href="https://orcid.org/0000-0001-9850-882X">ORCID</a>.</td>
@@ -52,13 +52,13 @@ The program committee meets regularly to develop the structure and content of ou
 <td style="text-align: center; vertical-align: top; width: 306px;"><img src="https://static.tdwg.org/conferences/2022/pc/loo-tina.jpg" alt="Tina Loo" width="300" height="300" /></td>
 <td><strong>Tina Loo,</strong> <em>Naturalis Biodiversity Center,</em> Leiden, The Netherlands.<br />Tina currently works as a senior project officer with the International Collaboration on Biodiversity Infrastructures (ISBI) as part of a distributed team working to realize construction of the pan-European Distributed System of Scientific Collections (DiSSCo) research infrastructure in 2026. Prior to this she worked coordinating several bird, mammal and butterfly data mobilization projects at Naturalis Biodiversity Center and has a background in Zoology.</td>
 </tr>
-<tr>
+<!--  tr>
 <td><img src="https://static.tdwg.org/conferences/2022/pc/mora-demetrio.jpg" alt="Demetrio Mora" width="300" height="300" /></td>
 <td>
 <strong>Demetrio Mora,</strong>&nbsp;<em>Federal Institute of Hydrology (BfG),</em> Germany.<br />
 Demetrio has a background in biodiversity research with a focus on diatom taxonomy and ecology, as well as expertise on the establishment of DNA barcode reference libraries. Demetrio is a postdoctoral researcher currently working on a project to develop standardised methods based on environmental DNA (eDNA) for biodiversity monitoring and ecological assessment of the federal waterways in Germany. Demetrio has a strong interest in all aspects related to making eDNA sequence data fully accessible in standardised formats. Find Demetrio on Twitter @Demetrio__Mora and on <a href="https://www.researchgate.net/profile/Demetrio-Mora">ResearchGate</a>.
 </td>
-</tr>
+</tr  -->
 <tr>
 <td><img src="https://static.tdwg.org/conferences/2022/pc/penev-lyubomir.jpg" alt="Lyubomir Penev" width="300" height="300" /></td>
 <td><strong>Lyubomir Penev</strong> <br /><strong>Local Host Liaison</strong><br />
