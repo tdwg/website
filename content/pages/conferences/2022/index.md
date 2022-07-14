@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 11 July 2022_
+_Last updated 14 July 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -30,7 +30,7 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 [Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 22 July 2022** (extended 1 week!)
 
-[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **Deadline was 1 July 2022, now closed** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
+[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **1 July 2022, now closed** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
 
 [Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
 
@@ -82,6 +82,8 @@ If you are attending the conference in person, please secure any necessary docum
 The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
 
 The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandhotelmillenniumsofia.bg/hotel-policies/), information specific to the conference venue and hotel, detailed further in "[Millenium Prime](https://grandhotelmillenniumsofia.bg/millennium-prime/)."
+
+[Medical labs](https://www.tdwg.org/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. 
 
 TDWG now has a [liability disclaimer and release](https://www.tdwg.org/about/liability-disclaimer/) policy regarding COVID-19 and relevant to in-person conference attendees.
 
