@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 10 July 2022_
+_last updated 14 July 2022_
 
 ## About Sofia
 
@@ -27,7 +27,14 @@ Website: [https://grandhotelmillenniumsofia.bg/](https://grandhotelmillenniumsof
 
 Address: 89B, Vitosha Blvd, 1463 Sofia, Bulgaria
 
-### Accommodations
+### Getting to the Conference Venue
+
+- **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station, which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the tall blue building of the hotel.
+- **From Central Railway station or the Central Bus Station**: You can get the [metro](https://www.metrosofia.com/en/route) from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
+- **By car**: You can access the Grand Hotel Millennium by car and there is parking available (€4 per hour or €20 per day). Those staying in the hotel qualify for special rates. Please inquire about rates during booking. 
+
+
+## Accommodations
 
 Special rates* have been secured for delegates at the **Grand Hotel Millenium Sofia**
 
@@ -45,11 +52,7 @@ However, we are glad to offer options for nearby hotels at special rates for TDW
 - **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars) - Single room €53; Double room €55 - for reservations contact [sales@artplazahotel.bg](mailto:sales@artplazahotel.bg) with discount code TDWG2022
 - **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/en)** (3 stars) 
 
-## Getting to the Conference Venue
 
-- **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station, which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the tall blue building of the hotel.
-- **From Central Railway station or the Central Bus Station**: You can get the [metro](https://www.metrosofia.com/en/route) from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
-- **By car**: You can access the Grand Hotel Millennium by car and there is parking available (€4 per hour or €20 per day). Those staying in the hotel qualify for special rates. Please inquire about rates during booking.
 
 ## General Information
 
@@ -57,18 +60,22 @@ However, we are glad to offer options for nearby hotels at special rates for TDW
 
 BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the euro at a rate of EUR/BGN 1.95583. Card payments are accepted at most = restaurants and supermarkets as well as hotels.
 
-### Dinner options
+### COVID testing
 
-Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
+Two medical labs, with locations near the Grand Hotel Millenium Sofia and the city center, offer PCR or rapid antigen tests for COVID.
 
-- **[Restaurant Moma](https://g.page/Restaurant-Moma?share)** - restaurant with traditional cuisine 
-- **[Shtastlivetsa](https://goo.gl/maps/FrJCa3YCbPXdh6CB8)** -  European and Bulgarian national cuisine
-- **[Abergine](https://goo.gl/maps/uVsjKZYiqrwzuES2A)** - European cuisine
-- **[Cactus](https://g.page/RestaurantsCactus?share)** - European cuisine
-- **[Social Cafe Bar & Kitchen](https://goo.gl/maps/Q6ybUAmCd5bQKEyY9)** - European cuisine
-- **[Chevermeto](https://g.page/Chevermetobg?share)** - traditional folklore restaurant
-- **[Hadjidraganov's Houses Restaurant](https://g.page/hadjidraganovite-kashti?share)** - traditional folklore restaurant with traditional cuisine 
-- **[Happy Bar & Grill](https://goo.gl/maps/m7WpKfnxoDRxbcbq6)** - domestic chain of daily restaurants with traditional cuisine 
+**Cibalab**
+
+- ["Vitosha" 95, 1408 Ivan Vazov, Sofia](https://goo.gl/maps/c7HNvusGY6VSi2Ha7)
+- ["Lyulin planina" 31, 1606 Sofia Center, Sofia](https://goo.gl/maps/gsGznKtDL7NZ2uFm7)
+- [ "Damyan Gruev" 8А А, 1303 Pette Kyosheta, Sofia](https://goo.gl/maps/73vi2LNnkYukazqV7)
+
+**Ramus lab**
+
+- ["Vitosha" 99, 1408 Ivan Vazov, Sofia](https://goo.gl/maps/vtYWf1oU3MRhPZRb8)
+- ["Sveti Georgi Sofiyski" 4, 1606 Kriva Reka, Sofia](https://goo.gl/maps/uJqyW9LycNEaFkKx8)
+- ["Dimitar Hadzhikotsev" 28, 1421 g.k. Lozenets, Sofia](https://goo.gl/maps/f8sQkSL34nokaR98A)
+
 
 ### Handy phrases
 
@@ -87,7 +94,23 @@ Meaning: In Bulgarian they use the same word for “Cheers” when drinking and 
   - **Edna golyama bira/rakia, molya!** ([Една голяма бира/ракия, моля](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%95%D0%B4%D0%BD%D0%B0%20%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0%20%D0%B1%D0%B8%D1%80%D0%B0%2F%D1%80%D0%B0%D0%BA%D0%B8%D1%8F%2C%20%D0%BC%D0%BE%D0%BB%D1%8F&op=translate)!/Eh-dna goh-lya-ma rah-kiya beera moh-lya)
 Meaning: “One big beer/rakia, please!”. All the alcohol names are the same or very similar to English, so you’ll find it easy to compile a sentence. If you don’t have time to learn the numbers, use your fingers, it’s a universal language. Rakiya is our national strong drink, similar to the Italian “grapa” (if produced from grape), however other famous blends of it are “Slivova” (plum rakia), or “Kaisieva” (apricot rakia).
 
-## Sightseeing
+## Getting out and about
+
+### Dinner options
+
+Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
+
+- **[Restaurant Moma](https://g.page/Restaurant-Moma?share)** - restaurant with traditional cuisine 
+- **[Shtastlivetsa](https://goo.gl/maps/FrJCa3YCbPXdh6CB8)** -  European and Bulgarian national cuisine
+- **[Abergine](https://goo.gl/maps/uVsjKZYiqrwzuES2A)** - European cuisine
+- **[Cactus](https://g.page/RestaurantsCactus?share)** - European cuisine
+- **[Social Cafe Bar & Kitchen](https://goo.gl/maps/Q6ybUAmCd5bQKEyY9)** - European cuisine
+- **[Chevermeto](https://g.page/Chevermetobg?share)** - traditional folklore restaurant
+- **[Hadjidraganov's Houses Restaurant](https://g.page/hadjidraganovite-kashti?share)** - traditional folklore restaurant with traditional cuisine 
+- **[Happy Bar & Grill](https://goo.gl/maps/m7WpKfnxoDRxbcbq6)** - domestic chain of daily restaurants with traditional cuisine 
+
+
+### Sightseeing
 
 - Sofia free tour is an organisation that offers many options for free and paid thematic tours, like Sightseeing walking tour, Food & Culture tour, etc. More information is available at [https://freesofiatour.com/](https://freesofiatour.com/)
 - [St. Alexander Nevsky Cathedral](https://goo.gl/maps/FqBZCuM4ZRkmWUqs9) is one of the symbols not just of Sofia but of Bulgaria itself. It’s also one of the largest Eastern Orthodox cathedrals in the world with a 45m high gold-plated dome and a bell tower reaching 50.52 m.
@@ -99,7 +122,7 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 - [Park Vrana](https://goo.gl/maps/eaMxrawaMvvCRRWS6) - These are the grounds of the stately home of the aristocrat Simeon II, who was Tsar of Bulgaria from 1943-46 before going into exile.
 - [St. Sophia Church](https://goo.gl/maps/724ELhUN8pmYNjAfA) is the oldest church in the Bulgarian capital Sofia, dating to the 4th century.
 
-## Galleries & Museums
+### Galleries & Museums
 
 - **[National Art Gallery](https://nationalgallery.bg/)** is the largest art museum in Bulgaria, with over 41,000 paintings, sculptures, graphics, decorative and contemporary artworks. 
 - **[National Museum of Natural History](https://www.nmnhs.com/)** - Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History at the Bulgarian Academy of Sciences studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world.
@@ -107,7 +130,7 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 - **[Earth and Man National Museum](https://historymuseum.org/en/)** is a mineralogical museum in the centre of Sofia. It's one of the biggest mineralogical museums in the world.
 - **[Sofia History Museum](https://www.sofiahistorymuseum.bg/en/)** is located in one of the most beautiful and emblematic buildings of the capital city – the former Central Mineral Bathhouse.
 
-## Excursions
+### Excursions
 
 - A one-day trip from Sofia to the **Rila Monastery** is already included in the in-person registration fee
 - **Sofia city tour** - [3-hour walking tour](https://traventuria.bg/half-day-city-tour-of-sofia) - A special date/time for this tour will be organized for the TDWG conference (likely Sunday afternoon, 16 October) at a discounted rate. 
