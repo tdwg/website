@@ -62,19 +62,19 @@ BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the eu
 
 ### COVID testing
 
-Two medical labs, with locations near the Grand Hotel Millenium Sofia and the city center, offer PCR or rapid antigen tests for COVID.
+Two medical labs, with locations near the Grand Hotel Millenium Sofia and the city center (addresses and links to maps below), offer PCR or rapid antigen tests for COVID.
 
 **Cibalab**
 
-- ["Vitosha" 95, 1408 Ivan Vazov, Sofia](https://goo.gl/maps/c7HNvusGY6VSi2Ha7)
-- ["Lyulin planina" 31, 1606 Sofia Center, Sofia](https://goo.gl/maps/gsGznKtDL7NZ2uFm7)
-- [ "Damyan Gruev" 8А А, 1303 Pette Kyosheta, Sofia](https://goo.gl/maps/73vi2LNnkYukazqV7)
+- [95 Vitosha Blvd., Ivan Vazov, Sofia 1408](https://goo.gl/maps/c7HNvusGY6VSi2Ha7)
+- [31 Lyulin planina Str., Sofia Center, Sofia 1606](https://goo.gl/maps/gsGznKtDL7NZ2uFm7)
+- [8А А Damyan Gruev Str., Pette Kyosheta, Sofia 1303](https://goo.gl/maps/73vi2LNnkYukazqV7)
 
 **Ramus lab**
 
-- ["Vitosha" 99, 1408 Ivan Vazov, Sofia](https://goo.gl/maps/vtYWf1oU3MRhPZRb8)
-- ["Sveti Georgi Sofiyski" 4, 1606 Kriva Reka, Sofia](https://goo.gl/maps/uJqyW9LycNEaFkKx8)
-- ["Dimitar Hadzhikotsev" 28, 1421 g.k. Lozenets, Sofia](https://goo.gl/maps/f8sQkSL34nokaR98A)
+- [99 Vitosha Blvd., Ivan Vazov, Sofia 1408](https://goo.gl/maps/vtYWf1oU3MRhPZRb8)
+- [4 Sveti Georgi Sofiyski Str., Kriva Reka, Sofia 1606](https://goo.gl/maps/uJqyW9LycNEaFkKx8)
+- [28 Dimitar Hadzhikotsev Str., g.k. Lozenets, Sofia 1421](https://goo.gl/maps/f8sQkSL34nokaR98A)
 
 
 ### Handy phrases
