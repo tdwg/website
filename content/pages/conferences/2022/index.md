@@ -97,7 +97,7 @@ The conference will take place 17–21 October with full days of events starting
 
 The in-person conference registration includes a full-day field trip to [Rila Monastery](https://whc.unesco.org/en/list/216/), a UNESCO World Heritage site, on Wednesday 19 October.
 
-**Pre-conference excursions** are available, see [details](https://www.tdwg.org/conferences/2022/local-info/#excursions). See also options for [sightseeing and museums](https://www.tdwg.org/conferences/2022/local-info/#sightseeing_1) to visit during your stay.
+**Pre-conference excursions** are available, see [details](https://www.tdwg.org/conferences/2022/local-info/#excursions). See also options for [sightseeing and museums](https://www.tdwg.org/conferences/2022/local-info/#sightseeing) to visit during your stay.
  
 ## Working Sessions
 
