@@ -11,7 +11,7 @@ page_order: 9
 
 # Instructions for Abstract Submission
 
-_Last updated 8 July 2022_
+_Last updated 15 July 2022_
 
 ## Getting Started
 
@@ -92,7 +92,9 @@ Incorrect: This is the _Title of my Awesome Talk:_ Presented live in Sofia, Bulg
 
 ### Submitting Author
 
-The **_submitting author_** is the person who will ultimately be responsible _and available_ to submit your abstract for review to the journal and who will finalize the abstract once approved for publication. ARPHA automatically assumes this to be the person first logging in and starting the abstract and that person's name is assumed to be first author. This can be [changed](https://arpha.pensoft.net/tips/Edit-author-order-details).
+The **_submitting author_** is the person who will ultimately be responsible _and available_ to submit your abstract for review to the journal and who will finalize the abstract once approved for publication. ARPHA automatically assumes this to be the person first logging in and starting the abstract and that person's name is assumed to be first author. This can be [changed](https://arpha.pensoft.net/tips/Edit-author-order-details). 
+
+Automated notifications from ARPHA or BISS about abstracts are sent _only_ to submitting authors, although co-authors will see and be able to make changes to abstracts when they appear in _Draft_ status in their [ARPHA dashboard](https://arpha.pensoft.net/dashboard). Only the submitting author will see a button to submit a revise version of the abstract back to ARPHA.
  
 ### Co-authors
 
@@ -106,7 +108,7 @@ Designate one author as the **_corresponding author_** (the person to whom corre
 
 ### Presenting Author
 
-The **_Presenting Author_** (added outside of Authors metadata panel, after Keywords) is the person who will be delivering the presentation at the conference. Type in the name of the presenter in the same way as it is listed as an author. If there are multiple presenters, separate the names with a comma.
+The **_Presenting Author_** (added outside of Authors metadata panel, after Keywords) is the person who will be delivering the presentation at the conference. Type in the name of the presenter in the same way as it is listed as an author. Do not add affiliations. If there are multiple presenters, separate the names with a comma.
 
 _The presenting author will be responsible for a live, recorded, or poster presentation and must be fully registered for the conference by the time the abstract is approved for publication._
 
@@ -149,10 +151,13 @@ Any figures, images, or media used in abstracts or presentations must be [credit
 
 Please **proofread** your submission carefully: 
 
- * double check spelling, 
+ * double check spelling
  * make sure that all acronyms and abbreviations have been expanded at first use
- * references to published work are properly added
- * credit all images with licensing information (see [Terms of Use](https://www.tdwg.org/about/terms-of-use/), and
+ * references to published work are properly [added](https://arpha.pensoft.net/tips/References) and [cited](https://arpha.pensoft.net/tips/Cite-references)
+ * credit all images with licensing information (see [Terms of Use](https://www.tdwg.org/about/terms-of-use/))
+ * [Keywords](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/#keywords) not appearing in the title are listed
+ * the presenter's name appears the same as a listed author
+ * the Presented at field is filled in with "TDWG 2022" (no quotes)
  * verify that all authors agree with content provided. 
 
 Click the **Validate** button to check that you have no outstanding omissions (ensures that mandatory fields are filled in, you have not exceeded the character limit, and the abstract is assigned to a collection) or errors flagged by the system (unresolved track changes or comments).  
@@ -249,7 +254,7 @@ Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed
 
 ### What are the flags all about?
 
-The [flags](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags)—listed along with the status (see above) of your abstract—are to help us keep track of the editing and review process. Authors, however, will want to monitor when their abstract is flagged as "Accepted with revisions." Check the status of your abstract after signing in to your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) under My Manuscripts. You will be informed there (not by separate email) by 15 July of the provisional acceptance of your abstract for presentation at the conference. If you need confirmation before that because of travel or budget deadlines, please email us at [editor@tdwg.org](mailto:editor@tdwg.org). _Make sure to include the ARPHA ID of your abstract in the title of your email._
+**Update: Authors cannot see flags** The [flags](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags)—listed along with the status (see above) of your abstract—are to help us keep track of the editing and review process. If you are a technical editor _and_ author in your session, these may be visible. 
 
 
 ### What if I don’t see my abstract anywhere?
