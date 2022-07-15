@@ -89,10 +89,10 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 ## Technical Architecture Group
 
-### Nicky Nicolson
-_TAG co-chair_
+### Steve Baskauf
+_TAG Chair_
 
-[ORCID](https://orcid.org/0000-0003-3700-4884)
+[ORCID]( https://orcid.org/0000-0003-4365-3135)
 
 ### James Macklin
 _TAG co-chair_
