@@ -109,7 +109,7 @@ My first priority is to refine the organizational and documentation infrastructu
 
 ### Ben Norton
 
-_TAG deputy chair_
+_TAG Deputy Chair_
 
 __North Carolina Museum of Natural Sciences, Raleigh, North Carolina, USA__
 
