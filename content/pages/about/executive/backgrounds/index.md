@@ -94,10 +94,10 @@ _TAG Chair_
 
 [ORCID]( https://orcid.org/0000-0003-4365-3135)
 
-### James Macklin
-_TAG co-chair_
+### Ben Norton
+_TAG Deputy co-chair_
 
-[ORCID](https://orcid.org/0000-0001-9508-1349)
+[ORCID](https://orcid.org/0000-0002-5819-9134)
 
 ## Infrastructure 
 
