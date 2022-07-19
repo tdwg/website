@@ -65,6 +65,7 @@ Invoices for membership dues can be paid:
 | [Botanic Garden Meise](https://www.plantentuinmeise.be/en/home/) |  Meise |  
 | [Centre for Australian National Biodiversity Research](https://www.cpbr.gov.au/cpbr/) |  Canberra |  
 | [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) |  Ithaca |  
+| [Distributed System Scientific Collections (DiSSCo)](https://www.dissco.eu/) |  Leiden |  
 | [Field Museum](https://www.fieldmuseum.org/) |  Chicago |  
 | [Finnish Museum of Natural History](https://www.luomus.fi/en) |  Helsinki University |  
 | [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) |  Gainesville |  
@@ -81,7 +82,7 @@ Invoices for membership dues can be paid:
 | [National Museums Scotland](https://www.nms.ac.uk/) |  Edinburgh |  
 | [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) |  Canberra |  
 | [Natural History Museum Vienna](https://www.nhm-wien.ac.at/en) |  Vienna |  
-| [Natural Science Collections Facility](https://www.sanbi.org/) |  Brummeria, Pretoria |  
+| [Natural Science Collections Facility (SANBI)](https://www.sanbi.org/) |  Brummeria, Pretoria |  
 | [Natural Solutions](https://www.natural-solutions.eu/) |  Marseille |  
 | [Own Capital of the Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) |  Brussels |  
 | [PLAZI](http://plazi.org/) | Bern |
