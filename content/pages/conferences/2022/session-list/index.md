@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 15 July 2022_
+_last updated 19 July 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -88,7 +88,7 @@ The first part of the symposium provides room for researchers to describe their 
 
 Information-rich, standardized and persistent provider records lie at the heart of powerful open knowledge systems. They form fundamental prerequisites for FAIR and attributable data publishing, reliable determination of provenance and effective transaction management. With this as a foundation, rights-based access to and use of biodiversity data enables collaboration and participative decision-making by and benefit sharing with data users and providers. The immense data needs of the monitoring framework accompanying the UN Convention on Biological Diversity’s post-2020 Global Biodiversity Framework (GBF), represents a powerful use case for well-curated collection-level data. Natural science collections are trusted providers of these datasets. For them, GBIF’s Registry of Scientific Collections is emerging as the global catalog and aggregator in their domain. The infrastructure and metadata that it provides will be key in asserting operational fitness, data quality, interlinking and extensibility, connecting research data to national and global reporting for post-2020 GBF monitoring. This symposium aims to gather a diversity of groups and initiatives, which share the goal of enabling robust global functionality for information at the data provider level. The session will highlight and promote the commitment and capacity that already exists, show opportunities to become engaged, and aims to strengthen connections between working groups.
 
-## SYM10 Biodiversity Informatics perspectives from Asia
+## SYM10 Biodiversity Informatics perspectives from Asia & the Global South
 
 **Session Type:** Symposium (unsolicited presentations considered)
 
