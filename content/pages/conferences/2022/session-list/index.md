@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 19 July 2022_
+_last updated 20 July 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -64,13 +64,6 @@ There is a need for Standardization in Biodiversity Quality - from collecting an
 
 Data mobilization, the act of making data openly accessible and interoperable, is one of the key factors in improving the reusability of data and ensuring we have a more complete assessment of global biodiversity. Data mobilization requires using data standards and community best practices which can be hard to understand for data providers and difficult to know which ones to apply to their data. Further, certain technical skills such as scripts in Python, R, or OpenRefine can improve the reproducibility of the data mobilization process and can lead to more automated processes for repeated sharing and updating of data into the global commons. In this session we will present and invite presentations on recent methods for improving, promoting, and assisting in data mobilization. The session will highlight strategies that have been most successful as well as challenges for data providers.
 
-## LT07 How to exchange management data on wildlife and invasive alien species
-
-**Session Type:** Lightning Talks (unsolicited presentations considered) 
-
-**Session Organizers:** Lien Reyserhove, Research Institute for Nature and Forest (INBO), Brussels, Belgium, [lien.reyserhove@inbo.be](mailto:lien.reyserhove@inbo.be); and Quentin Groom, Botanical Garden Meise, Meise, Belgium, [quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be)
-
-Despite recent improvements, the Darwin Core (DwC) standard is still not able to capture the full complexity of the management of alien species and other wildlife. The diversity in management objectives and methods for different taxonomic groups make the standardization a challenge. Applied invasion science has established frameworks for the management of invasive species. Likewise, animal health regulations have driven the development of standards to exchange data on wildlife management of some species. The need for a data exchange format that can capture management efforts on all IAS is real. Such a data exchange format is needed to quantitatively compare, amongst others, management techniques, efforts and policies at various spatial scales. All this is particularly relevant in the context of the IAS regulation (EU1143/2014), which imposes mandatory reporting on Member States. Is DwC the right standard for the data produced by all kinds of IAS management techniques? Should a community driven data exchange format that still allows a lossy transformation to DwC be developed? This session will discuss existing initiatives, provide relevant use cases from a community of researchers and IAS managers, and aims to steer future work around this topic.
 
 ## SYM08 Event-based management of Natural Science collections data driven by challenging research use-cases
 
@@ -139,13 +132,6 @@ The rapid growth and increasing quantities of digital data from life science and
 
 Developing biodiversity information standards is at the core of TDWG's mission and Task Groups are the mechanism that makes this development happen. This session is intended to provide a forum for Task Groups who are advanced in the proposal of standards or who have recently completed ratification of new standards or additions to standards. Task Group members will provide a brief summary of their work and key points of their submission. It will constitute an opportunity for the community to engage in the development of the proposed standards and ask questions about how the additions can be used. This session will help set the stage for upcoming public comment periods, or to help implementers learn how to use new standards content.
 
-## SYM16 Connecting Creators, Distributors, and Consumers of Taxonomic Data
-
-**Session Type:** Symposium (unsolicited presentations considered) 
-
-**Session Organizers:** Nicolas J Dowdy, Milwaukee Public Museum, Milwaukee,WI, USA, [njdowdy@gmail.com](mailto:njdowdy@gmail.com); and Vijay Barve, GBIF, [vijay.barve@gmail.com](mailto:vijay.barve@gmail.com)
-
-Modern taxonomic information is created by taxonomists, distributed on digital platforms, and consumed by the public for many purposes, including downstream biological research. Often, these groups are composed of people with different taxonomic expertise, technical skill sets, and goals. This symposium will bring together stakeholders from each of these groups to discuss their viewpoints, challenges, and potential areas for further synergy and cooperation in streamlining the creation, distribution, and consumption of taxonomic information.
 
 ## SYM17 An oak tree sighting in the ocean? Approaches to correcting biodiversity data after collection
 
