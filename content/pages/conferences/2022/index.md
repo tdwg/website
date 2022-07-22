@@ -137,6 +137,9 @@ TDWG gratefully acknowledges the generous financial or in-kind support of TDWG 2
 </tbody>
 </table>
 
+### Interested in becoming a TDWG 2022 supporter?
+
+Please download the following [prospectus](https://drive.google.com/file/d/10ChiUKT-nMXY-pC1OWQiu0YxNVqAv4jH/view?usp=sharing) to find out how and why you can help.
 
 ## Code of Conduct
 
