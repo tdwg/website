@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 14 July 2022_
+_Last updated 27 July 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -28,7 +28,7 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 ## Deadlines
 
-[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **Early registration for in-person attendance ends 22 July 2022** (extended 1 week!)
+[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **[Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) now in effect for in-person attendees**
 
 [Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **1 July 2022, now closed** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
 
@@ -59,7 +59,7 @@ Individual TDWG members and up to five representatives from [member institutions
 
 ## Abstracts
 
-Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Presenters are required to complete conference registration before abstracts can be published.
+Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). **Presenters are required to complete conference registration before abstracts can be published.**
 
 **The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) deadline is now passed.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted. Please address questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).
 
@@ -108,6 +108,8 @@ It is highly recommended that those traveling to the conference in person should
 ## Schedule
 
 The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. A Welcome Reception will be held Sunday 16 October from 5–7 PM.  
+
+**A schedule will be available no earlier than late August.**
 
 ## Working Sessions
 
