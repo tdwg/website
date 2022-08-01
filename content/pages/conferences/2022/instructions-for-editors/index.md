@@ -10,7 +10,7 @@ page_order: 10
 
 # Instructions for Editors 
 
-_Last updated 14 June 2022_
+_Last updated 1 August 2022_
 
 ## Introduction
 
@@ -22,7 +22,7 @@ Thank you for volunteering to review and/or edit abstracts submitted to your ses
 
 **Please review [TDWG 2022 Instructions for Abstract Submission](https://www.tdwg.org/conferences/2022/instructions-for-abstract-submission/).** This will help you understand the ARPHA workflow from the author's point of view and what is expected of you. Begin to edit and work with authors as soon after submission as possible. If you are working with a team, divide the workflow and communicate, but be sure to work in ARPHA for your editing, not elsewhere.
 
-**New deadline this year** - To allow authors/presenters to know in a timely manner whether or not their abstract will be accepted for presentation at the conference, we (=you) are committed to providing at least minimal feedback to authors by flagging either _Accepted with revisions_ (a new [flag](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags) or _Reject_ **within 15 days of submission for feedback.** This means that for abstracts submitted on or by 1 July, they will know before the early registration deadline expires (on 15 July), whether they will have an abstract accepted for presentation.
+**Update 8 July 2022: Notification of provisional acceptance of abstracts.**  All currently submitted abstracts have been provisionally accepted for inclusion in TDWG 2022, however _authors will not be able to see the_ Accepted with revisions _flag (or any other [flag that we as editors use](https://www.tdwg.org/conferences/2022/instructions-for-editors/#flags)), in their ARPHA dashboard._
 
 ## Getting Started
 
@@ -52,10 +52,10 @@ You should be able to see all abstracts that have been submitted to your collect
 
 ### Flags
 
-Editors should flag the progress of an abstract when they have control over it in the "in pre-submission review" stage. This helps both editors and authors know something is being done with their abstract.
+Editors should flag the progress of an abstract when they have control over it in the "in pre-submission review" stage. **Note that authors cannot see these flags**
 
 - **Approve** - although this only allows one person’s decision to be reflected, anyone else with access can re-classify before it is actually approved and out of the hands of editors; should only be used after the review process is completed and all issues resolved.
-- **Accept with revisions** - editors are committed to responding within 15 days of submission for technical review, an assessment of whether an abstract will ultimately be accepted for presentation at the conference. _THIS IS A NEW FLAG for 2022._
+- **Accept with revisions** - volume editors are committed to responding within 15 days of submission for technical review, an assessment of whether an abstract will ultimately be accepted for presentation at the conference. _THIS IS A NEW FLAG for 2022._
 - **Content reviewed** - self-explanatory; should be reviewed by at least one if not two additional editor/reviewers (abstracts are rarely sent out for external review, but if you have a question about content, contact [editor@tdwg.org](mailto:editor@tdwg.org))
 - **Language reviewed** - as above; done by a limited number of trusted editors
 - **Move** - indication that the (sub)collection should be changed. It can also be used instead of “remove” or “reject” by collection organizers to have an abstract changed to a different collection. If an explanation of your reason is needed, contact [editor@tdwg.org](mailto:editor@tdwg.org). 
