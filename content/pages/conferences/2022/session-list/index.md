@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 20 July 2022_
+_last updated 8 August 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -64,6 +64,13 @@ There is a need for Standardization in Biodiversity Quality - from collecting an
 
 Data mobilization, the act of making data openly accessible and interoperable, is one of the key factors in improving the reusability of data and ensuring we have a more complete assessment of global biodiversity. Data mobilization requires using data standards and community best practices which can be hard to understand for data providers and difficult to know which ones to apply to their data. Further, certain technical skills such as scripts in Python, R, or OpenRefine can improve the reproducibility of the data mobilization process and can lead to more automated processes for repeated sharing and updating of data into the global commons. In this session we will present and invite presentations on recent methods for improving, promoting, and assisting in data mobilization. The session will highlight strategies that have been most successful as well as challenges for data providers.
 
+## LT07 How should we exchange management data on wildlife and invasive alien species?
+
+**Session Type:** introduction & discussion
+
+**Session Organizers** Lien Reyserhove, Research Institute for Nature and Forest (INBO), Brussels, Belgium, [lien.reyserhove@inbo.be](lien.reyserhove@inbo.be); and Quentin Groom, Botanical Garden Meise, Meise, Belgium, [quentin.groom@plantentuinmeise.be](quentin.groom@plantentuinmeise.be)
+
+Despite recent improvements, the Darwin Core (DwC) standard is not able to capture the full complexity of wildlife management data. The diversity of objectives and the methods employed for different taxonomic groups make this  a challenge. In the case of applied invasion science, there are established frameworks for the management of invasive species. Likewise, animal health regulations have driven the development of standards for exchange of data for some specific species. Data exchange is needed to quantitatively compare, amongst others, management techniques, effort employed and policies at various spatial scales. In Europe, this is relevant in the context of the invasive alien species regulation (EU1143/2014), which imposes mandatory reporting on Member States, but there are surely many other examples. Is DwC the right standard for the data produced by all kinds of management? Should a community driven data exchange format that still allows a lossy transformation to DwC be developed? We invite people with interest in this subject to discuss existing initiatives, provide relevant use cases and contribute to  steering future work around this topic.
 
 ## SYM08 Event-based management of Natural Science collections data driven by challenging research use-cases
 
