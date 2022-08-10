@@ -6,7 +6,7 @@ cover_image: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
 cover_image_by: Internet Archive Book Images
 cover_image_ref: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
 tags: elections
-status: hidden
+status: 
 ---
 
 Nominations are open for positions on the [Executive Committee]({filename}/pages/about/executive/index.md) for Biodiversity Information Standards (TDWG).
