@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 27 July 2022_
+_Last updated 10 August 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -23,10 +23,12 @@ The Biodiversity Information Standards (TDWG) annual conference in 2022 will be 
 
 **Stronger together - in person or online!  #tdwg2022**
 
-Although pandemic restrictions appear to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted within hours for people participating remotely (registration required). 
+Although pandemic restrictions appear to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted for people participating remotely (registration required). 
 
 
 ## Deadlines
+
+**17 August 2022** - Last day to switch in-person registration to virtual with full refund of the difference (minus credit card processing fees). Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) for more information.
 
 [Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **[Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) now in effect for in-person attendees**
 
@@ -42,15 +44,25 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 Registration costs differ for in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs or early career researchers, and participants from [low/low-middle income nations](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). You can even donate funds to support registration of those in need.  Check out the link above for full details. When you are ready, use the button there to complete your registration.
 
+The early registration deadline (22 July) for in-person participation has now passed and regular registration rates are now in effect. 
+
+**All _presenters_ at TDWG 2022 must be registered.** If you are listed as a presenter on an [abstract](https://biss.pensoft.net/collection/384/) for the conference, you must be registered before your abstract will be published. Please do this as soon as possible so that we can create the program.  If you are unsure whether you will attend in person or virtually, there is no penalty for registering for virtual participation and later upgrading to in-person status. There is a penalty (after 17 August) for downgrading registration (see [Terms & Conditions on registration link](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)).
+
 If the cost of registration is a barrier to your participation in this conference, please contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) and briefly state why this is a barrier.
+
+### Virtual registration includes
+
+- **Zoom links** to live streamed in-person sessions
+- **Links to content on demand** for sessions you may have missed
+- **Link to join dedicated TDWG2022 Slack workspace** to interact, ask questions, join in the conversation for all sessions whether viewed live or on-demand.
 
 ### In-person registration includes
 
-**A welcome reception** on Sunday evening (from 5–7 PM 16 October) is included in registration. Pick up your name tag and other registration materials and greet fellow attendees. 
-
-**The conference banquet**, also included with in-person registration, will be held at [Restaurant Vodenitzata](https://vodenitzata.com/en/) on the evening of the 20th. Transportation will be provided.
-
-**A full-day field trip to [Rila Monastery](https://whc.unesco.org/en/list/216/)**, a UNESCO World Heritage site, on Wednesday 19 October.
+- **All benefits of virtual registration** (above)
+- **Access to all sessions at the conference**
+- **A welcome reception** on Sunday evening (from 5–7 PM 16 October) is included in registration. Pick up your name tag and other registration materials and greet fellow attendees. 
+- **The conference banquet**, also included with in-person registration, will be held at [Restaurant Vodenitzata](https://vodenitzata.com/en/) on the evening of the 20th. Transportation will be provided.
+- **A full-day field trip to [Rila Monastery](https://whc.unesco.org/en/list/216/)**, a UNESCO World Heritage site, on Wednesday 19 October.
 
 ### Benefits of being a TDWG member
 
@@ -96,6 +108,8 @@ If you are attending the conference in person, please secure any necessary docum
 The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
 
 The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandhotelmillenniumsofia.bg/hotel-policies/), information specific to the conference venue and hotel, detailed further in "[Millenium Prime](https://grandhotelmillenniumsofia.bg/millennium-prime/)."
+
+**It is recommended that in-person participants bring and wear high-quality masks during the conference** to prevent contracting and/or spreading COVID-19. Hotel staff will be required to mask during the event. Further updates on local conditions and requirements will be provided closer to the time of the event.
 
 [Medical labs](https://www.tdwg.org/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. 
 
