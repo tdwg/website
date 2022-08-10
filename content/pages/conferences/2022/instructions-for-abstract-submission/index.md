@@ -11,7 +11,7 @@ page_order: 9
 
 # Instructions for Abstract Submission
 
-_Last updated 15 July 2022_
+_Last updated 10 August 2022_
 
 ## Getting Started
 
@@ -168,8 +168,6 @@ You should receive an auto-generated confirmation email (be sure to find this in
 
 On your ARPHA dashboard, the status of the manuscript will change to **_in pre-submission review_** and will be in read-only mode for authors.
 
-**Within 15 days of submission,** your abstract should have been _at a minimum_ reviewed for suitability for the conference and flagged on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) with _Accepted with revisions_ (unless it is rejected as unsuitable). This does not guarantee that your presentation will remain in the collection to which you have submitted it, but it does signify that your work will have a spot in the conference program.
-
 While your abstract is in pre-submission review, you may see the work of various technical editors suggesting changes to be made, making comments on your abstract, or flagging editorial status (in your dashboard) but you will only be able to _view, not edit_ your submission yet. Wait until you receive official notice that feedback has been requested—do not ask technical editors to make changes.
 
 ## Feedback and Revisions
@@ -179,6 +177,8 @@ The organizers (technical editors) may accept or reject your submission, or may 
 **_Draft_** (again): if a submission is returned to you for changes, its status will return to _Draft_. Only you and other authors with editing or commenting privileges will have access to the abstract until you make or respond to changes requested and send it back for technical review. 
 
 Editors may have used **_[Track Changes](https://arpha.pensoft.net/tips/Track-Changes)_** and/or written comments that need to be addressed. Accept or reject suggestions and use comments as necessary to further communicate your actions. If you have immediate editorial questions, please email [editor@tdwg.org](mailto:editor@tdwg.org) and reference the ARPHA ID of your abstract in the subject line.
+
+Once you have addressed (i.e., accepted or rejected) any Track Changes (the next / previous buttons will disappear) and resolved the comments, please press Validate button to make sure that all issues have been cleared up. If your manuscript does not validate (i.e., there is more than the number of characters listed), please try to resolve outstanding issues. Sometimes these issues are linked to the source for correcting them; sometimes not. If you are stumped, first try closing the abstract window and going back in; if you still can't find the issue, contact the journal help desk (using feedback icon in top banner) or email [editor@tdwg.org](mailto:editor@tdwg.org) with the ARPHA# and screen capture or description of your issue.
 
 Your manuscript may require more than one cycle of revision so please address communications promptly. 
 
