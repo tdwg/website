@@ -9,7 +9,7 @@ tags: elections
 status: 
 ---
 
-Nominations are open for positions on the [Executive Committee]({filename}/pages/about/executive/index.md) for Biodiversity Information Standards (TDWG).
+Nominations are open for positions on the [Executive Committee]({filename}/pages/about/executive/index.md) for Biodiversity Information Standards (TDWG). **Deadline 7 November 2022.**
 
 This is an opportunity to lead the future of biodiversity informatics and work with an enthusiastic team to improve the quality and interoperability of biodiversity data.
 
@@ -57,7 +57,7 @@ Regional representatives give voice to the members, institutions, and projects i
 
 ## Nomination procedure
 
-To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before **16 November 2022**.
+To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received by **7 November 2022**.
 
 ## Election procedure
 
@@ -65,4 +65,4 @@ The TDWG Secretariat will post nominees’ statements to the TDWG website and di
 
 ## Deadline
 
-**Nominations due by 16 November 2022** Ballots will be distributed by email shortly thereafter. The balloting period will be at least 30 days from the date of distribution.  Exact date-times will be announced via TDWG Announcements and posted here.
+**Nominations due by 7 November 2022** Ballots will be distributed by email shortly thereafter. The balloting period will be at least 30 days from the date of distribution.  Exact date-times will be announced via TDWG Announcements and posted here.
