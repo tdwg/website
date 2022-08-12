@@ -11,21 +11,21 @@ page_order: 9
 
 # Instructions for Abstract Submission
 
-_Last updated 10 August 2022_
+_Last updated 12 August 2022_
 
 ## Getting Started
 
 ### Introduction
 
-Abstracts are required for all scheduled oral presentations and virtual posters. Abstracts will be published in TDWG's journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. Because abstract publication fees are included in conference registration, all presenters must be fully registered to participate in the conference.
+Abstracts are required for all scheduled oral presentations and virtual posters. Abstracts will be published in TDWG's journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/) (BISS)_. **Because abstract publication fees are included in conference registration, all presenters must be fully registered to participate in the conference before their abstract can be published.**
 
-All conference participants are invited to submit abstracts representing their work, however the Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author.
+All conference participants are invited to submit abstracts representing their work, however the Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author. The deadline for submission of abstracts is passed (was 1 July).
 
 Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Abstract submissions are limited to no more than 6,000 characters (including spaces), and may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples.
 
 **UPDATE 8 July 2022: Notification of provisional acceptance of abstracts.** All currently submitted abstracts (check your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) to see) have provisional acceptance for inclusion in TDWG 2022. You will not be able to see any flags used by editors to indicate this. Keep an eye out for requests for revisions.
 
-**The deadline for submission of abstracts is passed.** 
+**The deadline for finalizing your abstract for publication is 24 August 2022.**  Please make sure the presenter has registered for the conference and work with your session organizers to finish revisions. Until approval by the [editors](mailto:editor@tdwg.org) for publication, your abstract should be in "pre-submission review" as a status.
 
 ### Process Overview
 
@@ -202,7 +202,7 @@ If, after your manuscript has been approved, you fail to complete all of the ste
 
 ![IncompleteSubmission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "IncompleteSubmission")<br /> <br /> 
 
-_The deadline for finalizing your abstract for publication in the journal will be early September, to enable us to prepare the program._ <br /> <br />
+_The deadline for finalizing your abstract for publication in the journal is **24 August**, to enable us to prepare the program._ <br /> <br />
 
 ## Seeking Help
 
