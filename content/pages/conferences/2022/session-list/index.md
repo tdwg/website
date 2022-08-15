@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 8 August 2022_
+_last updated 14 August 2022_
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
@@ -22,7 +22,7 @@ Great progress has been made recently in linking worldwide plant data.  The Worl
 
 **Session Type:** Symposium (unsolicited presentations considered)
 
-**Session Organizers:** Quentin Groom, Meise, Belgium, [quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be); and Joana Pauperio, European Molecular Biology Laboratory, European Bioinformatics Institute, Hinxton, Cambridge, United Kingdom, [joanap@ebi.ac.uk](mailto:joanap@ebi.ac.uk)
+**Session Organizers:** Quentin Groom, Meise Botanical Garden, Meise, Belgium, [quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be); and Joana Pauperio, European Molecular Biology Laboratory, European Bioinformatics Institute, Hinxton, Cambridge, United Kingdom, [joanap@ebi.ac.uk](mailto:joanap@ebi.ac.uk)
 
 There are some complex and fundamental questions regarding life on Earth that still need answering. These include basic questions concerning ecology and evolution, but also many practical questions of global concern, such as conserving the world’s biodiversity, managing invasive species, controlling zoonosis, predicting the impacts of climate changes, and so on. Biodiversity infrastructures have a crucial role in answering these questions. In this symposium we ask these infrastructures how they see their future? What are they planning to do to better serve the biodiversity research community? How will they work together to increase and enrich the data available for research? What processes will be put in place to ensure the data provided are suitable to inform policy? We encourage infrastructures to present their future plans from a technical standpoint, but we also wish to explore the future of biodiversity infrastructures from a social, educational, procedural and policy position.
 
@@ -160,6 +160,6 @@ This symposium discusses the idea of how “extended” taxonomic curation can p
 
 **Session Type:** Interactive multiple formats (unsolicited presentations considered)
 
-**Session Organizers:** Daniel Mietchen, Leibniz Institute for Freshwater Ecology and Inland Fisheries, Berlin, Germany, [daniel.mietchen@igb-berlin.de](mailto:daniel.mietchen@igb-berlin.de)
+**Session Organizers:** Daniel Mietchen, Leibniz Institute for Freshwater Ecology and Inland Fisheries, Berlin, Germany, [daniel.mietchen@igb-berlin.de](mailto:daniel.mietchen@igb-berlin.de); and Maarten Trekels, Meise Botanical Garden, Meise, Belgium [maarten.trekels@plantentuinmeise.be](mailto:maarten.trekels@plantentuinmeise.be)
 
 The Wikimedia ecosystem of collaborative open knowledge websites like Wikipedia, Wikidata, Wikispecies, Wikisource or Wikimedia Commons covers the curation and sharing of multiple facets of biodiversity-related knowledge in a variety of ways. These interactions both contribute to and benefit from standardization efforts around biodiversity data. This session will explore such interactions from various perspectives, including but not limited to those of subfields of biology (e.g., taxonomy or invasion biology) or informatics (e.g., ontology development or knowledge graphs), with special attention to cross-disciplinary aspects like the curation of depictions of biodiversity in art or the use of biodiversity information more generally in non-biological fields of research or practice. Workflows using or contributing to any of the Wikimedia projects - in any language - are within scope. The session contributions will be in English, but the use of examples from non-English contexts is highly encouraged.
