@@ -11,6 +11,8 @@ page_order: 18
 
 # TDWG Code de Conduite
 
+[EN](../)
+
 Le Biodiversity Information Standards (désigné ci-après comme TDWG) parraine/promeut/favorise un grand nombre d’échanges écrits (par exemple, sur GitHub, Slack et les réseaux sociaux), ainsi que des réunions et des conférences virtuelles ou en présentiel pour partager, discuter and promouvoir des idées au sujet de la construction, l’utilisation, l’implémentation et l’évaluation de standards pour le partage de données de biodiversité. _En participant à n’importe laquelle des activités du TDWG, vous acceptez volontairement de respecter ce Code de conduite_.
 
 
