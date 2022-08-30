@@ -6,7 +6,7 @@ cover_image_by: David Clode
 cover_image_ref: https://unsplash.com/photos/Sa8gzIBaKrw
 tags: 
 toc_headers: ^h[2-3]
-page_order: 19
+page_order: 20
 ---
 
 # Charte sur la Diversité et l'Inclusion du TDWG
