@@ -11,6 +11,8 @@ page_order: 19
 
 # Charte sur la Diversité et l'Inclusion du TDWG
 
+[EN](../)
+
 Le Biodiversity Information Standards ([TDWG](https://tdwg.org/)) est une organisation bénévole à but non-lucratif dont la vision est de promouvoir la mise à disposition de données scientifiques ouvertes, libre et interconnectées pour une planète durable. Nous poursuivons cela en créant, maintenant, et promouvant l’utilisation de standards ouverts, crées par notre communauté pour permettre le partage et l’utilisation des données de sciences naturelles pour l’enseignement, la recherche, et la prise de décision fondée sur des preuves. Parce que tout ce que produit le TDWG vient de l’expertise, la collaboration et le soutien de ses membres, participantes et participants du monde entier, nous reconnaissons et soutenons la nécessité d’avoir de la diversité et de l’inclusion dans toutes nos activités et nous travaillons à promouvoir un accès équitable aux processus et décisions pris par la communauté du TDWG. L’environnement professionnel encouragé par le TDWG est basé sur la diversité et l’inclusion quel que soit la couleur, l’origine ethnique, la nationalité, la religion, le statut socio-économique ou professionnel, le statut de vétéran, le niveau d’enseignement, le statut marital, la langue, l’âge, le genre, l’expression de genre, l’identité de genre, l’orientation sexuelle, les capacités mentales ou physiques, l’information génétique, les différences d’apprentissages et la diversité neurologique.
 
 Le TDWG encourage activement les contributions provenant d’une communauté diverse pour ses membres, son leadership, ses comités et ses activités. 
