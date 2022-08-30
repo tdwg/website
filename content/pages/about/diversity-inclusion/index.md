@@ -10,6 +10,7 @@ page_order: 19
 ---
 
 # TDWG Diversity & Inclusion Statement
+
 _Translations: [FR](./fr)_
 
 Biodiversity Information Standards ([TDWG](https://tdwg.org/)) is a volunteer non-profit organization whose vision is to promote the availability of open, free, and interconnected natural science data for a sustainable planet. We pursue this by creating, maintaining, and promoting the use of open, community-driven standards to enable to enable sharing and use of natural science data for education, research, and evidence-based decision making. Because everything that TDWG produces comes from the expertise, collaboration and support of its members and participants from across the globe, we recognize and embrace the need for diversity and inclusion in all activities and work to provide equitable access to the process and decisions made by the biodiversity information standards community. The professional environment promoted by TDWG is based on diversity and inclusion regardless of color, ethnicity, nationality, religion, professional or socioeconomic status, veteran status, education, marital status, language, age, gender, gender expression, gender identity, sexual orientation, mental or physical ability, genetic information, learning differences, and neurodiversity.
@@ -34,4 +35,4 @@ While TDWG has made progress in diversifying its Executive and the participation
 - Encourage more students and early career professionals to become involved in the work of developing and maintaining data standards and participating in conference activities
 - Identify, mentor and promote a diverse leadership pool by providing opportunities to become involved in committees, interest and task groups, outreach, and organization of conference events.
 
-_Last updated 13 April 2022_
+_Last updated 30 August 2022_
