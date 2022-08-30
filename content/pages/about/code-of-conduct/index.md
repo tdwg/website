@@ -10,6 +10,7 @@ page_order: 18
 ---
 
 # TDWG Code of Conduct
+_Translations: [FR](./fr)_
 
 Biodiversity Information Standards (hereafter referred to as TDWG) sponsors a variety of  written exchanges (e.g., on GitHub, Slack, and social media platforms), as well as in-person and virtual meetings and conferences for sharing, discussing, and promoting ideas related to the construction, use, implementation, and evaluation of standards for sharing biodiversity-related data. _By participating in any activity associated with TDWG, you agree voluntarily to abide by this Code of Conduct._
 
