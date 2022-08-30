@@ -1,6 +1,6 @@
 ---
 title: Videos of each partner in the BiCIKL Project 
-slug: bicikl-meeting
+slug: bicikl-videos
 date: 2022-05-05
 cover_image: https://bicikl-project.eu/storage/temp/public/imageresizecache/26e/913/1f0/26e9131f069e1abfec54a8926b77520c1c4bd3ddf5c31fd0c7867fa52089c53a.jpg
 cover_image_by: BiCIKL project
