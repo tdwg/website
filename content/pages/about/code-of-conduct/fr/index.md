@@ -6,7 +6,7 @@ cover_image_by: Alex Guillaume
 cover_image_ref: https://unsplash.com/photos/16oqzpFRMqs
 tags: 
 toc_headers: ^h[2-3]
-page_order: 18
+page_order: 
 ---
 
 # TDWG Code de Conduite
