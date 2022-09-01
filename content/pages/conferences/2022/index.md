@@ -136,13 +136,13 @@ TDWG gratefully acknowledges the generous financial or in-kind support of TDWG 2
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://gbif.org"> <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://dissco.eu/"> <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 <td style="text-align: center; vertical-align: middle;" colspan="3" width="50%">
   <a href="https://"> <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft logo" width="300" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a> 
 </td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://dissco.eu/"> <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
+<td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://ala.org.au"> <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="270" height="" style="vertical-align: middle; left-margin: auto; right-margin: auto;" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;" colspan="3" width="50%"><a href="https://fieldmuseum.org/"><img src="https://static.tdwg.org/sponsors/field-museum.png" alt="Field Museum logo" width="180" height="" style="vertical-align: middle; horizontal-align: center" /></a></td>
