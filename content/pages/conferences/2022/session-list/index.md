@@ -8,7 +8,15 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 14 August 2022_
+_last updated 4 September 2022_
+
+## Keynote speakers
+
+**Session Type** Plenary
+
+**Organizers** 2022 [Program](https://www.tdwg.org/conferences/2022/program-committee/) and Conference Organizing Committees
+
+Four [keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/) will be featured during TDWG 2022. Their abstracts will appear in a [special collection](https://biss.pensoft.net/collection/406/) of [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/) in _Biodiversity Information Science and Standards_ (BISS).
 
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
