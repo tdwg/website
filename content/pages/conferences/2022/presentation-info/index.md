@@ -6,7 +6,6 @@ cover_image_by: Jakob Creutz
 cover_image_ref: https://unsplash.com/photos/ZtqnVVvOyjA
 tags: conference
 page_order: 6
-status: hidden
 ---
 # Presentation Expectations
 
