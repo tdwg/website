@@ -10,17 +10,25 @@ status: hidden
 ---
 # Presentation Expectations
 
-_Last updated 4 September 2022_
+_Last updated 5 September 2022_
 
 ## Overview
 
 TDWG 2022 will be our first in-person conference since the COVID-19 pandemic and will feature a significant proportion of remote (virtual) participants from all over the world. The hours of the conference will correspond to those of the hosts in Sofia, Bulgaria (9 AM–6 PM [UTC+3 EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) from 17–21 October at the [Grand Hotel Millennium Sofia](https://grandhotelmillenniumsofia.bg/) (see [360˚ tour](https://360tour.ghms.bg/) of the Conference Center 4th floor). There will be parallel sessions each day (except Wednesday), with sessions ranging from 60 to 120 minutes with 30 minute breaks between sessions. Speakers will be expected to upload presentations prior to their session and to arrive for their talks at least 20 minutes ahead of presentations. **Remote participants will need to pre-record their presentations and upload them by 26 September.**
 
-**All presenters and session organizers must be [registered](https://www.tdwg.org/conferences/2022/#registration) for the conference**
+**All presenters and session organizers must be [registered](https://www.tdwg.org/conferences/2022/#registration) for the conference.**
 
 ### Language
 
 While the language of the conference is English, we are experimenting this year with allowing speakers to present in a language other than English IF the presentation is pre-recorded and includes English subtitles and slide content. **NEW: please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) if you intend to do this.**
+
+### Contacts
+
+**[Session co-organizers](https://www.tdwg.org/conferences/2022/session-list/)** if you have questions about the organization of your session or your contribution to it.
+
+**[conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)** if you need to change your registration type or require special accommodations at the conference, which were not already listed when you registered.
+
+**[editor@tdwg.org](mailto:editor@tdwg.org)** if you need to change the presenter of your session, or have an issue with your abstract.
 
 ## Resources for presenters and moderators
 
