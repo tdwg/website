@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 5 September 2022_
+_Last updated 6 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -23,12 +23,25 @@ The Biodiversity Information Standards (TDWG) annual conference in 2022 will be 
 
 **Stronger together - in person or online!  #tdwg2022**
 
-Although pandemic restrictions appear to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live, as well as recorded and posted for people participating remotely (registration required). 
+Although pandemic restrictions appear to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live via Zoom, as well as recorded and posted for people participating remotely (registration required). 
+
+**Update:** Conference notifications will be distributed to registrants via MailChimp. 
 
 
 ## Deadlines
 
-[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - **[Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) are now in effect for in-person attendees.** Space is limited for in-person attendance at the conference—reserve your space now. The last day to register with full access is Friday 14 October 2022.
+**[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022** - [Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) are now in effect for in-person attendees. 
+
+- Space is limited for in-person attendance at the conference—reserve your space now. 
+- The last day to register and pay for full access to the conference is **Friday 14 October 2022**. 
+- Links to join the virtual components of the conference (i.e, to Zoom and Slack)  will not be sent until payment is received.
+
+**Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
+
+- 26 September 2022 Deadline to upload talks to be presented virtually. 
+- 7 October 2022 - Deadline to upload posters and optional accompanying short videos 
+
+### Expired deadlines
 
 **17 August 2022** - Last day to switch in-person registration to virtual with full refund of the difference (minus credit card processing fees). Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) for more information.
 
@@ -67,7 +80,20 @@ If the cost of registration is a barrier to your participation in this conferenc
 ### Benefits of being a TDWG member
 
 Individual TDWG members and up to five representatives from [member institutions](https://www.tdwg.org/about/membership/#institutional%20members%202022_1) enjoy a discounted normal registration.  Not yet a member? [Become an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or update your membership before registering for TDWG 2022. All current members (or the primary contact for institutional members) should have received an email (in early May) with discount codes. Members should know their code before registering.
-  
+
+## Schedule
+
+The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) running until 6 PM in Sofia, Bulgaria. A Welcome Reception will be held Sunday 16 October from 5–7 PM.  
+
+**A detailed schedule is under development and expected to be released in the week of 12 September.**
+
+### Presentation information
+
+**Update** Just added are more [detailed instructions](./presentation-info) for preparing for your presentation at TDWG 2022 as well as instructions for moderators and session organizers. **Deadlines for uploading content for virtual speakers (26 September) as well as virtual poster presenters (7 October)** are included.
+
+## Working Sessions
+
+Working sessions of the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held separately after the conference. Details TBD. There may be time at the conference for some IG/TG meetings depending on program space.
 
 ## Abstracts
 
@@ -119,15 +145,6 @@ TDWG now has a [liability disclaimer and release](https://www.tdwg.org/about/lia
 
 It is highly recommended that those traveling to the conference in person should secure travel insurance to cover potential delays or other mishaps that may be encountered.
 
-## Schedule
-
-The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) in Sofia, Bulgaria. A Welcome Reception will be held Sunday 16 October from 5–7 PM.  
-
-**A schedule will be available no earlier than late August.**
-
-## Working Sessions
-
-Working sessions of the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held separately after the conference. Details TBD. There may be time at the conference for some IG/TG meetings depending on program space.
 
 ## Supporters
 
