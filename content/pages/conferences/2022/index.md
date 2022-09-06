@@ -38,7 +38,7 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 **Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
 
-- 26 September 2022 Deadline to upload talks to be presented virtually. 
+- 26 September 2022 - Deadline to upload talks to be presented virtually. 
 - 7 October 2022 - Deadline to upload posters and optional accompanying short videos 
 
 ### Expired deadlines
