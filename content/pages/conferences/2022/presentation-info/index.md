@@ -9,13 +9,18 @@ page_order: 6
 ---
 # Presentation Expectations
 
-_Last updated 5 September 2022_
+_Last updated 6 September 2022_
 
 ## Overview
 
-TDWG 2022 will be our first in-person conference since the COVID-19 pandemic and will feature a significant proportion of remote (virtual) participants from all over the world. The hours of the conference will correspond to those of the hosts in Sofia, Bulgaria (9 AM–6 PM [UTC+3 EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) from 17–21 October at the [Grand Hotel Millennium Sofia](https://grandhotelmillenniumsofia.bg/) (see [360˚ tour](https://360tour.ghms.bg/) of the Conference Center 4th floor). There will be parallel sessions each day (except Wednesday), with sessions ranging from 60 to 120 minutes with 30 minute breaks between sessions. Speakers will be expected to upload presentations prior to their session and to arrive for their talks at least 20 minutes ahead of presentations. **Remote participants will need to pre-record their presentations and upload them by 26 September.**
+TDWG 2022 will be our first in-person conference since the COVID-19 pandemic and will feature a significant proportion of remote (virtual) participants from all over the world. The hours of the conference will correspond to those of the hosts in Sofia, Bulgaria (9 AM–6 PM [UTC+3 EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) from 17–21 October at the [Grand Hotel Millennium Sofia](https://grandhotelmillenniumsofia.bg/) (see [360˚ tour](https://360tour.ghms.bg/) of the Conference Center 4th floor). 
 
-**All presenters and session organizers must be [registered](https://www.tdwg.org/conferences/2022/#registration) for the conference.**
+- All presenters and session organizers must be [registered](https://www.tdwg.org/conferences/2022/#registration) for the conference.
+- There will be parallel sessions each day (except Wednesday), with sessions ranging from 60 to 120 minutes with 30 minute breaks between sessions.
+- In-person speakers should upload their slides at least 24 h prior to the start of their session
+- Speakers should arrive at least 20 minutes ahead of a session start for a technical check. 
+- Remote speakers may decide to present live, but they must pre-record their presentations so that a back-up is in place in case of technical failure.
+- **Pre-recorded presentations should be uploaded by 26 September.**
 
 ### Language
 
