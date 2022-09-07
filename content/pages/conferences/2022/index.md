@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 6 September 2022_
+_Last updated 7 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -33,7 +33,7 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 **[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022** - [Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) are now in effect for in-person attendees. 
 
 - Space is limited for in-person attendance at the conference—reserve your space now. 
-- The last day to register and pay for full access to the conference is **Friday 14 October 2022**. 
+- The last day to register and pay for in-person access to the conference is **Friday 14 October 2022**. 
 - Links to join the virtual components of the conference (i.e, to Zoom and Slack)  will not be sent until payment is received.
 
 **Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
