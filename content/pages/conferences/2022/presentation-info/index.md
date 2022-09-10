@@ -9,7 +9,7 @@ page_order: 6
 ---
 # Presentation Expectations
 
-_Last updated 6 September 2022_
+_Last updated 10 September 2022_
 
 ## Overview
 
@@ -69,6 +69,8 @@ Abstracts are expected for all talks listed in the program. The time allotted to
 Each poster features a published abstract. While there will be a time reserved on Thursday afternoon for poster presenters to interact with other attendees, posters will be available for viewing, comments, and questions throughout the conference and should be uploaded to the proper folder (link will be emailed separately; see also [Instructions for Poster Presenters](https://docs.google.com/document/d/1YUCvkJNfbXyjR3Zc8O4i2cU0PpOBYyxuQbxpcnLOSOs/edit?usp=sharing)) by **7 October**.
 
 Posters should be uploaded as PDF files. Presenters may also provide a short video (<3 min) about their posters. See also [Instructions for Posters](https://docs.google.com/document/d/1YUCvkJNfbXyjR3Zc8O4i2cU0PpOBYyxuQbxpcnLOSOs/edit?usp=sharing).
+
+**Note:** There is no space or provisions for physical posters at the venue.
 
 ## Featured plenary or keynote speakers
 
