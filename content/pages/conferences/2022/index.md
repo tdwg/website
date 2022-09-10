@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 9 September 2022_
+_Last updated 10 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -92,6 +92,8 @@ TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/
 ### Presentation information
 
 **Update** Just added are more [detailed instructions](./presentation-info) for preparing for your presentation at TDWG 2022 as well as instructions for moderators and session organizers. **Deadlines for uploading content for virtual speakers (26 September) as well as virtual poster presenters (7 October)** are included.
+
+**Note:** There is no space at the venue for physical posters.
 
 ## Working Sessions
 
