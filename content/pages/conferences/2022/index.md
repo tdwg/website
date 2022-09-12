@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 10 September 2022_
+_Last updated 12 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -135,15 +135,15 @@ If you are attending the conference in person, please secure any necessary docum
 
 ### COVID updates
 
-The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
+**It is highly recommended that in-person participants bring and wear high-quality masks during the conference** to prevent contracting and/or spreading COVID-19. Hotel staff will be required to mask during the event. Further updates on local conditions and requirements will be provided closer to the time of the event.
 
 The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandhotelmillenniumsofia.bg/hotel-policies/), information specific to the conference venue and hotel, detailed further in "[Millenium Prime](https://grandhotelmillenniumsofia.bg/millennium-prime/)."
 
-**It is recommended that in-person participants bring and wear high-quality masks during the conference** to prevent contracting and/or spreading COVID-19. Hotel staff will be required to mask during the event. Further updates on local conditions and requirements will be provided closer to the time of the event.
+The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
 
 [Medical labs](https://www.tdwg.org/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. 
 
-TDWG now has a [liability disclaimer and release](https://www.tdwg.org/about/liability-disclaimer/) policy regarding COVID-19 and relevant to in-person conference attendees.
+**TDWG now has a [liability disclaimer and release](https://www.tdwg.org/about/liability-disclaimer/) policy** regarding COVID-19 and relevant to in-person conference attendees.
 
 ### Travel insurance
 
