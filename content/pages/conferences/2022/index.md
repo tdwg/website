@@ -141,7 +141,7 @@ The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandho
 
 The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
 
-[Medical labs](https://www.tdwg.org/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. 
+[Medical labs](https://www.tdwg.org/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. You are encouraged to bring your own rapid COVID test kits.
 
 **TDWG now has a [liability disclaimer and release](https://www.tdwg.org/about/liability-disclaimer/) policy** regarding COVID-19 and relevant to in-person conference attendees.
 
