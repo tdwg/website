@@ -93,7 +93,7 @@ Interested parties are invited to watch and contribute to the GitHub repository 
 ## Resources
 
 1.  Darwin Core. <https://dwc.tdwg.org>
-2.  MIxS <https://gensc.org/mixs/>
+2.  MIxS <https://gensc.org/mixs/>(broken link) <http://w3id.org/mixs>
 3.  Yilmaz P, Kottmann R, Field D, Knight R, Cole JR, Amaral-Zettler L, et al. Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nat Biotechnol. 2011 May;29(5):415-20. doi: <https://doi.org/10.1038/nbt.1823>. PMID: 21552244; PMCID: PMC3367316.
 4. 	Genomic Standards Consortium <https://gensc.org> 
 5. 	International Nucleotide Sequence Database Collaboration <https://insdc.org>
