@@ -215,3 +215,7 @@ This symposium discusses the idea of how “extended” taxonomic curation can p
 The Wikimedia ecosystem of collaborative open knowledge websites like Wikipedia, Wikidata, Wikispecies, Wikisource or Wikimedia Commons covers the curation and sharing of multiple facets of biodiversity-related knowledge in a variety of ways. These interactions both contribute to and benefit from standardization efforts around biodiversity data. This session will explore such interactions from various perspectives, including but not limited to those of subfields of biology (e.g., taxonomy or invasion biology) or informatics (e.g., ontology development or knowledge graphs), with special attention to cross-disciplinary aspects like the curation of depictions of biodiversity in art or the use of biodiversity information more generally in non-biological fields of research or practice. Workflows using or contributing to any of the Wikimedia projects - in any language - are within scope. The session contributions will be in English, but the use of examples from non-English contexts is highly encouraged.
 
 [See published abstracts](https://biss.pensoft.net/collection/405/)
+
+## Unconference
+
+This is a late-breaking session with details to be announced.
