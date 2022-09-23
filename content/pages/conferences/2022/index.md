@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 12 September 2022_
+_Last updated 22 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -34,11 +34,12 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 - Space is limited for in-person attendance at the conference—reserve your space now. 
 - The last day to register and pay for full access to the conference is **Friday 14 October 2022**. 
+- The discounted room block at the Grand Hotel Millenium Sofia will expire **Friday 23 September 2022**
 - Links to join the virtual components of the conference (i.e, to Zoom and Slack)  will not be sent until payment is received.
 
 **Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
 
-- 26 September 2022 - Deadline to upload talks to be presented virtually. 
+- 26 September 2022 - Deadline to upload talks to be presented virtually. Email with link sent 22 September via MailChimp.
 - 7 October 2022 - Deadline to upload posters and optional accompanying short videos 
 
 ### Expired deadlines
@@ -87,7 +88,7 @@ The conference will take place 17–21 October with full days of events starting
 
 TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
-**A detailed schedule is under development and expected to be released in the week of 12 September.**
+**Schedule overview is now posted [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022).** A detailed view is under development.
 
 ### Presentation information
 
