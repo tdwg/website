@@ -8,7 +8,7 @@ tags: conference
 page_order: 5
 ---
 
-_last updated 19 September 2022_
+_last updated 26 September 2022_
 
 ## Keynote speakers
 
@@ -218,4 +218,6 @@ The Wikimedia ecosystem of collaborative open knowledge websites like Wikipedia,
 
 ## Unconference
 
-This is a late-breaking session with details to be announced.
+**Session Organizers:** Abigail Benson, U.S. Geological Survey, Lakewood, CO, USA, [albenson@usgs.gov](mailto:albenson@usgs.gov); and Dimitri Brosens, Flemish Research Institute for Nature and Forest, Brussels, Belgium [dimitri.brosens@inbo.be](mailto:dimitri.brosens@inbo.be)  
+
+TDWG attendees will have the opportunity to take control of the conference programme for 60 minutes of unbridled discussion, demonstration and debate. Do you have topic you want to discuss but haven't seen it in any of the sessions? Did one of the sessions spark an idea for you and you want to explore it further? Do you have an application or analysis you want to explore with others? If so, then the unconference is for you and we want you to propose your ideas. What topics need deeper discussion and exploration? The unconference is a place to collaborate, explore and take a deep dive into emerging topics of interest. (In-person only at this time)
