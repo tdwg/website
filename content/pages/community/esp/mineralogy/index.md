@@ -275,7 +275,6 @@ History and development of ABCDEFG: a data standard for geosciences.
 Fossil Record, 21(1), 47-53.
 https://doi.org/10.5194/fr-21-47-2018
 
-\[4\] SKOS Simple Knowledge Organization System Reference.
-
-https://www.w3.org/TR/skos-reference/
+\[4\] SKOS Simple Knowledge Organization System Reference. 
+https://www.w3.org/TR/skos-reference/ 
 W3C Recommendation 18 August 2009.
