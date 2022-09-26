@@ -104,20 +104,21 @@ independent systems, the Dana <sup>\[1\]</sup> and Nickel Strunz
 vocabularies have limited applicability to the field of mineralogy,
 which calls for special consideration in the form of a task group.
 
-Given its narrower scope and shared knowledge domain, the Mineralogical
-Collection Extension effort will reside under the 'parent' ESP interest
-group. Furthermore, the task group will follow the practices established
-by the existing inventory of ESP task groups that include the [Darwin
-Core Chronometric Age Extension](https://www.tdwg.org/community/esp/chrono/)
-and [Extension for Geosciences (EFG)](https://www.tdwg.org/community/esp/efg/).
+Given its narrower scope and shared knowledge domain, the
+Mineralogical Collection Extension effort will reside under the
+'parent' ESP interest group. Furthermore, the task group will follow
+the practices established by the existing inventory of ESP task groups
+that include the [Darwin Core Chronometric Age
+Extension](https://www.tdwg.org/community/esp/chrono/) and [Extension
+for Geosciences (EFG)](https://www.tdwg.org/community/esp/efg/).
 
 ### Phases
 
 The task group will operate in two primary phases. The first involves
-recruiting new members in disciplines underrepresented in TDWG. The task
-group is the ideal mechanism to facilitate community expansion by
-providing collective purpose and structure. Once a recruitment effort is
-complete, the second phase begins. The newly formed collection of
+recruiting new members in disciplines underrepresented in TDWG. The
+task group is the ideal mechanism to facilitate community expansion by
+providing collective purpose and structure. Once a recruitment effort
+is complete, the second phase begins. The newly formed collection of
 subject matter experts will develop a supplemental extension to the
 Darwin Core to support the needs of the mineralogical collections
 community.
@@ -129,25 +130,25 @@ set of goals, outputs, and outcomes with the two existing ESP task
 groups, the Darwin Core Chronometric Age Extension and Extension for
 Geosciences (EFG) <sup>\[3\]</sup>. These are:
 
-1.  > Establish a formal set of terms and definitions for mineralogical
-    > collections at the specimen level following the Darwin Core model
-    > and the best practices of previous successful task groups within
-    > TDWG.
+1. Establish a formal set of terms and definitions for mineralogical
+collections at the specimen level following the Darwin Core model
+and the best practices of previous successful task groups within
+TDWG.
 
-2.  > Develop a supplemental specification that extends the existing
-    > Darwin Core Archive to provide direct support for mineralogical
-    > collections.
+2. Develop a supplemental specification that extends the existing
+Darwin Core Archive to provide direct support for mineralogical
+collections.
 
-3.  > Author a Quick Reference Guide for the Mineralogical Collections
-    > Extension that follows the current Darwin Core Quick Reference
-    > information model.
+3. Author a Quick Reference Guide for the Mineralogical Collections
+Extension that follows the current Darwin Core Quick Reference
+information model.
 
-4.  > Provide a crosswalk between the Mineralogy Extension and the 
+4. Provide a crosswalk between the Mineralogy Extension and the 
 [EFG standard](https://www.tdwg.org/community/esp/efg/)
-    > <sup>\[3\]</sup> that leverages the Simple Knowledge Organization
-    > System (SKOS) schema <sup>\[4\]</sup> to describe the conceptual
-    > similarities between the two standards (e.g., narrowMatch,
-    > exactMatch, closeMatch, etc.).
+<sup>\[3\]</sup> that leverages the Simple Knowledge Organization
+System (SKOS) schema <sup>\[4\]</sup> to describe the conceptual
+similarities between the two standards (e.g., narrowMatch,
+exactMatch, closeMatch, etc.).
 
 ### Community
 
@@ -157,37 +158,36 @@ community expansion in the future.
 
 ### Strategy
 
-1.  > Create a GitHub repository for the task group to assure adoption
-    > of best practices for the development of TDWG standards and
-    > successful submission of final deliverables to the TDWG leadership
-    > and community for review. The repository configuration and
-    > function will follow existing TDWG practices.
+1. Create a GitHub repository for the task group to assure adoption of
+best practices for the development of TDWG standards and successful 
+submission of final deliverables to the TDWG leadership and community 
+for review. The repository configuration and function will follow 
+existing TDWG practices.
 
-2.  > Assemble a team of professionals with expertise in mineralogy and
-    > experience in projects involving the standardization of
-    > collections data, especially those associated with earth sciences.
-    > This will allow the group to optimize outcomes through expert
-    > analysis and consensus across key subject areas.
+2. Assemble a team of professionals with expertise in mineralogy and
+experience in projects involving the standardization of collections
+data, especially those associated with earth sciences. This will allow
+the group to optimize outcomes through expert analysis and consensus
+across key subject areas.
 
-3.  > Survey the current inventory of data standardization
-    > efforts/projects in the mineralogical and related collections
-    > communities.
+3. Survey the current inventory of data standardization efforts/projects in
+the mineralogical and related collections communities.
 
-4.  > Solicit the mineralogical collections community for current
-    > collections data management policies and practices. Heterogeneity
-    > is prioritized over homogeneity in community responses to maximize
-    > use case variability and negate the risk of gaps in procedures.
+4. Solicit the mineralogical collections community for current
+collections data management policies and practices. Heterogeneity is
+prioritized over homogeneity in community responses to maximize use
+case variability and negate the risk of gaps in procedures.
 
-5.  > Finalize a vocabulary at the specimen-level (in contrast to the
-    > collection or institutional level) through community deliberation
-    > and consensus within the task group, the parent ESP Interest
-    > Group, and the wider TDWG community.
+5. Finalize a vocabulary at the specimen-level (in contrast to the
+collection or institutional level) through community deliberation
+and consensus within the task group, the parent ESP Interest
+Group, and the wider TDWG community.
 
-6.  > In adherence to guidelines in the TDWG Standards Documentation
-    > Standard (SDS), submit final deliverables (see *Deliverables*
-    > section below) for review in accordance with TDWG by-laws
-    > ([https://www.tdwg.org/about/process/](https://www.tdwg.org/about/process/)
-    > for the ratification of standards.
+6. In adherence to guidelines in the TDWG Standards Documentation
+Standard (SDS), submit final deliverables (see *Deliverables*
+section below) for review in accordance with TDWG by-laws
+([https://www.tdwg.org/about/process/](https://www.tdwg.org/about/process/)
+for the ratification of standards.
 
 All results from surveys/assessments/solicitations listed above will be
 published to the task force GitHub Repository with any required
@@ -197,17 +197,17 @@ supplemental/supporting documentation.
 
 The final deliverables of the task group include:
 
-1.  > A formal set of terms and definitions for mineralogy collections
-    > within the Darwin Core architecture in multiple forms, including a
-    > standard TDWG documentation deliverable (TDWG SDS) and a quick
-    > reference guide
+1. A formal set of terms and definitions for mineralogy collections
+within the Darwin Core architecture in multiple forms, including a
+standard TDWG documentation deliverable (TDWG SDS) and a quick
+reference guide
 
-2.  > A supplemental extension schema to the existing Darwin Core
-    > Archive for mineralogical collections
+2. A supplemental extension schema to the existing Darwin Core
+Archive for mineralogical collections
 
-3.  > A schema crosswalk between the Mineralogy Collections Extension
-    > and EFG standard using the SKOS schema to describe conceptual
-    > differences between individual terms.
+3. A schema crosswalk between the Mineralogy Collections Extension
+and EFG standard using the SKOS schema to describe conceptual
+differences between individual terms.
 
 ### Becoming Involved
 
