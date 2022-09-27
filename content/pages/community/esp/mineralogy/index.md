@@ -1,9 +1,9 @@
 ---
 title: Mineralogical Collections Extension
 summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
+cover_image: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
+cover_image_by: Brian Wangenheim
+cover_image_ref: https://unsplash.com/photos/v0oOFQ6M7j8
 tags: task group
 github: 
 status: published
