@@ -549,7 +549,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">17:00-19:00 EEST / UTC 14:00-16:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022&amp;iso=20221016T17&amp;p1=238&amp;ah=2" target="_blank">here </a></span>)</div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">17:00-19:00 EEST / UTC 14:00-16:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022&amp;iso=20221016T17&amp;p1=238&amp;ah=2" target="_blank">here </a></span>)</div>
             </td>
             <td class="s4">&nbsp;</td>
             <td>&nbsp;</td>
@@ -578,13 +578,13 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="4" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
             </td>
             <td>&nbsp;</td>
         </tr>
         <tr style="height: 20px">
             <td class="s8 softmerge" colspan="3" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">Plenary Session in the Shakespeare Hall, with overflow into the Mozart Hall</div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">Plenary Session in the Shakespeare Hall, with overflow into the Mozart Hall</div>
             </td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -990,7 +990,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
             </td>
             <td class="s4">&nbsp;</td>
             <td>&nbsp;</td>
@@ -1222,7 +1222,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s8 softmerge" dir="ltr">
-            <div class="softmerge-inner" style="width:615px;left:-1px">Concurrent sessions (note offset start times for talks)</div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">Concurrent sessions (note offset start times for talks)</div>
             </td>
             <td class="s26">&nbsp;</td>
             <td class="s26">&nbsp;</td>
@@ -1539,7 +1539,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
             </td>
             <td class="s4">&nbsp;</td>
             <td>&nbsp;</td>
@@ -1568,7 +1568,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here </a></span></div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here </a></span></div>
             </td>
             <td class="s4">&nbsp;</td>
             <td>&nbsp;</td>
@@ -2090,7 +2090,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">9:00-18:00 EEST / UTC 6:00-15:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022+daily+sessions&amp;iso=20221017T09&amp;p1=238&amp;ah=8" target="_blank">here</a></span></div>
             </td>
             <td class="s4">&nbsp;</td>
             <td>&nbsp;</td>
@@ -2301,7 +2301,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s8 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">Plenary Session in the Shakespeare Hall, with overflow into the Mozart Hall</div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">Plenary Session in the Shakespeare Hall, with overflow into the Mozart Hall</div>
             </td>
             <td class="s9">&nbsp;</td>
             <td class="s17">&nbsp;</td>
@@ -2414,7 +2414,7 @@ page_order: 105
         </tr>
         <tr style="height: 20px">
             <td class="s8 softmerge" colspan="2" dir="ltr" rowspan="1">
-            <div class="softmerge-inner" style="width:615px;left:-1px">Plenary Session in the Shakespeare Hall, with overflow into the Mozart Hall</div>
+            <div class="softmerge-inner" style="width:40px;left:-1px">Plenary Session in the Shakespeare Hall, with overflow into the Mozart Hall</div>
             </td>
             <td class="s9">&nbsp;</td>
             <td class="s17">&nbsp;</td>
@@ -2464,5 +2464,4 @@ page_order: 105
         </tr>
     </tbody>
 </table>
-
 </div>
