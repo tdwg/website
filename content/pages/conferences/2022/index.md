@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 22 September 2022_
+_Last updated 29 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -86,9 +86,11 @@ Individual TDWG members and up to five representatives from [member institutions
 
 The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) running until 6 PM in Sofia, Bulgaria. A Welcome Reception will be held Sunday 16 October from 5–7 PM.  
 
-TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
+- Schedule overview by room - [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022)
+- Schedule overview by day - [https://tinyurl.com/TDWG2022-ByDay-Fichtmueller](https://tinyurl.com/TDWG2022-ByDay-Fichtmueller)
+- Detailed schedule (PDF) - [https://tinyurl.com/TDWG2022-Sched-Detail](https://tinyurl.com/TDWG2022-Sched-Detail)
 
-**Schedule overview is now posted [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022).** A detailed view is under development.
+TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
 ### Presentation information
 
