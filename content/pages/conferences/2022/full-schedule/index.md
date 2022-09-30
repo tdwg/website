@@ -541,7 +541,7 @@ page_order: 105
     </thead>
     <tbody>
         <tr style="height: 20px">
-            <td class="s0" dir="ltr">Sunday, 16 October</td>
+            <td><h2>Sunday, 16 October</h></td>
             <td class="s1">&nbsp;</td>
             <td class="s1">&nbsp;</td>
             <td class="s2" dir="ltr">&nbsp;</td>
