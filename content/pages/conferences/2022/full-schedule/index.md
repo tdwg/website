@@ -541,8 +541,11 @@ page_order: 105
     </thead>
     <tbody>
         <tr style="height: 20px">
-            <td colspan="5"><h2>Sunday, 16 October</h></td>
-        </tr>
+            <td class="s0" dir="ltr">Sunday, 16 October</td>
+            <td class="s1">&nbsp;</td>
+            <td class="s1">&nbsp;</td>
+            <td class="s2" dir="ltr">&nbsp;</td>
+            <td>&nbsp;</td>        </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
             <div class="softmerge-inner" style="width:40px;left:-1px">17:00-19:00 EEST / UTC 14:00-16:00 (see your local time <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2022&amp;iso=20221016T17&amp;p1=238&amp;ah=2" target="_blank">here </a></span>)</div>
