@@ -10,9 +10,9 @@ url: index.html
 save_as: index.html
 template: page_home
 alert_title: See the latest on TDWG 2022 in Sofia, Bulgaria, 17–21 October! 
-alert_text: Register to attend in-person or virtually (online)!
-alert_button: Learn more...
-alert_link: /conferences/2022/
+alert_text: Register to attend in-person or virtually (online)! 
+alert_button: Schedules published!
+alert_link: /conferences/2022/#schedule_1
 alert_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
