@@ -541,11 +541,7 @@ page_order: 105
     </thead>
     <tbody>
         <tr style="height: 20px">
-            <td><h2>Sunday, 16 October</h></td>
-            <td class="s1">&nbsp;</td>
-            <td class="s1">&nbsp;</td>
-            <td class="s2" dir="ltr">&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="5"><h2>Sunday, 16 October</h></td>
         </tr>
         <tr style="height: 20px">
             <td class="s3 softmerge" colspan="2" dir="ltr" rowspan="1">
