@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 29 September 2022_
+_Last updated 30 September 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -88,7 +88,7 @@ The conference will take place 17–21 October with full days of events starting
 
 - Schedule overview by room - [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022)
 - Schedule overview by day - [https://tinyurl.com/TDWG2022-ByDay-Fichtmueller](https://tinyurl.com/TDWG2022-ByDay-Fichtmueller)
-- Detailed schedule (PDF draft) - [https://tinyurl.com/TDWG2022-Sched-Detail](https://tinyurl.com/TDWG2022-Sched-Detail)
+- Detailed schedule (PDF draft) - [https://tinyurl.com/TDWG2022-Sched-Detail](https://tinyurl.com/TDWG2022-Sched-Detail) - last updated 30 Sept
 
 TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
