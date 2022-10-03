@@ -535,6 +535,18 @@ page_order: 105
     }
 </style>
 
+<script type="text/javascript"> 
+  // Some configuration variables
+  let breakUTCLine = 1;
+  let breakLocalDayLine = 1;
+  let breakLocalHour = 1;
+  let dontBreakLocalHour = -1;
+  let weekOfDayFormat = 'long';
+  let monthFormat = 'short';
+  let localLocale = 'en-US';
+  let showDayShift = 1;
+</script>
+
 <div class="ritz grid-container" dir="ltr">
 <table cellpadding="0" cellspacing="0" class="waffle">
     <thead>
@@ -596,7 +608,7 @@ page_order: 105
             <td>&nbsp;</td>
         </tr>
         <tr style="height: 20px">
-            <td class="s6" dir="ltr">9:00 - 9:30</td>
+            <td class="s6" dir="ltr">9:00 - 9:30<span style="font-size:75%">(<script type="text/javascript">document.write( horaLocal('2022-10-17T06:00:00Z', dontBreakLocalHour, showDayShift));</script> - <script type="text/javascript">document.write( horaLocal('2022-10-17T06:30:00Z', dontBreakLocalHour, showDayShift));</script>)</span></td>
             <td class="s6" dir="ltr">Welcome and opening</td>
             <td class="s6">&nbsp;</td>
             <td>&nbsp;</td>
