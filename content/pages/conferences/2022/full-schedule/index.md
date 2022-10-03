@@ -8,7 +8,90 @@ tags: conference
 status: hidden
 page_order: 105
 ---
+<script type="text/javascript"> 
 
+function horaLocal(hileraFechaHora, addlinebreak, addDay) {
+// The function convert the parameter ISO Date string to the local hour HH:MM.
+// Use addlinebreak to indicate a new line (1), a space (0) after the time.
+// If addDay = 1 then a "(+1 day)" is added.
+  var fecha = new Date(hileraFechaHora);   
+  var horas = fecha.getHours();
+  var minutos = fecha.getMinutes();
+  
+  if (horas < 10) {
+     horas = "0" + horas.toString();
+  }
+  if (minutos < 10) {
+     minutos = "0" + minutos.toString();
+  }
+  
+  if (addlinebreak == 1) { 
+    linebreak = "<br />"; 
+  } else { 
+    if (addlinebreak == 0) {
+      linebreak = "&nbsp;"; 
+    } else { 
+      linebreak = ""; 
+    } 
+  }
+  
+  shiftDays = 0;
+  shifted = "";
+  if (addDay == 1) {
+    shiftDays = fecha.getDate() - parseInt(hileraFechaHora.substr(hileraFechaHora.search("T")-2,2),10);
+    if (shiftDays > 0) {
+      shifted = "&plus;1 day";
+    } else {
+      if (shiftDays < 0) {
+        shifted = "&minus;1 day";
+      }
+    }
+  }
+  return horas + ":" + minutos + linebreak + shifted;
+}
+
+function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
+  // The function convert the parameter UTC ISO Date string to the local time.
+  // Use addlinebreak to indicate a new line (1), a space (0) between "UTC" and the sign of the time.
+  var fecha = new Date(hileraFechaHora);    
+
+  var desfase = fecha.getTimezoneOffset();
+  var signo = "&plus;";
+  
+  if (desfase < 0) { signo = "&plus;"; } else { signo = "&minus;"; }
+  desfase = Math.abs(desfase);
+  var horas = Math.trunc(desfase/60);
+  var minutos = Math.trunc(desfase - (horas * 60));
+  
+  if (horas < 9) {horas = "0" + horas};
+  if (minutos < 9) {minutos = "0"+ minutos};
+  if (addlinebreak == 1) { 
+    linebreak = "<br />"; 
+  } else { 
+    if (addlinebreak == 0) {
+      linebreak = "&nbsp;"; 
+    } else { 
+      linebreak = ""; 
+    } 
+  }
+  return ("UTC" + linebreak + signo) + (horas + ":" + minutos);
+}
+
+function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
+  // The function convert the parameter ISO Date string to the day string.
+  // lineas indicates if the result is more than 1 line (No:0, Yes:1)
+  var fecha = new Date(hileraFechaHora);
+  var nombreDia = fecha.toLocaleDateString(localidad, { weekday: formatoDia });
+  var nombreMes = fecha.toLocaleDateString(localidad, { month: formatoMes });
+  if (lineas == 1) {
+    nombreDia = nombreDia + "<br>";
+  } else {
+    nombreDia = nombreDia + "&nbsp;";
+  }
+  nombreDia = nombreDia + fecha.getDate() + "&nbsp;" + nombreMes;
+  return nombreDia;
+}
+</script>
 
 
 
