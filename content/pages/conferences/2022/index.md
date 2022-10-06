@@ -99,7 +99,7 @@ TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/
 
 ## Working Sessions
 
-Working sessions of the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held separately after the conference. Details TBD. There may be time at the conference for some IG/TG meetings depending on program space.
+UPDATE. Working sessions for the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held post-conference from November 7-10. Free registration coming soon, look for announcements at the conference and on social media. There may be time at the conference for some IG/TG meetings depending on program space.
 
 ## Abstracts
 
