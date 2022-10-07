@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 5 October 2022_
+_Last updated 7 October 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -25,8 +25,15 @@ The Biodiversity Information Standards (TDWG) annual conference in 2022 will be 
 
 Although pandemic restrictions appear to be waning in many countries, we expect that many organizations will still be limiting professional travel in the fall of 2022. Consequently, TDWG 2022 will be a hybrid conference; in-person for those who can travel, and virtual for those who cannot. The conference will accommodate symposia, workshops, contributed oral and poster presentations, demos, and discussions, as well as keynotes and social events. Session timing will be anchored to the working hours of Sofia, Bulgaria, where the in-person conference will be held. (UTC+3; EEST during the conference.) Sessions will be streamed live via Zoom, as well as recorded and posted for people participating remotely (registration required). 
 
-**Update:** Conference notifications will be distributed to registrants via MailChimp. 
+## Conference notifications
 
+Important conference notifications are being distributed to **registrants** via MailChimp. These include 
+
+- personalized links to join session Zoom tracks (required for virtual participation); _N.B. if you do not already have a Zoom account, you will need to  register for a free account before registering for conference Zoom tracks (track = room at conference)._
+- an invitation to join the dedicated TDWG2022 Slack workspace (for synchronous, asynchronous, in-person and virtual participant networking and interactions)
+- links and instructions for uploading slides, pre-recorded video, and posters for the conference (see deadlines!)
+
+These links should not be shared.
 
 ## Deadlines
 
@@ -34,8 +41,7 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 - Space is limited for in-person attendance at the conference—reserve your space now. 
 - The last day to register and pay for full access to the conference is **Friday 14 October 2022**. 
-- The discounted room block at the Grand Hotel Millenium Sofia will expire **Friday 23 September 2022**
-- Links to join the virtual components of the conference (i.e, to Zoom and Slack)  will not be sent until payment is received.
+- Links to join the virtual components of the conference (i.e, to Zoom and Slack)  may not be sent until payment is received.
 
 **Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
 
@@ -44,11 +50,10 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 ### Expired deadlines
 
-**17 August 2022** - Last day to switch in-person registration to virtual with full refund of the difference (minus credit card processing fees). Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) for more information.
-
-[Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) - **1 July 2022, now closed** (contact [editor@tdwg.org](mailto:editor@tdwg.org) with questions)
-
-[Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) - **15 April 2022, now closed**
+- The discounted room block at the Grand Hotel Millenium Sofia expired Friday 23 September 2022
+- Last day to switch in-person registration to virtual with full refund of the difference (minus credit card processing fees) was 17 August 2022. Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) for more information.
+- [Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) closed 1 July 2022.
+- [Call for Proposals for Organized Sessions](https://www.tdwg.org/conferences/2022/call-for-organized-sessions/) closed 15 April 2022.
 
 ## Registration
 
@@ -103,12 +108,9 @@ UPDATE. Working sessions for the TDWG Interest Groups, Task groups, and Function
 
 ## Abstracts
 
-Abstracts are required for all contributions listed in the program (oral presentations and virtual posters) and will be published in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). **Presenters are required to complete conference registration before abstracts can be published.**
+All conference abstracts are now freely available in in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Don't forget to tweet about abstracts you find there **#tdwg2022**.
 
-**The [call for abstracts](https://www.tdwg.org/conferences/2022/call-for-abstracts/) deadline is now passed.**  Please see the [list of organized sessions](./session-list/) for symposia accepting contributions. Alternatively, open contributions for talks and virtual posters/infographics will also be accepted. Please address questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).
-
-**Update 8 July 2022: Notification of provisional acceptance of abstracts.** All currently submitted abstracts (check your [ARPHA dashboard](https://arpha.pensoft.net/dashboard) to see) have provisional acceptance for inclusion in TDWG 2022. You will not be able to see any flags used by editors to indicate this. Keep an eye out for requests for revisions.
-
+A big thank you to all of the authors, reviewers, editors, session organizers, and the staff at Pensoft for their efforts in making this work available not only to those registering for the conference but to anyone with an internet connection.
 
 ## Hosts and in-person logistics
 
@@ -129,7 +131,7 @@ TDWG 2022 will be held at the **[Grand Hotel Millennium Sofia](https://grandhote
 
 ### Accommodations
 
-Special rates have been secured for delegates at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)**, although other options are also available. [See details...](https://www.tdwg.org/conferences/2022/local-info/#accommodations)
+The discounted room block at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)** is no longer available (deadline was 23 September). Other options may still be available. [See details...](https://www.tdwg.org/conferences/2022/local-info/#accommodations)
 
 ### Visa requirements
 
