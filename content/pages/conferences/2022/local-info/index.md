@@ -9,7 +9,7 @@ page_order: 3
 status: published
 ---
 
-_last updated 14 July 2022_
+_last updated 7 October 2022_
 
 ## About Sofia
 
@@ -36,16 +36,9 @@ Address: 89B, Vitosha Blvd, 1463 Sofia, Bulgaria
 
 ## Accommodations
 
-Special rates* have been secured for delegates at the **Grand Hotel Millenium Sofia**
+The special rates secured for delegates at the **Grand Hotel Millenium Sofia** expired 23 September and are no longer available. Contact the hotel for current rates and availability.
 
-Room type | Price per night (1 person) | Price per night (2 people)
---- | --- | ---
-[Exclusive room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/exclusive-room/) (B&B) | 100.67 € | 121.34 €
-[Premium room](https://grandhotelmillenniumsofia.bg/accommodation-sofia/premium-room/) (B&B) | 120.67 € | 141.34 €
-
-_*rates include breakfast (B&B), VAT, and tourist taxes; **[reservation link](http://bookings.ihotelier.com/bookings.jsp?groupID=3543433&hotelID=110569)**_
-
-However, we are glad to offer options for nearby hotels at special rates for TDWG 2022 delegates (use code TDWG2022 in communications for discount). All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
+Options for nearby hotels at special rates for TDWG 2022 delegates (use code TDWG2022 in communications for discount) may still be available. All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
 - **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
 - **[Hotel Downtown](https://hoteldowntownsofia.com/bg)** (4 stars) - Single room €70; Double room €85 - for reservations contact [reservations@hotel-downtown.net](mailto:reservations@hotel-downtown.net) with discount code TDWG2022 
