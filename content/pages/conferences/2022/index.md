@@ -27,20 +27,20 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 ## Conference notifications
 
-Important conference notifications are being distributed to **registrants** via MailChimp. These include 
+Important conference notifications are being sent from Conference Organizers to **registrants** via MailChimp. These include 
 
 - personalized links to join session Zoom tracks (required for virtual participation); _N.B. if you do not already have a Zoom account, you will need to  register for a free account before registering for conference Zoom tracks (track = room at conference)._
 - an invitation to join the dedicated TDWG2022 Slack workspace (for synchronous, asynchronous, in-person and virtual participant networking and interactions)
 - links and instructions for uploading slides, pre-recorded video, and posters for the conference (see deadlines!)
 
-These links should not be shared.
+These links should not be shared. Questions? Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
 
 ## Deadlines
 
 **[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022** - [Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) are now in effect for in-person attendees. 
 
-- Space is limited for in-person attendance at the conference—reserve your space now. 
 - The last day to register and pay for full access to the conference is **Friday 14 October 2022**. 
+- Space is limited for in-person attendance at the conference—reserve your space now. 
 - Links to join the virtual components of the conference (i.e, to Zoom and Slack)  may not be sent until payment is received.
 
 **Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
