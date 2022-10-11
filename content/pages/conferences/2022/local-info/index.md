@@ -51,7 +51,7 @@ Options for nearby hotels at special rates for TDWG 2022 delegates (use code TDW
 
 ### Money
 
-BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the euro at a rate of EUR/BGN 1.95583. Card payments are accepted at most = restaurants and supermarkets as well as hotels.
+BGN (Bulgarian Lev) is the official currency of Bulgaria. It is pegged to the euro at a rate of EUR/BGN 1.95583. Card payments are accepted at most restaurants and supermarkets as well as hotels.
 
 ### COVID testing
 
@@ -91,7 +91,7 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 
 ### Dinner options
 
-Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grant Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
+Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grand Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street - with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
 
 - **[Restaurant Moma](https://g.page/Restaurant-Moma?share)** - restaurant with traditional cuisine 
 - **[Shtastlivetsa](https://goo.gl/maps/FrJCa3YCbPXdh6CB8)** -  European and Bulgarian national cuisine
