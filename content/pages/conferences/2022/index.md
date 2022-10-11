@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 7 October 2022_
+_Last updated 10 October 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -27,10 +27,10 @@ Although pandemic restrictions appear to be waning in many countries, we expect 
 
 ## Conference notifications
 
-Important conference notifications are being sent from Conference Organizers to **registrants** via MailChimp. These include 
+Important conference notifications are being sent from Conference Organizers or TDWG Secretariat to **registrants** via MailChimp. These include 
 
 - personalized links to join session Zoom tracks (required for virtual participation); _N.B. if you do not already have a Zoom account, you will need to  register for a free account before registering for conference Zoom tracks (track = room at conference)._
-- an invitation to join the dedicated TDWG2022 Slack workspace (for synchronous, asynchronous, in-person and virtual participant networking and interactions)
+- an invitation to join the dedicated TDWG2022 Slack workspace (for synchronous, asynchronous, in-person and virtual participant networking and interactions). See introduction to [using TDWG 2022 Slack](https://tinyurl.com/using-TDWG2022-slack).
 - links and instructions for uploading slides, pre-recorded video, and posters for the conference (see deadlines!)
 
 These links should not be shared. Questions? Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
@@ -92,7 +92,7 @@ Individual TDWG members and up to five representatives from [member institutions
 The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) running until 6 PM in Sofia, Bulgaria. A Welcome Reception will be held Sunday 16 October from 5–7 PM.  
 
 - Detailed schedule (PDF draft) - [https://tinyurl.com/TDWG2022-Sched-Detail](https://tinyurl.com/TDWG2022-Sched-Detail) - last updated 4 October
-- Schedule overview by day - [https://tinyurl.com/TDWG2022-ByDay-Fichtmueller](https://tinyurl.com/TDWG2022-ByDay-Fichtmueller)
+- Schedule overview by day - [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022)
 
 TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
