@@ -698,7 +698,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
             <td>&nbsp;</td>
         </tr>
         <tr style="height: 20px">
-            <td class="s6" dir="ltr">9:30 - 10:15</td>
+            <td class="s6" dir="ltr">9:30 - 10:15<span style="font-size:75%"><br/>(<script type="text/javascript">document.write( horaLocal('2022-10-17T6:30:00Z, dontBreakLocalHour, showDayShift));</script> - <script type="text/javascript">document.write( horaLocal('2022-10-17T7:15:00Z, dontBreakLocalHour, showDayShift));</script>)</span></td>
             <td class="s6" dir="ltr">KEYNOTE:</td>
             <td class="s6">&nbsp;</td>
             <td>&nbsp;</td>
