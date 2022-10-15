@@ -15,7 +15,7 @@ status: published
 # 17–21 October
 
 
-_Last updated 10 October 2022_
+_Last updated 15 October 2022_
 
 <!-- Translations: ES, FR, JP -->
 
@@ -37,19 +37,11 @@ These links should not be shared. Questions? Contact [conf-organizers@tdwg.org](
 
 ## Deadlines
 
-**[Register](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022** - [Regular registration rates](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) are now in effect for in-person attendees. 
-
-- The last day to register and pay for full access to the conference is **Friday 14 October 2022**. 
-- Space is limited for in-person attendance at the conference—reserve your space now. 
-- Links to join the virtual components of the conference (i.e, to Zoom and Slack)  may not be sent until payment is received.
-
-**Presentation deadlines:** see [Presentation information](https://www.tdwg.org/conferences/2022/presentation-info/)
-
-- 26 September 2022 - Deadline to upload talks to be presented virtually. Email with link sent 22 September via MailChimp.
-- 7 October 2022 - Deadline to upload posters and optional accompanying short videos 
-
 ### Expired deadlines
 
+- [Registration](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - The last day to register and pay for full access to the conference was **Friday 14 October 2022.** Access to the online registration form is now closed.
+- 26 September 2022 - Deadline to upload talks to be presented virtually. Email with link sent 22 September via MailChimp.
+- 7 October 2022 - Deadline to upload posters and optional accompanying short videos 
 - The discounted room block at the Grand Hotel Millenium Sofia expired Friday 23 September 2022
 - Last day to switch in-person registration to virtual with full refund of the difference (minus credit card processing fees) was 17 August 2022. Contact [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) for more information.
 - [Call for Abstract Submission](https://www.tdwg.org/conferences/2022/call-for-abstracts/) closed 1 July 2022.
@@ -59,11 +51,11 @@ These links should not be shared. Questions? Contact [conf-organizers@tdwg.org](
 
 **Regular registration rates are now in effect.** Early Registration for in-person attendance is now closed. The deadline with no penalty (minus credit card fees) to switch from on-line to virtual attendance is 17 August. Upgrading from virtual to in-person attendance will not incur a penalty and is not subject to the 17 August deadline, however there is limited space remaining for in-person attendance. 
 
-**The last day to register for the conference with full access is Friday 14 October 2022.**
+**The last day to register for the conference with full access was Friday 14 October 2022.**
 
-<b><a href="https://events.pensoft.net/events/tdwg-2022-hybrid-conference" target="_blank" class="btn btn-secondary">Register for TDWG 2022</a></b>
+<!--- <b><a href="https://events.pensoft.net/events/tdwg-2022-hybrid-conference" target="_blank" class="btn btn-secondary">Register for TDWG 2022</a></b> --->
 
-Registration costs differ for in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs or early career researchers, and participants from [low/low-middle income nations](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). You can even donate funds to support registration of those in need.  Check out the link above for full details. When you are ready, use the button there to complete your registration.
+Registration costs differ for in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs or early career researchers, and participants from [low/low-middle income nations](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). You can even donate funds to support registration of those in need.  
 
 **All session organizers and _presenters_ at TDWG 2022 must be registered.** If you are listed as a presenter on an [abstract](https://biss.pensoft.net/collection/384/) for the conference, you must be registered before your abstract will be published. Please do this as soon as possible so that we can create the program.  If you are unsure whether you will attend in person or virtually, there is no penalty for registering for virtual participation and later upgrading to in-person status. There is a penalty (after 17 August) for downgrading registration (see [Terms & Conditions on registration link](https://events.pensoft.net/events/tdwg-2022-hybrid-conference)).
 
@@ -128,6 +120,10 @@ who cordially invite you to experience Sofia [in-person](https://www.tdwg.org/co
 ### Conference venue
 
 TDWG 2022 will be held at the **[Grand Hotel Millennium Sofia](https://grandhotelmillenniumsofia.bg/)**, a 5-star hotel located in the heart of the city and within walking distance of the vibrant city center, an area filled with iconic historical and cultural sights, vast green parks and numerous government institutions. See the [360˚ tour](https://360tour.ghms.bg/) of the Conference Center 4th floor.
+
+### Getting to the conference venue
+
+The Grand Hotel Millennium is located in the central part of the city (89B, Vitosha Blvd, 1463 Sofia, Bulgaria). If you are arriving at Sofia Airport you can easily reach it by taking Line 4 of the metro (operates from 5 AM to midnight) from Sofia Airport station (Terminal 2). Make an easy switch at Serdika station to Line 2 or at Sofia University to Line 3 for one more stop to National Palace of Culture (NDK) station. (see maps [https://www.metrosofia.com/en/maps](https://www.metrosofia.com/en/maps))
 
 ### Accommodations
 
