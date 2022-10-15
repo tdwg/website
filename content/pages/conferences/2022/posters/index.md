@@ -23,7 +23,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 	Author(s):  <br />
 	<a href="https://biss.pensoft.net/article/91215/" target="_blank">Abstract</a> <br/>
 	Contact:  <br/>
-	TaxonWorks chat channel (<a href="https://github.com/SpeciesFileGroup/taxonworks"go here </a>to find chat channel link)<br/>
+	<br/>
   </td>
 </tr>
 
@@ -71,7 +71,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 	Author(s):  <br />
 	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> | 
 	<a href="https://static.tdwg.org/conferences/2022/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
-	Contact: nakazato AT dbcls.rois.ac DOT jp <br/>
+	<br/>
 	Twitter: @tkr_nak
   </td>
 </tr>
