@@ -37,6 +37,12 @@ These links should not be shared. Questions? Contact [conf-organizers@tdwg.org](
 
 ## Deadlines
 
+- **If you are presenting in person** your slides must be uploaded no later than the end of sessions on the day prior to your presentation to allow the transfer by the technical folk at VIBE to the conference laptops.
+- **If presenting virtually** your slides also must be uploaded by the end of day _in Sofia_ prior to your presentation. Please join the Zoom room 20 minutes prior to your session to test your access to the conference. 
+- **If you will rely on your recorded presentation,** please notify your session organizer or moderator (see [program](https://tinyurl.com/TDWG2022-program)) and let them know if you will be available for questions after the recording.
+
+Uploading instructions were distributed on 22 September via MailChimp. If you cannot find this email, see the pinned post in TDWG 2022 Slack channel #help-tdwg2022.
+
 ### Expired deadlines
 
 - [Registration](https://events.pensoft.net/events/tdwg-2022-hybrid-conference) for TDWG 2022 - The last day to register and pay for full access to the conference was **Friday 14 October 2022.** Access to the online registration form is now closed.
@@ -49,9 +55,9 @@ These links should not be shared. Questions? Contact [conf-organizers@tdwg.org](
 
 ## Registration
 
-**Regular registration rates are now in effect.** Early Registration for in-person attendance is now closed. The deadline with no penalty (minus credit card fees) to switch from on-line to virtual attendance is 17 August. Upgrading from virtual to in-person attendance will not incur a penalty and is not subject to the 17 August deadline, however there is limited space remaining for in-person attendance. 
+**The last day to register for the conference with full access was Friday 14 October 2022 and the online registration portal is closed.**
 
-**The last day to register for the conference with full access was Friday 14 October 2022.**
+The deadline with no penalty (minus credit card fees) to switch from on-line to virtual attendance was 17 August. Upgrading from virtual to in-person attendance will not incur a penalty and is not subject to the 17 August deadline, however there is limited space remaining for in-person attendance. 
 
 <!--- <b><a href="https://events.pensoft.net/events/tdwg-2022-hybrid-conference" target="_blank" class="btn btn-secondary">Register for TDWG 2022</a></b> --->
 
@@ -63,7 +69,7 @@ If the cost of registration is a barrier to your participation in this conferenc
 
 ### Virtual registration includes
 
-- **Zoom links** to live streamed in-person sessions
+- **Zoom links** to live streamed in-person sessions - you must register _in advance_ in Zoom for these links. Emails via MailChimp were sent with instructions on 5 October, with a reminder on 10 October to all registrants. A final reminder (in addition to personally sent ones) was sent 15 October. 
 - **Links to content on demand** for sessions you may have missed
 - **Link to join dedicated TDWG2022 Slack workspace** to interact, ask questions, join in the conversation for all sessions whether viewed live or on-demand.
 
@@ -83,14 +89,19 @@ Individual TDWG members and up to five representatives from [member institutions
 
 The conference will take place 17–21 October with full days of events starting at 9 AM ([UTC+3; EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) running until 6 PM in Sofia, Bulgaria. A Welcome Reception will be held Sunday 16 October from 5–7 PM.  
 
-- Detailed schedule (PDF draft) - [https://tinyurl.com/TDWG2022-Sched-Detail](https://tinyurl.com/TDWG2022-Sched-Detail) - last updated 4 October
+- Beautiful printable program - [https://tinyurl.com/TDWG2022-program](https://tinyurl.com/TDWG2022-program) (thanks to Slavena Peneva and her team!)
+- Detailed schedule (PDF draft) - [https://tinyurl.com/TDWG2022-Sched-Detail](https://tinyurl.com/TDWG2022-Sched-Detail) - last updated 14 October
 - Schedule overview by day - [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022)
 
 TDWG 2022 will feature [four keynote speakers](https://www.tdwg.org/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
 ### Presentation information
 
-**Update** Just added are more [detailed instructions](./presentation-info) for preparing for your presentation at TDWG 2022 as well as instructions for moderators and session organizers. **Deadlines for uploading content for virtual speakers (26 September) as well as virtual poster presenters (7 October)** are included. An email via MailChimp was sent out 22 September with the upload link for presenters.
+**You must be registered for conference Zoom links to present virtually at TDWG 2022** Multiple email reminders have been sent (5, 10, 15 October in MailChimp), as well as personal email reminders. 
+
+**If you are presenting in person** your slides must be uploaded no later than the end of sessions on the day prior to your presentation to allow the transfer by the technical folk at VIBE to the conference laptops.
+
+See more [detailed instructions](./presentation-info) for preparing for your presentation at TDWG 2022 as well as instructions for moderators and session organizers. **Deadlines for uploading content for virtual speakers (26 September) as well as virtual poster presenters (7 October)** are included. An email via MailChimp was sent out 22 September with the upload link for presenters.
 
 **Note:** There is no space at the venue for physical posters.
 
@@ -108,8 +119,8 @@ A big thank you to all of the authors, reviewers, editors, session organizers, a
 
 TDWG 2022 is hosted by:
 
-- [Pensoft](https://pensoft.net/),
-- [National Museum of Natural History](https://www.nmnhs.com/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en), and 
+- [Pensoft](https://pensoft.net/)
+- [National Museum of Natural History](https://www.nmnhs.com/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en) and 
 - [Institute of Biodiversity and Ecosystem Research](http://www.iber.bas.bg/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en),
 
 who cordially invite you to experience Sofia [in-person](https://www.tdwg.org/conferences/2022/local-info/) and virtually. 
