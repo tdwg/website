@@ -13,6 +13,7 @@ page_order: 35
 
 Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be found in the [poster collection](https://biss.pensoft.net/collection/224/) of our Proceedings this year.  In normal TDWG conferences, we place posters up around the venue and encourage authors to stand by their posters during a social hour or two.  With a virtual conference we are going to convene a few social hours and encourage poster authors to be available in a "break out room" off of the main social hour "meeting". (More detailed instructions to come.) Unfortunately, time zones will mean that most authors won't be able to participate in all social hours.  In the list below, we hope to indicate which social hour(s) each author plan to attend so participants can have a chance to discuss the author's work. Some authors have also provided additional contact information below (e.g. twitter or other websites).
 
+
 <table>
 
 <tr>
@@ -72,7 +73,6 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> | 
 	<a href="https://static.tdwg.org/conferences/2022/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
 	<br/>
-	Twitter: @tkr_nak
   </td>
 </tr>
 
