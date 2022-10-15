@@ -55,7 +55,7 @@ function UTCZonaHorariaLocal(hileraFechaHora, addlinebreak) {
   // Use addlinebreak to indicate a new line (1), a space (0) between "UTC" and the sign of the time.
   var fecha = new Date(hileraFechaHora);    
 
-  var desfase = fecha.getTimezoneOffset();
+  var desfase = fecha.getTimezoneOffset()+3*60;
   var signo = "&plus;";
   
   if (desfase < 0) { signo = "&plus;"; } else { signo = "&minus;"; }
