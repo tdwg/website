@@ -16,7 +16,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 <table>
 
 <tr>
-  <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/vps-91215-quoss.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-91215-quoss.png" alt="vps-91215-quoss" style="max-width:300px; max-height:300px;">
+  <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.png" alt="vps-91215-quoss" style="max-width:300px; max-height:300px;">
 	</td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -29,7 +29,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-91225-koch.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-91225-koch.png" alt="vps-91225-koch" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.png" alt="vps-91225-koch" style="max-width:300px; max-height:300px;">
 	</td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -40,7 +40,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-91297-collier.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-91297-collier.png" alt="vps-91297-collier"  style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-91297-collier.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91297-collier.png" alt="vps-91297-collier"  style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -51,7 +51,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-93584-giannini.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-93584-giannini.png" alt="vps-93584-giannini" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.png" alt="vps-93584-giannini" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -64,13 +64,13 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-93593-langer.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-93593-langer.png" alt="vps-93593-langer" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93593-langer.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93593-langer.png" alt="vps-93593-langer" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
 	Author(s):  <br />
 	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> | 
-	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
+	<a href="https://static.tdwg.org/conferences/2022/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
 	Contact: nakazato AT dbcls.rois.ac DOT jp <br/>
 	Twitter: @tkr_nak
   </td>
@@ -78,7 +78,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-93867-babalou.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-93867-babalou.png" alt="vps-93867-babalou" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.png" alt="vps-93867-babalou" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -90,7 +90,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-93887-meeus.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-93887-meeus.png" alt="vps-93887-meeus" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93887-meeus.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93887-meeus.png" alt="vps-93887-meeus" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -102,7 +102,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-93915-sokol.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-93915-sokol.png" alt="vps-93915-sokol" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93915-sokol.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93915-sokol.png" alt="vps-93915-sokol" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
@@ -114,7 +114,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 <tr>
   <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/vps-94078-hovstad.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/vps-94078-hovstad.png" alt="vps-94078-hovstad" style="max-width:300px; max-height:300px;">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.png" alt="vps-94078-hovstad" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
 	Title: <strong> </strong><br />
