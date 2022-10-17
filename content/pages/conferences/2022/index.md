@@ -108,7 +108,7 @@ See more [detailed instructions](./presentation-info) for preparing for your pre
 
 ## Working Sessions
 
-UPDATE. Working sessions for the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held post-conference from November 7-10. Free registration coming soon, look for announcements at the conference and on social media. There may be time at the conference for some IG/TG meetings depending on program space.
+UPDATE. [Working sessions](https://www.tdwg.org/conferences/2022/working-sessions/) for the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held post-conference from November 7-10. Free registration coming soon, look for announcements at the conference and on social media. There may be time at the conference for some IG/TG meetings depending on program space.
 
 ## Abstracts
 
