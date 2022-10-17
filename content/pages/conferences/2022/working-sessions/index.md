@@ -30,7 +30,7 @@ Each session will be recorded and made available for later viewing. Session orga
 # Registration and how to support the conference
 [Registration is available through Zoom](https://us06web.zoom.us/meeting/register/tZYrf-2pqj8jH9PST-k6ZmZWTPecwjSejmgf). Registration is required to participate in the online event, but it is free. A single registration will allow you to attend any of the sessions. When you register, please answer "Yes" for any meetings you will attend. This is not binding, but will give the meeting organizers an idea of how many to expect. (You do not need to answer "No" for meetings you are not planning to attend.)
 
-The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
+The services required to run an online conference, however, are not free. We encourage all participants to [become TDWG members](https://www.tdwg.org/about/membership/) either as individuals or through their institution. 
 
 
 # Sessions
@@ -102,7 +102,7 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 
 **Organizer:** [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC / GBIF Spain, Madrid, Spain
 
-**About the group:** The current version of the standard was published more than 20 year ago. The previous edition was limited to the terrestrial domain and restricted to plans. The current developments, aiming to cover the marine domain and extend to all living organisms, may attract an ever more extended community of uses.
+**About the group:** The current version of the standard was published more than 20 year ago. The previous edition was limited to the terrestrial domain and restricted to plants. The current developments, aiming to cover the marine domain and extend to all living organisms, may attract an ever more extended community of uses.
 
 
 ## Plinian Core Task Group
