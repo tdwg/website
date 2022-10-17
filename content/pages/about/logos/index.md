@@ -10,7 +10,7 @@ page_order: 14
 
 ## Logos
 
-<table">
+<table>
 <tbody>
 <tr>
 <th style="width: 201px; text-align: left;">Name</th>
