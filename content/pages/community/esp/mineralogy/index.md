@@ -1,5 +1,5 @@
 ---
-title: Mineralogical Collections Extension
+title: Mineralogy Extension
 summary: 
 cover_image: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
 cover_image_by: Brian Wangenheim
@@ -10,9 +10,7 @@ status: published
 ---
 
 
-# Mineralogical Collections Extension
-
-## A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
+# Mineralogy Extension
 
 ### Conveners
 
@@ -24,7 +22,7 @@ North Carolina Museum of Natural Sciences
 Principal Curator, Earth Systems  
 National Museums Scotland  
 
-### Core Members
+### Core Team
 
 **[Alexis Beck](mailto:Alexis.Beck@ville-ge.ch)**  
 IT Specialist  
@@ -40,7 +38,11 @@ Field Museum, Chicago
 
 **[Nicolas Greber](mailto:Nicolas.Greber@ville-ge.ch)**  
 Professor for Geochemistry  
-Natural History Museum of Geneva, Switzerland  
+Natural History Museum of Geneva, Switzerland 
+
+**[Olle Hints](mailto:Olle.Hints@taltech.ee)**  
+Director, Department of Geology  
+Tallinn University of Technology, Estonia 
 
 **[Sean Moran](mailto:sean.moran@naturalsciences.org)**  
 Collections Manager, Paleontology and Geology  
@@ -50,9 +52,14 @@ North Carolina Museum of Natural Sciences
 Curator, Mineralogy  
 Natural History Museum Basel, Switzerland  
 
+**[Jolyon Ralph](mailto:jolyon@mindat.org)**  
+Founder, Mindat.org
+
 **[Chris Tacker](mailto:christopher.tacker@naturalsciences.org)**  
 Research Curator, Geology  
 North Carolina Museum of Natural Sciences  
+
+### Members
 
 
 
