@@ -10,12 +10,64 @@ page_order: 14
 
 ## Logos
 
-Description | Example | Download
---- | --- | ---
-Colour (`#6f9243` and `#e9da9e`) on transparent (for use on light backgrounds) | <img src="{static}tdwg_logo.svg" width="100"> | [png]({static}tdwg_logo.png) / [svg]({static}tdwg_logo.svg)
-Dark `#043b58` on transparent (for use on light backgrounds) | <img src="{static}tdwg_logo_dark_on_transparent.svg" width="100"> | [png]({static}tdwg_logo_dark_on_transparent.png) / [svg]({static}tdwg_logo_dark_on_transparent.svg)
-Light `#f4f4f4` on transparent (for use on dark backgrounds) | <img src="{static}tdwg_logo_light_on_transparent.svg" width="100"> | [png]({static}tdwg_logo_light_on_transparent.png) / [svg]({static}tdwg_logo_light_on_transparent.svg)
-Light `#f4f4f4` on dark `#043b58` | <img src="{static}tdwg_logo_light_on_dark.svg" width="100"> | [png]({static}tdwg_logo_light_on_dark.png) / [svg]({static}tdwg_logo_light_on_dark.svg)
+<table style="width: 644px;">
+<tbody>
+<tr>
+<td style="width: 201px; text-align: center;">Name</td>
+<td style="width: 435px; text-align: center;">Image</td>
+<td style="width: 435px; text-align: center;" colspan="4">File Type</td>
+</tr>
+<tr>
+<td style="width: 201px;">Hex Sticker</td>
+<td style="width: 94px; text-align: center;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png" alt="" width="200" height="231" /></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png">PNG</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Hex-Sticker_frame_blue.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Hex-Sticker_frame_blue.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Hex-Sticker_frame_blue.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="width: 201px;">Horizontal</td>
+<td style="width: 94px; text-align: center;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png" alt="" width="200" height="84" /></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png">PNG</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Hex-Sticker_frame_blue.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Hex-Sticker_frame_blue.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Hex-Sticker_frame_blue.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="width: 201px;">Blue Pill</td>
+<td style="width: 94px; text-align: center;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Pill.png" alt="" width="200" height="40" /></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Pill.png">PNG</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Pill.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Pill.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Pill.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="width: 201px;">Short Form</td>
+<td style="width: 94px; text-align: center;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Short-Form.png" alt="" width="200" height="66" /></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Short-Form.png">PNG</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Short-Form.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Short-Form.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Short-Form.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="width: 201px;">Single Deck</td>
+<td style="width: 94px; text-align: center;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Single-Deck.png" alt="" width="200" height="25" /></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Single-Deck.png">PNG</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Single-Deck.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Single-Deck.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Single-Deck.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="width: 201px;">Vertical</td>
+<td style="width: 94px; text-align: center;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_vertical.png" alt="" width="112" height="200" /></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_vertical.png.png">PNG</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_vertical.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_vertical.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_vertical.svg">SVG</a></td>
+</tr>
+</tbody>
+</table>
+
 
 ## Website colours
 
