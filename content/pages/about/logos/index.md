@@ -93,14 +93,14 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 </tr>
 <tr>
 <td style="vertical-align: middle;">Horizontal</td>
-<td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_horizontal-white.png" alt="" width="200" h_whiteeight="84" /></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_horizontal_white.png">PNG</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_horizontal_white.pdf">PDF</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_horizontal_white.eps">EPS</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_horizontal_white.svg">SVG</a></td>
+<td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_horizontal-white.png" alt="" width="200" height="84" /></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_horizontal-white.png">PNG</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_horizontal-white.pdf">PDF</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_horizontal-white.eps">EPS</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_horizontal-white.svg">SVG</a></td>
 </tr>
 <tr>
-<td style="vertical-align: middle;">White Pill</td>
+<td style="vertical-align: middle;">Blue Pill</td>
 <td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Pill-white.png" alt="" width="200" height="40" /></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Pill-white.png">PNG</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_Pill-white.pdf">PDF</a></td>
