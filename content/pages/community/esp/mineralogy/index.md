@@ -11,6 +11,7 @@ status: published
 
 
 # Mineralogical Collections Extension
+## A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 
 ### Conveners
 
