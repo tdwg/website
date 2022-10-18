@@ -10,6 +10,9 @@ page_order: 14
 
 ## Logos
 
+Please consult the [background and style guide](https://static.tdwg.org/logo/tdwg-2022-logo-documentation.pdf) before using the new TDWG logo (2022).
+
+
 <table>
 <tbody>
 <tr>
