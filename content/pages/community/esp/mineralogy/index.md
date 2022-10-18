@@ -1,5 +1,5 @@
 ---
-title: Mineralogy Extension
+title: Mineralogical Collections Extension
 summary: 
 cover_image: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
 cover_image_by: Brian Wangenheim
