@@ -23,28 +23,12 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 <th style="width: 435px; text-align: center;" colspan="4">File Type</th>
 </tr>
 <tr>
-<td style="width: 201px; vertical-align: middle;">Hex Sticker</td>
-<td style="width: 94px; text-align: center; vertical-align: middle;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png" alt="" width="200" height="231" /></td>
-<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png">PNG</a></td>
-<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Hex-Sticker_frame_blue.pdf">PDF</a></td>
-<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Hex-Sticker_frame_blue.eps">EPS</a></td>
-<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Hex-Sticker_frame_blue.svg">SVG</a></td>
-</tr>
-<tr>
 <td style="width: 201px;  vertical-align: middle;">Horizontal</td>
 <td style="width: 94px; text-align: center;  vertical-align: middle;  vertical-align: middle;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png" alt="" width="200" height="84" /></td>
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png">PNG</a></td>
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_horizontal.pdf">PDF</a></td>
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_horizontal.eps">EPS</a></td>
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_horizontal.svg">SVG</a></td>
-</tr>
-<tr>
-<td style="width: 201px;  vertical-align: middle;">Blue Pill</td>
-<td style="width: 94px; text-align: center;  vertical-align: middle;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Pill.png" alt="" width="200" height="40" /></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Pill.png">PNG</a></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Pill.pdf">PDF</a></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Pill.eps">EPS</a></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Pill.svg">SVG</a></td>
 </tr>
 <tr>
 <td style="width: 201px;  vertical-align: middle;">Short Form</td>
@@ -70,6 +54,22 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_vertical.eps">EPS</a></td>
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_vertical.svg">SVG</a></td>
 </tr>
+<tr>
+<td style="width: 201px;  vertical-align: middle;">Blue Pill</td>
+<td style="width: 94px; text-align: center;  vertical-align: middle;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Pill.png" alt="" width="200" height="40" /></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Pill.png">PNG</a></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Pill.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Pill.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Pill.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="width: 201px; vertical-align: middle;">Hex Sticker</td>
+<td style="width: 94px; text-align: center; vertical-align: middle;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png" alt="" width="200" height="231" /></td>
+<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png">PNG</a></td>
+<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Hex-Sticker_frame_blue.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Hex-Sticker_frame_blue.eps">EPS</a></td>
+<td style="width: 60px; text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Hex-Sticker_frame_blue.svg">SVG</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -84,28 +84,12 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 <th style="text-align: center;" colspan="4">File Type</th>
 </tr>
 <tr>
-<td style="vertical-align: middle;">Hex Sticker</td>
-<td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Hex-Sticker-white_transp_frame.png" alt="" width="200" height="231" /></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Hex-Sticker-white_transp_frame.png">PNG</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_Hex-Sticker-white_transp_frame.pdf">PDF</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_Hex-Sticker-white_transp_frame.eps">EPS</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_Hex-Sticker-white_transp_frame.svg">SVG</a></td>
-</tr>
-<tr>
 <td style="vertical-align: middle;">Horizontal</td>
 <td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_horizontal-white.png" alt="" width="200" height="84" /></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_horizontal-white.png">PNG</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_horizontal-white.pdf">PDF</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_horizontal-white.eps">EPS</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_horizontal-white.svg">SVG</a></td>
-</tr>
-<tr>
-<td style="vertical-align: middle;">Blue Pill</td>
-<td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Pill-white.png" alt="" width="200" height="40" /></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Pill-white.png">PNG</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_Pill-white.pdf">PDF</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_Pill-white.eps">EPS</a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_Pill-white.svg">SVG</a></td>
 </tr>
 <tr>
 <td style="vertical-align: middle;">Short Form</td>
@@ -130,6 +114,22 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_vertical-white.pdf">PDF</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_vertical-white.eps">EPS</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_vertical-white.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="vertical-align: middle;">White Pill</td>
+<td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Pill-white.png" alt="" width="200" height="40" /></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Pill-white.png">PNG</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_Pill-white.pdf">PDF</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_Pill-white.eps">EPS</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_Pill-white.svg">SVG</a></td>
+</tr>
+<tr>
+<td style="vertical-align: middle;">Hex Sticker</td>
+<td style="text-align: center; vertical-align: middle; background-color:SlateGray;"><img src="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Hex-Sticker-white_transp_frame.png" alt="" width="200" height="231" /></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Hex-Sticker-white_transp_frame.png">PNG</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_Hex-Sticker-white_transp_frame.pdf">PDF</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_Hex-Sticker-white_transp_frame.eps">EPS</a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_Hex-Sticker-white_transp_frame.svg">SVG</a></td>
 </tr>
 </tbody>
 </table>
