@@ -13,6 +13,8 @@ page_order: 14
 Please consult the [background and style guide](https://static.tdwg.org/logo/tdwg-2022-logo-documentation.pdf) before using the new TDWG logo (2022).
 
 
+
+
 <table>
 <tbody>
 <tr>
@@ -32,9 +34,9 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 <td style="width: 201px;  vertical-align: middle;">Horizontal</td>
 <td style="width: 94px; text-align: center;  vertical-align: middle;  vertical-align: middle;">&nbsp;<img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png" alt="" width="200" height="84" /></td>
 <td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png">PNG</a></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_Hex-Sticker_frame_blue.pdf">PDF</a></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_Hex-Sticker_frame_blue.eps">EPS</a></td>
-<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_Hex-Sticker_frame_blue.svg">SVG</a></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/PDF/TDWG-Logo_horizontal.pdf">PDF</a></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/EPS/TDWG-Logo_horizontal.eps">EPS</a></td>
+<td style="width: 60px; text-align: center;  vertical-align: middle;"><a href="https://static.tdwg.org/logo/Colour/SVG/TDWG-Logo_horizontal.svg">SVG</a></td>
 </tr>
 <tr>
 <td style="width: 201px;  vertical-align: middle;">Blue Pill</td>
