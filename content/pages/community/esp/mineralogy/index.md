@@ -10,7 +10,7 @@ status: published
 ---
 
 
-# Mineralogy Extension
+# Mineralogical Collections Extension
 
 ### Conveners
 
@@ -22,7 +22,7 @@ North Carolina Museum of Natural Sciences
 Principal Curator, Earth Systems  
 National Museums Scotland  
 
-### Core Team
+### Core Members
 
 **[Alexis Beck](mailto:Alexis.Beck@ville-ge.ch)**  
 IT Specialist  
