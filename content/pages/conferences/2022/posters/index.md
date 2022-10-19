@@ -68,6 +68,19 @@ Voting will close end of day Thursday October 20 and winners will be announced d
 
 <tr>
   <td style="text-align:center">
+  <a href="https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.jpg" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.png" alt="vps-91585-johaadien"  style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
+    Title: <strong>An Update on Persistent Identifiers in Norwegian Biodiversity Data</strong><br />
+    Author(s): Rukaya Johaadien, Dag Endresen, Michal Torma <br />
+    <a href="https://biss.pensoft.net/article/91585/" target="_blank">Abstract</a> <br/>
+    Presenting author: Rukaya Johaadien <br/>
+    <br/>
+  </td>
+</tr>
+	
+<tr>
+  <td style="text-align:center">
   	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.png" alt="vps-93584-giannini" style="max-width:300px; max-height:300px;">
   </td>
   <td style="vertical-align:middle">
