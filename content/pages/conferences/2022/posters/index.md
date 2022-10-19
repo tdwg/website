@@ -5,7 +5,7 @@ cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 cover_image_by: 
 cover_image_ref: 
 tags: conference
-status: 
+status: hidden
 page_order: 7
 ---
 
@@ -31,28 +31,17 @@ Voting will close end of day Thursday October 20 and winners will be announced d
 <table>
 
 <tr>
-  <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.png" alt="vps-91215-quoss" style="max-width:300px; max-height:300px;">
-	</td>
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.png" alt="vps-93867-babalou" style="max-width:300px; max-height:300px;">
+  </td>
   <td style="vertical-align:middle">
-	Title: <strong>Building Essential Biodiversity Variable netCDFs with the ebvcube R Package </strong><br />
-	Author(s): Luise Quoß, Néstor Fernández, Christian Langer, Jose Valdez, Miguel Alejandro Fernández, Henrique M. Pereira <br />
-	<a href="https://biss.pensoft.net/article/91215/" target="_blank">Abstract</a> <br/>
-	Presenting author: Luise Quoß <br/>
-	<br/>
+	Title: <strong> iKNOW: A platform for knowledge graph construction for biodiversity</strong><br />
+	Author(s): Samira Babalou, David Schellenberger Costa, Helge Bruelheide, Jens Kattge, Christine Römermann, Christian Wirth, Birgitta König-Ries <br/>
+	<a href="https://biss.pensoft.net/article/59041/" target="_blank">Abstract</a> <br/>
+	  Presenting author: Samira Babalou <br/>
   </td>
 </tr>
 
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.png" alt="vps-91225-koch" style="max-width:300px; max-height:300px;">
-	</td>
-  <td style="vertical-align:middle">
-	Title: <strong>Clavis: An open and versatile identification key format </strong><br />
-	Author: Wouter Koch <br />
-	<a href="https://biss.pensoft.net/article/91225/" target="_blank">Abstract</a><br/>
-	  Presenting author: Wouter Koch <br/>
-  </td>
-</tr>
 
 <tr>
   <td style="text-align:center">
@@ -66,19 +55,7 @@ Voting will close end of day Thursday October 20 and winners will be announced d
   </td>
 </tr>
 
-<tr>
-  <td style="text-align:center">
-  <a href="https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.jpg" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.png" alt="vps-91585-johaadien"  style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-    Title: <strong>An Update on Persistent Identifiers in Norwegian Biodiversity Data</strong><br />
-    Author(s): Rukaya Johaadien, Dag Endresen, Michal Torma <br />
-    <a href="https://biss.pensoft.net/article/91585/" target="_blank">Abstract</a> <br/>
-    Presenting author: Rukaya Johaadien <br/>
-    <br/>
-  </td>
-</tr>
-	
+
 <tr>
   <td style="text-align:center">
   	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.png" alt="vps-93584-giannini" style="max-width:300px; max-height:300px;">
@@ -92,6 +69,47 @@ Voting will close end of day Thursday October 20 and winners will be announced d
   </td>
 </tr>
 
+
+<tr>
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.png" alt="vps-94078-hovstad" style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
+	Title: <strong>Developing and Maintaining a National Biodiversity Data Infrastructure – An example from Norway </strong><br />
+	Author(s): Knut Anders Hovstad, Stein Hoem, Eveliina Päivikki Kallioniemi, Arild Lindgaard, Stine S Markussen, Toril Loennechen Moen, Tove Rimestad <br/>
+	<a href="https://biss.pensoft.net/article/59041/" target="_blank">Abstract</a> <br/>
+	  Presenting author: Knut Anders Hovstad <br/>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="text-align:center">
+  <a href="https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.jpg" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.png" alt="vps-91585-johaadien"  style="max-width:300px; max-height:300px;">
+  </td>
+  <td style="vertical-align:middle">
+    Title: <strong>An Update on Persistent Identifiers in Norwegian Biodiversity Data</strong><br />
+    Author(s): Rukaya Johaadien, Dag Endresen, Michal Torma <br />
+    <a href="https://biss.pensoft.net/article/91585/" target="_blank">Abstract</a> <br/>
+    Presenting author: Rukaya Johaadien <br/>
+    <br/>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.png" alt="vps-91225-koch" style="max-width:300px; max-height:300px;">
+	</td>
+  <td style="vertical-align:middle">
+	Title: <strong>Clavis: An open and versatile identification key format </strong><br />
+	Author: Wouter Koch <br />
+	<a href="https://biss.pensoft.net/article/91225/" target="_blank">Abstract</a><br/>
+	  Presenting author: Wouter Koch <br/>
+  </td>
+</tr>
+
+
 <tr>
   <td style="text-align:center">
   	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93593-langer.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93593-langer.png" alt="vps-93593-langer" style="max-width:300px; max-height:300px;">
@@ -101,18 +119,6 @@ Voting will close end of day Thursday October 20 and winners will be announced d
 	Author(s): Christian Langer, Néstor Fernández, Luise Quoß, Jose Valdez, Miguel Fernandez, Henrique M. Pereira <br />
 	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a><br/>
 	Presenting author: Christian Langer<br/>
-  </td>
-</tr>
-
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.png" alt="vps-93867-babalou" style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-	Title: <strong> iKNOW: A platform for knowledge graph construction for biodiversity</strong><br />
-	Author(s): Samira Babalou, David Schellenberger Costa, Helge Bruelheide, Jens Kattge, Christine Römermann, Christian Wirth, Birgitta König-Ries <br/>
-	<a href="https://biss.pensoft.net/article/59041/" target="_blank">Abstract</a> <br/>
-	  Presenting author: Samira Babalou <br/>
   </td>
 </tr>
 
@@ -131,6 +137,19 @@ Voting will close end of day Thursday October 20 and winners will be announced d
 
 
 <tr>
+  <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.png" alt="vps-91215-quoss" style="max-width:300px; max-height:300px;">
+	</td>
+  <td style="vertical-align:middle">
+	Title: <strong>Building Essential Biodiversity Variable netCDFs with the ebvcube R Package </strong><br />
+	Author(s): Luise Quoß, Néstor Fernández, Christian Langer, Jose Valdez, Miguel Alejandro Fernández, Henrique M. Pereira <br />
+	<a href="https://biss.pensoft.net/article/91215/" target="_blank">Abstract</a> <br/>
+	Presenting author: Luise Quoß <br/>
+	<br/>
+  </td>
+</tr>
+
+
+<tr>
   <td style="text-align:center">
   	<a href="https://static.tdwg.org/conferences/2022/posters/vps-93915-sokol.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-93915-sokol.png" alt="vps-93915-sokol" style="max-width:300px; max-height:300px;">
   </td>
@@ -142,16 +161,4 @@ Voting will close end of day Thursday October 20 and winners will be announced d
   </td>
 </tr>
 
-
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.png" alt="vps-94078-hovstad" style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-	Title: <strong>Developing and Maintaining a National Biodiversity Data Infrastructure – An example from Norway </strong><br />
-	Author(s): Knut Anders Hovstad, Stein Hoem, Eveliina Päivikki Kallioniemi, Arild Lindgaard, Stine S Markussen, Toril Loennechen Moen, Tove Rimestad <br/>
-	<a href="https://biss.pensoft.net/article/59041/" target="_blank">Abstract</a> <br/>
-	  Presenting author: Knut Anders Hovstad <br/>
-  </td>
-</tr>
 </table>
