@@ -74,7 +74,7 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 </table>
 
 
-### Monochrome
+### White
 
 <table>
 <tbody>
@@ -97,7 +97,7 @@ Please consult the [background and style guide](https://static.tdwg.org/logo/tdw
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PNG/TDWG-Logo_Short-Form-white.png">PNG</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/PDF/TDWG-Logo_Short-Form-white.pdf">PDF</a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/EPS/TDWG-Logo_Short-Form-white.eps">EPS</a></td>
-<td style="text-align: center; vertical-align: middle;"><!-- a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_Short-Form-white.svg">SVG</a --></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://static.tdwg.org/logo/White/SVG/TDWG-Logo_Short-Form-white.svg">SVG</a></td>
 </tr>
 <tr>
 <td style="vertical-align: middle;">Single Deck</td>
