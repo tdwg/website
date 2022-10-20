@@ -11,7 +11,6 @@ status: published
 
 
 # Mineralogical Collections Extension
-
 ## A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 
 ### Conveners
@@ -40,7 +39,11 @@ Field Museum, Chicago
 
 **[Nicolas Greber](mailto:Nicolas.Greber@ville-ge.ch)**  
 Professor for Geochemistry  
-Natural History Museum of Geneva, Switzerland  
+Natural History Museum of Geneva, Switzerland 
+
+**[Olle Hints](mailto:Olle.Hints@taltech.ee)**  
+Director, Department of Geology  
+Tallinn University of Technology, Estonia 
 
 **[Sean Moran](mailto:sean.moran@naturalsciences.org)**  
 Collections Manager, Paleontology and Geology  
@@ -50,9 +53,14 @@ North Carolina Museum of Natural Sciences
 Curator, Mineralogy  
 Natural History Museum Basel, Switzerland  
 
+**[Jolyon Ralph](mailto:jolyon@mindat.org)**  
+Founder, Mindat.org
+
 **[Chris Tacker](mailto:christopher.tacker@naturalsciences.org)**  
 Research Curator, Geology  
 North Carolina Museum of Natural Sciences  
+
+### Members
 
 
 
