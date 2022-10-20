@@ -99,6 +99,19 @@ Voting will close end of day Thursday October 20 and winners will be announced d
 
 <tr>
   <td style="text-align:center">
+  	<a href="https://static.tdwg.org/conferences/2022/posters/vps-95668-kazem.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-95668-kazem.png" alt="vps-95668-kazem" style="max-width:300px; max-height:300px;">
+	</td>
+  <td style="vertical-align:middle">
+	Title: <strong>BiodivBank: designing a global repository and portal for structured biodiversity data</strong><br />
+	Author: Anahita J.N. Kazem, Birgitta Koenig-Ries, Henrique M. Pereira, Jonathan M. Chase<br />
+	<a href="https://biss.pensoft.net/article/95668/" target="_blank">Abstract</a><br/>
+	  Presenting author: Anahita J.N. Kazem <br/>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="text-align:center">
   	<a href="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.png" alt="vps-91225-koch" style="max-width:300px; max-height:300px;">
 	</td>
   <td style="vertical-align:middle">
