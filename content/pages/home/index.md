@@ -13,8 +13,8 @@ alert_title: TDWG 2022 Working Sessions 7–10 November
 alert_text: Register to attend via Zoom (it's free!) 
 alert_button: See Working Sessions
 alert_link: /conferences/2022/working-sessions/
-alert_image: https://images.unsplash.com/photo-1621490905568-bbac53f6e18b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1484&q=80
-alert_image_by: Aijthkumar M on Unsplash
+alert_image: https://images.unsplash.com/photo-1593045993147-873cb7462112
+alert_image_by: Marian Florinel Condruz on Unsplash
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
