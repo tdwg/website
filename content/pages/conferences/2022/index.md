@@ -112,7 +112,7 @@ UPDATE. [Working sessions](https://www.tdwg.org/conferences/2022/working-session
 
 ## Abstracts
 
-All conference abstracts are now freely available in in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Don't forget to tweet about abstracts you find there **#tdwg2022**.
+All conference abstracts are now freely available in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Don't forget to tweet about abstracts you find there **#tdwg2022**.
 
 A big thank you to all of the authors, reviewers, editors, session organizers, and the staff at Pensoft for their efforts in making this work available not only to those registering for the conference but to anyone with an internet connection.
 
