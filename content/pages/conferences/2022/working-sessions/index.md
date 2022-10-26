@@ -23,7 +23,7 @@ Below you can find the list of sessions of the respective Interest Groups and Ta
 # Schedule
 The latest schedule has been posted as a Google spreadsheet. See the [TDWG 2022 November Working Sessions Schedule](https://docs.google.com/spreadsheets/d/1pX24tUL52zPZFv9_GzWAho-5LcMa1AhJe3710q4_8cU/edit?usp=sharing). Three time zones are listed for start times of each session. The sessions are listed below in temporal order and each session has a link that will show the time in your local time zone. 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=7439a042f07a82eea86e36ba52e8eac38e30a09f9535b2c477a6066f2024888f%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=UTC&mode=WEEK&src=NzQzOWEwNDJmMDdhODJlZWE4NmUzNmJhNTJlOGVhYzM4ZTMwYTA5Zjk1MzViMmM0NzdhNjA2NmYyMDI0ODg4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EF6C00" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe>
 
 Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
 
