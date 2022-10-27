@@ -28,9 +28,7 @@ In addition, the sessions are listed below in chronological order, and each sess
 <iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=UTC&mode=WEEK&src=NzQzOWEwNDJmMDdhODJlZWE4NmUzNmJhNTJlOGVhYzM4ZTMwYTA5Zjk1MzViMmM0NzdhNjA2NmYyMDI0ODg4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EF6C00" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe><br />  
   
   
-Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
-
-Each session will be recorded and made available for later viewing. Session organizers are encouraged to use shared notes to enable asynchronous participation. Links will be added to the descriptions below after the live session. 
+Time zone differences across our global community make it inevitable that some sessions of interest will occur outside normal working hours, or during the middle of the night, for some who would like to particpate.  Each session will be recorded and made available for later viewing. Session organizers have been encouraged to use shared notes to enable asynchronous participation. Links to videos and notes will be added to the descriptions below after the live session. 
 
 # Registration and how to support the conference
 [Registration is available through Zoom](https://us06web.zoom.us/meeting/register/tZYrf-2pqj8jH9PST-k6ZmZWTPecwjSejmgf). Registration is required to participate in the online event, but it is free. A single registration will allow you to attend any of the sessions. When you register, please answer "Yes" for any meetings you will attend. This is not binding, but will give the meeting organizers an idea of how many to expect. (You do not need to answer "No" for meetings you are not planning to attend.)
