@@ -25,8 +25,9 @@ The calendar below will display the schedule of sessions. Begin by using the con
 
 In addition, the sessions are listed below in chronological order, and each session has a link that will show the time in your local time zone. 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=UTC&mode=WEEK&src=NzQzOWEwNDJmMDdhODJlZWE4NmUzNmJhNTJlOGVhYzM4ZTMwYTA5Zjk1MzViMmM0NzdhNjA2NmYyMDI0ODg4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EF6C00" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=UTC&mode=WEEK&src=NzQzOWEwNDJmMDdhODJlZWE4NmUzNmJhNTJlOGVhYzM4ZTMwYTA5Zjk1MzViMmM0NzdhNjA2NmYyMDI0ODg4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EF6C00" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe><br />  
+  
+  
 Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
 
 Each session will be recorded and made available for later viewing. Session organizers are encouraged to use shared notes to enable asynchronous participation. Links will be added to the descriptions below after the live session. 
