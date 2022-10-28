@@ -21,7 +21,7 @@ Below you can find the list of sessions of the respective Interest Groups and Ta
 
 
 # Schedule
-The calendar below will display the schedule of sessions. Begin by using the controls in the upper left (below the title) to navigate the week of 6 November. The displayed time zone of this calendar is UTC (00:00). You can view your local time for an event by clicking on the event and in the pop-up, clicking either "more details" or "copy to my calendar."  Alternatively, you can import the entire schedule of sessions by importing this [ics file](https://calendar.google.com/calendar/ical/7439a042f07a82eea86e36ba52e8eac38e30a09f9535b2c477a6066f2024888f%40group.calendar.google.com/public/basic.ics). 
+The calendar below will display the schedule of sessions. Begin by using the controls in the upper left (below the title) to navigate the week of 6 November. Note that you need to scroll through the hours of the day (up and down) to see all sessions.  The displayed time zone of this calendar is UTC (00:00). You can view your local time for an event by clicking on the event and in the pop-up, clicking either "more details" or "copy to my calendar."  Alternatively, you can import the entire schedule of sessions by importing this [ics file](https://calendar.google.com/calendar/ical/7439a042f07a82eea86e36ba52e8eac38e30a09f9535b2c477a6066f2024888f%40group.calendar.google.com/public/basic.ics) or click the "+Google Calendar" in the lower right. 
 
 In addition, the sessions are listed below in chronological order, and each session has a link that will show the time in your local time zone. 
 
