@@ -225,7 +225,7 @@ paleontology is required to achieve a higher level understanding of the
 interconnections and patterns that define our natural world. A critical
 component to reaching this long-term goal is establishing a common
 digital language. As the flagship organization for the standardization
-of collections data standards, we hope this task force furthers this
+of collections data standards, we hope this task group furthers this
 global effort by extending the work of TDWG into currently unoccupied
 scientific collections spaces.
 
