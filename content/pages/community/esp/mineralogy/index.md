@@ -1,5 +1,5 @@
 ---
-title: Mineralogical Collections Extension
+title: Mineralogy Extension
 summary: 
 cover_image: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
 cover_image_by: Brian Wangenheim
@@ -9,8 +9,7 @@ github:
 status: published
 ---
 
-
-# Mineralogical Collections Extension
+# Mineralogy Extension
 ## A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
 
 ### Conveners
@@ -33,15 +32,11 @@ Natural History Museum of Geneva, Switzerland
 Research Associate, Mineralogy and Petrography  
 Natural History Museum Bern, Switzerland  
 
-**[Sharon Grant](mailto:sgrant@fieldmuseum.org)**  
-Technology Liaison to Science  
-Field Museum, Chicago  
-
 **[Nicolas Greber](mailto:Nicolas.Greber@ville-ge.ch)**  
 Professor for Geochemistry  
 Natural History Museum of Geneva, Switzerland 
 
-**[Olle Hints](mailto:Olle.Hints@taltech.ee)**  
+**[Olle Hints](mailto:olle.hints@taltech.ee)**  
 Director, Department of Geology  
 Tallinn University of Technology, Estonia 
 
@@ -63,7 +58,6 @@ North Carolina Museum of Natural Sciences
 ### Members
 
 
-
 ### Overview and Motivation
 
 As an organization with origins in taxonomic classification, TDWG
@@ -83,40 +77,38 @@ across an array of earth sciences, including geology,
 chronostratigraphy, mineralogy, paleontology, paleobiology,
 zooarchaeology, and paleoanthropology.
 
-Following the membership trends of the wider TDWG community, the
-majority of ESP interest group participants are members of the
-paleontological community. The result is a set of priorities and
-subsequent discussions that naturally learn toward topics related to
-paleontology and paleontological collections. If the ESP interest group
-is to continue progress toward achieving its comprehensive goal of
-extending support to all earth sciences, specifically those with minimal
-biological overlap such as mineralogy and petrology, these deficits in
-community expertise must be identified and addressed through task
-groups, targeted and concerted efforts within the scope of a parent
-interest group.
+Following the membership rends of the wider TDWG community, most ESP 
+interest group participants are members of the paleontological community. 
+The result is a set of priorities and subsequent discussions that 
+naturally learn toward topics related to paleontology and paleontological 
+collections. If the ESP interest group is to continue progress toward
+achieving its comprehensive goal of extending support to all earth 
+sciences, specifically those with minimal biological overlap such as 
+mineralogy and petrology, these deficits in community expertise must 
+be identified and addressed through task groups, targeted and concerted 
+efforts within the scope of a parent interest group. 
 
 ### Motivation
 
-The formation of the Mineralogical Collections Extension task group is
-motivated by the need to extend support of the Darwin Core Archive and
-TDWG community to Mineralogy, an earth sciences field conceptually
-foreign to biological and paleontological collections. The system and
-techniques used to classify mineralogical specimens are prime examples
-of this semantic disconnect. Specimens in biological and paleontological
-collections share a hierarchical classification system with a classic
-Linnaean origin. The result is a common hierarchical data structure for
-grouping specimens. In contrast, the classification of specimens in
-mineralogical collections is based on one of two partially hierarchical
-independent systems, the Dana <sup>\[1\]</sup> and Nickel Strunz
-<sup>\[2\]</sup> classification systems. The traditional mechanisms and
-vocabularies have limited applicability to the field of mineralogy,
-which calls for special consideration in the form of a task group.
+The formation of the Mineralogy Extension task group is motivated by 
+the need to extend the support of the Darwin Core Archive and TDWG 
+community to Mineralogy, an earth sciences field conceptually foreign 
+to biological and paleontological collections. The system and techniques 
+used to classify mineralogical specimens are prime examples of this 
+semantic disconnect. Specimens in biological and paleontological collections 
+share a hierarchical classification system with a classic Linnaean origin. 
+The result is a common hierarchical data structure for grouping specimens. 
+In contrast, the classification of specimens in mineralogical collections 
+is based on one of two partially hierarchical independent systems,, the 
+Dana <sup>\[1\]</sup> and Nickel Strunz <sup>\[2\]</sup> classification 
+systems. The traditional mechanisms and vocabularies have limited applicability 
+to the field of mineralogy, which calls for special consideration in the form 
+of a task group.
 
 Given its narrower scope and shared knowledge domain, the
-Mineralogical Collection Extension effort will reside under the
-'parent' ESP interest group. Furthermore, the task group will follow
-the practices established by the existing inventory of ESP task groups
-that include the [Darwin Core Chronometric Age
+Mineralogy Extension effort will reside under the 'parent' ESP interest group. 
+Furthermore, the task group will follow the practices established by the existing 
+inventory of ESP task groups that include the [Darwin Core Chronometric Age
 Extension](https://www.tdwg.org/community/esp/chrono/) and [Extension
 for Geosciences (EFG)](https://www.tdwg.org/community/esp/efg/).
 
@@ -133,7 +125,7 @@ community.
 
 ### Goals, Outputs, and Outcomes
 
-The Mineralogy Collections Extension task group plans to adopt a similar
+The Mineralogy Extension task group plans to adopt a similar
 set of goals, outputs, and outcomes with the two existing ESP task
 groups, the Darwin Core Chronometric Age Extension and Extension for
 Geosciences (EFG) <sup>\[3\]</sup>. These are:
@@ -143,20 +135,20 @@ collections at the specimen level following the Darwin Core model
 and the best practices of previous successful task groups within
 TDWG.
 
-2. Develop a supplemental specification that extends the existing
-Darwin Core Archive to provide direct support for mineralogical
-collections.
-
-3. Author a Quick Reference Guide for the Mineralogical Collections
-Extension that follows the current Darwin Core Quick Reference
-information model.
-
-4. Provide a crosswalk between the Mineralogy Extension and the 
+2. Provide a crosswalk between the Mineralogy Extension and the 
 [EFG standard](https://www.tdwg.org/community/esp/efg/)
 <sup>\[3\]</sup> that leverages the Simple Knowledge Organization
 System (SKOS) schema <sup>\[4\]</sup> to describe the conceptual
 similarities between the two standards (e.g., narrowMatch,
 exactMatch, closeMatch, etc.).
+
+3. Develop a supplemental specification that extends the existing
+Darwin Core Archive to provide direct support for mineralogical
+collections.
+
+4. Author a Quick Reference Guide for the Mineralogical Collections
+Extension that follows the current Darwin Core Quick Reference
+information model.
 
 ### Community
 
@@ -172,34 +164,24 @@ submission of final deliverables to the TDWG leadership and community
 for review. The repository configuration and function will follow 
 existing TDWG practices.
 
-2. Assemble a team of professionals with expertise in mineralogy and
-experience in projects involving the standardization of collections
-data, especially those associated with earth sciences. This will allow
-the group to optimize outcomes through expert analysis and consensus
-across key subject areas.
+2. Survey the current inventory of data standardization efforts (classification 
+hierarchies, controlled vocabularies, schemas, etc.) in the mineralogical and 
+related collections communities.
 
-3. Survey the current inventory of data standardization efforts/projects in
-the mineralogical and related collections communities.
-
-4. Solicit the mineralogical collections community for current
-collections data management policies and practices. Heterogeneity is
-prioritized over homogeneity in community responses to maximize use
-case variability and negate the risk of gaps in procedures.
-
-5. Finalize a vocabulary at the specimen-level (in contrast to the
+3. Finalize a vocabulary at the specimen-level (in contrast to the
 collection or institutional level) through community deliberation
 and consensus within the task group, the parent ESP Interest
 Group, and the wider TDWG community.
 
-6. In adherence to guidelines in the TDWG Standards Documentation
+4. In adherence to guidelines in the TDWG Standards Documentation
 Standard (SDS), submit final deliverables (see *Deliverables*
 section below) for review in accordance with TDWG by-laws
 ([https://www.tdwg.org/about/process/](https://www.tdwg.org/about/process/)
 for the ratification of standards.
 
-All results from surveys/assessments/solicitations listed above will be
+*All results from surveys/assessments/solicitations listed above will be
 published to the task force GitHub Repository with any required
-supplemental/supporting documentation.
+supplemental/supporting documentation.*
 
 ### Deliverables
 
@@ -213,7 +195,7 @@ reference guide
 2. A supplemental extension schema to the existing Darwin Core
 Archive for mineralogical collections
 
-3. A schema crosswalk between the Mineralogy Collections Extension
+3. A schema crosswalk between the Mineralogy Extension
 and EFG standard using the SKOS schema to describe conceptual
 differences between individual terms.
 
@@ -258,7 +240,7 @@ terms overlap with biology. As a result, mineralogical collections lack
 support from the TDWG community and the Darwin Core archive. By
 expanding TDWG membership to the mineralogical collections community and
 developing a supplemental extension to the existing Darwin Core Archive
-for mineralogical collections, the Mineralogical Collections Extension
+for mineralogical collections, the Mineralogy Extension
 task group will bring mineralogy under the TDWG "umbrella" thereby
 resolving an identified gap in support to the scientific collections
 community. This effort will strengthen the TDWG community with a new
@@ -286,3 +268,5 @@ https://doi.org/10.5194/fr-21-47-2018
 \[4\] SKOS Simple Knowledge Organization System Reference. 
 https://www.w3.org/TR/skos-reference/ 
 W3C Recommendation 18 August 2009.
+
+Last Modified: 2022/10/31
