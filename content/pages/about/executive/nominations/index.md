@@ -79,8 +79,8 @@ If elected, my first priority would be to refine the organizational and document
     - **_Background:_**  For the past eight years, I have been involved in various national and international research projects to improve access to and use of natural science collections. I am interested in advancing data linkage mechanisms and optimizing the management of research and collection data and its open access. I am a biologist by training with a scientific background in herpetology (amphibian ecology and taxonomy). At the Museum für Naturkunde Berlin (MfN), I am leading the science data and media management team, work on the mobilization of content to subject-specific and cross-domain portals (e.g. GBIF or Europeana), open access to research data, and on the application and further development of data standards (e.g. in the context of TDWG). Recently, I am strongly involved in the multifaceted information management linked to the digitization project of MfNs’ collections and in the development and establishment of the European research infrastructure DiSSCo (e.g. leading Work package and tasks in DiSSCo Prepare, contributing to Synthesys+). In order to open up information from research processes and information about objects in research collections, to enrich it semantically, and to make it accessible for further use, I bridge the gap between the requirements of research, management of research collections, and the technical implementation by developers. Solving these tasks in an interdisciplinary team is often challenging, but at the same time, it enriches my daily work.  <br /> &nbsp;
     - **_Vision:_**  I am enthusiastic about TDWG complexity and member several Interest and Task Groups and in addition since 2020 Chair of the subcommittee ‘Outreach and Communication’. During the last two years, the subcommittee re-worked TDWGs Vision and Mission Statement in an inclusive process and developed a new logo to increase TDWGs memorability. I would like to further work on a better visibility of TDWG, its standards and their application, importantly also beyond the biodiversity informatics and natural science domain through new communication material and channels. TDWGs’ key messages and achievements need to be transported to stakeholders and potential new user groups around the world, even in in current times, where travelling and meetings in person are limited or impossible at all.
 
-
-### Time and Place, Chair  <!-- to serve 2023-24 -->
+<!-- serving 2022-23 
+### Time and Place, Chair  
 
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
@@ -89,7 +89,7 @@ If elected, my first priority would be to refine the organizational and document
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
 If elected, I would continue to act as a relay between potential hosts and TDWG Executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push regional representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate in the annual conference and also to become active in the TG and IG.
-
+-->
 
 ### Regional Representatives
 
