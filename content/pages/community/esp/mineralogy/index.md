@@ -58,7 +58,7 @@ North Carolina Museum of Natural Sciences
 ## Members
 
 
-## Overview and Motivation
+## Overview
 
 As an organization with origins in taxonomic classification, TDWG
 membership has long been dominated by biological research, informatics,
@@ -180,7 +180,7 @@ section below) for review in accordance with TDWG by-laws
 for the ratification of standards.
 
 *All results from surveys/assessments/solicitations listed above will be
-published to the task force GitHub Repository with any required
+published to the task group GitHub Repository with any required
 supplemental/supporting documentation.*
 
 ## Deliverables
