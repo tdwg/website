@@ -1,6 +1,6 @@
 ---
-title: Executive Committee Nominations for 2023-2024
-summary: Listed below are the nominees for open positions on the TDWG Executive Committee for terms spanning 2023-2024.
+title: Executive Committee Nominations for 2023-4
+summary: Listed below are the nominees for open positions on the TDWG Executive Committee for terms spanning 2023-4.
 cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
 cover_image_by: Tim Graf
 cover_image_ref: https://unsplash.com/photos/ErO0E8wZaTA
@@ -10,7 +10,7 @@ status: published
 page_order: 2
 ---
 
-Nominations are open for positions on the [Executive Committee](../) of Biodiversity Information Standards (TDWG) for terms spanning 2023-2024.
+Nominations are open for positions on the [Executive Committee](../) of Biodiversity Information Standards (TDWG) for terms spanning 2023-4.
 
 This is an opportunity to lead the development of biodiversity informatics and work with an enthusiastic team to improve the quality and interoperability of biodiversity data.
 
@@ -32,10 +32,11 @@ The TDWG Secretariat will post the names of nominees below and with links to the
 All officers, including subcommittee chairs, have voting rights on the Executive Committee, and are expected to participate in the Committee’s conference calls, which are generally every two weeks. Executive Committee members are expected to find their own support to attend the annual conference.
 
 ## Offices open for election
+All serving terms 2023-4 
 
-### Deputy Chair
+### Deputy Chair 
 
-[Responsibilities](../responsibilities/#deputy%20chair))
+[Responsibilities](../responsibilities/#deputy%20chair). Serves as Deputy Chair 2023-4, then as Chair 2025-6.
 
 
 <!-- serving 2022-23 
@@ -69,17 +70,18 @@ If elected, my first priority would be to refine the organizational and document
   
   
 
-### Outreach and Communications, Chair   <!-- to serve 2023-24 -->
+### Outreach and Communications, Chair   
+<!-- to serve 2023-4 -->
 
 [Responsibilities](/about/committees/fundraising/#responsibilities)
 
-**Nominees:**
+##### Nominees:
 
-  - Mareike Petersen -- Museum für Naturkunde, Berlin <br /> &nbsp;
+  - **Mareike Petersen** -- Museum für Naturkunde, Berlin <br /> &nbsp;
     - **_Background:_**  For the past eight years, I have been involved in various national and international research projects to improve access to and use of natural science collections. I am interested in advancing data linkage mechanisms and optimizing the management of research and collection data and its open access. I am a biologist by training with a scientific background in herpetology (amphibian ecology and taxonomy). At the Museum für Naturkunde Berlin (MfN), I am leading the science data and media management team, work on the mobilization of content to subject-specific and cross-domain portals (e.g. GBIF or Europeana), open access to research data, and on the application and further development of data standards (e.g. in the context of TDWG). Recently, I am strongly involved in the multifaceted information management linked to the digitization project of MfNs’ collections and in the development and establishment of the European research infrastructure DiSSCo (e.g. leading Work package and tasks in DiSSCo Prepare, contributing to Synthesys+). In order to open up information from research processes and information about objects in research collections, to enrich it semantically, and to make it accessible for further use, I bridge the gap between the requirements of research, management of research collections, and the technical implementation by developers. Solving these tasks in an interdisciplinary team is often challenging, but at the same time, it enriches my daily work.  <br /> &nbsp;
     - **_Vision:_**  I am enthusiastic about TDWG complexity and member several Interest and Task Groups and in addition since 2020 Chair of the subcommittee ‘Outreach and Communication’. During the last two years, the subcommittee re-worked TDWGs Vision and Mission Statement in an inclusive process and developed a new logo to increase TDWGs memorability. I would like to further work on a better visibility of TDWG, its standards and their application, importantly also beyond the biodiversity informatics and natural science domain through new communication material and channels. TDWGs’ key messages and achievements need to be transported to stakeholders and potential new user groups around the world, even in in current times, where travelling and meetings in person are limited or impossible at all.
 
-<!-- serving 2022-23 
+<!-- Term: 2022-23 
 ### Time and Place, Chair  
 
 [Responsibilities](/about/committees/tardis/#responsibilities)
@@ -95,17 +97,31 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 [Responsibilities](/about/executive/responsibilities/#regional%20representatives)
 
-#### Regional Representative for Africa  <!-- to serve 2023-24 -->
+#### Regional Representative for Africa  
+<!-- Term: 2023-4 -->
 
-#### Regional Representative for Latin America  <!-- to serve 2023-24 -->
+##### Nominees:
 
-#### Regional Representative for North America  <!-- to serve 2023-24 -->
+  - **Ian Englebrecht** -- Natural Science Collections Facility, South Africa <br /> &nbsp;
+    - **_Background:_** I am currently employed with the Natural Science Collections Facility (nscf.org.za) in a capacity to coordinate digitization of museum and herbarium collections in South Africa, as well as driving skills development for biodiversity informatics within this community. My primary training is as a conservation biologist and arachnologist. I have a special interest in taxonomy of scorpions and mygalomorph spiders, and completed my PhD in 2015 through the University of Pretoria. I have a long standing interest in information systems and how they support decision making and knowledge management, and studied programming part time early in my career.  I have worked in museum institutions, government conservation agencies, and the private sector. I currently participate in the TDWG Technical Advisory Committee (TAC) meetings with an interest in APIs and identifiers. I especially enjoy developing software tools and utilities to aid with data management tasks, and teaching others to do the same. <br /> &nbsp;
+    - **_Vision:_** My vision is a vibrant African specimen collections digitization and biodiversity informatics community that shares and publishes data willingly and openly. Skills and capacity development are in my view the most important priorities for achieving this vision. I see participation in TDWG events, as well as others such as the iDigBio events, as an essential part of this capacity development process, and would value the opportunity to play a role in broadening participation and interest in TDWG activities within the wider African community. I also hope that my experience and technical background would bring some value to the TDWG Executive Committee in achieving its goals and objectives. <br /> &nbsp;
 
+
+#### Regional Representative for Latin America  
+<!-- Term: 2023-4 -->
+
+#### Regional Representative for North America  
+<!-- Term: 2023-4 -->
+##### Nominees
+
+  - **Chandra Earl** -- Bishop Museum, Honolulu, Hawaii <br /> &nbsp;
+    - **_Background:_**  Chandra received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers. She was an active member of the TDWG 2022 Conference Program Committee and was integral to the success of the hybrid meeting.  She has already expressed a keen interest in being involved with the planning of TDWG 2023 hosted in Tasmania and TDWG 2024 in Okinawa. Her current location in Hawaii provides an important geographical linkage between the Asia-Pacific, Oceania and North America.  <br /> &nbsp;
+    - **_Vision:_**  If elected as Regional Representative, her vision will be focused on greater representation within early career researchers, students and those researching relatively understudied taxonomic groups across North America. While DarwinCore (and by extension the TDWG community) is well known within the museum and digitization communities, there are many who have unique use cases that may be overlooked due to taxonomic biases in funding. She would also like to focus on a greater awareness of TDWG within younger researchers and providing clear benefits for entry into the community. <br /> &nbsp;
 
 <!-- 2022-23 
 #### Regional Representative for Oceania 
 
-**Dr. Shelley James, Western Australian Herbarium**
+  - **Dr. Shelley James, Western Australian Herbarium**
 
 Dr Shelley James is the Collections Manager of the Western Australian Herbarium, based in Kensington, Western Australia. She has been acting as the Regional Representative for Oceania for the past six months, and is part of the TDWG 2021 Program Committee.  Shelley has been assisting with the planning for the TDWG 2024 meeting in her position as Member at Large on the Society for the Preservation of Natural History Collections (SPNHC)  Council, and looks forward to continuing to help with planning.  Shelley has been an active participant and member of TDWG for more than 10 years.  Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities. With her experience working in Australasia, Melanesia and the Pacific, she is well placed to communicate the biodiversity data standards activities being undertaken across the globe as the TDWG Oceania Regional Representative.
 -->
