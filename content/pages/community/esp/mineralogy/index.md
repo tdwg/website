@@ -1,6 +1,6 @@
 ---
 title: Mineralogical Collections Extension
-summary: 
+summary: A Task Group of the Earth Sciences and Paleobiology (ESP) Interest Group
 cover_image: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
 cover_image_by: Brian Wangenheim
 cover_image_ref: https://unsplash.com/photos/v0oOFQ6M7j8
@@ -9,11 +9,7 @@ github:
 status: published
 ---
 
-
-# Mineralogical Collections Extension
-## A Task Group of the **Earth Sciences and Paleobiology** (ESP) Interest Group
-
-### Conveners
+## Conveners
 
 **[Ben Norton](mailto:ben.norton@naturalsciences.org)**  
 Head of Technology, Collections Data Curator, and Collections Manager of Mineralogy  
@@ -23,7 +19,7 @@ North Carolina Museum of Natural Sciences
 Principal Curator, Earth Systems  
 National Museums Scotland  
 
-### Core Members
+## Core Members
 
 **[Alexis Beck](mailto:Alexis.Beck@ville-ge.ch)**  
 IT Specialist  
@@ -60,11 +56,11 @@ Founder, Mindat.org
 Research Curator, Geology  
 North Carolina Museum of Natural Sciences  
 
-### Members
+## Members
 
 
 
-### Overview and Motivation
+## Overview and Motivation
 
 As an organization with origins in taxonomic classification, TDWG
 membership has long been dominated by biological research, informatics,
@@ -95,7 +91,7 @@ community expertise must be identified and addressed through task
 groups, targeted and concerted efforts within the scope of a parent
 interest group.
 
-### Motivation
+## Motivation
 
 The formation of the Mineralogical Collections Extension task group is
 motivated by the need to extend support of the Darwin Core Archive and
@@ -120,7 +116,7 @@ that include the [Darwin Core Chronometric Age
 Extension](https://www.tdwg.org/community/esp/chrono/) and [Extension
 for Geosciences (EFG)](https://www.tdwg.org/community/esp/efg/).
 
-### Phases
+## Phases
 
 The task group will operate in two primary phases. The first involves
 recruiting new members in disciplines underrepresented in TDWG. The
@@ -131,7 +127,7 @@ subject matter experts will develop a supplemental extension to the
 Darwin Core to support the needs of the mineralogical collections
 community.
 
-### Goals, Outputs, and Outcomes
+## Goals, Outputs, and Outcomes
 
 The Mineralogy Collections Extension task group plans to adopt a similar
 set of goals, outputs, and outcomes with the two existing ESP task
@@ -158,13 +154,13 @@ System (SKOS) schema <sup>\[4\]</sup> to describe the conceptual
 similarities between the two standards (e.g., narrowMatch,
 exactMatch, closeMatch, etc.).
 
-### Community
+## Community
 
 Although not a primary goal, we hope that the effort to expand the
 participatory body in TDWG can be used as a successful model to assist
 community expansion in the future.
 
-### Strategy
+## Strategy
 
 1. Create a GitHub repository for the task group to assure adoption of
 best practices for the development of TDWG standards and successful 
@@ -201,7 +197,7 @@ All results from surveys/assessments/solicitations listed above will be
 published to the task force GitHub Repository with any required
 supplemental/supporting documentation.
 
-### Deliverables
+## Deliverables
 
 The final deliverables of the task group include:
 
@@ -217,7 +213,7 @@ Archive for mineralogical collections
 and EFG standard using the SKOS schema to describe conceptual
 differences between individual terms.
 
-### Becoming Involved
+## Becoming Involved
 
 This task group welcomes anyone interested in mineralogical, geological,
 or petrological collections and/or data standardization efforts. We
@@ -225,7 +221,7 @@ encourage parties interested in participating to contribute to the task
 group GitHub repository. Using the above contact information, they may
 also contact the task group convener, Ben Norton.
 
-### Future Extension
+## Future Extension
 
 Minerals are naturally occurring, inorganic chemical compounds that form
 the building blocks of rocks. This compositional relationship between
@@ -247,7 +243,7 @@ of collections data standards, we hope this task force furthers this
 global effort by extending the work of TDWG into currently unoccupied
 scientific collections spaces.
 
-### Summary
+## Summary
 
 To extend the scope of the TDWG community beyond biology and
 biological-related knowledge domains, targeted efforts in the form of
@@ -266,7 +262,7 @@ pool of knowledge and provide the foundation for future efforts by the
 ESP interest group to extend the Darwin Core standard across all
 geoscientific fields.
 
-### Resources
+## Resources
 
 \[1\] Gaines, R.V., Skinner, H.C.W., Foord, E.E., Mason, B., Rosenzweig,
 A. (1997) Dana's New Mineralogy: The System of Mineralogy of James
