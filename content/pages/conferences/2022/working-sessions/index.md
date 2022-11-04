@@ -118,7 +118,7 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 **About the group:** This group works towards developing a data specification, the Plinian Core, that can be used to describe different aspects of biological species information. By "biological species information" all kinds of properties or traits related to taxa, including biological and non-biological traits are within scope. 
 
 
-## Taxon Concepts Schema Interest Group (TCS2)
+## Taxon Concepts Schema (TCS) Maintenance Group
 **Date/Time:** November 9, 22:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon+Concepts+Schema+Interest+Group+%28TCS2%29&iso=20221109T2230&p1=%3A&ah=1&am=30))
 
 **Session Type:** Interest/Task Group meeting
