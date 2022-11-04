@@ -46,8 +46,8 @@ Robert Allkin (author) <br/>
 
 **Title:** XDF: A Language for the Definition and Exchange of Biological Data Sets - Description and Manual, version 3.3<br/>
 **Permanent IRI:** [http://rs.tdwg.org/xdf/doc/specification/](https://github.com/tdwg/prior-standards/blob/master/xdf/xdf_description_and_manual_v3.3_1989.pdf) <br/>
-**Created:** 1989-11-01 <br/>
-**Last modified:** 1989-11-01 <br/>
+**Created:** 1989-11-02 <br/>
+**Last modified:** 1989-11-02 <br/>
 **Contributors:** <br/>
 Robert Allkin (author) <br/>
 Richard J. White (author) <br/>
