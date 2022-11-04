@@ -128,16 +128,6 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 **About the group:** The TCS maintenance group is responsible for maintaining the various components of the TCS standard. That includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard.
 
 
-## Minimum Information about a Digital Specimen (MIDS) Task Group
-**Date/Time:** November 10, 07:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum+Information+about+a+Digital+Specimen+%28MIDS%29+Task+Group&iso=20221110T0730&p1=%3A&ah=1&am=30))
-
-**Session Type:** Interest/Task Group meeting
-
-**Organizer:** [Elspeth Haston](mailto:ehaston@rbge.org.uk), Royal Botanical Gardens Edinburgh (RBGE), Edinburgh, UK
-
-**About the group:** Inspired by the idea of 'minimum information standards' adopted in other areas of biology we name this proposed TDWG standard as 'Minimum Information about a Digital Specimen' (MIDS). This harmonizing framework includes making the data publicly available because pen access policies in countries around the world require that digital data should be findable and accessible, even at the lowest level of available digitized information.
-
-
 ## TDWG Outreach and Communication
 **Date/Time:** November 10, 15:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+Outreach+and+Communication&iso=20221110T15&p1=%3A&ah=1&am=30))
 
@@ -155,6 +145,16 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 **Organizer:** [Ed Baker](mailto:edwbaker@gmail.com), Natural History Museum, London and University of York, UK
 
 **About this group:** The Audubon Core maintenance group is responsible for maintaining the various components of the Audubon Core standard. That includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. 
+
+
+## Minimum Information about a Digital Specimen (MIDS) Task Group
+**Date/Time:** November 10, 18:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum+Information+about+a+Digital+Specimen+%28MIDS%29+Task+Group&iso=20221110T1830&p1=1440&ah=1&am=30))
+
+**Session Type:** Interest/Task Group meeting
+
+**Organizer:** [Elspeth Haston](mailto:ehaston@rbge.org.uk), Royal Botanical Gardens Edinburgh (RBGE), Edinburgh, UK
+
+**About the group:** Inspired by the idea of 'minimum information standards' adopted in other areas of biology we name this proposed TDWG standard as 'Minimum Information about a Digital Specimen' (MIDS). This harmonizing framework includes making the data publicly available because pen access policies in countries around the world require that digital data should be findable and accessible, even at the lowest level of available digitized information.
 
 
 ## Citizen Science Interest Group
