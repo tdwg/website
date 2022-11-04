@@ -32,12 +32,25 @@ The TDWG Secretariat will post the names of nominees below and with links to the
 All officers, including subcommittee chairs, have voting rights on the Executive Committee, and are expected to participate in the Committee’s conference calls, which are generally every two weeks. Executive Committee members are expected to find their own support to attend the annual conference.
 
 ## Offices open for election
-All serving terms 2023-4 
+All serving terms 2023-4, except Deputy Chair, which entails an additional committment of two years as Chair.
 
 ### Deputy Chair 
 
 [Responsibilities](../responsibilities/#deputy%20chair). Serves as Deputy Chair 2023-4, then as Chair 2025-6.
 
+
+### Secretary
+
+[Responsibilities](../responsibilities/#secretary).
+
+#### Nominees:
+
+  - **Visotheary Ung** -- Muséum National d’Histoire Naturelle, Paris <br /> &nbsp;
+    - **_Background:_**  I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.  <br /> &nbsp; <br />
+I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.  <br /> &nbsp; <br />
+    - **_Vision:_**  My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive committee, members of TDWG Interest and Task Groups and users of TDWG standards. <br /> &nbsp; <br />
+I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive committee, especially our chair and hope to be a good proxy. <br /> &nbsp; <br />
+I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community. <br /> &nbsp;
 
 <!-- serving 2022-23 
 ### Treasurer 
