@@ -79,7 +79,7 @@ The services required to run an online conference, however, are not free. We enc
 The Darwin Core Maintenance Group is responsible for maintaining the various components of the Darwin Core Standard, which includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. 
 
 ## Plant Phenology Standards Task Group
-**Date/Time:** November 8, 17:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Plant+Phenology+Standards+Task+Group&iso=20221108T17&p1=%3A&ah=1&am=30))
+**Date/Time:** November 15, 17:00 UTC **NOTE CHANGE OF DATE!** ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Plant+Phenology+Standards+Task+Group&iso=20221115T17&p1=1440&ah=1&am=300))
 
 **Session Type:** Interest/Task Group meeting
 
