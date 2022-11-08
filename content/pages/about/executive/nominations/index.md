@@ -58,7 +58,6 @@ I strongly believe that standards are essential to improve biodiversity data sha
 [Responsibilities](../responsibilities/#treasurer)
 -->
 
-
 <!-- serving 2023-23 
 ### Technical Architecture Group, Convener
 
@@ -121,7 +120,7 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 #### Regional Representative for Asia
 
-  - **Vijay Barve** -- [ORCID](https://orcid.org/0000-0002-4852-2567)
+  - **Vijay Barve** -- Natural History Museum of Los Angeles County, CA, USA. [ORCID](https://orcid.org/0000-0002-4852-2567)
 
     - **_Background:_**  I work as Digitization Project Manager for DigIn (Documenting Marine Biodiversity through Digitization of Invertebrate Collections). I got my master degree in Computer science from India and joined a non profit organization, contributing in Medicinal Plants Documentation and Conservation Issues. I developed interest in Biodiversity Informatics and joined a PhD program in Geography at University of Kansas. My  doctoral research focused on Citizen’s contribution to Biodiversity data generation. After receiving my PhD, I worked with the Florida Museum of Natural History and Purdue University as a postdoctoral researcher, and continued to  work on Biodiversity Informatics. My research interest is Citizen Science in Biodiversity and has several research publications on that theme. I have been coordinating several Citizen Science initiatives in India in the field of Biodiversity. I am  recipient of the GBIF Young Researcher award during his doctoral research and two times member of the team receiving the GBIF Ebbe Nielsen Award. I have been training participants from several countries in Africa, Asia and the Americas in Biodiversity Informatics and have been mentoring students for Google Summer of Code. I have been part of the GBIF regional support team for Asia and have worked with several teams of biodiversity researchers to help publish data on GBIF. I am a contributor to Audubon Core Data standard and a member of the Program Committee for TDWG 2021 and 2022.
 
