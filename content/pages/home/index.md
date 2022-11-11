@@ -9,12 +9,12 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: TDWG 2022 Working Sessions 7–10 November 
-alert_text: Register to attend via Zoom (it's free!) 
-alert_button: See Working Sessions
-alert_link: /conferences/2022/working-sessions/
-alert_image: https://images.unsplash.com/photo-1593045993147-873cb7462112
-alert_image_by: Marian Florinel Condruz on Unsplash
+alert_title: Audubon Core open public comment 
+alert_text: Until 7 December for subjectPart and subjectOrientation controlled vocabularies 
+alert_button: See News item
+alert_link: /articles/2022/views-public-review
+alert_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
+alert_image_by: Kawin Harasai on Unsplash
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
