@@ -12,7 +12,7 @@ template: page_home
 alert_title: Audubon Core open public comment 
 alert_text: Until 7 December for subjectPart and subjectOrientation controlled vocabularies 
 alert_button: See News item
-alert_link: /articles/2022/views-public-review
+alert_link: https://tdwg.org/news/2022/audubon-core-controlled-vocabularies-for-views/
 alert_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
 alert_image_by: Kawin Harasai on Unsplash
 newsletter_title: Keep up to date with TDWG
