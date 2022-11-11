@@ -13,18 +13,27 @@ page_order: 7
 
 Virtual posters prepared for TDWG 2022 are listed below. Abstracts for posters can be found in the [virtual poster collection](https://biss.pensoft.net/collection/386/) of the [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). 
 
-A poster session being organized by the dynamic duo, Chandra Earl (in person) and Cat Chapman (on-line), and is scheduled for Thursday afternoon from 16:30–18:00 (see your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Thursday+Poster+Session+-+Mozart+Hall&iso=20221020T1630&p1=238&ah=1&am=30)) in Mozart Hall. Each presenter is invited to speak about their poster (maximum 3 minutes) and answer questions during this session. You may also contact presenters on the TDWG 2022 Slack channel dedicated to each #vps-posterPresenter. 
+A poster session organized by the dynamic duo, Chandra Earl (in person) and Cat Chapman (on-line), and was scheduled for Thursday afternoon from 16:30–18:00 (see your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Thursday+Poster+Session+-+Mozart+Hall&iso=20221020T1630&p1=238&ah=1&am=30)) in Mozart Hall. Each presenter was invited to speak about their poster (maximum 3 minutes) and answer questions during this session. Conference registrants may contact presenters on the TDWG 2022 Slack workspace dedicated to each #vps-posterPresenter  (available until the end of 2022). 
 
 ## People's Choice Awards
 
-To encourage viewing and interaction, this year we are featuring a People's Choice Award with three categories for everyone to vote upon. Vote [here](https://forms.gle/CXMvTT4ZhZAKxDDUA) for:
+To encourage viewing and interaction, this year we featured a People's Choice Award with three categories for everyone to vote upon. Participants voted for:
 
-- Best In Show
-- The "I Had No Idea That Was Even A Thing" Award
-- The Warm Fuzzies Award
+### Best In Show
 
-Voting will close end of day Thursday October 20 and winners will be announced during the closing session’s business meeting. We  ask the winners be present (in person or virtually) if possible when the award winners are announced. <br/><br/>
+**Ben Collier** for "[Rethinking Collection Management Data Models](https://static.tdwg.org/conferences/2022/posters/vps-91297-collier.pdf)"
 
+### The "I Had No Idea That Was Even A Thing" Award
+
+**Sofie Meeus** for "[Re-connecting Communities in Biodiverse Places to their Biological Heritage: The case of iguanas on Grand Cayman](https://static.tdwg.org/conferences/2022/posters/vps-93887-meeus.pdf)"
+
+### The Warm Fuzzies Award
+
+**Wouter Koch** for "[Clavis: An open and versatile identification key format](https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.pdf)"
+
+Voting closed end of day Thursday October 20 and winners were announced during the closing session’s business meeting. Congratulations to all our presenters for interesting and informative posters! 
+
+## TDWG 2022 Virtual Posters
 
 
 
@@ -175,3 +184,5 @@ Voting will close end of day Thursday October 20 and winners will be announced d
 </tr>
 
 </table>
+
+_Last updated 11 November 2022_
