@@ -6,7 +6,7 @@ cover_image_by: Chris Lawton
 cover_image_ref: https://unsplash.com/photos/5IHz5WhosQE
 tags: interest group, maintenance group
 github: https://github.com/tdwg/abcd
-status: hidden
+status: published
 ---
 
 ## Convenor
