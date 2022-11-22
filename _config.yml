@@ -1,0 +1,17 @@
+# SITE SETTINGS
+title: TDWG
+
+# THEME SETTINGS
+theme: minima
+remote_theme: tdwg/petridish
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+

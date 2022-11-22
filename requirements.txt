@@ -1,7 +1,0 @@
-# Pelican: static site generator
-pelican==4.0.0
-# Markdown: for interpreting Markdown syntax
-Markdown==3.0.1
-# Beautifulsoup4: for site search
-beautifulsoup4==4.6.3
-
