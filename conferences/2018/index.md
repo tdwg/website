@@ -1,11 +1,11 @@
 ---
 title: 2018 - Dunedin, New Zealand
-summary: TDWG 2018 Annual Conference - Dunedin, New Zealand
-cover_image: https://images.unsplash.com/photo-1508068235022-85a3716679b7
-cover_image_by: Joshua Harris
-cover_image_ref: https://unsplash.com/photos/BIIfuwj7gEw
-tags: conference
-page_order: 32
+description: >
+  TDWG 2018 Annual Conference - Dunedin, New Zealand
+background:
+  img: https://images.unsplash.com/photo-1508068235022-85a3716679b7
+  by: Joshua Harris
+  href: https://unsplash.com/photos/BIIfuwj7gEw
 ---
 
 # SPNHC+TDWG Joint Conference

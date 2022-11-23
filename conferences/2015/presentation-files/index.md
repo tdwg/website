@@ -1,10 +1,11 @@
 ---
 title: TDWG 2015 presentation files
-summary: Presentation Files from TDWG 2013 Annual Conference - Nairobi, Kenya
-cover_image: https://c1.staticflickr.com/3/2578/4107412892_06fdfe03cf_b.jpg
-cover_image_by: Erlend Aasland
-cover_image_ref: https://www.flickr.com/photos/erlendaasland/4107412892
-tags: conference
+description: >
+  Presentation Files from TDWG 2013 Annual Conference - Nairobi, Kenya
+background:
+  img: https://c1.staticflickr.com/3/2578/4107412892_06fdfe03cf_b.jpg
+  by: Erlend Aasland
+  href: https://www.flickr.com/photos/erlendaasland/4107412892
 ---
 
 ### TDWG 2015 presentation files

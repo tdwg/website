@@ -1,10 +1,11 @@
 ---
 title: Description Language for Taxonomy (DELTA)
-summary: The DELTA format (DEscription Language for TAxonomy) is a flexible method for encoding taxonomic descriptions for computer processing. DELTA-format data can be used to produce natural-language descriptions, conventional or interactive keys, cladistic or phenetic classifications, and information-retrieval systems.
-cover_image: https://images.unsplash.com/photo-1459664018906-085c36f472af
-cover_image_by: Erol Ahmed
-cover_image_ref: https://unsplash.com/photos/aIYFR0vbADk
-tags: technical specification, 2005 standard, 1986
+description: >
+  The DELTA format (DEscription Language for TAxonomy) is a flexible method for encoding taxonomic descriptions for computer processing. DELTA-format data can be used to produce natural-language descriptions, conventional or interactive keys, cladistic or phenetic classifications, and information-retrieval systems.
+background:
+  img: https://images.unsplash.com/photo-1459664018906-085c36f472af
+  by: Erol Ahmed
+  href: https://unsplash.com/photos/aIYFR0vbADk
 github: https://github.com/tdwg/delta
 website: http://www.delta-intkey.com/
 website_title: DELTA website

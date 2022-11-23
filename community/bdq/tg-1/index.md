@@ -1,10 +1,12 @@
 ---
 title: Framework on data quality
-summary: Most of the organizations today confront DQ problems using ad hoc approaches for fixing errors which cause DQ problems. However, such efforts do not assure that data will be fit for use for every purpose. This Task Group is working on the organization of concepts related both DQ needs and solutions for the Assessment and Management of fitness for use of biodiversity data. We expect that outcomes from the Task Group will allow the Biodiversity Informatics community to join efforts to tackle DQ issues by sharing and reusing DQ requirements, methods, tools, services, workflows and best practices which can be used for DQ measurement, validation, recommendation and error prevention and correction.
-cover_image: https://images.unsplash.com/photo-1478809956569-c7ce9654a947
-cover_image_by: Slava Bowman
-cover_image_ref: https://unsplash.com/photos/pkKeuRiDa2Q
-tags: task group
+description: >
+  Most of the organizations today confront DQ problems using ad hoc approaches for fixing errors which cause DQ problems. However, such efforts do not assure that data will be fit for use for every purpose. This Task Group is working on the organization of concepts related both DQ needs and solutions for the Assessment and Management of fitness for use of biodiversity data. We expect that outcomes from the Task Group will allow the Biodiversity Informatics community to join efforts to tackle DQ issues by sharing and reusing DQ requirements, methods, tools, services, workflows and best practices which can be used for DQ measurement, validation, recommendation and error prevention and correction.
+background:
+  img: https://images.unsplash.com/photo-1478809956569-c7ce9654a947
+  by: Slava Bowman
+  href: https://unsplash.com/photos/pkKeuRiDa2Q
+tags: [task group]
 github: https://tdwg.github.io/bdq/tg1/site/
 ---
 

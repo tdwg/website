@@ -1,12 +1,11 @@
 ---
 title: TDWG 2021 - Working Sessions
-summary: Interest and Task Group Working Sessions will be held on Wednesdays and Thursdays throughout the month of November. 
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
-tags: conference
-toc_headers: ^h[2-3]
-page_order: 77
+description: >
+  Interest and Task Group Working Sessions will be held on Wednesdays and Thursdays throughout the month of November. 
+background:
+  img: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+  by: Waranot (Joe)
+  href: https://unsplash.com/photos/tkJ06vkDkMI 
 ---
 
 # TDWG November 2021, Working Sessions 

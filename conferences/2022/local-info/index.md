@@ -1,12 +1,11 @@
 ---
 title: Attend TDWG 2022 In Person!
-summary: Find out about Sofia, the conference venue, accommodations, sightseeing, galleries & museums, and excursions
-cover_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
-cover_image_by: Ivan Nedelchev 
-cover_image_ref: https://unsplash.com/photos/OENyTAi9dg0
-tags: conference
-page_order: 3
-status: published
+description: >
+  Find out about Sofia, the conference venue, accommodations, sightseeing, galleries & museums, and excursions
+background:
+  img: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
+  by: Ivan Nedelchev 
+  href: https://unsplash.com/photos/OENyTAi9dg0
 ---
 
 _last updated 7 October 2022_

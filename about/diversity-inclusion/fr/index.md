@@ -1,12 +1,9 @@
 ---
 title: TDWG Charte sur la Diversité et l'Inclusion
-summary: 
-cover_image: https://images.unsplash.com/photo-1566864101508-75909441df2d
-cover_image_by: David Clode
-cover_image_ref: https://unsplash.com/photos/Sa8gzIBaKrw
-tags: 
-toc_headers: ^h[2-3]
-page_order: 20
+background:
+  img: https://images.unsplash.com/photo-1566864101508-75909441df2d
+  by: David Clode
+  ref: https://unsplash.com/photos/Sa8gzIBaKrw
 ---
 
 # Charte sur la Diversité et l'Inclusion du TDWG

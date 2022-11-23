@@ -1,11 +1,13 @@
 ---
 title: TDWG 2012 presentation files
-summary: Presentation Files from TDWG 2012 Annual Conference - Beijing, China
-cover_image: https://c1.staticflickr.com/3/2490/4130492916_5c3162b819_b.jpg
-cover_image_by: May Wong
-cover_image_ref: https://www.flickr.com/photos/maywong_photos/4130492916
-tags: conference
+description: >
+  Presentation Files from TDWG 2012 Annual Conference - Beijing, China
+background:
+  img: https://c1.staticflickr.com/3/2490/4130492916_5c3162b819_b.jpg
+  by: May Wong
+  href: https://www.flickr.com/photos/maywong_photos/4130492916
 ---
+
 ### TDWG 2012 presentation files
 
 Presentation files are available by request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).

@@ -1,10 +1,10 @@
 ---
 title: Annotations
-summary: 
-cover_image: https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1
-cover_image_by: Jan Kahánek
-cover_image_ref: https://unsplash.com/photos/g3O5ZtRk2E4
-tags: interest group
+background:
+  img: https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1
+  by: Jan Kahánek
+  href: https://unsplash.com/photos/g3O5ZtRk2E4
+tags: [interest group]
 github: https://github.com/tdwg/annotations
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: Working Session Descriptions,  September 21-25
-summary: 
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
-tags: conference
-page_order: 55
+background:
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 ---
 
 ## INTRO: Introduction to TDWG

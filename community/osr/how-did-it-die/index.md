@@ -1,12 +1,9 @@
 ---
 title: OSR - How Did It Die?
-summary: A Task Group of the Observations and Specimens Interest Group
-cover_image:
-cover_image_by:
-cover_image_ref:
-tags: task group
+description:  >
+  A Task Group of the Observations and Specimens Interest Group
+tags: [task group]
 github: https://github.com/tdwg/dwc/issues/228
-status: published
 ---
 
 # How did it die? 

@@ -1,11 +1,9 @@
 ---
 title: Taxonomic Concept Schema (TCS2) Task Group
-summary: The TCS 2 Task Group will follow the process set forth in the Vocabulary Maintenance Standard and bring the specification and documentation of TCS into compliance with the Standards Documentation Standard by early 2022.
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: task group
+description: >
+  The TCS 2 Task Group will follow the process set forth in the Vocabulary Maintenance Standard and bring the specification and documentation of TCS into compliance with the Standards Documentation Standard by early 2022.
 github: https://github.com/tdwg/tcs2
+tags: [task group]  
 ---
 
 # TCS 2 Task Group Charter

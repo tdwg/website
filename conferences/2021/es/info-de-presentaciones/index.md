@@ -1,12 +1,13 @@
 ---
 title: Información de Presentaciones
-summary: Qué saber cuando presenta en TDWG 2021
-cover_image: https://images.unsplash.com/photo-1509105494475-358d372e6ade
-cover_image_by: Jakob Creutz
-cover_image_ref: https://unsplash.com/photos/ZtqnVVvOyjA
-tags: conference
-page_order: 87
+description: >
+  Qué saber cuando presenta en TDWG 2021
+background:
+  img: https://images.unsplash.com/photo-1509105494475-358d372e6ade
+  by: Jakob Creutz
+  href: https://unsplash.com/photos/ZtqnVVvOyjA
 ---
+
 ## Expectativas de presentación
 Durante la semana de la conferencia virtual, las sesiones se programarán principalmente durante la zona horaria de nuestro anfitrión (1100 a 2300 UTC), con la mayoría de las sesiones de 90 a 120 minutos y con un descanso entre sesiones. Para dar cabida a todas las presentaciones, se programarán algunas sesiones paralelas. Las diferencias de zona horaria en nuestra comunidad global hacen que sea inevitable que algunas sesiones de interés puedan ocurrir fuera del horario laboral normal o durante la noche para algunos. El Comité del Programa está trabajando para que el horario sea lo más inclusivo posible y, para mitigar estas dificultades de tiempo, las presentaciones grabadas se publicarán de manera oportuna para los asistentes registrados.
 

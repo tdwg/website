@@ -1,10 +1,11 @@
 ---
 title: TDWG 2009 Presentation Files - Montpellier, France
-summary: Presentation Files from TDWG 2009 - Montpellier, France
-cover_image: https://c1.staticflickr.com/1/153/424090311_83d192f107_b.jpg
-cover_image_by: Jon Parise
-cover_image_ref: https://www.flickr.com/photos/jparise/424090311
-tags: conference
+description: >
+  Presentation Files from TDWG 2009 - Montpellier, France
+background:
+  img: https://c1.staticflickr.com/1/153/424090311_83d192f107_b.jpg
+  by: Jon Parise
+  href: https://www.flickr.com/photos/jparise/424090311
 ---
 
 ### TDWG 2009 presentation files 

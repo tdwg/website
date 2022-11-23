@@ -1,11 +1,7 @@
 ---
 title: Descripciones de las Sesiones de Trabajo,  21-25 Setiembre
-summary: 
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
-tags: conference
-page_order: 50
+background:
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 ---
 
 ## INTRO: Introducción a TDWG

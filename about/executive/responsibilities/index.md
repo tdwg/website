@@ -1,11 +1,11 @@
 ---
 title: Roles and Responsibilities
-summary: Positions on the Executive Committee are set forth in the TDWG Constitution. The responsibilities of each position are described below and on the linked pages, where appropriate.
-cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
-cover_image_by: Tim Graf
-cover_image_ref: https://unsplash.com/photos/ErO0E8wZaTA
-tags: 
-page_order: 10
+description:  >
+  Positions on the Executive Committee are set forth in the TDWG Constitution. The responsibilities of each position are described below and on the linked pages, where appropriate.
+background:
+  img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
+  by: Tim Graf
+  href: https://unsplash.com/photos/ErO0E8wZaTA
 ---
 
 # Roles and Responsibilities of Executive Committee Members

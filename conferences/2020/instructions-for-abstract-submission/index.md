@@ -1,11 +1,9 @@
 ---
 title: Instructions for Abstract Submission
-summary: Organized sessions include symposia and panel discussions
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
-tags: conference
-page_order: 65
+description: >
+  Organized sessions include symposia and panel discussions
+background:
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 ---
 
 # Instructions for Abstract Submission

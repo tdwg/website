@@ -1,12 +1,11 @@
 ---
 title: TDWG 2022 - Call for Abstracts
-summary: Stronger Together: Standards for linking biodiversity data
-cover_image: https://images.unsplash.com/photo-1625465809518-56046973ecbf
-cover_image_by: Sammy Wong
-cover_image_ref: https://unsplash.com/photos/v3iCc0K6Kfo
-tags: conference
-status: published
-page_order: 8
+description: >
+  Stronger Together: Standards for linking biodiversity data
+background:
+  img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
+  by: Sammy Wong
+  href: https://unsplash.com/photos/v3iCc0K6Kfo
 ---
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">

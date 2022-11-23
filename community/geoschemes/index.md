@@ -1,10 +1,12 @@
 ---
 title: Geographical Schemes
-summary: "This interest group is coordinating the development of a geographical scheme, including standard names, abbreviations, and boundaries, that is practically useful for managing occurrence data and species distributions."
-cover_image: https://images.unsplash.com/photo-1580380853761-76b20197ef99
-cover_image_by: USGS
-cover_image_ref: https://unsplash.com/photos/rXj2M7xtdB8
-tags: interest group
+description: >
+  This interest group is coordinating the development of a geographical scheme, including standard names, abbreviations, and boundaries, that is practically useful for managing occurrence data and species distributions.
+background:
+  img: https://images.unsplash.com/photo-1580380853761-76b20197ef99
+  by: USGS
+  href: https://unsplash.com/photos/rXj2M7xtdB8
+tags: [interest group]
 github: https://github.com/tdwg/geoschemes
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Process
-summary: 
-cover_image: https://images.unsplash.com/photo-1516259762381-22954d7d3ad2
-cover_image_by: Markus Spiske
-cover_image_ref: https://unsplash.com/photos/cvBBO4PzWPg
-tags: interest group
-github: 
+background:
+  img: https://images.unsplash.com/photo-1516259762381-22954d7d3ad2
+  by: Markus Spiske
+  href: https://unsplash.com/photos/cvBBO4PzWPg
+tags: [interest group]
 ---
 
 <!-- Copied from http://www.tdwg.org/activities/process/ -->

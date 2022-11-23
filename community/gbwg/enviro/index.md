@@ -1,14 +1,14 @@
 ---
 title: GBWG - Environmental Samples and eDNA
-summary: This group has been established to develop a data standard and usage guidelines for sharing environmental sample and environmental DNA data.
-cover_image: https://images.unsplash.com/photo-1508624217470-5ef0f947d8be
-cover_image_by: Andrzej Kryszpiniuk
-cover_image_ref: https://unsplash.com/photos/4wFqHZ1ONnM
-tags: task group
+description: >
+  This group has been established to develop a data standard and usage guidelines for sharing environmental sample and environmental DNA data.
+background:
+  img: https://images.unsplash.com/photo-1508624217470-5ef0f947d8be
+  by: Andrzej Kryszpiniuk
+  href: https://unsplash.com/photos/4wFqHZ1ONnM
+tags: [task group]
 github: https://github.com/tdwg/gbwg/
-status: published
 ---
-
 
 # Environmental Samples and eDNA
 **A Task Group of the Genomic Biodiversity Interest/Working Group (GBWG)**

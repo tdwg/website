@@ -1,6 +1,5 @@
 ---
-title: Index Herbariorum. Part I: The Herbaria of the World
-tags: prior standard, 1990
+title: "Index Herbariorum. Part I: The Herbaria of the World"
 github: https://github.com/tdwg/prior-standards/tree/master/index-herbariorum-part-i
 website: http://sweetgum.nybg.org/science/ih/
 website_title: Current online version of Index Herbariorum

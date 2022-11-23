@@ -1,10 +1,10 @@
 ---
 title: Collection Descriptions
-summary: 
-cover_image: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
-cover_image_by: Michael D Beckwith
-cover_image_ref: https://unsplash.com/photos/937gZaUJCos
-tags: interest group
+background:
+  img: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
+  by: Michael D Beckwith
+  href: https://unsplash.com/photos/937gZaUJCos
+tags: [interest group]
 github: https://github.com/tdwg/cd/
 ---
 

@@ -1,12 +1,9 @@
 ---
 title: Posters for TDWG 2022
-summary: Virtual posters prepared for our hybrid conference, TDWG 2022
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
-tags: conference
-status: published
-page_order: 7
+description: >
+  Virtual posters prepared for our hybrid conference, TDWG 2022
+background:
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 ---
 
 # Virtual Posters

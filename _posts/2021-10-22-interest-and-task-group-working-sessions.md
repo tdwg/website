@@ -1,6 +1,7 @@
 ---
 title: Interest and Task Group Working Sessions
-description: Working sessions for TDWG interest and task groups will meet Wednesdays and Thursdays through the month of November.
+description: >
+  Working sessions for TDWG interest and task groups will meet Wednesdays and Thursdays through the month of November.
 tags: [conference, working sessions]
 ---
 

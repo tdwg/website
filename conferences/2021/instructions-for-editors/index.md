@@ -1,11 +1,11 @@
 ---
 title: Instructions for Editors
-summary: Of abstracts of presentations for TDWG 2021, to be published in _Biodiversity Information Science and Standards_
-cover_image: https://images.unsplash.com/photo-1459664018906-085c36f472af
-cover_image_by: Erol Ahmed
-cover_image_ref: https://unsplash.com/photos/aIYFR0vbADk
-tags: conference
-page_order: 70
+description: >
+  Of abstracts of presentations for TDWG 2021, to be published in _Biodiversity Information Science and Standards_
+background:
+  img: https://images.unsplash.com/photo-1459664018906-085c36f472af
+  by: Erol Ahmed
+  href: https://unsplash.com/photos/aIYFR0vbADk
 ---
 
 # Instructions for Editors 

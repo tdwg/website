@@ -1,6 +1,5 @@
 ---
 title: Botanico-Periodicum-Huntianum/Supplementum
-tags: prior standard, 1991
 github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-huntianum-supplementum
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: Authors of Plant Names
-summary: An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author. Authors of Plant Names has been incorporated into the [International Plant Names Index (IPNI)](https://www.ipni.org/).
-cover_image: https://images.unsplash.com/photo-1530027644375-9c83053d392e
-cover_image_by: Xuan Nguyen
-cover_image_ref: https://unsplash.com/photos/v6V-hfxjboI
-tags: prior standard, 1992
+description: >
+  An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author. Authors of Plant Names has been incorporated into the [International Plant Names Index (IPNI)](https://www.ipni.org/).
+background:
+  img: https://images.unsplash.com/photo-1530027644375-9c83053d392e
+  by: Xuan Nguyen
+  href: https://unsplash.com/photos/v6V-hfxjboI
 github: https://github.com/tdwg/prior-standards/tree/master/authors-of-plant-names
 website: http://www.kew.org/data/authors.html
 website_title: Authors of Plant Names at kew.org

@@ -1,11 +1,7 @@
 ---
 title: Logos
-summary: TDWG logo as downloadable files
-cover_image:
-cover_image_by:
-cover_image_ref:
-tags:
-page_order: 14
+description:  >
+  TDWG logo as downloadable files
 ---
 
 ## Logos

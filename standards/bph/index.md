@@ -1,6 +1,5 @@
 ---
 title: Botanico-Periodicum-Huntianum
-tags: prior standard, 1970
 github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-huntianum
 ---
 

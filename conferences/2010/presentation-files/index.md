@@ -1,11 +1,13 @@
 ---
 title: TDWG 2010 presentation files
-summary: Presentation Files from TDWG 2010 Annual Conference - Woods Hole, Massachusetts, USA
-cover_image: https://c2.staticflickr.com/6/5326/7091891773_d6190f8273_b.jpg
-cover_image_by: Putneypics
-cover_image_ref: https://www.flickr.com/photos/38983646@N06/7091891773
-tags: conference
+description: >
+  Presentation Files from TDWG 2010 Annual Conference - Woods Hole, Massachusetts, USA
+background:
+  img: https://c2.staticflickr.com/6/5326/7091891773_d6190f8273_b.jpg
+  by: Putneypics
+  href: https://www.flickr.com/photos/38983646@N06/7091891773
 ---
+
 ### TDWG 2010 presentation files
 
 Presentation files are available by request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).

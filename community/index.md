@@ -1,13 +1,11 @@
 ---
 title: Community
-summary: The TDWG community is organized in **Interest Groups** (listed below). These can have dedicated **Task Groups** to work on a standard or recommendation (listed on Interest Group pages). Ratified standards are maintained by **Standard Maintenance Groups** (listed on [standard pages]({filename}/pages/standards/index.md)).
-cover_image: https://c1.staticflickr.com/1/489/30668600364_4695fef168_b.jpg
-cover_image_by: Denisse Vargas
-cover_image_ref: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/
-tags: 
-tag_sections: Interest group, Task group
-template: page_tag_sections
-page_order: 3
+description: >
+  The TDWG community is organized in **Interest Groups** (listed below). These can have dedicated **Task Groups** to work on a standard or recommendation (listed on Interest Group pages). Ratified standards are maintained by **Standard Maintenance Groups** (listed on [standard pages]({filename}/pages/standards/index.md)).
+background:
+  img: https://c1.staticflickr.com/1/489/30668600364_4695fef168_b.jpg
+  by: Denisse Vargas
+  href: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/
 ---
 
 TDWG interest (IG) and task (TG) groups undertake one of TDWG’s core functions — the  development and maintenance of biodiversity information standards. The [TDWG Process](/about/process) describes the steps for establishing and maintaining interest and task groups as well as the [process for ratification of standards](https://www.tdwg.org/about/process/#ratification%20of%20standards_1) under the guidance of a [Review Manager](https://www.tdwg.org/about/review-managers/). Most important among these for new interest or task groups, is the guidance for writing the group’s charter and steps for having it reviewed by the TDWG Executive Committee ([Exec](/about/executive)).  An interest or task group charter describes the group’s goals, how it works, pointers to background and specifications in progress, as well as how to participate. The TDWG Exec is responsible for ensuring that the group’s plan is scientifically sound and politically open and inclusive. Advice from the TDWG Technical Architecture Group ([TAG](/about/committees/tag)) ensures that the methods and approach are technically sound. The charters of active interest and task groups are linked below.  Guidance for group conveners can be found in the [community management guidelines](./management).  

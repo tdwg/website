@@ -1,11 +1,11 @@
 ---
 title: 2017 - Ottawa, Canada
-summary: TDWG 2017 Annual Conference - Ottawa, Canada
-cover_image: https://c1.staticflickr.com/5/4500/37295672674_8aa2652c28_b.jpg
-cover_image_by: Arthur Chapman
-cover_image_ref: https://www.flickr.com/photos/arthur_chapman/37295672674
-tags: conference
-page_order: 33
+description: >
+  TDWG 2017 Annual Conference - Ottawa, Canada
+background:
+  img: https://c1.staticflickr.com/5/4500/37295672674_8aa2652c28_b.jpg
+  by: Arthur Chapman
+  href: https://www.flickr.com/photos/arthur_chapman/37295672674
 ---
 
 Host

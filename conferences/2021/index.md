@@ -1,11 +1,11 @@
 ---
 title: TDWG 2021 - Virtual Annual Conference
-summary: Connecting the world of biodiversity data: standards uniting people, processes, and tools
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
-tags: conference
-page_order: 29
+description: >
+  Connecting the world of biodiversity data: standards uniting people, processes, and tools
+background:
+  img: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+  by: Waranot (Joe)
+  href: https://unsplash.com/photos/tkJ06vkDkMI 
 ---
 
 <img src="https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png" alt="TDWG 2021 Logo" style="float:right;padding-left:10px;padding-bottom:10px">

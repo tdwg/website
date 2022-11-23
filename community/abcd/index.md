@@ -1,12 +1,13 @@
 ---
 title: Access to Biological Collections Data
-summary: The TDWG Maintenance Group for the ABCD Standard
-cover_image: https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6
-cover_image_by: Chris Lawton
-cover_image_ref: https://unsplash.com/photos/5IHz5WhosQE
-tags: interest group, maintenance group
+description: >
+  The TDWG Maintenance Group for the ABCD Standard
+background:
+  img: https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6
+  by: Chris Lawton
+  href: https://unsplash.com/photos/5IHz5WhosQE
+tags: [maintenance group]
 github: https://github.com/tdwg/abcd
-status: published
 ---
 
 ## Convenor

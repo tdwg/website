@@ -1,10 +1,12 @@
 ---
 title: Earth Sciences and Paleobiology
-summary: The ESP interest group addresses data standards and best practices concerning information about material samples that support earth science and paleobiology research. Our work will apply emerging methods in data integration, linked open data, and geographic information systems to long established, collection-based disciplines in earth sciences, such as paleontology, chronostratigraphy, and mineralogy. 
-cover_image: https://images.unsplash.com/photo-1519409369806-8e923ea66184
-cover_image_by: Justyn Warner
-cover_image_ref: https://unsplash.com/photos/TzQZTfkanPA
-tags: interest group
+description: >
+  The ESP interest group addresses data standards and best practices concerning information about material samples that support earth science and paleobiology research. Our work will apply emerging methods in data integration, linked open data, and geographic information systems to long established, collection-based disciplines in earth sciences, such as paleontology, chronostratigraphy, and mineralogy. 
+background:
+  img: https://images.unsplash.com/photo-1519409369806-8e923ea66184
+  by: Justyn Warner
+  href: https://unsplash.com/photos/TzQZTfkanPA
+tags: [interest group]
 github: https://github.com/tdwg/esp
 ---
 

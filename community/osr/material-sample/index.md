@@ -1,14 +1,10 @@
 ---
 title: OSR - Material Sample
-summary: This task group will investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data.
-cover_image:
-cover_image_by:
-cover_image_ref:
-tags: task group
+description:  >
+  This task group will investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data.
+tags: [task group]
 github: https://github.com/tdwg/material-sample
-status: published
 ---
-
 
 # MaterialSample Task Group Charter 
 

@@ -1,10 +1,11 @@
 ---
 title: Time and place
-summary: The purpose of the Time and Place Functional Subcommittee is to establish a six year rolling plan for the hosting of TDWG meetings, which seeks to expand the influence of TDWG whilst retaining and increasing its core membership base. It is aiming at expanding the TDWG community, maintaining existing community, maintaining functionality of interest and task groups, and taking advantage of funding for hosting opportunities.
-cover_image: https://images.unsplash.com/photo-1519452575417-564c1401ecc0
-cover_image_by: Nathan Dumlao
-cover_image_ref: https://unsplash.com/photos/ewGMqs2tmJI
-tags: functional subcommittee, charter
+description: >
+  The purpose of the Time and Place Functional Subcommittee is to establish a six year rolling plan for the hosting of TDWG meetings, which seeks to expand the influence of TDWG whilst retaining and increasing its core membership base. It is aiming at expanding the TDWG community, maintaining existing community, maintaining functionality of interest and task groups, and taking advantage of funding for hosting opportunities.
+background:
+  img: https://images.unsplash.com/photo-1519452575417-564c1401ecc0
+  by: Nathan Dumlao
+  href: https://unsplash.com/photos/ewGMqs2tmJI
 ---
 
 ## Mission

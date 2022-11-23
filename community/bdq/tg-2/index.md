@@ -1,10 +1,8 @@
 ---
 title: Data quality tests and assertions
-summary: The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: task group
+description: >
+  The Task Group will provide a report of the practical tests, assertions, principles, software and key references associated with assessing data quality of biodiversity  records. This should provide a basis, along with the other Data Quality Task Groups of a standard approach to data quality that should be used by all agencies providing biodiversity-related data.
+tags: [task group]
 github: https://github.com/tdwg/bdq/tree/master/tg2
 ---
 

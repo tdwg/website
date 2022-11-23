@@ -1,10 +1,11 @@
 ---
 title: Darwin Core
-summary: Darwin Core is a standard maintained by the [Darwin Core maintenance group](../../community/dwc). It includes a glossary of terms intended to **facilitate the sharing of information about biological diversity** by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
-cover_image: https://images.unsplash.com/photo-1492031215329-791748ee1253
-cover_image_by: Alex Guillaume
-cover_image_ref: https://unsplash.com/photos/0MC0o-xLucM
-tags: technical specification, current standard, 2009
+description: >
+  Darwin Core is a standard maintained by the [Darwin Core maintenance group](../../community/dwc). It includes a glossary of terms intended to **facilitate the sharing of information about biological diversity** by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
+background:
+  img: https://images.unsplash.com/photo-1492031215329-791748ee1253
+  by: Alex Guillaume
+  href: https://unsplash.com/photos/0MC0o-xLucM
 github: https://github.com/tdwg/dwc
 website: https://dwc.tdwg.org
 website_title: Darwin Core website

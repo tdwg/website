@@ -1,11 +1,11 @@
 ---
 title: Incorporation and status
-summary: Documentation of TDWG incorporation and non-profit status.
-cover_image: https://images.unsplash.com/photo-1498936178812-4b2e558d2937
-cover_image_by: Eric Ward
-cover_image_ref: https://unsplash.com/photos/qFAEHxevxVE
-tags: 
-page_order: 9
+description:  >
+  Documentation of TDWG incorporation and non-profit status.
+background:
+  img: https://images.unsplash.com/photo-1498936178812-4b2e558d2937
+  by: Eric Ward
+  href: https://unsplash.com/photos/qFAEHxevxVE
 ---
 
 ## United States of America

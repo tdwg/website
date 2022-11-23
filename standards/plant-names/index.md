@@ -1,10 +1,11 @@
 ---
 title: Plant Names in Botanical Databases
-summary: This standard defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a database. The appendices provide an outline of a preliminary data dictionary illustrating possible elements and their properties. It does not provide a data model or a data format.
-cover_image: https://images.unsplash.com/photo-1541170362668-5a41854decee
-cover_image_by: Micheile Henderson
-cover_image_ref: https://unsplash.com/photos/DV4lEwcj774
-tags: prior standard, 1995
+description: >
+  This standard defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a database. The appendices provide an outline of a preliminary data dictionary illustrating possible elements and their properties. It does not provide a data model or a data format.
+background:
+  img: https://images.unsplash.com/photo-1541170362668-5a41854decee
+  by: Micheile Henderson
+  href: https://unsplash.com/photos/DV4lEwcj774
 github: https://github.com/tdwg/prior-standards/tree/master/plant-names-in-botanical-databases
 ---
 

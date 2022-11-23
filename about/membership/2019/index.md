@@ -1,11 +1,11 @@
 ---
 title: 2019 Institutional Members
-summary: Member dues support standards development and the operation of our collaboration platforms.
-cover_image: https://images.unsplash.com/photo-1504760644119-998372991f7c
-cover_image_by: Pawan Sharma
-cover_image_ref: https://unsplash.com/photos/XexNwsGiHwY
-tags: 
-page_order: 21
+description:  >
+  Member dues support standards development and the operation of our collaboration platforms.
+background:
+  img: https://images.unsplash.com/photo-1504760644119-998372991f7c
+  by: Pawan Sharma
+  href: https://unsplash.com/photos/XexNwsGiHwY
 ---
 
 ## Institutional members 2019

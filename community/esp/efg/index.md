@@ -1,12 +1,13 @@
 ---
 title: Extension for Geosciences (EFG)
-summary: This task group manages the ABCD "extension for geosciences," which creates adds vocabularies for concepts used in collections of geoscience specimens. 
-cover_image: https://images.unsplash.com/photo-1519409369806-8e923ea66184
-cover_image_by: Justyn Warner
-cover_image_ref: https://unsplash.com/photos/TzQZTfkanPA
-tags: task group
+description:  >
+  This task group manages the ABCD "extension for geosciences," which creates adds vocabularies for concepts used in collections of geoscience specimens. 
+background:
+  img: https://images.unsplash.com/photo-1519409369806-8e923ea66184
+  by: Justyn Warner
+  href: https://unsplash.com/photos/TzQZTfkanPA
+tags: [task group]
 github: https://github.com/tdwg/efg
-status: published
 ---
 
 # Extension for Geosciences (EFG) 

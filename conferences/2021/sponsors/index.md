@@ -1,14 +1,13 @@
 ---
 title: Acknowledgements
-summary: Organizations that have contributed financial or in-kind assistance to produce the conference are shown below.
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
-tags: conference
-page_order: 125
-status: hidden
+description: >
+  Organizations that have contributed financial or in-kind assistance to produce the conference are shown below.
+background:
+  img: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+  by: Waranot (Joe)
+  href: https://unsplash.com/photos/tkJ06vkDkMI
+published: false
 ---
-
 
 <table border="0">
 <tbody>

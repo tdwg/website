@@ -1,15 +1,12 @@
 ---
 title: Copyright Infringement
-summary: TDWG gets an expensive lesson in copyright infringement.
-cover_image: https://images.unsplash.com/photo-1544187572-55a7bd7390a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80
-cover_image_by: Kallanai Dam, Thanjavur, India
-cover_image_ref: https://unsplash.com/photos/pZmcfWEdjrw
-tags: policy, copyright
-toc_headers: ^h[2-3]
+description: >
+  TDWG gets an expensive lesson in copyright infringement.
+background:
+  img: https://images.unsplash.com/photo-1544187572-55a7bd7390a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80
+  by: Kallanai Dam, Thanjavur, India
+  href: https://unsplash.com/photos/pZmcfWEdjrw
 ---
-
-
-
 
 # Copyright Infringement: risks and avoidance
 

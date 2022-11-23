@@ -1,11 +1,9 @@
 ---
 title: Community support
-summary: 
-cover_image: https://images.unsplash.com/photo-1513149739851-50f01dfcbd9a
-cover_image_by: Marion Michele
-cover_image_ref: https://unsplash.com/photos/jqTSl68betY
-tags: 
-page_order: 102
+background:
+  img: https://images.unsplash.com/photo-1513149739851-50f01dfcbd9a
+  by: Marion Michele
+  href: https://unsplash.com/photos/jqTSl68betY
 ---
 
 ## What is the TDWG Community Support Fund?

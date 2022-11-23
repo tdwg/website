@@ -1,10 +1,8 @@
 ---
 title: Data quality use cases
-summary: The Task Group will provide a report list of Use Cases where data is assessed for suitability for that particular purpose.  The use case descriptions will include the data required, quality dimensions and thresholds used to assess the data/dataset. This should provide a reference set of information that can be used to inform assess data suitability for particular purposes.
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: task group
+description: >
+  The Task Group will provide a report list of Use Cases where data is assessed for suitability for that particular purpose.  The use case descriptions will include the data required, quality dimensions and thresholds used to assess the data/dataset. This should provide a reference set of information that can be used to inform assess data suitability for particular purposes.
+tags: [task group]
 github: https://github.com/tdwg/bdq/tree/master/tg3
 ---
 

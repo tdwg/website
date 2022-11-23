@@ -1,12 +1,13 @@
 ---
 title: Presentation Information
-summary: What to know when you present at TDWG 2022
-cover_image: https://images.unsplash.com/photo-1509105494475-358d372e6ade
-cover_image_by: Jakob Creutz
-cover_image_ref: https://unsplash.com/photos/ZtqnVVvOyjA
-tags: conference
-page_order: 6
+description: >
+  What to know when you present at TDWG 2022
+background:
+  img: https://images.unsplash.com/photo-1509105494475-358d372e6ade
+  by: Jakob Creutz
+  href: https://unsplash.com/photos/ZtqnVVvOyjA
 ---
+
 # Presentation Expectations
 
 _Last updated 10 September 2022_

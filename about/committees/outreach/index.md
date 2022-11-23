@@ -1,10 +1,11 @@
 ---
 title: Outreach and communications
-summary: The purpose of the Outreach and communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
-cover_image: https://images.unsplash.com/photo-1471469678089-67f27c6ca4f4
-cover_image_by: Kawtar Cherkaoui
-cover_image_ref: https://unsplash.com/photos/1Q1P_XpWylY
-tags: functional subcommittee, charter
+description: >
+  The purpose of the Outreach and communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
+background:
+  img: https://images.unsplash.com/photo-1471469678089-67f27c6ca4f4
+  by: Kawtar Cherkaoui
+  href: https://unsplash.com/photos/1Q1P_XpWylY
 ---
 
 ## Chair

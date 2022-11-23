@@ -1,11 +1,13 @@
 ---
 title: TDWG 2013 presentation files
-summary: Presentation Files from TDWG 2013 Annual Conference - Florence, Italy
-cover_image: https://c1.staticflickr.com/9/8288/29260207730_a25aa0bc3d_b.jpg
-cover_image_by: Mariano Mantel
-cover_image_ref: https://www.flickr.com/photos/mariano-mantel/29260207730
-tags: conference
+description: >
+  Presentation Files from TDWG 2013 Annual Conference - Florence, Italy
+background:
+  img: https://c1.staticflickr.com/9/8288/29260207730_a25aa0bc3d_b.jpg
+  by: Mariano Mantel
+  href: https://www.flickr.com/photos/mariano-mantel/29260207730
 ---
+
 ### TDWG 2013 presentation files
 
 Presentation files are available by request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).

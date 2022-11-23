@@ -1,12 +1,11 @@
 ---
 title: TDWG 2022 - call for organized sessions
-summary: Stronger Together: Standards for linking biodiversity data
-cover_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
-cover_image_by: Ivan Nedelchev 
-cover_image_ref: https://unsplash.com/photos/OENyTAi9dg0 
-tags: conference
-page_order: 80
-status: published
+description: >
+  Stronger Together: Standards for linking biodiversity data
+background:
+  img: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
+  by: Ivan Nedelchev 
+  href: https://unsplash.com/photos/OENyTAi9dg0 
 ---
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">

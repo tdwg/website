@@ -1,13 +1,13 @@
 ---
 title: Full Schedule
-summary: Detailed schedule of TDWG 2022, Sofia Bulgaria (UTC+3)
-cover_image: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
-cover_image_by: Paul Talbot
-cover_image_ref: https://unsplash.com/photos/pQDBGxtiDEo
-tags: conference
-status: hidden
-page_order: 105
+description: >
+  Detailed schedule of TDWG 2022, Sofia Bulgaria (UTC+3)
+background:
+  img: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
+  by: Paul Talbot
+  href: https://unsplash.com/photos/pQDBGxtiDEo
 ---
+
 <script type="text/javascript"> 
 
 function horaLocal(hileraFechaHora, addlinebreak, addDay) {

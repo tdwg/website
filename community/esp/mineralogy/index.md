@@ -1,12 +1,12 @@
 ---
 title: Mineralogy Extension
-summary: A Task Group of the Earth Sciences and Paleobiology (ESP) Interest Group
-cover_image: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
-cover_image_by: Brian Wangenheim
-cover_image_ref: https://unsplash.com/photos/v0oOFQ6M7j8
-tags: task group
-github: 
-status: published
+description:  >
+  A Task Group of the Earth Sciences and Paleobiology (ESP) Interest Group
+background:
+  img: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
+  by: Brian Wangenheim
+  href: https://unsplash.com/photos/v0oOFQ6M7j8
+tags: [task group]
 ---
 
 # Mineralogy Extension

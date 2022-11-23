@@ -1,10 +1,11 @@
 ---
 title: Plant Occurrence and Status Scheme (POSS)
-summary: A standard for recording the relationship between a plant and a place
-cover_image: https://images.unsplash.com/photo-1524235975426-093c4bf9a327
-cover_image_by: Dieter de Vroomen
-cover_image_ref: https://unsplash.com/photos/syUmgOxHYos
-tags: prior standard, 1995
+description: >
+  A standard for recording the relationship between a plant and a place
+background:
+  img: https://images.unsplash.com/photo-1524235975426-093c4bf9a327
+  by: Dieter de Vroomen
+  href: https://unsplash.com/photos/syUmgOxHYos
 github: https://github.com/tdwg/prior-standards/tree/master/poss
 ---
 

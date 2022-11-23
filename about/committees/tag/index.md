@@ -1,10 +1,11 @@
 ---
 title: Technical Architecture Group
-summary: The purpose of the Technical Architecture Group (TAG) is to guide ongoing development of the TDWG technical architecture and advise the Executive and membership on matters relating to the principles, strategies and practice for maintaining the common technical framework essential to TDWG's mission to develop, adopt and promote standards and practice for the recording and exchange of biodiversity data.
-cover_image: https://images.unsplash.com/photo-1503387837-b154d5074bd2
-cover_image_by: Daniel McCullough
-cover_image_ref: https://unsplash.com/photos/-FPFq_trr2Y
-tags: functional subcommittee, charter
+description: >
+  The purpose of the Technical Architecture Group (TAG) is to guide ongoing development of the TDWG technical architecture and advise the Executive and membership on matters relating to the principles, strategies and practice for maintaining the common technical framework essential to TDWG's mission to develop, adopt and promote standards and practice for the recording and exchange of biodiversity data.
+background:
+  img: https://images.unsplash.com/photo-1503387837-b154d5074bd2
+  by: Daniel McCullough
+  href: https://unsplash.com/photos/-FPFq_trr2Y
 github: https://github.com/tdwg/tag
 ---
 

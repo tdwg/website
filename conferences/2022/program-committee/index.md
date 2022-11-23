@@ -1,12 +1,11 @@
 ---
 title: Program Committee
-summary: Stronger Together: Standards for linking biodiversity data
-cover_image: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
-cover_image_by: Georg Eiermann
-cover_image_ref: https://unsplash.com/photos/eWiTil2CAvA 
-tags: conference
-page_order: 29
-status: published
+description: >
+  Stronger Together: Standards for linking biodiversity data
+background:
+  img: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
+  by: Georg Eiermann
+  href: https://unsplash.com/photos/eWiTil2CAvA 
 ---
 
 # Program committee for TDWG 2022

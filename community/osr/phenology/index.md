@@ -1,12 +1,9 @@
 ---
 title: OSR - Phenology
-summary: A Task Group of the Observation and Specimen Records (OSR) Interest Group
-cover_image:
-cover_image_by:
-cover_image_ref:
-tags: task group
+description:  >
+  A Task Group of the Observation and Specimen Records (OSR) Interest Group
+tags: [task group]
 github: https://github.com/tdwg/phenology
-status: published
 ---
 
 ## Plant Phenology Task Group Charter

@@ -1,10 +1,12 @@
 ---
 title: GBWG - Sustainable DarwinCore MIxS Interoperability
-summary: The Task Group has been convened to consolidate previous work that aimed to prevent siloed (meta)data standards development in the omics and broader biodiversity communities. The TG will leverage procedural and technical advancements in TDWG and the GSC to develop a sustainably interoperable MIxS-driven extension of DwC. The result will ensure that data produced in either MIxS- or DwC-compliant form can be automatically brokered between user communities, bringing the communities closer together.
-cover_image: https://images.unsplash.com/photo-1606698235008-0b44ca6f7594
-cover_image_by: David Clode
-cover_image_ref: https://unsplash.com/photos/EyEdZ2aKRfA 
-tags: task group
+description: >
+  The Task Group has been convened to consolidate previous work that aimed to prevent siloed (meta)data standards development in the omics and broader biodiversity communities. The TG will leverage procedural and technical advancements in TDWG and the GSC to develop a sustainably interoperable MIxS-driven extension of DwC. The result will ensure that data produced in either MIxS- or DwC-compliant form can be automatically brokered between user communities, bringing the communities closer together.
+background:
+  img: https://images.unsplash.com/photo-1606698235008-0b44ca6f7594
+  by: David Clode
+  href: https://unsplash.com/photos/EyEdZ2aKRfA 
+tags: [task group]
 github: https://github.com/tdwg/gbwg/tree/main/dwc-mixs
 ---
 

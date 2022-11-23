@@ -1,10 +1,11 @@
 ---
 title: Herbarium Information Standards and Protocols for Interchange of Data (HISPID3)
-summary: The Herbarium Information Standards and Protocols for Interchange of Data (HISPID) is a standard format for the interchange of electronic herbarium specimen information.
-cover_image: https://zenodo.org/record/2354442/files/BR0000010007433.jpg?download=1
-cover_image_by: Meise Botanic Garden
-cover_image_ref: https://doi.org/10.5281/zenodo.2354442
-tags: technical specification, prior standard, 1996
+description: >
+  The Herbarium Information Standards and Protocols for Interchange of Data (HISPID) is a standard format for the interchange of electronic herbarium specimen information.
+background:
+  img: https://zenodo.org/record/2354442/files/BR0000010007433.jpg?download=1
+  by: Meise Botanic Garden
+  href: https://doi.org/10.5281/zenodo.2354442
 github: https://github.com/tdwg/prior-standards/tree/master/hispid3
 website: http://plantnet.rbgsyd.nsw.gov.au/HISCOM/HISPID/HISPID3/H3.html
 website_title: HISPID3 at HISCOM

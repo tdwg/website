@@ -1,12 +1,9 @@
 ---
 title: TDWG Code de Conduite
-summary: 
-cover_image: https://images.unsplash.com/photo-1509715513011-e394f0cb20c4
-cover_image_by: Alex Guillaume
-cover_image_ref: https://unsplash.com/photos/16oqzpFRMqs
-tags: 
-toc_headers: ^h[2-3]
-page_order: 
+background:
+  img: https://images.unsplash.com/photo-1509715513011-e394f0cb20c4
+  by: Alex Guillaume
+  href: https://unsplash.com/photos/16oqzpFRMqs
 ---
 
 # TDWG Code de Conduite

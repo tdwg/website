@@ -1,11 +1,9 @@
 ---
 title: Symposia & Discussion Sessions
-summary: Organized sessions include symposia and panel discussions
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
-tags: conference
-page_order: 25
+description: >
+  Organized sessions include symposia and panel discussions
+background:
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 ---
 
 <img src="https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg" alt="Scott Edwards, photo by James Deshler" style="float:right;padding-left:10px;padding-bottom:10px;">

@@ -1,10 +1,10 @@
 ---
 title: Attribution
-summary: 
-cover_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f
-cover_image_by: Susan Yin
-cover_image_ref: https://unsplash.com/photos/2JIvboGLeho
-tags: interest group
+background:
+  img: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f
+  by: Susan Yin
+  href: https://unsplash.com/photos/2JIvboGLeho
+tags: [interest group]
 github: https://github.com/tdwg/attribution
 ---
 

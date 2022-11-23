@@ -1,10 +1,10 @@
 ---
 title: Biological Interactions Data
-summary: 
-cover_image: https://images.unsplash.com/photo-1489718678210-21984261b4f3
-cover_image_by: Boris Smokrovic
-cover_image_ref: https://unsplash.com/photos/VmCPfSU_84A
-tags: interest group
+background:
+  img: https://images.unsplash.com/photo-1489718678210-21984261b4f3
+  by: Boris Smokrovic
+  href: https://unsplash.com/photos/VmCPfSU_84A
+tags: [interest group]
 github: https://github.com/tdwg/interaction
 ---
 

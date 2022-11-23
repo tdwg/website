@@ -1,11 +1,13 @@
 ---
 title: TDWG 2011 Presentation Files
-summary: Presentation Files from TDWG 2011 Annual Conference - New Orleans, Louisiana, USA
-cover_image: https://c2.staticflickr.com/4/3853/14335934958_0dfa3789a3_b.jpg
-cover_image_by: Kent Kanouse
-cover_image_ref: https://www.flickr.com/photos/kkanouse/14335934958
-tags: conference
+description: >
+  Presentation Files from TDWG 2011 Annual Conference - New Orleans, Louisiana, USA
+background:
+  img: https://c2.staticflickr.com/4/3853/14335934958_0dfa3789a3_b.jpg
+  by: Kent Kanouse
+  href: https://www.flickr.com/photos/kkanouse/14335934958
 ---
+
 ### TDWG 2011 presentation files
 
 Presentation files are available by request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).

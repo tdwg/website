@@ -1,13 +1,11 @@
 ---
 title: Executive Committee Nominations for 2023-4
-summary: Listed below are the nominees for open positions on the TDWG Executive Committee for terms spanning 2023-4.
-cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
-cover_image_by: Tim Graf
-cover_image_ref: https://unsplash.com/photos/ErO0E8wZaTA
-toc_headers: ^h[2-4]
-tags: 
-status: published
-page_order: 2
+description:  >
+  Listed below are the nominees for open positions on the TDWG Executive Committee for terms spanning 2023-4.
+background:
+  img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
+  by: Tim Graf
+  href: https://unsplash.com/photos/ErO0E8wZaTA
 ---
 
 Nominations are open for positions on the [Executive Committee](../) of Biodiversity Information Standards (TDWG) for terms spanning 2023-4.

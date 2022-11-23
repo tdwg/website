@@ -1,11 +1,11 @@
 ---
 title: 2011 - New Orleans, Louisiana, USA
-summary: TDWG 2011 Annual Conference - New Orleans, Louisiana, USA
-cover_image: https://c2.staticflickr.com/4/3853/14335934958_0dfa3789a3_b.jpg
-cover_image_by: Kent Kanouse
-cover_image_ref: https://www.flickr.com/photos/kkanouse/14335934958
-tags: conference
-page_order: 39
+description: >
+  TDWG 2011 Annual Conference - New Orleans, Louisiana, USA
+background:
+  img: https://c2.staticflickr.com/4/3853/14335934958_0dfa3789a3_b.jpg
+  by: Kent Kanouse
+  href: https://www.flickr.com/photos/kkanouse/14335934958
 ---
 
 Host

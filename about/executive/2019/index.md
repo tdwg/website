@@ -1,12 +1,11 @@
 ---
 title: Executive Committee 2019
-summary: Members of the TDWG Executive Committee for the 2019 calendar year.
-cover_image: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
-cover_image_by: Tim Graf
-cover_image_ref: https://unsplash.com/photos/ErO0E8wZaTA
-status: published
-tags: 
-page_order: 29
+description:  >
+  Members of the TDWG Executive Committee for the 2019 calendar year.
+background:
+  img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
+  by: Tim Graf
+  href: https://unsplash.com/photos/ErO0E8wZaTA
 ---
 
 ### Managing officers

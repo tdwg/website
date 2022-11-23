@@ -1,10 +1,10 @@
 ---
 title: Audubon Core
-summary: 
-cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
-cover_image_by: Kawin Harasai
-cover_image_ref: https://unsplash.com/photos/VMpIew0mHlo
-tags: interest group
+background:
+  img: https://images.unsplash.com/photo-1492934483476-13c04a66709c
+  by: Kawin Harasai
+  href: https://unsplash.com/photos/VMpIew0mHlo
+tags: [interest group]
 github: https://github.com/tdwg/ac
 ---
 

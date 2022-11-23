@@ -1,10 +1,12 @@
 ---
 title: Citizen Science
-summary: Dedicated to promoting best practices and standards that will improve the quality and expand the use of biodiversity data gathered by citizen scientists.
-cover_image: https://images.unsplash.com/photo-1520885708668-9ef025710520
-cover_image_by: Jordan Madrid
-cover_image_ref: https://unsplash.com/photos/ZLRRiyrmALA
-tags: interest group
+description:  >
+  Dedicated to promoting best practices and standards that will improve the quality and expand the use of biodiversity data gathered by citizen scientists.
+background:
+  img: https://images.unsplash.com/photo-1520885708668-9ef025710520
+  by: Jordan Madrid
+  href: https://unsplash.com/photos/ZLRRiyrmALA
+tags: [interest group]
 github: https://github.com/tdwg/citizen-science
 ---
 

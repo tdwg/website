@@ -1,11 +1,12 @@
 ---
 title: Biodiversity Services and Clients
-summary: The aim of the Biodiversity Services Interest Group (BSCI) is to assess usefulness of existing biodiversity web service infrastructures from the perspective of integrating software applications such as workflow environments, discuss and agree upon common principles for API design, stability and documentation,  encourage registration of useful Web services in a well-founded, well-known community directory i.e. BiodiversityCatalogue, produce documentation including  background material, guidelines and best practices. The group will actively collaborate with projects and initiatives with similar aims (e.g. BioVeL, GFBio, LifeWatch, Kurator). Members will actively promote the findings in external conferences and workshops and encourage service developers to adopt agreed upon  API principles and to document and advertise services in joint registry systems.
-cover_image: https://images.unsplash.com/photo-1484557052118-f32bd25b45b5
-cover_image_by: Thomas Kvistholt
-cover_image_ref: https://unsplash.com/photos/oZPwn40zCK4
-tags: interest group
-github: 
+description: >
+  The aim of the Biodiversity Services Interest Group (BSCI) is to assess usefulness of existing biodiversity web service infrastructures from the perspective of integrating software applications such as workflow environments, discuss and agree upon common principles for API design, stability and documentation,  encourage registration of useful Web services in a well-founded, well-known community directory i.e. BiodiversityCatalogue, produce documentation including  background material, guidelines and best practices. The group will actively collaborate with projects and initiatives with similar aims (e.g. BioVeL, GFBio, LifeWatch, Kurator). Members will actively promote the findings in external conferences and workshops and encourage service developers to adopt agreed upon  API principles and to document and advertise services in joint registry systems.
+background:
+  img: https://images.unsplash.com/photo-1484557052118-f32bd25b45b5
+  by: Thomas Kvistholt
+  href: https://unsplash.com/photos/oZPwn40zCK4
+tags: [interest group]
 ---
 
 <!-- Copied from http://www.tdwg.org/activities/biodiversity-services-clients/charter/ -->

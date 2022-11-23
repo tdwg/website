@@ -1,11 +1,11 @@
 ---
 title: Instructions for Abstract Submission
-summary: For presentations at TDWG 2021, to be published in _Biodiversity Information Science and Standards_
-cover_image: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
-cover_image_by: Dave Hoefler
-cover_image_ref: https://unsplash.com/photos/DVauUHIJby0
-tags: conference
-page_order: 65
+description: >
+  For presentations at TDWG 2021, to be published in _Biodiversity Information Science and Standards_
+background:
+  img: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
+  by: Dave Hoefler
+  href: https://unsplash.com/photos/DVauUHIJby0
 ---
 
 # Instructions for Abstract Submission

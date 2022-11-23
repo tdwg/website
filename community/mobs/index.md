@@ -1,10 +1,12 @@
 ---
 title: Machine Observations
-summary: The intention of the Machine Observations Interest Group is to discuss and document common approaches to the modelling, exchange and publication of biodiversity data derived from sensors.
-cover_image: https://images.unsplash.com/photo-1538546904280-6c5918bc6690
-cover_image_by: Michael Librizzi
-cover_image_ref: https://unsplash.com/photos/byEkN2obUSA
-tags: interest group
+description:  >
+  The intention of the Machine Observations Interest Group is to discuss and document common approaches to the modelling, exchange and publication of biodiversity data derived from sensors.
+background:
+  img: https://images.unsplash.com/photo-1538546904280-6c5918bc6690
+  by: Michael Librizzi
+  href: https://unsplash.com/photos/byEkN2obUSA
+tags: [interest group]
 github: https://github.com/tdwg/dwc-for-biologging
 ---
 

@@ -1,11 +1,13 @@
 ---
 title: TDWG 2014 presentation files
-summary: Presentation Files from TDWG 2013 Annual Conference - Jönköping, Sweden
-cover_image: https://c2.staticflickr.com/8/7285/8738080004_4aa25ee3df_b.jpg
-cover_image_by: Gustav Lindqvist
-cover_image_ref: https://www.flickr.com/photos/gustavlindqvist/8738080004
-tags: conference
+description: >
+  Presentation Files from TDWG 2013 Annual Conference - Jönköping, Sweden
+background:
+  img: https://c2.staticflickr.com/8/7285/8738080004_4aa25ee3df_b.jpg
+  by: Gustav Lindqvist
+  href: https://www.flickr.com/photos/gustavlindqvist/8738080004
 ---
+
 ### TDWG 2014 presentation files
 
 Presentation files are available by request to [secretariat@tdwg.org](mailto:secretariat@tdwg.org).

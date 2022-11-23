@@ -1,11 +1,5 @@
 ---
 title: Standards Status and Categories
-summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: 
-page_order: 
 ---
 
 ## Status values

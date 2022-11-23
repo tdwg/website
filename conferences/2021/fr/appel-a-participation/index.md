@@ -1,11 +1,11 @@
 ---
 title: TDWG 2021 Appel à participation
-summary: Connecter le monde des données pour la biodiversité: des standards pour unir les personnes, les processus et les outils
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI
-tags: conference
-page_order: 95
+description: >
+  Connecter le monde des données pour la biodiversité: des standards pour unir les personnes, les processus et les outils
+background:
+  img: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+  by: Waranot (Joe)
+  href: https://unsplash.com/photos/tkJ06vkDkMI
 ---
 
 # Appel à participation

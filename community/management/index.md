@@ -1,11 +1,5 @@
 ---
 title: Community management
-summary: 
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: 
-page_order: 
 ---
 
 # Responsibilities of Conveners:

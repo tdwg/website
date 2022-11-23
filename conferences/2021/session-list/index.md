@@ -1,11 +1,11 @@
 ---
 title: Symposia, Workshops, & Discussion Sessions
-summary: Organized sessions include symposia, workshops, demos, a panel discussion, & unconference
-cover_image: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
-cover_image_by: Paul Talbot
-cover_image_ref: https://unsplash.com/photos/pQDBGxtiDEo
-tags: conference
-page_order: 25
+description: >
+  Organized sessions include symposia, workshops, demos, a panel discussion, & unconference
+background:
+  img: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
+  by: Paul Talbot
+  href: https://unsplash.com/photos/pQDBGxtiDEo
 ---
 
 ## SYM01 Applications of machine learning in biodiversity image analysis

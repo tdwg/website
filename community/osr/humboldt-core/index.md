@@ -1,10 +1,12 @@
 ---
 title: Humboldt Core 
-summary: This task group will explore concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt Core terms (Guralnick et al. 2018) will be reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core if possible. If not, the work of the Task Group will be amended to pursue an alternative standard for this type of data within the TDWG corpus of standards. The outcome in either case will be to provide a framework and clear semantics for sharing and integrating biodiversity inventory data. 
-cover_image: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
-cover_image_by: David Clode
-cover_image_ref: https://unsplash.com/photos/oe25dLOXpL8
-tags: task group
+description: >
+  This task group will explore concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt Core terms (Guralnick et al. 2018) will be reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core if possible. If not, the work of the Task Group will be amended to pursue an alternative standard for this type of data within the TDWG corpus of standards. The outcome in either case will be to provide a framework and clear semantics for sharing and integrating biodiversity inventory data. 
+background:
+  img: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
+  by: David Clode
+  href: https://unsplash.com/photos/oe25dLOXpL8
+tags: [task group]
 github: https://github.com/tdwg/hc
 ---
 

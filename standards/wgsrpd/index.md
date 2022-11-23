@@ -1,10 +1,11 @@
 ---
 title: World Geographical Scheme for Recording Plant Distributions (WGSRPD)
-summary: WGSRPD provides an agreed system of geographical units at approximately "country" level and upwards for use in recording plant distributions. It allows adopting organizations to compare and exchange data with each other without loss of information due to incompatible geographical boundaries. The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called "Botanical Country" level (which may often ignore purely political considerations), and fourthly at a slightly lower level called "Basic Recording Units" where political integrity is fully recognised.
-cover_image: https://images.unsplash.com/photo-1477650112965-999095361212
-cover_image_by: Tim Marshall
-cover_image_ref: https://unsplash.com/photos/ATrQi9kdHbE
-tags: prior standard, 1992
+description: >
+  WGSRPD provides an agreed system of geographical units at approximately "country" level and upwards for use in recording plant distributions. It allows adopting organizations to compare and exchange data with each other without loss of information due to incompatible geographical boundaries. The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called "Botanical Country" level (which may often ignore purely political considerations), and fourthly at a slightly lower level called "Basic Recording Units" where political integrity is fully recognised.
+background:
+  img: https://images.unsplash.com/photo-1477650112965-999095361212
+  by: Tim Marshall
+  href: https://unsplash.com/photos/ATrQi9kdHbE
 github: https://github.com/tdwg/wgsrpd
 ---
 

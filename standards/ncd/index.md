@@ -1,10 +1,11 @@
 ---
 title: Natural Collections Descriptions (NCD)
-summary: Natural Collections Description (NCD) is a proposed data standard for describing collections of natural history materials at the collection level; one NCD record describes one entire collection.
-cover_image: https://images.unsplash.com/photo-1500591377218-2484ab05eeaf
-cover_image_by: Curtis MacNewton
-cover_image_ref: https://unsplash.com/photos/35_O336NNOo
-tags: technical specification, draft standard
+description: >
+  Natural Collections Description (NCD) is a proposed data standard for describing collections of natural history materials at the collection level; one NCD record describes one entire collection.
+background:
+  img: https://images.unsplash.com/photo-1500591377218-2484ab05eeaf
+  by: Curtis MacNewton
+  href: https://unsplash.com/photos/35_O336NNOo
 github: https://github.com/tdwg/ncd
 ---
 

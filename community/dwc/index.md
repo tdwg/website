@@ -1,10 +1,12 @@
 ---
 title: Darwin Core
-summary: The Darwin Core Maintenance Group is responsible for maintaining the various components of the Darwin Core Standard, which includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. Maintenance Group members have a strong interest in ensuring the stability, interoperability, and evolution of the vocabulary.
-cover_image: https://images.unsplash.com/photo-1492031215329-791748ee1253
-cover_image_by: Alex Guillaume
-cover_image_ref: https://unsplash.com/photos/0MC0o-xLucM
-tags: interest group, maintenance group
+description: >
+  The Darwin Core Maintenance Group is responsible for maintaining the various components of the Darwin Core Standard, which includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. Maintenance Group members have a strong interest in ensuring the stability, interoperability, and evolution of the vocabulary.
+background:
+  img: https://images.unsplash.com/photo-1492031215329-791748ee1253
+  by: Alex Guillaume
+  href: https://unsplash.com/photos/0MC0o-xLucM
+tags: [maintenance group]
 github: https://github.com/tdwg/dwc
 standard: https://www.tdwg.org/standards/dwc/
 standard_title: Darwin Core Standard

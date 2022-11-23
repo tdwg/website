@@ -1,12 +1,9 @@
 ---
 title: Liability Disclaimer and Release - COVID-19
-summary: 
-cover_image: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
-cover_image_by: Waranot (Joe)
-cover_image_ref: https://unsplash.com/photos/tkJ06vkDkMI 
-tags: policy
-status: published
-page_order: 29
+background:
+  img: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
+  by: Waranot (Joe)
+  href: https://unsplash.com/photos/tkJ06vkDkMI 
 ---
 
 ## COVID-19 and in-person events

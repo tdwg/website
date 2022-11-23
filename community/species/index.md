@@ -1,10 +1,10 @@
 ---
 title: Species Information
-summary: 
-cover_image: https://images.unsplash.com/photo-1507491518447-ac20c6c50dc9
-cover_image_by: Rémi Müller
-cover_image_ref: https://unsplash.com/photos/BtoabCzjRkI
-tags: interest group
+background:
+  img: https://images.unsplash.com/photo-1507491518447-ac20c6c50dc9
+  by: Rémi Müller
+  href: https://unsplash.com/photos/BtoabCzjRkI
+tags: [interest group]
 github: https://github.com/tdwg/species-information
 ---
 

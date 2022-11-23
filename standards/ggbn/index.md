@@ -1,10 +1,11 @@
 ---
 title: Global Genome Biodiversity Network (GGBN) Data Standard
-summary: The [GGBN](http://www.ggbn.org/) Data Standard is a set of vocabularies designed to represent tissue, DNA or RNA samples associated to voucher specimens, tissue samples and collections. It does not cover e.g. scientific name, geography or physiological facts and is intended to be used with [Darwin Core](../dwc/) or [ABCD](../abcd/). The GGBN Data Standard incorporates all molecular terms of [MIxS](http://gensc.org/mixs/), and can also handle [SPREC](http://www.isber.org/?page=SPREC) and large parts of [BRISQ](https://doi.org/10.1021/pr200021n).
-cover_image: https://images.unsplash.com/photo-1426372371732-eb62c97a4b98
-cover_image_by: Lukasz Szmigiel
-cover_image_ref: https://unsplash.com/photos/VJfDk7oJflE
-tags: technical specification, draft standard
+description: >
+  The [GGBN](http://www.ggbn.org/) Data Standard is a set of vocabularies designed to represent tissue, DNA or RNA samples associated to voucher specimens, tissue samples and collections. It does not cover e.g. scientific name, geography or physiological facts and is intended to be used with [Darwin Core](../dwc/) or [ABCD](../abcd/). The GGBN Data Standard incorporates all molecular terms of [MIxS](http://gensc.org/mixs/), and can also handle [SPREC](http://www.isber.org/?page=SPREC) and large parts of [BRISQ](https://doi.org/10.1021/pr200021n).
+background:
+  img: https://images.unsplash.com/photo-1426372371732-eb62c97a4b98
+  by: Lukasz Szmigiel
+  href: https://unsplash.com/photos/VJfDk7oJflE
 website: http://terms.tdwg.org/GGBN_Data_Standard
 website_title: GGBN Data Standard wiki
 ---

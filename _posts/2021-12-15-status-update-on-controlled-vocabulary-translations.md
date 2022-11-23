@@ -1,6 +1,7 @@
 ---
 title: Status update on Controlled vocabulary translations 
-description: Controlled vocabulary translations are available for use
+description: >
+  Controlled vocabulary translations are available for use
 tags: [standards, vocabularies]
 ---
 

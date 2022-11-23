@@ -1,11 +1,12 @@
 ---
 title: Invasive Organism Information
-summary: This group is being implemented to make specific changes to Darwin Core and its vocabularies with the intention of improving it for use in research and management concerning biological invasions. To facilitate the management and reduce the impact of invasive species monitoring and impact assessment should be conducted regularly. However, these assessments are difficult to automate because the source data lack common formats and standards. Improved interoperability would allow the creation of repeatable workflows for rapid processing. A similar situation exists for the assessment of conservation statuses for Red Lists. Again, the lack of machine readable resources and inadequate standards prevents automation of the process. Ideally, such assessments could be run regularly or as soon as new data becomes available.
-cover_image: https://images.unsplash.com/photo-1510554093911-4c279430ae5d
-cover_image_by: David Clode
-cover_image_ref: https://unsplash.com/photos/eCPYx-GBx_I
-tags: task group
-github:
+description: >
+  This group is being implemented to make specific changes to Darwin Core and its vocabularies with the intention of improving it for use in research and management concerning biological invasions. To facilitate the management and reduce the impact of invasive species monitoring and impact assessment should be conducted regularly. However, these assessments are difficult to automate because the source data lack common formats and standards. Improved interoperability would allow the creation of repeatable workflows for rapid processing. A similar situation exists for the assessment of conservation statuses for Red Lists. Again, the lack of machine readable resources and inadequate standards prevents automation of the process. Ideally, such assessments could be run regularly or as soon as new data becomes available.
+background:
+  img: https://images.unsplash.com/photo-1510554093911-4c279430ae5d
+  by: David Clode
+  href: https://unsplash.com/photos/eCPYx-GBx_I
+tags: [task group]
 ---
 
 ## Convenor  

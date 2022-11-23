@@ -1,12 +1,13 @@
 ---
 title: Information pour les présentations
-summary: Ce que vous devez savoir lorsque vous présentez à la conférence TDWG 2021
-cover_image: https://images.unsplash.com/photo-1509105494475-358d372e6ade
-cover_image_by: Jakob Creutz
-cover_image_ref: https://unsplash.com/photos/ZtqnVVvOyjA
-tags: conference
-page_order: 97
+description: >
+  Ce que vous devez savoir lorsque vous présentez à la conférence TDWG 2021
+background:
+  img: https://images.unsplash.com/photo-1509105494475-358d372e6ade
+  by: Jakob Creutz
+  href: https://unsplash.com/photos/ZtqnVVvOyjA
 ---
+
 # Prérequis pour les présentations
 Pendant la semaine de conférence, des sessions seront programmées et suivront les plages horaires de notre hôte hébergeur (1100-2300 UTC), avec la plupart des sessions d’une durée de 90-120 minutes, et une pause entre les sessions. Afin de de pouvoir accueillir toutes les sessions proposées, quelques sessions se feront en parallèle. Le décalage horaire de notre communauté mondiale rend inévitable que certaines sessions intéressantes se passent en dehors des horaires classiques de travail ou au milieu de la nuit pour certaines et certains. Le comité de programmation fait en sorte de rendre le programme aussi inclusif que possible et d’atténuer ces difficultés temporelles, les enregistrements des présentations seront mis à disposition dès que possible pour les participantes et participants inscrits.
 

@@ -1,12 +1,9 @@
 ---
 title: Schedule of Working Sessions,  September 21-25
-summary: 
-cover_image: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
-cover_image_by: 
-cover_image_ref: 
-tags: conference
-page_order: 45
+background:
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 ---
+
 <script type="text/javascript"> 
 
 function horaLocal(hileraFechaHora) {

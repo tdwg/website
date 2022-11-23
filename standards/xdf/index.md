@@ -1,6 +1,5 @@
 ---
 title: XDF - A Language for the Definition and Exchange of Biological Data Sets
-tags: prior standard, 1991
 github: https://github.com/tdwg/prior-standards/tree/master/xdf
 ---
 

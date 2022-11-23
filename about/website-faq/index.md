@@ -1,12 +1,11 @@
 ---
 title: Contributing to the TDWG website
-summary: The TDWG website is a collaborative effort: anyone can contribute. Whether it is [reporting an issue](#how-do-i-report-an-issue), [writing content](#how-do-i-edit-content) or [reviewing](#how-can-i-review-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
-cover_image: https://images.unsplash.com/photo-1508780709619-79562169bc64
-cover_image_by: Kaitlyn Baker
-cover_image_ref: https://unsplash.com/photos/vZJdYl5JVXY
-tags: 
-toc_headers: ^h[2-3]
-page_order: 16
+description: >
+  The TDWG website is a collaborative effort: anyone can contribute. Whether it is [reporting an issue](#how-do-i-report-an-issue), [writing content](#how-do-i-edit-content) or [reviewing](#how-can-i-review-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
+background:
+  img: https://images.unsplash.com/photo-1508780709619-79562169bc64
+  by: Kaitlyn Baker
+  href: https://unsplash.com/photos/vZJdYl5JVXY
 ---
 
 ## Reporting issues
@@ -124,11 +123,12 @@ Before starting a new page, consult with the website maintainers if and where th
 
         ---
         title: Page title
-        summary: Page summary
-        cover_image: 
-        cover_image_by: 
-        cover_image_ref: 
-        tags: 
+        description: >
+          Short description
+        background:
+          img:  
+          by: 
+          href:
         ---
 
         Page content

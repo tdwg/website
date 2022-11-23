@@ -1,11 +1,9 @@
 ---
 title: Contact
-summary: 
-cover_image: https://images.unsplash.com/photo-1472161280498-fa05daa7967b
-cover_image_by: Clem Onojeghuo
-cover_image_ref: https://unsplash.com/photos/HYNOp2CUcbY
-tags: 
-page_order: 12
+background:
+  img: https://images.unsplash.com/photo-1472161280498-fa05daa7967b
+  by: Clem Onojeghuo
+  href: https://unsplash.com/photos/HYNOp2CUcbY
 ---
 
 For official business with the TDWG Executive Committee, such as reports and applications, please contact the TDWG Secretary. For questions and comments concerning TDWG membership and our website, please contact Stan Blum at the TDWG Secretariat (see below, email preferred).

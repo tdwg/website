@@ -1,10 +1,11 @@
 ---
 title: Audubon Core Multimedia Resources Metadata Schema
-summary: The Audubon Core (AC) is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections. These vocabularies aim to represent information that will help to determine whether a particular resource or collection will be fit for some particular biodiversity science application before acquiring the media. Among others, the vocabularies address such concerns as the management of the media and collections, descriptions of their content, their taxonomic, geographic, and temporal coverage, and the appropriate ways to retrieve, attribute and reproduce them.
-cover_image: https://images.unsplash.com/photo-1430990480609-2bf7c02a6b1a
-cover_image_by: Mikhail Vasilyev
-cover_image_ref: https://unsplash.com/photos/gGC63oug3iY
-tags: technical specification, current standard, 2013
+description: >
+  The Audubon Core (AC) is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections. These vocabularies aim to represent information that will help to determine whether a particular resource or collection will be fit for some particular biodiversity science application before acquiring the media. Among others, the vocabularies address such concerns as the management of the media and collections, descriptions of their content, their taxonomic, geographic, and temporal coverage, and the appropriate ways to retrieve, attribute and reproduce them.
+background:
+  img: https://images.unsplash.com/photo-1430990480609-2bf7c02a6b1a
+  by: Mikhail Vasilyev
+  href: https://unsplash.com/photos/gGC63oug3iY
 github: https://github.com/tdwg/ac
 website: https://tdwg.github.io/ac/
 website_title: Audubon Core website

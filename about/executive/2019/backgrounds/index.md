@@ -1,12 +1,10 @@
 ---
 title: Background and visions statements
-summary: 
-cover_image: https://images.unsplash.com/photo-1496374200594-218d93021c8c
-cover_image_by: Nathan Dumlao
-cover_image_ref: https://unsplash.com/photos/UoehHcoiMB0
-status: hidden
-tags: 
-page_order: 1
+background:
+  img: https://images.unsplash.com/photo-1496374200594-218d93021c8c
+  by: Nathan Dumlao
+  href: https://unsplash.com/photos/UoehHcoiMB0
+published: false
 ---
 
 ## Deputy Chair - Deborah Paul

@@ -1,6 +1,7 @@
 ---
 title: Audubon Core maintenance proposals 
-description: Public comment opens on proposals to enhance Audubon Core with terms for Region of Interest (ROI)
+description: >
+  Public comment opens on proposals to enhance Audubon Core with terms for Region of Interest (ROI)
 tags: [standards, public review, Audubon Core]
 ---
 
