@@ -1,6 +1,13 @@
 # SITE SETTINGS
 title: TDWG
 
+# SOCIAL PROFILES
+social:
+  email: secretary@tdwg.org
+  twitter: tdwg
+  github: tdwg
+  facebook: https://www.facebook.com/groups/326780777736
+
 # THEME SETTINGS
 theme: minima
 remote_theme: tdwg/petridish
