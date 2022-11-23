@@ -1,11 +1,10 @@
 ---
 title: Election of Executive officers opens
-slug: elections-open
-date: 2018-10-11
-cover_image: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
-cover_image_by: Internet Archive Book Images
-cover_image_ref: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
-tags: elections
+background:
+  img: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
+  by: Internet Archive Book Images
+  href: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
+tags: [elections]
 ---
 
 The election of TDWG officers is now open. Ballots have been mailed to members in good standing. 

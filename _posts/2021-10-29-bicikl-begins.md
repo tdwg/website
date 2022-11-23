@@ -1,12 +1,10 @@
 ---
 title: Announcing Biodiversity Community Integrated Knowledge Library (BiCIKL)
-slug: bicikl-begins
-date: 2021-10-29
-cover_image: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images/visual_guide.jpg
-cover_image_by: BiCIKL project
-cover_image_ref: https://bicikl-project.eu/media-center
-tags: 
-status: published
+background:
+  img: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images/visual_guide.jpg
+  by: BiCIKL project
+  href: https://bicikl-project.eu/media-center
+tags: [BiCIKL] 
 ---
 
 # New BiCIKL project to build a freeway between pieces of biodiversity knowledge

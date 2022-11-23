@@ -1,10 +1,6 @@
 ---
 title: Public Review of Darwin Core Maintenance Proposals
-date: 2021-05-21
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+tags: [standards, public review, Darwin Core]
 ---
 
 ## Public review open for maintenance of Darwin Core

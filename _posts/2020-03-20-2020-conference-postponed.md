@@ -1,11 +1,6 @@
 ---
 title: Biodiversity Summit 2020 POSTPONED
-slug: 2020-conference-postponed
-date: 2020-03-20
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: 2020 Conference
+tags: [conference]
 ---
 
 # Biodiversity Summit 2020 POSTPONED

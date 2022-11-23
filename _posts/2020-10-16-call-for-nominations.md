@@ -1,12 +1,10 @@
 ---
 title: Call for Executive Committee Nominations (2021-2022)
-slug: call-for-nominations
-date: 2020-10-16
-cover_image: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
-cover_image_by: Internet Archive Book Images
-cover_image_ref: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
-tags: elections
-status: published
+background:
+  img: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
+  by: Internet Archive Book Images
+  href: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
+tags: [elections]
 ---
 
 Nominations are open for positions on the [Executive Committee]({filename}/pages/about/executive/index.md) for Biodiversity Information Standards (TDWG).

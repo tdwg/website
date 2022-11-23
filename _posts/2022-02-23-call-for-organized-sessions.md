@@ -1,13 +1,12 @@
 ---
 title: Call for Organized Sessions
-slug: call-for-organized-sessions
-summary: TDWG 2022 -- "Stronger Together: Standards for linking biodiversity data." Our 2022 conference will be "hybrid", in-person in Sofia, Bulgaria, but with streaming and recorded sessions for remote participants. Organize a session!
-date: 2022-02-23
-cover_image: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
-cover_image_by: Ivan Nedelchev 
-cover_image_ref: https://unsplash.com/photos/OENyTAi9dg0
-tags: 
-status: published
+description: >
+  TDWG 2022 -- "Stronger Together: Standards for linking biodiversity data." Our 2022 conference will be "hybrid", in-person in Sofia, Bulgaria, but with streaming and recorded sessions for remote participants. Organize a session!
+background:
+  img: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
+  by: Ivan Nedelchev 
+  href: https://unsplash.com/photos/OENyTAi9dg0
+tags: [conference]
 ---
 
 <img src="https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png" alt="TDWG 2022 Logo" style="float:right;padding-left:10px;padding-bottom:10px">

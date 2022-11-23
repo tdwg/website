@@ -1,12 +1,10 @@
 ---
-title: Audubon Core -- Controlled Vocabularies for Views
-slug: 
-date: 2022-11-01
-cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
-cover_image_by: Kawin Harasai
-cover_image_ref: https://unsplash.com/photos/VMpIew0mHlo
-tags: 
-status: published
+title: Audubon Core - Controlled Vocabularies for Views
+background:
+  img: https://images.unsplash.com/photo-1492934483476-13c04a66709c
+  by: Kawin Harasai
+  href: https://unsplash.com/photos/VMpIew0mHlo
+tags: [standards, public review, Audubon Core]
 ---
 
 ## Public comment opened for subjectPart and subjectOrientation controlled vocabularies.

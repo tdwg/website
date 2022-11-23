@@ -1,12 +1,10 @@
 ---
 title: Audubon Core term change proposals
-slug: 
-date: 2022-01-10
-cover_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
-cover_image_by: Kawin Harasai
-cover_image_ref: https://unsplash.com/photos/VMpIew0mHlo
-tags: 
-status: published
+background:
+  img: https://images.unsplash.com/photo-1492934483476-13c04a66709c
+  by: Kawin Harasai
+  href: https://unsplash.com/photos/VMpIew0mHlo
+tags: [standards, public review, Audubon Core]
 ---
 
 ## Audubon Core: open comment period for three term-change proposals begins 15 January.

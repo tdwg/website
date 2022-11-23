@@ -1,11 +1,6 @@
 ---
 title: Biodiversity Summit 2020 Call for Abstracts
-slug: 2020-call-for-abstracts
-date: 2020-02-11
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: 2020 Conference
+tags: [conference]
 ---
 
 # Biodiversity Summit 2020

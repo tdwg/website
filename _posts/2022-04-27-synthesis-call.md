@@ -1,14 +1,11 @@
 ---
 title: Transnational Access call for SYNTHESYS+
-slug: synthesis+-call
-date: 2022-04-27
-cover_image: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
-cover_image_by: Michael D Beckwith
-cover_image_ref: https://unsplash.com/photos/937gZaUJCos
-tags: 
-status: published
+background:
+  img: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
+  by: Michael D. Beckwith
+  href: https://unsplash.com/photos/937gZaUJCos
+tags: [SYNTHESYS+]
 ---
-
 
 Call 4 is NOW OPEN and will be the last [Transnational Access call for SYNTHESYS+!](https://www.synthesys.info/access/transnational-access.html)
 

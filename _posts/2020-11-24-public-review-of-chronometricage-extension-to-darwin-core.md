@@ -1,10 +1,6 @@
 ---
 title: Public Review of ChronometricAge Extension to Darwin Core
-date: 2020-11-24
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+tags: [standards, public review, ChronometricAge, Darwin Core]
 ---
 
 The ChronometricAge Task Group ([https://www.tdwg.org/community/esp/chrono/](https://www.tdwg.org/community/esp/chrono/)) is pleased to invite everyone with an 

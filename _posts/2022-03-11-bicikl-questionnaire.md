@@ -1,13 +1,12 @@
 ---
 title: How do you access and use data? Help our partner BiCIKL to know you better!
-slug: bicikl-questionnaire
-date: 2022-03-11
-cover_image: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images/visual_guide.jpg
-cover_image_by: BiCIKL project
-cover_image_ref: https://bicikl-project.eu/media-center
-tags: 
-status: published
+background:
+  img: https://bicikl-project.eu/themes/october_theme_bicikl/assets/images/visual_guide.jpg
+  by: BiCIKL project
+  href: https://bicikl-project.eu/media-center
+tags: [BiCIKL]
 ---
+
 # Our partner BiCIKL needs your help!
 [![BiCIKL Logo](https://static.tdwg.org/sponsors/bicikl_logo_full_mixed_on-black_w600.png)](https://bicikl-project.eu)
 

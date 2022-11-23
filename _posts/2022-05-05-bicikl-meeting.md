@@ -1,13 +1,12 @@
 ---
 title: BiCIKL Project wraps up the first year of integrating FAIR data on biodiversity
-slug: bicikl-meeting
-date: 2022-05-05
-cover_image: https://bicikl-project.eu/storage/temp/public/imageresizecache/26e/913/1f0/26e9131f069e1abfec54a8926b77520c1c4bd3ddf5c31fd0c7867fa52089c53a.jpg
-cover_image_by: BiCIKL project
-cover_image_ref: https://bicikl-project.eu/media-center
-tags: 
-status: published
+background:
+  img: https://bicikl-project.eu/storage/temp/public/imageresizecache/26e/913/1f0/26e9131f069e1abfec54a8926b77520c1c4bd3ddf5c31fd0c7867fa52089c53a.jpg
+  by: BiCIKL project
+  href: https://bicikl-project.eu/media-center
+tags: [BiCIKL]
 ---
+
 # First in-person meeting in Sevilla for BiCIKL annual conference!
 [![BiCIKL Logo](https://static.tdwg.org/sponsors/bicikl_logo_full_mixed_on-black_w600.png)](https://bicikl-project.eu)
 

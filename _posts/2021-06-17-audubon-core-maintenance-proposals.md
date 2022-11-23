@@ -1,11 +1,7 @@
 ---
 title: Audubon Core maintenance proposals 
-sumary: Public comment opens on proposals to enhance Audubon Core with terms for Region of Interest (ROI)
-date: 2021-06-17
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+description: Public comment opens on proposals to enhance Audubon Core with terms for Region of Interest (ROI)
+tags: [standards, public review, Audubon Core]
 ---
 
 # Audubon Core maintenance: public comment opens

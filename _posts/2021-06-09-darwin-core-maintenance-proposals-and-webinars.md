@@ -1,10 +1,6 @@
 ---
 title: Darwin Core Maintenance Proposals and Webinars
-date: 2021-06-09
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+tags: [standards, public review, Darwin Core, webinar]
 ---
 
 # _News Item_ 

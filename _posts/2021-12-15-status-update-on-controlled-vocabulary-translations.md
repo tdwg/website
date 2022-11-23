@@ -1,11 +1,7 @@
 ---
 title: Status update on Controlled vocabulary translations 
-sumary: Controlled vocabulary translations are available for use
-date: 2021-12-15
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+description: Controlled vocabulary translations are available for use
+tags: [standards, vocabularies]
 ---
 
 # Controlled vocabulary translations are available for use!

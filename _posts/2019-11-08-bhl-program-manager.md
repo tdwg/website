@@ -1,11 +1,6 @@
 ---
 title: BHL Program Manager Position Announcement
-slug: BHL Program Manager
-date: 2019-11-08
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: Job Announcement
+tags: [opportunity]
 ---
 
 # Position announcement

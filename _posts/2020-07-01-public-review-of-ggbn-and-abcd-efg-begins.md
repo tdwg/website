@@ -1,10 +1,6 @@
 ---
 title: Public Review of GGBN and ABCD-EFG begins
-date: 2020-07-01
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+tags: [standards, public review, GGBN, ABCD]
 ---
 
 # TDWG Standards Update: 30-day public reviews open for GGBN and ABCD-EFG

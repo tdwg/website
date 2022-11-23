@@ -1,10 +1,6 @@
 ---
-title: Webinar: How Community Standards Develop and Evolve
-date: 2021-09-16
-cover_image: 
-cover_image_by: 
-cover_image_ref: 
-tags: TDWG Standards
+title: "Webinar: How Community Standards Develop and Evolve"
+tags: [standards, webinar]
 ---
 
 # News Item
