@@ -4,6 +4,9 @@ title: TDWG
 # THEME SETTINGS
 theme: minima
 remote_theme: tdwg/petridish
+posts_on_home: 3
+archive_permalink: /news/
+
 # BUILD SETTINGS
 markdown: kramdown
 plugins:
@@ -15,3 +18,14 @@ exclude:
   - Gemfile.lock
   - LICENSE
 
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/news/:year/:slug/"   # Use /news/yyyy/{filename}/ as permalink for all posts
