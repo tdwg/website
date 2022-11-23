@@ -1,0 +1,16 @@
+columns:
+  - links:
+    - text: What is TDWG?
+      href: /about/
+    - text: Contact us
+      href: /about/contact/
+    - text: Privacy policy
+      href: /about/terms-of-use/#privacy-statement
+    - text: Code of conduct
+      href: /about/code-of-conduct/
+    - text: Diversity and inclusion statement
+      href: /about/diversity-inclusion/
+
+license: >
+  Content on this site, made open by [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/) 
+  is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
