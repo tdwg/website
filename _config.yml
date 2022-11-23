@@ -31,8 +31,10 @@ defaults:
       path: ""
     values:
       layout: default
+      toc: true
   - scope:
       path: ""
       type: "posts"
     values:
       permalink: "/news/:year/:slug/"   # Use /news/yyyy/{filename}/ as permalink for all posts
+      toc: false
