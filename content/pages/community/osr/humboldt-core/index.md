@@ -31,7 +31,7 @@ Ed Morris | Ontario Ministry of Natural Resources & Forestry | <edward.morris@on
 Neil Cobb | Symbiota Collections of Arthropods Network (SCAN) | <neil.cobb@nau.edu>
 Debora Drucker | Empresa Brasileira de Pesquisa Agropecuária (Embrapa) | <debora.drucker@embrapa.br>
 Eduardo Dalcin | Rio de Janeiro Botanical Gardens | <edalcin@jbrj.org>
-Tomoni Suwa | Field Museum | <tsuwa@fieldmuseum.org>
+Tomomi Suwa | Field Museum | <tsuwa@fieldmuseum.org>
 Zachary Kachian | Field Museum | <zkachian@fieldmuseum.org>
 Wesley Hochachka | The Cornell Lab of Ornithology | <wmh6@cornell.edu>
 Yi-Ming Gan | Royal Belgian Institute of Natural Sciences | <ymgan@naturalsciences.be>
