@@ -20,13 +20,21 @@ Walter Jetz | Map of Life, Yale University | <walter.jetz@yale.edu>
 Rob Guralnick | Florida Museum of Natural History | <rguralnick@flmnh.ufl.edu>
 John Wieczorek | VertNet, Darwin Core Maintenance Interest Group | <gtuco.btuco@gmail.com>
 Paula Zermoglio | VertNet, Darwin Core Maintenance Interest Group | <pzermoglio@gmail.com>
-Kate Ingenloff | Map of Life | <kathryn.ingenloff@gmail.com>
+Kate Ingenloff | GBIF | <kathryn.ingenloff@gmail.com>
 Steve Baskauf | Vanderbilt University, Darwin Core Maintenance Interest Group | <steve.baskauf@vanderbilt.edu>
 Tim Robertson | GBIF | <trobertson@gbif.org>
 Dmitry Schigel | GBIF | <dschigel@gbif.org>
 Erlend B. Nilsen | Living Norway Ecological Data Network & NINA | <erlend.nilsen@nina.no>
 Peter Brenton | CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group | <peter.brenton@csiro.au>
 Robert D Stevenson | University of Massachusetts-Boston | <rdstevenson10@gmail.com>
+Ed Morris | Ontario Ministry of Natural Resources & Forestry | <edward.morris@ontario.ca>
+Neil Cobb | Symbiota Collections of Arthropods Network (SCAN) | <neil.cobb@nau.edu>
+Debora Drucker | Empresa Brasileira de Pesquisa Agropecuária (Embrapa) | <debora.drucker@embrapa.br>
+Eduardo Dalcin | Rio de Janeiro Botanical Gardens | <edalcin@jbrj.org>
+Tomoni Suwa | Field Museum | <tsuwa@fieldmuseum.org>
+Zachary Kachian | Field Museum | <zkachian@fieldmuseum.org>
+Wesley Hochachka | The Cornell Lab of Ornithology | <wmh6@cornell.edu>
+Yi-Ming Gan | Royal Belgian Institute of Natural Sciences | <ymgan@naturalsciences.be>
 
 
 ## Motivation
@@ -41,7 +49,7 @@ However, it still presents a limited ability to express detailed reporting of sc
 temporal, taxonomic, and environmental), as well as a whole suite of commonly measured
 aspects of inventory sampling processes (e.g., direct or inferred measures of sampling
 effort). 
-Page 2 of 2
+
 These limitations could be overcome by formalizing the Humboldt Core, a framework
 developed to deal specifically with this kind of data (Guralnick et al. 2018), and which is
 currently implemented in Map of Life (<https://mol.org/humboldtcore/>). While originally
@@ -77,7 +85,7 @@ The primary deliverable will be accompanied by:
 * A Quick Reference Guide to the terms of the Humboldt Core standard/extension following the Darwin Core Quick Reference Guide model. Depends on term definitions being created.
 * In the case of Darwin Core extension(s), XML document(s) for the extension(s) following the GBIF Darwin Core Extension schema (<http://rs.gbif.org/schema/extension.xsd>). Depends on term definitions being created.
 * In the case of Darwin Core extension(s), publication of at least seven distinct realworld case study data sets via Darwin Core Archives to cover the range of inventory types identified in Guralnick et al. (2018). Depends on the extension XML documents being created.
-* In the case of a new standard, documentation on how to encode the biodiversity inventories in documents of various relevant formats following the model of the Darwin Core Text, XML, and RDF Guides. Page 3 of 2
+* In the case of a new standard, documentation on how to encode the biodiversity inventories in documents of various relevant formats following the model of the Darwin Core Text, XML, and RDF Guides. 
 
 It is impossible to predict the duration of some parts of the standards development process,
 such as the public commentary, in the case of active recommendations for changes.
@@ -154,6 +162,13 @@ Humboldt Core resources:
 * Humboldt Core in Map of Life: <https://mol.org/humboldtcore/>
 * Humboldt Core current implementation: <https://github.com/MapofLife/humboldtcore>
 * Humboldt Core publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. <https://doi.org/10.1111/ecog.02942>
+* Humboldt Extension Documentation: <https://tinyurl.com/humboldt-documentation>
+* Humboldt Extension Quick Reference Guide: <https://tdwg.github.io/hc/terms/>
+* Humboldt Extension testing feedback form: <https://forms.gle/7dJ1KahVVZPQKRYMA>
+* Humboldt 101 presentation slides: <https://tinyurl.com/humboldt-101>
+* TDWG 2022 presentation slides - Application of Humboldt Extension to Real World cases: <https://tinyurl.com/tdwg2022-humboldt>
+* TDWG 2022 conference abstract - Application of Humboldt Extension to Real World cases: <https://doi.org/10.3897/biss.6.91502>
+* TDWG 2022 working session - Humboldt presentation slides: <https://tinyurl.com/tdwg2022-work-session-humboldt>
 
 TDWG Documentation
 
