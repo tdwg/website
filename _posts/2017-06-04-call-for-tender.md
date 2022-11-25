@@ -17,23 +17,23 @@ We seek a developer to work with us on a contracted basis to undertake this deve
 
 We invite parties to submit expressions of interest to secretariat@tdwg.org before June 12th 2017. In doing so, please briefly document 1) your vision for the TDWG site, 2) the process you would propose and 3) provide details of your rates and availability.  TDWG recognize that the complete scope of this work is not fully specified and will adjust the priorities within the budget available. A good working relationship with the contractor is therefore necessary and knowledge of the existing TDWG processes will be highly recognized in selecting the successful candidate.
 
-## Contract size 
+## Contract Size 
 
 **€18,000.00** (excluding VAT if applicable) 
 
-## Contract administration and oversight
+## Contract Administration and Oversight
 
 ### Administration
 
 The contract will be administered by the Global Biodiversity Information Facility Secretariat (GBIFS) or the newly founded TDWG legal entity, subject to agreement with the selected contractor.
 
-### Monitoring responsibility
+### Monitoring Responsibility
 
-The TDWG Infrastructure Functional Subcommittee (FS) will be responsible for overseeing the progression of work and will report back to the TDWG executive committee. The TDWG Infrastructure FS would also be responsible for the timely provision of content material to the contractor. 
+The TDWG Infrastructure Functional Subcommittee (FS) will be responsible for overseeing the progression of work and will report back to the TDWG Executive Committee. The TDWG Infrastructure Functional Subcommittee would also be responsible for the timely provision of content material to the contractor. 
 
-### Payment mode
+### Payment Mode
 
-Contract payments will be made by the contract administrator directly to the contractor pending approval by the TDWG executive committee of the satisfactory progression of work. And according to the table below
+Contract payments will be made by the contract administrator directly to the contractor pending approval by the TDWG Executive Committee of the satisfactory progression of work. And according to the table below
 
 Work Progress | Percentage of contract value released to contractor
 --- | ---
@@ -43,6 +43,6 @@ Work Progress | Percentage of contract value released to contractor
 75% | 70%
 100% | 100%
 
-### Completion date
+### Completion Date
 
 Delivery of product (as defined below) shall be completed not more than 12 months after the contract signing.
