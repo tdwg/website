@@ -38,6 +38,13 @@ All serving terms 2023-4, except Deputy Chair, which entails an additional commi
 
 [Responsibilities](../responsibilities/#deputy%20chair). Serves as Deputy Chair 2023-4, then as Chair 2025-6.
 
+##### Nominees:
+###### David Bloom -- VertNet, Berkeley CA
+###### - Background:  
+I have been the VertNet project manager since 2010, with 15 years of prior experience working in natural history and science museums. Currently, I am the VertNet Node Manager to GBIF (since 2016), serve as the GBIF Regional Representative for North America and support the global biodiversity community of practice as a guide, trainer, mentor, and Open Data Ambassador. I work with data publishers and biodiversity-focused projects in every global region. My participation with TDWG is closely tied to my work with VertNet and GBIF, with contributions to the maintenance of the Darwin Core, the creation of the Latimer Core, and participation on several work and interest groups since 2016. I have conducted more than 70 workshops globally on biodiversity informatics ranging from georeferencing to data publishing and the use of biodiversity data.
+
+###### - Vision:
+As a professional (and a not-so professional) I have devoted my time and effort to the discovery, development, and implementation of tools, services, and solutions to make the lives of people who work with, and learn about, biodiversity data more productive and efficient. As Deputy Chair of TDWG I intend to continue these efforts and to focus my activities on TDWG’s on-going initiatives. I am keen to understand and apply the lessons learned about participation in and collaboration through TDWG during the Covid years. In particular, I want to focus on the ways in which TDWG engages with the community to share knowledge and get work done. I want to retain and expand the participation of people online while respecting the time and money of those people able to participate in person so that we can make the most of both of these communities. I am especially interested to find ways to help TDWG value the efforts of those individuals and groups that do the work to develop, maintain and expand the standards that bring us all together. Finally, I believe it is in the interest of the TDWG community to find ways to engage with traditional, indigenous and local knowledge holders and to find ways to further integrate their perspectives, needs, and experiences into TDWG workflows and products.
 
 ### Secretary
 
@@ -124,18 +131,20 @@ My vision is a vibrant African specimen collections digitization and biodiversit
 
 #### Regional Representative for Asia
 
-##### Vijay Barve -- Natural History Museum of Los Angeles County, CA, USA. [ORCID](https://orcid.org/0000-0002-4852-2567)
-##### - Background:
+##### Nominees:
+
+###### Vijay Barve -- Natural History Museum of Los Angeles County, CA, USA. [ORCID](https://orcid.org/0000-0002-4852-2567)
+###### - Background:
 I work as Digitization Project Manager for DigIn (Documenting Marine Biodiversity through Digitization of Invertebrate Collections). I got my master degree in Computer science from India and joined a non profit organization, contributing in Medicinal Plants Documentation and Conservation Issues. I developed interest in Biodiversity Informatics and joined a PhD program in Geography at University of Kansas. My  doctoral research focused on Citizen’s contribution to Biodiversity data generation. After receiving my PhD, I worked with the Florida Museum of Natural History and Purdue University as a postdoctoral researcher, and continued to  work on Biodiversity Informatics. My research interest is Citizen Science in Biodiversity and has several research publications on that theme. I have been coordinating several Citizen Science initiatives in India in the field of Biodiversity. I am  recipient of the GBIF Young Researcher award during his doctoral research and two times member of the team receiving the GBIF Ebbe Nielsen Award. I have been training participants from several countries in Africa, Asia and the Americas in Biodiversity Informatics and have been mentoring students for Google Summer of Code. I have been part of the GBIF regional support team for Asia and have worked with several teams of biodiversity researchers to help publish data on GBIF. I am a contributor to Audubon Core Data standard and a member of the Program Committee for TDWG 2021 and 2022.
-##### - Vision  
+###### - Vision  
 Biodiversity Informatics use and users in Asia are growing. GBIF data usage statistics shows Asian countries in the top ten, but the engagement of these researchers in the TDWG community is minimal. To fill this gap, we need to reach out to the community through appropriate forums and raise awareness regarding the data standards and practices TDWG is developing and promoting. I am working with several institutions and researchers in Asia and Africa already. Serving as Asia Representative would give me more opportunities to reach out to the community and engage them with TDWG. I would continue to help organize Asia and Global south focused symposia in upcoming TDWG conferences. 
 
-##### Takeru Nakazato -- Biological Resource Center, National Institute of Technology and Evaluation (NITE), Tokyo, Japan
-##### - Background:  
+###### Takeru Nakazato -- Biological Resource Center, National Institute of Technology and Evaluation (NITE), Tokyo, Japan
+###### - Background:  
 My original background was in molecular biology. I earned my master's degree by investigating the genetic mechanisms and physiological phenotypes of fish that can live in extreme environments, or both freshwater and seawater. I then completed my PhD in bioinformatics, working on functional annotation of large-scale gene expression data. I worked for 15 years at the Database Center for Life Sciences (DBCLS) in Japan, where I was involved in the standardization and integration of various life science data using Semantic Web technologies, and the development and operation of a search engine for public data of a massively parallel DNA sequencing (NGS) in cooperation with the DNA Data Bank of Japan (DDBJ), the International Nucleotide Sequence Database Collaboration (INSDC) member.
 Currently, I am with the Biological Resource Center (NBRC), the National Institute of Technology and Evaluation (NITE), which distributes bioresources, and I am involved in developing their databases.
 In addition, I am also a citizen scientist. I collect, raise, and mount butterflies and beetles on my own. I am also deeply involved in the community to promote biodiversity informatics in Japan, working with researchers in bioinformatics and natural history museums.
-##### - Vision:
+###### - Vision:
 TDWG2024 is planned to be held in Okinawa, Japan. I am already hard at work preparing for it. The activities of TDWG are open to the world, but unfortunately, only a small number of participants from Asia attended the annual meeting in recent years. Especially through TDWG2024, which will be held in Asia for the first time in many years, I hope to increase the number of people in Asia who are interested in TDWG's activities and enhance the presence of Asia's rich biodiversity.
 I have a strong interest in the interplay between biodiversity and genetic sequence data. Bioinformatics and biodiversity informatics face the same challenges of standardization of data but have tried to solve them individually. As a bridge between the two, I would like to contribute to making it easier for researchers to approach various data from both biodiversity and sequence perspectives.
 
