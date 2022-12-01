@@ -6,10 +6,13 @@ background:
   img: https://c1.staticflickr.com/1/375/30751387213_3015d98ec2_b.jpg
   by: Denisse Vargas
   href: https://www.flickr.com/photos/145649587@N03/30751387213/in/pool-tdwg16/
+toc: false
 ---
 
 ## Interested in hosting a meeting?
 
-Get in touch with the [time and place subcommittee]({filename}../about/committees/tardis/index.md).
+Get in touch with the [Time and Place Subcommittee](/about/committees/tardis/).
 
 ## Conferences
+
+See the main site navigation for the list of conferences.

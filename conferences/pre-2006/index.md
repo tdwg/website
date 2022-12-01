@@ -1,12 +1,15 @@
 ---
 title: Before 2006
 description: >
-  List of TDWG Annual Conferences before 2006. No archived content is available for these conferences.
+  List of TDWG Annual Conferences before 2006.
 background:
   img: https://images.unsplash.com/photo-1519750157634-b6d493a0f77c
   by: Andrei Stratu
   href: https://unsplash.com/photos/kcJsQ3PJrYU
+toc: false
 ---
+
+No archived content is available for these conferences.
 
 Year | Location | Host
 --- | --- | ---

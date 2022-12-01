@@ -1,11 +1,12 @@
 ---
-title: 2007 - Bratislava, Slovakia
+title: TDWG 2007
 description: >
-  TDWG 2007 Annual Conference - Bratislava, Slovakia
+  TDWG Annual Conference - Bratislava, Slovakia
 background:
   img: https://c1.staticflickr.com/5/4221/34905067980_17cccf9b06_b.jpg
   by: Francisco Anzola
   href: https://www.flickr.com/photos/fran001/34905067980
+toc: false
 ---
 
 Host

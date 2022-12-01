@@ -1,11 +1,12 @@
 ---
-title: 2008 - Fremantle, Australia
+title: TDWG 2008
 description: >
-  TDWG 2008 Annual Conference - Fremantle, Australia
+  TDWG Annual Conference - Fremantle, Australia
 background:
   img: https://c1.staticflickr.com/1/76/178987018_e75b26eb54_b.jpg
   by: Chuan Chew
   href: https://www.flickr.com/photos/hangdog/178987018
+toc: false
 ---
 
 Host
@@ -28,3 +29,176 @@ Presentations
 
 Recordings
 : see shockwave files (\*.swf) among presentations
+
+## Presentation files
+
+Files are available upon request to <secretariat@tdwg.org>.
+
+| File name | Size
+| --- |
+| Addink_04_05_Keys2Nature.ppt |
+| Addink_04_05_Keys2Nature.swf |
+| Agosti_05_01_Plazi_intro.ppt |
+| Agosti_05_01_Plazi_intro.swf |
+| Arnaud_06_01_GCP.ppt |
+| Arnaud_06_01_GCP.swf |
+| Berendsohn_04_03_EDIT.ppt |
+| Berendsohn_04_03_EDIT.swf |
+| Bertrand-SERONTO-Poster.ppt |
+| Burrows_13_01.ppt |
+| Burrows_13_01.swf |
+| Catapano_05_03_Plazi_Markup.ppt |
+| Catapano_05_03_Plazi_Markup.swf |
+| Catapano_16_02_PlaziSPM.ppt |
+| Catapano_16_02_PlaziSPM.swf |
+| Cawsey_10_02_TRIN.ppt |
+| Cawsey_10_02_TRIN.swf |
+| Cellinese_07_01_Introduction.ppt |
+| Cellinese_07_01_Introduction.swf |
+| Cellinese_07_06_standards.ppt |
+| Cellinese_07_06_standards.swf |
+| Chapman_19_04_Sensitive_Data.ppt |
+| Chapman_19_04_Sensitive_Data.swf |
+| Chavan_02_02_GBIFSmallToBig.ppt |
+| Chavan_02_02_GBIFSmallToBig.swf |
+| Chavan_19_02_GBIFMobilization.ppt |
+| Chavan_19_02_GBIFMobilization.swf |
+| Chernich_10_04_Annotations.ppt |
+| Chernich_10_04_Annotations.swf |
+| Cox_06_06_ontologies_for_observations.ppt |
+| Cox_06_06_ontologies_for_observations.swf |
+| Croft_13_02.pptx |
+| Cryer_17_04_Fedora.ppt |
+| Cryer_17_04_Fedora.swf |
+| Doering_Poster_GBIF-IPT.pdf |
+| Ferrier_09_04_ALAModeling.ppt |
+| Ferrier_09_04_ALAModeling.swf |
+| Fisher_18_04_Invasive%20Management.swf |
+| Fisher_18_04_InvasiveManagement.ppt |
+| Fornier_Poster_I3NriskAssessmentPoster.pdf |
+| Fournier_18_03_IABIN.ppt |
+| Fournier_18_03_IABIN.swf |
+| Freeland_05_04_BHL.ppt |
+| Freeland_05_04_BHL.swf |
+| Freeland_17_05_JP2.ppt |
+| Freeland_17_05_JP2.swf |
+| Gaikwad_09_02_CMKb.ppt |
+| Gaikwad_09_02_CMKb.swf |
+| Gerbrach_16_04_SPMAvian.pptx |
+| Gerbracht_16_04_SPMAvian.swf |
+| Giovanni_03_02_Protocols.ppt |
+| Giovanni_03_02_Protocols.swf |
+| Giovanni_15_01_SpeciesLink.ppt |
+| Giovanni_15_01_SpeciesLink.swf |
+| Graham_18_02_GISINtoolkit.ppt |
+| Graham_18_02_GISINtoolkit.swf |
+| Guentcsh_15_05_Archiving.swf |
+| Guentsch_15_05_Archiving.ppt |
+| Higgs_02_03_HermesLite.ppt |
+| Higgs_02_03_HermesLite.swf |
+| Hobern_01_02_LookingBackwardAndForward.ppt |
+| Hobern_01_02_LookingBackwardAndForward.swf |
+| Hobern_10_01_ALAIntroduction.ppt |
+| Hobern_10_01_ALAIntroduction.swf |
+| Hyam_01_03_Architecture.ppt |
+| Hyam_01_03_Architecture.swf |
+| Hyam_04_04_BCI.ppt |
+| Hyam_04_04_BCI.swf |
+| Hyam_20_04_SpeciesIndex.ppt |
+| Hyam_20_04_SpeciesIndex.swf |
+| Jones_04_02_DataNetOne.swf |
+| Jones_14_02_DataNetOne.ppt |
+| Jones_19_03_EML.ppt |
+| Jones_19_03_EML.swf |
+| Kahindo_Poster_Cabin.pdf |
+| Kampmeier_02_01_SmallToBigIntro.ppt |
+| Kampmeier_02_01_SmallToBigIntro.swf |
+| Kampmeier_MandalaDemo.pps |
+| Kelling_19_01_Observations.pptx |
+| Kelling_19_01_Observations.swf |
+| Kidd_07_03_Integrating.ppt |
+| Kidd_07_03_Integrating.swf |
+| Lapp_07_07_Phyloinformatics.ppt |
+| Lapp_07_07_Phyloinformatics.swf |
+| Leary_16_03_ConsumingSPM.ppt |
+| Leary_16_03_ConsumingSPM.swf |
+| Lepage_19_05_AKN.ppt |
+| Lepage_19_05_AKN.swf |
+| Lyal_05_05_INOTAXA.ppt |
+| Lyal_05_05_INOTAXA.swf |
+| Mayfield_Poster_BiodISKansaState.pdf |
+| Meganck_20_03_GPGPU.ppt |
+| Meganck_20_03_GPGPU.swf |
+| Mergen_Poster_RDFREfNetwork.pdf |
+| Midford_06_02_TaxonomicOntologies.ppt |
+| Midford_06_02_TaxonomicOntologies.swf |
+| Miller_17_03_CreativeCommons.ppt |
+| Miller_17_03_CreativeCommons.swf |
+| Miller_20_02_Simple.ppt |
+| Miller_20_02_Simple.swf |
+| Morris_16_01_SPMStroll.ppt |
+| Morris_16_01_SPMStroll.swf |
+| Morris_17_01_Multimedia.ppt |
+| Morris_17_01_Multimedia.swf |
+| Morris_Poster_FilteredPush.pdf |
+| Mueller_15_02_EDIT.ppt |
+| Mueller_15_02_EDIT.swf |
+| Murrell_18_01_PlantCyberinfrastructure.ppt |
+| Murrell_18_01_PlantCyberinfrastructure.swf |
+| Narang_Knuepffer_Poster_Mansfeld_DB.ppt |
+| OTuama_04_01_GBIF.ppt |
+| OTuama_04_01_GBIF.swf |
+| Olson_17_02_NBII_DIL.ppt |
+| Olson_17_02_NBII_DIL.swf |
+| Piel_07_02_PhyinformaticsObstacles.pdf |
+| Piel_07_02_PhyinformaticsObstacles.swf |
+| Pyle_03_01_Taxonomic_Names_of_Organisms.m4a |
+| [Pyle_03_01_Taxonomic_Names_of_Organisms.m4v](https://static.tdwg.org/conferences/2008/presentations/Pyle_03_01_Taxonomic_Names_of_Organisms.m4v) | 73Mb
+| Pyle_03_01_Taxonomic_Names_of_Organisms.mov |
+| [Pyle_03_01_Taxonomic_Names_of_Organisms.ppt](https://static.tdwg.org/conferences/2008/presentations/Pyle_03_01_Taxonomic_Names_of_Organisms.ppt) | 3.2Mb
+| Pyle_03_01_Taxonomic_Names_of_Organisms.swf |
+| QA_02.swf |
+| QA_03.swf |
+| Rees_09_03_Taxamatch.ppt |
+| Rees_09_03_Taxamatch.swf |
+| Riccardi_15_03_Morphbank.ppt |
+| Riccardi_15_03_Morphbank.swf |
+| Riccardi_17_06_Ontomorphbankster.ppt |
+| Riccardi_17_06_Ontomorphbankster.swf |
+| Richards_03_04_GUIDs_in_Biodiversity_Informatics.ppt |
+| Richards_03_04_GUIDs_in_Biodiversity_Informatics.swf |
+| Richardson_09_01_AVH.ppt |
+| Richardson_09_01_AVH.swf |
+| Richardson_Chapman_FloraBase_Poster.pdf |
+| Rios_15_04_Geolocate.ppt |
+| Rios_15_04_Geolocate.swf |
+| Rissone_01_01_Housekeeping.ppt |
+| Rissone_01_01_Housekeeping.swf |
+| RobertsonT_02_05_GBIFTransport.ppt |
+| RobertsonT_02_05_GBIFTransport.swf |
+| Rosauer_09_05_phyloTrees.ppt |
+| Rosauer_09_05_phyloTrees.swf |
+| Rycroft_02_04_Scratchpads.ppt |
+| Rycroft_02_04_Scratchpads.swf |
+| Sachs_06_03_SemanticPrototyping.ppt |
+| Sachs_06_03_SemantixPrototyping.swf |
+| Schildhauer_06_05_OBOE_SONet.ppt |
+| Schildhauer_06_05_OBOE_SONet.swf |
+| Simpson_18_05_GISINdataModels.ppt |
+| Simpson_18_05_GISINdataModels.swf |
+| Simpson_Poster_GISIN.pdf |
+| Souttr_05_02_PlaziMarkup.ppt |
+| Souttr_05_02_PlaziMarkup.swf |
+| Tann_11_00_ALA_UserNeeds.ppt |
+| Thiele_03_03_Introduction%20_to_Biological_Descriptions.ppt |
+| Thiele_03_03_Introduction%20_to_Biological_Descriptions.swf |
+| Vos_07_04_NeXML.swf |
+| Vos_07_04_Nexml.ppt |
+| Wang_20_01_Hadoop.ppt |
+| Wang_20_01_Hadoop.swf |
+| Whitbread_10_03_AFD_APC.ppsx |
+| Whitbread_10_03_AFD_APC.swf |
+| Zmasek_07_05_phylogenomics.ppt |
+| Zmasek_07_05_phylogenomics.swf |
+| vanderWerf_06_04_SERONTO.ppt |
+| vanderWerf_06_04_SERONTO.swf |
