@@ -158,29 +158,38 @@ It is highly recommended that those traveling to the conference in person should
 
 TDWG gratefully acknowledges the generous financial or in-kind support of TDWG 2022 by the following organizations:
 
-<style>
-  .d-flex img {
-    width: 180px;
-  }
-</style>
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://gbif.org">
+    <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="180">
+  </a>
+  <a href="https://pensoft.net/">
+    <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft logo" width="180">
+  </a>
+  <a href="https://dissco.eu/">
+    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo logo" width="180">
+  </a>
+</p>
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://ala.org.au">
+    <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="180">
+  </a>
+  <a href="https://fieldmuseum.org/">
+    <img src="https://static.tdwg.org/sponsors/field-museum.png" alt="Field Museum logo" width="100">
+  </a>
+  <a href="https://www.lifewatch.eu/">
+    <img src="https://static.tdwg.org/sponsors/life-watch-eric-logo.png" alt="LifeWatch ERIC logo" width="180">
+  </a>
+</p>
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://biodiversity.research.ufl.edu">
+    <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="180">
+  </a>
+  <a href="https://www.floridamuseum.ufl.edu/">
+    <img src="https://static.tdwg.org/sponsors/flmnh.png" alt="Florida Museum of Natural History logo" width="180">
+  </a>
+</p>
 
-{: .d-flex .justify-content-around .align-items-center }
-[![Global Biodiversity Information Facility logo](https://static.tdwg.org/sponsors/gbif-2015.png)](https://gbif.org)
-[![Pensoft logo](https://static.tdwg.org/sponsors/pensoft-logo.png)](https://pensoft.net/)
-[![DiSSCo logo](https://static.tdwg.org/sponsors/dissco-logo_w600px.png)](https://dissco.eu/)
-
-{: .d-flex .justify-content-around .align-items-center }
-[![Atlas of Living Australia logo](https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png)](https://ala.org.au)
-[![Field Museum logo](https://static.tdwg.org/sponsors/field-museum.png){: style="height: 80px; width: auto;" }](https://fieldmuseum.org/)
-[![LifeWatch ERIC logo](https://static.tdwg.org/sponsors/life-watch-eric-logo.png)](https://www.lifewatch.eu/)
-
-{: .d-flex .justify-content-around .align-items-center }
-[![UF Biodiversity Institute logo](https://static.tdwg.org/sponsors/uf-biodiversity-institute.png)](https://biodiversity.research.ufl.edu)
-[![Florida Museum of Natural History logo](https://static.tdwg.org/sponsors/flmnh.png)](https://www.floridamuseum.ufl.edu/)
-
-### Interested in becoming a TDWG 2022 supporter?
-
-Please download the following [prospectus](https://drive.google.com/file/d/10ChiUKT-nMXY-pC1OWQiu0YxNVqAv4jH/view?usp=sharing) to find out how and why you can help.
+**Interested in becoming a TDWG 2022 supporter?** Please download the following [prospectus](https://drive.google.com/file/d/10ChiUKT-nMXY-pC1OWQiu0YxNVqAv4jH/view?usp=sharing) to find out how and why you can help.
 
 ## Code of Conduct
 
