@@ -39,3 +39,7 @@ defaults:
     values:
       permalink: "/news/:year/:slug/"   # Use /news/yyyy/{filename}/ as permalink for all posts
       toc: false
+  - scope:
+      path: "conferences/2022"
+    values:
+      navigation: tdwg-2022-navigation
