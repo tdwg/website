@@ -1,37 +1,37 @@
 ---
-title: Attend TDWG 2022 In Person!
+title: Attend TDWG 2022 in person!
 description: >
-  Find out about Sofia, the conference venue, accommodations, sightseeing, galleries & museums, and excursions
+  Find out about Sofia, the conference venue, accommodations, sightseeing, galleries & museums, and excursions.
 background:
   img: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
   by: Ivan Nedelchev 
   href: https://unsplash.com/photos/OENyTAi9dg0
+toc: true
 ---
 
-_last updated 7 October 2022_
+_Last updated 7 October 2022_
 
 ## About Sofia
 
-Sofia is the capital and largest city of Bulgaria.  Situated in the very heart of the Balkan peninsula, it is one of Europe’s oldest cities. It has by far the most dynamic cultural life in the country and offers a large variety of activities.
+Sofia is the capital and largest city of Bulgaria. Situated in the very heart of the Balkan peninsula, it is one of Europe’s oldest cities. It has by far the most dynamic cultural life in the country and offers a large variety of activities.
 
 Sofia is no grand metropolis, but it's a modern, youthful city, with a scattering of onion-domed churches, Ottoman mosques and relic Red Army monuments that lend an eclectic, exotic feel. Excavation work carried out during construction of the metro unveiled a treasure trove of Roman ruins from nearly 2000 years ago, when the city was called 'Serdica'. Away from the buildings and boulevards, vast parks and manicured gardens offer a welcome respite, and the ski slopes and hiking trails of mighty Vitosha mountain are just a short bus ride from the centre. Home to many of Bulgaria's finest museums, galleries, restaurants and clubs, Sofia may persuade you to stick around and explore further.
 
-More information available at [https://www.visitsofia.bg/en/](https://www.visitsofia.bg/en/)
+More information available at <https://www.visitsofia.bg/en/>.
 
-## Conference Venue
+## Conference venue
 
 TDWG 2022 will be held at the **Grand Hotel Millennium Sofia**, a 5-star hotel located in the heart of the city and within walking distance of the vibrant city center, an area filled with iconic historical and cultural sights, vast green parks and numerous government institutions.
 
-Website: [https://grandhotelmillenniumsofia.bg/](https://grandhotelmillenniumsofia.bg/)
+Website: <https://grandhotelmillenniumsofia.bg/>
 
 Address: 89B, Vitosha Blvd, 1463 Sofia, Bulgaria
 
-### Getting to the Conference Venue
+### Getting to the conference venue
 
-- **From Sofia Airport**:  Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station, which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the tall blue building of the hotel.
+- **From Sofia Airport**: Take the [metro](https://www.metrosofia.com/en) from Sofia Airport station, which is located next to Terminal 2 (follow the blue arrows on the floor when you claim your baggage). Make an easy switch at Serdika station to Line 2 for one more stop to National Palace of Culture (NDK) station. After you exit it, just look up right behind the National Palace of Culture and you will see the tall blue building of the hotel.
 - **From Central Railway station or the Central Bus Station**: You can get the [metro](https://www.metrosofia.com/en/route) from Central Railway station for 2 stops to National Palace of Culture (NDK) station. Again look up!
 - **By car**: You can access the Grand Hotel Millennium by car and there is parking available (€4 per hour or €20 per day). Those staying in the hotel qualify for special rates. Please inquire about rates during booking. 
-
 
 ## Accommodations
 
@@ -40,13 +40,11 @@ The special rates secured for delegates at the **Grand Hotel Millenium Sofia** e
 Options for nearby hotels at special rates for TDWG 2022 delegates (use code TDWG2022 in communications for discount) may still be available. All of the listed hotels are within walking distance of the main venue (5-15 min). Please be aware that October is a conference month in Bulgaria with many big events happening then so the hotel accommodations will be in high demand. Plan your stay early in order to get the best possible rates.
 
 - **[Rosslyn Central Park Hotel Sofia](https://www.centralparkhotel.bg/)** (4 stars)
-- **[Hotel Downtown](https://hoteldowntownsofia.com/bg)** (4 stars) - Single room €70; Double room €85 - for reservations contact [reservations@hotel-downtown.net](mailto:reservations@hotel-downtown.net) with discount code TDWG2022 
-- **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars) - Single room €53; Double room €55 - for reservations contact [sales@artplazahotel.bg](mailto:sales@artplazahotel.bg) with discount code TDWG2022
-- **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/en)** (3 stars) 
+- **[Hotel Downtown](https://hoteldowntownsofia.com/bg)** (4 stars) - Single room €70; Double room €85 - for reservations contact <reservations@hotel-downtown.net> with discount code TDWG2022 
+- **[Best Western Art Plaza Hotel](https://www.bestwestern.com/en_US/book/hotels-in-sofia/best-western-art-plaza-hotel/propertyCode.77719.html)** (3 stars) - Single room €53; Double room €55 - for reservations contact <sales@artplazahotel.bg> with discount code TDWG2022
+- **[Sofia Place Hotel by HMG](https://sofiaplacehotel.com/en)** (3 stars)
 
-
-
-## General Information
+## General information
 
 ### Money
 
@@ -68,22 +66,21 @@ Two medical labs, with locations near the Grand Hotel Millenium Sofia and the ci
 - [4 Sveti Georgi Sofiyski Str., Kriva Reka, Sofia 1606](https://goo.gl/maps/uJqyW9LycNEaFkKx8)
 - [28 Dimitar Hadzhikotsev Str., g.k. Lozenets, Sofia 1421](https://goo.gl/maps/f8sQkSL34nokaR98A)
 
-
 ### Handy phrases
 
 Bulgarians are warm and friendly to foreigners but if you want to break the ice and bring a smile to their faces, learn a few words in Bulgarian before leaving home. _Hint: listen to the pronounciation in Google Translate and practice!_
 
-  - **Dobar den!** ([Добър ден](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%94%D0%BE%D0%B1%D1%8A%D1%80%20%D0%B4%D0%B5%D0%BD&op=translate)!/Doh-bur dehn!)
+- **Dobar den!** ([Добър ден](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%94%D0%BE%D0%B1%D1%8A%D1%80%20%D0%B4%D0%B5%D0%BD&op=translate)!/Doh-bur dehn!)
 Meaning: “Hello!” in the local language is always a great start no matter where in the world you are.
-  - **Blagodarya!** ([Благодаря](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8F%0A&op=translate)!/Blah-goh-da-rya!)
+- **Blagodarya!** ([Благодаря](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8F%0A&op=translate)!/Blah-goh-da-rya!)
 Meaning: “Thank you!” in Bulgarian requires quite an effort to pronounce but you’ll be rewarded with a big, genuine smile when you do. Another, more casual word for “thank you” is the French “Merci”, which is very widely used and it’s easier to remember. You can use both.
-  - **Dovijdane!** ([Довиждане](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%94%D0%BE%D0%B2%D0%B8%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5&op=translate)!/Doh-veezh-dah-nay!)
+- **Dovijdane!** ([Довиждане](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%94%D0%BE%D0%B2%D0%B8%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5&op=translate)!/Doh-veezh-dah-nay!)
 Meaning: “Goodbye” is another long and tongue-twisting word and again you have an easier option. Bulgarians use the Italian “Ciao” as a more informal equivalent.
-  - **Izvinete!** ([Извинете](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%98%D0%B7%D0%B2%D0%B8%D0%BD%D0%B5%D1%82%D0%B5&op=translate)/Eez-vee-neh-teh)
+- **Izvinete!** ([Извинете](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%98%D0%B7%D0%B2%D0%B8%D0%BD%D0%B5%D1%82%D0%B5&op=translate)/Eez-vee-neh-teh)
 Meaning: “Excuse me”. You might need this word if you happen to use the public transportation in rush hour and have to get to the door to get off. Just keep on repeating “Izvinete, izvinete” while pushing your way to the door.
-  - **Nazdrave!** ([Наздраве](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%9D%D0%B0%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%B5&op=translate)!/Naz-drah-veh!)
+ - **Nazdrave!** ([Наздраве](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%9D%D0%B0%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%B5&op=translate)!/Naz-drah-veh!)
 Meaning: In Bulgarian they use the same word for “Cheers” when drinking and for “Bless you” when you sneeze. It literally means “To your health!”, or “Be healthy”. Remember that in Bulgaria, it’s not acceptable to say “Cheers” if you’re not drinking alcohol.
-  - **Edna golyama bira/rakia, molya!** ([Една голяма бира/ракия, моля](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%95%D0%B4%D0%BD%D0%B0%20%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0%20%D0%B1%D0%B8%D1%80%D0%B0%2F%D1%80%D0%B0%D0%BA%D0%B8%D1%8F%2C%20%D0%BC%D0%BE%D0%BB%D1%8F&op=translate)!/Eh-dna goh-lya-ma rah-kiya beera moh-lya)
+ - **Edna golyama bira/rakia, molya!** ([Една голяма бира/ракия, моля](https://translate.google.com/?hl=en&sl=bg&tl=en&text=%D0%95%D0%B4%D0%BD%D0%B0%20%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0%20%D0%B1%D0%B8%D1%80%D0%B0%2F%D1%80%D0%B0%D0%BA%D0%B8%D1%8F%2C%20%D0%BC%D0%BE%D0%BB%D1%8F&op=translate)!/Eh-dna goh-lya-ma rah-kiya beera moh-lya)
 Meaning: “One big beer/rakia, please!”. All the alcohol names are the same or very similar to English, so you’ll find it easy to compile a sentence. If you don’t have time to learn the numbers, use your fingers, it’s a universal language. Rakiya is our national strong drink, similar to the Italian “grapa” (if produced from grape), however other famous blends of it are “Slivova” (plum rakia), or “Kaisieva” (apricot rakia).
 
 ## Getting out and about
@@ -93,7 +90,7 @@ Meaning: “One big beer/rakia, please!”. All the alcohol names are the same o
 Any trip to Bulgaria would be incomplete without diving into our country’s unique [food](https://bulgariatravel.org/about-bulgaria/traditional-cuisine/), folklore and traditions. Grand Hotel Millennium is located close to the vibrant main pedestrian street of Sofia - Vitoshka street - with plenty of restaurants. Please be aware that placing a reservation is recommended, especially for groups. [Rezzo](https://rezzo.bg/en) is a popular app for booking tables, which also offers discounts for many restaurants. Some good options are:
 
 - **[Restaurant Moma](https://g.page/Restaurant-Moma?share)** - restaurant with traditional cuisine 
-- **[Shtastlivetsa](https://goo.gl/maps/FrJCa3YCbPXdh6CB8)** -  European and Bulgarian national cuisine
+- **[Shtastlivetsa](https://goo.gl/maps/FrJCa3YCbPXdh6CB8)** - European and Bulgarian national cuisine
 - **[Abergine](https://goo.gl/maps/uVsjKZYiqrwzuES2A)** - European cuisine
 - **[Cactus](https://g.page/RestaurantsCactus?share)** - European cuisine
 - **[Social Cafe Bar & Kitchen](https://goo.gl/maps/Q6ybUAmCd5bQKEyY9)** - European cuisine
@@ -101,10 +98,9 @@ Any trip to Bulgaria would be incomplete without diving into our country’s uni
 - **[Hadjidraganov's Houses Restaurant](https://g.page/hadjidraganovite-kashti?share)** - traditional folklore restaurant with traditional cuisine 
 - **[Happy Bar & Grill](https://goo.gl/maps/m7WpKfnxoDRxbcbq6)** - domestic chain of daily restaurants with traditional cuisine 
 
-
 ### Sightseeing
 
-- Sofia free tour is an organisation that offers many options for free and paid thematic tours, like Sightseeing walking tour, Food & Culture tour, etc. More information is available at [https://freesofiatour.com/](https://freesofiatour.com/)
+- Sofia free tour is an organisation that offers many options for free and paid thematic tours, like Sightseeing walking tour, Food & Culture tour, etc. More information is available at <https://freesofiatour.com/>
 - [St. Alexander Nevsky Cathedral](https://goo.gl/maps/FqBZCuM4ZRkmWUqs9) is one of the symbols not just of Sofia but of Bulgaria itself. It’s also one of the largest Eastern Orthodox cathedrals in the world with a 45m high gold-plated dome and a bell tower reaching 50.52 m.
 - [St. George Rotunda](https://goo.gl/maps/V1Fz1rfDYAyuK8aK6) is in the heart of ancient Serdica and the oldest building in modern Sofia, this red brick church was built all the way back in the 300s
 - [Vitosha Boulevard](https://goo.gl/maps/fCMcqnZ6hdytrssi9) or also known as “Vistoshka” in its pedestrian part is a pleasant place to spend a couple of hours shopping in boutiques or enjoying the nice ambience and delicious food in cafes and restaurants.
@@ -114,7 +110,7 @@ Any trip to Bulgaria would be incomplete without diving into our country’s uni
 - [Park Vrana](https://goo.gl/maps/eaMxrawaMvvCRRWS6) - These are the grounds of the stately home of the aristocrat Simeon II, who was Tsar of Bulgaria from 1943-46 before going into exile.
 - [St. Sophia Church](https://goo.gl/maps/724ELhUN8pmYNjAfA) is the oldest church in the Bulgarian capital Sofia, dating to the 4th century.
 
-### Galleries & Museums
+### Galleries & museums
 
 - **[National Art Gallery](https://nationalgallery.bg/)** is the largest art museum in Bulgaria, with over 41,000 paintings, sculptures, graphics, decorative and contemporary artworks. 
 - **[National Museum of Natural History](https://www.nmnhs.com/)** - Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History at the Bulgarian Academy of Sciences studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world.
@@ -129,4 +125,4 @@ Any trip to Bulgaria would be incomplete without diving into our country’s uni
 - **[2-day Southwest Bulgaria - culture, history, and natural wonders](https://www.traventuria.bg/pensoft-2-day-tour)** (Sofia – Melnik – Sandanski – Sofia) - departs 15 October
 - **[4-day South Bulgaria Explorer](https://www.traventuria.bg/pensoft-4-day-tour)** (Sofia - Plovdiv - Madzharovo - Bourgas – Sofia) - departs 13 October
 
-Not able to fit one of the excursions above into your schedule? [Traventuria](https://www.traventuria.bg/) will offer a 10% discount on 1-day tours to TDWG 2022 delegates with the code: PENSOFT10.
+Not able to fit one of the excursions above into your schedule? [Traventuria](https://www.traventuria.bg/) will offer a 10% discount on 1-day tours to TDWG 2022 delegates with the code: `PENSOFT10`.
