@@ -3,7 +3,7 @@ layout: team
 team: tdwg-2022-program-committee
 title: Program Committee
 description: >
-  Program Committee for TDWG 2022
+  Program Committee for TDWG 2022.
 background:
   img: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
   by: Georg Eiermann

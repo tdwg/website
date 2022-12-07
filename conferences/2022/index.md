@@ -44,8 +44,8 @@ Uploading instructions were distributed on 22 September via MailChimp. If you ca
 - 7 October 2022 - Deadline to upload posters and optional accompanying short videos 
 - The discounted room block at the Grand Hotel Millenium Sofia expired Friday 23 September 2022
 - Last day to switch in-person registration to virtual with full refund of the difference (minus credit card processing fees) was 17 August 2022. Contact <conf-organizers@tdwg.org> for more information.
-- [Call for abstract submission](../call-for-abstracts/) closed 1 July 2022.
-- [Call for proposals for organized sessions](../2022/call-for-organized-sessions/) closed 15 April 2022.
+- [Call for abstract submission](/conferences/2022/call-for-abstracts/) closed 1 July 2022.
+- [Call for proposals for organized sessions](/conferences/2022/call-for-organized-sessions/) closed 15 April 2022.
 
 ## Registration
 
@@ -88,7 +88,7 @@ The conference will take place 17–21 October with full days of events starting
 - Detailed schedule (as [HTML page](https://static.tdwg.org/conferences/2022/full-schedule-w-local-time.html)) - with times also shown in local time (best for virtual/remote participants) - last updated 14 October  
 - Schedule overview by day - [https://tinyurl.com/sched-tdwg2022](https://tinyurl.com/sched-tdwg2022)
 
-TDWG 2022 will feature [four keynote speakers](../keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
+TDWG 2022 will feature [four keynote speakers](/conferences/2022/keynotes/), two during the opening session on Monday morning and two on Friday afternoon. Their abstracts appear in the [Keynote](https://biss.pensoft.net/collection/406/) collection in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
 ### Presentation information
 
@@ -96,17 +96,17 @@ TDWG 2022 will feature [four keynote speakers](../keynotes/), two during the ope
 
 **If you are presenting in person** your slides must be uploaded no later than the end of sessions on the day prior to your presentation to allow the transfer by the technical folk at VIBE to the conference laptops.
 
-See more [detailed instructions](../presentation-info/) for preparing for your presentation at TDWG 2022 as well as instructions for moderators and session organizers. **Deadlines for uploading content for virtual speakers (26 September) as well as virtual poster presenters (7 October)** are included. An email via MailChimp was sent out 22 September with the upload link for presenters.
+See more [detailed instructions](/conferences/2022/presentation-info/) for preparing for your presentation at TDWG 2022 as well as instructions for moderators and session organizers. **Deadlines for uploading content for virtual speakers (26 September) as well as virtual poster presenters (7 October)** are included. An email via MailChimp was sent out 22 September with the upload link for presenters.
 
 **Note:** There is no space at the venue for physical posters.
 
 ## Working Sessions
 
-UPDATE. [Working sessions](../working-sessions/) for the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held post-conference from November 7-10. Free registration coming soon, look for announcements at the conference and on social media. There may be time at the conference for some IG/TG meetings depending on program space.
+UPDATE. [Working sessions](/conferences/2022/working-sessions/) for the TDWG Interest Groups, Task groups, and Functional Subcommittees will be held post-conference from November 7-10. Free registration coming soon, look for announcements at the conference and on social media. There may be time at the conference for some IG/TG meetings depending on program space.
 
 ## Abstracts
 
-All conference abstracts are now freely available in our open access journal, _[Biodiversity Information Science and Standards](https://biss.pensoft.net/)_ (BISS) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Don't forget to tweet about abstracts you find there **#tdwg2022**.
+All conference abstracts are now freely available in our open access journal, [Biodiversity Information Science and Standards](https://biss.pensoft.net/) as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/). Don't forget to tweet about abstracts you find there `#tdwg2022`.
 
 A big thank you to all of the authors, reviewers, editors, session organizers, and the staff at Pensoft for their efforts in making this work available not only to those registering for the conference but to anyone with an internet connection.
 
@@ -118,9 +118,9 @@ TDWG 2022 is hosted by:
 - [National Museum of Natural History](https://www.nmnhs.com/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en) and 
 - [Institute of Biodiversity and Ecosystem Research](http://www.iber.bas.bg/), [Bulgarian Academy of Sciences](https://www.bas.bg/?lang=en),
 
-who cordially invite you to experience Sofia [in-person](../local-info/) and virtually. 
+who cordially invite you to experience Sofia [in-person](/conferences/2022/local-info/) and virtually. 
 
-**Pre-conference excursions** are available, see [details](../local-info/#excursions). See also options for [sightseeing and museums](../local-info/#sightseeing) to visit during your stay.
+**Pre-conference excursions** are available, see [details](/conferences/2022/local-info/#excursions). See also options for [sightseeing and museums](/conferences/2022/local-info/#sightseeing) to visit during your stay.
 
 ### Conference venue
 
@@ -132,7 +132,7 @@ The Grand Hotel Millennium is located in the central part of the city (89B, Vito
 
 ### Accommodations
 
-The discounted room block at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)** is no longer available (deadline was 23 September). Other options may still be available. [See details...](../local-info/#accommodations)
+The discounted room block at the **[Grand Hotel Millenium Sofia](https://grandhotelmillenniumsofia.bg/)** is no longer available (deadline was 23 September). Other options may still be available. [See details...](/conferences/2022/local-info/#accommodations)
 
 ### Visa requirements
 
@@ -146,7 +146,7 @@ The Grand Hotel Millenium Sofia includes in its [hotel policies](https://grandho
 
 The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [following guidance](https://www.mfa.bg/en/customnews/main/24737) last updated 1 May 2022. [Additional information](https://reopen.europa.eu/en/map/BGR/7001) is available from the European Union.
 
-[Medical labs](../local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. You are encouraged to bring your own rapid COVID test kits.
+[Medical labs](/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. You are encouraged to bring your own rapid COVID test kits.
 
 **TDWG now has a [liability disclaimer and release](/about/liability-disclaimer/) policy** regarding COVID-19 and relevant to in-person conference attendees.
 
@@ -160,32 +160,32 @@ TDWG gratefully acknowledges the generous financial or in-kind support of TDWG 2
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://gbif.org">
-    <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/gbif-2015.png" alt="Global Biodiversity Information Facility" width="180">
   </a>
   <a href="https://pensoft.net/">
-    <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft" width="180">
   </a>
   <a href="https://dissco.eu/">
-    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://ala.org.au">
-    <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/ala-logo-stacked-rgb-crop.png" alt="Atlas of Living Australia" width="180">
   </a>
   <a href="https://fieldmuseum.org/">
-    <img src="https://static.tdwg.org/sponsors/field-museum.png" alt="Field Museum logo" width="100">
+    <img src="https://static.tdwg.org/sponsors/field-museum.png" alt="Field Museum" width="100">
   </a>
   <a href="https://www.lifewatch.eu/">
-    <img src="https://static.tdwg.org/sponsors/life-watch-eric-logo.png" alt="LifeWatch ERIC logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/life-watch-eric-logo.png" alt="LifeWatch ERIC" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://biodiversity.research.ufl.edu">
-    <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/uf-biodiversity-institute.png" alt="UF Biodiversity Institute" width="180">
   </a>
   <a href="https://www.floridamuseum.ufl.edu/">
-    <img src="https://static.tdwg.org/sponsors/flmnh.png" alt="Florida Museum of Natural History logo" width="180">
+    <img src="https://static.tdwg.org/sponsors/flmnh.png" alt="Florida Museum of Natural History" width="180">
   </a>
 </p>
 
@@ -201,4 +201,4 @@ Please send questions to <conf-organizers@tdwg.org>.
 
 ## Additional information
 
-**Tweet `#tdwg2022`**
+Tweet using `#tdwg2022`.

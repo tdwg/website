@@ -1,7 +1,7 @@
 ---
 title: Working sessions
 description: >
-  TDWG 2022 Interest and Task Group Working Sessions will be held 7-10 November. 
+  TDWG 2022 Interest and Task Group Working Sessions will be held 7-10 November.
 background:
   img: https://images.unsplash.com/photo-1554990349-170b9e4bdf3b
   by: Waranot (Joe)

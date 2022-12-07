@@ -1,7 +1,7 @@
 ---
 title: Presentation information
 description: >
-  What to know when you present at TDWG 2022
+  What to know when you present at TDWG 2022.
 background:
   img: https://images.unsplash.com/photo-1509105494475-358d372e6ade
   by: Jakob Creutz
@@ -15,7 +15,7 @@ _Last updated 10 September 2022_
 
 TDWG 2022 will be our first in-person conference since the COVID-19 pandemic and will feature a significant proportion of remote (virtual) participants from all over the world. The hours of the conference will correspond to those of the hosts in Sofia, Bulgaria (9 AM–6 PM [UTC+3 EEST](https://www.timeanddate.com/worldclock/converter.html?iso=20221017T060000&p1=238)) from 17–21 October at the [Grand Hotel Millennium Sofia](https://grandhotelmillenniumsofia.bg/) (see [360˚ tour](https://360tour.ghms.bg/) of the Conference Center 4th floor). 
 
-- All presenters and session organizers must be [registered](../#registration) for the conference.
+- All presenters and session organizers must be [registered](/conferences/2022/#registration) for the conference.
 - There will be parallel sessions each day (except Wednesday), with sessions ranging from 60 to 120 minutes with 30 minute breaks between sessions.
 - In-person speakers should upload their slides at least 24 h prior to the start of their session
 - Speakers should arrive at least 20 minutes ahead of a session start for a technical check. 
@@ -28,7 +28,7 @@ While the language of the conference is English, we are experimenting this year 
 
 ### Contacts
 
-**[Session co-organizers](../session-list/)** if you have questions about the organization of your session or your contribution to it.
+**[Session co-organizers](/conferences/2022/session-list/)** if you have questions about the organization of your session or your contribution to it.
 
 **<conf-organizers@tdwg.org>** if you need to change your registration type or require special accommodations at the conference, which were not already listed when you registered.
 
@@ -48,13 +48,13 @@ Note that the above documents will not include links for uploading presentations
 
 Contributed oral presentations are **10 minutes to present + 3 min. for questions + 2 min. to change presenters (total 15 min/presentation)**. There will be a mixture of live (streamed and recorded) in-person presentations as well as pre-recorded presentations by those attending virtually. If possible, virtual presenters will be present in Zoom to answer questions during the conference and/or on the TDWG2022 Slack Workspace designed for this purpose. Details to opt-in to Zoom and the TDWG2022 Slack will be handled in a separate communication to registrants.
 
-Each presentation features an abstract published in Biodiversity Information Science and Standards (BISS), as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
+Each presentation features an abstract published in Biodiversity Information Science and Standards, as [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/).
 
 ## Symposia
 
 Symposia generally use the same 15 minute format as Contributed Oral presentations (10 min talks + 3 min for questions + 2 min transition to next speaker). Symposia may include time set aside for an introduction and a discussion. As with Contributed Oral presentations, the hybrid conference will feature live streamed in-person talks and pre-recorded talks by virtual participants. Virtual participants should make every effort to be a part of the live symposium to answer questions and participate in any discussion, however all presenters will have the opportunity to answer questions or join a discussion in the TDWG2022 Slack workspace. Details will be emailed to registrants separately allowing registrants to opt-in to this workspace.
 
-Each presentation features a published abstract found [here](https://biss.pensoft.net/collection/384/). The list of symposium organizers and descriptions are [here](../session-list/).
+Each presentation features a published abstract found [here](https://biss.pensoft.net/collection/384/). The list of symposium organizers and descriptions are [here](/conferences/2022/session-list/).
 
 ## Workshop & discussion
 
@@ -62,7 +62,7 @@ The workshop (WKSH11) and discussion (PD13, formerly panel discussion) will incl
 
 ## Demos & lightning talks (and other interactive genre)
 
-Abstracts are expected for all talks listed in the program. The time allotted to presenters for these genres is up to the organizers of the sessions.  Please contact the [session organizer](../session-list/) if you are presenting in one of these sessions (LT07; LTD14; INT19).
+Abstracts are expected for all talks listed in the program. The time allotted to presenters for these genres is up to the organizers of the sessions.  Please contact the [session organizer](/conferences/2022/session-list/) if you are presenting in one of these sessions (LT07; LTD14; INT19).
 
 ## Virtual posters
 
@@ -74,4 +74,4 @@ Posters should be uploaded as PDF files. Presenters may also provide a short vid
 
 ## Featured plenary or keynote speakers
 
-Four keynote speakers will present talks in plenary during the conference. See [list of speakers](../keynotes/).  Their abstracts are published [here](https://biss.pensoft.net/collection/406/).
+Four keynote speakers will present talks in plenary during the conference. See [list of speakers](/conferences/2022/keynotes/).  Their abstracts are published [here](https://biss.pensoft.net/collection/406/).

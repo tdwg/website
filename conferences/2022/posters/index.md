@@ -1,7 +1,7 @@
 ---
 title: Posters
 description: >
-  Posters at TDWG 2022
+  Posters at TDWG 2022.
 background:
   img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 toc: true

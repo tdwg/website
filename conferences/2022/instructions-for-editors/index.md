@@ -1,7 +1,7 @@
 ---
 title: Instructions for editors
 description: >
-  Of abstracts of presentations for TDWG 2022, to be published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/)
+  Of abstracts of presentations for TDWG 2022, to be published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/).
 background:
   img: https://images.unsplash.com/photo-1459664018906-085c36f472af
   by: Erol Ahmed
@@ -19,7 +19,7 @@ Thank you for volunteering to review and/or edit abstracts submitted to your ses
 
 ### What authors see
 
-**Please review [TDWG 2022 Instructions for Abstract Submission](../instructions-for-abstract-submission/).** This will help you understand the ARPHA workflow from the author's point of view and what is expected of you. Begin to edit and work with authors as soon after submission as possible. If you are working with a team, divide the workflow and communicate, but be sure to work in ARPHA for your editing, not elsewhere.
+**Please review [TDWG 2022 instructions for abstract submission](/conferences/2022/instructions-for-abstract-submission/).** This will help you understand the ARPHA workflow from the author's point of view and what is expected of you. Begin to edit and work with authors as soon after submission as possible. If you are working with a team, divide the workflow and communicate, but be sure to work in ARPHA for your editing, not elsewhere.
 
 **Update 8 July 2022: Notification of provisional acceptance of abstracts.** All currently submitted abstracts have been provisionally accepted for inclusion in TDWG 2022, however _authors will not be able to see the_ Accepted with revisions _flag (or any other [flag that we as editors use](#flags)), in their ARPHA dashboard._
 
@@ -31,7 +31,9 @@ The diagram below splits editorial duties into two parts that should ultimately 
 
 - Suggest changes using ARPHA's [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) and [Comment](https://arpha.pensoft.net/tips/Comments) features. Only obvious spelling errors are exceptions to this rule.
 - Use FLAGS (see below) to mark editing progress 
-- Use the following buttons: _Send Feedback; Validate_. ![ARPHA Editing Flowchart](https://static.tdwg.org/conferences/2022/images/arpha-editing-flowchart.png "ARPHA Editing Flowchart")
+- Use the following buttons: `Send Feedback`; `Validate`.
+
+![ARPHA Editing Flowchart](https://static.tdwg.org/conferences/2022/images/arpha-editing-flowchart.png "ARPHA Editing Flowchart")
 
 ### Abstract status
 
@@ -43,7 +45,7 @@ You should be able to see all abstracts that have been submitted to your collect
 
 **Rejected.** Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate or does not fit in your collection, flag it and notify <editor@tdwg.org> of your opinion.
 
-**Approved for submission:** Only designated editors at <editor@tdwg.org> will have access to the Approve button, everyone else should be using the FLAG. Once the button is pushed, it will be up to authors to finish the abstract submission process. See the [instructions for abstract submission](../instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete submission).
+**Approved for submission:** Only designated editors at <editor@tdwg.org> will have access to the Approve button, everyone else should be using the FLAG. Once the button is pushed, it will be up to authors to finish the abstract submission process. See the [instructions for abstract submission](/conferences/2022/instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete submission).
 
 **In layout:** Author has completed the final submission process, a BISS# has been assigned, and abstract is awaiting publication.
 
