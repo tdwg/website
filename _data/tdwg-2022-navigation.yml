@@ -2,16 +2,16 @@
   href: /conferences/2022/
 - text: Program
   menu:
+  - text: TDWG Proceedings
+    href: https://biss.pensoft.net/collection/384/
   - text: Sessions
     href: /conferences/2022/session-list/
   - text: Keynote speakers
     href: /conferences/2022/keynotes/
   - text: Posters
     href: /conferences/2022/posters/
-  - text: Full schedule
+  - text: Schedule
     href: /conferences/2022/#schedule
-  - text: TDWG Proceedings
-    href: https://biss.pensoft.net/collection/384/
   - text: "---"
   - text: Program Committee
     href: /conferences/2022/program-committee/

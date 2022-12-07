@@ -35,11 +35,15 @@ defaults:
       toc: true
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
       permalink: "/news/:year/:slug/"   # Use /news/yyyy/{filename}/ as permalink for all posts
       toc: false
   - scope:
-      path: "conferences/2022"
+      path: conferences/2021
+    values:
+      navigation: tdwg-2021-navigation
+  - scope:
+      path: conferences/2022
     values:
       navigation: tdwg-2022-navigation
