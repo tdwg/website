@@ -14,6 +14,7 @@ remote_theme: tdwg/petridish
 posts_on_home: 3
 archive_permalink: /news/
 github_edit: true
+logo: /assets/theme/images/tdwg-logo-long.svg
 
 # BUILD SETTINGS
 markdown: kramdown
