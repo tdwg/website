@@ -1,5 +1,5 @@
 ---
-title: Humboldt Core 
+title: Humboldt Extension 
 summary: This task group will explore concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt Core terms (Guralnick et al. 2018) will be reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core if possible. If not, the work of the Task Group will be amended to pursue an alternative standard for this type of data within the TDWG corpus of standards. The outcome in either case will be to provide a framework and clear semantics for sharing and integrating biodiversity inventory data. 
 cover_image: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
 cover_image_by: David Clode
@@ -155,7 +155,7 @@ about processes underpinning inventory work (Guralnick et al. 2018).
 
 ## Resources
 
-Humboldt Core resources:
+Humboldt extension resources:
 
 * Humboldt Core in Map of Life: <https://mol.org/humboldtcore/>
 * Humboldt Core publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. <https://doi.org/10.1111/ecog.02942>
