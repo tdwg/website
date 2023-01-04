@@ -43,7 +43,8 @@ Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Africa | Ian Engelbrecht [✉️](mailto:ianicus.za@gmail.com) | Natural Science Collections Facility, South Africa
  | 2023-2024
-Asia | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto:nakazato@dbcls.rois.ac.jp) | Database Center for Life Science, Mishima, Japan | 2023-2024
+Asia (co-rep) | Vijay Barve [✉️](mailto:vijay.barve@gmail.com) | Natural History Museum of Los Angeles County, CA, USA | 2023-2024
+Asia (co-rep) | [Takeru Nakazato](./backgrounds/#asia%20representative_1) [✉️](mailto:nakazato@dbcls.rois.ac.jp) | Database Center for Life Science, Mishima, Japan | 2023-2024
 Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Leiden, Netherlands | 2023-2024
 Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2022-2023
 North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2023-2024
