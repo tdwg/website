@@ -54,7 +54,7 @@ TDWG agradece el apoyo financiero o en especie a TDWG 2021 por parte de las sigu
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://dissco.eu/">
-    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="DiSSCo" width="180">
+    <img src="https://static.tdwg.org/sponsors/dissco-logo_w600px.png" alt="Distributed System of Scientific Collections" width="180">
   </a>
   <a href="https://pensoft.net/">
     <img src="https://static.tdwg.org/sponsors/pensoft-logo.png" alt="Pensoft" width="180">

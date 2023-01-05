@@ -1,90 +1,98 @@
 ---
-title: Posters for TDWG 2020
+title: Posters
 description: >
-  Posters prepared for our virtual conference, TDWG 2020
+  Posters for TDWG 2020.
 background:
   img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
+toc: false
 ---
-
-# Posters
 
 Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be found in the [poster collection](https://biss.pensoft.net/collection/224/) of our Proceedings this year.  In normal TDWG conferences, we place posters up around the venue and encourage authors to stand by their posters during a social hour or two.  With a virtual conference we are going to convene a few social hours and encourage poster authors to be available in a "break out room" off of the main social hour "meeting". (More detailed instructions to come.) Unfortunately, time zones will mean that most authors won't be able to participate in all social hours.  In the list below, we hope to indicate which social hour(s) each author plan to attend so participants can have a chance to discuss the author's work. Some authors have also provided additional contact information below (e.g. twitter or other websites).
 
-<table>
+## TDWG 2020 virtual posters
 
-<tr>
-  <td style="text-align:center"> <a href="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png" alt="ps_59170_yoder" style="max-width:300px; max-height:300px;">
-	</td>
-  <td style="vertical-align:middle">
-	Title: <strong>What Can You Do with a TaxonWorks API?</strong><br />
-	Author(s): Matthew Yoder, Hernán Pereira, José Luis Pereira, Dmitry Dmitriev, Geoffrey Ower, James Flood<br />
-	<a href="https://biss.pensoft.net/article/59170/" target="_blank">Abstract</a> <br/>
-	Contact: mjyoder AT gmail DOT com <br/>
-	TaxonWorks chat channel (<a href="https://github.com/SpeciesFileGroup/taxonworks"go here </a>to find chat channel link)<br/>
-  </td>
-</tr>
+#### What can you do with a TaxonWorks API?
 
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam-thm.png" alt="ps_59055_hyam" style="max-width:300px; max-height:300px;">
-	</td>
-  <td style="vertical-align:middle">
-	Title: <strong>Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections</strong><br />
-	Author(s): Roger Hyam<br />
-	<a href="https://biss.pensoft.net/article/59055/" target="_blank">Abstract</a> | 
-	<a href="https://youtu.be/_jpRD-DcO_0" target="_blank">Video</a> <br/>
-  </td>
-</tr>
+{: .w-25 .float-start .me-5 }
+[![ps_59170_yoder](https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf)
 
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png" alt="ps_59228_salim"  style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-	Title: <strong>A Google Sheet Add-on for Biodiversity Data Standardization and Sharing</strong><br />
-	Author(s): José Augusto Salim, Antonio Saraiva<br />
-	<a href="https://biss.pensoft.net/article/59228/" target="_blank">Abstract</a> | 
-	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.mp4" target="_blank">Video</a> <br/>
-  </td>
-</tr>
+Author(s)
+: [Matthew Yoder](mailto:mjyoder@gmail.com), Hernán Pereira, José Luis Pereira, Dmitry Dmitriev, Geoffrey Ower, James Flood
 
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png" alt="ps_59106_kerner" style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-	Title: <strong>Virtual Systematics with Annotate: The Mexican archaeocyaths example</strong><br />
-	Author(s): Lucile-Morgane Hays, Adeline Kerner<br />
-	<a href="https://biss.pensoft.net/article/59106/" target="_blank">Abstract</a> <br/>
-	Contact: kerner AT mnhm DOT fr <br/>
-	<a href="https://www.tdwg.org/conferences/2020/session-list/#social%20sessions">Social Hours: 1 and 2</a><br/>
-  </td>
-</tr>
+Abstract
+: <https://biss.pensoft.net/article/59170/>
 
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png" alt="ps_59065_nakazato" style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-	Title: <strong>Survey of Species Covered by DNA Barcoding Data in BOLD and GenBank for Integration of Data for Museomics</strong><br />
-	Author(s): Takeru Nakazato<br />
-	<a href="https://biss.pensoft.net/article/59065/" target="_blank">Abstract</a> | 
-	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.mp4" target="_blank">Video</a><br/>
-	Contact: nakazato AT dbcls.rois.ac DOT jp <br/>
-	Twitter: @tkr_nak
-  </td>
-</tr>
+TaxonWorks chat channel
+: [Go here](https://github.com/SpeciesFileGroup/taxonworks) to find chat channel link
+{: .clearfix }
 
-<tr>
-  <td style="text-align:center">
-  	<a href="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf" target="_blank"><img src="https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png" alt="ps_59041_dimitrova" style="max-width:300px; max-height:300px;">
-  </td>
-  <td style="vertical-align:middle">
-	Title: <strong>Streamlined Conversion of Omics Metadata into Manuscript Facilitates Publishing and Reuse of Omics Data</strong><br />
-	Author(s): Mariya Dimitrova, Raïssa Meyer, Pier Luigi Buttigieg, Teodor Georgiev, Georgi Zhelezov, Seyhan Demirov, Vincent Smith, Lyubomir Penev <br/>
-	<a href="https://biss.pensoft.net/article/59041/" target="_blank">Abstract</a> <br/>
-  </td>
-</tr>
+#### Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections
 
-</table>
+{: .w-25 .float-start .me-5 }
+[![ps_59055_hyam](https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam.pdf)
 
+Author(s)
+: Roger Hyam
+
+Abstract
+: <https://biss.pensoft.net/article/59055/>
+
+Video
+: [video](https://youtu.be/_jpRD-DcO_0)
+{: .clearfix }
+
+#### A Google Sheet add-on for biodiversity data standardization and sharing
+
+{: .w-25 .float-start .me-5 }
+[![ps_59228_salim](https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf)
+
+Author(s)
+: José Augusto Salim, Antonio Saraiva
+
+Abstract
+: <https://biss.pensoft.net/article/59228/>
+
+Video
+: [video](https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.mp4)
+{: .clearfix }
+
+#### Virtual systematics with annotate: the Mexican archaeocyaths example
+
+{: .w-25 .float-start .me-5 }
+[![ps_59106_kerner](https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf)
+
+Author(s)
+: Lucile-Morgane Hays, [Adeline Kerner](mailto:kerner@mnhm.fr)
+
+Abstract
+: <https://biss.pensoft.net/article/59106/>
+
+Social hours
+: [1 and 2](/conferences/2020/session-list/#social%20sessions)
+{: .clearfix }
+
+#### Survey of species covered by DNA barcoding data in BOLD and GenBank for integration of data for museomics
+
+{: .w-25 .float-start .me-5 }
+[![ps_59065_nakazato](https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf)
+
+Author(s)
+: [Takeru Nakazato](mailto:nakazato@dbcls.rois.ac.jp) (Twitter: @tkr_nak)
+
+Abstract
+: <https://biss.pensoft.net/article/59065/>
+
+Video
+: [video](https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.mp4)
+{: .clearfix }
+
+#### Streamlined conversion of omics metadata into manuscript facilitates publishing and reuse of omics data
+
+{: .w-25 .float-start .me-5 }
+[![ps_59041_dimitrova](https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf)
+
+Author(s)
+: Mariya Dimitrova, Raïssa Meyer, Pier Luigi Buttigieg, Teodor Georgiev, Georgi Zhelezov, Seyhan Demirov, Vincent Smith, Lyubomir Penev
+
+Abstract
+: <https://biss.pensoft.net/article/59041/>

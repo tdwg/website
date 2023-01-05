@@ -1,0 +1,31 @@
+- text: TDWG 2020
+  href: /conferences/2020/
+- text: Program
+  menu:
+  - text: TDWG Proceedings
+    href: https://biss.pensoft.net/collection/222/
+  - text: Sessions
+    href: /conferences/2020/session-list/
+  - text: Posters
+    href: /conferences/2020/posters/
+  - text: Schedule
+    href: /conferences/2020/#october-19-23---virtual-conference
+  - text: ---
+  - text: Code of Conduct
+    href: /conferences/2020/code-of-conduct/
+- text: Working sessions
+  menu:
+  - text: Working sessions
+    href: /conferences/2020/working-sessions/
+  - text: Schedule
+    href: /conferences/2020/working-sessions-schedule/
+- text: Submissions
+  menu:
+  - text: Calls
+  - text: Abstracts
+    href: /conferences/2020/call-for-abstracts/
+  - text: Instructions
+  - text: Abstract submission
+    href: /conferences/2020/instructions-for-abstract-submission/
+  - text: Editors
+    href: /conferences/2020/instructions-for-editors/
