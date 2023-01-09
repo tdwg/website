@@ -2,29 +2,30 @@
 title: Standards Status and Categories
 ---
 
+{: id="status" }
 ## Status values
 
-### Current Standard  
+### Current Standard
 
 Standards that TDWG recommends for use.
 
-### Current (2005) Standard  
+### Current (2005) Standard
 
 Standards that TDWG recommends for use and were ratified by membership vote at the TDWG Annual Meeting 2005 in St. Petersburgh. These standards are not in the format of current TDWG standards, nor have they been submitted to both expert and public review, the ratification process adopted at the St Louis annual meeting in 2006.
 
-### Draft Standard  
+### Draft Standard
 
 Standard under review submitted to the TDWG Standards Track after 2006.
 
-### Prior Standard  
+### Prior Standard
 
 Standards that were ratified prior to 2005 and that are not currently being promoted for ratification under the post 2006 ratification process. These standards currently lack a 'champion' to bring them into line with the draft specification and submit them to the new standards development process adopted in St Louis in 2006.
 
-### Retired Standard  
+### Retired Standard
 
-Standards that have been ratified by TDWG in the past but that are no longer recommended.  
+Standards that have been ratified by TDWG in the past but that are no longer recommended.
 
-
+{: id="category" }
 ## Categories of TDWG standards
 
 ### Technical Specification (TS)
