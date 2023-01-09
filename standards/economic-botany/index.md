@@ -39,7 +39,7 @@ Bibliographic citation
 
 ## Parts of the standard
 
-This standard is comprised of one document. 
+This standard is comprised of one document.
 
 Documents:
 
@@ -51,6 +51,6 @@ Documents:
 Frances E. M. Cook (author) - Royal Botanic Gardens, Kew <br/>
 **Publisher:** Royal Botanic Gardens, Kew <br/>
 **Abstract:** The aim of the Economic Botany Data Collection Standard is to provide a system whereby uses of plants (in their cultural context) can be described, using standardised descriptors and terms, and attached to taxonomic data sets. This book describes the structure and implementation of the standard. <br/>
-**Note:** This document was available in print.  The linked document is a scan of the print book. <br/>
-**Citation:** Cook, Frances E. M. 1995. Economic Botany Data Collection Standard. Prepared for the International Working Group on Taxonomic Databases for Plant Sciences (TDWG) by the Royal Botanic Gardens, Kew. ISBN 0947643710.  http://rs.tdwg.org/ebdc/doc/specification/
+**Note:** This document was available in print. The linked document is a scan of the print book. <br/>
+**Citation:** Cook, Frances E. M. 1995. Economic Botany Data Collection Standard. Prepared for the International Working Group on Taxonomic Databases for Plant Sciences (TDWG) by the Royal Botanic Gardens, Kew. ISBN 0947643710. http://rs.tdwg.org/ebdc/doc/specification/
 

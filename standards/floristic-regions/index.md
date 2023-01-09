@@ -34,7 +34,7 @@ Bibliographic citation
 
 ## Parts of the standard
 
-This standard is comprised of one document. 
+This standard is comprised of one document.
 
 Documents:
 
@@ -46,7 +46,7 @@ Documents:
 Armen Leonovich Takhtajan (author) <br/>
 Theodore J. Crovello (translator) <br/>
 Arthur Cronquist (editor) <br/>
-**Publisher:** University of California Press  <br/>
+**Publisher:** University of California Press <br/>
 **Abstract:** This book describes the floristic divisions for the whole world, lists endemic families and genera, and provides examples of endemic species for each province. <br/>
 **Note:** First English Language Edition. Seems to be available in print only. <br/>
 **Citation:** Takhtajan, A. L. 1986. Floristic Regions of the World. University of California Press. Berkeley, Los Angeles, London. xxii, 522 pp., 4 maps. ISBN 0520040279. http://rs.tdwg.org/frw/doc/book/

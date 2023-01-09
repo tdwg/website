@@ -37,7 +37,7 @@ Bibliographic citation
 
 ## Parts of the standard
 
-This standard is comprised of one document. 
+This standard is comprised of one document.
 
 Documents:
 
@@ -46,9 +46,9 @@ Documents:
 **Created:** 1994-12 <br/>
 **Last modified:** 1994-12 <br/>
 **Contributors:** <br/>
-Frank A Bisby  (author) - University of Southampton  <br/>
+Frank A Bisby (author) - University of Southampton <br/>
 **Publisher:** Hunt Institute for Botanical Documentation <br/>
-**Abstract:** This standard defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a database.  <br/>
+**Abstract:** This standard defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a database. <br/>
 **Note:** Note: the introduction of this publication provides some historical information about TDWG and early standards it produced or adopted from elsewhere. <br/>
 **Citation:** TDWG Minimum Standard for Names in Botanical Databases Subgroup (Author: Frank A. Bisby). 1994. Plant Names in Botanical Databases. Hunt Institute for Botanical Documentation. http://rs.tdwg.org/pnbd/doc/specification/
 

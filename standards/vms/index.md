@@ -45,7 +45,7 @@ This standard is intended for those who are involved in making changes to TDWG v
 
 ## Parts of the standard
 
-This standard is comprised of one document. 
+This standard is comprised of one document.
 
 Documents:
 

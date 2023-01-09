@@ -32,12 +32,13 @@ Abstract
 Bibliographic citation
 : > TDWG World Geographic Scheme for Recording Plant Distributions Committee. 2001. World Geographic Scheme for Recording Plant Distributions Standard. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/109
 
-## Maintenance group  
+## Maintenance group
+
 WGSRPD is now curated by the [Geographical Schemes Interest Group](https://www.tdwg.org/community/geoschemes/)
 
 ## Parts of the standard
 
-This standard is comprised of one document. 
+This standard is comprised of one document.
 
 Documents:
 
@@ -51,6 +52,6 @@ Francisco Pando (author) <br/>
 S. Hollis (author) <br/>
 Neil A. Brummitt (author) <br/>
 **Publisher:** Hunt Institute for Botanical Documentation <br/>
-**Abstract:** This document defines a schem for recording geographical units.  The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called “Botanical Country” level (which may often ignore purely political considerations), and fourthly at a slightly lower level called “Basic Recording Units” where political integrity is fully recognised. <br/>
+**Abstract:** This document defines a schem for recording geographical units. The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called “Botanical Country” level (which may often ignore purely political considerations), and fourthly at a slightly lower level called “Basic Recording Units” where political integrity is fully recognised. <br/>
 **Citation:** R. K. Brummitt. 2001. World Geographic Scheme for Recording Plant Distributions, Edition 2. Hunt Institute for Botanical Documentation, Carnegie Mellon University (Pittsburgh). http://rs.tdwg.org/wgsrpd/doc/data/
 

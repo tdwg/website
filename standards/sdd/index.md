@@ -37,7 +37,7 @@ Bibliographic citation
 
 ## Parts of the standard
 
-This standard is comprised of 2 documents. 
+This standard is comprised of 2 documents.
 
 Documents:
 
@@ -46,8 +46,8 @@ Documents:
 **Created:** 2006-05-11 <br/>
 **Last modified:** 2006-05-11 <br/>
 **Contributors:** <br/>
-Gregor Hagedorn (author) - Julius Kühn Institute  <br/>
-Kevin R. Thiele (author) - Western Australian Herbarium  <br/>
+Gregor Hagedorn (author) - Julius Kühn Institute <br/>
+Kevin R. Thiele (author) - Western Australian Herbarium <br/>
 Robert A. Morris (author) - University of Massachusetts at Boston, USA <br/>
 P. Bryan Heidorn (author) - University of Illinois at Urbana-Champaign <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
@@ -59,11 +59,11 @@ P. Bryan Heidorn (author) - University of Illinois at Urbana-Champaign <br/>
 **Created:** 2006-05-11 <br/>
 **Last modified:** 2006-05-11 <br/>
 **Contributors:** <br/>
-Gregor Hagedorn (author) - Julius Kühn Institute  <br/>
-Kevin R. Thiele (author) - Western Australian Herbarium  <br/>
+Gregor Hagedorn (author) - Julius Kühn Institute <br/>
+Kevin R. Thiele (author) - Western Australian Herbarium <br/>
 Robert A. Morris (author) - University of Massachusetts at Boston, USA <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
-**Abstract:** This is the schema file to be referenced in instance documents for validation. It is the top level schema file that integrates the schema components.  <br/>
+**Abstract:** This is the schema file to be referenced in instance documents for validation. It is the top level schema file that integrates the schema components. <br/>
 **Note:** See also https://raw.githack.com/tdwg/sdd/master/2006/rddl.html and https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/UBIF_(c).xsd <br/>
 **Citation:** Structure of Descriptive Data (SDD) Subgroup. 2006. Structured Descriptive Data XML Schema. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/sdd/doc/xmlschema/
 

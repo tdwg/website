@@ -39,7 +39,7 @@ Bibliographic citation
 
 ## Parts of the standard
 
-This standard is comprised of one document. 
+This standard is comprised of one document.
 
 Documents:
 

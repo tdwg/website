@@ -37,7 +37,7 @@ Bibliographic citation
 
 ## Parts of the standard
 
-This standard is comprised of 2 documents. 
+This standard is comprised of 2 documents.
 
 Documents:
 
@@ -49,7 +49,7 @@ Documents:
 Kevin Richards (lead author) - Landcare Research <br/>
 Ben Richardson (review manager) - Department of Environment and Conservation, Western Australia <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
-**Abstract:** This document provides guidance on how to use GUIDs (Globally Unique Identifiers) to meet specific requirements of the biodiversity information community.  It applies to GUIDs in general; there is, or will be, a separate document for the applicability of each specific GUID technology. <br/>
+**Abstract:** This document provides guidance on how to use GUIDs (Globally Unique Identifiers) to meet specific requirements of the biodiversity information community. It applies to GUIDs in general; there is, or will be, a separate document for the applicability of each specific GUID technology. <br/>
 **Citation:** Globally Unique Identifiers Task Group. 2011. Globally Unique Identifiers (GUID) Applicability Statement. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/guid/doc/guidas/
 
 **Title:** Life Sciences Identifiers (LSID) Applicability Statement <br/>

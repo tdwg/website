@@ -81,7 +81,7 @@ What is not in scope?
 
 ## Parts of the standard
 
-This standard is comprised of 5 vocabularies and 11 documents. 
+This standard is comprised of 5 vocabularies and 11 documents.
 
 Vocabularies:
 
@@ -100,12 +100,12 @@ Documents:
 **Contributors:** <br/>
 Steve Baskauf (lead author) - TDWG RDF/OWL Task Group <br/>
 John Wieczorek (author) - TDWG Darwin Core Task Group <br/>
-John Deck  (author) - Genomic Biodiversity Working Group <br/>
-Campbell Webb  (author) - TDWG RDF/OWL Task Group <br/>
-Paul J. Morris  (author) - Harvard University Herbaria/Museum of Comparative Zoölogy <br/>
-Mark Schildhauer  (author) - National Center for Ecological Analysis and Synthesis <br/>
+John Deck (author) - Genomic Biodiversity Working Group <br/>
+Campbell Webb (author) - TDWG RDF/OWL Task Group <br/>
+Paul J. Morris (author) - Harvard University Herbaria/Museum of Comparative Zoölogy <br/>
+Mark Schildhauer (author) - National Center for Ecological Analysis and Synthesis <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
-**Abstract:** This guide is intended to facilitate the use of Darwin Core terms in the Resource Description Framework (RDF). It explains basic features of RDF and provides details of how to expose data in the form of RDF using Darwin Core terms and terms from other key vocabularies. It defines terms in the namespace http://rs.tdwg.org/dwc/iri/ which are intended for use excusively with non-literal objects.  <br/>
+**Abstract:** This guide is intended to facilitate the use of Darwin Core terms in the Resource Description Framework (RDF). It explains basic features of RDF and provides details of how to expose data in the form of RDF using Darwin Core terms and terms from other key vocabularies. It defines terms in the namespace http://rs.tdwg.org/dwc/iri/ which are intended for use excusively with non-literal objects. <br/>
 **Citation:** Darwin Core and RDF/OWL Task Groups. 2015. Darwin Core RDF Guide. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/dwc/terms/guides/rdf/
 
 **Title:** Darwin Core Text Guide <br/>
@@ -151,7 +151,7 @@ Tim Robertson (author) - Global Biodiversity Information Facility <br/>
 Dave Vieglais (author) - KU Natural History Museum <br/>
 Gail E. Kampmeier (review manager) - University of Illinois at Urbana-Champaign <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
-**Abstract:** This document is a reference for the Simple Darwin Core standard, a mechanism used to share biodiversity information using the simplest methods and structure.   <br/>
+**Abstract:** This document is a reference for the Simple Darwin Core standard, a mechanism used to share biodiversity information using the simplest methods and structure. <br/>
 **Citation:** Darwin Core Task Group. 2014. Simple Darwin Core. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/dwc/terms/simple/
 
 **Title:** Darwin Core Namespace Policy <br/>
@@ -166,7 +166,7 @@ Tim Robertson (author) - Global Biodiversity Information Facility <br/>
 Dave Vieglais (author) - KU Natural History Museum <br/>
 Gail E. Kampmeier (review manager) - University of Illinois at Urbana-Champaign <br/>
 **Publisher:** Biodiversity Information Standards (TDWG) <br/>
-**Abstract:** All terms in the Darwin Core must be assigned a unique Uniform Resource Identifier (URI). For convenience, the term URIs that are assigned and managed by the Darwin Core Task Group are grouped into collections known as Darwin Core namespaces. This document describes how term URIs are allocated by the Darwin Core Task Group and the policies associated with Darwin Core namespaces.  <br/>
+**Abstract:** All terms in the Darwin Core must be assigned a unique Uniform Resource Identifier (URI). For convenience, the term URIs that are assigned and managed by the Darwin Core Task Group are grouped into collections known as Darwin Core namespaces. This document describes how term URIs are allocated by the Darwin Core Task Group and the policies associated with Darwin Core namespaces. <br/>
 **Citation:** Darwin Core Task Group. 2014. Darwin Core Namespace Policy. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/dwc/terms/namespace/
 
 **Title:** Darwin Core List of Terms <br/>
