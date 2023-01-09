@@ -128,4 +128,10 @@ Nicolson, N., and A. Tucker. 2017. Identifying Novel Features from Specimen Data
 
 Thessen, A.E., Woodburn, M., Koureas, D., Paul, D., Conlon, M., Shorthouse, D.P. and Ramdeen, S., 2019. Proper Attribution for Curation and Maintenance of Research Collections: Metadata Recommendations of the RDA/TDWG Working Group. Data Science Journal, 18(1), p.54. <http://doi.org/10.5334/dsj-2019-054>
 
+Groom, Q., Güntsch, A., Huybrechts, P., Kearney, N., Leachman, S., Nicolson, N., Page, R.D., Shorthouse, D.P., Thessen, A.E. and Haston, E., 2020. People are essential to linking biodiversity data. Database, 2020. <https://doi.org/10.1093/database/baaa072>
+
+Güntsch, A., Groom, Q., Ernst, M., Holetschek, J., Plank, A., Röpert, D., Fichtmüller, D., Shorthouse, D.P., Hyam, R., Dillen, M. and Trekels, M., 2021. A botanical demonstration of the potential of linking data using unique identifiers for people. Plos one, 16(12), p.e0261130. https://doi.org/10.1371/journal.pone.0261130
+
+Groom, Q., Bräuchler, C., Cubey, R., Dillen, M., Huybrechts, P., Kearney, N., Klazenga, N., Leachman, S., Paul, D.L., Rogers, H., Santos, J., Shorthouse, D., Vaughan, A., von Mering, S., Haston, E., 2022. The disambiguation of people names in biological collections. Biodiversity Data Journal. https://doi.org/10.3897/BDJ.10.e86089
+
 [^1]: VIVO is member-supported, open source software and an ontology for representing scholarship.
