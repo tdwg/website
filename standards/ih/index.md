@@ -60,5 +60,3 @@ Note
 
 Citation
 : Holmgren, P. K., N. H. Holmgren, and L. C. Barnett. 1990. Index Herbariorum. Part I: The Herbaria of the World (Regnum Vegetabile, Vol. 120, eighth edition). New York Botanical Gardens. ISBN: 0893273589. <http://rs.tdwg.org/ih/doc/book/>
-
-

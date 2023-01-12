@@ -73,5 +73,3 @@ Note
 
 Citation
 : Brummitt, R. K. and C. E. Powell. 1992. Authors of Plant Names. Kew Publishing. ISBN: 1842460854 <http://rs.tdwg.org/apn/doc/data/1992>
-
-

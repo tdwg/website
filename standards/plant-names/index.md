@@ -66,5 +66,3 @@ Note
 
 Citation
 : TDWG Minimum Standard for Names in Botanical Databases Subgroup (Author: Frank A. Bisby). 1994. Plant Names in Botanical Databases. Hunt Institute for Botanical Documentation. <http://rs.tdwg.org/pnbd/doc/specification/>
-
-

@@ -65,5 +65,3 @@ Abstract
 
 Citation
 : Herbarium Information Systems Committee. 2007. HISPID3 Herbarium Information Standards and Protocols for Interchange of Data. Council of Heads of Australian Herbaria. <http://rs.tdwg.org/hispid/doc/specification/>
-
-

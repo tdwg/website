@@ -67,5 +67,3 @@ Abstract
 
 Citation
 : R. K. Brummitt. 2001. World Geographic Scheme for Recording Plant Distributions, Edition 2. Hunt Institute for Botanical Documentation, Carnegie Mellon University (Pittsburgh). <http://rs.tdwg.org/wgsrpd/doc/data/>
-
-

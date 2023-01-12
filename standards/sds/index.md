@@ -71,4 +71,3 @@ Abstract
 
 Citation
 : Vocabulary Maintenance Specification Task Group. 2017. Standards Documentation Specification. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/sds/doc/specification/>
-

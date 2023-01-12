@@ -78,5 +78,3 @@ Abstract
 
 Citation
 : Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Specification. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/vms/doc/specification/>
-
-

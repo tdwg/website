@@ -447,4 +447,3 @@ Abstract
 
 Citation
 : TDWG Darwin Core Chronometric Age Extension Task Group. 2021. Chronometric Age Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/chrono/2021-04-27>
-

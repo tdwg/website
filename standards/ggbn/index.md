@@ -100,4 +100,3 @@ Bibliographic citation
 ## Background
 
 : The GGBN Data Standard is based on [ABCDDNA](http://www.tdwg.org/standards/640), that has been developed within the DNA Bank Network. The current GGBN Data Standard is a result of further reviews of ABCDDNA done with the [Global Genome Biodiversity Network](http://www.ggbn.org/) community. The stable version 1.0 of the standard can be found at <http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1>
-

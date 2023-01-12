@@ -68,5 +68,3 @@ Note
 
 Citation
 : Cook, Frances E. M. 1995. Economic Botany Data Collection Standard. Prepared for the International Working Group on Taxonomic Databases for Plant Sciences (TDWG) by the Royal Botanic Gardens, Kew. ISBN 0947643710. <http://rs.tdwg.org/ebdc/doc/specification/>
-
-

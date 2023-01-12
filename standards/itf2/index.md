@@ -75,5 +75,3 @@ Note
 
 Citation
 : Wyse Jackson, D., C. Hobson, B. Conn, R. Piacentini, S. Waldren, C. Ward, K. Bailey, P. Wyse Jackson, S. T. Wood, K. Walter. 1998. The International Transfer Format (ITF) for Botanic Garden Plant Records (Version 2). Botanic Gardens Conservation International. <http://rs.tdwg.org/itfbgpr/doc/specification/>
-
-

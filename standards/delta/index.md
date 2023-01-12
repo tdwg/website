@@ -69,5 +69,3 @@ Note
 
 Citation
 : Dallwitz, M. J. and T. A. Paine. 1999 onwards. Definition of the Delta Format. Version: 2005-09-13. <http://delta-intkey.com/>
-
-

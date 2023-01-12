@@ -286,4 +286,3 @@ Abstract
 
 Citation
 : Audubon Core Maintenance Group. 2020. Controlled Vocabulary for Audubon Core variant: List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/ac/doc/variant/2020-10-13>
-

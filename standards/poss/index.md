@@ -60,5 +60,3 @@ Abstract
 
 Citation
 : World Conservation Monitoring Centre. 1995. Plant Occurrence and Status Scheme: A Standard for Recording the Relationship between a Plant and a Place. International Working Group on Taxonomic Databases (TDWG). <http://rs.tdwg.org/poss/doc/specification/>
-
-
