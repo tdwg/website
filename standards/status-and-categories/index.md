@@ -43,4 +43,3 @@ A description of standardized practices and the results of community deliberatio
 ### Data Standard (DS)
 
 Specifies valid values in controlled vocabularies.
-
