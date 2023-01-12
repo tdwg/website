@@ -53,13 +53,13 @@ TAPIR is flexible enough to be used in a wide range of applications. Other examp
 
 ## TAPIR's key features
 
-- integrates well with the Web infrastructure because it is based on established international Web standards like HTTP, XML and XML Schema.
-- is independent of the data being exchanged and therefore can be used to access a wide range of data.
-- can return data in many different formats - search responses are flexible and customizable.
-- includes five operations to cover all necessary aspects for searching and retrieving data in a network: access to metadata (descriptive data) and capabilities of the provider, preliminary data discovery and data mining, searching, and monitoring the data provider service.
-- allows all operations to be invoked through simple Web addresses.
-- supports complex requests.
-- has existing TAPIR wrapper applications including PyWrapper, TapirLink and TapirDotNET.
+: integrates well with the Web infrastructure because it is based on established international Web standards like HTTP, XML and XML Schema.
+: is independent of the data being exchanged and therefore can be used to access a wide range of data.
+: can return data in many different formats - search responses are flexible and customizable.
+: includes five operations to cover all necessary aspects for searching and retrieving data in a network: access to metadata (descriptive data) and capabilities of the provider, preliminary data discovery and data mining, searching, and monitoring the data provider service.
+: allows all operations to be invoked through simple Web addresses.
+: supports complex requests.
+: has existing TAPIR wrapper applications including PyWrapper, TapirLink and TapirDotNET.
 
 ## Resources
 
