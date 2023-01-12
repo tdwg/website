@@ -33,7 +33,7 @@ Abstract
 : TAPIR is a computer protocol designed for discovery, search and retrieval of distributed data over the Internet. TAPIR consists of a specification that determines how client applications seeking information should communicate with server applications hosting data. TAPIR is an approved TDWG standard.
 
 Bibliographic citation
-:  TAPIR Task Group. 2009. TDWG Access Protocol for Information Retrieval (TAPIR). Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/449>
+: TAPIR Task Group. 2009. TDWG Access Protocol for Information Retrieval (TAPIR). Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/449>
 
 ## Motivation
 

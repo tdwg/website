@@ -32,7 +32,7 @@ Abstract
 : The TDWG Vocabulary Maintenance Standard consists of a single document: the Vocabulary Maintenance Specification (<http://rs.tdwg.org/vms/doc/specification/>)and their associated documents.
 
 Bibliographic citation
-:  Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/642>
+: Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/642>
 
 ## Introduction
 

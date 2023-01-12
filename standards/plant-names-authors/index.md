@@ -30,7 +30,7 @@ Abstract
 : An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author.
 
 Bibliographic citation
-:  Brummitt, R. K. and C. E. Powell. 1992. Authors of Plant Names Standard. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/101>
+: Brummitt, R. K. and C. E. Powell. 1992. Authors of Plant Names Standard. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/101>
 
 ## Where is the Brummitt & Powell "Authors of Plant Names" database?
 

@@ -30,7 +30,7 @@ Abstract
 : A book that describes the floristic divisions for the whole world, lists endemic families and genera, and provides examples of endemic species for each province
 
 Bibliographic citation
-:  Takhtajan, A. 1986. Floristic Regions of the World Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/104>
+: Takhtajan, A. 1986. Floristic Regions of the World Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/104>
 
 ## Parts of the standard
 

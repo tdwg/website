@@ -29,7 +29,7 @@ Abstract
 : The Plant Occurrence and Status Scheme (POSS) has been developed to provide standard terms for recording the occurrence of a plant taxon for a specific location. As with all standards, POSS aims to provide both a clear, unambiguous framework for information management, and at the same time provides a mechanism for information exchange. It is worth noting, that although the standard has been developed with the management of plant information in mind, the standard is equally suitable for the management of animal information, although animal movement and migration are not provided for.
 
 Bibliographic citation
-:  World Conservation Monitoring Centre. 1995. Plant Occurrence and Status Scheme: A Standard for Recording the Relationship between a Plant and a Place. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/106>
+: World Conservation Monitoring Centre. 1995. Plant Occurrence and Status Scheme: A Standard for Recording the Relationship between a Plant and a Place. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/106>
 
 ## Parts of the standard
 

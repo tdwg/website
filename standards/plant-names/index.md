@@ -32,7 +32,7 @@ Abstract
 : This standard defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a database. The appendices provide an outline of a preliminary data dictionary illustrating possible elements and their properties. It does not provide a data model or a data format. A data model will be considered at a later date by the TDWG Sub-group considering this standard. Another TDWG Sub-group is preparing XDF (http://www.tdwg.org/standards/108 ), an EXchange Data Format (Allkin & White,1989; White & Allkin, 1992), which provides a language for defining a range of exchange formats for use between taxonomic databases.
 
 Bibliographic citation
-:  TDWG Minimum Standard for Names in Botanical Databases Subgroup. 1995. Plant Names in Botanical Databases. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/106>
+: TDWG Minimum Standard for Names in Botanical Databases Subgroup. 1995. Plant Names in Botanical Databases. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/106>
 
 ## Parts of the standard
 

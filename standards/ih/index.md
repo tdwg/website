@@ -24,7 +24,7 @@ Abstract
 : A guide that records the physical location, holdings, and contact information of the world's herbaria.
 
 Bibliographic citation
-:  Holmgren, P. K., N. H. Holmgren, and L. C. Barnett. 1990. Index Herbariorum Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/105>
+: Holmgren, P. K., N. H. Holmgren, and L. C. Barnett. 1990. Index Herbariorum Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/105>
 
 ## Parts of the standard
 
