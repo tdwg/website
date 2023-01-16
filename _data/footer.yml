@@ -1,14 +1,14 @@
 columns:
   - links:
-    - text: What is TDWG?
+    - text: "What is TDWG?"
       href: /about/
-    - text: Contact us
+    - text: "Contact us"
       href: /about/contact/
-    - text: Privacy policy
+    - text: "Privacy policy"
       href: /about/terms-of-use/#privacy-statement
-    - text: Code of conduct
+    - text: "Code of conduct"
       href: /about/code-of-conduct/
-    - text: Diversity and inclusion statement
+    - text: "Diversity and inclusion statement"
       href: /about/diversity-inclusion/
 
 license: >
