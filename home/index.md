@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home # See _layouts/home.html
 title: Biodiversity Information Standards (TDWG)
 description: >
   We are a non-profit organization and a community dedicated to developing **biodiversity information standards**.
@@ -15,6 +15,9 @@ featured:
   img: https://images.unsplash.com/photo-1492934483476-13c04a66709c
 ---
 
+![TDWG logo](/assets/images/tdwg-logo-long-colour.svg)
+
+{: .lead }
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
 
 To achieve its goals, TDWG:

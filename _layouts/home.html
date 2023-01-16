@@ -12,7 +12,6 @@ remark: See also page.layout == 'home' in head.html and header.html.
   <div class="{% if two_col %}col{% else %}col-md-10 col-lg-8 mx-auto{% endif %}">
     <div class="row">
       <div class="col">
-
         {% if page.featured %}
           <div class="position-relative d-flex rounded bg-light mb-4">
             {% if page.featured.img %}
@@ -23,7 +22,6 @@ remark: See also page.layout == 'home' in head.html and header.html.
               <a class="btn btn-primary btn-sm stretched-link" href="{{ page.featured.href }}">Read more</a>
             </div>
           </div>
-          
         {% endif %}
 
         {{ content }}
