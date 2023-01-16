@@ -1,0 +1,32 @@
+---
+layout: default
+description: Template for list pages.
+---
+
+{{ content }}
+
+{% if page.list and site.data[page.list] %}
+  {% assign list = site.data[page.list] %}
+  <ul class="list-group list-group-flush mb-3">
+    {% for item in list %}
+      <li class="list-group-item">
+        {% if item.label %}
+          <span class="badge bg-secondary rounded-pill">{{ item.label }}</span>
+        {% endif %}
+        <a href="{{ item.href | relative_url }}">{{ item.text }}</a>  
+        {% if item.menu %}
+          <ul class="list-unstyled ps-4">
+            {% for subitem in item.menu %}
+              <li>
+                {% if subitem.label %}
+                  <span class="badge bg-primary rounded-pill" alt="Task Group">TG</span>
+                {% endif %}
+                <a href="{{ subitem.href | relative_url }}">{{ subitem.text }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

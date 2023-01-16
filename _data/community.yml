@@ -1,0 +1,128 @@
+# List of TDWG Interest Groups and Task Groups, used in community/index.md
+
+- text: "Access to Biological Collections Data"
+  href: /community/abcd/
+  label: MG
+- text: "Annotations"
+  href: /community/annotations/
+  label: IG
+- text: "Attribution"
+  href: /community/attribution/
+  label: IG
+  menu:
+  - text: "People in Biodiversity Data"
+    href: /community/attribution/people/
+    label: TG
+- text: "Audubon Core"
+  href: /community/ac/
+  label: MG
+  menu:
+  - text: "AC - 3D Imagery and Data"
+    href: /community/ac/3d/
+    label: TG
+  - text: "AC - Views Controlled Vocabularies"
+    href: /community/ac/views/
+    label: TG
+- text: "Biodiversity Data Quality"
+  href: /community/bdq/
+  label: IG
+  menu:
+  - text: "Framework on data quality"
+    href: /community/bdq/tg-1/
+    label: TG
+  - text: "Data quality tests and assertions"
+    href: /community/bdq/tg-2/
+    label: TG
+  - text: "Data quality use cases"
+    href: /community/bdq/tg-3/
+    label: TG
+  - text: "Best practices for development of vocabularies of values (\"Vocabularies\")"
+    href: /community/bdq/tg-4/
+    label: TG
+- text: "Biodiversity Informatics Curriculum"
+  href: /community/curriculum/
+  label: IG
+- text: "Biodiversity Services and Clients"
+  href: /community/services/
+  label: IG
+- text: "Biological Interactions Data"
+  href: /community/interaction/
+  label: IG
+- text: "Citizen Science"
+  href: /community/citizen-science/
+  label: IG
+- text: "Collection Descriptions"
+  href: /community/cd/
+  label: IG
+  menu:
+  - text: "Minimum Information about a Digital Specimen (MIDS)"
+    label: TG
+    href: /community/cd/mids/
+- text: "Darwin Core"
+  href: /community/dwc/
+  label: MG
+- text: "Earth Sciences and Paleobiology"
+  href: /community/esp/
+  label: IG
+  menu:
+  - text: "Darwin Core Chronometric Age Extension"
+    href: /community/esp/chrono/
+    label: TG
+  - text: "Extension for Geosciences (EFG)"
+    href: /community/esp/efg/
+    label: TG
+  - text: "Mineralogy Extension"
+    href: /community/esp/mineralogy/
+    label: TG
+- text: "Genomic Biodiversity"
+  href: /community/gbwg/
+  label: IG
+  menu:
+  - text: "GBWG - Environmental Samples and eDNA"
+    href: /community/gbwg/enviro/
+    label: TG
+  - text: "GBWG - Sustainable DarwinCore MIxS Interoperability"
+    href: /community/gbwg/MIxS/
+    label: TG
+- text: "Geographical Schemes"
+  href: /community/geoschemes/
+  label: IG
+- text: "Machine Observations"
+  href: /community/mobs/
+  label: IG
+- text: "Observations & Specimens"
+  href: /community/osr/
+  label: IG
+  menu:
+  - text: "How Did It Die?"
+    href: /community/osr/how-did-it-die/
+    label: TG
+  - text: "Humboldt Extension"
+    href: /community/osr/humboldt-extension/
+    label: TG
+  - text: "Material Sample"
+    href: /community/osr/material-sample/
+    label: TG
+  - text: "Phenology"
+    href: /community/osr/phenology/
+    label: TG
+- text: "Process"
+  href: /community/process/
+  label: IG
+- text: "Species Information"
+  href: /community/species/
+  label: IG
+  menu:
+  - text: "Invasive Organism Information"
+    href: /community/species/invasive-organisms/
+    label: TG
+  - text: "Plinian Core"
+    href: /community/species/plinian-core/
+    label: TG
+- text: "Taxonomic Concept Schema (TCS) Maintenance Group"
+  href: /community/tnc/
+  label: MG
+  menu:
+  - text: "Taxonomic Concept Schema (TCS2) Task Group"
+    href: /community/tnc/tcs2/
+    label: TG
