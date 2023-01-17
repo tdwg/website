@@ -8,8 +8,8 @@ tags: dwc, wgsrpd, ac
 status: hidden
 url: index.html
 save_as: index.html
-template: page_home
-alert_title: TDWG 2023 in Hobart TAS Australia: save the date! 
+template: page_home 
+alert_title: TDWG 2023 in Hobart, TAS, Australia. Save the date!
 alert_text: TDWG 2023 will be held in Hobart, Tasmania, Australia, 9-13 October. 
 alert_button: 
 alert_link: 
