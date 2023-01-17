@@ -9,12 +9,12 @@ status: hidden
 url: index.html
 save_as: index.html
 template: page_home
-alert_title: Audubon Core open public comment 
-alert_text: Until 7 December for subjectPart and subjectOrientation controlled vocabularies 
-alert_button: See News item
-alert_link: https://tdwg.org/news/2022/audubon-core-controlled-vocabularies-for-views/
-alert_image: https://images.unsplash.com/photo-1492934483476-13c04a66709c
-alert_image_by: Kawin Harasai on Unsplash
+alert_title: TDWG 2023 in Hobart TAS Australia: save the date! 
+alert_text: TDWG 2023 will be held in Hobart, Tasmania, Australia, 9-13 October. 
+alert_button: 
+alert_link: 
+alert_image: https://images.unsplash.com/photo-1663121198046-232685218db3
+alert_image_by: Nico Smit https://unsplash.com/@nicosmit99
 newsletter_title: Keep up to date with TDWG
 newsletter_text: Sign up to receive all important TDWG announcements.
 newsletter_button: Subscribe to our Announcements List
