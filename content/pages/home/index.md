@@ -11,7 +11,7 @@ save_as: index.html
 template: page_home 
 alert_title: TDWG 2023 in Hobart, TAS, Australia. Save the date!
 alert_text: TDWG 2023 will be held in Hobart, Tasmania, Australia, 9-13 October. 
-alert_button: 
+alert_button: More info coming soon
 alert_link: 
 alert_image: https://images.unsplash.com/photo-1663121198046-232685218db3
 alert_image_by: Nico Smit on UnSplash
