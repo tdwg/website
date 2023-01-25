@@ -38,7 +38,7 @@ Head south of the equator in 2023 to Hobart, Tasmania for the TDWG 2023 Conferen
 
 Situated on the Hobart waterfront, home to the finishers of the annual Sydney to Hobart Regatta, the Hobart Conference Center is the ideal place to interact in person with colleagues about biodiversity data standards, or remotely if you are unable to travel. TDWG 2023 will again be a hybrid conference, encouraging our diverse community to engage and promote the important work of Biodiversity Information Standards (TDWG).
 
-[Explore](https://www.youtube.com/watch?v=viaupwLSgTQ) Hobart and the wonderful pre- and post conference travel, food, entertainment and wildlife options that Tasmania, Australia has to offer! More information is available on the [Hobart Travel Centre](https://www.hobarttravelcentre.com.au/) website.
+Explore Hobart and the wonderful pre- and post conference travel, food, entertainment and wildlife options that Tasmania, Australia has to offer! More information is available on the [Hobart Travel Centre](https://www.hobarttravelcentre.com.au/) website.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viaupwLSgTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
