@@ -23,7 +23,7 @@ Term of office shown as span of calendar years, inclusive.
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Chair | [Elycia (Ely) Wallis](./backgrounds/#deputy%20chair_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Melbourne, Australia | 2023-2024
-Deputy Chair | David Bloom  [✉️](mailto:david.bloom@vertnet.org) | VertNet, Berkeley, CA, USA | 2023-2024
+Deputy Chair | David Bloom  [✉️](mailto:dbloom@vertnet.org) | VertNet, Berkeley, CA, USA | 2023-2024
 Secretary | Visotheary Ung [✉️](mailto:secretary@tdwg.org) | Muséum National d'Histoire Naturelle, Paris, France | 2023-2024
 Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2022-2023
 
