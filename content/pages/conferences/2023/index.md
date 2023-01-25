@@ -16,12 +16,12 @@ On the Hobart Waterfront!
 1 Elizabeth Street Pier, Hobart, Tasmania 7000
 
 
-### Hosts:
+### Hosts
 
   - Atlas of Living Australia ([ALA](https://www.ala.org.au/))
   - National Research Collections Australia ([NRCA](https://www.csiro.au/en/about/facilities-collections/collections))
 
-### About the Conference:
+### About the Conference
 
 Head south of the equator in 2023 to Hobart, Tasmania for the TDWG 2023 Conference! ALA and NRCA welcome you to Australia!
 
@@ -29,5 +29,5 @@ Situated on the Hobart waterfront, home to the finishers of the annual Sydney to
 
 [Explore](https://www.youtube.com/watch?v=viaupwLSgTQ) Hobart and the wonderful pre- and post conference travel, food, entertainment and wildlife options that Tasmania, Australia has to offer! More information is available on the [Hobart Travel Centre](https://www.hobarttravelcentre.com.au/) website.
 
-### Visa Information:
+### Visa Information
 Please be aware Australia has specific visa requirements. Please plan ahead and budget for visa costs and documentation needs. See the [Australian Department of Home Affairs, Immigration and Citizenship](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-finder) website for more information.
