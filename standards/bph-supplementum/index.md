@@ -1,6 +1,7 @@
 ---
 title: Botanico-Periodicum-Huntianum/Supplementum
 github: https://github.com/tdwg/prior-standards/tree/master/botanico-periodicum-huntianum-supplementum
+toc: true
 ---
 
 ## Header section
@@ -23,7 +24,7 @@ Status
 Abstract
 : An index of botanical publications and a supplement to Botanico-periodicum-huntianum.
 
-Bibliographic citation
+Citation
 : Bridson, G. D. R. and E. R. Smith. 1991. Botanico-Periodicum-Huntianum/Supplementum Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/114>
 
 ## Parts of the standard

@@ -7,6 +7,7 @@ background:
   by: Lukasz Szmigiel
   href: https://unsplash.com/photos/VJfDk7oJflE
 website: http://terms.tdwg.org/GGBN_Data_Standard
+toc: true
 ---
 
 ## Header section
@@ -94,7 +95,7 @@ Contributors
 Creator
 : [Global Genome Biodiversity Network (GGBN)](http://www.ggbn.org/)
 
-Bibliographic citation
+Citation
 : Droege et al. (2016) The Global Genome Biodiversity Network (GGBN) Data Standard specification. Database. <https://doi.org/10.1093/database/baw125>
 
 ## Background

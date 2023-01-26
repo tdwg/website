@@ -7,7 +7,9 @@ background:
   by: Lysander Yuen
   href: https://unsplash.com/photos/wk833OrQLJE
 github: https://github.com/tdwg/vocab/tree/master/sds
+toc: true
 ---
+
 ## Header section
 
 Title
@@ -31,7 +33,7 @@ Category
 Abstract
 : The TDWG Standards Documentation Standard consists of a single document: the Standards Documentation Specification. That document defines how TDWG standards are to be presented. It provides details about the hierarchical structure of standards and versioning of standards components. It specifies how the properties of standards and their components are to be described in human-readable and machine-readable terms.
 
-Bibliographic citation
+Citation
 : Vocabulary Maintenance Specification Task Group. 2017. Standards Documentation Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/147>
 
 ## Parts of the standard

@@ -7,7 +7,9 @@ background:
   by: Micheile Henderson
   href: https://unsplash.com/photos/DV4lEwcj774
 github: https://github.com/tdwg/prior-standards/tree/master/plant-names-in-botanical-databases
+toc: true
 ---
+
 ## Header section
 
 Title
@@ -31,7 +33,7 @@ Category
 Abstract
 : This standard defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a database. The appendices provide an outline of a preliminary data dictionary illustrating possible elements and their properties. It does not provide a data model or a data format. A data model will be considered at a later date by the TDWG Sub-group considering this standard. Another TDWG Sub-group is preparing XDF (http://www.tdwg.org/standards/108 ), an EXchange Data Format (Allkin & White,1989; White & Allkin, 1992), which provides a language for defining a range of exchange formats for use between taxonomic databases.
 
-Bibliographic citation
+Citation
 : TDWG Minimum Standard for Names in Botanical Databases Subgroup. 1995. Plant Names in Botanical Databases. International Working Group on Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/106>
 
 ## Parts of the standard

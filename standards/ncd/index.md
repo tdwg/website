@@ -7,6 +7,7 @@ background:
   by: Curtis MacNewton
   href: https://unsplash.com/photos/35_O336NNOo
 github: https://github.com/tdwg/ncd
+toc: true
 ---
 
 {: .alert .alert-warning }
@@ -14,7 +15,6 @@ NCD is a draft standard that was submitted for ratification in 2008. Personnel c
 
 ## Header section
 
-### Natural Collections Descriptions (NCD)
 
 Title
 : Natural Collections Descriptions (NCD)
@@ -37,5 +37,5 @@ Abstract
 Creator
 : Natural Collections Descriptions interest group, [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
 
-Bibliographic citation
+Citation
 : Natural Collections Descriptions interest group (2008_ Natural Collections Descriptions (NCD), version 2008-08-12. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/312>

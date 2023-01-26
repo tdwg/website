@@ -8,6 +8,7 @@ background:
   href: https://unsplash.com/photos/aIYFR0vbADk
 github: https://github.com/tdwg/delta
 website: http://www.delta-intkey.com/
+toc: true
 ---
 
 ## Header section
@@ -33,7 +34,7 @@ Category
 Abstract
 : When taxonomic descriptions are prepared for input to computer programs, the form of the coding is usually dictated by the requirements of a particular program or set of programs. This restricts the type of data that can be represented, and the number of other programs that can use the data. Even when working with a particular program, it is frequently necessary to set up different versions of the same basic data, for example, when using restricted sets of taxa or characters to make special-purpose keys. The potential advantages of automation, especially in connexion with large groups, cannot be realized if the data have to be restructured by hand for every operation. The DELTA (DEscription Language for TAxonomy) system was developed to overcome these problems. It was designed primarily for easy use by people rather than for convenience in computer programming, and is versatile enough to replace the written description as the primary means of recording data. Consequently, it can be used as a shorthand method of recording data, even if computer processing of the data is not envisaged.
 
-Bibliographic citation
+Citation
 : Dallwitz, M. J. 2006. Description Language for Taxonomy (DELTA) Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/107>
 
 ## Parts of the standard

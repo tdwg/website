@@ -7,6 +7,7 @@ background:
   by: Sergei Akulich
   href: https://unsplash.com/photos/-heLWtuAN3c
 github: https://github.com/tdwg/prior-standards/tree/master/floristic-regions-of-the-world
+toc: true
 ---
 
 ## Header section
@@ -29,7 +30,7 @@ Status
 Abstract
 : A book that describes the floristic divisions for the whole world, lists endemic families and genera, and provides examples of endemic species for each province
 
-Bibliographic citation
+Citation
 : Takhtajan, A. 1986. Floristic Regions of the World Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/104>
 
 ## Parts of the standard
@@ -66,5 +67,3 @@ Note
 
 Citation
 : Takhtajan, A. L. 1986. Floristic Regions of the World. University of California Press. Berkeley, Los Angeles, London. xxii, 522 pp., 4 maps. ISBN 0520040279. <http://rs.tdwg.org/frw/doc/book/>
-
-

@@ -2,7 +2,9 @@
 title: "Index Herbariorum. Part I: The Herbaria of the World"
 github: https://github.com/tdwg/prior-standards/tree/master/index-herbariorum-part-i
 website: http://sweetgum.nybg.org/science/ih/
+toc: true
 ---
+
 ## Header section
 
 Title
@@ -23,7 +25,7 @@ Status
 Abstract
 : A guide that records the physical location, holdings, and contact information of the world's herbaria.
 
-Bibliographic citation
+Citation
 : Holmgren, P. K., N. H. Holmgren, and L. C. Barnett. 1990. Index Herbariorum Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/105>
 
 ## Parts of the standard

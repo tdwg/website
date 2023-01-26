@@ -1,5 +1,6 @@
 ---
 title: Standards Status and Categories
+toc: true
 ---
 
 {: id="status" }

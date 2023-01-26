@@ -7,7 +7,9 @@ background:
   by: Igor Ovsyannykov
   href: https://unsplash.com/photos/VkFhaQHVcE4
 github: https://github.com/tdwg/vocab/tree/master/vms
+toc: true
 ---
+
 ## Header section
 
 Title
@@ -31,7 +33,7 @@ Category
 Abstract
 : The TDWG Vocabulary Maintenance Standard consists of a single document: the Vocabulary Maintenance Specification (<http://rs.tdwg.org/vms/doc/specification/>)and their associated documents.
 
-Bibliographic citation
+Citation
 : Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/642>
 
 ## Introduction

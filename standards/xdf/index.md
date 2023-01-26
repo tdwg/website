@@ -1,7 +1,9 @@
 ---
 title: XDF - A Language for the Definition and Exchange of Biological Data Sets
 github: https://github.com/tdwg/prior-standards/tree/master/xdf
+toc: true
 ---
+
 ## Header section
 
 Title
@@ -22,7 +24,7 @@ Status
 Abstract
 : A database file exchange medium to handle diverse classes of biological data required for file transfers between different database projects
 
-Bibliographic citation
+Citation
 : TDWG XDF Subgroup. 1992. Exchange Data Format (XDF) Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/108>
 
 ## Parts of the standard
