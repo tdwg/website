@@ -1,7 +1,7 @@
 ---
 title: GUID and Life Sciences Identifiers Applicability Statements
 description: >
-  The Global Unique Identifiers (GUID) applicability statements consist of an applicability statement on the use of GUIDs for the biodiversity information community in general ([Richards 2010]({static}tdwg_guid_applicability_statement.pdf)) and the use of Life Science Identifiers (LSID) in specific ([Pereira et al. 2009]({static}tdwg_lsid_applicability_statement.pdf)).
+  The Global Unique Identifiers (GUID) applicability statements consist of an applicability statement on the use of GUIDs for the biodiversity information community in general (Richards 2010) and the use of Life Science Identifiers (LSID) in specific (Pereira et al. 2009).
 background:
   img: https://c2.staticflickr.com/4/3516/3701836175_5567871dc6_o.jpg
   by: Erik de Vos
