@@ -4,44 +4,35 @@ background:
   img: https://images.unsplash.com/photo-1489718678210-21984261b4f3
   by: Boris Smokrovic
   href: https://unsplash.com/photos/VmCPfSU_84A
-tags: [interest group]
 github: https://github.com/tdwg/interaction
+toc: true
 ---
 
 ## Conveners
 
-[Antonio Mauro Saraiva](mailto:saraiva@usp.br)  
-Full Professor, Universidade de São Paulo, Escola Politécnica  
-Research Center on Biodiversity and Computing - BioComp. USP  
-Av. Prof. Luciano Gualberto, travessa 3, nº 158, sala C2-56, São Paulo, Brazil
-
-[Jen Hammock](mailto:hammockj@si.edu)  
-Project Manager, Encyclopedia of Life, Smithsonian  
-National Museum of Natural History, MRC #106  
-10th St. & Constitution Ave. NW, Washington, D.C. 20560, USA  
+- [Antonio Mauro Saraiva](mailto:saraiva@usp.br) - Universidade de São Paulo, Escola Politécnica, Research Center on Biodiversity and Computing, São Paulo, Brazil
+- [Jen Hammock](mailto:hammockj@si.edu) - Encyclopedia of Life, Smithsonian National Museum of Natural History, Washington DC, USA
 
 ## Core members
 
-Name | Affiliation
---- | ---
-Anne Thessen | Oregon State University
-Annie Simpson | U.S. Geological Survey
-Antonio Mauro Saraiva | Universidade de São Paulo
-Chris Mungall | Lawrence Berkeley Laboratory
-Dmitry Schigel | GBIF Secretariat
-Ely Wallis | Atlas of Living Australia
-Francisco Pando | Real Jardín Botánico, CSIC
-Jennifer Hammock | Encyclopedia of Life, Smithsonian Institution
-John Wieczorek | University of California, Berkeley
-Jorrit Poelen | Global Biotic Interactions
-José Augusto Salim | Universidade de São Paulo
-Juliana Saragiotto Silva | Instituto Federal de Mato Grosso
-Katja Schulz | Smithsonian Institution
-Lydia Buntrock | (last: Institute of Molecular Parasitology, HU Berlin)
-Prabha Prabhakar | Strand Life Sciences
-Quentin Groom | Meise Botanic Garden 
-Remy Jomier | Service du Patrimoine Naturel
-Willem Coetzer | South African Institute for Aquatic Biodiversity
+- Anne Thessen - Oregon State University, USA
+- Annie Simpson - U.S. Geological Survey, USA
+- Antonio Mauro Saraiva - Universidade de São Paulo, Brazil
+- Chris Mungall - Lawrence Berkeley Laboratory, USA
+- Dmitry Schigel - GBIF Secretariat, Denmark
+- Ely Wallis - Atlas of Living Australia, Australia
+- Francisco Pando - Real Jardín Botánico, CSIC, Spain
+- Jennifer Hammock - Encyclopedia of Life, Smithsonian Institution, USA
+- John Wieczorek - University of California, Berkeley, USA
+- Jorrit Poelen - Global Biotic Interactions, Netherlands
+- José Augusto Salim - Universidade de São Paulo, Brazil
+- Juliana Saragiotto Silva - Instituto Federal de Mato Grosso, Brazil
+- Katja Schulz - Smithsonian Institution, USA
+- Lydia Buntrock - (last: Institute of Molecular Parasitology, HU Berlin, Germany)
+- Prabha Prabhakar - Strand Life Sciences
+- Quentin Groom - Meise Botanic Garden, Belgium
+- Remy Jomier - Service du Patrimoine Naturel, France
+- Willem Coetzer - South African Institute for Aquatic Biodiversity, South Africa
 
 ## Summary
 
@@ -52,14 +43,15 @@ Despite of their importance, a very limited amount of biological interaction dat
 Therefore, in this Interest Group we want to discuss, formalize and develop a common background to help standardize biological interaction data in the Biodiversity Informatics community, avoiding duplication of efforts, sharing knowledge and solutions. Our final aim is to promote digitization, sharing, aggregation and, ultimately, a wide use of biological interaction data.
 
 ## Becoming involved
- 
-During the 2016 TDWG Conference, in Santa Clara de San Carlos, Costa Rica, a group of people has gathered to start discussing this issue under the TDWG umbrella. We, now, propose the creation of an Interest Group on Biological Data Interactions where this topic can be discussed within the broader biodiversity informatics community. 
-All interested parties are encouraged to become involved with the Interest Group or specific Task Groups it may convene in the future. Membership of the group is open. If you work with biological interaction data at any level, whether digitization, publication, aggregation or analysis, and you would like to be able to universally share and benefit from all advantages which a data standard can provide, you are welcome to join the Biological Interaction Data Interest Group. 
- 
-Please contact the convenors or any core member about how to become involved. 
- 
-The TDWG process requires that any new Task Group be launched through an Interest Group. The Biological Interaction Data Interest Group can facilitate establishment of new Task Groups that relate to this topic. Please contact the convenor to discuss potential projects or join existing Task Groups. 
- 
+
+During the 2016 TDWG Conference, in Santa Clara de San Carlos, Costa Rica, a group of people has gathered to start discussing this issue under the TDWG umbrella. We, now, propose the creation of an Interest Group on Biological Data Interactions where this topic can be discussed within the broader biodiversity informatics community.
+
+All interested parties are encouraged to become involved with the Interest Group or specific Task Groups it may convene in the future. Membership of the group is open. If you work with biological interaction data at any level, whether digitization, publication, aggregation or analysis, and you would like to be able to universally share and benefit from all advantages which a data standard can provide, you are welcome to join the Biological Interaction Data Interest Group.
+
+Please contact the convenors or any core member about how to become involved.
+
+The TDWG process requires that any new Task Group be launched through an Interest Group. The Biological Interaction Data Interest Group can facilitate establishment of new Task Groups that relate to this topic. Please contact the convenor to discuss potential projects or join existing Task Groups.
+
 ## Resources
 
 <https://github.com/tdwg/interaction>

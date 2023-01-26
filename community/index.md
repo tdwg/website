@@ -66,7 +66,7 @@ list:
   - label: TG
     href: /community/gbwg/enviro/
   - label: TG
-    href: /community/gbwg/MIxS/
+    href: /community/gbwg/mixs/
 - label: IG
   href: /community/geoschemes/ 
 - label: IG

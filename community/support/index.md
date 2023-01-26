@@ -4,11 +4,12 @@ background:
   img: https://images.unsplash.com/photo-1513149739851-50f01dfcbd9a
   by: Marion Michele
   href: https://unsplash.com/photos/jqTSl68betY
+toc: true
 ---
 
 ## What is the TDWG Community Support Fund?
 
-TDWG [Interest (IG) and Task (TG) Groups](/community/#interest-group) are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of IG/TGs by contributing to the costs of convening one or two working meetings.
+TDWG [Interest (IG) and Task (TG) Groups](/community/) are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of IG/TGs by contributing to the costs of convening one or two working meetings.
 
 ## What does the TDWG CSF cover?
 
@@ -20,7 +21,7 @@ TDWG [Interest (IG) and Task (TG) Groups](/community/#interest-group) are the or
 
 TDWG IG/TG conveners may apply for funds to (co-)organize IG/TG working meetings.
 
-Please be aware that proposals from Groups that have a current annual report will be given preference. A [guide to reporting](../management/guide-to-reporting) and a template for IG/TG annual reports (as [GoogleDoc](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) or in [Markdown](../management/annual-report-template/). (See [Responsibilities of conveners](../management) for a more comprehensive enumeration of responsibilities.)  
+Please be aware that proposals from Groups that have a current annual report will be given preference. A [guide to reporting](/community/management/guide-to-reporting) and a template for IG/TG annual reports (as [GoogleDoc](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) or in [Markdown](https://github.com/tdwg/website/blob/master/assets/documents/annual-report-template.md)). See [Responsibilities of conveners](/community/management/) for a more comprehensive enumeration of responsibilities.
 
 ## Call frequency
 

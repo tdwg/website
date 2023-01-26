@@ -1,29 +1,27 @@
 ---
 title: Machine Observations
-description:  >
+description: >
   The intention of the Machine Observations Interest Group is to discuss and document common approaches to the modelling, exchange and publication of biodiversity data derived from sensors.
 background:
   img: https://images.unsplash.com/photo-1538546904280-6c5918bc6690
   by: Michael Librizzi
   href: https://unsplash.com/photos/byEkN2obUSA
-tags: [interest group]
 github: https://github.com/tdwg/dwc-for-biologging
+toc: true
 ---
-
-# Machine Observations Interest Group
 
 ## Convenor
 
-- Peggy Newman - Atlas of Living Australia
+- Peggy Newman - Atlas of Living Australia, Australia
 
 ## Core Members
 
-- Abigail Benson - USGS, OBIS-USA
-- Holger Dettki - Swedish LifeWatch
-- Jonathan Pye - Ocean Tracking Network (jonpye@gmail.com)
-- Peter Desmet - Research Institute for Nature and Forest (INBO)
-- Ian Jonsen - Macquarie University (ian.jonsen@mq.edu.au)
-- Sarah Davidson - Max Planck Institute for Ornithology, Ohio State University, Movebank (sdavidson@orn.mpg.de)
+- Abigail Benson - USGS, OBIS-USA, USA
+- Holger Dettki - Swedish LifeWatch, Sweden
+- [Jonathan Pye](jonpye@gmail.com) - Ocean Tracking Network, Canada
+- Peter Desmet - Research Institute for Nature and Forest (INBO), Belgium
+- [Ian Jonsen](ian.jonsen@mq.edu.au) - Macquarie University, Australia
+- [Sarah Davidson](sdavidson@orn.mpg.de) - Max Planck Institute for Ornithology, Ohio State University, USA
 
 ## Motivation
 
@@ -34,16 +32,14 @@ For biodiversity records generated from sensors, operation and deployment inform
 This group is formed with three main purposes:
 
 1. To oversee Task Groups that document common approaches for data exchange formats for machine observations. This group was formed in the first instance to oversee a task to establish and recommend a consistent and systematic approach to applying Darwin Core (DwC) to bio-logging data because biodiversity repositories seek recommendations on the use of standards to support data publication and extraction workflows.
-
 2. To provide a point of contact and facilitate discussion on modelling machine observation scenarios such as biologging and camera traps and others that may arise in the TDWG community. As we work on modelling several different bio-logging scenarios, there are some obvious similarities between modelling bio-logging data and standards developed for camera traps, which also implement the same animal-sensor-deployment major entities. This group provides a point of contact and focus for examining those similarities and any others that may arise in the use of sensors for animal monitoring. Developments within the group should consider congruence with pre-existing geospatial and sensor standards. 
-
 3. To provide a point of contact and facilitate discussion on publishing machine observations in biodiversity infrastructures. Currently these types of data tend to be housed outside the occurrence-based frameworks that have been built with human observations and specimens in focus, leaving them undiscoverable and left out of the larger biodiversity record.
 
-## Becoming Involved
+## Becoming involved
 
 All practitioners are invited to share rationales for mapping their study activities into DwC or other biodiversity standards as appropriate, and to put forward their own example mappings, especially when using novel methods and/or technologies. The IG wiki will serve as an umbrella repository under which task groups can convene to produce and collate example mappings within the various domains of Machine Observations. The wiki will also provide a sounding board for the broader community to review and revise these example mappings and provide a guidepost for the community.
 
-## History/Context
+## History and context
 
 This group’s history is brief, just a recognition by the above group of mainly bio-loggers that there may be other groups working on similar issues in a sensor-animal-deployment paradigm.
 
@@ -54,5 +50,5 @@ This IG recognizes that there are growing independent communities that rely on v
 ## Resources
 
 - [Darwin Core for biologging repository](https://github.com/tdwg/dwc-for-biologging)
-- IOC report on the IODE/OBIS-Event-Data workshop on animal tagging and tracking, 23-26 April 2018, Oostende, Belgium [http://iobis.org/2018/05/18/att/](http://iobis.org/2018/05/18/att/)
-- International Biologging Conference Data Standardization Workshop (September 2017): [https://www.bio-logging.net/#news](https://www.bio-logging.net/#news)
+- IOC report on the IODE/OBIS-Event-Data workshop on animal tagging and tracking, 23-26 April 2018, Oostende, Belgium <http://iobis.org/2018/05/18/att/>
+- International Biologging Conference Data Standardization Workshop (September 2017): <https://www.bio-logging.net/#news>

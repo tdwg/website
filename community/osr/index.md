@@ -1,25 +1,27 @@
 ---
+layout: list
 title: Observations & Specimens
 background:
   img: https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6
   by: Chris Lawton
   href: https://unsplash.com/photos/5IHz5WhosQE
-tags: [interest group]
+toc: true
+list:
+- label: TG
+  href: /community/osr/how-did-it-die/
+- label: TG
+  href: /community/osr/humboldt-extension/
+- label: TG
+  href: /community/osr/material-sample/
+- label: TG
+  href: /community/osr/phenology/
 ---
-
-<!-- Copied from http://www.tdwg.org/activities/osr/ -->
 
 ## Convenor
 
-[Quentin Groom](quentin.groom@plantentuinmeise.be)
-Meise Botanic Garden, Belgium
+- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden, Belgium
 
-Former Convenor 
-[Steve Kelling](mailto:stk2@cornell.edu)  
-Cornell Lab of Ornithology  
-Cornell University  
-158 Sapsucker Woods Rd.  
-Ithaca NY 14850, USA  
+Former convenor: Steve Kellin
 
 ## Summary
 
@@ -27,13 +29,17 @@ Most primary biodiversity data is based on observational data, which consists of
 
 ## Becoming involved
 
-* Anyone with and interest in organizing observational and specimen data can be involved.
-* Contact Quentin Groom (quentin.groom@plantentuinmeise.be)
+- Anyone with and interest in organizing observational and specimen data can be involved.
+- Contact [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be)
 
 ## Resources
 
-* [Access to Biological Collections Data (ABCD) Task Group Website](http://www.tdwg.org/activities/abcd/)
-* [Darwin Core Task Group Website](http://www.tdwg.org/activities/darwincore/)
-* [Observational Data Task Group Wiki](http://wiki.tdwg.org/Observational/)
-* [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/)
-* [OSR How Did It Die](https://www.tdwg.org/community/osr/how-did-it-die/)
+- [Access to Biological Collections Data (ABCD) Task Group Website](http://www.tdwg.org/activities/abcd/)
+- [Darwin Core Task Group Website](http://www.tdwg.org/activities/darwincore/)
+- [Observational Data Task Group Wiki](http://wiki.tdwg.org/Observational/)
+- [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/)
+- [OSR How Did It Die](https://www.tdwg.org/community/osr/how-did-it-die/)
+
+## Task groups
+
+<!-- list will be inserted below content -->
