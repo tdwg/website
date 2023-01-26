@@ -1,5 +1,6 @@
 ---
 title: Standards Status and Categories
+toc: true
 ---
 
 {: id="status" }
@@ -43,4 +44,3 @@ A description of standardized practices and the results of community deliberatio
 ### Data Standard (DS)
 
 Specifies valid values in controlled vocabularies.
-
