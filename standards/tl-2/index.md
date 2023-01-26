@@ -31,7 +31,7 @@ Status
 Abstract
 : TL-2 is the premier publication of the International Association for Plant Taxonomy (IAPT, <https://www.iaptglobal.org/>) and its online version (<http://www.sil.si.edu/DigitalCollections/tl-2/>) was made possible by the generous cooperation of the IAPT. In its print form, TL-2 is a 15 volume guide to the literature of systematic botany published between 1753 and 1940. It is organized by author and includes numbered entries for the author's publications. Suggested abbreviations for use in taxonomic publications are provided: abbreviations for the author's name, short titles and abbreviations of the short titles for publications. TL-2 is the standard by which authors' names and titles should be abbreviated.
 
-Bibliographic citation
+Citation
 : International Association for Plant Taxonomy. 1976. Taxonomic Literature Standard. IUBS Commission for Plant Taxonomic Databases (TDWG) <http://www.tdwg.org/standards/111>
 
 ## Parts of the standard

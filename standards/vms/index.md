@@ -7,6 +7,7 @@ background:
   by: Igor Ovsyannykov
   href: https://unsplash.com/photos/VkFhaQHVcE4
 github: https://github.com/tdwg/vocab/tree/master/vms
+toc: true
 ---
 
 ## Header section
@@ -18,26 +19,26 @@ Permanent IRI (for citations and links)
 : <http://www.tdwg.org/standards/642>
 
 Publisher
-: [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
+: Biodiversity Information Standards (TDWG)
 
 Ratified
 : 2017-04-25
 
 Status
-: [Current standard](https://www.tdwg.org/standards/status-and-categories/)
+: [Current standard](/standards/status-and-categories/#status)
 
 Category
-: [Best current practice](https://www.tdwg.org/standards/status-and-categories/#categories%20of%20tdwg%20standards_1)
+: [Best current practice](/standards/status-and-categories/#category)
 
 Abstract
-: The TDWG Vocabulary Maintenance Standard consists of a single document: the Vocabulary Maintenance Specification (http://rs.tdwg.org/vms/doc/specification/ )and their associated documents.
+: The TDWG Vocabulary Maintenance Standard consists of a single document: the Vocabulary Maintenance Specification (<http://rs.tdwg.org/vms/doc/specification/>)and their associated documents.
 
-Bibliographic citation
-: > Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Standard. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/642
+Citation
+: Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Standard. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/642>
 
 ## Introduction
 
-TDWG vocabularies are a collection of standardized terms and their definitions. Vocabulary standards differ from other Biodiversity Information Standards (TDWG) standards in that they are likely to change more often over time as they evolve to meet the changing needs of the biodiversity informatics community. These changes may be incremental, making it impractical to apply the full [TDWG standards process](../../about/process) to every change. The TDWG Vocabulary Maintenance Specification details the categories of changes that can be made to a TDWG vocabulary standard, the mechanisms used to achieve those changes, and the entities that are responsible for shepherding those changes through the process.
+TDWG vocabularies are a collection of standardized terms and their definitions. Vocabulary standards differ from other Biodiversity Information Standards (TDWG) standards in that they are likely to change more often over time as they evolve to meet the changing needs of the biodiversity informatics community. These changes may be incremental, making it impractical to apply the full [TDWG standards process](/about/process) to every change. The TDWG Vocabulary Maintenance Specification details the categories of changes that can be made to a TDWG vocabulary standard, the mechanisms used to achieve those changes, and the entities that are responsible for shepherding those changes through the process.
 
 ## Audience
 
@@ -47,22 +48,35 @@ This standard is intended for those who are involved in making changes to TDWG v
 
 This standard is comprised of one document.
 
-Documents:
+### Vocabulary Maintenance Specification
 
-**Title:** Vocabulary Maintenance Specification <br/>
-**Permanent IRI:** [http://rs.tdwg.org/vms/doc/specification/](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md) <br/>
-**Created:** 2017-04-25 <br/>
-**Last modified:** 2017-04-25 <br/>
-**Contributors:** <br/>
-Steve Baskauf (lead author) - TDWG Vocabulary Maintenance Specification Task Group <br/>
-John Wieczorek (author) - TDWG Darwin Core Task Group <br/>
-Stan Blum (author) - TDWG Process Interest Group <br/>
-Robert A. Morris (author) - UMASS-Boston, TDWG Imaging Interest Group <br/>
-Jonathan Rees (author) - Duke University <br/>
-Joel Sachs (author) - TDWG RDF Task Group <br/>
-Greg Whitbread (author) - TDWG Technical Architecture Group <br/>
-Dag Endresen (review manager) - GBIF Norway/NHM University of Oslo <br/>
-**Publisher:** Biodiversity Information Standards (TDWG) <br/>
-**Abstract:** This document describes the processes used to modify TDWG vocabularies and their associated documents. <br/>
-**Citation:** Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Specification. Biodiversity Information Standards (TDWG). http://rs.tdwg.org/vms/doc/specification/
+Title
+: Vocabulary Maintenance Specification
 
+Permanent IRI
+: [http://rs.tdwg.org/vms/doc/specification/](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md)
+
+Created
+: 2017-04-25
+
+Last modified
+: 2017-04-25
+
+Contributors
+: Steve Baskauf (lead author) - TDWG Vocabulary Maintenance Specification Task Group
+: John Wieczorek (author) - TDWG Darwin Core Task Group
+: Stan Blum (author) - TDWG Process Interest Group
+: Robert A. Morris (author) - UMASS-Boston, TDWG Imaging Interest Group
+: Jonathan Rees (author) - Duke University
+: Joel Sachs (author) - TDWG RDF Task Group
+: Greg Whitbread (author) - TDWG Technical Architecture Group
+: Dag Endresen (review manager) - GBIF Norway/NHM University of Oslo
+
+Publisher
+: Biodiversity Information Standards (TDWG)
+
+Abstract
+: This document describes the processes used to modify TDWG vocabularies and their associated documents.
+
+Citation
+: Vocabulary Maintenance Specification Task Group. 2017. Vocabulary Maintenance Specification. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/vms/doc/specification/>

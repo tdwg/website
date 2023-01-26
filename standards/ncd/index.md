@@ -7,11 +7,11 @@ background:
   by: Curtis MacNewton
   href: https://unsplash.com/photos/35_O336NNOo
 github: https://github.com/tdwg/ncd
+toc: true
 ---
 
-<div class="alert alert-info">
-NCD is a draft standard that was submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since. The in 2016 reestablished <a href="../../community/cd/">Collection Descriptions Interest Group</a> has decided to discontinue the development of NCD in favour of a new TDWG Collections Description metadata standard. To follow the work of this group, visit <a href="https://github.com/tdwg/cd">its repository</a>.
-</div>
+{: .alert .alert-warning }
+NCD is a draft standard that was submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since. The in 2016 reestablished [Collection Descriptions Interest Group](/community/cd/) has decided to discontinue the development of NCD in favour of a new TDWG Collections Description metadata standard. To follow the work of this group, visit [its repository](https://github.com/tdwg/cd).
 
 ## Header section
 
@@ -36,5 +36,5 @@ Abstract
 Creator
 : Natural Collections Descriptions interest group, [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
 
-Bibliographic citation
-: > Natural Collections Descriptions interest group (2008_ Natural Collections Descriptions (NCD), version 2008-08-12. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/312>
+Citation
+: Natural Collections Descriptions interest group (2008_ Natural Collections Descriptions (NCD), version 2008-08-12. Biodiversity Information Standards (TDWG) <http://www.tdwg.org/standards/312>
