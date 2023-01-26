@@ -4,35 +4,28 @@ background:
   img: https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1
   by: Jan Kahánek
   href: https://unsplash.com/photos/g3O5ZtRk2E4
-tags: [interest group]
 github: https://github.com/tdwg/annotations
+toc: true
 ---
-
-<!-- Copied from http://www.tdwg.org/activities/annotations-test/ -->
 
 ## Convener
 
-Paul J. Morris  
-Biodiversity Informatics Manager  
-Harvard University Herbaria/Museum of Comparative Zoology  
-22 Divinity Ave Cambridge, MA 02138 USA  
+- Paul J. Morris - Harvard University Herbaria/Museum of Comparative Zoology, MA, USA
 
 ## Core Members
 
-Name | Affiliation
---- | ---
-[James A. Macklin](mailto:james.macklin@agr.gc.ca)
-[Robert A. Morris](mailto:morris.bob@gmail.com)
-[Greg Riccard](mailto:griccardi@fsu.edu)
-[Walter G. Berendsohn](mailto:w.berendsohn@bgbm.org)
-[Donald Hobern](mailto:Donald.Hobern@csiro.au)
-[Tim Robertson](mailto:trobertson@gbif.org)
+- [James A. Macklin](mailto:james.macklin@agr.gc.ca)
+- [Robert A. Morris](mailto:morris.bob@gmail.com)
+- [Greg Riccard](mailto:griccardi@fsu.edu)
+- [Walter G. Berendsohn](mailto:w.berendsohn@bgbm.org)
+- [Donald Hobern](mailto:Donald.Hobern@csiro.au)
+- [Tim Robertson](mailto:trobertson@gbif.org)
 
 ## Motivation
 
 This group serves as a forum for the discussion of mechanisms and concepts for the annotation of all kinds of biodiversity data.
 
-The Annotations Group will discuss, evaluate, propose, and standardizemechanisms for the collection, distribution, and storage of annotations of biodiversity data. The scope of annotations is potentially broad, encompassing, among others, structured and unstructured textual data, multimedia, and data set metadata, with obvious interactions with other TDWG groups and with existing and proposed standards in the domain.
+The Annotations Group will discuss, evaluate, propose, and standardize mechanisms for the collection, distribution, and storage of annotations of biodiversity data. The scope of annotations is potentially broad, encompassing, among others, structured and unstructured textual data, multimedia, and data set metadata, with obvious interactions with other TDWG groups and with existing and proposed standards in the domain.
 
 The group provides a forum for the advancement of existing and new mechanisms for the annotation of biodiversity data towards standards related to the structure, capture, transport, and management of annotations. The group will develop:
 

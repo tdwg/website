@@ -37,22 +37,22 @@ list:
   - label: TG
     href: /community/bdq/tg-4/
 - label: IG
-  href: /community/curriculum/ 
+  href: /community/curriculum/
 - label: IG
-  href: /community/services/ 
+  href: /community/services/
 - label: IG
-  href: /community/interaction/ 
+  href: /community/interaction/
 - label: IG
-  href: /community/citizen-science/ 
+  href: /community/citizen-science/
 - label: IG
-  href: /community/cd/ 
+  href: /community/cd/
   menu:
   - label: TG
     href: /community/cd/mids/
 - label: MG
-  href: /community/dwc/ 
+  href: /community/dwc/
 - label: IG
-  href: /community/esp/ 
+  href: /community/esp/
   menu:
   - label: TG
     href: /community/esp/chrono/
@@ -61,18 +61,18 @@ list:
   - label: TG
     href: /community/esp/mineralogy/
 - label: IG
-  href: /community/gbwg/ 
+  href: /community/gbwg/
   menu:
   - label: TG
     href: /community/gbwg/enviro/
   - label: TG
-    href: /community/gbwg/MIxS/
+    href: /community/gbwg/mixs/
 - label: IG
-  href: /community/geoschemes/ 
+  href: /community/geoschemes/
 - label: IG
-  href: /community/mobs/ 
+  href: /community/mobs/
 - label: IG
-  href: /community/osr/ 
+  href: /community/osr/
   menu:
   - label: TG
     href: /community/osr/how-did-it-die/
@@ -83,22 +83,22 @@ list:
   - label: TG
     href: /community/osr/phenology/
 - label: IG
-  href: /community/process/ 
+  href: /community/process/
 - label: IG
-  href: /community/species/ 
+  href: /community/species/
   menu:
   - label: TG
     href: /community/species/invasive-organisms/
   - label: TG
     href: /community/species/plinian-core/
 - label: MG
-  href: /community/tnc/ 
+  href: /community/tnc/
   menu:
   - label: TG
     href: /community/tnc/tcs2/
 ---
 
-TDWG interest (IG) and task (TG) groups undertake one of TDWG’s core functions — the development and maintenance of biodiversity information standards. The [TDWG Process](/about/process/) describes the steps for establishing and maintaining interest and task groups as well as the [process for ratification of standards](/about/process/#ratification%20of%20standards_1) under the guidance of a [Review Manager](/about/review-managers/). Most important among these for new interest or task groups, is the guidance for writing the group’s charter and steps for having it reviewed by the TDWG Executive Committee ([Exec](/about/executive/)). An interest or task group charter describes the group’s goals, how it works, pointers to background and specifications in progress, as well as how to participate. The TDWG Exec is responsible for ensuring that the group’s plan is scientifically sound and politically open and inclusive. Advice from the TDWG Technical Architecture Group ([TAG](/about/committees/tag/)) ensures that the methods and approach are technically sound. The charters of active interest and task groups are linked below. Guidance for group conveners can be found in the [community management guidelines](/community/management/).
+TDWG interest (IG) and task (TG) groups undertake one of TDWG’s core functions — the development and maintenance of biodiversity information standards. The [TDWG Process](/about/process/) describes the steps for establishing and maintaining interest and task groups as well as the [process for ratification of standards](/about/process/#ratification-of-standards) under the guidance of a [Review Manager](/about/review-managers/). Most important among these for new interest or task groups, is the guidance for writing the group’s charter and steps for having it reviewed by the TDWG Executive Committee ([Exec](/about/executive/)). An interest or task group charter describes the group’s goals, how it works, pointers to background and specifications in progress, as well as how to participate. The TDWG Exec is responsible for ensuring that the group’s plan is scientifically sound and politically open and inclusive. Advice from the TDWG Technical Architecture Group ([TAG](/about/committees/tag/)) ensures that the methods and approach are technically sound. The charters of active interest and task groups are linked below. Guidance for group conveners can be found in the [community management guidelines](/community/management/).
 
 ## Collaboration methods
 

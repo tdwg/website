@@ -10,7 +10,7 @@ background:
   href: https://unsplash.com/photos/PdiOj8kRy28
 toc: false
 list:
-- href: /standards/abcd
+- href: /standards/abcd/
 - href: /standards/ac/
 - href: /standards/plant-names-authors/
 - href: /standards/bph/
