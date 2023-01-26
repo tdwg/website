@@ -1,7 +1,7 @@
 ---
 title: Global Genome Biodiversity Network (GGBN) Data Standard
 description: >
-  The [GGBN](http://www.ggbn.org/) Data Standard is a set of vocabularies designed to represent tissue, DNA or RNA samples associated to voucher specimens, tissue samples and collections. It does not cover e.g. scientific name, geography or physiological facts and is intended to be used with [Darwin Core](../dwc/) or [ABCD](../abcd/). The GGBN Data Standard incorporates all molecular terms of [MIxS](http://gensc.org/mixs/), and can also handle [SPREC](http://www.isber.org/?page=SPREC) and large parts of [BRISQ](https://doi.org/10.1021/pr200021n).
+  The [GGBN](http://www.ggbn.org/) Data Standard is a set of vocabularies designed to represent tissue, DNA or RNA samples associated to voucher specimens, tissue samples and collections. It does not cover e.g. scientific name, geography or physiological facts and is intended to be used with [Darwin Core](/standards/dwc/) or [ABCD](/standards/abcd/). The GGBN Data Standard incorporates all molecular terms of [MIxS](http://gensc.org/mixs/), and can also handle [SPREC](http://www.isber.org/?page=SPREC) and large parts of [BRISQ](https://doi.org/10.1021/pr200021n).
 background:
   img: https://images.unsplash.com/photo-1426372371732-eb62c97a4b98
   by: Lukasz Szmigiel
@@ -11,8 +11,6 @@ toc: true
 ---
 
 ## Header section
-
-### Global Genome Biodiversity Network (GGBN) Data Standard specification
 
 Title
 : Global Genome Biodiversity Network (GGBN) Data Standard specification
@@ -100,4 +98,4 @@ Citation
 
 ## Background
 
-: The GGBN Data Standard is based on [ABCDDNA](http://www.tdwg.org/standards/640), that has been developed within the DNA Bank Network. The current GGBN Data Standard is a result of further reviews of ABCDDNA done with the [Global Genome Biodiversity Network](http://www.ggbn.org/) community. The stable version 1.0 of the standard can be found at <http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1>
+The GGBN Data Standard is based on [ABCDDNA](http://www.tdwg.org/standards/640), that has been developed within the DNA Bank Network. The current GGBN Data Standard is a result of further reviews of ABCDDNA done with the [Global Genome Biodiversity Network](http://www.ggbn.org/) community. The stable version 1.0 of the standard can be found at <http://wiki.ggbn.org/ggbn/GGBN_Data_Standard_v1>

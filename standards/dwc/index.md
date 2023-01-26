@@ -1,7 +1,7 @@
 ---
 title: Darwin Core
 description: >
-  Darwin Core is a standard maintained by the [Darwin Core maintenance group](../../community/dwc). It includes a glossary of terms intended to **facilitate the sharing of information about biological diversity** by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
+  Darwin Core is a standard maintained by the [Darwin Core maintenance group](/community/dwc). It includes a glossary of terms intended to **facilitate the sharing of information about biological diversity** by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
 background:
   img: https://images.unsplash.com/photo-1492031215329-791748ee1253
   by: Alex Guillaume
@@ -39,7 +39,7 @@ Citation
 
 ## Maintenance group
 
-Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group](../../community/dwc).
+Modifications and enhancements to Darwin Core are managed by the [Darwin Core Maintenance Group](/community/dwc).
 
 The best way to be involved is to create an account on [GitHub](https://github.com), and "watch" the [Darwin Core GitHub repository](https://github.com/tdwg/dwc), as well as the [Darwin Core Questions & Answers repository](https://github.com/tdwg/dwc-qa), and respond to requests for comments or "issues" ([Darwin Core issues](https://github.com/tdwg/dwc/issues) and [Darwin Core QA issues](https://github.com/tdwg/dwc-qa/issues/)). Information about how to suggest changes to the standard can be found at the [Guidelines for Contributing](https://github.com/tdwg/dwc/blob/master/.github/CONTRIBUTING.md) page.
 
@@ -85,11 +85,11 @@ This standard is comprised of 5 vocabularies and 11 documents.
 
 Vocabularies:
 
-Darwin Core main vocabulary (<http://rs.tdwg.org/dwc/>)
-establishmentMeans controlled vocabulary (<http://rs.tdwg.org/dwcem/>)
-degreeOfEstablishment controlled vocabulary (<http://rs.tdwg.org/dwcdoe/>)
-pathway controlled vocabulary (<http://rs.tdwg.org/dwcpw/>)
-Darwin Core Chronometric Age Extension vocabulary (<http://rs.tdwg.org/chrono/>)
+- Darwin Core main vocabulary (<http://rs.tdwg.org/dwc/>)
+- establishmentMeans controlled vocabulary (<http://rs.tdwg.org/dwcem/>)
+- degreeOfEstablishment controlled vocabulary (<http://rs.tdwg.org/dwcdoe/>)
+- pathway controlled vocabulary (<http://rs.tdwg.org/dwcpw/>)
+- Darwin Core Chronometric Age Extension vocabulary (<http://rs.tdwg.org/chrono/>)
 
 Documents:
 
@@ -187,7 +187,6 @@ Abstract
 Citation
 : Darwin Core Task Group. 2014. Darwin Core XML Guide. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/terms/guides/xml/>
 
-
 ### Simple Darwin Core
 
 Title
@@ -214,11 +213,10 @@ Publisher
 : Biodiversity Information Standards (TDWG)
 
 Abstract
-: This document is a reference for the Simple Darwin Core standard, a mechanism used to share biodiversity information using the simplest methods and
-structure.
+: This document is a reference for the Simple Darwin Core standard, a mechanism used to share biodiversity information using the simplest methods and structure.
+
 Citation
 : Darwin Core Task Group. 2014. Simple Darwin Core. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/terms/simple/>
-
 
 ### Darwin Core Namespace Policy
 
@@ -246,11 +244,10 @@ Publisher
 : Biodiversity Information Standards (TDWG)
 
 Abstract
-: All terms in the Darwin Core must be assigned a unique Uniform Resource Identifier (URI). For convenience, the term URIs that are assigned and managed by
-the Darwin Core Task Group are grouped into collections known as Darwin Core namespaces. This document describes how term URIs are allocated by the Darwin Core Task Group and the policies associated with Darwin Core namespaces.
+: All terms in the Darwin Core must be assigned a unique Uniform Resource Identifier (URI). For convenience, the term URIs that are assigned and managed by the Darwin Core Task Group are grouped into collections known as Darwin Core namespaces. This document describes how term URIs are allocated by the Darwin Core Task Group and the policies associated with Darwin Core namespaces.
+
 Citation
 : Darwin Core Task Group. 2014. Darwin Core Namespace Policy. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/terms/namespace/>
-
 
 ### Darwin Core List of Terms
 
@@ -289,11 +286,10 @@ Publisher
 : Biodiversity Information Standards (TDWG)
 
 Abstract
-: Darwin Core is a vocabulary standard for transmitting information about biodiversity. This document lists all terms in namespaces currently used in the
-vocabulary.
+: Darwin Core is a vocabulary standard for transmitting information about biodiversity. This document lists all terms in namespaces currently used in the vocabulary.
+
 Citation
 : Darwin Core Maintenance Group. 2021. List of Darwin Core terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/list/2021-07-15>
-
 
 ### Degree of Establishment Controlled Vocabulary List of Terms
 
@@ -372,8 +368,7 @@ Abstract
 through the direct or indirect activity of modern humans. The Establishment Means Controlled Vocabulary provides terms that should be used as values for dwc:establishmentMeans and dwciri:establishmentMeans.
 
 Citation
-: Darwin Core Maintenance Group. 2020. Establishment Means Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.
-org/dwc/doc/em/2020-10-13>
+: Darwin Core Maintenance Group. 2020. Establishment Means Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/em/2020-10-13>
 
 ### Pathway Controlled Vocabulary List of Terms
 
@@ -411,7 +406,8 @@ Publisher
 Abstract
 : The Darwin Core term pathway provides information about the process by which an Organism came to be in a given place at a given time. The Pathway Controlled Vocabulary provides terms that should be used as values for dwc:pathway and dwciri:pathway.
 
-Citation: Darwin Core Maintenance Group. 2020. Pathway Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/pw//2020-10-13>
+Citation
+: Darwin Core Maintenance Group. 2020. Pathway Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/pw//2020-10-13>
 
 ### Chronometric Age Vocabulary List of Terms
 

@@ -71,7 +71,7 @@ Abstract
 : An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author.
 
 Note
-: Note: Authors of Plant Names eBook is behind a GBP 60 paywall (http://shop.kew.org/authors-of-plant-names-11770). Since 1998, the database of author names and their standard forms has been maintained and updated online as part of The International Plant Names Index (http://www.ipni.org/).
+: Authors of Plant Names eBook is behind a GBP 60 paywall (http://shop.kew.org/authors-of-plant-names-11770). Since 1998, the database of author names and their standard forms has been maintained and updated online as part of The International Plant Names Index (http://www.ipni.org/).
 
 Citation
 : Brummitt, R. K. and C. E. Powell. 1992. Authors of Plant Names. Kew Publishing. ISBN: 1842460854 <http://rs.tdwg.org/apn/doc/data/1992>

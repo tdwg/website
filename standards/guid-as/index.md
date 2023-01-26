@@ -64,7 +64,6 @@ Abstract
 Citation
 : Globally Unique Identifiers Task Group. 2011. Globally Unique Identifiers (GUID) Applicability Statement. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/guid/doc/guidas/>
 
-
 ### Life Sciences Identifiers (LSID) Applicability Statement
 
 Permanent IRI

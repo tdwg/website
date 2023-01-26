@@ -11,10 +11,9 @@ toc: true
 ---
 
 {: .alert .alert-warning }
-NCD is a draft standard that was submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since. The in 2016 reestablished [Collection Descriptions Interest Group](https://www.tdwg.org/community/cd/) has decided to discontinue the development of NCD in favour of a new TDWG Collections Description metadata standard. To follow the work of this group, visit [its repository](https://github.com/tdwg/cd)
+NCD is a draft standard that was submitted for ratification in 2008. Personnel changes in several critical roles caused the ratification process to stall, so the specification has remained as a draft since. The in 2016 reestablished [Collection Descriptions Interest Group](/community/cd/) has decided to discontinue the development of NCD in favour of a new TDWG Collections Description metadata standard. To follow the work of this group, visit [its repository](https://github.com/tdwg/cd).
 
 ## Header section
-
 
 Title
 : Natural Collections Descriptions (NCD)

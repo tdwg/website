@@ -38,7 +38,7 @@ Citation
 
 ## Maintenance group
 
-TCS is maintained by the [Taxonomic Names and Concepts Interest Group](https://www.tdwg.org/community/tnc/), which has sponsored a Task Group to update TCS to make it compliant with the Standards Documentation Specification and to move it into the Current Standard category.
+TCS is maintained by the [Taxonomic Names and Concepts Interest Group](/community/tnc/), which has sponsored a Task Group to update TCS to make it compliant with the Standards Documentation Specification and to move it into the Current Standard category.
 
 ## Parts of the standard
 

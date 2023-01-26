@@ -55,13 +55,13 @@ TAPIR is flexible enough to be used in a wide range of applications. Other examp
 
 ## TAPIR's key features
 
-: integrates well with the Web infrastructure because it is based on established international Web standards like HTTP, XML and XML Schema.
-: is independent of the data being exchanged and therefore can be used to access a wide range of data.
-: can return data in many different formats - search responses are flexible and customizable.
-: includes five operations to cover all necessary aspects for searching and retrieving data in a network: access to metadata (descriptive data) and capabilities of the provider, preliminary data discovery and data mining, searching, and monitoring the data provider service.
-: allows all operations to be invoked through simple Web addresses.
-: supports complex requests.
-: has existing TAPIR wrapper applications including PyWrapper, TapirLink and TapirDotNET.
+- Integrates well with the Web infrastructure because it is based on established international Web standards like HTTP, XML and XML Schema.
+- Is independent of the data being exchanged and therefore can be used to access a wide range of data.
+- Can return data in many different formats - search responses are flexible and customizable.
+- Includes five operations to cover all necessary aspects for searching and retrieving data in a network- access to metadata (descriptive data) and capabilities of the provider, preliminary data discovery and data mining, searching, and monitoring the data provider service.
+- Allows all operations to be invoked through simple Web addresses.
+- Supports complex requests.
+- Has existing TAPIR wrapper applications including PyWrapper, TapirLink and TapirDotNET.
 
 ## Resources
 
@@ -73,12 +73,10 @@ TAPIR is flexible enough to be used in a wide range of applications. Other examp
 
 ## Software
 
-- **TapirLink**: the original PHP TapirLink software is being host on SourceForge: <http://sourceforge.net/projects/digir/files/TapirLink/> and <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirlink/>
-- **PyWrapper**: A python provider software, based on the BioCASE predecessor:
-<http://sourceforge.net/p/digir/svn/HEAD/tree/pywrapper/>
-- **TAPIR Tester**: <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirtester/>
-- **TAPIR Builder**: <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirbuilder/>
-
+- TapirLink: the original PHP TapirLink software is being host on SourceForge: <http://sourceforge.net/projects/digir/files/TapirLink/> and <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirlink/>
+- PyWrapper: A python provider software, based on the BioCASE predecessor: <http://sourceforge.net/p/digir/svn/HEAD/tree/pywrapper/>
+- TAPIR Tester: <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirtester/>
+- TAPIR Builder: <http://sourceforge.net/p/digir/svn/HEAD/tree/tapirbuilder/>
 
 ## Parts of the standard
 
@@ -119,7 +117,6 @@ Abstract
 Citation
 : TAPIR Task Group. 2010. TDWG Access Protocol for Information Retrieval (TAPIR) Protocol Specification. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/tapir/doc/specification/>
 
-
 ### TDWG Access Protocol for Information Retrieval (TAPIR) XML Schema 
 
 Permanent IRI
@@ -143,7 +140,6 @@ Abstract
 Citation
 : TAPIR Task Group. 2009. TDWG Access Protocol for Information Retrieval (TAPIR) XML Schema. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/tapir/doc/xmlschema/>
 
-
 ### TDWG Access Protocol for Information Retrieval (TAPIR) Concept Aliases 
 
 Permanent IRI
@@ -166,7 +162,6 @@ Abstract
 
 Citation
 : TAPIR Task Group. 2015. TDWG Access Protocol for Information Retrieval (TAPIR) Concept Aliases. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/tapir/doc/conceptaliases/>
-
 
 ### TDWG Access Protocol for Information Retrieval (TAPIR) Network Builders' Guide 
 
@@ -193,7 +188,6 @@ Abstract
 
 Citation
 : TAPIR Task Group. 2015. TDWG Access Protocol for Information Retrieval (TAPIR) Network Builders' Guide. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/tapir/doc/guide/>
-
 
 ### TDWG Access Protocol for Information Retrieval (TAPIR) Output Models and Query Templates 
 

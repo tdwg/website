@@ -35,7 +35,7 @@ Citation
 
 ## Maintenance group
 
-WGSRPD is now curated by the [Geographical Schemes Interest Group](https://www.tdwg.org/community/geoschemes/)
+WGSRPD is now curated by the [Geographical Schemes Interest Group](/community/geoschemes/)
 
 ## Parts of the standard
 
@@ -65,7 +65,7 @@ Publisher
 : Hunt Institute for Botanical Documentation
 
 Abstract
-: This document defines a schem for recording geographical units. The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called “Botanical Country” level (which may often ignore purely political considerations), and fourthly at a slightly lower level called “Basic Recording Units” where political integrity is fully recognised.
+: This document defines a scheme for recording geographical units. The system offered covers the whole world and identifies units at four levels, firstly continental, secondly regional (or subcontinental), thirdly at what may be called “Botanical Country” level (which may often ignore purely political considerations), and fourthly at a slightly lower level called “Basic Recording Units” where political integrity is fully recognised.
 
 Citation
 : R. K. Brummitt. 2001. World Geographic Scheme for Recording Plant Distributions, Edition 2. Hunt Institute for Botanical Documentation, Carnegie Mellon University (Pittsburgh). <http://rs.tdwg.org/wgsrpd/doc/data/>
