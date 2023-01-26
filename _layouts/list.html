@@ -1,27 +1,36 @@
 ---
 layout: default
-description: Template for list pages.
+description: Template for pages that include a list to navigate to other pages.
 ---
 
 {{ content }}
 
-{% if page.list and site.data[page.list] %}
-  {% assign list = site.data[page.list] %}
+{% if page.list %}
   <ul class="list-group list-group-flush mb-3">
-    {% for item in list %}
+    {% for item in page.list %}
+      {% if item.text contains '' %}
+        {% assign item_text = item.text %}
+      {% else %}
+        {% assign item_text = site.pages | where: 'url', item.href | map: 'title' | first %}
+      {% endif %}
       <li class="list-group-item">
         {% if item.label %}
-          <span class="badge bg-secondary rounded-pill">{{ item.label }}</span>
+          <span class="badge bg-secondary rounded-pill me-1">{{ item.label }}</span>
         {% endif %}
-        <a href="{{ item.href | relative_url }}">{{ item.text }}</a>  
+        <a href="{{ item.href | relative_url }}">{{ item_text }}</a>  
         {% if item.menu %}
           <ul class="list-unstyled ps-4">
             {% for subitem in item.menu %}
+              {% if subitem.text contains '' %}
+                {% assign subitem_text = subitem.text %}
+              {% else %}
+                {% assign subitem_text = site.pages | where: 'url', subitem.href | map: 'title' | first %}
+              {% endif %}
               <li>
                 {% if subitem.label %}
-                  <span class="badge bg-primary rounded-pill" alt="Task Group">TG</span>
+                  <span class="badge bg-primary rounded-pill me-1" alt="Task Group">{{ item.label }}</span>
                 {% endif %}
-                <a href="{{ subitem.href | relative_url }}">{{ subitem.text }}</a>
+                <a href="{{ subitem.href | relative_url }}">{{ subitem_text }}</a>
               </li>
             {% endfor %}
           </ul>
