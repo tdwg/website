@@ -6,6 +6,7 @@ background:
   img: https://images.unsplash.com/photo-1508780709619-79562169bc64
   by: Kaitlyn Baker
   href: https://unsplash.com/photos/vZJdYl5JVXY
+toc: true
 ---
 
 ## Reporting issues
@@ -26,7 +27,7 @@ Want to solve the issue yourself instead? See [how to edit content](#how-do-i-ed
 2. Doing so will open the corresponding Markdown document for that page. Alternatively, you can [browse the website repository](https://github.com/tdwg/website/tree/master/content) for the page you are looking for.
 3. Click the pencil button on the top right to edit the page. You need to be logged-in to GitHub to do this.
 
-    ![Edit button on GitHub]({static}edit-page-button.png)
+    ![Edit button on GitHub](/assets/images/edit-page-button.png)
 
     Note: behind the scenes, this will fork the website repository to your account, so you can make suggestions.
 
@@ -61,11 +62,9 @@ Note: it's best not to let your work linger in your fork, as it will get out of 
 
 No, there is no logged-in section for this website. Anyone can suggest changes by clicking `Edit this page` at the top right of a page:
 
-![Edit this page link]({static}edit-page-link.png)
+![Edit this page link](/assets/images/edit-page-link.png)
 
 For articles it will say `Edit this article`. The link will take you to [GitHub](https://github.com/tdwg/website) where the authentication and review process is handled.
-
-Note: a couple of pages - like [search](/search.html) or the [news index](/news/) - are generated. The `Edit this page` link will not appear on those, as there is nothing to edit manually.
 
 ### How is content organized?
 
@@ -100,7 +99,7 @@ bdq          : Directory for the bdq page
 └── vocab    : Directory for the vocab subpage
 ```
 
-Directory names should be short, lowercase and hyphen-separated (e.g. `citizen-science`) as together with the hierarchy they make up the URL: `content/pages/community/citizen-science/index.md` → `https://www.tdwg.org/community/citizen-science/`
+Directory names should be short, lowercase and hyphen-separated (e.g. `citizen-science`) as together with the hierarchy they make up the URL: `/community/citizen-science/index.md` → `https://www.tdwg.org/community/citizen-science/`
 
 ### What is the difference between a page and an article?
 
@@ -113,11 +112,11 @@ Before starting a new page, consult with the website maintainers if and where th
 1. Browse the [website repository](https://github.com/tdwg/website/tree/master/content/pages) to the place where you want to create the page. See [how content is organized](#how-is-content-organized).
 2. Click `Create new file`. You need to be logged-in to GitHub to do this.
 
-    ![Create button on GitHub]({static}create-page-button.png)
+    ![Create button on GitHub](/assets/images/create-page-button.png)
 
 3. Name your file `page-name/index.md`. File names should be short, lowercase and hyphen-separated.
 
-    ![Name file]({static}create-page-name.png)
+    ![Name file](/assets/images/create-page-name.png)
 
 4. Copy and adapt the following content:
 

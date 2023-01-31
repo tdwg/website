@@ -1,53 +1,57 @@
 ---
 title: Review Manager Guidelines
-description:  >
+description: >
   These guidelines have been used by previous review managers and have been revised in light of their experience.
 background:
   img: https://images.unsplash.com/photo-1498536383836-4d7b97b379b0
   by: Tj Holowaychuk
   href: https://unsplash.com/photos/D18ZnjlhVqM
+toc: true
 ---
 
-**Title:** Guidelines for Review Managers of Proposed TDWG Standards
+## Header section
 
-**Date version issued:** 2021-11-22
+Title
+: Guidelines for Review Managers of Proposed TDWG Standards
 
-**Date created:** 2009-05-15
+Date version issued
+: 2021-11-22
 
-**Part of TDWG Standard:** Not part of any standard
+Date created
+: 2009-05-15
 
-**Abstract:**
+Part of TDWG Standard
+: Not part of any standard
 
-The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
+Abstract
+: The guidelines for review managers of proposed standards were originally written in 2009 by Lee Belbin and have been used by review managers of most of the standards that have been ratified since then. They were revised in 2021 based on feedback from former review managers in order to update the recommendations based on changes in technology and practical experience. They describe the best practices for carrying out the expert and public reviews required as part of the TDWG Process, the bylaws that govern how TDWG standards are ratified.
 
-**Contributors:**
+Contributors
+: Lee Belbin <https://orcid.org/0000-0001-8900-6203>
+: Gail Kampmeier <https://orcid.org/0000-0002-5178-4170>
+: Dag Endresen <https://orcid.org/0000-0002-2352-5497>
+: Steve Baskauf ORCID <https://orcid.org/0000-0003-4365-3135>
 
-<span itemscope itemtype="https://schema.org/Person">Lee Belbin <a itemprop="sameAs" content="https://orcid.org/0000-0001-8900-6203" href="https://orcid.org/0000-0001-8900-6203" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8900-6203</a></span>, <br />
-<span itemscope itemtype="https://schema.org/Person">Gail Kampmeier <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-5178-4170" href="https://orcid.org/https://orcid.org/0000-0002-5178-4170" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5178-4170</a></span>, <br />
-<span itemscope itemtype="https://schema.org/Person">Dag Endresen <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0002-2352-5497" href="https://orcid.org/https://orcid.org/0000-0002-2352-5497" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2352-5497</a></span>, and <br />
-<span itemscope itemtype="https://schema.org/Person">Steve Baskauf <a itemprop="sameAs" content="https://orcid.org/https://orcid.org/0000-0003-4365-3135" href="https://orcid.org/https://orcid.org/0000-0003-4365-3135" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4365-3135</a></span>
+Citation
+: L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines for Review Managers of Proposed TDWG Standards. Biodiversity Information Standards (TDWG). <https://www.tdwg.org/about/review-managers/>
 
-**Bibliographic citation:**
-
-L. Belbin, G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines for Review Managers of Proposed TDWG Standards. Biodiversity Information Standards (TDWG). [https://www.tdwg.org/about/review-managers/](https://www.tdwg.org/about/review-managers/)
-
-# 1 Responsibilities
+## 1 Responsibilities
 
 The TDWG process for the ratification of its standards (<https://www.tdwg.org/about/process/>) is set forth in the TDWG Bylaws. Article 9 of the [TDWG Constitution](<https://www.tdwg.org/about/constitution/>) specifies how bylaws are created and modified. Ratification as a TDWG Standard should signify that a standard has a broad consensus of support in the community, rather than a simple or super majority of votes.
 
-## 1.1 Author
+### 1.1 Author
 
 The **Author**
 
 1. Prepares the submission with their Task Group to conform to the TDWG Standards Documentation Specification (<http://rs.tdwg.org/sds/doc/specification/>).
 2. Places the submission in the correct standards category
-    * Technical Specification,
-    * Applicability Statement, or
-    * Best Current Practice 
+    - Technical Specification,
+    - Applicability Statement, or
+    - Best Current Practice 
 3. Assures that the metadata information under the Summary is accurate and complete, with the understanding that this metadata will be used 'as is' to populate components of the TDWG web site when the submission is approved.
 4. Presents the submission to the TDWG Executive Committee.
 
-## 1.2 TDWG Executive Committee
+### 1.2 TDWG Executive Committee
 
 The **TDWG Executive Committee** 
 
@@ -57,7 +61,7 @@ The **TDWG Executive Committee**
 
 The Executive Committee should ensure that the appointed Review Manager is independent and free from conflicts of interest with the proposed standard and its authors. If conflicts are unavoidable, these conflicts must be stated to the Executive Committee in review manager's acceptance of the role. The conflicts must also be described to the Author. The Executive Committee may also make recommendations for reviewers, but the final decision for selecting reviewers rests with the Review Manager. 
 
-## 1.3 Review Manager
+### 1.3 Review Manager
 
 The **Review Manager**
 
@@ -70,7 +74,7 @@ The **Review Manager**
 7. Communicates effectively with the TDWG Executive Committee, Reviewers and other interested parties.
 8. Expedites the review process within the time requirements of the TDWG Bylaws.
 
-## 1.4 Independent Reviewers
+### 1.4 Independent Reviewers
 
 The **Independent Reviewers**
 
@@ -80,7 +84,7 @@ The **Independent Reviewers**
 
 In the interest of supporting open science and to recognize their contributions, reviewers will be identified by default when they submit their reviews. However, the option to remain anonymous will be available to the reviewers in order to promote candidness. 
 
-# 2 Independent Reviews
+## 2 Independent Reviews
 
 One of the first tasks for the Review Manager is to seek reviewers for the submission. Advice can be sought from the Author, relevant TDWG groups, the Executive Committee and others. It is recommended that at least three expert reviews are provided for submissions.
 
@@ -88,7 +92,7 @@ Because the document(s) submitted for consideration will be commented upon by re
 
 The Review Manager should keep a record of correspondence with potential and engaged expert reviewers that would be sufficient for a replacement Review Manager to take over if that became necessary. That record should include expert reviewer candidate names, date of solicitation, date of response, and the response itself (accept or decline). It should also include copies of key emails that contain information such as request to review, acceptance of the review, discussion of potential conflicts of interest. 
 
-## 2.1 Reviewer Profile
+### 2.1 Reviewer Profile
 
 The **ideal reviewer** is someone who has not been directly involved in the development of the standard (independence). Reviewers must have advanced technical skills as a standard is a technical document. The ideal reviewer has written or contributed to the development of another standard. An ideal reviewer 'gets the job done'.
 
@@ -100,7 +104,7 @@ An example of an email request to potential expert reviewers can be found in Sec
 
 The timeframe for individual reviewers to respond is up to the Review Manager. A period of around **one month** would be reasonable given that the review task may be substantial. Reviewers' submissions should be timely. If a Reviewer is not able to complete the Review within a reasonable timeframe, another Reviewer may need to be engaged. Once a deadline has been passed, the Review Manager shall send a reminder and in parallel, consider seeking an additional reviewer. This way, there are minimal holdups.
 
-## 2.2 Review Criteria
+### 2.2 Review Criteria
 
 What **criteria** should you convey to reviewers to judge a submission? A TDWG Standard is composed of documents, but consideration should be given in the review of how effectively the proposed standard could be implemented.
 
@@ -113,7 +117,7 @@ What **criteria** should you convey to reviewers to judge a submission? A TDWG S
 - Is the overall structure of the Standard effective? If the structure of the proposed Standard is problematic, then use of the Standard may be equally problematic. Are there ways to simplify the structure? Does the structure allow for efficient/effective extensibility?
 - Does the standard address a large majority of end-user needs? Are the fields/parameters sufficient and clearly defined? Are the parameters/fields sufficient to address the large majority of end-user needs?
 
-## 2.3 Post Expert Review
+### 2.3 Post Expert Review
 
 Once all expert reviews are in, it is up to the Review Manager to look at the reviews and decide into which category to place the submission.
 
@@ -126,16 +130,16 @@ The reviews as they were submitted by the expert reviewers should be archived in
 
 Inform the Author what if any steps need to be taken before seeking approval from the Executive Committee to advance the submission to Public Review. Versions of submitted human-readable documents, revised in the light of reviewer comments, should be exported as PDFs and archived in GitHub. These revised documents can be made available for examination by the Executive Committee, although another format may be used for the transmittal if that format makes it easier to examine all aspects of the proposal.
 
-As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to [secretariat@tdwg.org](mailto:secretariat@tdwg.org) for distribution to the Executive Committee. The email should explain how the revised proposal can be accessed, and request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
+As the Process dictates, the final decision for advancing the submission to Public Review is in the hands of the Executive Committee. An email should therefore then be sent to <secretariat@tdwg.org> for distribution to the Executive Committee. The email should explain how the revised proposal can be accessed, and request a decision concerning progress to Public Review. The Executive Committee will discuss the submission and provide a decision within 30 days.
 
-# 3 Public Review
+## 3 Public Review
 
 The Public Review is complementary to the individual expert reviews. **Public comment must be open for at least 30 days (see Section 5.1).** Anyone except the Review Manager can post comments to the Public Review. The reason for this is that it is important for the Review Manager to remain independent in the public eye. It is the Review Manager who makes the two key recommendations to the TDWG Executive Committee. The Author is free to post comments as a response to the other comments posted. The expert reviewers may also participate in the Public Review.
 
 The submission should be made available for public viewing according to current TDWG practice, which might include publication in the organization's journal, [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/about). However, the publicly-viewable submission should have the following features:
 
 - Its components should be easily viewed on a standard web browser from an open website.
-- It should include an introduction or landing page that briefly explains the history and status of the submission, now identified as a "Proposed Standard". A link to the [TDWG Process web page](https://www.tdwg.org/about/process/) should be included for those who are unfamiliar with the standards review process.
+- It should include an introduction or landing page that briefly explains the history and status of the submission, now identified as a "Proposed Standard". A link to the [TDWG Process web page](/about/process/) should be included for those who are unfamiliar with the standards review process.
 - It should enumerate the parts of the standard, which will include one or more human readable documents. If a vocabulary standard, one of the human readable documents will be a list of terms that includes the basic term metadata required by the Standards Documentation Specification. The documents may also include any normative machine-readable files, such as XML schemas. 
 - The submission may link to informative documents that are not included in the standard but that are intended to help users better understand how to use it.
 - Instructions for submitting comments.
@@ -157,7 +161,7 @@ Public comment may result in all of the following:
 
 Note: If possible, constructive comments should be acknowledged by the Review Manager. The Author can start to examine comments, discuss issues with the Review Manager, and prepare responses or changes once the first comment is posted.
 
-When the Public Review period is up, the Review Manager needs to inform both the [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and the Author, and create a document that **adds a recommended action against each** comment, which could include (with any further explanation as necessary):
+When the Public Review period is up, the Review Manager needs to inform both the <secretariat@tdwg.org> and the Author, and create a document that **adds a recommended action against each** comment, which could include (with any further explanation as necessary):
 
 - Accept comment and implement the suggestion,
 - Accept comment but adds no significant change to the proposal, or
@@ -173,11 +177,11 @@ A number of iterations may be required before a recommendation to accept the pro
 
 It is reasonable for the review manager to expect a response from the Executive Committee within 30 days. 
 
-# 4 Appendices
+## 4 Appendices
 
-![TDWG ratification process](https://www.tdwg.org/static/pages/about/process/tdwg_process.png)
+![TDWG ratification process](/assets/images/tdwg-process.png)
 
-## 4.1 From the TDWG Process (by-laws) - Ratification of Standards
+### 4.1 From the TDWG Process (by-laws) - Ratification of Standards
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
@@ -191,9 +195,9 @@ It is reasonable for the review manager to expect a response from the Executive 
 5. Public Review. The Executive Committee directs that the Proposed Standard be placed in the TDWG repository, then publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
 6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of Public Review before the Executive Committee may accept it as a Standard.
 
-The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws. See the [TDWG Process web page](https://www.tdwg.org/about/process/) for the entire by-laws text.
+The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws. See the [TDWG Process web page](/about/process/) for the entire by-laws text.
 
-## 4.2 Example of an Email to Potential Expert Reviewers
+### 4.2 Example of an Email to Potential Expert Reviewers
 
 Note: This template is similar to emails that have been used in the past to request Reviews. Please modify as required. The fields within braces in the text below are variables into which you may insert known details.
 
@@ -225,7 +229,7 @@ Please disclose if you have a conflict of interest with the content of the manus
 
 {reviewManagerSignature}
 
-## 4.3 Example of Public Review Announcement
+### 4.3 Example of Public Review Announcement
 
 **{standardName} Public Review**
 
@@ -244,7 +248,7 @@ Please distribute this request for comment to anyone you think could or should c
 Sincerely,
 {reviewManagerName}, Review Manager
 
-## 4.4 Past Public Review Announcements and response summaries
+### 4.4 Past Public Review Announcements and response summaries
 
 [LSID and GUID Applicability Statements](https://github.com/tdwg/process/blob/master/past_public_review_notices/2009_lsid_guid.md)
 

@@ -7,12 +7,14 @@ background:
   by: Daniel McCullough
   href: https://unsplash.com/photos/-FPFq_trr2Y
 github: https://github.com/tdwg/tag
+toc: true
 ---
 
 ## Chair
 
-[Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu), Elected Term: 2022-2023 
-Vanderbilt University Libraries, Nashville, Tennessee, USA
+- [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu) (elected term: 2022-2023) - 
+Vanderbilt University Libraries, Nashville, TN, USA
+- [Ben Norton](mailto:ben.norton@naturalsciences.org) (deputy chair) - North Carolina Museum of Natural Sciences, Raleigh, NC, USA
 
 To see a list of TAG members for the current calendar year and issues under consideration by the group, see the [TAG GitHub repository](https://github.com/tdwg/tag).
 
@@ -26,23 +28,23 @@ TAG responsibilities will be limited to technical aspects of the TDWG architectu
 
 On behalf of the executive, maintain oversight and report on:
 
-* Issues of standards acceptance and compliance
-* The status of existing standards - their completeness, interoperability and limits
-* The technical evaluation of task group proposals and their reports
-* Coordination of technical activities across Interest Groups
-* Completeness of standards documentation and management
-* Interaction with external standards activity
+- Issues of standards acceptance and compliance
+- The status of existing standards - their completeness, interoperability and limits
+- The technical evaluation of task group proposals and their reports
+- Coordination of technical activities across Interest Groups
+- Completeness of standards documentation and management
+- Interaction with external standards activity
 
 Working with the membership to advance a common standards framework:
 
-* Coordinate update and maintenance of the TDWG Technical "Road Map" and best practice documentation
-* Maintain the TAG GitHub presence
+- Coordinate update and maintenance of the TDWG Technical "Road Map" and best practice documentation
+- Maintain the TAG GitHub presence
 
 ## Organization
 
 ### Charter
 
-According to TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organisation. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
+According to TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organization. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
 
 ### Membership
 

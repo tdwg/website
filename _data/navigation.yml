@@ -48,5 +48,36 @@
   menu:
   - text: "About"
     href: /about/
+  - text: "---"
+  - text: "Executive Committee"
+    href: /about/executive/
+  - text: "Functional Subcommittees"
+    href: /about/committees/
+  - text: "Process"
+    href: /about/process/
+  - text: "Constitution"
+    href: /about/constitution/
+  - text: "Incorporation and status"
+    href: /about/incorporation/
+  - text: "---"
+  - text: "Membership"
+    href: /about/membership/  
+  - text: "Terms of Use"
+    href: /about/terms-of-use/
+  - text: "Code of Conduct"
+    href: /about/code-of-conduct/
+  - text: "Diversity and Inclusion Statement"
+    href: /about/diversity-inclusion/
+  - text: "Liability Disclaimer and Release"
+    href: /about/liability-disclaimer/
+  - text: "Review Manager Guidelines"
+    href: /about/review-managers/
+  - text: "Contributing to the website"
+    href: /about/website-faq/
+  - text: "---"
+  - text: "Logo"
+    href: /about/logos/
+  - text: "Contact"
+    href: /about/contact/
 - text: "News"
   href: /news/

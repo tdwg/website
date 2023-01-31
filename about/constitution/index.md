@@ -7,6 +7,7 @@ background:
   by: Hannes Wolf
   href: https://unsplash.com/photos/n2ILm0aTCYo
 github: https://github.com/tdwg/constitution
+toc: true
 ---
 
 <!-- Changes to the constitution need to be suggested at https://github.com/tdwg/constitution first. This page is just a copy. -->
@@ -22,7 +23,7 @@ To achieve its goals, TDWG
 3. acts as a forum for discussion through holding meetings and through publication and
 4. undertakes any other activities that are judged useful to the organisation.
 
-## Article 2. Affiliation and Incorporation 
+## Article 2. Affiliation and Incorporation
 
 TDWG may affiliate to or cooperate with other associations or organisations with similar or complementary aims.
 
@@ -51,11 +52,11 @@ TDWG shall meet each calendar year to discuss standards; advance and promote bio
 
 ### 5.1 Composition
 
-TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.  At no time shall a majority of the Executive Committee, as a whole or in quorum, be composed of individuals who have familial or business relationships. 
+TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.  At no time shall a majority of the Executive Committee, as a whole or in quorum, be composed of individuals who have familial or business relationships.
 
-### 5.2 Roles and responsibilities  
+### 5.2 Roles and responsibilities 
 
-The Executive Committee:  
+The Executive Committee: 
 
 1. provides leadership to TDWG;
 2. promotes TDWG to the broader community;
@@ -70,15 +71,15 @@ The Executive Committee:
 11. provides timely notification of progress towards goals; and
 12. otherwise acts to fulfil the goals of TDWG.
 
-### 5.3 Executive Committee meetings and quorum  
+### 5.3 Executive Committee meetings and quorum
 
-The Executive Committee shall meet and report to the membership at least once each calendar year.  
+The Executive Committee shall meet and report to the membership at least once each calendar year.
 
-A majority of Executive Committee members constitutes a quorum and must participate to conduct official business. Because TDWG is a global organization, participation is not required to be in real-time.  Pariticipation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.
+A majority of Executive Committee members constitutes a quorum and must participate to conduct official business. Because TDWG is a global organization, participation is not required to be in real-time. Participation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.
 
 ### 5.4 Conflicts of interest
 
-TDWG shall develop, adopt, and maintain a Conflict of Interest Policy.  The Executive Committee as a whole, and each member individually, must abide by that policy.  
+TDWG shall develop, adopt, and maintain a Conflict of Interest Policy. The Executive Committee as a whole, and each member individually, must abide by that policy.
 
 ## Article 6. Executive Committee Members
 
@@ -88,15 +89,15 @@ General elections shall be organised every year under the responsibility of the 
 
 ### 6.2 Executive Committee Chair and Deputy Chair
 
-The Executive Committee Chair is elected directly from the membership and commits to a total of four years of service.  A newly elected Chair serves first as Deputy Chair for two years, and then succeeds to become Chair for the following two years. Upon completion of both terms, the Chair can opt to remain as a member of the Executive Committee for an additional two years as a TDWG representative. 
+The Executive Committee Chair is elected directly from the membership and commits to a total of four years of service. A newly elected Chair serves first as Deputy Chair for two years, and then succeeds to become Chair for the following two years. Upon completion of both terms, the Chair can opt to remain as a member of the Executive Committee for an additional two years as a TDWG representative.
 
-If an Executive Committee Chair resigns or otherwise becomes unable to fulfill the role, the Deputy Chair shall become Chair, and a new Deputy Chair shall be elected in the next general election.  In the event that both a Chair and Deputy Chair become unable to serve, the Executive Committee shall appoint one of the current TDWG officers to serve as Acting Chair, and both Chair and Deputy Chair shall be elected in the next general election.
+If an Executive Committee Chair resigns or otherwise becomes unable to fulfill the role, the Deputy Chair shall become Chair, and a new Deputy Chair shall be elected in the next general election. In the event that both a Chair and Deputy Chair become unable to serve, the Executive Committee shall appoint one of the current TDWG officers to serve as Acting Chair, and both Chair and Deputy Chair shall be elected in the next general election.
 
 #### 6.2.1 Executive Committee Chair responsibilities
 
 Presides at meetings of TDWG and at meetings of the Executive Committee; convenes Executive Committee meetings; is entitled to sign jointly with one other officer on behalf of TDWG; enacts such functions as are assigned by the Executive Committee; represents TDWG at external meetings; delegates on an ad-hoc basis the above responsibilities to other Executive Committee members.
 
-#### 6.2.2 Executive Committee Deputy Chair responsibilities 
+#### 6.2.2 Executive Committee Deputy Chair responsibilities
 
 The Deputy Chair enjoys full voting rights in the Executive Committee, stands in for the Chair as necessary, and assists with tasks of the Secretary and Treasurer.
 
@@ -104,7 +105,7 @@ The Deputy Chair enjoys full voting rights in the Executive Committee, stands in
 
 The Secretary operates the secretariat; keeps, distributes, and publishes minutes of meetings; sends notices of the annual meeting to the membership and notices of meetings of the Executive Committee to its members; distributes proposals and organizes votes; conducts the general elections; authenticates, tallies, and publishes voting results.
 
-Communications to and from the Executive Committee involving formal TDWG business should be via the Secretary who must arrange a proxy from among Executive Committee members for any significant period of unavailability. 
+Communications to and from the Executive Committee involving formal TDWG business should be via the Secretary who must arrange a proxy from among Executive Committee members for any significant period of unavailability.
 
 ### 6.4 Treasurer
 
@@ -112,7 +113,7 @@ The Treasurer is entitled to sign jointly with one other officer on behalf of TD
 
 ### 6.5 Chairs of functional subcommittees
 
-Chairs of Functional Subcommittees (see Article 7) participate, *ex officio*, as full members of the Executive Committee. They liaise between their subcommittees and the TDWG Executive Committee, summarise activities, and discuss strategic priorities and future plans in regards to subcommittee responsibilities.  
+Chairs of Functional Subcommittees (see Article 7) participate, *ex officio*, as full members of the Executive Committee. They liaise between their subcommittees and the TDWG Executive Committee, summarise activities, and discuss strategic priorities and future plans in regards to subcommittee responsibilities.
 
 ### 6.6 Elected Representatives
 
@@ -120,13 +121,13 @@ Have the responsibility to represent the interests of TDWG members on the Execut
 
 ### 6.7 Geographical distribution of Representatives
 
-The Executive Committee shall encourage participation from the membership across geographical boundaries, gender, age, ethnicity, and professional expertise. To encourage balanced representation one representative will be elected from each of the following regions: Africa, Asia, Europe, Latin America, North America, and Oceania. 
+The Executive Committee shall encourage participation from the membership across geographical boundaries, gender, age, ethnicity, and professional expertise. To encourage balanced representation one representative will be elected from each of the following regions: Africa, Asia, Europe, Latin America, North America, and Oceania.
 
 ## Article 7. Functional Subcommittees
 
-### 7.1 Definition, role and scope 
+### 7.1 Definition, role and scope
 
-Functional Subcommittees (FS) are committees operating under specific mandates, set by the Executive Committee in response to identified needs of TDWG. The overarching role of a FS is to assist the Executive Committee in its standing tasks. FS operate under charters prepared and approved by the Executive Committee, following consultation with the membership.   
+Functional Subcommittees (FS) are committees operating under specific mandates, set by the Executive Committee in response to identified needs of TDWG. The overarching role of a FS is to assist the Executive Committee in its standing tasks. FS operate under charters prepared and approved by the Executive Committee, following consultation with the membership.
 
 ### 7.2. Establishment, duration and dissolution
 
@@ -154,13 +155,13 @@ The Executive Committee may propose that by-laws be established, altered, or rep
 
 Dissolution of TDWG can only be enacted by a two-thirds majority of both individual and institutional members by vote. A proposal of dissolution must be dispatched by the Executive Committee to the membership at least ninety days before close of voting.
 
-Upon the dissolution of TDWG, any net remaining assets shall be transferred to the International Association for Plant Taxonomy, provided that at the time of TWDG’s dissolution, that organization is a qualified 501(c)(3) organization. If this organization no longer exists or is not qualified, TWDG’s assets will be distributed to another qualified 501(c)(3) organization or internationally qualified charitable organization.  
+Upon the dissolution of TDWG, any net remaining assets shall be transferred to the International Association for Plant Taxonomy, provided that at the time of TWDG’s dissolution, that organization is a qualified 501(c)(3) organization. If this organization no longer exists or is not qualified, TWDG’s assets will be distributed to another qualified 501(c)(3) organization or internationally qualified charitable organization.
 
 ## Article 11. Voting
 
 TDWG shall strive to make decisions based on broad consensus rather than simple majority. The Executive Committee may assess consensus through mechanisms other than voting, such as solicited reviews and public requests for comment, except where voting is mandated elsewhere in this Constitution. If a broad consensus cannot be reached, the Executive Committee may arrange for an issue to be decided by a vote of the membership.
 
-In general elections of officers, each current member will be entitled to one vote, but may abstain.  On counting, each institutional vote will be weighted using the current fees-based multiplier and the candidate receiving a plurality of the totalled votes shall be appointed to the office (see Article 5, item 6). 
+In general elections of officers, each current member will be entitled to one vote, but may abstain. On counting, each institutional vote will be weighted using the current fees-based multiplier and the candidate receiving a plurality of the totalled votes shall be appointed to the office (see Article 5, item 6).
 
 In questions of governance and other issues requiring a simple decision to accept or reject a proposal, the votes of Individual and Institutional members will be tallied separately, without weighting, and a proposal will pass if it receives a simple majority of the votes cast in each membership category.
 

@@ -1,17 +1,17 @@
 ---
-title: Outreach and communications
+title: Outreach and Communications
 description: >
-  The purpose of the Outreach and communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
+  The purpose of the Outreach and Communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
 background:
   img: https://images.unsplash.com/photo-1471469678089-67f27c6ca4f4
   by: Kawtar Cherkaoui
   href: https://unsplash.com/photos/1Q1P_XpWylY
+toc: true
 ---
 
 ## Chair
 
-[Mareike Petersen](mailto:Mareike.Petersen@mfn.berlin), Elected Term: 2021-2022  
-Museum für Naturkunde, Berlin, Germany  
+- [Mareike Petersen](mailto:Mareike.Petersen@mfn.berlin) (elected term: 2021-2022) - Museum für Naturkunde, Berlin, Germany
 
 ## Mission
 
@@ -23,10 +23,10 @@ The Functional Subcommittee responsibilities will focus on the effective outreac
 
 The charter of activities of the Functional Subcommittee on behalf of TDWG would be the following:
 
-* Commission and solicit outreach and communication material on TDWG and its activities.
-* Maintain a page on the TDWG site for all outreach and communication material under open access and CC0 licenses.
-* Provide information and links to standards in use and standards in development for biodiversity information.
-* Encourage regional representatives and members of TDWG to run programs to expose TDWG activities and report them to the executive committee.
+- Commission and solicit outreach and communication material on TDWG and its activities.
+- Maintain a page on the TDWG site for all outreach and communication material under open access and CC0 licenses.
+- Provide information and links to standards in use and standards in development for biodiversity information.
+- Encourage regional representatives and members of TDWG to run programs to expose TDWG activities and report them to the executive committee.
 
 ## Organization
 
@@ -41,7 +41,7 @@ The chair shall be elected by the TDWG membership.
 The Executive Committee Chair in consultation with the Functional Subcommittee Chair is responsible for appointing sub-committee members and a vice-chair.
 
 The Functional Subcommittee should be between 5 and 7 members, ideally with representation from different regions and with different expertise, with specific orientation for outreach and communication of the activities of TDWG.
- 
+
 ### Meetings, documentation and reporting
 
 The Functional Subcommittee reports to the TDWG executive.

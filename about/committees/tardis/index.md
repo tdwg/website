@@ -1,11 +1,12 @@
 ---
-title: Time and place
+title: Time and Place
 description: >
   The purpose of the Time and Place Functional Subcommittee is to establish a six year rolling plan for the hosting of TDWG meetings, which seeks to expand the influence of TDWG whilst retaining and increasing its core membership base. It is aiming at expanding the TDWG community, maintaining existing community, maintaining functionality of interest and task groups, and taking advantage of funding for hosting opportunities.
 background:
   img: https://images.unsplash.com/photo-1519452575417-564c1401ecc0
   by: Nathan Dumlao
   href: https://unsplash.com/photos/ewGMqs2tmJI
+toc: true
 ---
 
 ## Mission
@@ -23,9 +24,9 @@ The purpose of the Time and Place Functional Subcommittee is to establish a six 
 
 ## Organization
 
-### Charter 
+### Charter
 
-As provided in the Constitution (Art 7), this charter may be revised by the the TDWG Executive Committee to better meet any changes in the needs of the organisation. Changes to the charter must be posted for open consultation and comment by TDWG member for at least 21 days prior to approval.
+As provided in the Constitution (Art 7), this charter may be revised by the the TDWG Executive Committee to better meet any changes in the needs of the organization. Changes to the charter must be posted for open consultation and comment by TDWG member for at least 21 days prior to approval.
 
 ### Membership and structure
 
@@ -33,12 +34,12 @@ The chair shall be elected by the TDWG membership. The chair is responsible for 
 
 ### Meetings and quorum
 
-The Functional Subcommittee shall convene by teleconference (e.g. over Skype) at least two times per year. A quorum of any meeting of the Functional Subcommittee shall consist of a majority of its current members. 
+The Functional Subcommittee shall convene by teleconference (e.g. over Skype) at least two times per year. A quorum of any meeting of the Functional Subcommittee shall consist of a majority of its current members.
 
 ### Agenda, minutes, and reports
 
 The Functional Subcommittee chair, in collaboration with the deputy, shall be responsible for establishing the agendas for meetings. An open issue tracking system will be used (e.g. GitHub issues) to ensure transparency of work and for assignment of tasks.
 
-## Contact Us
-If you are interested in hosting a Meeting or have any questions, please [send an email to the time and place subcommittee](mailto:tardis@tdwg.org)
+## Contact us
 
+If you are interested in hosting a Meeting or have any questions, please [send an email to the Time and Place subcommittee](mailto:tardis@tdwg.org).

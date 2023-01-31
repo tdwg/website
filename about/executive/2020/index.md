@@ -1,50 +1,47 @@
 ---
 title: Executive Committee 2020
 description: >
-  TDWG is led by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. This page shows the currently elected members of the Executive Committee, see the bottom of the page for previous compositions.
+  Members of the TDWG [Executive Committee](/about/executive/) for the 2020 calendar year.
 background:
   img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
   by: Tim Graf
   href: https://unsplash.com/photos/ErO0E8wZaTA
+toc: true
 ---
 
-## Executive Committee 2020
-
-Term of office shown as span of calendar years, inclusive.
-
-### Managing officers
+## Managing officers
 
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Chair | James Macklin [✉️](mailto:james.macklin@agr.gc.ca) | Agriculture and Agri-Food Canada, ON, Canada | 2019-2020
-Deputy Chair | [Deb Paul](./backgrounds/#deputy%20chair_1) [✉️](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, Tallahassee FL USA | 2019-2020
-Secretary | [Quentin Groom](./backgrounds/#secretary_1) [✉️](mailto:secretary@tdwg.org) | Botanic Garden Meise, Belgium | 2019-2020
-Treasurer | [William Ulate](./backgrounds/#treasurer_1) [✉️](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
+Chair | [James Macklin](mailto:james.macklin@agr.gc.ca) | Agriculture and Agri-Food Canada, ON, Canada | 2019-2020
+Deputy Chair | [Deb Paul](mailto:dpaul@fsu.edu) | iDigBio, Florida State University, Tallahassee FL USA | 2019-2020
+Secretary | [Quentin Groom](mailto:secretary@tdwg.org) | Botanic Garden Meise, Belgium | 2019-2020
+Treasurer | [William Ulate](mailto:treasurer@tdwg.org) | Missouri Botanical Garden, MO, USA | 2020-2021
 
-### Subcommittee chairs
+## Subcommittee chairs
 
-Functional subcommittee | Name | Affiliation | Term of office
+Functional Subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](../committees/tag/) | [Simon Checksfield](./backgrounds/#technical%20architecture%20group_1) [✉️](mailto:simon.checksfield@csiro.au) | CSIRO, Australia | 2020-2021
-[Fundraising and Partnerships](../committees/fundraising/) | [Connie Rinaldo](./backgrounds/#fundraising%20and%20partnernships_1) ✉️ | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2019-2020
-[Infrastructure](../committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure_1) [✉️](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2020-2021
-[Outreach and Communications](../committees/outreach/) | [Prabhakar Rajagopal](./backgrounds/#communications%20and%20outreach_1) [✉️](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2019-2020
-[Time and Place](../committees/tardis/) | [Patricia Mergen](./backgrounds/#time%20and%20place_1) [✉️](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2020-2021
+[Technical Architecture Group](/about/committees/tag/) | [Simon Checksfield](mailto:simon.checksfield@csiro.au) | CSIRO, Australia | 2020-2021
+[Fundraising and Partnerships](/about/committees/fundraising/) | Connie Rinaldo | Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA | 2019-2020
+[Infrastructure](/about/committees/infrastructure/) | [Tim Robertson](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Denmark | 2020-2021
+[Outreach and Communications](/about/committees/outreach/) | [Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2019-2020
+[Time and Place](/about/committees/tardis/) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2020-2021
 
-### Regional representatives
+## Regional representatives
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Africa | [Brenda Daly](./backgrounds/#africa%20representative_1) [✉️](mailto:B.Daly@sanbi.org.za) | South African National Biodiversity Institute, Cape Town, South Africa (SANBI) | 2019-2020
-Asia | [Ji Liqiang](./backgrounds/#asia%20representative_1) [✉️](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2019-2020
-Europe | [Wouter Addink](./backgrounds/#europe%20representative_1) [✉️](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2019-2020
-Latin America | [Paula Zermoglio](./backgrounds/#latin%20america%20representative_1) [✉️](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
-North America | [Holly Little](./backgrounds/#north%20america%20representative_1) [✉️](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2019-2020
-Oceania | [Elycia (Ely) Wallis](./backgrounds/#oceania%20representative_1) [✉️](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2020-2021
+Africa | [Brenda Daly](mailto:B.Daly@sanbi.org.za) | South African National Biodiversity Institute, Cape Town, South Africa (SANBI) | 2019-2020
+Asia | [Ji Liqiang](mailto:ji@ioz.dot.cn) | Institute of Zoology Chinese Academy of Sciences, China | 2019-2020
+Europe | [Wouter Addink](mailto:wouter.addink@naturalis.nl) | Naturalis Biodiversity Center, Netherlands | 2019-2020
+Latin America | [Paula Zermoglio](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | 2020-2021
+North America | [Holly Little](mailto:littleh@si.edu) | Dept Paleobiology, NMNH Smithsonian Institution, Washington DC, USA | 2019-2020
+Oceania | [Elycia (Ely) Wallis](mailto:ely.wallis@csiro.au) | CSIRO, Australia | 2020-2021
 
-### Regularly invited participants (non-voting)
+## Regularly invited participants (non-voting)
 
 Role | Name | Affiliation
 --- | --- | ---
-Conference Program Committee Co-Chair | Gail Kampmeier [✉️](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
-Administrator, TDWG Secretariat | Stan Blum [✉️](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
+Conference Program Committee Co-Chair | [Gail Kampmeier](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
+Administrator, TDWG Secretariat | [Stan Blum](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
