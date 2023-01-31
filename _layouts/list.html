@@ -28,7 +28,7 @@ description: Template for pages that include a list to navigate to other pages.
               {% endif %}
               <li>
                 {% if subitem.label %}
-                  <span class="badge bg-primary rounded-pill me-1" alt="Task Group">{{ item.label }}</span>
+                  <span class="badge bg-primary rounded-pill me-1" alt="Task Group">{{ subitem.label }}</span>
                 {% endif %}
                 <a href="{{ subitem.href | relative_url }}">{{ subitem_text }}</a>
               </li>
