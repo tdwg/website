@@ -9,6 +9,9 @@ background:
 toc: true
 ---
 
+{: .alert .alert-warning }
+The TDWG website is now using Jekyll as static website generator. The instructions below have not yet been updated to reflect that change.
+
 ## Reporting issues
 
 Discovered a typo? Noticed a bug? Have a suggestion to improve a page? Let us know by [creating an issue](https://github.com/tdwg/website/issues/new) in the website repository.
