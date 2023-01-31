@@ -36,7 +36,9 @@ remark: See also page.layout == 'home' in head.html and header.html.
             <div class="card-body">
               <div class="card-text">
                 {{ page.featured.description | markdownify }}
-                <a class="btn btn-primary stretched-link" href="{{ page.featured.href }}">Read more</a>
+                {% if page.featured.href %}
+                  <a class="btn btn-primary stretched-link" href="{{ page.featured.href }}">Read more</a>
+                {% endif %}
               </div>
             </div>
           </div>
