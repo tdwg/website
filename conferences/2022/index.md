@@ -4,8 +4,9 @@ description: >
   TDWG Annual Conference - A hybrid conference in Sofia, Bulgaria, 17–21 October
 background:
   img: https://images.unsplash.com/photo-1594803294810-c860e5d29e07
-  by: Ivan Nedelchev 
+  by: Ivan Nedelchev
   href: https://unsplash.com/photos/OENyTAi9dg0
+toc: true
 ---
 
 {: .float-end .ms-5 }
@@ -13,7 +14,7 @@ background:
 
 _Last updated 16 October 2022_
 
-## Stronger Together: Standards for linking biodiversity data
+## Stronger Together - Standards for linking biodiversity data
 
 The Biodiversity Information Standards (TDWG) annual conference in 2022 will be a hybrid meeting, hosted in Sofia, Bulgaria.
 

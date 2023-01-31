@@ -1,7 +1,7 @@
 ---
-title: Humboldt Core
+title: Humboldt Extension
 description: >
-  This task group will explore concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt Core terms (Guralnick et al. 2018) will be reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core if possible. If not, the work of the Task Group will be amended to pursue an alternative standard for this type of data within the TDWG corpus of standards. The outcome in either case will be to provide a framework and clear semantics for sharing and integrating biodiversity inventory data.
+  This task group will explore concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt extension terms (Guralnick et al. 2018) will be reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core if possible. If not, the work of the Task Group will be amended to pursue an alternative standard for this type of data within the TDWG corpus of standards. The outcome in either case will be to provide a framework and clear semantics for sharing and integrating biodiversity inventory data.
 background:
   img: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
   by: David Clode
@@ -20,13 +20,19 @@ toc: true
 - [Rob Guralnick](mailto:rguralnick@flmnh.ufl.edu) - Florida Museum of Natural History
 - [John Wieczorek](mailto:gtuco.btuco@gmail.com) - VertNet, Darwin Core Maintenance Interest Group
 - [Paula Zermoglio](mailto:pzermoglio@gmail.com) - VertNet, Darwin Core Maintenance Interest Group
-- [Kate Ingenloff](mailto:kathryn.ingenloff@gmail.com) - Map of Life
+- [Kate Ingenloff](mailto:kathryn.ingenloff@gmail.com) - GBIF
 - [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt University, Darwin Core Maintenance Interest Group
 - [Tim Robertson](mailto:trobertson@gbif.org) - GBIF
 - [Dmitry Schigel](mailto:dschigel@gbif.org) - GBIF
 - [Erlend B. Nilsen](mailto:erlend.nilsen@nina.no) - Living Norway Ecological Data Network & NINA
 - [Peter Brenton](mailto:peter.brenton@csiro.au) - CSIRO, Atlas of Living Australia and TDWG Citizen Science Interest Group and CSA Data & Metadata Working Group
 - [Robert D Stevenson](mailto:rdstevenson10@gmail.com) - University of Massachusetts-Boston
+- [Neil Cobb](mailto:neil.cobb@nau.edu) - Symbiota Collections of Arthropods Network (SCAN)
+- [Debora Drucker](mailto:debora.drucker@embrapa.br) - Empresa Brasileira de Pesquisa Agropecuária (Embrapa)
+- Tomomi Suwa
+- [Zachary Kachian](mailto:zkachian@fieldmuseum.org) - Field Museum
+- [Wesley Hochachka](mailto:wmh6@cornell.edu) - The Cornell Lab of Ornithology
+- [Yi-Ming Gan](mailto:ymgan@naturalsciences.be) - Royal Belgian Institute of Natural Sciences
 
 ## Motivation
 
@@ -49,10 +55,9 @@ Please refer to the Strategy section for clarifications.
 The primary deliverable will be accompanied by:
 
 - Formal definitions of the terms following the Darwin Core format, adapted from the original definitions provided in Guralnick et al. (2018). No dependencies.
-- A Quick Reference Guide to the terms of the Humboldt Core standard/extension following the Darwin Core Quick Reference Guide model. Depends on term definitions being created.
+- A Quick Reference Guide to the terms of the Humboldt extension/extension following the Darwin Core Quick Reference Guide model. Depends on term definitions being created.
 - In the case of Darwin Core extension(s), XML document(s) for the extension(s) following the GBIF Darwin Core Extension schema (<http://rs.gbif.org/schema/extension.xsd>). Depends on term definitions being created.
 - In the case of Darwin Core extension(s), publication of at least seven distinct realworld case study data sets via Darwin Core Archives to cover the range of inventory types identified in Guralnick et al. (2018). Depends on the extension XML documents being created.
-- In the case of a new standard, documentation on how to encode the biodiversity inventories in documents of various relevant formats following the model of the Darwin Core Text, XML, and RDF Guides. Page 3 of 2
 
 It is impossible to predict the duration of some parts of the standards development process, such as the public commentary, in the case of active recommendations for changes. However, several core members of the Task Group have some of their time dedicated to this work. With these considerations in mind, the expectation is to have the outputs ready either for public commentary or for a review manager (depending on standards path determined to be appropriate) by April 2021.
 
@@ -68,7 +73,7 @@ Throughout the process we will work closely with the Darwin Core Maintenance Int
 
 We will also engage experts to aid with the revision of term definitions as necessary.
 
-We will work closely with GBIF staff to coordinate wider implementation and use of Humboldt Core.
+We will work closely with GBIF staff to coordinate wider implementation and use of Humboldt extension.
 
 All development will be done and progress tracked in the Humboldt Core GitHub repository from TDWG GitHub organization.
 
@@ -80,15 +85,21 @@ Please join the mailing list to contact the group <http://lists.tdwg.org/mailman
 
 ## History and context
 
-Assessments on biodiversity change are strongly limited by available data on species distributions (Meyer et al. 2015, Proença, et al. 2016). From the many data types that inform species occurrence, incidental point records, such as those generated from museum specimens or citizen science contributions, had seen strong recent growth. This was facilitated by the development of the Darwin Core data standard (Wieczorek et al. 2012), which allows the integration and re-use of Occurrence data (e.g., Symbiota, Gries et al. 2014 and the Integrated Publishing Toolkit, Robertson et al. 2014). Due to their greater complexity and more multi-faceted communities of providers and users, other biodiversity data types from typically more formal monitoring efforts are, to date, lacking widely applicable standards (Guralnick et al. 2018). The Humboldt Core is an effort to capture standardized information about processes underpinning inventory work (Guralnick et al. 2018).
+Assessments on biodiversity change are strongly limited by available data on species distributions (Meyer et al. 2015, Proença, et al. 2016). From the many data types that inform species occurrence, incidental point records, such as those generated from museum specimens or citizen science contributions, had seen strong recent growth. This was facilitated by the development of the Darwin Core data standard (Wieczorek et al. 2012), which allows the integration and re-use of Occurrence data (e.g., Symbiota, Gries et al. 2014 and the Integrated Publishing Toolkit, Robertson et al. 2014). Due to their greater complexity and more multi-faceted communities of providers and users, other biodiversity data types from typically more formal monitoring efforts are, to date, lacking widely applicable standards (Guralnick et al. 2018). The Humboldt Extension is an effort to capture standardized information about processes underpinning inventory work (Guralnick et al. 2018).
 
 ## Resources
 
-Humboldt Core resources:
+Humboldt extension resources:
 
-- Humboldt Core in Map of Life: <https://mol.org/humboldtcore/>
-- Humboldt Core current implementation: <https://github.com/MapofLife/humboldtcore>
-- Humboldt Core publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. <https://doi.org/10.1111/ecog.02942>
+- Humboldt Extension in Map of Life: <https://mol.org/humboldtcore/>
+- Humboldt Extension publication: Guralnick R, Walls R, Jetz W. (2018) Humboldt Extension – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography, 41: 713-725. <https://doi.org/10.1111/ecog.02942>
+- Humboldt Extension Documentation: <https://tinyurl.com/humboldt-documentation>
+- Humboldt Extension Quick Reference Guide: <https://tdwg.github.io/hc/terms/>
+- Humboldt Extension testing feedback form: <https://forms.gle/7dJ1KahVVZPQKRYMA>
+- Humboldt 101 presentation slides: <https://tinyurl.com/humboldt-101>
+- TDWG 2022 presentation slides - Application of Humboldt Extension to Real World cases: <https://tinyurl.com/tdwg2022-humboldt>
+- TDWG 2022 conference abstract - Application of Humboldt Extension to Real World cases: <https://doi.org/10.3897/biss.6.91502>
+- TDWG 2022 working session - Humboldt presentation slides: <https://tinyurl.com/tdwg2022-work-session-humboldt>
 
 TDWG Documentation
 
