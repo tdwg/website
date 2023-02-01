@@ -1,0 +1,36 @@
+- text: "TDWG 2022"
+  href: /conferences/2022/
+- text: "Program"
+  menu:
+  - text: "TDWG Proceedings"
+    href: https://biss.pensoft.net/collection/384/
+  - text: "Sessions"
+    href: /conferences/2022/session-list/
+  - text: "Keynote speakers"
+    href: /conferences/2022/keynotes/
+  - text: "Posters"
+    href: /conferences/2022/posters/
+  - text: "Schedule"
+    href: /conferences/2022/#schedule
+  - text: "---"
+  - text: "Program Committee"
+    href: /conferences/2022/program-committee/
+- text: "Working sessions" # To be updated to dropdown with working sessions + videos
+  href: conferences/2022/working-sessions/
+- text: "Submissions"
+  menu:
+  - text: "Calls"
+  - text: "Abstracts"
+    href: /conferences/2022/call-for-abstracts/
+  - text: "Organized sessions"
+    href: /conferences/2022/call-for-organized-sessions/
+  - text: "---"
+  - text: "Instructions"
+  - text: "Abstract submission"
+    href: /conferences/2022/instructions-for-abstract-submission/
+  - text: "Editors"
+    href: /conferences/2022/instructions-for-editors/
+  - text: "Presentations"
+    href: /conferences/2022/presentation-info/
+- text: "Logistics"
+  href: /conferences/2022/local-info/

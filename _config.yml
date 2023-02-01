@@ -1,0 +1,55 @@
+# SITE SETTINGS
+title: TDWG
+
+# SOCIAL PROFILES
+social:
+  email: secretary@tdwg.org
+  twitter: tdwg
+  github: tdwg
+  facebook: https://www.facebook.com/groups/326780777736
+
+# THEME SETTINGS
+theme: minima
+remote_theme: tdwg/petridish
+posts_on_home: false
+tweets_on_home: false
+archive_permalink: /news/
+github_edit: master
+logo: /assets/theme/images/tdwg-logo-long.svg
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      toc: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: "/news/:year/:slug/" # Use /news/yyyy/{filename}/ as permalink for all posts
+      toc: false
+  - scope:
+      path: conferences/2020
+    values:
+      navigation: tdwg-2020-navigation
+  - scope:
+      path: conferences/2021
+    values:
+      navigation: tdwg-2021-navigation
+  - scope:
+      path: conferences/2022
+    values:
+      navigation: tdwg-2022-navigation

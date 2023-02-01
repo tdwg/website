@@ -1,0 +1,58 @@
+---
+layout: base
+description: Template for homepage.
+remark: See also page.layout == 'home' in head.html and header.html.
+---
+
+{% if page.featured %}
+  {% assign two_col = true %}
+{% endif %}
+
+<div class="row">
+  <div class="{% if two_col %}col{% else %}col-md-10 col-lg-8 mx-auto{% endif %}">
+    <div class="row">
+      <div class="col">
+
+        {{ content }}
+
+        <div class="d-flex align-items-center justify-content-between mb-4">
+          <img class="img-fluid w-50 me-3" src="{{ '/assets/images/tdwg-logo-home.svg' | relative_url }}">
+          <div>
+            <a class="btn btn-primary text-start mb-1" href="http://eepurl.com/8VIvn"><i class="fa fa-envelope me-1"></i> Subscribe to our announcements</a>
+            <a class="btn btn-primary text-start" href="{{ '/about/membership/' | relative_url }}"><i class="fa fa-user me-1"></i> Become a member</a>
+          </div>
+        </div>
+      </div>
+
+      {% if two_col %}
+        <div class="col-lg-4">
+          <div class="card position-relative">
+            <div class="card-header bg-secondary text-light">
+              Featured
+            </div>
+            {% if page.featured.img %}
+              <img class="card-img-top" style="border-radius: 0px;" src="{{ page.featured.img }}" alt="Background image">  
+            {% endif %}
+            <div class="card-body">
+              <div class="card-text">
+                {{ page.featured.description | markdownify }}
+                {% if page.featured.href %}
+                  <a class="btn btn-primary stretched-link" href="{{ page.featured.href }}">Read more</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+    
+    {% if site.posts_on_home > 0 %}
+      <div class="row cards mt-4">
+        {% for item in site.posts limit:site.posts_on_home %}
+          <div class="col-md-6{% if two_col %} col-lg-4{% endif %}">
+            {% include card.html %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+</div>

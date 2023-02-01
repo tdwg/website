@@ -1,0 +1,27 @@
+- text: "TDWG 2021"
+  href: /conferences/2021/
+- text: "Program"
+  menu:
+  - text: "TDWG Proceedings"
+    href: https://biss.pensoft.net/collection/293/
+  - text: "Sessions"
+    href: /conferences/2021/session-list/
+  - text: "Schedule"
+    href: /conferences/2021/#schedule
+  - text: "---"
+  - text: "Program Committee"
+    href: /conferences/2021/program-committee/
+- text: "Working sessions"
+  href: conferences/2021/working-sessions/
+- text: "Submissions"
+  menu:
+  - text: "Calls"
+  - text: "Abstracts"
+    href: /conferences/2021/call-for-abstracts/
+  - text: "Instructions"
+  - text: "Abstract submission"
+    href: /conferences/2021/instructions-for-abstract-submission/
+  - text: "Editors"
+    href: /conferences/2021/instructions-for-editors/
+  - text: "Presentations"
+    href: /conferences/2021/presentation-info/
