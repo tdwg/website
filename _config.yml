@@ -14,7 +14,7 @@ remote_theme: tdwg/petridish
 posts_on_home: false
 tweets_on_home: false
 archive_permalink: /news/
-github_edit: true
+github_edit: master
 logo: /assets/theme/images/tdwg-logo-long.svg
 
 # BUILD SETTINGS
@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: posts
     values:
-      permalink: "/news/:year/:slug/"   # Use /news/yyyy/{filename}/ as permalink for all posts
+      permalink: "/news/:year/:slug/" # Use /news/yyyy/{filename}/ as permalink for all posts
       toc: false
   - scope:
       path: conferences/2020
