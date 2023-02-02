@@ -61,7 +61,7 @@ Although not a primary goal, we hope that the effort to expand the participatory
 1. Create a GitHub repository for the task group to assure adoption of best practices for the development of TDWG standards and successful submission of final deliverables to the TDWG leadership and community for review. The repository configuration and function will follow existing TDWG practices.
 2. Survey the current inventory of data standardization efforts (classification hierarchies, controlled vocabularies, schemas, etc.) in the mineralogical and related collections communities.
 3. Finalize a vocabulary at the specimen-level (in contrast to the collection or institutional level) through community deliberation and consensus within the task group, the parent ESP Interest Group, and the wider TDWG community.
-4. In adherence to guidelines in the TDWG Standards Documentation Standard (SDS), submit final deliverables (see _Deliverables_ section below) for review in accordance with [TDWG by-laws](/about/process/) for the ratification of standards.
+4. In adherence to guidelines in the TDWG Standards Documentation Standard (SDS), submit final deliverables (see _Deliverables_ section below) for review in accordance with [TDWG By-laws](/about/process/) for the ratification of standards.
 
 _All results from surveys/assessments/solicitations listed above will be published to the task group GitHub Repository with any required supplemental/supporting documentation._
 

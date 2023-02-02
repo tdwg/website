@@ -1,7 +1,7 @@
 ---
 title: Fundraising and Partnerships
 description: >
-  The purpose of the Fundraising and Partnerships Functional Subcommittee is to work together with the TDWG executive committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.
+  The purpose of the Fundraising and Partnerships Functional Subcommittee is to work together with the TDWG Executive Committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.
 background:
   img: https://images.unsplash.com/photo-1506592325738-51000d8957eb
   by: Yoel Kamara
@@ -15,7 +15,7 @@ _Vacant_
 
 ## Mission
 
-The purpose of the Fundraising and Partnerships Functional Subcommittee is to work with the TDWG executive committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.
+The purpose of the Fundraising and Partnerships Functional Subcommittee is to work with the TDWG Executive Committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.
 
 ## Responsibilities
 

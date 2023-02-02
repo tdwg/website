@@ -18,7 +18,7 @@ toc: true
 
 The purpose of the Infrastructure Functional Subcommittee is to maintain the software tools required to support the operation of TDWG.
 
-TDWG is an open community and participants require the means to discuss, coordinate, document, vote on, and version the development of biodiversity data standards. The TDWG organization needs the means to present and communicate its work, manage financial matters and run the annual conference. The Functional Subcommittee exists to advise the executive committee and membership on software solutions to achieve these goals, to assist in developing and documenting information processes, and to oversee implementation and maintenance of the selected tools.
+TDWG is an open community and participants require the means to discuss, coordinate, document, vote on, and version the development of biodiversity data standards. The TDWG organization needs the means to present and communicate its work, manage financial matters and run the annual conference. The Functional Subcommittee exists to advise the Executive Committee and membership on software solutions to achieve these goals, to assist in developing and documenting information processes, and to oversee implementation and maintenance of the selected tools.
 
 ## Responsibilities
 
@@ -35,7 +35,7 @@ The Functional Subcommittee will coordinate and lead the technical helpdesk whic
 
 ### Oversight of implementation
 
-The Functional Subcommittee will evaluate potential software tools of interest to TDWG and provide recommendations to the community and for decision by the executive committee. Once approved, the infrastructure Functional Subcommittee will be tasked with overseeing the implementation of these software tools, including the management of related sub-contracted work.
+The Functional Subcommittee will evaluate potential software tools of interest to TDWG and provide recommendations to the community and for decision by the Executive Committee. Once approved, the infrastructure Functional Subcommittee will be tasked with overseeing the implementation of these software tools, including the management of related sub-contracted work.
 
 ## Organization
 

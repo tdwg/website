@@ -44,7 +44,7 @@ Functional Subcommittee | Name | Affiliation | Term of office
 [Outreach and Communications](/about/committees/outreach/) | [Mareike Petersen](mailto:mareike.petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | [2023-2024](/about/executive/backgrounds/#communications-and-outreach)
 [Time and Place](/about/committees/tardis/) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | [2022-2023](/about/executive/backgrounds/#time-and-place)
 
-### Regional representatives
+### Regional Representatives
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
@@ -63,6 +63,6 @@ Role | Name | Affiliation
 Conference Program Committee Co-Chair | [Gail Kampmeier](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
 Administrator, TDWG Secretariat | [Stan Blum](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
 
-## Previous executive committees
+## Previous Executive Committees
 
 <!-- list will be inserted below content -->

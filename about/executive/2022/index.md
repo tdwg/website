@@ -28,7 +28,7 @@ Functional Subcommittee | Name | Affiliation | Term of office
 [Outreach and Communications](/about/committees/outreach/) | [Mareike Petersen](mailto:Mareike.Petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2021-2022
 [Time and Place](/about/committees/tardis/) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2022-2023
 
-## Regional representatives
+## Regional Representatives
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---

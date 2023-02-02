@@ -28,7 +28,7 @@ Functional Subcommittee | Name | Affiliation | Term of office
 [Outreach and Communications](/about/committees/outreach/) | [Prabhakar Rajagopal](mailto:prabha.prabhakar@gmail.com) | Strand Life Sciences and Ashoka Trust for Research in Ecology and the Environment (ATREE), India | 2017-2018
 [Time and Place](/about/committees/tardis/) | [Patricia Mergen](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2018-2019
 
-## Regional representatives
+## Regional Representatives
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
