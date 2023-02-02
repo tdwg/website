@@ -89,7 +89,7 @@ I have a BA in Biology and Anthropology from the University of Massachusetts, Bo
 
 **Vision**
 
-The mission for this subcommittee states that “FPFS will work together with TDWG executive committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.” These complex and important tasks will require an engaged globally diverse committee from the TDWG membership that can find international opportunities for funding and partnerships. The 2018 New Zealand joint meeting with SPNHC and the upcoming 2019 joint meeting alongside GBIF, CETAF and DiSSCo are excellent examples of the types of partnerships that should be continued and pursued. Engaging European organizations and funders was key. These collaborations with GBIF, CETAF and DiSSCo will present more prospects for shared funding but the FPFS will need to identify and assess new strategic partners and funding opportunities, looking beyond the expected biodiversity organizations, pursuing more corporate partnerships, donors and foundations. 
+The mission for this subcommittee states that “FPFS will work together with TDWG Executive Committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.” These complex and important tasks will require an engaged globally diverse committee from the TDWG membership that can find international opportunities for funding and partnerships. The 2018 New Zealand joint meeting with SPNHC and the upcoming 2019 joint meeting alongside GBIF, CETAF and DiSSCo are excellent examples of the types of partnerships that should be continued and pursued. Engaging European organizations and funders was key. These collaborations with GBIF, CETAF and DiSSCo will present more prospects for shared funding but the FPFS will need to identify and assess new strategic partners and funding opportunities, looking beyond the expected biodiversity organizations, pursuing more corporate partnerships, donors and foundations. 
 
 A long-term vision is to reinforce the visibility of TDWG across the globe, establish strong new alliances and nurture current relationships to secure funding and support.  My key goal for the upcoming year is to establish a strong committee to work with the Executive Committee to reach this vision.
 
@@ -131,11 +131,11 @@ As a chair of the subcommittee ‘Communications and Outreach’, I will work on
 
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
-If elected, I would continue to act as a relay between potential hosts and TDWG executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push regional representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate to the annual conference and also to become active in the TG and IG.
+If elected, I would continue to act as a relay between potential hosts and TDWG Executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push Regional Representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate to the annual conference and also to become active in the TG and IG.
 
-## Regional representatives
+## Regional Representatives
 
-### Africa representative
+### Africa Representative
 
 [**Lawrence Monda**](https://orcid.org/0000-0003-0299-0418) - National Museums of Kenya, Kenya
 
@@ -147,7 +147,7 @@ Joining the museum community has since cultivated a love for biodiversity and cu
 
 TDWG plays a vital role in the development and maintenance of standards. As a TDWG member, through my engagement as Node Manager and a technical advisor for BHL Africa, I will focus on building capacity on greater understanding and use of the standards, its implementation and support the interests of partners and collaborators in the African region within TDWG.
 
-### Asia representative
+### Asia Representative
 
 [**Takeru Nakazato**](https://orcid.org/0000-0002-0706-2867) - Database Center for Life Science, Mishima, Japan
 
@@ -159,13 +159,13 @@ I work as a researcher at the Database Center for Life Science (DBCLS) in Japan.
 
 The activities of TDWG are open to the world. Unfortunately, however, only a small number of participants from Asia attended the annual meeting in recent years. As TDWG Asia Representative, I will increase the number of people in Asia who are interested in TDWG's activities and enhance the presence of Asia's rich biodiversity. Currently, I specialize in bioinformatics and work to improve the accessibility of data related to DNA sequences. Bioinformatics and biodiversity informatics face the same challenges of standardization of data but have tried to solve them individually. By acting as a bridge between these, I will contribute to making it easier for researchers to approach life science data from various aspects. 
 
-### Europe representative
+### Europe Representative
 
 [**Wouter Addink**](https://orcid.org/0000-0002-3090-1761) - Naturalis Biodiversity Center, Leiden, The Netherlands
 
 **Background**
 
-For about 15 years I have been participating in TDWG in different roles. I have actively participated in several interest groups and task groups and I recently assisted with setting up the new task groups for Collections Descriptions (CD) and Minimum Information about a Digital Specimen (MIDS). As Europe representative I co-founded TDWG Europe, a stichting to enable participation of TDWG in EC funded projects. I also contributed to the organisation of Biodiversity_Next, development of the TDWG standards ratification process and a slide deck for presentations about TDWG and the standardisation process. 
+For about 15 years I have been participating in TDWG in different roles. I have actively participated in several interest groups and task groups and I recently assisted with setting up the new task groups for Collections Descriptions (CD) and Minimum Information about a Digital Specimen (MIDS). As Europe Representative I co-founded TDWG Europe, a stichting to enable participation of TDWG in EC funded projects. I also contributed to the organisation of Biodiversity_Next, development of the TDWG standards ratification process and a slide deck for presentations about TDWG and the standardisation process. 
 
 I am employed as Coordinator Research-data and E-infrastructure at Naturalis Biodiversity Center, with a background in plant systematics and agricultural biology.
 
@@ -181,7 +181,7 @@ TDWG has many active participants in Europe and as such Europe plays a major rol
 
 It is my vision that TDWG and the development and support of TDWG standards can be strengthened through EC funded projects in Europe like SYNTHESYS+, DiSSCo Prepare and BiCIKL. The foundation of TDWG Europe has made it possible to now participate as TDWG in such projects and through my role in DiSSCo I am well connected with these projects which enables me to position TDWG well.
 
-### Latin America representative
+### Latin America Representative
 
 [**Paula Zermoglio**](https://orcid.org/0000-0002-6056-5084) - VertNet, Bariloche, Argentina
 
@@ -193,11 +193,11 @@ I am a biologist, and my scientific background is in insect ecology and physiolo
 
 I firmly believe that progress towards better standards and their better use depends on a two-way relationship: TDWG reaching out to the broad community and the community reaching out to TDWG.
 
-As TDWG Latin America representative, my focus will be on closing the gap between TDWG and the local community, fomenting TDWG adoption of regional-friendly approaches, encouraging greater participation of the region in the development and enhancement of TDWG standards and promoting their use. My approach will be centered on improving communication between regional stakeholders and TDWG. For instance, considering the diversity of backgrounds, understanding and needs in the region, I will create opportunities for the region to engage with TDWG by fostering dissemination of TDWG contents in the local languages.
+As TDWG Latin America Representative, my focus will be on closing the gap between TDWG and the local community, fomenting TDWG adoption of regional-friendly approaches, encouraging greater participation of the region in the development and enhancement of TDWG standards and promoting their use. My approach will be centered on improving communication between regional stakeholders and TDWG. For instance, considering the diversity of backgrounds, understanding and needs in the region, I will create opportunities for the region to engage with TDWG by fostering dissemination of TDWG contents in the local languages.
 
 More broadly, as member of the Executive, I will work towards a better integration of TDWG standards across the global community, both from the technical and the social points of view.
 
-### North America representative
+### North America Representative
 
 [**Holly Little**](https://orcid.org/0000-0001-7909-4166) - Dept of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington DC, USA
 
@@ -217,6 +217,6 @@ A great example of this effort was a workshop I co-convened, at the SPNHC 2017 m
 
 My experience within the community and engagement in efforts to establish an environment of collaboration and understanding sits within an important intersection of projects and people. As the North America Representative, I will bring new people into TDWG by informing the relevance that they have for TDWG and that TDWG has for them. I will also help to encourage continued progress and innovation for TDWG that remains engaged with, and informed of, the local implementation of our global efforts.
 
-### Oceania representative
+### Oceania Representative
 
 To be appointed

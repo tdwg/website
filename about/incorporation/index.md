@@ -1,5 +1,5 @@
 ---
-title: Incorporation and status
+title: Incorporation and Status
 description: >
   Documentation of TDWG incorporation and non-profit status.
 background:
@@ -11,7 +11,7 @@ toc: true
 
 ## United States of America
 
-Non-profit IRS 501(c)(3) status [Letter of determination](/assets/documents/tdwg_irs_det_501c3_no-ein.pdf)
+Non-profit IRS 501(c)(3) status [Letter of Determination](/assets/documents/tdwg_irs_det_501c3_no-ein.pdf)
 
 Our employer identification number (EIN) is redacted in this copy. Contact the [secretariat](mailto:secretariat@tdwg.org) if a copy with our EIN is required.
 

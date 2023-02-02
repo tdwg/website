@@ -1,7 +1,7 @@
 ---
 title: TDWG Process
 description: >
-  These are the TDWG by-laws adopted by members in 2006. They specify organisational and procedural framework for developing and ratifying [TDWG standards](/standards).
+  These are the TDWG By-laws adopted by members in 2006. They specify organisational and procedural framework for developing and ratifying [TDWG standards](/standards).
 background:
   img: https://images.unsplash.com/photo-1527746010177-09bdc64a276d
   by: Casey Horner

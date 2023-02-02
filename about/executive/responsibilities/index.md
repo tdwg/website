@@ -59,7 +59,7 @@ The responsibilities of subcommittee chairs are described in these linked pages
 - [Outreach and Communications](/about/committees/outreach/)
 - [Time and Place](/about/committees/tardis/)
 
-## Regional representatives
+## Regional Representatives
 
 Regional Representatives have the responsibility to represent the interests of TDWG members on the Executive Committee; and to represent TDWG in appropriate meetings
 and other activities.

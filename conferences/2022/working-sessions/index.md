@@ -171,7 +171,7 @@ Organizer
 : [Mareike Petersen](mailto:mareike.petersen@mfn.berlin), Museum für Naturkunde (MfN) Berlin, Berlin, Germany
 
 About the group
-: The purpose of the Outreach and communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
+: The purpose of the Outreach and Communications Functional Subcommittee is to promote TDWG activities and recruit members around the world, craft and share meaningful stories about TDWG standards and their application, and develop materials that can be used by all TDWG members.
 
 ### Audubon Core Maintenance Group
 

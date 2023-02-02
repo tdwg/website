@@ -39,7 +39,7 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
 ## Strategy
 
 - Most of the outputs have already been produced and used for the publication of chronometric age data for multiple zooarchaeology and paleontology data sets. We will try to finalize the definitions of the uncertainty terms through continued community discussion to try to achieve a consensus.
-- The outputs will follow the TDWG Standards Documentation Standard (SDS) and will be reviewed as required processes by the [TDWG by-laws](/about/process/) for the ratification of standards.
+- The outputs will follow the TDWG Standards Documentation Standard (SDS) and will be reviewed as required processes by the [TDWG By-laws](/about/process/) for the ratification of standards.
 
 ## Becoming involved
 

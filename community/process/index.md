@@ -64,8 +64,8 @@ Issues that are likely to be addressed within this work include:
 2. Draft 1 of the Process subgroup charter (November 2005: Done)
 3. First subgroup meeting (January 2006: Done)
 4. Draft of the new process documents which include
-    1. New constitution
-    2. New process
+    1. New Constitution
+    2. New Process
     3. Charter template (February 2006)
 5. Final version of the new process documents (April 2006)
 6. Approval of the new process (June 2006)

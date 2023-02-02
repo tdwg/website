@@ -148,7 +148,7 @@ The intention is that an uninitiated member of the community can easily understa
 
 The Review Manager should prepare a request for comment, announcing the initiation of the public review. The announcement must include a description of how to submit a comment and the date range within which comments may be submitted (covering a minimum of 30 days). The announcement should be made in the name of the Review Manager and include an email address that commenters can use to contact the Review Manager. An example announcement can be found as Section 5.3 and links to prior announcements in Section 5.4. 
 
-When the announcement is complete, the Review Manager should post the text on the landing page of the Task Group's repository. The Chair of the Outreach and Communications functional subcommittee will assist the Review Manager in publicizing the announcement. Typically, this will involve creating a news item on the TDWG website, which is accessible via a URL. The announcement itself should be sent out to email distribution lists commonly used by the community and the news item URL can be included as part of official TDWG social media posts. The Review Manager, Author, and other community members should be encouraged to forward the announcement or link to their networks in order to publicize the public review as widely as possible. As the comment period nears its end, it is advisable to follow up with a reminder via the same communication channels.
+When the announcement is complete, the Review Manager should post the text on the landing page of the Task Group's repository. The Chair of the Outreach and Communications Functional Subcommittee will assist the Review Manager in publicizing the announcement. Typically, this will involve creating a news item on the TDWG website, which is accessible via a URL. The announcement itself should be sent out to email distribution lists commonly used by the community and the news item URL can be included as part of official TDWG social media posts. The Review Manager, Author, and other community members should be encouraged to forward the announcement or link to their networks in order to publicize the public review as widely as possible. As the comment period nears its end, it is advisable to follow up with a reminder via the same communication channels.
 
 A publicly visible issue tracking system should be used in the Public Review. This will ensure that the Author and the community can view the comments and that a log of all comments is maintained for future reference. Comments are normally posted by and identified with the commenter. However, comments may also be emailed to the Review Manager in two circumstances: if the commenter is unable to use the issue tracker or if the commenter wishes to remain anonymous. Although the default is signed comments, anonymous comments may be accepted at the Review Manager's discretion. The Review Manager should post emailed comments to the tracker on behalf of the submitter. 
 
@@ -181,7 +181,7 @@ It is reasonable for the review manager to expect a response from the Executive 
 
 ![TDWG ratification process](/assets/images/tdwg-process.png)
 
-### 4.1 From the TDWG Process (by-laws) - Ratification of Standards
+### 4.1 From the TDWG Process (By-laws) - Ratification of Standards
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.
 2. The Secretary notifies the Executive Committee of the submission and requests a decision on advancing the draft. This decision must be made within 30 days of receipt of the draft.
@@ -195,7 +195,7 @@ It is reasonable for the review manager to expect a response from the Executive 
 5. Public Review. The Executive Committee directs that the Proposed Standard be placed in the TDWG repository, then publishes a request for comment (RFC) that describes facilities for, and duration of Public Review. A minimum of 30 days must be allowed for public comments. At the end of the comment period, the Task Group may modify the specification or its documentation as necessary. Any subsequent submission should address the comments received in the Public Review.
 6. Accept as a Standard - A draft is accepted as a Standard and its status in the repository is updated accordingly. A specification must have been through at least one round of Public Review before the Executive Committee may accept it as a Standard.
 
-The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the by-laws. See the [TDWG Process web page](/about/process/) for the entire by-laws text.
+The figure depicts the steps in reviewing and ratifying a TDWG standard. The figure is not formally part of the By-laws. See the [TDWG Process web page](/about/process/) for the entire By-laws text.
 
 ### 4.2 Example of an Email to Potential Expert Reviewers
 

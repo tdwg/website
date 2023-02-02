@@ -58,8 +58,8 @@ Background
 : I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
 
 Vision
-: My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive committee, members of TDWG Interest and Task Groups and users of TDWG standards.
-: I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive committee, especially our chair and hope to be a good proxy.
+: My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
+: I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
 : I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
 
 <!-- serving 2022-23
@@ -120,10 +120,10 @@ Background
 : As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
 Vision
-: If elected, I would continue to act as a relay between potential hosts and TDWG Executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push regional representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate in the annual conference and also to become active in the TG and IG.
+: If elected, I would continue to act as a relay between potential hosts and TDWG Executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push Regional Representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate in the annual conference and also to become active in the TG and IG.
 -->
 
-### Regional representative for Africa
+### Regional Representative for Africa
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
@@ -138,7 +138,7 @@ Background
 Vision
 : My vision is a vibrant African specimen collections digitization and biodiversity informatics community that shares and publishes data willingly and openly. Skills and capacity development are in my view the most important priorities for achieving this vision. I see participation in TDWG events, as well as others such as the iDigBio events, as an essential part of this capacity development process, and would value the opportunity to play a role in broadening participation and interest in TDWG activities within the wider African community. I also hope that my experience and technical background would bring some value to the TDWG Executive Committee in achieving its goals and objectives.
 
-### Regional representative for Asia
+### Regional Representative for Asia
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
@@ -163,7 +163,7 @@ Vision
 : TDWG2024 is planned to be held in Okinawa, Japan. I am already hard at work preparing for it. The activities of TDWG are open to the world, but unfortunately, only a small number of participants from Asia attended the annual meeting in recent years. Especially through TDWG2024, which will be held in Asia for the first time in many years, I hope to increase the number of people in Asia who are interested in TDWG's activities and enhance the presence of Asia's rich biodiversity.
 : I have a strong interest in the interplay between biodiversity and genetic sequence data. Bioinformatics and biodiversity informatics face the same challenges of standardization of data but have tried to solve them individually. As a bridge between the two, I would like to contribute to making it easier for researchers to approach various data from both biodiversity and sequence perspectives.
 
-### Regional representative for Europe
+### Regional Representative for Europe
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
@@ -179,10 +179,10 @@ Background
 
 Vision
 : There are multiple exciting initiatives across Europe which will benefit from global connectivity, including the continued development of DiSSCo and the establishment of national DiSSCo nodes.
-: As Regional representative for Europe, I would maintain and strengthen connections between the other regional representatives and promote TDWG's role in developing and promoting the use of biodiversity data standards. DiSSCo, and related initiatives around the world (e.g., GBIFs regional programmes, iDigBio, and ALA), are more effective and efficient when they collaborate and share approaches. Our community still has more to gain from establishing more shared practices, protocols, and training programmes. I would like to promote the co-development of more regional initiatives, or at least help connect people and initiatives that have the potential to benefit by working together.
+: As Regional Representative for Europe, I would maintain and strengthen connections between the other Regional Representatives and promote TDWG's role in developing and promoting the use of biodiversity data standards. DiSSCo, and related initiatives around the world (e.g., GBIFs regional programmes, iDigBio, and ALA), are more effective and efficient when they collaborate and share approaches. Our community still has more to gain from establishing more shared practices, protocols, and training programmes. I would like to promote the co-development of more regional initiatives, or at least help connect people and initiatives that have the potential to benefit by working together.
 : I am keen to promote wider participation in SPNHC and will ensure TDWG's work is brought to CETAF's Digitisation Working Group and Information Science and Technology Committee. Over the next two years I will be working to develop the DiSSCo-UK node and want to ensure that our work benefits the wider community, that we implement TDWG standards, and encourage wider participation in TDWG activities.
 
-### Regional representative for Latin America
+### Regional Representative for Latin America
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
@@ -194,10 +194,10 @@ Background
 
 Vision
 : I firmly believe that progress towards better standards and their better use depends on a two-way relationship: TDWG reaching out to the broad community and the community reaching out to TDWG.
-: As TDWG Latin America representative, my focus will be on closing the gap between TDWG and the local community, fomenting TDWG adoption of regional-friendly approaches, encouraging greater participation of the region in the development and enhancement of TDWG standards and promoting their use. My approach will be centered on improving communication between regional stakeholders and TDWG. For instance, considering the diversity of backgrounds, understanding and needs in the region, I will create opportunities for the region to engage with TDWG by fostering dissemination of TDWG contents in the local languages.
+: As TDWG Latin America Representative, my focus will be on closing the gap between TDWG and the local community, fomenting TDWG adoption of regional-friendly approaches, encouraging greater participation of the region in the development and enhancement of TDWG standards and promoting their use. My approach will be centered on improving communication between regional stakeholders and TDWG. For instance, considering the diversity of backgrounds, understanding and needs in the region, I will create opportunities for the region to engage with TDWG by fostering dissemination of TDWG contents in the local languages.
 : More broadly, as member of the Executive, I will work towards a better integration of TDWG standards across the global community, both from the technical and the social points of view.
 
-### Regional representative for North America
+### Regional Representative for North America
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
@@ -210,14 +210,14 @@ Background
 : Chandra received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers. She was an active member of the TDWG 2022 Conference Program Committee and was integral to the success of the hybrid meeting. She has already expressed a keen interest in being involved with the planning of TDWG 2023 hosted in Tasmania and TDWG 2024 in Okinawa. Her current location in Hawaii provides an important geographical linkage between the Asia-Pacific, Oceania and North America.
 
 Vision
-: If elected as Regional representative, her vision will be focused on greater representation within early career researchers, students and those researching relatively understudied taxonomic groups across North America. While DarwinCore (and by extension the TDWG community) is well known within the museum and digitization communities, there are many who have unique use cases that may be overlooked due to taxonomic biases in funding. She would also like to focus on a greater awareness of TDWG within younger researchers and providing clear benefits for entry into the community.
+: If elected as Regional Representative, her vision will be focused on greater representation within early career researchers, students and those researching relatively understudied taxonomic groups across North America. While DarwinCore (and by extension the TDWG community) is well known within the museum and digitization communities, there are many who have unique use cases that may be overlooked due to taxonomic biases in funding. She would also like to focus on a greater awareness of TDWG within younger researchers and providing clear benefits for entry into the community.
 
 <!-- 2022-23
-### Regional representative for Oceania
+### Regional Representative for Oceania
 
 Nominee
 : Dr. Shelley James - Western Australian Herbarium
 
 Background
-: Dr Shelley James is the Collections Manager of the Western Australian Herbarium, based in Kensington, Western Australia. She has been acting as the Regional representative for Oceania for the past six months, and is part of the TDWG 2021 Program Committee. Shelley has been assisting with the planning for the TDWG 2024 meeting in her position as Member at Large on the Society for the Preservation of Natural History Collections (SPNHC) Council, and looks forward to continuing to help with planning. Shelley has been an active participant and member of TDWG for more than 10 years. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities. With her experience working in Australasia, Melanesia and the Pacific, she is well placed to communicate the biodiversity data standards activities being undertaken across the globe as the TDWG Oceania Regional representative.
+: Dr Shelley James is the Collections Manager of the Western Australian Herbarium, based in Kensington, Western Australia. She has been acting as the Regional Representative for Oceania for the past six months, and is part of the TDWG 2021 Program Committee. Shelley has been assisting with the planning for the TDWG 2024 meeting in her position as Member at Large on the Society for the Preservation of Natural History Collections (SPNHC) Council, and looks forward to continuing to help with planning. Shelley has been an active participant and member of TDWG for more than 10 years. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities. With her experience working in Australasia, Melanesia and the Pacific, she is well placed to communicate the biodiversity data standards activities being undertaken across the globe as the TDWG Oceania Regional Representative.
 -->

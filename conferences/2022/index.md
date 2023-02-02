@@ -149,7 +149,7 @@ The Ministry of Foreign Affairs for the Republic of Bulgaria has provided the [f
 
 [Medical labs](/conferences/2022/local-info/#covid%20testing) near the hotel and city center offer PCR or rapid antigen tests for COVID. You are encouraged to bring your own rapid COVID test kits.
 
-**TDWG now has a [liability disclaimer and release](/about/liability-disclaimer/) policy** regarding COVID-19 and relevant to in-person conference attendees.
+**TDWG now has a [Liability Disclaimer and Release](/about/liability-disclaimer/) policy** regarding COVID-19 and relevant to in-person conference attendees.
 
 ### Travel insurance
 

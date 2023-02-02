@@ -23,7 +23,7 @@ This repository contains the content and settings for the [TDWG website](https:/
 │       ├── journal           : BISS page
 │       ├── community         : Interest, Task and Maintenance Groups pages
 │       ├── conferences       : Conference landing pages
-│       └── about             : Executive, constitution, contact, etc. pages
+│       └── about             : Executive, Constitution, contact, etc. pages
 │
 ├── settings.py, settings-prod.py : Generic website settings
 ├── requirements.txt          : Python requirements for Pelican

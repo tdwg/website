@@ -1,7 +1,7 @@
 ---
 title: Constitution
 description: >
-  This page is a copy of the TDWG constitution, which is officially maintained in a [separate repository](https://github.com/tdwg/constitution).
+  This page is a copy of the TDWG Constitution, which is officially maintained in a [separate repository](https://github.com/tdwg/constitution).
 background:
   img: https://images.unsplash.com/photo-1458067380247-41000a5397cb
   by: Hannes Wolf
@@ -10,7 +10,7 @@ github: https://github.com/tdwg/constitution
 toc: true
 ---
 
-<!-- Changes to the constitution need to be suggested at https://github.com/tdwg/constitution first. This page is just a copy. -->
+<!-- Changes to the Constitution need to be suggested at https://github.com/tdwg/constitution first. This page is just a copy. -->
 
 ## Article 1. Name and Purpose
 

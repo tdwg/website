@@ -11,6 +11,6 @@ tags: [BiCIKL]
 
 [![BiCIKL logo](https://static.tdwg.org/sponsors/bicikl_logo_full_mixed_on-black_w600.png)](https://bicikl-project.eu)
 
-The fourteen partners of the [BiCIKL project](https://bicikl-project.eu/) met in Seville (Spain) for their first physical meeting at the beginning of May, one year after the start of the project, whose mission is to catalyse a top-down culture change in the way researchers work with data about the world’s biodiversity at each step of the research process. TDWG was well represented by 4 members of the Executive committee!
+The fourteen partners of the [BiCIKL project](https://bicikl-project.eu/) met in Seville (Spain) for their first physical meeting at the beginning of May, one year after the start of the project, whose mission is to catalyse a top-down culture change in the way researchers work with data about the world’s biodiversity at each step of the research process. TDWG was well represented by 4 members of the Executive Committee!
 
 Find out more about the [event](https://bicikl-project.eu/news/bicikl-project-wraps-first-year-integrating-fair-data-biodiversity).
