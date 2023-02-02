@@ -1,4 +1,4 @@
-[![Build Status](https://builds.gbif.org/job/tdwg-jekyll-website/badge/icon?style=flat-square)](https://builds.gbif.org/job/tdwg-jekyll-website/)
+[![Build Status](https://builds.gbif.org/job/tdwg-website/badge/icon?style=flat-square)](https://builds.gbif.org/job/tdwg-website/)
 
 # TDWG website
 
