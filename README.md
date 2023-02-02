@@ -1,3 +1,5 @@
+[![Build Status](https://builds.gbif.org/job/tdwg-jekyll-website/badge/icon?style=flat-square)](https://builds.gbif.org/job/tdwg-jekyll-website/)
+
 # TDWG website
 
 This repository contains the content and settings for the [TDWG website](https://www.tdwg.org/). It is generated as a static website with [Pelican](http://docs.getpelican.com/).
