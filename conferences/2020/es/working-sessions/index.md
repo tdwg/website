@@ -7,7 +7,7 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [English](/conferences/2020/working-sessions/).
 
 ## Calendario

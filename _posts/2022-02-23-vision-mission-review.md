@@ -32,4 +32,4 @@ _A mission is a definition of the organization's business state and objectives i
 
 We are looking forward to your feedback in this survey until 15 March 2022!
 
-[Go to survey!](https://survey.naturkundemuseum-berlin.de/en/node/821/){: .btn .btn-secondary }
+[Go to survey!](https://survey.naturkundemuseum-berlin.de/en/node/821/){:.btn .btn-secondary}

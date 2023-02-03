@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [French](/conferences/2021/fr/info-pour-les-presentations/) and [Spanish](/conferences/2021/es/info-de-presentaciones/).
 
 _Last updated 14 October 2021_

@@ -64,7 +64,7 @@ As a personal conviction, I’ll be always looking to promote the participation 
 
 ## Subcommittee chairs
 
-{: id="tag" }
+{:id="tag"}
 ### Technical Architecture Group
 
 [**Steve Baskauf**](https://orcid.org/0000-0003-4365-3135) - Vanderbilt University Libraries, Nashville, Tennessee, USA

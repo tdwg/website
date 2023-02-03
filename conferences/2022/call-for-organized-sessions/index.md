@@ -7,7 +7,7 @@ background:
 toc: false
 ---
 
-{: .float-end .ms-5 }
+{:.float-end .ms-5}
 ![TDWG 2022 Logo](https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png)
 
 _Last updated 6 May 2022_

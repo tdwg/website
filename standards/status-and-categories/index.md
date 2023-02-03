@@ -3,7 +3,7 @@ title: Standards Status and Categories
 toc: true
 ---
 
-{: id="status" }
+{:id="status"}
 ## Status values
 
 ### Current Standard
@@ -26,7 +26,7 @@ Standards that were ratified prior to 2005 and that are not currently being prom
 
 Standards that have been ratified by TDWG in the past but that are no longer recommended.
 
-{: id="category" }
+{:id="category"}
 ## Categories of TDWG standards
 
 ### Technical Specification (TS)

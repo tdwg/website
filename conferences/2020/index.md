@@ -7,10 +7,10 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [Spanish](/conferences/2020/es/).
 
-{: .float-end .ms-5 .w-50 }
+{:.float-end .ms-5 .w-50}
 ![TDWG 2020 Logo](https://static.tdwg.org/conferences/2020/TDWG2020_logo_ark_h350.png)
 
 Standards that describe and support the exchange of biodiversity information are a critical scientific infrastructure. They enable data to be integrated in support of research, as well as decision-making and conservation planning. Ultimately, standards extend the usability of data across taxa, scientific disciplines, and administrative boundaries. Our annual Biodiversity Information Standards (TDWG) conferences serve two purposes:

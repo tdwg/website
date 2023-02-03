@@ -27,7 +27,7 @@ Virtual posters and optional short videos will be available for viewing virtuall
 
 [See published abstracts](https://biss.pensoft.net/collection/386/)
 
-{: id="sym01%20linking%20worldwide%20plant%20data%20-%20world%20flora%20online,%20wfo%20plant%20list,%20ipni,%20and%20beyond" }
+{:id="sym01%20linking%20worldwide%20plant%20data%20-%20world%20flora%20online,%20wfo%20plant%20list,%20ipni,%20and%20beyond"}
 ## SYM01 Linking Worldwide Plant Data – World Flora Online, WFO Plant List, IPNI, and beyond
 
 Session type
@@ -40,7 +40,7 @@ Great progress has been made recently in linking worldwide plant data. The World
 
 [See published abstracts](https://biss.pensoft.net/collection/387/)
 
-{: id="sym02%20how%20are%20biodiversity%20infrastructures%20stepping%20up%20to%20address%20the%20biodiversity%20crisis?" }
+{:id="sym02%20how%20are%20biodiversity%20infrastructures%20stepping%20up%20to%20address%20the%20biodiversity%20crisis?"}
 ## SYM02 How are biodiversity infrastructures stepping up to address the biodiversity crisis?
 
 Session type
@@ -53,7 +53,7 @@ There are some complex and fundamental questions regarding life on Earth that st
 
 [See published abstracts](https://biss.pensoft.net/collection/388/)
 
-{: id="sym03%20national%20biodiversity%20data%20centers:%20challenges%20and%20opportunities" }
+{:id="sym03%20national%20biodiversity%20data%20centers:%20challenges%20and%20opportunities"}
 ## SYM03 National biodiversity data centers: challenges and opportunities
 
 Session type
@@ -66,7 +66,7 @@ In recent years, a number of national biodiversity data centers have been establ
 
 [See published abstracts](https://biss.pensoft.net/collection/389/)
 
-{: id="sym04%20sharing%20and%20visualizing%20species%20data%20and%20information" }
+{:id="sym04%20sharing%20and%20visualizing%20species%20data%20and%20information"}
 ## SYM04 Sharing and visualizing species data and information
 
 Session type
@@ -85,7 +85,7 @@ Species information and species reference catalogues remain one of the top produ
 
 [See published abstracts](https://biss.pensoft.net/collection/390/)
 
-{: id="sym05%20standardizing%20biodiversity%20data%20quality" }
+{:id="sym05%20standardizing%20biodiversity%20data%20quality"}
 ## SYM05 Standardizing Biodiversity Data Quality
 
 Session type
@@ -98,7 +98,7 @@ There is a need for Standardization in Biodiversity Quality - from collecting an
 
 [See published abstracts](https://biss.pensoft.net/collection/391/)
 
-{: id="sym06%20open-source%20approaches%20to%20mobilizing%20biodiversity%20data" }
+{:id="sym06%20open-source%20approaches%20to%20mobilizing%20biodiversity%20data"}
 ## SYM06 Open-source approaches to mobilizing biodiversity data
 
 Session type
@@ -111,7 +111,7 @@ Data mobilization, the act of making data openly accessible and interoperable, i
 
 [See published abstracts](https://biss.pensoft.net/collection/392/)
 
-{: id="lt07%20how%20should%20we%20exchange%20management%20data%20on%20wildlife%20and%20invasive%20alien%2" s
+{:id="lt07%20how%20should%20we%20exchange%20management%20data%20on%20wildlife%20and%20invasive%20alien%2" s
 pecies?"}
 ## LT07 How should we exchange management data on wildlife and invasive alien species?
 
@@ -125,7 +125,7 @@ Despite recent improvements, the Darwin Core (DwC) standard is not able to captu
 
 [See published abstracts](https://biss.pensoft.net/collection/393/)
 
-{: id="sym08%20event-based%20management%20of%20natural%20science%20collections%20data%20driven%20by%20chaldriven by challenging research use-case" s
+{:id="sym08%20event-based%20management%20of%20natural%20science%20collections%20data%20driven%20by%20chaldriven by challenging research use-case" s
 enging%20research%20use-cases"}
 ## SYM08 Event-based management of Natural Science collections data driven by challenging research use-cases
 
@@ -139,7 +139,7 @@ The first part of the symposium provides room for researchers to describe their 
 
 [See published abstracts](https://biss.pensoft.net/collection/394/)
 
-{: id="sym09%20a%20global%20collections%20network:%20building%20capacity%20and%20developing%20community" }
+{:id="sym09%20a%20global%20collections%20network:%20building%20capacity%20and%20developing%20community"}
 ## SYM09 A Global Collections Network: building capacity and developing community
 
 Session type
@@ -152,7 +152,7 @@ Information-rich, standardized and persistent provider records lie at the heart 
 
 [See published abstracts](https://biss.pensoft.net/collection/395/)
 
-{: id="sym10%20biodiversity%20informatics%20perspectives%20from%20asia%20&%20the%20global%20south" }
+{:id="sym10%20biodiversity%20informatics%20perspectives%20from%20asia%20&%20the%20global%20south"}
 ## SYM10 Biodiversity Informatics perspectives from Asia & the Global South
 
 Session type
@@ -166,7 +166,7 @@ The Asian continent is a biodiversity-rich region with a lot of human population
 
 [See published abstracts](https://biss.pensoft.net/collection/396/)
 
-{: id="wksh11%20data%20liberation%20for%20open%20knowledge%20systems:%20the%20legal%20landscape%20of%20daalandscape of data licensing in publishin" g
+{:id="wksh11%20data%20liberation%20for%20open%20knowledge%20systems:%20the%20legal%20landscape%20of%20daalandscape of data licensing in publishin" g
 %20licensing%20in%20publishing"}
 ## WKSH11 Data liberation for open knowledge systems: the legal landscape of data licensing in publishing
 
@@ -180,7 +180,7 @@ A key question for biodiversity research and applied conservation, which both re
 
 [See published abstracts](https://biss.pensoft.net/collection/397/)
 
-{: id="sym12%20information%20extraction%20from%20digital%20specimen%20images%20using%20artificial%20intel" i
+{:id="sym12%20information%20extraction%20from%20digital%20specimen%20images%20using%20artificial%20intel" i
 gence"}
 ## SYM12 Information extraction from digital specimen images using Artificial Intelligence
 
@@ -194,7 +194,7 @@ Digitization of specimen images from all over the world is accelerating. All the
 
 [See published abstracts](https://biss.pensoft.net/collection/398/)
 
-{: id="pd13%20essential%20biodiversity%20variables,%20from%20concept%20to%20implementation" }
+{:id="pd13%20essential%20biodiversity%20variables,%20from%20concept%20to%20implementation"}
 ## PD13 Essential Biodiversity Variables, from concept to implementation
 
 Session type
@@ -207,7 +207,7 @@ The Essential Biodiversity Variables (EBVs) constitute the information framework
 
 [See published abstracts](https://biss.pensoft.net/collection/399/)
 
-{: id="ltd14%20ensuring%20fair%20principles%20and%20open%20science%20through%20integration%20of%20biodivesDat" a
+{:id="ltd14%20ensuring%20fair%20principles%20and%20open%20science%20through%20integration%20of%20biodivesDat" a
 ity%20data"}
 ## LTD14 Ensuring FAIR Principles and Open Science through Integration of Biodiversity Data
 
@@ -221,7 +221,7 @@ The rapid growth and increasing quantities of digital data from life science and
 
 [See published abstracts](https://biss.pensoft.net/collection/400/)
 
-{: id="sym15%20information%20session%20about%20late-stage%20task%20group%20submissions%20of%20standards%2" a
+{:id="sym15%20information%20session%20about%20late-stage%20task%20group%20submissions%20of%20standards%2" a
 dditions"}
 ## SYM15 Information session about late-stage Task Group submissions of standards additions
 
@@ -235,7 +235,7 @@ Developing biodiversity information standards is at the core of TDWG's mission a
 
 [See published abstracts](https://biss.pensoft.net/collection/401/)
 
-{: id="sym17%20an%20oak%20tree%20sighting%20in%20the%20ocea?sighting in the ocean? Approaches to correcting biodiversity data after collectio" n
+{:id="sym17%20an%20oak%20tree%20sighting%20in%20the%20ocea?sighting in the ocean? Approaches to correcting biodiversity data after collectio" n
 %20approaches%20to%20correcting%20biodiversity%20data%20after%20collection"}
 ## SYM17 An oak tree sighting in the ocean? Approaches to correcting biodiversity data after collection
 
@@ -249,7 +249,7 @@ Biodiversity data quality is of universal concern in each step of the process fr
 
 [See published abstracts](https://biss.pensoft.net/collection/403/)
 
-{: id="sym18%20extended%20taxonomic%20curation:%20moving%20beyond%20species%20lists%20to%20linking%20spec" e
+{:id="sym18%20extended%20taxonomic%20curation:%20moving%20beyond%20species%20lists%20to%20linking%20spec" e
 s%20data"}
 ## SYM18 Extended taxonomic curation: moving beyond species lists to linking species data
 
@@ -263,7 +263,7 @@ This symposium discusses the idea of how “extended” taxonomic curation can p
 
 [See published abstracts](https://biss.pensoft.net/collection/404/)
 
-{: id="int19%20the%20role%20of%20the%20wikimedia%20ecosystem%20in%20linking%20biodiversity%20data" }
+{:id="int19%20the%20role%20of%20the%20wikimedia%20ecosystem%20in%20linking%20biodiversity%20data"}
 ## INT19 The role of the Wikimedia ecosystem in linking biodiversity data
 
 Session type

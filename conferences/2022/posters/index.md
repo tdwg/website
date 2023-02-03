@@ -35,7 +35,7 @@ Voting closed end of day Thursday October 20 and winners were announced during t
 
 #### iKNOW: A platform for knowledge graph construction for biodiversity
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-93867-babalou](https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.png)](https://static.tdwg.org/conferences/2022/posters/vps-93867-babalou.pdf)
 
 Author(s)
@@ -46,11 +46,11 @@ Abstract
 
 Presenting author
 : Samira Babalou
-{: .clearfix }
+{:.clearfix}
 
 #### Rethinking Collection Management Data Models
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-91297-collier](https://static.tdwg.org/conferences/2022/posters/vps-91297-collier.png)](https://static.tdwg.org/conferences/2022/posters/vps-91297-collier.pdf)
 
 Author(s)
@@ -61,11 +61,11 @@ Abstract
 
 Presenting author
 : Ben Collier
-{: .clearfix }
+{:.clearfix}
 
 #### From Shells in House Cabinets to Structured Data for Research: The mobilization of frozen biodiversity data in Italy
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-93584-giannini](https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.png)](https://static.tdwg.org/conferences/2022/posters/vps-93584-giannini.pdf)
 
 Author(s)
@@ -76,11 +76,11 @@ Abstract
 
 Presenting author
 : Arianna Giannini
-{: .clearfix }
+{:.clearfix}
 
 #### Developing and Maintaining a National Biodiversity Data Infrastructure – An example from Norway
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-94078-hovstad](https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.png)](https://static.tdwg.org/conferences/2022/posters/vps-94078-hovstad.pdf)
 
 Author(s)
@@ -91,11 +91,11 @@ Abstract
 
 Presenting author
 : Knut Anders Hovstad
-{: .clearfix }
+{:.clearfix}
 
 #### An Update on Persistent Identifiers in Norwegian Biodiversity Data
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-91585-johaadien](https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.png)](https://static.tdwg.org/conferences/2022/posters/vps-91585-johaadien.jpg)
 
 Author(s)
@@ -106,11 +106,11 @@ Abstract
 
 Presenting author
 : Rukaya Johaadien
-{: .clearfix }
+{:.clearfix}
 
 #### BiodivBank: designing a global repository and portal for structured biodiversity data
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-95668-kazem](https://static.tdwg.org/conferences/2022/posters/vps-95668-kazem.png)](https://static.tdwg.org/conferences/2022/posters/vps-95668-kazem.pdf)
 
 Author(s)
@@ -121,11 +121,11 @@ Abstract
 
 Presenting author
 : Anahita J.N. Kazem
-{: .clearfix }
+{:.clearfix}
 
 #### Clavis: An open and versatile identification key format
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-91225-koch](https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.png)](https://static.tdwg.org/conferences/2022/posters/vps-91225-koch.pdf)
 
 Author(s)
@@ -136,11 +136,11 @@ Abstract
 
 Presenting author
 : Wouter Koch
-{: .clearfix }
+{:.clearfix}
 
 #### Cataloging Essential Biodiversity Variables with the EBV Data Portal
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-93593-langer](https://static.tdwg.org/conferences/2022/posters/vps-93593-langer.png)](https://static.tdwg.org/conferences/2022/posters/vps-93593-langer.pdf)
 
 Author(s)
@@ -151,11 +151,11 @@ Abstract
 
 Presenting author
 : Christian Langer
-{: .clearfix }
+{:.clearfix}
 
 #### Re-connecting Communities in Biodiverse Places to their Biological Heritage: The case of iguanas on Grand Cayman
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-93887-meeus](https://static.tdwg.org/conferences/2022/posters/vps-93887-meeus.png)](https://static.tdwg.org/conferences/2022/posters/vps-93887-meeus.pdf)
 
 Author(s)
@@ -166,11 +166,11 @@ Abstract
 
 Presenting author
 : Sofie Meeus
-{: .clearfix }
+{:.clearfix}
 
 #### Building Essential Biodiversity Variable netCDFs with the ebvcube R Package
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-91215-quoss](https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.png)](https://static.tdwg.org/conferences/2022/posters/vps-91215-quoss.pdf)
 
 Author(s)
@@ -181,11 +181,11 @@ Abstract
 
 Presenting author
 : Luise Quoß
-{: .clearfix }
+{:.clearfix}
 
 #### Leveraging ecocomDP as a Flexible Intermediate Data Pattern to Expose NEON Biodiversity Data in GBIF
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![vps-93915-sokol](https://static.tdwg.org/conferences/2022/posters/vps-93915-sokol.png)](https://static.tdwg.org/conferences/2022/posters/vps-93915-sokol.pdf)
 
 Author(s)
@@ -196,4 +196,4 @@ Abstract
 
 Presenting author
 : Eric R Sokol
-{: .clearfix }
+{:.clearfix}

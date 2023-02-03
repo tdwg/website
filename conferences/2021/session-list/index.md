@@ -11,7 +11,7 @@ toc: true
 
 _Last updated 27 September 2021_
 
-{: id="sym01%20applications%20of%20machine%20learning%20in%20biodiversity%20image%20analysis" }
+{:id="sym01%20applications%20of%20machine%20learning%20in%20biodiversity%20image%20analysis"}
 ## SYM01 Applications of machine learning in biodiversity image analysis
 
 Session type
@@ -22,7 +22,7 @@ Organizers
 
 Openly licenced images from natural history collection specimens number in the tens of millions, as do images of biodiversity from research, community science and camera traps. This is only likely to increase, as is the rate of growth. In parallel, we have seen numerous experiments with automated image analysis, which have proven the feasibility and usefulness of machine learning with images of biodiversity. These techniques include species identification, recognising species interactions, image segmentation, object detection, trait detection, and trait measurement. Currently, the outlook looks bright for future research on machine learning on these images and for new ecological research fueled by data from machine learning. Yet we are only now discovering what the limitations are and what infrastructure we need to underpin such research. This symposium will showcase some of the potential applications of machine learning as well as the technical and scientific techniques used with the aim of encouraging research in this field.
 
-{: id="sym02%20e-floras,%20e-faunas%20and%20species%20pages:%20projects,%20methods,%20and%20tools" }
+{:id="sym02%20e-floras,%20e-faunas%20and%20species%20pages:%20projects,%20methods,%20and%20tools"}
 ## SYM02 e-floras, e-faunas and species pages: Projects, methods, and tools
 
 Session type
@@ -39,7 +39,7 @@ This symposium is directly linked to the [TDWG Species Information Interest Grou
 
 References: Gewin, V. All living things, online. Nature 418, 362–363 (2002). [https://doi.org/10.1038/418362a](https://doi.org/10.1038/418362a)
 
-{: id="sym03%20specimen%20data%20provision%20and%20mobilisation:%20dissco%20community%20e-services%20and%20standards" }
+{:id="sym03%20specimen%20data%20provision%20and%20mobilisation:%20dissco%20community%20e-services%20and%20standards"}
 ## SYM03 Specimen data provision and mobilisation: DiSSCo community e-services and standards
 
 Session type
@@ -54,7 +54,7 @@ The goal of the session is to give an update on the current status of developmen
 
 The session aims to start with a general overview of DiSSCo e-services, demonstrations and pilot projects in development, followed by more detailed presentations discussing some of the e-services and TDWG standards development in relation to DiSSCo, with a focus on the impact that this will have on collections and the wider community globally.
 
-{: id="sym04%20where%20and%20how%20to%20find,%20store%20and%20use%20links%20between%20biodiversity%20data:%20the%20bicikl%20perspective" }
+{:id="sym04%20where%20and%20how%20to%20find,%20store%20and%20use%20links%20between%20biodiversity%20data:%20the%20bicikl%20perspective"}
 ## SYM04 Where and how to find, store and use links between biodiversity data: the BiCIKL perspective
 
 Session type
@@ -67,7 +67,7 @@ Biodiversity data is a web of connections, between specimens, sequences, names, 
 
 The symposium welcomes contributions illustrating different approaches, methods and standards of discovery, preservation, annotation, management and re-use of linked biodiversity data, for example data warehousing, linking between Fair Digital Objects (FDO), Linked Open Data (LOD) technologies, and others. 
 
-{: id="wksh05%20translating%20tdwg%20controlled%20vocabularies" }
+{:id="wksh05%20translating%20tdwg%20controlled%20vocabularies"}
 ## WKSH05 Translating TDWG Controlled Vocabularies
 
 Session type
@@ -78,7 +78,7 @@ Organizers
 
 As an international organization, it is important for TDWG to make its standards widely available in as many languages as possible. Currently, TDWG has six ratified controlled vocabularies that are generally available only in English. As an outcome of these sessions, we will make term labels and definitions in those vocabularies available in the languages of translators who participate in the working sessions. The first hour of each session will introduce the concept of vocabularies, explain the distinction between term labels and controlled value strings, and describe how multilingual labels and definitions fit into the standards development process. The second hour of each session will be a time to actually translate the vocabularies. The two sessions are timed for the convenience of volunteer translators around the world. Individual translators or small groups of translators working in a single language will fill out Google Sheets with their translations. The resulting translations will be compiled along with attribution information for the translators and be made freely available in JSON and CSV formats.
 
-{: id="pd06%20challenges%20in%20curating%20interdisciplinary%20data%20in%20the%20biodiversity%20research%20community" }
+{:id="pd06%20challenges%20in%20curating%20interdisciplinary%20data%20in%20the%20biodiversity%20research%20community"}
 ## PD06 Challenges in curating interdisciplinary data in the biodiversity research community
 
 Session type
@@ -89,7 +89,7 @@ Organizers
 
 As research incentives become increasingly focused on collaborative work that spans multiple disciplines, more work is needed to address the technological and social challenges of curating interdisciplinary data.The challenges to curating biodiversity data include reconciling morphological trait descriptions and managing expectations for spatial and temporal resolution of datasets. Further, the biodiversity community needs to build bridges with research groups that study socio-environmental systems. This panel discussion will provide the space where people with a variety of experience curating interdisciplinary biodiversity data can share their knowledge and expertise. Panelists will focus on the ways in which disparate datasets are managed, linked, and shared within the biodiversity community, as well as how we can leverage our data to collaborate with partners outside academia. Insights from this discussion will help find common ground within an inherently data diverse scientific community and contribute to best practices and recommendations in working with interdisciplinary data. This session is part of a broader effort to investigate interdisciplinary data activities across all disciplines, develop workflows to support it, and provide informed recommendations for interdisciplinary teams.
 
-{: id="sym07%20digital%20extended%20specimens" }
+{:id="sym07%20digital%20extended%20specimens"}
 ## SYM07 Digital Extended Specimens
 
 Session type
@@ -104,7 +104,7 @@ A complementary symposium session will explore Digital Extended Specimens (DES) 
 
 The aim will be to demonstrate how people, processes and tools can unite and align around DES to work better together to build a fully integrated next-generation digital data infrastructure for biodiversity and other natural science data in which DES act as anchoring points for connecting the world of natural sciences specimens and other data, thus making reliable knowledge and evidence about the natural world available to all.
 
-{: id="sym08%20from%20the%20field,%20right%20on%20to%20your%20science%20table:%20challenges%20of%20sharing%20ecological%20data" }
+{:id="sym08%20from%20the%20field,%20right%20on%20to%20your%20science%20table:%20challenges%20of%20sharing%20ecological%20data"}
 ## SYM08 From the field, right on to your science table: Challenges of sharing ecological data
 
 Session type
@@ -115,7 +115,7 @@ Organizers
 
 Access to high-quality ecological data, such as those generated from monitoring efforts, is pivotal to assessing and modelling biodiversity and its change through space and time. In the face of the unprecedented biodiversity loss, inventory data are particularly relevant to meeting global monitoring and conservation goals. While the development and adoption of standards such as Darwin Core have ignited the mobilization and integration of incidental and opportunistic records, current standards are insufficient to capture the complexity and hierarchical structure of inventory data. This, together with a lack of sufficient incentives, has resulted in limited mobilization, integration and re-use of this type of data. Current efforts are working towards developing standards to share inventory data, i.e., [Humboldt extension](/community/osr/humboldt-core/) to Darwin Core. To maximize the efficacy of this and other initiatives in fully capturing the breadth of information available in inventory data, and facilitating their broader applicability and use, it is critical that different parties converse, identify common needs and possibilities regarding data sharing. This symposium will bring together insights from a broad range of members within the community. It will constitute an opportunity to engage in the discussion to direct future efforts on standards development for sharing ecological data.
 
-{: id="sym09%20apis%20in%20biodiversity%20informatics-innovation%20and%20opportunities" }
+{:id="sym09%20apis%20in%20biodiversity%20informatics-innovation%20and%20opportunities"}
 ## SYM09 APIs in Biodiversity Informatics–Innovation and Opportunities
 
 Session type
@@ -134,7 +134,7 @@ Topics include:
 5. Approaches and methods for documenting and standardizing APIs. 
 6. The role of APIs in collections management systems and how these fit within the global data infrastructure.
 
-{: id="wksh10%20hands-on%20activities%20to%20learn%20openapi%20and%20json:api%20for%20use%20in%20collection%20management%20systems%20and%20beyond" }
+{:id="wksh10%20hands-on%20activities%20to%20learn%20openapi%20and%20json:api%20for%20use%20in%20collection%20management%20systems%20and%20beyond"}
 ## WKSH10 Hands-on Activities to Learn OpenAPI and JSON:API for use in Collection Management Systems and Beyond
 
 Session type
@@ -145,7 +145,7 @@ Organizers
 
 We aim to raise awareness of the [OpenAPI](https://www.openapis.org/), and [JSON:API Specifications](https://jsonapi.org/), for use in collection management and other services under the umbrella of the TDWG [Biodiversity Services and Clients Interest Group](/community/services/) and the [DINA Consortium](https://dina-project.net) (DINA = “DIgital information system for NAtural history data”). We will give a short introduction on why and how these specifications are core pieces of the DINA architecture and will then guide participants through tasks to help them create, share, and use OpenAPI and JSON:API. No coding skills are required. For technically-oriented participants, we will identify packages and openly-licensed libraries of code that make use of these specifications in a number of programming languages. Our goal is to improve on how we model the communication layers within the software we create and between the projects we lead through the use of consistent, battle-tested service layers used by many other communities. This will force us to refine how we communicate our requirements and concepts, how we design resources that can interoperate, and will ultimately help us to democratize our data and technologies.
 
-{: id="sym11%20building%20collaborative%20resiliency%20through%20the%20biodiversity%20heritage%20library" }
+{:id="sym11%20building%20collaborative%20resiliency%20through%20the%20biodiversity%20heritage%20library"}
 ## SYM11 Building collaborative resiliency through the Biodiversity Heritage Library
 
 Session type
@@ -156,7 +156,7 @@ Organizers
 
 The [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) (BHL) is celebrating 15 years in 2021 and has been valued by the biodiversity community and others throughout this time. BHL, from its inception, had the goal of connecting data, uniting people through outreach, communication and engagement, and developing tools and Application Programming Interfaces (APIs) to improve access to biodiversity data. BHL’s key strength is the community. As the consortium has grown in members, content, and complexity, BHL has continued to exemplify stability and resiliency. The last year of lockdowns, isolation and working from home have demonstrated the importance of the BHL as a content-rich digital library, as well as a tool to connect biodiversity data. BHL has allowed work to continue where otherwise it would not have been possible without physical access to the library. BHL partners around the world continued to enhance metadata and improve content delivery. As noted by Alice Lemaire, the COVID crisis was “an accelerator of digital advances and transformation”. BHL’s natural ecosystem is collaborating virtually, supporting open science, and building a robust community. BHL’s collaborative resiliency provides value to the greater biodiversity community and beyond. This symposium will focus on the trajectory of BHL’s strategic plan and review new tools and advances.
 
-{: id="sym12%20connecting%20biodiversity%20data%20with%20knowledge%20graphs" }
+{:id="sym12%20connecting%20biodiversity%20data%20with%20knowledge%20graphs"}
 ## SYM12 Connecting biodiversity data with knowledge graphs
 
 Session type
@@ -169,7 +169,7 @@ Linking biodiversity data together is an implicit goal of many initiatives in bi
 
 However the biodiversity knowledge graph did not spontaneously assemble itself, suggesting that more work needs to be done before the knowledge graph becomes a key tool for integrating and exploring biodiversity data. This session will explore progress and prospects for constructing and exploiting biodiversity knowledge graphs, whether centered around broader efforts such as Wikidata or DBpedia, or more focussed on domain-specific initiatives such as Ozymandias and OpenBiodiv. In addition to these case studies, speakers in the session will explore the relationships between TDWG standards, data formats such as JSON-LD, markup vocabularies such as Bioschemas and the role nanopubs can play in disseminating and linking biodiversity knowledge. The session will also welcome presentations on the joint exploitation and cross-fertilization of biodiversity knowledge graphs and more "traditional" biodiversity data sources.
 
-{: id="sym13%20mushrooming,%20community%20science,%20and%20sharing%20biodiversity%20data" }
+{:id="sym13%20mushrooming,%20community%20science,%20and%20sharing%20biodiversity%20data"}
 ## SYM13 Mushrooming, community science, and sharing biodiversity data
 
 Session type
@@ -180,7 +180,7 @@ Organizers
 
 Fungi play essential roles in ecosystems by recycling matter and forming critical partnerships with plants. However, estimates suggest that less than 5% of fungal species are described in the taxonomy literature. This symposium brings together amateurs and professional scientists from four continents to describe how they and their organizations are documenting fungal diversity. Mushrooms are a natural entry point for amateurs to study fungal diversity because mushrooms have long been harvested by humans for food and for their medicinal properties. Talks describe the information technologies including apps, databases, platforms, standards, including TDWG standards, and controlled vocabularies that have shaped project development and evolution. Specific attention is given to the linkages being used to connect field observations with specimen collections and DNA sequences to help overcome the taxonomic uncertainties of fungi. Speakers describe strategies to work with amateurs, attitudes of amateurs toward participation, data quality issues and the scientific products derived from their programs.
 
-{: id="sym14%20community%20building%20for%20our%20shared%20data%20future" }
+{:id="sym14%20community%20building%20for%20our%20shared%20data%20future"}
 ## SYM14 Community building for our shared data future
 
 Session type
@@ -191,7 +191,7 @@ Organizers
 
 As we continue to expand the reach of our global informatics landscape across the biological, geological, and anthropological domains we increasingly reinforce the idea that one can’t go it alone when working with data in this realm. Collaboration, coordination, and cross-functional efforts are essential to the success of creating FAIR (Findable, Accessible, Interoperable and Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) data, and implementing the supporting research infrastructures for data standards and identifiers. This session invites speakers to share existing or proposed models for structuring communities that help to ensure successful and sustainable coordination of the people driving this work with our increasingly interconnected global data resource. We are considering communities broadly, at the local or global level, with a focus on the informatics capacity across our organizations and programs. How do we as a community improve the sharing of best practices, expertise, and capacity? What are the challenges, successes, and impediments that we can learn from while building and strengthening our communities of practice?
 
-{: id="sym15%20maintaining%20the%20taxonomic%20backbone%20(or%20connecting%20those%20who%20try)" }
+{:id="sym15%20maintaining%20the%20taxonomic%20backbone%20(or%20connecting%20those%20who%20try)"}
 ## SYM15 Maintaining the taxonomic backbone (or connecting those who try)
 
 Session type
@@ -202,7 +202,7 @@ Organizers
 
 Taxonomy defines our shared concept of every organism, acting as the foundational backbone of the biological sciences. Curated taxonomic name lists have traditionally been published in print and more recently, published online, but they are often rendered obsolete quickly after they are published and only rarely maintained by those who published them. While creating taxonomic name resources, various challenges are encountered as well as some great solutions. In this session we propose to bring together members of TDWG to share tricks of the trade, learn from each other, and connect important resources in the taxonomic name game. We anticipate the session to be a combination of symposium and demonstration. We invite abstracts from people or groups working on curated taxonomic name lists to present challenges, solutions, and workflows developed in the creation and maintenance of curated taxonomic name lists.
 
-{: id="sym16%20eat%20or%20be%20eaten:%20don" }
+{:id="sym16%20eat%20or%20be%20eaten:%20don"}
 ## SYM16 Eat or be eaten: Don't miss out on interaction data
 
 Session type
@@ -213,7 +213,7 @@ Organizers
 
 Scientists use a variety of methods to collect, record and store biological interaction data (e.g. predator-prey, host-parasite, pollinator-plant) and the uses for that data are equally diverse. At the same time, numerous efforts are underway to efficiently aggregate, organize and disseminate biotic interaction data. However, we do not have a formal standard to support biotic interaction data sharing and interoperability. The aim of this symposium is to provide an opportunity for those involved or interested in digitizing biological interaction data to share their experiences and ideas so that we can move forward and propose a common (standardized) model for sharing biotic interaction data. The [Biological Interactions Data Interest Group](/community/interaction/) (BID-IG) is a formal group within TDWG where this topic is being discussed within the biodiversity informatics community. During the symposium, we will provide an update on the group's achievements, as well as welcome other interested parties to present their work, specifically those related to the different formats, models and repositories that have been used to share and integrate biotic interaction data.
 
-{: id="sym17%20assuring%20trust%20on%20community%20science%20biodiversity%20platforms:%20policies%20and%20approaches" }
+{:id="sym17%20assuring%20trust%20on%20community%20science%20biodiversity%20platforms:%20policies%20and%20approaches"}
 ## SYM17 Assuring trust on community science biodiversity platforms: Policies and approaches
 
 Session type
@@ -224,7 +224,7 @@ Organizers
 
 Data collected by citizen scientists make up a strong and growing part of biodiversity occurrence data yet there is still much discussion around the best approaches to produce, identify and make available high quality, trustworthy data. How do citizen science managers, projects, and platforms streamline workflows such that the data produced are trusted and ready for research? What metrics are most helpful for evaluating trustworthiness in citizen science data? Is it possible to reach a point where trustworthy data are apparent and speak for themselves? In this symposium, hosted by the [TDWG Citizen Science Interest Group](/community/citizen-science/), speakers will discuss trustworthy data, the ways in which projects and platforms may programmatically classify, identify and account for data quality, and the role of standards and protocols in robust citizen science projects.
 
-{: id="sym18%20(re)discovering%20known%20biodiversity:%20digital%20accessible%20knowledge" }
+{:id="sym18%20(re)discovering%20known%20biodiversity:%20digital%20accessible%20knowledge"}
 ## SYM18 (Re)Discovering known biodiversity: Digital accessible knowledge
 
 Session type
@@ -237,7 +237,7 @@ Scientific publishing is building up our knowledge by connecting facts using an 
 
 Discovering known biodiversity is a challenge taken on by Plazi. This requires defined target resolution of data, sustainable infrastructures, workflows, reference vocabularies, resources, and strategies to discover and convert a daunting corpus of ca 500 M pages of rapidly ever-growing publications. Current technical and persistent identifier developments will be highlighted.
 
-{: id="uncf19%20the%20api%20unconference" }
+{:id="uncf19%20the%20api%20unconference"}
 ## UNCF19 The API Unconference
 
 Session type

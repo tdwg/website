@@ -13,7 +13,7 @@ Posters prepared for TDWG 2020 are listed below. Abstracts for posters can be fo
 
 #### What can you do with a TaxonWorks API?
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![ps_59170_yoder](https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf)
 
 Author(s)
@@ -24,11 +24,11 @@ Abstract
 
 TaxonWorks chat channel
 : [Go here](https://github.com/SpeciesFileGroup/taxonworks) to find chat channel link
-{: .clearfix }
+{:.clearfix}
 
 #### Herbaria Mundi: An image centric approach to manipulation of specimens from multiple collections
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![ps_59055_hyam](https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59055_hyam.pdf)
 
 Author(s)
@@ -39,11 +39,11 @@ Abstract
 
 Video
 : [video](https://youtu.be/_jpRD-DcO_0)
-{: .clearfix }
+{:.clearfix}
 
 #### A Google Sheet add-on for biodiversity data standardization and sharing
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![ps_59228_salim](https://static.tdwg.org/conferences/2020/posters/ps_59228_salim-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.pdf)
 
 Author(s)
@@ -54,11 +54,11 @@ Abstract
 
 Video
 : [video](https://static.tdwg.org/conferences/2020/posters/ps_59228_salim.mp4)
-{: .clearfix }
+{:.clearfix}
 
 #### Virtual systematics with annotate: the Mexican archaeocyaths example
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![ps_59106_kerner](https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59106_kerner.pdf)
 
 Author(s)
@@ -69,11 +69,11 @@ Abstract
 
 Social hours
 : [1 and 2](/conferences/2020/session-list/#social%20sessions)
-{: .clearfix }
+{:.clearfix}
 
 #### Survey of species covered by DNA barcoding data in BOLD and GenBank for integration of data for museomics
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![ps_59065_nakazato](https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.pdf)
 
 Author(s)
@@ -84,11 +84,11 @@ Abstract
 
 Video
 : [video](https://static.tdwg.org/conferences/2020/posters/ps_59065_nakazato.mp4)
-{: .clearfix }
+{:.clearfix}
 
 #### Streamlined conversion of omics metadata into manuscript facilitates publishing and reuse of omics data
 
-{: .w-25 .float-start .me-5 }
+{:.w-25 .float-start .me-5}
 [![ps_59041_dimitrova](https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova-thm.png)](https://static.tdwg.org/conferences/2020/posters/ps_59041_dimitrova.pdf)
 
 Author(s)

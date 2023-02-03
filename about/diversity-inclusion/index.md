@@ -7,7 +7,7 @@ background:
 toc: false
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [French](/about/diversity-inclusion/fr/).
 
 _Last updated 30 August 2022_

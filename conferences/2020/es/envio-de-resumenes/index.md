@@ -5,7 +5,7 @@ background:
 toc: false
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [English](/conferences/2020/call-for-abstracts/).
 
 Nos complace anunciar el llamado para la presentación de resúmenes para [TDWG 2020](/conferences/2020/es), la conferencia virtual de [Biodiversity Information Standards](/) (TDWG), que tendrá lugar entre el 19 y el 23 de octubre de 2020 en múltiples zonas horarias. Los resúmenes serán enviados a y publicados en [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/). La fecha límite para el envío de resúmenes es el **12 de agosto de 2020.** Los resúmenes serán revisados por pares y el envío implica la participación en TDWG 2020 para presentar el contenido ya sea en vivo o pregrabado. Aunque no hay un costo de inscripción para asistir a la conferencia en vivo, ver el contenido grabado, o leer los resúmenes publicados de la conferencia virtual de TDWG 2020, al autor que envíe un resumen que sea aprobado la revista le cobrará un derecho de publicación de 40 Euros como parte del proceso final de envío. Si esto representa una barrera financiera para la participación del autor en TDWG 2020, por favor solicite una exención de tarifa [aquí](https://forms.gle/cAMP9rvNBHRMUdTx8) (note que necesitará el ARPHA ID del resumen enviado para completar este formulario). Trataremos de acomodar tantos aspirantes como sea posible, gracias al generoso apoyo de nuestros [patrocinadores](/conferences/2020/#sponsors).

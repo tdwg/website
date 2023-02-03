@@ -7,10 +7,10 @@ background:
 toc: false
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [French](/conferences/2021/fr/appel-a-participation/) and [Spanish](/conferences/2021/es/envio-de-resumenes/).
 
-{: .float-end .ms-5 .w-50 }
+{:.float-end .ms-5 .w-50}
 ![TDWG 2021 Logo](https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png)
 
 _Last updated 6 June 2021_

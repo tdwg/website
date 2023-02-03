@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-{: .float-end .ms-5 }
+{:.float-end .ms-5}
 ![TDWG 2022 Logo](https://static.tdwg.org/conferences/2022/tdwg-2022-logo-sm.png)
 
 _Last updated 16 October 2022_
@@ -54,7 +54,7 @@ Uploading instructions were distributed on 22 September via MailChimp. If you ca
 
 The deadline with no penalty (minus credit card fees) to switch from on-line to virtual attendance was 17 August. Upgrading from virtual to in-person attendance will not incur a penalty and is not subject to the 17 August deadline, however there is limited space remaining for in-person attendance. 
 
-<!-- [Register for TDWG 2022](https://events.pensoft.net/events/tdwg-2022-hybrid-conference){: .btn .btn-lg .btn-primary } -->
+<!-- [Register for TDWG 2022](https://events.pensoft.net/events/tdwg-2022-hybrid-conference){:.btn .btn-lg .btn-primary} -->
 
 Registration costs differ for in-person or virtual participation. As in past years, registration fees include a discount structure, and help to defray the cost of abstract publication. Special discounts are in place for students, post-docs or early career researchers, and participants from [low/low-middle income nations](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). You can even donate funds to support registration of those in need.  
 

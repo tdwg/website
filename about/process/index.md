@@ -74,7 +74,7 @@ A Task Group charter can be revised at any time and submitted to the Secretary a
 
 The only formal position required of a Task Group is a Convener. The Convener may appoint other positions as required. Members of the Task Group are defined by joining the group's communications system and meeting any other requirements specified in the charter. By definition, a member of a Task Group is also a member of the Interest Group that created it.
 
-{: id="ratification-of-standards" }
+{:id="ratification-of-standards"}
 ## Ratification of standards
 
 1. When a Task Group believes that a working draft is ready for wider review, the Task Group Convener submits the working draft and appropriate documentation as a package to the Executive Committee via the Secretary.

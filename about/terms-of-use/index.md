@@ -18,7 +18,7 @@ TDWG reserves the right to update the Terms of Use. Users will be notified via p
 1. Users are solely responsible for their content posted via TDWG's platforms (including, but not limited to data, text, files, information, usernames, images, graphics, photos, profiles, audio and video clips, sounds, applications, links and other content). Proper attribution of content used or cited is expected.
 2. Users will be solely liable for any damage resulting from any infringement of copyrights, proprietary rights or any other harm resulting from their submissions.
 
-{: id="privacy-statement" }
+{:id="privacy-statement"}
 ## Privacy statement
 
 The ‘legitimate interest’ of TDWG is to engage with the User and enable them to participate in TDWG's activities corresponding to [Article 6(1)(f) of the GDPR](https://gdpr-info.eu/art-6-gdpr/) (General Data Protection Regulation). Accordingly,

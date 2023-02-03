@@ -5,7 +5,7 @@ background:
 toc: false
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [Spanish](/conferences/2020/es/envio-de-resumenes/).
 
 We are pleased to announce the call for abstracts for [TDWG 2020](/conferences/2020/), the virtual conference of [Biodiversity Information Standards](/) (TDWG), which will be held 19–23 October 2020 across multiple time zones. Abstracts will be submitted to and published in [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/). The deadline for the submission of abstracts is **12 August 2020.** Abstracts will be peer reviewed and submission implies participation in TDWG 2020 to present the content either live or pre-recorded. Although there is no registration fee to attend the live conference, view recorded content, or read published abstracts from TDWG 2020's virtual conference, the author submitting an approved abstract will be charged a publication fee of 40€ by the journal as part of the final submission process. If this presents a financial barrier to the author's participation in TDWG 2020, please apply for a fee waiver [here](https://forms.gle/cAMP9rvNBHRMUdTx8) (note that you will need the ARPHA ID of your submitted abstract to fill out this form). We will try to accommodate as many applicants as possible, thanks to the generous support of our [sponsors](/conferences/2020/#sponsors).

@@ -7,7 +7,7 @@ background:
 toc: false
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [English](/about/diversity-inclusion/).
 
 _Dernière mise à jour 30 août 2022_

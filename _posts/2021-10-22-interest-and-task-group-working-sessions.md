@@ -11,4 +11,4 @@ Every year as part of our annual conference, TDWG Interest and Task Groups hold 
 
 See the schedule and details on how to register:
 
-[Learn more ...](/conferences/2021/working-sessions/){: .btn .btn-secondary }
+[Learn more ...](/conferences/2021/working-sessions/){:.btn .btn-secondary}

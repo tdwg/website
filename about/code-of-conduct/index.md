@@ -7,7 +7,7 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [French](/about/code-of-conduct/fr/).
 
 _Last revised 12 April 2022_

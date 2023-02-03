@@ -7,7 +7,7 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [English](/conferences/2020/).
 
 <img src="https://static.tdwg.org/conferences/2020/TDWG2020_logo_ark_h350.png" alt="TDWG 2020 Logo" style="float:right;padding-left:10px;padding-bottom:10px">

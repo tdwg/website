@@ -9,10 +9,10 @@ toc: true
 
 _Last updated 18 October 2020_
 
-{: id="keynote%20by%20scott%20edwards" }
+{:id="keynote%20by%20scott%20edwards"}
 ## Keynote by Scott Edwards
 
-![Scott Edwards, photo by James Deshler](https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg){: .float-end .ms-5 .w-25 }
+![Scott Edwards, photo by James Deshler](https://static.tdwg.org/conferences/2020/spkrs/Scott-Edwards-credit-James-Deshler_thm.jpg){:.float-end .ms-5 .w-25}
 
 Date/time
 : 15:00 UTC - Monday, 19 October 2020 ([find your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Conference%20welcome%20and%20Keynote&iso=20201019T1500&p1=1440&ah=2&am=))
@@ -24,10 +24,10 @@ Edwards SV (2020) **Bicycling, Birding and #BLM across America in a Summer of Ch
 Video
 : [Welcome and Keynote Speaker](https://www.youtube.com/watch?v=bb1mPXlNotA&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=24)
 
-{: id="keynote%20by%20ken-ichi%20ueda" }
+{:id="keynote%20by%20ken-ichi%20ueda"}
 ## Keynote by Ken-ichi Ueda
 
-![Ken-ichi Ueda](https://static.tdwg.org/conferences/2020/spkrs/ken-ichi-ueda.jpg){: .float-end .ms-5 .w-25 }
+![Ken-ichi Ueda](https://static.tdwg.org/conferences/2020/spkrs/ken-ichi-ueda.jpg){:.float-end .ms-5 .w-25}
 
 Date/time
 : 20:00 UTC - Thursday, 22 October 2020 ([find your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Mid%20Conference%20Keynote&iso=20201022T2000&p1=1440&ah=2&am=))
@@ -39,7 +39,7 @@ Ueda K-i (2020) **An Overview of Computer Vision in iNaturalist.** Biodiversity 
 Video
 : [Keynote by Ken-ichi Ueda](https://www.youtube.com/watch?v=xfbabznYFV0&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=48)
 
-{: id="sym01%20standards%20alignment:%20which%20and%20how?" }
+{:id="sym01%20standards%20alignment:%20which%20and%20how?"}
 ## SYM01 Standards alignment: which and how?
 
 Session type
@@ -59,7 +59,7 @@ Date/time
 14:40 | Discussion
 15:30 | Session end
 
-{: id="sym02%20use%20and%20re-use%20of%20images%20and%20their%20metadata%20in%20biodiversity%20research" }
+{:id="sym02%20use%20and%20re-use%20of%20images%20and%20their%20metadata%20in%20biodiversity%20research"}
 ## SYM02 Use and re-use of images and their metadata in biodiversity research
 
 Session type
@@ -82,7 +82,7 @@ Date/time
 14:37 | **Martin-Cabrera P**, Lombard F, Irisson J-O, Stemmann L, Möller KO, Lindh M, Creach V, Schepers L (2020) Coordinating Efforts to Define Marine Plankton Imagery Data and Metadata Best Practices and Standards. Biodiversity Information Science and Standards 4: e58932. <https://doi.org/10.3897/biss.4.58932>
 16:00 | Session end
 
-{: id="sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships" }
+{:id="sym03%20enhancing%20connections%20with%20the%20global%20neighbourhood%20through%20expanding%20partnerships"}
 ## SYM03 Enhancing connections with the global neighbourhood through expanding partnerships
 
 Session type
@@ -104,7 +104,7 @@ Date/time
 21:10 | **Kalfatovic M**, Rinaldo C, Smith J, Iggulden D, Funkhouser C (2020) The Biodiversity Heritage Library Response to the Global COVID-19 Pandemic. Biodiversity Information Science and Standards 4: e58481. <https://doi.org/10.3897/biss.4.58481>
 21:30 | Session end
 
-{: id="sym04%20challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains" }
+{:id="sym04%20challenges%20of%20the%20alignment%20of%20collection%20management%20systems%20across%20the%20globe%20and%20different%20domains"}
 ## SYM04 Challenges of the alignment of collection management systems across the globe and different domains
 
 Session type
@@ -133,7 +133,7 @@ Date/time
 18:53 | Closing words
 19:00 | Session end
 
-{: id="sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration" }
+{:id="sym05%20using%20collections%20to%20mitigate%20and%20prevent%20zoonotic%20disease:%20data%20mobilization%20and%20integration"}
 ## SYM05 Using Collections to Mitigate and Prevent Zoonotic Disease: Data Mobilization and Integration
 
 Session type
@@ -155,7 +155,7 @@ Date/time
 18:10 | Discussion 
 18:30 | Session end
 
-{: id="sym06%20you%20have%20what%20in%20your%20collection?" }
+{:id="sym06%20you%20have%20what%20in%20your%20collection?"}
 ## SYM06 You have what in your collection?
 
 Session type
@@ -180,7 +180,7 @@ Date/time
 21:40 | Discussion
 22:00 | Session end
 
-{: id="sym07%20new%20standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens" }
+{:id="sym07%20new%20standards%20development%20to%20support%20the%20transformation%20of%20collection%20data%20into%20digital%20specimens"}
 ## SYM07 New standards development to support the transformation of collection data into digital specimens 
 
 Session type
@@ -202,7 +202,7 @@ Date/time
 18:00 | Discussion
 18:30 | Session end
 
-{: id="sym08%20introduction%20to%20the%20new%20living%20atlases%20community" }
+{:id="sym08%20introduction%20to%20the%20new%20living%20atlases%20community"}
 ## SYM08 Introduction to the new Living Atlases community
 
 Session type
@@ -225,7 +225,7 @@ Date/time
 21:00 | **Martin D**, **Molina J**, dos Remedios N, Lecoq M-E, Robertson T, Ruiz Jurado VJ (2020) Aligning GBIF and the Atlas of Living Australia. Biodiversity Information Science and Standards 4: e59274. <https://doi.org/10.3897/biss.4.59274> 
 21:30 | Session end
 
-{: id="sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity" }
+{:id="sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity"}
 ## SYM09 Technical and standards implications in data liberation and semantic publishing for biodiversity
 
 Session type
@@ -252,7 +252,7 @@ Date/time
 15:40 | **Mozzherin D**, Ower G (2020) Adding Taxonomic Dimensions to the Scientific Names Index in the Biodiversity Heritage Library via Integration with the Catalogue of Life. Biodiversity Information Science and Standards 4: e59130. <https://doi.org/10.3897/biss.4.59130>
 16:00 | Session end
 
-{: id="pd01%20avenues%20into%20integration:%20communicating%20taxonomic%20intelligence%20from%20sender%20to%20recipient" }
+{:id="pd01%20avenues%20into%20integration:%20communicating%20taxonomic%20intelligence%20from%20sender%20to%20recipient"}
 ## PD01 Avenues into integration: communicating taxonomic intelligence from sender to recipient
 
 Session type
@@ -278,7 +278,7 @@ Date/time
 2:30 | Discussion. Additional panelists: Katja Schulz, Cam Webb, Johan Liljeblad, Anne Fuchs, Nico Franz, Jeff Gerbracht, and Jonathan Rees.
 3:30 | Session end
 
-{: id="pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources" }
+{:id="pd02%20the%20biocultural%20labels%20initiative:%20supporting%20indigenous%20rights%20in%20data%20derived%20from%20genetic%20resources"}
 ## PD02 The biocultural labels initiative: Supporting indigenous rights in data derived from genetic resources
 
 Session type
@@ -299,7 +299,7 @@ Date/time
 1:20 | Discussion
 2:30 | Session end
 
-{: id="pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services" }
+{:id="pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services"}
 ## PD03 Enabling digital specimen and extended specimen concepts in current tools and services
 
 Session type
@@ -320,7 +320,7 @@ Date/time
 14:20 | Discussion
 15:30 | Session end
 
-{: id="co01%20contributed%20oral%201" }
+{:id="co01%20contributed%20oral%201"}
 ## CO01 Contributed Oral 1
 
 Session type
@@ -338,7 +338,7 @@ Date/time
 23:40 | Discussion and additional questions 
 0:00 | Session end
 
-{: id="co02%20contributed%20oral%202" }
+{:id="co02%20contributed%20oral%202"}
 ## CO02 Contributed Oral 2
 
 Session type
@@ -356,7 +356,7 @@ Date/time
 18:40 | Discussion and additional questions 
 19:00 | Session end
 
-{: id="co03%20contributed%20oral%203" }
+{:id="co03%20contributed%20oral%203"}
 ## CO03 Contributed Oral 3
 
 Session type
@@ -374,7 +374,7 @@ Date/time
 18:40 | Discussion and additional questions 
 19:00 | Session end
 
-{: id="co04%20contributed%20oral%204" }
+{:id="co04%20contributed%20oral%204"}
 ## CO04 Contributed Oral 4
 
 Session type
@@ -392,7 +392,7 @@ Date/time
 10:10 | Discussion and additional questions
 10:30 | Session end
 
-{: id="co05%20contributed%20oral%205" }
+{:id="co05%20contributed%20oral%205"}
 ## CO05 Contributed Oral 5
 
 Session type
@@ -411,12 +411,12 @@ Date/time
 13:30 | Session end
 
 
-{: id="posters" }
+{:id="posters"}
 ## Posters
 
 A number of posters have been contributed to TDWG 2020. Each poster has an abstract published in BISS, and the poster file itself will soon be attached to the published abstract. In the mean time, please see the list of [contributed posters](../posters/) and their files here on the conference website. Also please note, we have asked poster authors to attend at least one of the social sessions to make themselves available to discuss their posters with conference participants.  Social sessions are listed below and blocked on the [conference schedule](/conferences/2020/#october-19-23---virtual-conference).
 
-{: id="social%20sessions" }
+{:id="social%20sessions"}
 ## Social Sessions
 
 ### Social session 1: Ooooh! We didn’t know that

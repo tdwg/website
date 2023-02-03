@@ -7,7 +7,7 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [Spanish](/conferences/2020/es/working-sessions/).
 
 _Last updated: 25 September 2020_
@@ -18,7 +18,7 @@ See [schedule](/conferences/2020/working-sessions-schedule/).
 
 ## Sessions
 
-{: id="intro:%20introduction%20to%20tdwg" }
+{:id="intro:%20introduction%20to%20tdwg"}
 ### INTRO: Introduction to TDWG
 
 Session type
@@ -33,7 +33,7 @@ Description
 Video
 : [INTRO a](https://www.youtube.com/watch?v=2btF029nSiI&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=1) and [INTRO b](https://www.youtube.com/watch?v=YC0N0fxwBxo&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=3)
 
-{: id="bof01:%20converging%20digital%20specimens%20and%20extended%20specimens%20-%20towards%20a%20global%20specification" }
+{:id="bof01:%20converging%20digital%20specimens%20and%20extended%20specimens%20-%20towards%20a%20global%20specification"}
 ### BOF01: Converging digital specimens and extended specimens - Towards a global specification 
 
 Session type
@@ -48,7 +48,7 @@ Description
 Video
 : [BoF01 DS/ES](https://www.youtube.com/watch?v=8ljokNRkjeo&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=7)
 
-{: id="hack01:%20hack4nature" }
+{:id="hack01:%20hack4nature"}
 ### HACK01: Hack4Nature
 
 Session type
@@ -63,7 +63,7 @@ Description
 Video
 : [ITG01 TNC](https://www.youtube.com/watch?v=xYvTEnqtGdQ&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=19)
 
-{: id="itg01:%20taxon%20names%20and%20concepts" }
+{:id="itg01:%20taxon%20names%20and%20concepts"}
 ### ITG01: Taxon Names and Concepts
 
 Session type
@@ -88,7 +88,7 @@ We are especially interested in engaging with people we do not hear from so ofte
 Video
 : [ITG01 TNC](https://www.youtube.com/watch?v=-bQLjUP0eRc&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=9)
 
-{: id="itg02:%20darwin%20core%20maintenance%20group" }
+{:id="itg02:%20darwin%20core%20maintenance%20group"}
 ### ITG02: Darwin Core Maintenance Group
 
 Session type
@@ -104,7 +104,7 @@ In this working session we will answer questions about maintaining Darwin Core a
 Video
 : [ITG02 DwC](https://www.youtube.com/watch?v=ooHOxGoCm18&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=11)
 
-{: id="itg03:%20collections%20descriptions%20task%20group" }
+{:id="itg03:%20collections%20descriptions%20task%20group"}
 ### ITG03: Collections Descriptions Task Group
 
 Session type
@@ -119,7 +119,7 @@ Description
 Video
 : [ITG03 CD](https://www.youtube.com/watch?v=L44dWAa-tF4&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=3)
 
-{: id="itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20("vocabularies")" }
+{:id="itg04:%20best%20practices%20for%20the%20development%20of%20vocabularies%20of%20values%20("vocabularies")"}
 ### ITG04: Best practices for the development of Vocabularies of Values (“Vocabularies”) 
 
 Session type
@@ -134,7 +134,7 @@ Description
 Video
 : [ITG04 Vocab](https://www.youtube.com/watch?v=iAvaGpiO-g8&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=15)
 
-{: id="itg05:%20machine%20observations%20interest%20group" }
+{:id="itg05:%20machine%20observations%20interest%20group"}
 ### ITG05: Machine Observations Interest Group
 
 Session type
@@ -149,7 +149,7 @@ Description
 Video
 : [ITG05 MachObs](https://www.youtube.com/watch?v=dxoW-miXINo&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=16)
 
-{: id="itg06:%20audubon%20core%20maintenance%20group%20annual%20meeting" }
+{:id="itg06:%20audubon%20core%20maintenance%20group%20annual%20meeting"}
 ### ITG06: Audubon Core Maintenance Group annual meeting
 
 Session type
@@ -164,7 +164,7 @@ Description
 Video
 : [ITG06 AC](https://www.youtube.com/watch?v=O5A4IpIyn8w&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=2)
 
-{: id="itg07:%20how%20did%20it%20die?" }
+{:id="itg07:%20how%20did%20it%20die?"}
 ### ITG07: How Did It Die?
 
 Session type
@@ -181,7 +181,7 @@ We have suggested two additional terms: vitality and causeOfDeath. In this worki
 Video
 : [ITG07 How did it die?](https://www.youtube.com/watch?v=tsWXd1LWXbI&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=8)
 
-{: id="itg08:%20earth%20science%20and%20paleobiology%20interest%20group" }
+{:id="itg08:%20earth%20science%20and%20paleobiology%20interest%20group"}
 ### ITG08: Earth Science And Paleobiology Interest Group 
 
 Session type
@@ -196,7 +196,7 @@ Description
 Video
 : [ITG08 ESP](https://www.youtube.com/watch?v=q9r22lXlpIA&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=8)
 
-{: id="itg09:%20people%20in%20biodiversity%20data%20task%20group" }
+{:id="itg09:%20people%20in%20biodiversity%20data%20task%20group"}
 ### ITG09: People In Biodiversity Data Task Group 
 
 Session type
@@ -215,7 +215,7 @@ Description
 Video
 : [ITG09 People](https://www.youtube.com/watch?v=DiulnUoY2SI&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=14)
 
-{: id="itg10:%20task%20group%20on%20minimum%20information%20about%20a%20digital%20specimen%20(mids)" }
+{:id="itg10:%20task%20group%20on%20minimum%20information%20about%20a%20digital%20specimen%20(mids)"}
 ### ITG10: Task Group On Minimum Information About A Digital Specimen (MIDS) 
 
 Session type
@@ -230,7 +230,7 @@ Description
 Video
 : [ITG10 MIDS](https://www.youtube.com/watch?v=ZNdL7ttOKd8&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=20)
 
-{: id="itg11:%20species%20information%20interest%20group" }
+{:id="itg11:%20species%20information%20interest%20group"}
 ### ITG11: Species Information Interest Group 
 
 Session type
@@ -245,7 +245,7 @@ Description
 Video
 : [ITG11 SpecInfo](https://www.youtube.com/watch?v=lFi82CPmC2U&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=12)
 
-{: id="itg12:%20annotations%20interest%20group" }
+{:id="itg12:%20annotations%20interest%20group"}
 ### ITG12: Annotations Interest Group
 
 Session type
@@ -268,7 +268,7 @@ New participants in the Annotations Interest Group are welcomed.
 Video
 : [ITG12 Annotations](https://www.youtube.com/watch?v=FkYhs9lt1Ps&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=20)
 
-{: id="itg13:%20citizen%20science%20interest%20group" }
+{:id="itg13:%20citizen%20science%20interest%20group"}
 ### ITG13: Citizen Science Interest Group
 
 Session type
@@ -290,7 +290,7 @@ Discussion topics will include:
 Video
 : [ITG13 CitiSci](https://www.youtube.com/watch?v=TxUf-krdhMw&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=13)
 
-{: id="itg14:%20genomic%20biodiversity%20interest%20group" }
+{:id="itg14:%20genomic%20biodiversity%20interest%20group"}
 ### ITG14: Genomic Biodiversity Interest Group
 
 Session type
@@ -305,7 +305,7 @@ Description
 Video
 : [ITG43 Genomics](https://www.youtube.com/watch?v=FmrV6fQwyNQ&list=PLD9-DRLWVl0lCDE5C2uJkY_B7DOAMZdB-&index=22)
 
-{: id="ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)" }
+{:id="ws01:%20capturing%20ideas%20for%20the%20future%20of%20biocase%20provider%20software%20and%20the%20gbif%20integrated%20publishing%20toolkit%20(ipt)"}
 ### WS01: Capturing ideas for the future of BioCASe provider software and the GBIF Integrated Publishing Toolkit (IPT) 
 
 Session type
@@ -339,7 +339,7 @@ The outputs and key points from the discussion will be captured to help contribu
 Video
 : [WS01 BioCASe+IPT](https://youtu.be/hU1I1ER9qLw)
 
-{: id="ws02:%20abcd/dwc%20alignment%20working%20group" }
+{:id="ws02:%20abcd/dwc%20alignment%20working%20group"}
 ### WS02: ABCD/DwC Alignment Working Group
 
 Session type
@@ -354,7 +354,7 @@ Description
 Video
 : [WS02 ABCD/DwC](https://youtu.be/aTWmsaVAVf0)
 
-{: id="ws03:%20living%20atlases%20workshop%20for%20end%20users" }
+{:id="ws03:%20living%20atlases%20workshop%20for%20end%20users"}
 ### WS03: Living Atlases workshop for end users
 
 Session type

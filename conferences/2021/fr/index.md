@@ -9,10 +9,10 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [English](/conferences/2021/), [Japanese](/conferences/2021/ja/) and [Spanish](/conferences/2021/es/).
 
-{: .float-end .ms-5 .w-50 }
+{:.float-end .ms-5 .w-50}
 ![TDWG 2021 Logo](https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png)
 
 _Dernière mise à jour le 30 juin 2021_

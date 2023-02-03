@@ -9,10 +9,10 @@ background:
 toc: true
 ---
 
-{: .alert .alert-info }
+{:.alert .alert-info}
 This page is also available in [French](/conferences/2021/fr/), [Japanese](/conferences/2021/ja/) and [Spanish](/conferences/2021/es/).
 
-{: .float-end .ms-5 .w-50 }
+{:.float-end .ms-5 .w-50}
 ![TDWG 2021 Logo](https://static.tdwg.org/conferences/2021/logos/TDWG2021_logo-plant_400w.png)
 
 _Last updated 5 December 2021_
@@ -39,7 +39,7 @@ While virtual, connecting and uniting the TDWG community for the sharing of stan
 
 If you have registered for the conference and been notified that you have been added to Whova as a conference attendee.
 
-[Join #tdwg2021 on Whova](https://whova.com/portal/tvac_202110){: .btn .btn-primary }
+[Join #tdwg2021 on Whova](https://whova.com/portal/tvac_202110){:.btn .btn-primary}
 
 ## Abstracts
 
