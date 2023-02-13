@@ -27,7 +27,7 @@ The Darwin Core Maintenance Team
 | Record-level | collectionID | <https://github.com/tdwg/dwc/issues/406> | change | non-normative |
 | Record-level | basisOfRecord | <https://github.com/tdwg/dwc/issues/416> | change | non-normative |
 | Occurrence | organismQuantity | <https://github.com/tdwg/dwc/issues/423> | change | non-normative |
-| Occurrence | organismQuantityType | <https://github.com/tdwg/dwc/issues/423> | change | non-normative |
+| Occurrence | organismQuantityType | <https://github.com/tdwg/dwc/issues/424> | change | non-normative |
 | Occurrence | caste | <https://github.com/tdwg/dwc/issues/412> | new | normative |
 | Occurrence | vitality* | <https://github.com/tdwg/dwc/issues/363> | new | normative |
 | MaterialSample | verbatimLabel | <https://github.com/tdwg/dwc/issues/32> | new | normative |
