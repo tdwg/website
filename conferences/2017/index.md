@@ -20,7 +20,7 @@ Date
 : 2-6 October 2017
 
 Proceedings
-: published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/collection/25/)
+: [TDWG Proceedings 2017](https://biss.pensoft.net/collection/25/) in BISS
 
 Programme
 : [TDWG 2017 programme](https://static.tdwg.org/conferences/2017/tdwg_2017_programme.pdf)
