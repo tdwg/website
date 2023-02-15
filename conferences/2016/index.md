@@ -28,10 +28,9 @@ Programme
 Presentations
 : 37 [presentations on Vimeo](https://vimeo.com/album/4308386) as individual videos
 
-## Original conference website pages
-
-- [Main conference page](https://static.tdwg.org/conferences/2016/tdwg_2016_conference_page.pdf)
-- [About the conference](https://static.tdwg.org/conferences/2016/tdwg_2016_about_the_conference.pdf)
-- [Travel](https://static.tdwg.org/conferences/2016/tdwg_2016_travel_information.pdf)
-- [Hotels](https://static.tdwg.org/conferences/2016/tdwg_2016_hotels.pdf)
-- [Excursions](https://static.tdwg.org/conferences/2016/tdwg_2016_excursions.pdf)
+Conference website
+: [Main conference page](https://static.tdwg.org/conferences/2016/tdwg_2016_conference_page.pdf)
+: [About the conference](https://static.tdwg.org/conferences/2016/tdwg_2016_about_the_conference.pdf)
+: [Travel](https://static.tdwg.org/conferences/2016/tdwg_2016_travel_information.pdf)
+: [Hotels](https://static.tdwg.org/conferences/2016/tdwg_2016_hotels.pdf)
+: [Excursions](https://static.tdwg.org/conferences/2016/tdwg_2016_excursions.pdf)
