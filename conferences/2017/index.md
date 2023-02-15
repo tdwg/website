@@ -24,3 +24,6 @@ Proceedings
 
 Programme
 : [TDWG 2017 programme](https://static.tdwg.org/conferences/2017/tdwg_2017_programme.pdf)
+
+Conference website
+: <http://2017.tdwg.org>
