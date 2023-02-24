@@ -3,7 +3,7 @@ title: Public review of proposed changes to Darwin Core
 description: >
   Public comment period now open for minimum 30 days
 background:
-  img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8
+  img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80
   by: Fernando Venzano
   href: https://unsplash.com/photos/VMpIew0mHlo
 tags: [standards, public review, Darwin Core]
