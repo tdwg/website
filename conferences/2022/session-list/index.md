@@ -119,7 +119,7 @@ Session type
 : introduction & discussion
 
 Organizers
-: Lien Reyserhove, Research Institute for Nature and Forest (INBO), Brussels, Belgium, [lien.reyserhove@inbo.be](lien.reyserhove@inbo.be); and Quentin Groom, Botanical Garden Meise, Meise, Belgium, [quentin.groom@plantentuinmeise.be](quentin.groom@plantentuinmeise.be)
+: Lien Reyserhove, Research Institute for Nature and Forest (INBO), Brussels, Belgium, <lien.reyserhove@inbo.be>; and Quentin Groom, Botanical Garden Meise, Meise, Belgium, <quentin.groom@plantentuinmeise.be>
 
 Despite recent improvements, the Darwin Core (DwC) standard is not able to capture the full complexity of wildlife management data. The diversity of objectives and the methods employed for different taxonomic groups make this a challenge. In the case of applied invasion science, there are established frameworks for the management of invasive species. Likewise, animal health regulations have driven the development of standards for exchange of data for some specific species. Data exchange is needed to quantitatively compare, amongst others, management techniques, effort employed and policies at various spatial scales. In Europe, this is relevant in the context of the invasive alien species regulation (EU1143/2014), which imposes mandatory reporting on Member States, but there are surely many other examples. Is DwC the right standard for the data produced by all kinds of management? Should a community driven data exchange format that still allows a lossy transformation to DwC be developed? We invite people with interest in this subject to discuss existing initiatives, provide relevant use cases and contribute to steering future work around this topic.
 
