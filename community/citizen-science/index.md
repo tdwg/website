@@ -18,12 +18,12 @@ toc: true
 
 ## Initial members
 
-- [Pierre Bonnet](pierre.bonnet@cirad.fr) - CIRAD 
-- [Arthur D. Chapman](biodiv_2@achapman.org) 
-- [Steve Kelling](stk2@cornell.edu) - Cornell Laboratory of Ornithology 
-- [Austin Mast](amast@bio.fsu.edu) - Florida State University 
-- [Joel Sachs](joel.sachs@agr.gc.ca) - Agriculture and Agrifood Canada 
-- [Antonio Saraiva](saraiva@usp.br) - University of São Paulo 
+- [Pierre Bonnet](mailto:pierre.bonnet@cirad.fr) - CIRAD 
+- [Arthur D. Chapman](mailto:biodiv_2@achapman.org) 
+- [Steve Kelling](mailto:stk2@cornell.edu) - Cornell Laboratory of Ornithology 
+- [Austin Mast](mailto:amast@bio.fsu.edu) - Florida State University 
+- [Joel Sachs](mailto:joel.sachs@agr.gc.ca) - Agriculture and Agrifood Canada 
+- [Antonio Saraiva](mailto:saraiva@usp.br) - University of São Paulo 
 
 ## Summary
 
