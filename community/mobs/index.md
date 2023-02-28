@@ -18,10 +18,10 @@ toc: true
 
 - Abigail Benson - USGS, OBIS-USA, USA
 - Holger Dettki - Swedish LifeWatch, Sweden
-- [Jonathan Pye](jonpye@gmail.com) - Ocean Tracking Network, Canada
+- [Jonathan Pye](mailto:jonpye@gmail.com) - Ocean Tracking Network, Canada
 - Peter Desmet - Research Institute for Nature and Forest (INBO), Belgium
-- [Ian Jonsen](ian.jonsen@mq.edu.au) - Macquarie University, Australia
-- [Sarah Davidson](sdavidson@orn.mpg.de) - Max Planck Institute for Ornithology, Ohio State University, USA
+- [Ian Jonsen](mailto:ian.jonsen@mq.edu.au) - Macquarie University, Australia
+- [Sarah Davidson](mailto:sdavidson@orn.mpg.de) - Max Planck Institute for Ornithology, Ohio State University, USA
 
 ## Motivation
 
