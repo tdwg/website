@@ -11,7 +11,7 @@ toc: true
 
 ## Convenor
 
-- [Quentin Groom](quentin.groom@plantentuinmeise.be) - Meise Botanic Garden
+- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden
 
 ## Core members
 
