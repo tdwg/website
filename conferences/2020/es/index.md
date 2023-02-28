@@ -52,7 +52,7 @@ Las sesiones de trabajo serán estructuradas como reuniones en las que se puede 
 
 ### Simposios y Paneles de discusión
 
-La fecha límite para proponer simposios o paneles de discusión durante la semana del 19 al 23 de octubre ya ha vencido. Vea la [lista de sesiones organizadas](./session-list/). Esperamos publicar una programación preliminar a principios de septiembre, luego de que los resúmenes hayan sido revisados y aceptados.
+La fecha límite para proponer simposios o paneles de discusión durante la semana del 19 al 23 de octubre ya ha vencido. Vea la [lista de sesiones organizadas](../session-list/)(en ingles). Esperamos publicar una programación preliminar a principios de septiembre, luego de que los resúmenes hayan sido revisados y aceptados.
 
 ### Contribuciones individuales (presentaciones, e-posters)
 
