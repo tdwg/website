@@ -34,9 +34,9 @@ Most primary biodiversity data is based on observational data, which consists of
 
 ## Resources
 
-- [Access to Biological Collections Data (ABCD) Task Group Website](http://www.tdwg.org/activities/abcd/)
-- [Darwin Core Task Group Website](http://www.tdwg.org/activities/darwincore/)
-- [Observational Data Task Group Wiki](http://wiki.tdwg.org/Observational/)
+- [Access to Biological Collections Data (ABCD) Task Group Website](https://www.tdwg.org/community/abcd/)
+- [Darwin Core Task Group Website](https://www.tdwg.org/community/darwincore/)
+- [Machine Observations Interest Group](https://www.tdwg.org/community/mobs/)
 - [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/)
 - [OSR How Did It Die](https://www.tdwg.org/community/osr/how-did-it-die/)
 
