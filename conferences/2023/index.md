@@ -15,7 +15,7 @@ _last updated 1 March 2023_
 
 **9-13 October 2023** - TDWG 2023 conference
 
-15 April 2023 - deadline for [submission of proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions)
+**15 April 2023** - deadline for [submission of proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions)
 
 ## Location
 
