@@ -51,11 +51,10 @@ Invoices for membership dues can be paid:
 - by bank wire (banking details included with an invoice)
 - by check drawn on a United States bank.
 
-## Institutional members
+## Institutional members 2023
 
 Institution name | City
 :--- | :---
-[Agriculture and Agri-Food Canada](http://www.agr.gc.ca/) | Ottawa
 [ArtDatabanken / Swedish Species Information Centre](https://www.artdatabanken.se/en/?menu=open) | Uppsala
 [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) | Canberra
 [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) | Boulder
@@ -64,7 +63,6 @@ Institution name | City
 [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) | Lawrence, KS
 [Bishop Museum](https://www.bishopmuseum.org/) | Honolulu, HI
 [Botanic Garden and Botanical Museum Berlin, FU Berlin](https://www.bgbm.org/) | Berlin
-[Botanic Garden Meise](https://www.plantentuinmeise.be/en/home/) | Meise
 [Centre for Australian National Biodiversity Research](https://www.cpbr.gov.au/cpbr/) | Canberra
 [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | Ithaca, NY
 [Distributed System Scientific Collections (DiSSCo)](https://www.dissco.eu/) | Leiden
@@ -79,14 +77,17 @@ Institution name | City
 [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/) | Saint Louis, MO
 [Museu de Ciències Naturals de Barcelona](https://museuciencies.cat/en/) | Barcelona
 [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en) | Berlin
+[Museum National d'Histoire Naturelle](https://www.mnhn.fr/fr) | Paris
 [Museum Victoria](https://museumsvictoria.com.au/) | Melbourne
 [National Museum / Národní muzeum](https://www.nm.cz/en) | Prague
+[National Museum of Natural History](https://naturalhistory.si.edu/) | Washington, DC
 [National Museums Scotland](https://www.nms.ac.uk/) | Edinburgh
 [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) | Canberra
 [Natural History Museum Vienna](https://www.nhm-wien.ac.at/en) | Vienna
 [Natural Science Collections Facility (SANBI)](https://www.sanbi.org/) | Brummeria
 [Natural Solutions](https://www.natural-solutions.eu/) | Marseille
-[New York Botanical Garden](https://www.nybg.org) | The Bronx, NY
+[NatureServe](https://www.natureserve.org/) | Arlington, VA
+[Norwegian Biodiversity Information Centre (Artsdatabanken)](https://www.biodiversity.no/) | Trondheim
 [Own Capital of the Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) | Brussels
 [PLAZI](http://plazi.org/) | Bern
 [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) | Edinburgh
