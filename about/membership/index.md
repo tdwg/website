@@ -9,6 +9,7 @@ background:
   href: https://unsplash.com/photos/XexNwsGiHwY
 toc: true
 list:
+- href: /about/membership/2022/
 - href: /about/membership/2021/
 - href: /about/membership/2020/
 - href: /about/membership/2019/
