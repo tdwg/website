@@ -25,7 +25,7 @@ Abstracts should be written in English for a general audience, providing context
 
 You will be writing your abstract in Pensoft's online publishing platform, ARPHA writing tool. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft. Outside contributors (not listed as authors), such as linguistic editors, may be given access to your abstract (see "need help" [below](#abstract)).
 
-After submitting your abstract for review, it will be assessed for suitability for the conference. You will be notified by email of this provisional acceptance **by 15 July** so that you may take advantage of the [early registration deadline](INSERT REGISTRATION LINK)). Your abstract will be subsequently edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader, but also to help improve your presentation. 
+After submitting your abstract for review, it will be assessed for suitability for the conference. You will be notified by email of this provisional acceptance **by 15 July** so that you may take advantage of the early registration deadline. Your abstract will be subsequently edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader, but also to help improve your presentation. 
 
 Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid. 
 
