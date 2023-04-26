@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 25 April 2023_
+_Last updated 26 April 2023_
 
 ## Getting started
 
@@ -73,9 +73,9 @@ Each Collection (in ARPHA) represents an [organized session](/conferences/2023/s
 
 ## Title
 
-All major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun. Use italics for scientific names.
+All major words should begin with a capital letter (Title Case), with only the first word capitalized after a colon, unless it is a proper noun. Use italics for scientific names; do not use other styles in your title.
 
-Correct: This is the Title of my Awesome Talk: Presented live in Hobart, Tasmania<br>
+**Correct: This is the Title of my Awesome Talk: Presented live in Hobart, Tasmania**<br>
 Incorrect: This is the title of my awesome talk: presented live in Hobart, Tasmania<br>
 Incorrect: THIS IS THE TITLE OF MY AWESOME TALK: PRESENTED LIVE IN HOBART TASMANIA<br>
 Incorrect: This is the _Title of my Awesome Talk:_ Presented live in Hobart, Tasmania
