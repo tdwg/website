@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 27 April 2023_
+_Last updated 28 April 2023_
 
 ## Getting started
 
@@ -59,7 +59,7 @@ Log in to ARPHA directly from <https://arpha.pensoft.net>. Choose title from `My
 
 ### Required fields
 
-Fields with required data include _Title, Author, Abstract, Keywords, Presenting Author, Presented At, Conflicts of interest and Collection._
+Fields with required data include _Title, Author, Abstract, Keywords, Presenting Author, Presented At, Conflicts of interest, and Collection._
 
 Access all but Collection from the list at the left by hovering over a category, and then clicking on the pencil icon and filling in requested information. Regarding the Conflicts of interest, you will be asked to specify if your abstract is (co-)authored by an editor in BISS. Select **No** unless Gail Kampmeier, Shelley James, or Elycia Wallis are co-authoring the abstract.
 
@@ -84,7 +84,7 @@ Incorrect: This is the _Title of my Awesome Talk:_ Presented live in Hobart, Tas
 
 ### Submitting author
 
-The **submitting author** is the person who will ultimately be responsible _and available_ to submit your abstract for review to the journal and who will finalize the abstract once approved for publication. ARPHA automatically assumes this to be the person first logging in and starting the abstract and that person's name is assumed to be first author. This can be [changed](https://arpha.pensoft.net/tips/Edit-author-order-details). 
+The **submitting author** is the person who will ultimately be responsible _and available_ to submit your abstract for review to the journal and who will finalize the abstract once approved for publication. ARPHA automatically assumes this to be the person first logging in and starting the abstract and that person's name is assumed to be first author. The author order can be [changed](https://arpha.pensoft.net/tips/Edit-author-order-details), and the initial submitting author may be able to grant this role to another co-author. For help in changing the submitting author, please email <journals@pensoft.org> and reference the ARPHA number in your email. 
 
 Automated notifications from ARPHA or BISS about abstracts are sent _only_ to submitting authors, although co-authors will see and be able to make changes to abstracts when they appear in _Draft_ status in their [ARPHA dashboard](https://arpha.pensoft.net/dashboard). Only the submitting author will see a button to submit a revised version of the abstract back to ARPHA.
 
@@ -220,7 +220,7 @@ See the 2021 Pensoft blog post, [_Not Your Typical Conference Abstract #TDWG2021
 
 ### I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?
 
-Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to "How do I know the status of my abstract") and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](/conferences/2023/session-list/) so they can prioritize providing you feedback, or email <editor@tdwg.org>.
+Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to ["How do I know the status of my abstract"](#how-do-i-know-the-status-of-my-abstract)) and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](/conferences/2023/session-list/) so they can prioritize providing you feedback, or email <editor@tdwg.org>.
 
 ### Where do I enter the state or province under address as an author?
 
@@ -228,7 +228,7 @@ ARPHA does not currently track that information. If you feel it is necessary, ad
 
 ### My abstract has been approved and it validates but why don’t I see a `submit to journal` button?
 
-You may not be the person who originally submitted the abstract. To check this, open the Authors metadata (top left choice) to Manage Authors and make sure that despite the fact that you may be "Corresponding Author" that `Make submitting author` is not an option to be chosen next to your name _(note that currently this is not working; efforts are being made to restore this function)_. If it is (and one of your co-authors does not have this), click on the button to make you the submitting author, save the changes, and see if you now can submit the abstract to the journal. You may need to log out of ARPHA and/or your browser to have changes made reflect properly when you log back in. Still have issues? Please contact the help desk.
+You may not be the person who originally submitted the abstract (see [submitting author](#submitting-author). If the submitting author is unavailable, please contact the Pensoft team <journals@pensoft.net> for help.
 
 ### I use more than one email for my work. How do I choose one?
 
