@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 26 April 2023_
+_Last updated 27 April 2023_
 
 ## Getting started
 
@@ -41,7 +41,7 @@ Communicate with the journal's help desk (in ARPHA) to resolve technical issues 
 
 ### Begin on the BISS Homepage
 
-As the person submitting the abstract, you should register or log in to <https://biss.pensoft.net/>. You will need to acknowledge [Terms of Use](https://biss.pensoft.net/about#TermsofUse) if you are new to the system.
+As the person submitting the abstract, you should register or log in to <https://biss.pensoft.net/>. You will need to acknowledge [Terms of Use](https://biss.pensoft.net/about#TermsofUse) if you are new to the system. If you do not receive the system notification containing your account confirmation link, please contact Pensoft's team at <journals@pensoft.net> for assistance.
 
 ### Click button for NEW abstract
 
@@ -59,9 +59,9 @@ Log in to ARPHA directly from <https://arpha.pensoft.net>. Choose title from `My
 
 ### Required fields
 
-Fields with required data include _Title, Author, Abstract, Keywords, Presenting Author, Presented At, and Collection._
+Fields with required data include _Title, Author, Abstract, Keywords, Presenting Author, Presented At, Conflicts of interest and Collection._
 
-Access all but Collection from the list at the left by hovering over a category, and then clicking on the pencil icon and filling in requested information.
+Access all but Collection from the list at the left by hovering over a category, and then clicking on the pencil icon and filling in requested information. Regarding the Conflicts of interest, you will be asked to specify if your abstract is (co-)authored by an editor in BISS. Select **No** unless Gail Kampmeier, Shelley James, or Elycia Wallis are co-authoring the abstract.
 
 ## Collection (Session)
 
@@ -87,6 +87,8 @@ Incorrect: This is the _Title of my Awesome Talk:_ Presented live in Hobart, Tas
 The **submitting author** is the person who will ultimately be responsible _and available_ to submit your abstract for review to the journal and who will finalize the abstract once approved for publication. ARPHA automatically assumes this to be the person first logging in and starting the abstract and that person's name is assumed to be first author. This can be [changed](https://arpha.pensoft.net/tips/Edit-author-order-details). 
 
 Automated notifications from ARPHA or BISS about abstracts are sent _only_ to submitting authors, although co-authors will see and be able to make changes to abstracts when they appear in _Draft_ status in their [ARPHA dashboard](https://arpha.pensoft.net/dashboard). Only the submitting author will see a button to submit a revised version of the abstract back to ARPHA.
+
+_It is the responsibility of the submitting author to make sure that all co-authors are aware of and agree with the information presented, that their contact information is correct and in the proper order in the chain of co-authors._
  
 ### Co-authors
 
@@ -96,7 +98,7 @@ When adding co-authors, please specify what rights each will have to comment onl
 
 ### Corresponding author
 
-Designate one author as the **corresponding author** (the person to whom correspondence should be addressed _after_ publication). May be any author.
+Designate one author as the **corresponding author** (the person to whom correspondence should be addressed _after_ publication). May be any author or more than one author.
 
 ### Presenting author
 
@@ -137,6 +139,10 @@ Only capitalize proper nouns; do not capitalize the first keyword unnecessarily.
 You may add [references](https://arpha.pensoft.net/tips/References), [figures](https://arpha.pensoft.net/tips/Figures), [tables](https://arpha.pensoft.net/tips/Tables) and upload [supplementary materials](https://arpha.pensoft.net/tips/Supplementary-files) associated with the abstract. None of these are required. Create these resources first from the end of the left menu, [before linking them to the appropriate text](https://arpha.pensoft.net/tips/Cite-references) in your abstract.
 
 Any figures, images, or media used in abstracts or presentations must be [credited with their copyright status](/about/terms-of-use/copyright-infringement/#a-general-recommendation-to-presenters), _even if they are your own_. See TDWG's [Terms of Use](/about/terms-of-use/).
+
+## Acknowledgements
+
+Use the optional fields `Funder`, `Funding program`, `Grant title`, `Hosting institution` to acknowledge contributors or institutions that you wish to thank or acknowledge for their contribution to the underlying research or support for your abstract. Be sure to solicit any additional details from your co-authors. Keep in mind that the version you submit to the journal will be published as is and the workflow does NOT include an exchange of proofs.
 
 ## Submit for technical review
 
@@ -179,14 +185,15 @@ Once the submitting author receives notification that their abstract has been ap
 
 ### Steps
 
-1. **Double check the name of the presenting author** (should only be the name as listed as an author) and do a final proofing of your abstract.
-2. **Validate.** Next, click the `Validate` button first to make sure there are no lingering issues. See [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). Click on the blue text for each issue to resolve it. A successful validation will only show the number of characters in your abstract.
-3. Once approved, the `Submit to the journal` button should become visible (if you do not see this button, you may not be listed as the submitting author (see [Authors](#authors)) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the `Submit to the journal` button and then go through the (long) checklist of submission steps.
-4. The first step in the checklist regards the **license and copyright** of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if _any_ author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk.
-5. Step 2 requires that you mark the box indicating "I am aware that my abstract will be published only after registering and payment of any fees for the TDWG 2023 conference".
-6. The final step asks you to **assign categories** (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_.
-7. When the submission process is finalised, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty).
-8. At publication, you should receive a confirmation email from the journal.
+1. Verify that the **author order and their respective affiliations are correct** and you have added [Acknowledgements](#acknowledgements) where appropriate.
+2. **Double check the name of the presenting author** (should appear as it does in the author list) and do a final proofing of your abstract.
+3. **Validate.** Next, click the `Validate` button first to make sure there are no lingering issues. See [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). Click on the blue text for each issue to resolve it. A successful validation will only show the number of characters in your abstract.
+4. Once approved, the `Submit to the journal` button should become visible (if you do not see this button, you may not be listed as the submitting author (see [Authors](#authors)) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the `Submit to the journal` button and then go through the (long) checklist of submission steps.
+5. The first step in the checklist regards the **license and copyright** of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if _any_ author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk.
+6. Step 2 requires that you mark the box indicating "I am aware that my abstract will be published only after registering and payment of any fees for the TDWG 2023 conference".
+7. The final step asks you to **assign categories** (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_.
+8. When the submission process is finalised, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty).
+9. At publication, you should receive a confirmation email from the journal.
 
 ### Incomplete submission
 
