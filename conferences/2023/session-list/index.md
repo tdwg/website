@@ -1,7 +1,7 @@
 ---
 title: Symposia, workshops, & discussion sessions
 description: >
-  Organized sessions at TDWG 2022 include symposia, workshops, demos, a panel discussion & lightning talks.
+  Organized sessions at TDWG 20223 include symposia, workshops, demos, a panel discussion & lightning talks.
 background:
   img: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
   by: Paul Talbot
@@ -36,10 +36,10 @@ Evaluating and understanding the distribution and spread of pests, weeds and dis
 ### SYM 02 Building bridges: Mapping from, to and between TDWG standards 
 
 Session type
-: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered (related workshop to follow)
+: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered ([related workshop]((#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow)
 
 Organizers
-: David Fichtmueller, BGBM, Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., USA, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
+: David Fichtmueller, BGBM, Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
  
 TDWG offers a large variety of standards, covering many aspects of geo- and biodiversity sciences. Each standard has its own purpose and area of focus, but there are always conceptual overlaps between them. Being able to systematically express and document those overlaps in the form of mappings is important for their interoperability, e.g., when merging data from different sources given in different standards. Mappings also help people who are familiar with one standard to better understand other standards with which they are less accustomed. 
 
@@ -47,7 +47,7 @@ However additional efforts are needed to better integrate mappings into the TDWG
 
 This symposium offers an entry point into the discussion of mappings. We will review the mappings that already exist for various TDWG standards, the different technical approaches to specify mappings, and share a high-level view of the TDWG standards landscape to identify missing mappings.
 
-This session will be followed by a workshop (INSERT LINK) for further hands-on exploration and contribution to standards mapping efforts.
+This session will be followed by a [workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) for further hands-on exploration and contribution to standards mapping efforts.
 
 ### SYM 03 Providing descriptive data based on the FAIR principles
 
@@ -297,7 +297,7 @@ Session type
 Organizers
 : Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
 
-To gain critical background for participating in this workshop, please attend the associated symposium [INSERT LINK] that will introduce this topic, looking at existing mappings, technical approaches, and identifying missing mappings.
+To gain critical background for participating in this workshop, please attend the [associated symposium](#sym-02-building-bridges-mapping-from-to-and-between-tdwg-standards) that will introduce this topic, looking at existing mappings, technical approaches, and identifying missing mappings.
 
 This workshop offers a hands-on approach to explore options for contributing to mappings, to provide input on the expected process, and to gather the needs and requirements from the community. Participation will be possible both in person and virtually.
 
