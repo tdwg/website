@@ -1,7 +1,7 @@
 ---
 title: Symposia, workshops, & discussion sessions
 description: >
-  Organized sessions at TDWG 20223 include symposia, workshops, demos, a panel discussion & lightning talks.
+  Organized sessions at TDWG 2023 include symposia, workshops, posters, discussions, demos, contributed oral presentations, & keynotes.
 background:
   img: https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg
   by: Paul Talbot
@@ -36,7 +36,7 @@ Evaluating and understanding the distribution and spread of pests, weeds and dis
 ### SYM 02 Building bridges: Mapping from, to and between TDWG standards 
 
 Session type
-: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered ([related workshop]((#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow)
+: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered ([related workshop]((#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards)) to follow)
 
 Organizers
 : David Fichtmueller, BGBM, Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
