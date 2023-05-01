@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 28 April 2023_
+_Last updated 30 April 2023_
 
 ## Getting started
 
@@ -25,9 +25,9 @@ Abstracts should be written in English for a general audience, providing context
 
 You will be writing your abstract in Pensoft's online publishing platform, ARPHA writing tool. ARPHA allows you and your co-authors to collaborate (although only one person at a time) through the creation and revision process of your draft. Outside contributors (not listed as authors), such as linguistic editors, may be given access to your abstract (see "need help" [below](#abstract)).
 
-After submitting your abstract for review, it will be assessed for suitability for the conference. You will be notified by email of this provisional acceptance **by 15 July** so that you may take advantage of the early registration deadline. Your abstract will be subsequently edited and peer reviewed by session organizers and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader, but also to help improve your presentation. 
+After submitting your abstract for review, it will be assessed for suitability for the conference. You will be notified by email of this provisional acceptance **by 15 July** so that you may take advantage of the early registration deadline. Your abstract will be subsequently edited and peer reviewed by [session organizers](/conferences/2023/session-list/) and volunteers from the Program Committee. The review process is designed to not only enhance the accessibility of your content by the general reader, but also to help improve your presentation. 
 
-Abstracts will be published with digital object identifiers (DOIs) upon acceptance and after any registration fees have been paid. 
+Abstracts will be published with digital object identifiers (DOIs) after necessary registration fees have been paid and the abstract has been finalized and submitted to the journal by the submitting author. 
 
 ### Email communications
 
@@ -61,11 +61,13 @@ Log in to ARPHA directly from <https://arpha.pensoft.net>. Choose title from `My
 
 Fields with required data include _Title, Author, Abstract, Keywords, Presenting Author, Presented At, Conflicts of interest, and Collection._
 
-Access all but Collection from the list at the left by hovering over a category, and then clicking on the pencil icon and filling in requested information. Regarding the Conflicts of interest, you will be asked to specify if your abstract is (co-)authored by an editor in BISS. Select **No** unless Gail Kampmeier, Shelley James, or Elycia Wallis are co-authoring the abstract.
+Access all but Collection from the list at the left by hovering over a category, and then clicking on the pencil icon and filling in requested information. 
+
+Regarding the `Conflicts of interest`, you will be asked to specify if your abstract is (co-)authored by an editor in BISS. Select **No** unless Gail Kampmeier, Shelley James, or Elycia Wallis are co-authors on your abstract.
 
 ## Collection (Session)
 
-Each Collection (in ARPHA) represents an [organized session](/conferences/2023/session-list/) accepted for TDWG 2023, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Virtual Poster.
+Each `Collection` (in ARPHA) represents an [organized session](/conferences/2023/session-list/) accepted for TDWG 2023, including posters and contributed oral presentations. Many session organizers have agreed to consider unsolicited contributions, so if you think your presentation would fit an existing topic and organizers have indicated they will consider it, choose that collection, otherwise select Contributed Oral Presentation or Poster.
 
 **Click `Collections` on the top navigation bar of your manuscript** (top right of figure below) for a drop-down list of sessions. Choose the most appropriate collection for your abstract. Designating a Collection is critical, as your abstract cannot be directed to the proper editors without this assignment. Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections).
 
@@ -102,7 +104,7 @@ Designate one author as the **corresponding author** (the person to whom corresp
 
 ### Presenting author
 
-The **presenting author** (added outside of the Authors metadata panel, after Keywords) is the person who will be delivering the presentation at the conference. Type in the name of the presenter in the same way as it is listed as an author. Do not add affiliations. If there are multiple presenters, separate the names with a comma.
+The **presenting author** (added outside of the Authors metadata panel, after Keywords) is the person who will be delivering the presentation at the conference. Type in the name of the presenter in the same way as it is listed as an author. Do not add affiliations or honorifics. If there are multiple presenters, separate the names with a comma.
 
 _The presenting author will be responsible for a live, recorded, or poster presentation and must be fully registered for the conference by the time the abstract is approved for publication._
 
@@ -114,7 +116,7 @@ Make sure this is filled in with `TDWG 2023` (no more, no less)
 
 **Please write your abstract for a general audience**, providing context for your presentation and avoid unexplained jargon. _Note that this is not a venue for reporting the results of research in your discipline._
 
-**Abstracts should be written in English**, and be appropriate to the conference theme, _Stronger Together: Standards for linking biodiversity data_.
+**Abstracts should be written in English**, and be appropriate for the conference.
 
 **Be sure to provide references for TDWG or other [standards](/standards/)** used in your work (e.g., [Darwin Core Standard](http://www.tdwg.org/standards/450))
 
@@ -142,7 +144,7 @@ Any figures, images, or media used in abstracts or presentations must be [credit
 
 ## Acknowledgements
 
-Use the optional fields `Funder`, `Funding program`, `Grant title`, `Hosting institution` to acknowledge contributors or institutions that you wish to thank or acknowledge for their contribution to the underlying research or support for your abstract. Be sure to solicit any additional details from your co-authors. Keep in mind that the version you submit to the journal will be published as is and the workflow does NOT include an exchange of proofs.
+Use the optional fields `Funder`, `Funding program`, `Grant title`, `Hosting institution` to acknowledge supporters or institutions that you wish to thank or acknowledge for their contribution to the underlying research or support of your abstract. Be sure to solicit any additional acknowledgements from your co-authors. Keep in mind that the version you submit to the journal will be published as is and the workflow does NOT include an exchange of proofs with those acknowledged.
 
 ## Submit for technical review
 
@@ -161,7 +163,7 @@ Click the `Validate` button to check that you have no outstanding omissions (ens
 
 The submitting author should see the `Submit for Technical Review` button (below the `Validate` button). Clicking this button sends your abstract to the editors for consideration as part of TDWG 2023. **This step must be completed by the deadline of 1 July.**
 
-You should receive an auto-generated confirmation email (be sure to find this in your email). 
+You should receive an auto-generated confirmation email (be sure to find this in your mailbox). 
 
 On your ARPHA dashboard, the status of the manuscript will change to **in pre-submission review** and will be in read-only mode for authors.
 
