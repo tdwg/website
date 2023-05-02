@@ -300,7 +300,7 @@ Session Type
 Organizer
 : Robert Mesibov, West Ulverstone, Australia, <robert.mesibov@gmail.com> 
 
-In this 2-hour, hands-on workshop, participants will practice using [AWK](https://en.wikipedia.org/wiki/AWK) to identify between-field problems in Darwin Core data tables. Participants should be familiar with the BASH shell scripting and need to bring a laptop running BASH (on Windows, Mac or Linux), with [GNU AWK](https://www.gnu.org/software/gawk/) installed. A few functions will be used but no shell scripts, and sample data will be provided. The session includes a brief introduction to the AWK text-processing language.
+In this 2-hour, hands-on workshop, participants will practice using [AWK](https://en.wikipedia.org/wiki/AWK) to identify between-field problems in Darwin Core data tables. Participants should be familiar with the BASH shell and need to bring a laptop running BASH (on Windows, Mac or Linux), with [GNU AWK](https://www.gnu.org/software/gawk/) installed. A few functions will be used but no shell scripts, and sample data will be provided. The session includes a brief introduction to the AWK text-processing language.
 
 {:id="wksh02"}
 ### WKSH02 Building bridges: Mapping from, to and between TDWG standards
