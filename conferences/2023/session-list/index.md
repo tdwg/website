@@ -13,7 +13,7 @@ _Last updated 30 April 2023_
 
 <!-- ## Keynote speakers -->
 
-## Contributed Oral Presentations
+## Contributed oral presentations
 
 This category reflects a broad range of author-submitted topics that are not part an organized session. Multiple sessions are anticipated.
 
@@ -23,6 +23,7 @@ All those submitting poster abstracts will be required to create a virtual poste
 
 ## Symposia
 
+{:id="sym01"}
 ### SYM 01 Biosecurity data: Why does it matter and how can access be facilitated?
 
 Session type
@@ -33,10 +34,11 @@ Organizers
 
 Evaluating and understanding the distribution and spread of pests, weeds and diseases through collation of data and big data analytics is a critical need for biosecurity systems globally. Biosecurity efforts aim to prevent, eradicate or mitigate impacts from pests and diseases, but prevention and effective responses to threats are only possible if reliable data is available for surveillance, risk analysis, response modelling and informed decision making. Efforts are currently hampered by limited findability, accessibility, and interoperability of biosecurity data. In addition, data is often fragmented across multiple platforms as well as socially, among program leaders, participants, researchers, and managers. Issues with ontology and data standardisation are also challenges, and inconsistent taxonomy further compounds these issues. This session will explore global case studies that examine the practices and pathways that facilitate better access to biosecurity data. Participants will engage with best practice, lessons learned, and concrete tools that they can use in their programs. We aim to strengthen both the cooperation and transfer of experiences between industry, research, community and government, and present solutions to current biosecurity data challenges.
 
+{:id="sym02"}
 ### SYM 02 Building bridges: Mapping from, to and between TDWG standards 
 
 Session type
-: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered ([related workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards)) to follow)
+: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered ([related workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow)
 
 Organizers
 : David Fichtmueller, BGBM, Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
@@ -49,6 +51,7 @@ This symposium offers an entry point into the discussion of mappings. We will re
 
 This session will be followed by a [workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) for further hands-on exploration and contribution to standards mapping efforts.
 
+{:id="sym03"}
 ### SYM 03 Providing descriptive data based on the FAIR principles
 
 Session type
@@ -59,6 +62,7 @@ Organizers
 
 The identification and description of species and other taxa are the fundamental basis for every biodiversity study. Descriptive data takes a number of very different forms, more or less complete, structured or not, standardized or heterogenous. The importance of a standard for this data has been crucial since the beginnings of TDWG. To address this, following the Description Language for Taxonomy ([DELTA](https://www.tdwg.org/standards/delta/); ratified in 1986), the [SDD](https://www.tdwg.org/standards/sdd/) (Structured Descriptive Data) was ratified in 2005. Since then, a rapid growth and increasing quantities of computerized descriptive data is observed. In parallel, the techniques and languages to collect and manage them have evolved considerably with, for instance, AI (Artificial Intelligence), ontologies, text mining, and annotation. New platforms are developed, with some still using and adapting the SDD, and others not. It is critical in a FAIR (Findable, Accessible, Interoperable, and Reusable) data context to maintain models for sharing descriptive data that are structured enough to become knowledge, allowing comparison, identification, data-mining and application of analysis tools. In this session, we will review the existing models and discuss how to evolve the standard around the structuration of taxonomic descriptions.
 
+{:id="sym04"}
 ### SYM 04 The CARE principles: Learning and growing as a data management community
 
 Session type
@@ -69,6 +73,7 @@ Organizers
 
 The CARE Principles (Collective Benefit, Authority to Control, Responsibility, and Ethics) for Indigenous data governance  provide an important framework for ensuring that Indigenous and marginalized communities have control over the data they collect, data where they are the subject, or data collected in their territories (Carroll et al. 2020). Implementing the CARE Principles, alongside the FAIR Principles (Findable, Accessible, Interoperable, and Reusable), can minimize harm and maximize benefits to Indigenous and marginalized communities by accommodating past power and decision-making imbalances in the use of data. The data management community has an ethical responsibility to protect the intellectual rights of Indigenous knowledge holders. The entire biodiversity community would benefit from giving apt recognition to past and present power differentials between colonising and Indigenous cultures in data and knowledge exchange. This session will present the CARE principles and give examples of how they have been implemented around the world. We seek to increase our understanding of how CARE is being implemented, create a space for discussing approaches for applying CARE to biodiversity data, and bolster our ability to support Indigenous data sovereignty.
 
+{:id="sym05"}
 ### SYM 05 AI Contributions to biodiversity data & data standardisation: Opportunities and challenges 
 
 Session type
@@ -89,6 +94,7 @@ Topics of interest include:
 - AI-driven metadata management and ontology development for biodiversity data
 - Ethical and legal considerations in AI-assisted biodiversity data standardisation
 
+{:id="sym06"}
 ### SYM 06 Standards and automation for machine observations
 
 Session type
@@ -102,7 +108,7 @@ Machine observations can be defined as species occurrence records that are captu
 1. Automated workflows from sensor capture to storage, from raw to processed species occurrence data
 2. Challenges and opportunities in sharing and publishing machine observations (e.g., data exchange formats, sensitive data)
 
-
+{:id="sym07"}
 ### SYM 07 10 Years of the Living Atlases
 
 Session type
@@ -115,6 +121,7 @@ The [Living Atlases](https://living-atlases.gbif.org/) community has grown and d
 
 For the first time after a long hiatus, we would like to invite participants in the Living Atlas community to meet face-to-face in Australia and share their experiences in a series of lightning talks and a roundtable discussion. Lightning talks should outline the current data portal architecture, works in progress and priorities for each platform. The ensuing moderated discussion will be an opportunity to raise issues and opportunities related to the software, and also discuss future innovation and collaboration pathways.
 
+{:id="sym08"}
 ### SYM 08 Exchange and reuse of environmental DNA and metabarcoding data
 
 Session type
@@ -125,6 +132,7 @@ Organizers
 
 Metabarcoding of DNA is becoming a standard tool for detecting species in bulk samples or environmental samples such as soil, water, and air. In the name of reproducibility, raw sequence data (fastq files), code and metadata files are most often shared and deposited in dedicated repositories within the International Nucleotide Sequence Database Collaboration, GitHub, and in generalist repositories such as Dryad and Zenodo. However, seen from a biodiversity perspective, raw sequences have narrower applications compared to the interpreted DNA metabarcoding data. Most often such interpretations come in the shape of a table with sequence abundances of Amplicon Sequence Variants or Operational Taxonomic Units across samples – a so-called ASV/OTU-table – and some associated files, e.g., spatiotemporal and other sample metadata, and taxonomic inferences of sequences. In most cases these are at best part of the supplementary materials, and unfortunately rarely shared in a standardised way that facilitates reuse and integration of DNA data with other data types and data layers, and across studies. In this session we will present and invite presentations on improving, promoting, and assisting FAIR publication and standardisation of biodiversity data (OTU-table-like data) for easier and broader reuse, and integration with other biodiversity data and data layers.
 
+{:id="sym09"}
 ### SYM 09 Globally linking taxonomies: Name IDs and name matching 
 
 Session type
@@ -135,6 +143,7 @@ Organizers
 
 Numerous local, regional and global information systems are using taxon names in fields ranging from biology, ecology and conservation to government provisions and medical applications. We know that scientific names of organisms do not provide a “unique identifier” for a taxon, because the taxon’s circumscription represents a scientific hypothesis and thus is subject to change. Nevertheless, names provide the glue that allows for information gathering and access across systems. Although scientific names are governed by strict codes of nomenclature, numerous variants of names exist. The taxonomic community is increasingly aware of this fact and several initiatives exist to sort out the latter issue. Globally unique identifiers for names and their variants play a central role allowing machines to support that task, and to conserve the results of the data cleaning actions. Name matching services are a tool to disperse GUIDs (Globally Unique Identifiers) to local users. One of the tasks of the [EU TetRRIS](https://tetrris.eu/about-tetrris-project/) project is to document and enhance these processes in order to establish functional workflows for the mapping of local taxonomies. The symposium will invite presentations and lightning talks to publicise existing services and persistent GUID systems with a special focus on long-term sustainability of the services.
 
+{:id="sym10"}
 ### SYM 10 Global biodata resources: A crucial infrastructure underpinning biodiversity research
 
 Session type
@@ -149,6 +158,7 @@ In this session GBC will present an overview of its work to characterise the wor
 
 The goals of the session will be to raise awareness of the criticality of globally-connected infrastructure, its dependence on distributed resources, and the relative fragility of an infrastructure that is generally taken for granted by its users.
 
+{:id="sym11"}
 ### SYM 11 Combining biodiversity and environmental data for addressing scientific and societal questions
 
 Session type
@@ -163,6 +173,7 @@ We expect presentations to highlight methodological aspects such as data standar
 
 We expect to gather a set of presentations illustrating varied approaches with different aims, from pure scientific scenarios to more applied ones (e.g., conservation, planning, climate change adaptation), from all-in-one comprehensive portals to specific solutions to make heterogeneous data compatible.
 
+{:id="sym12"}
 ### SYM 12 Improving the quality of taxonomic data publishing and list building
 
 Session type
@@ -175,6 +186,7 @@ Major improvements have been made in listing the world’s known species. The Ca
 Despite these global efforts, COL is not perfect. There are data gaps (incompleteness), weak spots in several taxonomic groups (outdated data), data types that are challenging to integrate (e.g., paleodata) and a considerable time lag in being up-to-date with published literature.
 Every day, taxonomists continue to publish new scientific names and refine our understanding of the world’s species. What is the role of taxonomic editing tools, such as those offered by [WoRMS](https://www.marinespecies.org/), [ITIS](https://www.itis.gov/), [TaxonWorks](https://taxonworks.org/), [WFO](http://www.worldfloraonline.org/), [EDIT](https://cybertaxonomy.org/) in managing and publishing data? Do we have commonly agreed taxonomic standards in place? To guarantee the highest confidence in data, we are in need of a transparent and consistent data quality assurance and data quality control mechanism from the creation of taxonomic data, to the data publishing, to the delivery into taxonomic data products and the global list of known species.
 
+{:id="sym13"}
 ### SYM 13 Publishing: Extending the biodiversity knowledge graph
 
 Session type
@@ -185,6 +197,7 @@ Organizers
 
 A goal of natural history institutions is contributing to the understanding of biodiversity and disseminating this knowledge by becoming scientific publishers. Through this, they joined the growing field of scholarly publishing established in 1665 by the Journal des sçavans to publish work from the sciences. One of the characteristics of scientific publishing is to cite previous works and thus linking existing knowledge with new discoveries. To provide access to the growing corpus of publications, libraries began to index individual works. With the advent of the digital age, full text search and text and data mining provide access to the content using machines analysing large corpora of works. The development of the semantic web enabled creating a knowledge graph. A typical example is the growth of knowledge related to a species, including synonyms, cited specimens, figures or DNA sequences. During this symposium the state and recent developments of biodiversity publishing, linking and providing increased access to data by [Pensoft](https://pensoft.net/), [CETAF](https://cetaf.org/)-publishing group, [MNHN Paris](https://www.mnhn.fr/en), [Plazi](https://plazi.org/) and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/), including over 50 journals in a semantic enhanced format, and supported by a series of projects ([BiCIKL](https://bicikl-project.eu/), [eBioDiv](https://ebiodiv.org/), [Arcadia fund](https://www.arcadiafund.org.uk/), [MétoSTeM](https://www.ouvrirlascience.fr/metostem-2/)) will be discussed.
 
+{:id="sym14"}
 ### SYM 14 Biodiversity informatics in Asia: Innovations & challenges
 Session type: Symposium (unsolicited presentations considered)
 
@@ -194,6 +207,7 @@ The Asian continent is one of the most biodiverse regions in the world, boasting
 
 This symposium provides a platform to bring together active players in the field from across the continent to share their experiences and perspectives. Participants will have the opportunity to learn about interesting projects from across Asia, including novel approaches to data management, innovative tools, and new models for sharing and integrating biodiversity data. Additionally, the symposium will facilitate discussions on the challenges and opportunities of biodiversity informatics in Asia, such as the need for improved data quality and accessibility, the importance of engaging local communities in data mobilization efforts, and the potential of emerging technologies in biodiversity research.
 
+{:id="sym15"}
 ### SYM 15 Taxonomic backbone and catalogs: Solutions, workflows, and challenges
 
 Session type
@@ -210,6 +224,7 @@ The symposium will bring together researchers, curators, and practitioners from 
 
 The symposium will also provide an opportunity for participants to discuss the challenges associated with taxonomic research and explore strategies for overcoming them.
 
+{:id="sym16"}
 ### SYM 16 The role of collections management systems in the worldwide movement to roundtrip data enhancements
 
 Session type
@@ -220,6 +235,7 @@ Organizers
 
 There is renewed interest in a circular flow of annotations among and between isolated sources of biodiversity data, lately called data “round-tripping”. The structure and package for these annotations has assumed various new forms such as Frictionless Data, JATS XML, or nanopublications, but the fundamental principles and challenges remain unchanged.  Someone (or something) (1) has a valuable enhancement to make elsewhere from the source where original data or information are generated or transcribed; (2) wishes to broadcast these statements to the originator and to others who may benefit; and (3) expects persistence, discoverability, and attribution for their contributions alongside the source. Digital Extended Specimens must provide an answer to these socio-technical desires. This likewise puts pressure on collections management systems to quickly respond with functional integrations or risk being disconnected from the accumulation of valuable annotations. Besides the very obvious need for globally unique, persistent, resolvable identifiers for shared objects and concepts, we likewise require a universally consistent way to package and shuttle annotations that are sufficiently informative for a data curator to confidently make a decision. We look to the Web Annotation Working Group, Filtered Push, AnnoSys, Hypothes.is and their champions for guidance. Here, we propose a survey on what annotation frameworks and standards are presently in use in collections management systems for data objects, shared concepts, and the links among them, especially those that reach beyond the walls of a local, isolated system. We encourage contributors to reveal strengths, shortcomings, and challenges with the aims of reinvigorating the [Annotations Interest Group](https://www.tdwg.org/community/annotations/) and providing leadership through actionable recommendations. 
 
+{:id="sym17"}
 ### SYM 17 Describing biodiversity in underrepresented languages using crowdsourcing
 
 Session type
@@ -238,9 +254,9 @@ Goals
 
 We hereby call on all researchers, conservationists, and language enthusiasts! Join our session to explore how crowdsourcing can revolutionize biodiversity documentation in underrepresented languages. Share your insights, experiences, and success stories in utilizing crowdsourcing platforms to collect biodiversity data from local communities. We invite abstract submissions that highlight innovative approaches, validation mechanisms, and user-friendly features in crowdsourcing initiatives. Let's work together to bridge the language gap, tap into the wealth of local knowledge, and enhance our understanding of global biodiversity for effective conservation efforts. Don't miss this opportunity to be part of a cutting-edge discussion and contribute to the advancement of biodiversity research and conservation!
 
-
 ## Demonstration
 
+{:id="demo01"}
 ### DEMO 01 The BiCIKL toolbox to link biodiversity data
 
 Session type
@@ -249,20 +265,16 @@ Session type
 Organizers
 : Quentin Groom, Meise Botanic Garden, Meise, Vlaams-Brabant, Belgium, <quentin.groom@plantentuinmeise.be>;  Olaf Banki, Species 2000 / Catalogue of Life, Amsterdam, , Netherlands, <olaf.banki@sp2000.org>; Patrick Ruch, HES-SO, Carouge, Geneva, Switzerland, <patrick.ruch@hesge.ch>; Wouter Addink, Naturalis Biodiversity Center, Leiden, Netherlands, <wouter.addink@naturalis.nl>; Lyubomir Penev, Pensoft Publishers, Sofia, Bulgaria, <l.penev@pensoft.net>; Donat Agosti, Plazi,  Bern, Switzerland, <agosti@plazi.org>
 
-We will demonstrate tools and infrastructure from the [BiCIKL](https://bicikl-project.eu/) project to find and establish links between entities. These include
-
+We will demonstrate tools and infrastructure from the [BiCIKL](https://bicikl-project.eu/) project to find and establish links between entities. These include:
 - Infrastructure to create and manage machine actionable persistent identifiers (PIDs) for digital specimens. This allows the creation and annotation of digital specimens as new actionable objects on the internet, which provide a surrogate for physical specimens.
-
 - [OpenBiodiv](https://openbiodiv.net/) is a linked open data (LOD) knowledge graph extracted from the biodiversity literature. OpenBiodiv can discover hidden links, e.g., between authors, taxa, sequences, material citations, publications and others using general search, SPARQL (query language), user applications and API.
-
 - [TreatmentBank](https://plazi.org/treatmentbank/) liberates data from within publications, and converts, enhances, links, stores, and disseminates it as findable, accessible, interoperable and reusable (FAIR) data. The API has been enhanced allowing better data linkages through identifiers, matching services, and avenues for annotation. 
-
 - The [SIBiLS](https://www.expasy.org/resources/sibils) custom search services provide access to biomedical literature, including PubMed Central ([PMC](https://www.ncbi.nlm.nih.gov/pmc/)) and [MEDLINE](https://www.nlm.nih.gov/medline/index.html). It also provides access to half a million taxonomic treatments curated by [Plazi](https://plazi.org/). BICIKL has helped aggregate more publications, enabling the creation of an all-inclusive "One Health" library, the BiodiversityPMC.
-
 - [ChecklistBank](https://www.checklistbank.org/) is an open data repository with a focus on taxonomy and nomenclature. It has tools for name matching, dataset comparison, and for linking taxonomic names from literature.
 
 ## Panel Discussion
 
+{:id="pd01"}
 ### PD 01 Data quality: Lessons and directions
 
 Session type
@@ -279,6 +291,7 @@ We hope that the discussion at this session will familiarise participants with w
 
 ## Workshops
 
+{:id="wksh01"}
 ### WKSH 01 Using AWK to check for errors, inconsistencies and anomalies between fields in Darwin Core records
 
 Session Type
@@ -289,6 +302,7 @@ Organizer
 
 In this 2-hour, hands-on workshop, participants will practice using [AWK](https://en.wikipedia.org/wiki/AWK) to identify between-field problems in Darwin Core data tables. Participants should be familiar with the BASH shell scripting and need to bring a laptop running BASH (on Windows, Mac or Linux), with [GNU AWK](https://www.gnu.org/software/gawk/) installed. A few functions will be used but no shell scripts, and sample data will be provided. The session includes a brief introduction to the AWK text-processing language.
 
+{:id="wksh02"}
 ### WKSH 02 Building bridges: Mapping from, to and between TDWG standards
 
 Session type
@@ -301,6 +315,7 @@ To gain critical background for participating in this workshop, please attend th
 
 This workshop offers a hands-on approach to explore options for contributing to mappings, to provide input on the expected process, and to gather the needs and requirements from the community. Participation will be possible both in person and virtually.
 
+{:id="wksh03"}
 ### WKSH 03 Handling restricted access data in an open data landscape
 
 Session type
@@ -315,6 +330,7 @@ As biodiversity data has been democratised, the motivations of individuals, rese
  
 The focus of this workshop is to develop sensitive data standards that respect both FAIR (Findable, Accessible, Interoperable, and Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles and enable practical data sharing, which can be incorporated into Darwin Core.
 
+{:id="wksh04"}
 ### WKSH 04 Working session to develop genomics-specific extensions with the Darwin Core event model
 
 Session type
