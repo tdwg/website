@@ -306,7 +306,7 @@ In this 2-hour, hands-on workshop, participants will practice using [AWK](https:
 ### WKSH02 Building bridges: Mapping from, to and between TDWG standards
 
 Session type
-: Hands-on Workshop (in-person and virtual participation)
+: Hands-on Workshop (in-person and virtual participation; no unsolicited abstracts accepted))
 
 Organizers
 : Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
@@ -319,7 +319,7 @@ This workshop offers a hands-on approach to explore options for contributing to 
 ### WKSH03 Handling restricted access data in an open data landscape
 
 Session type
-: Workshop
+: Workshop (no unsolicited abstracts accepted)
 
 Organizers
 : Cameron Slatyer, Atlas of Living Australia, Canberra, ACT, Australia, <cam.slatyer@csiro.au>; Andrew Rodrigues, Global Biodiversity Information Facility, Copenhagen, Hovedstaden, Denmark, <arodrigues@gbif.org>; Tania Laity, tania.laity@csiro.au, Canberra, ACT, Australia, <tania.laity@csiro.au>
@@ -334,7 +334,7 @@ The focus of this workshop is to develop sensitive data standards that respect b
 ### WKSH04 Working session to develop genomics-specific extensions with the Darwin Core event model
 
 Session type
-: Workshop 
+: Workshop (no unsolicited abstracts accepted)
 
 Organizers
 : Kathryn Hall, Australian Reference Genome Atlas (ARGA) - Atlas of Living Australia, Australian BioCommons and Bioplatforms Australia, with the Australian Research Data Commons, Canberra, ACT, Australia, <kathryn.hall@csiro.au>
