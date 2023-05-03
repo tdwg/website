@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 2 May 2023_
+_Last updated 3 May 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -38,10 +38,10 @@ Evaluating and understanding the distribution and spread of pests, weeds and dis
 ### SYM02 Building bridges: Mapping from, to and between TDWG standards 
 
 Session type
-: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered ([related workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow)
+: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered; [related workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow
 
 Organizers
-: David Fichtmueller, BGBM, Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
+: David Fichtmueller, Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
  
 TDWG offers a large variety of standards, covering many aspects of geo- and biodiversity sciences. Each standard has its own purpose and area of focus, but there are always conceptual overlaps between them. Being able to systematically express and document those overlaps in the form of mappings is important for their interoperability, e.g., when merging data from different sources given in different standards. Mappings also help people who are familiar with one standard to better understand other standards with which they are less accustomed. 
 
@@ -109,7 +109,7 @@ Machine observations can be defined as species occurrence records that are captu
 2. Challenges and opportunities in sharing and publishing machine observations (e.g., data exchange formats, sensitive data)
 
 {:id="sym07"}
-### SYM07 10 Years of the Living Atlases
+### SYM07 Ten Years of the Living Atlases
 
 Session type
 : Symposium (closed to outside submissions)
@@ -139,7 +139,7 @@ Session type
 : Symposium (unsolicited presentations considered)
 
 Organizers
-: Walter G. Berendsohn, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <w.berendsohn@bo.berlin>; Andreas Müller, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.mueller@bo.berlin>; Anton Güntsch, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.guentsch@bo.berlin>
+: Walter G. Berendsohn, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <w.berendsohn@bo.berlin>; Markus Döring, GBIF Secretariat, Copenhagen, Denmark <mdoering@gbif.org>; Andreas Müller, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.mueller@bo.berlin>; Anton Güntsch, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.guentsch@bo.berlin>
 
 Numerous local, regional and global information systems are using taxon names in fields ranging from biology, ecology and conservation to government provisions and medical applications. We know that scientific names of organisms do not provide a “unique identifier” for a taxon, because the taxon’s circumscription represents a scientific hypothesis and thus is subject to change. Nevertheless, names provide the glue that allows for information gathering and access across systems. Although scientific names are governed by strict codes of nomenclature, numerous variants of names exist. The taxonomic community is increasingly aware of this fact and several initiatives exist to sort out the latter issue. Globally unique identifiers for names and their variants play a central role allowing machines to support that task, and to conserve the results of the data cleaning actions. Name matching services are a tool to disperse GUIDs (Globally Unique Identifiers) to local users. One of the tasks of the [EU TetRRIS](https://tetrris.eu/about-tetrris-project/) project is to document and enhance these processes in order to establish functional workflows for the mapping of local taxonomies. The symposium will invite presentations and lightning talks to publicise existing services and persistent GUID systems with a special focus on long-term sustainability of the services.
 
@@ -312,7 +312,7 @@ Session type
 : Hands-on workshop (in-person and virtual participation; no unsolicited abstracts accepted)
 
 Organizers
-: Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
+: Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
 
 To gain critical background for participating in this workshop, please attend the [associated symposium](#sym02) that will introduce this topic, looking at existing mappings, technical approaches, and identifying missing mappings.
 
