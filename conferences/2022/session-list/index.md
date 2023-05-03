@@ -159,8 +159,7 @@ Session type
 : Symposium (unsolicited presentations considered)
 
 Organizers
-: Vijay Barve, Nashik, Maharashtra, India, <vijay.barve@gmail.com>; Balasubramanian D, French Institute of Pondicherry, India <balu.d@ifpindia.org>; and
-Prabhakar Rajagopal, Strand Life Sciences, Bangalore, India <prabha.prabhakar@gmail.com>
+: Vijay Barve, Nashik, Maharashtra, India, <vijay.barve@gmail.com>; Balasubramanian D, French Institute of Pondicherry, India <balu.d@ifpindia.org>; and Prabhakar Rajagopal, Strand Life Sciences, Bangalore, India <prabha.prabhakar@gmail.com>
 
 The Asian continent is a biodiversity-rich region with a lot of human population pressure, with some of the most populous cities in the world. There is an alarming amount of pressure from development needs of the people. Biodiversity data from this region is not mobilized in adequate quantity to influence the policies towards protection of important areas and species. The lack of information was also highlighted in the Twenty Year Review of Global Biodiversity Information (GBIF). The symposium will bring together important players active in the region to share their work and perspectives, to come together and build a stronger biodiversity informatics community in Asia, and to mobilize and analyze biodiversity data from Asia to cooperatively address these challenges.
 

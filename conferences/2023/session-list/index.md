@@ -199,9 +199,12 @@ A goal of natural history institutions is contributing to the understanding of b
 
 {:id="sym14"}
 ### SYM14 Biodiversity informatics in Asia: Innovations & challenges
-Session type: Symposium (unsolicited presentations considered)
 
-Organizers: Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com>; Arjan Basu Roy, Nature Mates Nature Club, Kolkata, West Bengal, India, <naturemates@gmail.com>; Daphne Hoh, Taiwan Biodiversity Information Facility, Taipei, Taiwan, <daphnehohzhiwei@gmail.com>
+Session type
+: Symposium (unsolicited presentations considered)
+
+Organizers
+: Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com>; Arjan Basu Roy, Nature Mates Nature Club, Kolkata, West Bengal, India, <naturemates@gmail.com>; Daphne Hoh, Taiwan Biodiversity Information Facility, Taipei, Taiwan, <daphnehohzhiwei@gmail.com>
 
 The Asian continent is one of the most biodiverse regions in the world, boasting a diverse range of ecosystems and a multitude of endemic species. Biodiversity informatics plays a crucial role in conserving and understanding this richness. In this context, a growing community of practitioners in Asia is continuously developing new tools, technologies, and data-sharing platforms to support the study and conservation of biodiversity.
 
@@ -306,12 +309,12 @@ In this 2-hour, hands-on workshop, participants will practice using [AWK](https:
 ### WKSH02 Building bridges: Mapping from, to and between TDWG standards
 
 Session type
-: Hands-on Workshop (in-person and virtual participation; no unsolicited abstracts accepted))
+: Hands-on workshop (in-person and virtual participation; no unsolicited abstracts accepted)
 
 Organizers
 : Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
 
-To gain critical background for participating in this workshop, please attend the [associated symposium](#sym-02-building-bridges-mapping-from-to-and-between-tdwg-standards) that will introduce this topic, looking at existing mappings, technical approaches, and identifying missing mappings.
+To gain critical background for participating in this workshop, please attend the [associated symposium](#sym02) that will introduce this topic, looking at existing mappings, technical approaches, and identifying missing mappings.
 
 This workshop offers a hands-on approach to explore options for contributing to mappings, to provide input on the expected process, and to gather the needs and requirements from the community. Participation will be possible both in person and virtually.
 
