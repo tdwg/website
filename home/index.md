@@ -12,7 +12,7 @@ featured: # description, href, img
   description: >
     TDWG 2023 will be held in Hobart, Tasmania, Australia, **9-13 October**. Save the date!
   href: /conferences/2023/
-  img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-lg-cropped.jpg
+  img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
