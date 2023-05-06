@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 3 May 2023_
+_Last updated 5 May 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -27,7 +27,7 @@ All those submitting poster abstracts will be required to create a virtual poste
 ### SYM01 Biosecurity data: Why does it matter and how can access be facilitated?
 
 Session type
-: Symposium (lightning talks followed by panel discussion; unsolicited presentations considered)
+: Symposium (lightning talks followed by panel discussion; open to outside abstract submissions)
 
 Organizers
 : Erin Roger, Atlas of Living Australia, Sydney, NSW, Australia, <erin.roger@csiro.au>; Andrew Turley, Atlas of Living Australia, Brisbane, Queensland, Australia, <andrew.turley@csiro.au> 
@@ -38,7 +38,7 @@ Evaluating and understanding the distribution and spread of pests, weeds and dis
 ### SYM02 Building bridges: Mapping from, to and between TDWG standards 
 
 Session type
-: Symposium of lightning talks (5-10 min) depending on number of submissions; unsolicited presentations considered; [related workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow
+: Symposium: lightning talks (5-10 min) depending on number of submissions; open to outside abstract submissions; [related workshop](#wksh-02-building-bridges-mapping-from-to-and-between-tdwg-standards) to follow
 
 Organizers
 : David Fichtmueller, Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
@@ -55,7 +55,7 @@ This session will be followed by a [workshop](#wksh-02-building-bridges-mapping-
 ### SYM03 Providing descriptive data based on the FAIR principles
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Adeline Kerner, Center for Research on Palaeontology - Paris (UMR 7207: CNRS-MNHN-Sorbonne University), Paris, Ile-de-France, France, <kerner@mnhn.fr>
@@ -66,7 +66,7 @@ The identification and description of species and other taxa are the fundamental
 ### SYM04 The CARE principles: Learning and growing as a data management community
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Abby Benson, U.S. Geological Survey, Denver, Colorado, United States of America, <albenson@usgs.gov>; Stephen Formel, U.S. Geological Survey, New Orleans, Louisiana, United States of America, <sformel@usgs.gov>; Peggy Newman, Atlas of Living Australia, Melbourne, Victoria, Australia, <peggy.newman@csiro.au>
@@ -77,7 +77,7 @@ The CARE Principles (Collective Benefit, Authority to Control, Responsibility, a
 ### SYM05 AI Contributions to biodiversity data & data standardisation: Opportunities and challenges 
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Rukaya Johaadien, GBIF Norway, University of Oslo, Oslo, Norway, <rukayaj@gmail.com>; Michal Torma, GBIF Norway, University of Oslo, Oslo, Norway, <michal.torma@nhm.uio.no>; Kit Lewers, BioFrontiers Institute, and CUMNH (University of Colorado Boulder), Boulder, Colorado, United States of America, <kristen.lewers@colorado.edu>
@@ -98,7 +98,7 @@ Topics of interest include:
 ### SYM06 Standards and automation for machine observations
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Peter Desmet, Research Institute for Nature and Forest (INBO), Brussels, Brussels-Capital Region, Belgium, <peter.desmet@inbo.be>; Abby Benson, U.S. Geological Survey, Denver, Colorado, United States of America, <albenson@usgs.gov>; Peggy Newman, Atlas of Living Australia, Melbourne, Victoria, Australia, <peggy.newman@csiro.au>; Holger Dettki, Swedish Biodiversity Data Infrastructure (SBDI), Uppsala, Uppland, Sweden, <holger.dettki@slu.se>; Jonathan Pye, Ocean Tracking Network (OTN), Halifax, Nova Scotia, Canada, <jonpye@gmail.com>
@@ -112,7 +112,7 @@ Machine observations can be defined as species occurrence records that are captu
 ### SYM07 Ten Years of the Living Atlases
 
 Session type
-: Symposium (closed to outside submissions)
+: Symposium (closed to outside abstract submissions)
 
 Organizers
 : Peggy Newman, Atlas of Living Australia, Melbourne, Victoria, Australia, <Peggy.Newman@csiro.au>; Javier Molina, Atlas of Living Australia, Melbourne, Victoria, Australia, <Javier.Molina@csiro.au>; Vicente J. Ruiz Jurado, GBIF.es and LA Community, Bimenes, Asturias, Spain, <vjrj@gbif.es>; Anne-Sophie Archambeau,  IRD/PatriNat/GBIF France, Paris, Ile de France, France, <archambeau@gbif.fr>; Francisco Pando, Real Jardín Botánico - CSIC, Madrid, Comunidad de Madrid, Spain, <pando@gbif.es>; Sophia Ratcliffe, NBN Atlas, United Kingdom, <s.ratcliffe@nbn.org.uk> 
@@ -125,7 +125,7 @@ For the first time after a long hiatus, we would like to invite participants in 
 ### SYM08 Exchange and reuse of environmental DNA and metabarcoding data
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Tobias Guldberg Frøslev, Global Biodiversity Information Facility, Copenhagen, Sealand, Denmark, <tfroeslev@gbif.org>; Saara Suominen, Ocean Biodiversity Information System, Amsterdam, Netherlands, <s.suominen@unesco.org>
@@ -136,7 +136,7 @@ Metabarcoding of DNA is becoming a standard tool for detecting species in bulk s
 ### SYM09 Globally linking taxonomies: Name IDs and name matching 
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Walter G. Berendsohn, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <w.berendsohn@bo.berlin>; Markus Döring, GBIF Secretariat, Copenhagen, Denmark <mdoering@gbif.org>; Andreas Müller, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.mueller@bo.berlin>; Anton Güntsch, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.guentsch@bo.berlin>
@@ -147,7 +147,7 @@ Numerous local, regional and global information systems are using taxon names in
 ### SYM10 Global biodata resources: A crucial infrastructure underpinning biodiversity research
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Chuck Cook, Global Biodata Coalition, Strasbourg, Alsace, France, <ccook@globalbiodata.org>; Kathryn Hall, University of Queensland, Brisbane, Queensland, Australia, <Kathryn.Hall@csiro.au>; Jeff Christiansen, Australian BioCommons, Brisbane, Queensland, Australia, <jeff@biocommons.org.au>
@@ -162,7 +162,7 @@ The goals of the session will be to raise awareness of the criticality of global
 ### SYM11 Combining biodiversity and environmental data for addressing scientific and societal questions
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Francisco Pando, GBIF Spain / CSIC, Madrid, Spain, <pando@gbif.es>; William Ulate, Missouri Botanical Garden, St. Louis, Missouri, United States of America, <william_ulate_r@yahoo.com>
@@ -177,7 +177,7 @@ We expect to gather a set of presentations illustrating varied approaches with d
 ### SYM12 Improving the quality of taxonomic data publishing and list building
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Olaf Bánki, Catalogue of Life, Amsterdam, Noord Holland, Netherlands, <olaf.banki@sp2000.org>; Thomas Orrell, ITIS/Smithsonian Institution, Washington DC, United States of America, <Orrellt@si.edu>; Donald Hobern, Species 2000, Canberra, Australian Capital Territory, Australia, <donald.hobern@sp2000.org>
@@ -201,7 +201,7 @@ A goal of natural history institutions is contributing to the understanding of b
 ### SYM14 Biodiversity informatics in Asia: Innovations & challenges
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com>; Arjan Basu Roy, Nature Mates Nature Club, Kolkata, West Bengal, India, <naturemates@gmail.com>; Daphne Hoh, Taiwan Biodiversity Information Facility, Taipei, Taiwan, <daphnehohzhiwei@gmail.com>
@@ -214,7 +214,7 @@ This symposium provides a platform to bring together active players in the field
 ### SYM15 Taxonomic backbone and catalogs: Solutions, workflows, and challenges
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com> (soliciting additional organizers)
@@ -231,7 +231,7 @@ The symposium will also provide an opportunity for participants to discuss the c
 ### SYM16 The role of collections management systems in the worldwide movement to roundtrip data enhancements
 
 Session type
-: Symposium (unsolicited presentations considered)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : James Macklin, Agriculture and Agri-Food Canada, Ottawa, Ontario, Canada, <james.macklin@agr.gc.ca>; David Shorthouse, Agriculture and Agri-Food Canada, Ottawa, Ontario, Canada, <david.shorthouse@agr.gc.ca>; Falko Glöckler, Museum für Naturkunde Berlin, Berlin, Germany, <falko.gloeckler@mfn.berlin> 
@@ -242,7 +242,7 @@ There is renewed interest in a circular flow of annotations among and between is
 ### SYM17 Describing biodiversity in underrepresented languages using crowdsourcing
 
 Session type
-: Symposium (unsolicited presentations welcomed)
+: Symposium (open to outside abstract submissions)
 
 Organizers
 : Mohammed Kamal-Deen Fuseini, Gurene Wikimedia Community, Tamale, Northern, Ghana, <fuseinikamaldeen@gmail.com>; Abah Agnes Ajumah, Igbo Wikimedia User Group, Abuja, Federal Capital Territory, Nigeria, <ajben12@gmail.com>
@@ -298,7 +298,7 @@ We hope that the discussion at this session will familiarise participants with w
 ### WKSH01 Using AWK to check for errors, inconsistencies and anomalies between fields in Darwin Core records
 
 Session Type
-: Workshop (in person only; no unsolicited abstracts accepted)
+: Workshop (in person only; closed to outside abstract submissions)
 
 Organizer
 : Robert Mesibov, West Ulverstone, Australia, <robert.mesibov@gmail.com> 
@@ -309,7 +309,7 @@ In this 2-hour, hands-on workshop, participants will practice using [AWK](https:
 ### WKSH02 Building bridges: Mapping from, to and between TDWG standards
 
 Session type
-: Hands-on workshop (in-person and virtual participation; no unsolicited abstracts accepted)
+: Hands-on workshop (in-person and virtual participation; closed to outside abstract submissions)
 
 Organizers
 : Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
@@ -322,7 +322,7 @@ This workshop offers a hands-on approach to explore options for contributing to 
 ### WKSH03 Handling restricted access data in an open data landscape
 
 Session type
-: Workshop (no unsolicited abstracts accepted)
+: Workshop (closed to outside abstract submissions)
 
 Organizers
 : Cameron Slatyer, Atlas of Living Australia, Canberra, ACT, Australia, <cam.slatyer@csiro.au>; Andrew Rodrigues, Global Biodiversity Information Facility, Copenhagen, Hovedstaden, Denmark, <arodrigues@gbif.org>; Tania Laity, tania.laity@csiro.au, Canberra, ACT, Australia, <tania.laity@csiro.au>
@@ -337,7 +337,7 @@ The focus of this workshop is to develop sensitive data standards that respect b
 ### WKSH04 Working session to develop genomics-specific extensions with the Darwin Core event model
 
 Session type
-: Workshop (no unsolicited abstracts accepted)
+: Workshop (closed to outside abstract submissions)
 
 Organizers
 : Kathryn Hall, Australian Reference Genome Atlas (ARGA) - Atlas of Living Australia, Australian BioCommons and Bioplatforms Australia, with the Australian Research Data Commons, Canberra, ACT, Australia, <kathryn.hall@csiro.au>
