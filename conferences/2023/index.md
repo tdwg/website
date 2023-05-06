@@ -10,7 +10,7 @@ toc: true
 ---
 
 {:.float-end .ms-5}
-![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-white-350w.png)
+![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
 _last updated 1 March 2023_
 
