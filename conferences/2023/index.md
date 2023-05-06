@@ -9,6 +9,9 @@ background:
 toc: true
 ---
 
+{:.float-end .ms-5}
+![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-white-700w.png)
+
 _last updated 1 March 2023_
 
 ## Dates
