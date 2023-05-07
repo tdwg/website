@@ -4,14 +4,14 @@
   menu:
   - text: "Sessions"
     href: /conferences/2023/session-list/
-# - text: "Submissions"
-#   menu:
-#   - text: "Calls"
-#   - text: "Abstracts"
-#     href: /conferences/2023/call-for-abstracts/
-#   - text: "---"
-#   - text: "Instructions"
-#   - text: "Abstract submission"
-#     href: /conferences/2023/instructions-for-abstract-submission/
+- text: "Submissions"
+  menu:
+  - text: "Calls"
+  - text: "Abstracts"
+    href: https://mailchi.mp/tdwg.org/tdwg-2023-call-for-abstracts
+  - text: "---"
+  - text: "Instructions"
+  - text: "Abstract submission"
+    href: /conferences/2023/instructions-for-abstract-submission/
 #   - text: "Editors"
 #     href: /conferences/2023/instructions-for-editors/
