@@ -16,7 +16,7 @@ _last updated 7 May 2023_
 
 ## Dates
 
-**1 July 2023** - deadline for submission of abstracts for TDWG 2023. See [Call for Abstracts](https://mailchi.mp/tdwg.org/tdwg-2023-call-for-abstracts) and [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission]
+**1 July 2023** - deadline for submission of abstracts for TDWG 2023. See [Call for Abstracts](https://mailchi.mp/tdwg.org/tdwg-2023-call-for-abstracts) and [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission)
 
 **9-13 October 2023** - TDWG 2023 conference
 
