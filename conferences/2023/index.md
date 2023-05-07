@@ -12,13 +12,15 @@ toc: true
 {:.float-end .ms-5}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_last updated 1 March 2023_
+_last updated 7 May 2023_
 
 ## Dates
 
+**1 July 2023** - deadline for submission of abstracts for TDWG 2023. See [Call for Abstracts](https://mailchi.mp/tdwg.org/tdwg-2023-call-for-abstracts) and [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission]
+
 **9-13 October 2023** - TDWG 2023 conference
 
-**15 April 2023** - deadline for [submission of proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions)
+15 April 2023 - deadline for [submission of proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions)
 
 ## Location
 
