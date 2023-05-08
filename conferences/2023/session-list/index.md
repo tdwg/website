@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 5 May 2023_
+_Last updated 8 May 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -303,7 +303,30 @@ Session Type
 Organizer
 : Robert Mesibov, West Ulverstone, Australia, <robert.mesibov@gmail.com> 
 
-In this 2-hour, hands-on workshop, participants will practice using [AWK](https://en.wikipedia.org/wiki/AWK) to identify between-field problems in Darwin Core data tables. Participants should be familiar with the BASH shell and need to bring a laptop running BASH (on Windows, Mac or Linux), with [GNU AWK](https://www.gnu.org/software/gawk/) installed. A few functions will be used but no shell scripts, and sample data will be provided. The session includes a brief introduction to the AWK text-processing language.
+Quality tests for Darwin Core tables are mostly checks within individual fields:
+
+- are all data items valid and appropriate for that field?
+- are all data items correctly and consistently formatted?
+- are any data items missing?
+
+However, a "correct" entry in one field might disagree with a "correct" entry in another field within the same record. These errors can only be detected with between-field tests. A few simple between-field tests have been implemented by biodiversity data aggregators, for example:
+
+- is minimumElevationInMeters less than maximumEIM?
+- do decimalLatitude/decimalLongitude agree with country?
+
+but many more between-field tests are possible.
+
+This 2-hour, hands-on workshop is aimed at data publishers and data curators who need to check for between-field problems when preparing or cleaning Darwin Core data. Participants should be familiar with the BASH shell and will need to bring a laptop running BASH (on Windows, Mac or Linux), with GNU AWK installed. A few functions will be used but no shell scripts, and sample data will be provided. The session includes a brief introduction to the AWK text-processing language, which can easily, quickly and flexibly deal with Darwin Core tables with up to several million records.
+
+Questions? Email the presenter <robert.mesibov@gmail.com>
+
+More information:
+
+- [Field disagreements in Darwin Core](https://discourse.gbif.org/t/field-disagreements-in-darwin-core/3370)
+- [A Data Cleaner's Cookbook](https://www.datafix.com.au/cookbook/)
+- [What is AWK?](https://opensource.com/resources/what-awk)
+- [learnbyexample: GNU AWK](https://learnbyexample.github.io/learn_gnuawk/)
+- [Wikipedia: AWK](https://en.wikipedia.org/wiki/AWK)
 
 {:id="wksh02"}
 ### WKSH02 Building bridges: Mapping from, to and between TDWG standards
