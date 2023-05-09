@@ -1,7 +1,7 @@
 ---
 title: TDWG 2023
 description: >
-  TDWG Annual Conference - A hybrid conference in Hobart, Australia, **9-13 October**
+  TDWG Annual Conference - A hybrid conference in Hobart, Australia, 9-13 October
 background:
   img: https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg
   by: Hobart Conference Centre
@@ -9,22 +9,22 @@ background:
 toc: true
 ---
 
-{:.float-end .ms-5}
+{:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_last updated 7 May 2023_
+_Last updated 9 May 2023_
 
-## Dates
+## Deadlines
 
-**1 July 2023** - deadline for submission of abstracts for TDWG 2023. See [Call for Abstracts](https://mailchi.mp/tdwg.org/tdwg-2023-call-for-abstracts) and [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission)
+- **[Call for abstracts](/conferences/2023/call-for-abstracts/) is now open until 1 July 2023.**
 
-**9-13 October 2023** - TDWG 2023 conference
+### Expired deadlines
 
-15 April 2023 - deadline for [submission of proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions)
+- [Call for proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions) closed 15 April 2023.
 
 ## Location
 
-Hobart Function and Convention Centre (on the Hobart Waterfront!)
+Hobart Function and Convention Centre (on the Hobart Waterfront)
 1 Elizabeth Street Pier, Hobart, Tasmania 7000
 
 ## Hosts

@@ -23,7 +23,7 @@ The theme for TDWG 2022 is **Stronger Together: Standards for linking biodiversi
 - Examine the [list of organized sessions](/conferences/2022/session-list/) to see which sessions will consider unsolicited presentations fitting your topic. Don't worry if none applies (you can submit a virtual poster or a contributed oral presentation)
 - When you are ready to start your abstract, follow the [instructions for authors for abstract submission](/conferences/2022/instructions-for-abstract-submission/) - **deadline 1 July 2022**
 - See where abstracts will be published in [TDWG Proceedings 2022](https://biss.pensoft.net/collection/384/) and view past in [collections in BISS](https://biss.pensoft.net/collections/) (check out the media tab in individual abstracts for added content such as links to slides and video)
-- Want to know more about how your abstract will be edited? See [instructions for editors](../instructions-for-editors/)
+- Want to know more about how your abstract will be edited? See [instructions for editors](/conferences/2022/instructions-for-editors/)
 - Abstracts will be flagged as _Accepted with revisions_ by the 15 July early registration deadline so that presenters may take advantage of reduced rates and begin planning to attend the conference.
 - By participating in TDWG 2022, you agree to abide by our [Code of Conduct](/about/code-of-conduct/) and [Terms of Use](/about/terms-of-use/)
 - Please send additional questions to: <conf-organizers@tdwg.org>
