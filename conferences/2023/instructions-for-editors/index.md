@@ -44,7 +44,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 ### Flags used during preliminary assessment
 
 - **Accept with revisions** - an assessment of whether an abstract will ultimately be accepted for presentation at the conference. It does not imply placement of where it was submitted only that it will have a place in the program.
-- **Move** - indication that the (sub)collection ([session](/session-list/)) should be changed but that the abstract should still be accepted for the conference. Please also, contact <editor@tdwg.org>.
+- **Move** - indication that the (sub)collection ([session](/conferences/2023/session-list/)) should be changed but that the abstract should still be accepted for the conference. Please also, contact <editor@tdwg.org>.
 - **Reject** - reserved for those abstracts deemed out of scope or otherwise unsuitable for submission to the conference. 
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason
 
@@ -102,7 +102,7 @@ The most frequent non-compliance with the journal’s standards, which need to b
 
 - Missing authors’ affiliations,
 - Non-active or missing links (URLs),
-- Missing references to concepts or existing standards (e.g., [TDWG standards](/standards/)
+- Missing references to concepts or existing standards (e.g., [TDWG standards](/standards/))
 - Incorrect citing of the references (reference cited in text does not match reference from list),
 - Non-expansion of acronyms at first use,
 - Typos and wording issues, particularly, but not exclusively from authors for whom English is not primary,
