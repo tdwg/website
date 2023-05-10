@@ -1,7 +1,7 @@
 ---
 title: Audiovisual Core Controlled Vocabularies for Views
 description: >
-  The Audiovisual Core (AC) controlled vocabularies for "Views" have been approved and added to existing standard.
+  Two controlled vocabularies for "Views" have been approved and enhance the Audiovisual Core.
 background:
   img: https://images.unsplash.com/photo-1492934483476-13c04a66709c
   by: Kawin Harasai
