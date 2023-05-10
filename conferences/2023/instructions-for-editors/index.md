@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 4 May 2023_
+_Last updated 10 May 2023_
 
 ## Role of editors
 
@@ -24,7 +24,7 @@ If you feel unable to do this task, would like additional guidance, or help, ple
 
 ## What authors see
 
-Please review [TDWG 2023 instructions for abstract submission](#instructions-for-abstract-submission). This will help you understand the ARPHA workflow from the author’s point of view and what is expected of you. You will be notified of newly submitted abstracts via email from pensoft.net. Be sure to whitelist this sender in your email client.
+Please review [TDWG 2023 instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/). This will help you understand the ARPHA workflow from the author’s point of view and what is expected of you. You will be notified of newly submitted abstracts via email from pensoft.net. Be sure to whitelist this sender in your email client.
 
 ## Organize your team
 
@@ -44,7 +44,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 ### Flags used during preliminary assessment
 
 - **Accept with revisions** - an assessment of whether an abstract will ultimately be accepted for presentation at the conference. It does not imply placement of where it was submitted only that it will have a place in the program.
-- **Move** - indication that the (sub)collection ([session](/session-list)) should be changed but that the abstract should still be accepted for the conference. Please also, contact <editor@tdwg.org>.
+- **Move** - indication that the (sub)collection ([session](/session-list/)) should be changed but that the abstract should still be accepted for the conference. Please also, contact <editor@tdwg.org>.
 - **Reject** - reserved for those abstracts deemed out of scope or otherwise unsuitable for submission to the conference. 
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason
 
@@ -55,7 +55,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 - **Content reviewed** - Authors should provide needed context and a coherent flow of information in their abstract. Please help authors focus their ideas where necessary to fit the work of TDWG, the session to which it is submitted, and the conference and make abstracts approachable by a general (non-specialized) audience. <br>
    Should be reviewed by at least one if not two additional editor/reviewers (abstracts are rarely sent out for external review, but if you have a question about content, contact <editor@tdwg.org>).
 - **Revise** - recommendation made generally once both review types are completed (exception is if language review is extensive and required to complete content review). This flag signals that the Session Coordinator can now `Send feedback` to authors; may be an iterative process. 
-- **Move** - If the abstract is not a good fit for your collection (session), but you think it might be appropriate for a different collection ([session](/session-list)) or as a poster presentation, please contact the <editor@tdwg.org> with your suggestion and we will work to get it reassigned.
+- **Move** - If the abstract is not a good fit for your collection (session), but you think it might be appropriate for a different collection ([session](/conferences/2023/session-list/)) or as a poster presentation, please contact the <editor@tdwg.org> with your suggestion and we will work to get it reassigned.
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason.
 - **Approve** - when the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, the Session Coordinator should mark the flag for approval and record it in the abstract tracking spreadsheet. This will signal to the volume editors that the abstract is ready to be finalized for publication.
 
@@ -102,12 +102,12 @@ The most frequent non-compliance with the journal’s standards, which need to b
 
 - Missing authors’ affiliations,
 - Non-active or missing links (URLs),
-- Missing references to concepts or existing standards (e.g., TDWG standards)
+- Missing references to concepts or existing standards (e.g., [TDWG standards](/standards/)
 - Incorrect citing of the references (reference cited in text does not match reference from list),
 - Non-expansion of acronyms at first use,
 - Typos and wording issues, particularly, but not exclusively from authors for whom English is not primary,
 - Titles should be in title case (e.g., Title of Awesome Talk: Why are we here?),
-- Missing Keywords and Presented at metadata (latter should be filled in with “TDWG 2023” and only that),
+- Missing Keywords and Presented at metadata (latter should be filled in with `TDWG 2023` and only that),
 - Keywords not separated by commas and capitalization of non-proper nouns,
 - Presenter name(s) should match the format of author (no title or other affiliation information, just the name).
 
@@ -156,11 +156,11 @@ Only submissions that are not relevant to the conference goals or collections wi
 
 ### Approved for submission
 
-Only designated editors at editor@tdwg.org will have access to the `Approve` button (this is not the flag). Once the button is pushed, it will be up to authors to finalize the [abstract submission process]. See the [instructions for abstract submission](/2023/instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete submission).
+Only designated editors at editor@tdwg.org will have access to the `Approve` button (this is not the flag). Once the button is pushed, it will be up to authors to finalize the abstract submission process. See the [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete submission).
 
 ### Incomplete submission
 
-This is abstract purgatory. The abstract was approved for submission and the author began to finalize it but did not finish. See [instructions to authors](2023/instructions-for-abstract-submission/#incomplete-submission).
+This is abstract purgatory. The abstract was approved for submission and the author began to finalize it but did not finish. See [instructions to authors](/conferences/2023/instructions-for-abstract-submission/#incomplete-submission).
 
 ### In layout
 
@@ -174,10 +174,10 @@ A DOI has been implemented and the abstract is [available to the world](https://
 
 ### Communicating with authors
 
-The Session Coordinator should be the primary contact with authors and the editors (editor@tdwg.org). Session Editors should work with their Session Coordinator to convey additional observations or questions about a review that may not appear in the comments in ARPHA. Please be constructive and civil in all communications (comments and emails) with authors and remember TDWG's [Code of Conduct](/about/code-of-conduct). Email authors through
+The Session Coordinator should be the primary contact with authors and the editors (editor@tdwg.org). Session Editors should work with their Session Coordinator to convey additional observations or questions about a review that may not appear in the comments in ARPHA. Please be constructive and civil in all communications (comments and emails) with authors and remember TDWG's [Code of Conduct](/about/code-of-conduct/). Email authors through
 
-- Send Feedback button - changes status of abstract to return control to authors
-- Email Co-authors button - does not change status; editors retain control
+- `Send Feedback` button - changes status of abstract to return control to authors
+- `Email Co-authors` button - does not change status; editors retain control
 - Your institutional email (please cc <editor@tdwg.org>) - always reference the AWT# (ARPHA Writing Tool ID#) in the subject line (found in URL of abstracts, communications from Pensoft, and in the list of abstracts under collection editor on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard)); use as follow-up to ARPHA notifications.
 
 ### Communications from Pensoft
