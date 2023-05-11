@@ -7,7 +7,7 @@ background:
   by: Biodiversity Heritage Library
   href: https://www.flickr.com/photos/biodivlibrary/32317503938
 github: https://github.com/tdwg/sdd
-website: https://tdwg.github.io/sdd/SddContents.html
+website: https://sdd.tdwg.org/
 toc: true
 ---
 
@@ -44,8 +44,7 @@ This standard is comprised of 2 documents.
 ### Introduction and Primer to the Structured Descriptive Data (SDD) Standard
 
 Permanent IRI
-: [http://rs.tdwg.org/sdd/doc/introduction/](https://sdd.tdwg.org/SddContents.html)
-<!-- https://github.com/tdwg/wiki-archive/blob/master/twiki/data/SDD/Primer/SddIntroduction.txt) -->
+: [http://rs.tdwg.org/sdd/doc/introduction/](https://sdd.tdwg.org/primer/)
 
 Created
 : 2006-05-11
@@ -71,7 +70,7 @@ Citation
 ### Structured Descriptive Data XML Schema
 
 Permanent IRI
-: [http://rs.tdwg.org/sdd/doc/xmlschema/](https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/SDD.xsd)
+: [http://rs.tdwg.org/sdd/doc/xmlschema/](https://sdd.tdwg.org/2006/Schema/1.1/SDD.xsd)
 
 Created
 : 2006-05-11
@@ -91,7 +90,7 @@ Abstract
 : This is the schema file to be referenced in instance documents for validation. It is the top level schema file that integrates the schema components.
 
 Note
-: See also <https://raw.githack.com/tdwg/sdd/master/2006/rddl.html> and <https://github.com/tdwg/sdd/blob/master/2006/Schema/1.1/UBIF_(c).xsd>
+: See also <https://sdd.tdwg.org/2006/rddl.html> and <https://sdd.tdwg.org/2006/Schema/1.1/UBIF_(c).xsd>
 
 Citation
 : Structure of Descriptive Data (SDD) Subgroup. 2006. Structured Descriptive Data XML Schema. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/sdd/doc/xmlschema/>
