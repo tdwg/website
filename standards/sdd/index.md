@@ -7,7 +7,7 @@ background:
   by: Biodiversity Heritage Library
   href: https://www.flickr.com/photos/biodivlibrary/32317503938
 github: https://github.com/tdwg/sdd
-website: https://tdwg.github.io/sdd/SddContents.html
+website: https://sdd.tdwg.org/
 toc: true
 ---
 
