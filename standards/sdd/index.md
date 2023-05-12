@@ -44,7 +44,7 @@ This standard is comprised of 2 documents.
 ### Introduction and Primer to the Structured Descriptive Data (SDD) Standard
 
 Permanent IRI
-: [http://rs.tdwg.org/sdd/doc/introduction/](https://sdd.tdwg.org/primer/)
+: <http://rs.tdwg.org/sdd/doc/introduction/>
 
 Created
 : 2006-05-11
