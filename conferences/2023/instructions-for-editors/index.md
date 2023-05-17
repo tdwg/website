@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 10 May 2023_
+_Last updated 16 May 2023_
 
 ## Role of editors
 
@@ -109,7 +109,7 @@ The most frequent non-compliance with the journal’s standards, which need to b
 - Titles should be in title case (e.g., Title of Awesome Talk: Why are we here?),
 - Missing Keywords and Presented at metadata (latter should be filled in with `TDWG 2023` and only that),
 - Keywords not separated by commas and capitalization of non-proper nouns,
-- Presenter name(s) should match the format of author (no title or other affiliation information, just the name).
+- Presenter name(s) should match the format of one of the authors (no title or other affiliation information, just the name).
 
 ### Revision history
 
@@ -164,7 +164,7 @@ This is abstract purgatory. The abstract was approved for submission and the aut
 
 ### In layout
 
-Author has completed the final submission process, a BISS# has been assigned, and the abstract is awaiting publication.
+Author has completed the final submission process, a BISS ID has been assigned, and the abstract is awaiting publication.
 
 ### Published
 
@@ -178,7 +178,7 @@ The Session Coordinator should be the primary contact with authors and the edito
 
 - `Send Feedback` button - changes status of abstract to return control to authors
 - `Email Co-authors` button - does not change status; editors retain control
-- Your institutional email (please cc <editor@tdwg.org>) - always reference the AWT# (ARPHA Writing Tool ID#) in the subject line (found in URL of abstracts, communications from Pensoft, and in the list of abstracts under collection editor on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard)); use as follow-up to ARPHA notifications.
+- Your institutional email (please cc <editor@tdwg.org>) - always reference the ARPHA Writing Tool (AWT) manuscript identifier (5-digit ID number) in the subject line (found in URL of abstracts, communications from Pensoft, and in the list of abstracts under collection editor on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard)); use as follow-up to ARPHA notifications.
 
 ### Communications from Pensoft
 
