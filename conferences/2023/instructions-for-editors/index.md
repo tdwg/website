@@ -9,17 +9,17 @@ background:
 toc: true
 ---
 
-_Last updated 16 May 2023_
+_Last updated 19 May 2023_
 
 ## Role of editors
 
-Thank you for volunteering to review and/or edit abstracts submitted to your session. Your review will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform and will consist of a mark-up of the abstract using Track Changes (to correct spelling, grammar, and style) and Comments to ask questions and make suggestions about content. There is no separate narrative review. A single person will be identified within each group to serve as the Session Coordinator to organize the review process and communicate with authors during the review.
+Thank you for volunteering to review and/or edit abstracts submitted to your session. Your review will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform and will consist of a mark-up of the abstract using Track Changes (to correct spelling, grammar, and style) and Comments to ask questions and make suggestions about content. _There is no separate narrative review_. A single person will be identified within each group to serve as the Session Coordinator to organize the review process and communicate with authors during the review.
 
-It is your responsibility as editors (a.k.a. technical editors) to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organization, the conference, and this journal.
+It is your responsibility as editors (aka technical editors) to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organization, the conference, and this journal.
 
 All presentations (oral and posters) listed in the conference program are to be published before the conference in TDWG’s open access journal, Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/)). Your efforts will be credited as an editor of any collection on which you work (see [TDWG Proceedings 2023](https://biss.pensoft.net/collection/408/)). 
 
-If you feel unable to do this task, would like additional guidance, or help, please contact <editor@tdwg.org>. We plan to conduct online training sessions in June for those needing a refresher or are new to the ARPHA platform.
+If you feel unable to do this task, would like additional guidance, or help, please contact <editor@tdwg.org>. We plan to conduct online training sessions in June for those needing a refresher or who are new to the ARPHA platform.
 
 
 ## What authors see
@@ -35,7 +35,7 @@ Please review [TDWG 2023 instructions for abstract submission](/conferences/2023
   - Who can edit for language?
   - Who is available in July, particularly 1–15 July for preliminary assessment?
   - Who is diplomatic and comfortable communicating with authors and confident in setting and following up on deadlines for responses updating drafts?
-- Based on the results above, choose one person who will be responsible for coordinating the editorial process for your session and available throughout the month of July (or until all abstracts have been approved for publication). Send the name of that person to <editor@tdwg.org> by 1 June 2023 
+- Based on the results above, choose one person who will be responsible for coordinating the editorial process for your session and available throughout the month of July (or until all abstracts have been approved for publication). Send the name of that person to <editor@tdwg.org> no later than 15 June 2023 
 
 ## Understanding flags
 
@@ -44,7 +44,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 ### Flags used during preliminary assessment
 
 - **Accept with revisions** - an assessment of whether an abstract will ultimately be accepted for presentation at the conference. It does not imply placement of where it was submitted only that it will have a place in the program.
-- **Move** - indication that the (sub)collection ([session](/conferences/2023/session-list/)) should be changed but that the abstract should still be accepted for the conference. Please also, contact <editor@tdwg.org>.
+- **Move** - indication that the (sub)collection ([session](/conferences/2023/session-list/)) should be changed but that the abstract should still be accepted for the conference. Please also, notify <editor@tdwg.org>.
 - **Reject** - reserved for those abstracts deemed out of scope or otherwise unsuitable for submission to the conference. 
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason
 
@@ -74,7 +74,7 @@ _**The preliminary assessment is not a review**, and there is no required feedba
 
 The diagram below splits the editorial process into two parts but both the Review for Language and the Review for Content need to be assessed before the Session Coordinator uses the Send Feedback button to communicate with the author about revisions and clarifications needed/requested by the reviewers. An exception may be made if the language review is extensive and is a barrier to assessing content.
 
-![ARPHA Review Process](https://static.tdwg.org/images/journal/arpha-review-flowchart.png "ARPHA Review Process Flowchart")
+![ARPHA Review Process](https://static.tdwg.org/images/journal/arpha-editing-review.png "ARPHA Editing Review Process Flowchart")
 
 ## Reviewer roles
 
