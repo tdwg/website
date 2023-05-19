@@ -68,7 +68,7 @@ All session editors will receive an email announcing the submission of an abstra
 
 _**The preliminary assessment is not a review**, and there is no required feedback to be submitted to the author yet and the abstract and no one should use the Send Feedback button._
 
-![ARPHA Preliminary Assessment](https://static.tdwg.org/images/journal/arpha-preliminary-assessment.png "ARPHA Preliminary Assessment Flowchart")
+![ARPHA Preliminary Assessment](https://static.tdwg.org/images/journal/arpha-prelim-assessment.png "ARPHA Preliminary Assessment Flowchart")
 
 ### Editorial review process
 
