@@ -147,7 +147,7 @@ The Session Coordinator should be the primary contact with authors. Communicatio
 
 ### Steps to sending feedback
 
-Clicking the `Send Feedback` button brings up a questionnaire with default answers in the affirmative to which you may make changes (recommend ignoring this form as it can cause confusion with authors later). Click “Save and Proceed” to bring up an email to the submitting author that you can customize.
+Clicking the `Send Feedback` button brings up a Technical Evaluators feedback form with default answers in the affirmative to which you may make changes (recommend ignoring this form as it can cause confusion with authors later). Click `Save and Proceed` to bring up an email to the submitting author that you can customize.
 
 As authors are often unfamiliar with how the editing process works, create a template you can grab and customize as desired.  It may include the following:
 - Typically this should encourage authors to accept changes they agree with, but keep track changes on if they continue to add/change content so that you can easily see other changes they may make to the document.
@@ -163,7 +163,7 @@ This process (submission -> send feedback) can be repeated as many times as nece
 
 ## Abstract status
 
-You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s Collection editor](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23) view (you will need to be logged in). On the right hand side in the dashboard you can see the status of the abstract, the [flags](#understanding-flags) that have been set for it, the number of times it has been sent out for revisions, and the subcollection (i.e., “Part of” collection; these are equivalent to our [sessions](/conferences/2023/sessions/)) to which it was submitted. Some of you may be editors of more than one collection (i.e., an organizer of more than one session). Here is a short explanation of the document statuses:
+You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s Collection editor](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23) view (you will need to be logged in). On the right hand side in the dashboard you can see the status of the abstract, the [flags](#understanding-flags) that have been set for it, the number of times it has been sent out for revisions, and the subcollection (i.e., “Part of” collection; these are equivalent to our [sessions](/conferences/2023/session-list/)) to which it was submitted. Some of you may be editors of more than one collection (i.e., an organizer of more than one session). Here is a short explanation of the document statuses:
 
 ### Draft
 
