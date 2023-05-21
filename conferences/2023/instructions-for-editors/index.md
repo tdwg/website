@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 19 May 2023_
+_Last updated 21 May 2023_
 
 ## Role of editors
 
@@ -53,6 +53,8 @@ Please review [TDWG 2023 instructions for abstract submission](/conferences/2023
 
 - Communicate a strategy and timeline to your team for achieving editorial progress and goals
 - May participate as a session editor in the assessment and review process
+- If no one feels qualified to review for language, please notify the editors <editor@tdwg.org>
+- Identifies [conflicts of interest](#conflicts-of-interest) and works to resolve them
 - `Validate` the abstract to see that character limit is not exceeded
 - `Send feedback` to authors based on session reviewers comments
 - Provide a deadline for dealing with revisions (no more than 1 week)
@@ -198,6 +200,10 @@ The Session Coordinator should be the primary contact with authors and the edito
 - `Email Co-authors` button - does not change status; editors retain control
 - Your institutional email (please cc <editor@tdwg.org>) - always reference the ARPHA Writing Tool (AWT) manuscript identifier (5-digit ID number) in the subject line (found in URL of abstracts, communications from Pensoft, and in the list of abstracts under collection editor on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard)); use as follow-up to ARPHA notifications.
 
+### Conflicts of interest
+
+Abstract authors may not review their own abstract. If reviewers additionally feel a conflict of interest—for whatever reason—please notify the Session Coordinator immediately so that another editor may be assigned. If no one is available to review an abstract from within your session, please contact the editors at <editor@tdwg.org> immediately.
+
 ### Communications from Pensoft
 
 Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from awt@pensoft.net) for each abstract in ARPHA for which you are an editor. If you share/forward the email, please remove links first. You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
@@ -208,4 +214,8 @@ Please [create or update your profile](https://pensoft.net/profile) in Pensoft. 
 
 ### For additional help
 
-Email <editor@tdwg.org>) with issues about content and procedure. Check [online help](https://arpha.pensoft.net/tips/Edit-sections) (marked as Tips in ARPHA). Contact Pensoft’s technical staff by clicking “Helpdesk” on the top navigation bar if you need additional technical assistance. If you have suggestions for how the workflow can be improved, please send them to <editor@tdwg.org>. Remember to ALWAYS include an ARPHA or BISS identifiers in the subject line of all communications.
+- Email <editor@tdwg.org>) with issues about content and procedure. 
+- Check [online help](https://arpha.pensoft.net/tips/Edit-sections) (marked as Tips in ARPHA). 
+- Contact Pensoft’s technical staff by clicking “Helpdesk” on the top navigation bar if you need additional technical assistance. 
+- If you have suggestions for how the workflow can be improved, please send them to <editor@tdwg.org>. 
+- Remember to ALWAYS include an ARPHA or BISS identifiers in the subject line of all communications.
