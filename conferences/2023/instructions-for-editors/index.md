@@ -75,7 +75,7 @@ Please review [TDWG 2023 instructions for abstract submission](/conferences/2023
 
 ## Understanding flags
 
-ARPHA provides flags to editors to track the progress of an abstract during the review process. Editors have access to setting flags only when they have control over the abstract in the “in pre-submission review” stage. Note that authors cannot see these flags.
+ARPHA provides flags to editors to track the progress of an abstract during the review process. Editors have access to setting flags only when they have control over the abstract in the “in pre-submission review” stage. Be sure you understand the difference between using flags and clicking buttons with similarly sounding names (and greater consequences if used in error). Note that authors cannot see these flags.
 
 ### Flags used during preliminary assessment
 
@@ -156,11 +156,14 @@ As authors are often unfamiliar with how the editing process works, create a tem
 - If the deadline passes without anyone appearing to work on the draft (see [Revision history](#revision-history)), follow up with a personal email outside of ARPHA (they may not have seen the notification)
 - The ARPHA platform may send out automatic reminders to authors in the case of prolonged inactivity at critical stages and after three ignored notifications will automatically archive (remove the abstract from view) such manuscripts. Either you or the author will need to notify Pensoft to retrieve such an abstract from this fate.
 
-This process (submission -> send feedback) can be repeated for as long as necessary, but keep in mind the 1 August deadline by which we hope all authors will know whether their abstract has been/will be approved for publication and all presenters fully registered for the conference.
+This process (submission -> send feedback) can be repeated as many times as necessary, but keep in mind the following target deadlines: 
+
+- **1 August** for completion of reviews with feedback sent to authors where changes are recommended;
+- **15 August** to have all abstracts flagged for approval; presenters fully registered; and order of presentation in your session recorded.
 
 ## Abstract status
 
-You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s Collection editor](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23) view (you will need to be logged in). On the right hand side in the dashboard you can see the status of the abstract and the subcollection (i.e. “Part of” collection) to which it was submitted. Some of you may be editors of more than one collection (i.e., organizer of more than one session). Here is a short explanation of the document statuses:
+You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s Collection editor](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23) view (you will need to be logged in). On the right hand side in the dashboard you can see the status of the abstract, the [flags](#understanding-flags) that have been set for it, the number of times it has been sent out for revisions, and the subcollection (i.e., “Part of” collection; these are equivalent to our [sessions](/conferences/2023/sessions/)) to which it was submitted. Some of you may be editors of more than one collection (i.e., an organizer of more than one session). Here is a short explanation of the document statuses:
 
 ### Draft
 
@@ -168,11 +171,11 @@ The abstract has not yet been submitted by the authors OR it has been returned t
 
 ### In pre-submission review
 
-It is now the responsibility of you and your team to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the `Send Feedback` step.
+You will receive email notification from awt@pensoft.net every time an author (re)submits an abstract for review. It is now the responsibility of you and your team to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the `Send Feedback` step.
 
 ### Rejected
 
-Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate, set the flag to `reject`; if it does not fit in your collection, flag it as `move`. The Session Coordinator should notify <editor@tdwg.org> of this decision.
+Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate, set the _flag_ to `reject`; if it does not fit in your collection, _flag_ it as `move`. The Session Coordinator should notify <editor@tdwg.org> of this decision.
 
 ### Approved for submission
 
