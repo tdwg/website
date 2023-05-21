@@ -90,7 +90,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
    If sufficient changes/clarifications are identified during this review that might impede a proper content review, notify the Session Coordinator to send feedback to authors early, before excess time is spent on content.
 - **Content reviewed** - Authors should provide needed context and a coherent flow of information in their abstract. Please help authors focus their ideas where necessary to fit the work of TDWG, the session to which it is submitted, and the conference and make abstracts approachable by a general (non-specialized) audience. <br>
    Should be reviewed by at least one if not two additional editor/reviewers (abstracts are rarely sent out for external review, but if you have a question about content, contact <editor@tdwg.org>).
-- **Revise** - recommendation made generally once both review types are completed (exception is if language review is extensive and required to complete content review). This flag signals that the Session Coordinator can now `Send feedback` to authors; may be an iterative process. 
+- **Revise** - recommendation generally made once both review types are completed (exception is if language review is extensive and required to complete content review). This flag signals that the Session Coordinator should now `Send feedback` to authors; may be an iterative process. 
 - **Move** - If the abstract is not a good fit for your collection (session), but you think it might be appropriate for a different collection ([session](/conferences/2023/session-list/)) or as a poster presentation, please contact the <editor@tdwg.org> with your suggestion and we will work to get it reassigned. This can take place at any time before volume editors <editor@tdwg.org> approve the [abstract for submission](#approved-for-submission) (i.e., to be published).
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason.
 - **Approve** - when the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, the Session Coordinator should mark the flag for approval and record it in the abstract tracking spreadsheet. This will signal to the volume editors that the abstract is ready to be finalized for publication.
@@ -100,9 +100,9 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 
 ### Preliminary assessment
 
-All session editors will receive an email announcing the submission of an abstract to their session (=collection in ARPHA). The session coordinator (see above) will make sure that all abstracts undergo preliminary assessment for the suitability of the abstract for publication and presentation at the conference and once a consensus is reached, will flag it accordingly in ARPHA and record the flag in the abstract tracking spreadsheet by 15 July 2023 deadline*.
+All session editors will receive an email announcing the submission of an abstract to their session (=collection in ARPHA). The session coordinator (see above) will make sure that all abstracts undergo preliminary assessment for the suitability of the abstract for publication and presentation at the conference and once a consensus is reached, will **_flag_** it accordingly in ARPHA and record the flag in the abstract tracking spreadsheet by **15 July 2023 deadline**.
 
-_**The preliminary assessment is not a review**, and there is no required feedback to be submitted to the author yet and the abstract and no one should use the Send Feedback button._
+_**The preliminary assessment is not a review**, and there is no required feedback to be submitted to the author yet. DO NOT use the Send Feedback button during or at the completion of this assessment._
 
 ![ARPHA Preliminary Assessment](https://static.tdwg.org/images/journal/arpha-prelim-assessment.png "ARPHA Preliminary Assessment Flowchart")
 
@@ -160,23 +160,23 @@ This process (submission -> send feedback) can be repeated for as long as necess
 
 ## Abstract status
 
-You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s Collection editor](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23) view (you will need to be logged in). On the right hand side in the dashboard you can see the status of the abstract and the subcollection (i.e. “Part of” collection) to which it was submitted. Some of you may be technical editors of more than one collection. Here is a short explanation of the document statuses:
+You should be able to see all abstracts that have been submitted to your collection in [ARPHA’s Collection editor](https://arpha.pensoft.net/dashboard.php?&showall=1&state_type=23) view (you will need to be logged in). On the right hand side in the dashboard you can see the status of the abstract and the subcollection (i.e. “Part of” collection) to which it was submitted. Some of you may be editors of more than one collection (i.e., organizer of more than one session). Here is a short explanation of the document statuses:
 
 ### Draft
 
-The abstract has not yet been submitted by the authors OR it has been returned to the authors for revision by the Session Coordinator (via “Send Feedback”). Editors will have read-only access at this time.
+The abstract has not yet been submitted by the authors OR it has been returned to the authors for revision by the Session Coordinator (via `Send Feedback` button). Editors will have read-only access at this time. What editors view from this angle may not be a true reflection of edits you made that the author will see.
 
 ### In pre-submission review
 
-It is now the responsibility of you and your team to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the Send Feedback step.
+It is now the responsibility of you and your team to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the `Send Feedback` step.
 
 ### Rejected
 
-Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate, set the flag to `reject`; if it does not fit in your collection, flag it as `move`. Notify <editor@tdwg.org> of your decision.
+Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate, set the flag to `reject`; if it does not fit in your collection, flag it as `move`. The Session Coordinator should notify <editor@tdwg.org> of this decision.
 
 ### Approved for submission
 
-Only designated editors at editor@tdwg.org will have access to the `Approve` button (this is not the flag). Once the button is pushed, it will be up to authors to finalize the abstract submission process. See the [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete submission).
+Only designated editors at <editor@tdwg.org> will have access to the `Approve` button (this is not the flag). Once the button is pushed, it will be up to authors to finalize the abstract submission process. See the [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/) for a description and various places where authors may run into trouble (including Validation unsuccessful and Incomplete submission).
 
 ### Incomplete submission
 
@@ -197,8 +197,8 @@ A DOI has been implemented and the abstract is [available to the world](https://
 The Session Coordinator should be the primary contact with authors and the editors (editor@tdwg.org). Session Editors should work with their Session Coordinator to convey additional observations or questions about a review that may not appear in the comments in ARPHA. Please be constructive and civil in all communications (comments and emails) with authors and remember TDWG's [Code of Conduct](/about/code-of-conduct/). Email authors through
 
 - `Send Feedback` button - changes status of abstract to `draft` and returns control to authors.  Editors will not see a true reflection of the editorial changes they have made/suggested when the abstract status is `draft`.
-- `Email Co-authors` button - does not change status; editors retain control
-- Your institutional email (please cc <editor@tdwg.org>) - always reference the ARPHA Writing Tool (AWT) manuscript identifier (5-digit ID number) in the subject line (found in URL of abstracts, communications from Pensoft, and in the list of abstracts under collection editor on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard)); use as follow-up to ARPHA notifications.
+- `Email Co-authors` button - does not change status of the abstract; may be used at any time while the abstract is in ARPHA. Recipients do not see who else may have received the same email and the person sending the email does not get a copy. Not recommended for use if you think authors are not receiving/seeing emails from pensoft.net.
+- Your institutional email (please cc <editor@tdwg.org>) - always reference the ARPHA Writing Tool (AWT) manuscript identifier (5-digit ID number) in the subject line (found in URL of abstracts, communications from Pensoft, and in the list of abstracts under collection editor on your [ARPHA dashboard](https://arpha.pensoft.net/dashboard)). This is the preferred method to use as follow-up to ARPHA notifications or for seeking a quick resolution to questions without using `Send feedback` and returning the abstract to author control (particularly when under a short deadline).
 
 ### Conflicts of interest
 
@@ -206,7 +206,7 @@ Abstract authors may not review their own abstract. If reviewers additionally fe
 
 ### Communications from Pensoft
 
-Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from awt@pensoft.net) for each abstract in ARPHA for which you are an editor. If you share/forward the email, please remove links first. You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
+Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from awt@pensoft.net) for each abstract in ARPHA for which you are an editor, every time there is a change of [status](#abstract-status) for that abstract. If you share/forward the email, please remove links first. You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
 
 ### Update your profile
 
