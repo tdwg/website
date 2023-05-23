@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 21 May 2023_
+_Last updated 23 May 2023_
 
 ## Role of editors
 
@@ -19,7 +19,7 @@ It is your responsibility as editors (aka technical editors) to ensure the accep
 
 All presentations (oral and posters) listed in the conference program are to be published before the conference in TDWG’s open access journal, Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/)). Your efforts will be credited as an editor of any collection on which you work (see [TDWG Proceedings 2023](https://biss.pensoft.net/collection/408/)). 
 
-If you feel unable to do this task, would like additional guidance, or help, please contact the volume editors at <editor@tdwg.org>. We plan to conduct online training sessions in June for those needing a refresher or who are new to the ARPHA platform.
+If you feel unable to do this task, would like additional guidance, or help, please contact the [volume editors](#volume-editors) at <editor@tdwg.org>. We plan to conduct online training sessions in June for those needing a refresher or who are new to the ARPHA platform.
 
 
 ## What authors see
@@ -35,7 +35,7 @@ Please review [TDWG 2023 instructions for abstract submission](/conferences/2023
   - Who can edit for language?
   - Who is available in July, particularly 1–15 July for preliminary assessment?
   - Who is diplomatic and comfortable communicating with authors and confident in setting and following up on deadlines for responses updating drafts?
-- Based on the results above, choose one person who will be responsible for coordinating the editorial process for your session and available throughout the month of July (or until all abstracts have been approved for publication). Send the name of that person to <editor@tdwg.org> no later than 15 June 2023 
+- Based on the results above, choose one person to act as [Session Coordinator](#session-coordinator), who will be responsible for coordinating the editorial process for your session and available throughout the month of July (or until all abstracts have been approved for publication). Due (see email sent to session organizers for link to form) no later than **15 June 2023**. 
 
 ## Reviewer roles
 
