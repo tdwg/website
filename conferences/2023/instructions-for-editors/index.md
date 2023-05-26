@@ -9,62 +9,63 @@ background:
 toc: true
 ---
 
-_Last updated 23 May 2023_
+_Last updated 25 May 2023_
 
 ## Role of editors
 
-Thank you for volunteering to review and/or edit abstracts submitted to your session. Your review will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform and will consist of a mark-up of the abstract using Track Changes (to correct spelling, grammar, and style) and Comments to ask questions and make suggestions about content. _There is no separate narrative review_. A single person will be identified within each group to serve as the Session Coordinator to organize the review process and communicate with authors during the review.
+Thank you for volunteering to assess, review and/or edit abstracts submitted to your session. Reviews will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform. Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author text and Comments to ask questions and make suggestions about content. _There is no separate narrative review_. A single person will be identified within each group to serve as the [Session Coordinator](#session-coordinator) to organize the review process and track its progress in a Google spreadsheet.
 
-It is your responsibility as editors (aka technical editors) to ensure the acceptance of only high quality, well-written abstracts that will enhance the reputation of our organization, the conference, and this journal.
+It is your responsibility as editors (aka technical editors) to ensure the acceptance of only high quality, well-written abstracts that will enhance your session and the reputation of our organization, the conference, and this journal.
 
-All presentations (oral and posters) listed in the conference program are to be published before the conference in TDWG’s open access journal, Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/)). Your efforts will be credited as an editor of any collection on which you work (see [TDWG Proceedings 2023](https://biss.pensoft.net/collection/408/)). 
+All presentations (oral and posters) listed in the conference program are to be published before the conference in TDWG’s open access journal, Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/)). Your efforts will be credited as an editor of any collection on which you work (see [TDWG Proceedings 2023](https://biss.pensoft.net/collection/408/)). Those session organizers who are unavailable or unable to contribute to the editorial process will have their names removed from the list of editors and additional editors from the Program Committee may take their place as needed.
 
-If you feel unable to do this task, would like additional guidance, or help, please contact the [volume editors](#volume-editors) at <editor@tdwg.org>. We plan to conduct online training sessions in June for those needing a refresher or who are new to the ARPHA platform.
+If you feel unable to do this task, would like additional guidance, or help, please contact the [volume editors](#volume-editors) at <editor@tdwg.org>. 
 
 
 ## What authors see
 
-Please review [TDWG 2023 instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/). This will help you understand the ARPHA workflow from the author’s point of view and what is expected of you. You will be notified of newly submitted abstracts via email from pensoft.net. Be sure to whitelist this sender in your email client.
+Please review [TDWG 2023 instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/). This will help you understand the ARPHA workflow from the author’s point of view. If you elect to participate in this process, you will be automatically notified of newly submitted abstracts via email from pensoft.net. Be sure to whitelist this sender in your email client.
 
 ## Organize your team
 
-- Assess the strengths of each member of your team (i.e., among the organizers listed for your session)
-  - Who has used ARPHA before as an author and/or editor?
-  - Who may need a refresher or extra training?
-  - Who can review for content and suitability for your session?
-  - Who can edit for language?
-  - Who is available in July, particularly 1–15 July for preliminary assessment?
-  - Who is diplomatic and comfortable communicating with authors and confident in setting and following up on deadlines for responses updating drafts?
-- Based on the results above, choose one person to act as [Session Coordinator](#session-coordinator), who will be responsible for coordinating the editorial process for your session and available throughout the month of July (or until all abstracts have been approved for publication). Due (see email sent to session organizers for link to form) no later than **15 June 2023**. 
+As session organizers, it is in your best interest to participate in the [preliminary assessment](#preliminary-assessment) and/or [editorial review process](#editorial-review-process) for abstracts submitted to your session. However, it is also understood that not everyone listed as an organizer for a session in the conference will be available during the month of July when this process will take place. To clarify who will participate the primary session organizer (listed first in the [session list](/conferences/2023/session-list/)) is asked to poll co-organizers to
+
+- Assess the willingness and availability of each co-organizer to participate
+  - As a [Session editor](#session-editors) in the preliminary assessment (1–15 July) of abstracts submitted to your session.
+  - As a Session editor in the subsequent editorial review for content (commences as soon as an abstract passes preliminary review; must be available during July; can volunteer for both phases of the review).
+  - In a managerial role as [Session Coordinator](#session-coordinator) (one person), with the possibility of opting in to send feedback and correspond with authors about reviews (needs to be available all of July and if opting to correspond with authors, possibly first half of August).
+- Based on the results above, the person performing the role of [Session Coordinator](#session-coordinator) should fill out the form (see email for link) no later than **15 June 2023**. If no one is available to fulfill the role, someone will be assigned by the [volume editors](#volume-editors).
+- Email <editor@tdwg.org> with questions regarding this process.
 
 ## Reviewer roles
 
 ### Session editors
 
-- Will review abstracts in two phases:
-  - [Preliminary assessment](#preliminary-assessment) of whether the abstract is within the scope of TDWG in general and your session in particular
-  - [Editorial review process](#editorial-review-process) is a detailed examination of the abstract for content and language
-- During the editorial review process, will suggest changes to wording using ARPHA’s [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) or [Comment](https://arpha.pensoft.net/tips/Comments) features 
+- May participate in one or both phases of abstract review:
+  - [Preliminary assessment](#preliminary-assessment) of whether the abstract is within the scope of TDWG in general and your session in particular (must be completed by **15 July**).
+  - [Editorial review process](#editorial-review-process) is a detailed examination of the abstract for content and language (to be completed by **1 August**).
+- During the editorial review process, will suggest changes to wording using ARPHA’s [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) or [Comment](https://arpha.pensoft.net/tips/Comments) features. 
 - Use [flags](#understanding-flags) in ARPHA to mark assessment and editing progress
-- Address editing tasks promptly to enable maximum time and flexibility for dealing with authors
-- At least two people should review each abstract, addressing both language and content reviews.
+- Address editing tasks promptly to enable maximum time and flexibility for dealing with authors.
+- At least two people should review each abstract, addressing both language and content reviews. If not enough people are identified to serve in Session editor roles, they may be filled by members of the Program Committee.
 
 ### Session coordinator
 
-- Communicate a strategy and timeline to your team for achieving editorial progress and goals
-- May participate as a session editor in the assessment and review process
-- If no one feels qualified to review for language, please notify the editors <editor@tdwg.org>
-- Identifies [conflicts of interest](#conflicts-of-interest) and works to resolve them
-- `Validate` the abstract to see that character limit is not exceeded
-- `Send feedback` to authors based on session reviewers comments
-- Provide a deadline for dealing with revisions (no more than 1 week)
-- Follow up with authors that appear not to have seen the notification that revisions are required (do this outside of ARPHA, using a personal email that references the ARPHA ID of the abstract)
-- Encourage prompt conference registration by presenters
-- Work with authors, reviewers, and volume editors (<editor@tdwg.org>) to reach the target to flag to approve the abstract (volume editors will make the final approval for publication).
+- In accepting this responsibility, must be available  throughout the month of July. If no one is identified as the Session coordinator (SC), one will be appointed by the volume editors.
+- Communicates a strategy and timeline to session editors for achieving editorial progress and goals.
+- May participate as a session editor in the assessment and/or review process.
+- Keeps the Abstract Tracking spreadsheet (ATS) up-to-date (link provided separately). 
+- Uses the ATS to fill in the **order of presentation by 15 August** for the session as it will appear in the conference program.
+- Notifies the volume editors <editor@tdwg.org> with issues meeting timelines or a lack of session reviewers qualified for any part of the review. 
+- Identifies [conflicts of interest](#conflicts-of-interest) and works to resolve them 
+- May **opt-in** to communicating needed revisions with authors via `Send feedback` (may extend commitment into August or until all abstracts are flagged as `approve`. The default responsibility for corresponding with authors is that of the [Volume editors](#volume-editors).
+- Helps ensure that presenters register promptly for the conference. 
+
 
 ### Volume editors
 
 - Provide a link to the abstract tracking spreadsheet (ATS) to all session coordinators for tracking progress of the preliminary assessment and editorial review.
+- Communicate with authors about required revisions (after SC has flagged abstract with `revise`) if SC does not opt-in.
 - Have access to all abstracts in the volume, should questions arise. 
 - Work with session coordinators to ensure that deadlines are met.
 - Notify authors (outside of ARPHA) of the provisional acceptance of their abstracts for presentation at the conference
@@ -75,7 +76,7 @@ Please review [TDWG 2023 instructions for abstract submission](/conferences/2023
 
 ## Understanding flags
 
-ARPHA provides flags to editors to track the progress of an abstract during the review process. Editors have access to setting flags only when they have control over the abstract in the “in pre-submission review” stage. Be sure you understand the difference between using flags and clicking buttons with similarly sounding names (and greater consequences if used in error). Note that authors cannot see these flags.
+ARPHA provides flags to editors to track the progress of an abstract during the review process. Editors have access to setting flags only when they have control over the abstract in the “in pre-submission review” stage. Be sure you understand the difference between using flags (a series of checkboxes) and clicking buttons with similarly sounding names (and greater consequences if used in error). Note that although more than one flag may be set for a single abstract, its **authors cannot see these flags**.
 
 ### Flags used during preliminary assessment
 
@@ -86,21 +87,25 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 
 ### Flags used during editorial review process
 
-- **Language reviewed** - Abstracts are written in English, but what flavor? British or American or Canadian or ? Whatever the flavor, the style, grammar, and spelling should be consistent (e.g., organisation OR organization NOT both) and above all, be comprehensible (no unexplained slang, unexpanded acronyms, or jargon) by readers. If in doubt, ask for a second opinion at <editor@tdwg.org>.<br>
-   If sufficient changes/clarifications are identified during this review that might impede a proper content review, notify the Session Coordinator to send feedback to authors early, before excess time is spent on content.
+**Editorial review _status_ flags** (if both flags are set in ARPHA, SC should mark `both` on ATS)
+
+- **Language reviewed** - Abstracts are written in English, but what flavor? British or American or Canadian or ? Whatever the flavor, the style, grammar, and spelling should be consistent (e.g., organisation OR organization NOT both) and above all, be comprehensible (no unexplained slang, unexpanded acronyms, or jargon) by readers. If the language review is extensive and is a barrier to assessing content, notify the SC or <editor@tdwg.org> about sending feedback to authors before the content is reviewed.
 - **Content reviewed** - Authors should provide needed context and a coherent flow of information in their abstract. Please help authors focus their ideas where necessary to fit the work of TDWG, the session to which it is submitted, and the conference and make abstracts approachable by a general (non-specialized) audience. <br>
-   Should be reviewed by at least one if not two additional editor/reviewers (abstracts are rarely sent out for external review, but if you have a question about content, contact <editor@tdwg.org>).
+   Should be reviewed by at least one if not two additional editor/reviewers (abstracts are rarely sent out for external review, but if you have a question about content, work with the SC or contact <editor@tdwg.org>).
+
+**Editorial review _action_ flags**
+
 - **Revise** - recommendation generally made once both review types are completed (exception is if language review is extensive and required to complete content review). This flag signals that the Session Coordinator should now `Send feedback` to authors; may be an iterative process. 
+- **Approve** - when the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, the Session Coordinator should mark the flag for approval and record it in the abstract tracking spreadsheet. This will signal to the volume editors that the abstract is ready to be finalized for publication.
 - **Move** - If the abstract is not a good fit for your collection (session), but you think it might be appropriate for a different collection ([session](/conferences/2023/session-list/)) or as a poster presentation, please contact the <editor@tdwg.org> with your suggestion and we will work to get it reassigned. This can take place at any time before volume editors <editor@tdwg.org> approve the [abstract for submission](#approved-for-submission) (i.e., to be published).
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason.
-- **Approve** - when the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, the Session Coordinator should mark the flag for approval and record it in the abstract tracking spreadsheet. This will signal to the volume editors that the abstract is ready to be finalized for publication.
 
 
 ## Workflow
 
 ### Preliminary assessment
 
-All session editors will receive an email announcing the submission of an abstract to their session (=collection in ARPHA). The session coordinator (see above) will make sure that all abstracts undergo preliminary assessment for the suitability of the abstract for publication and presentation at the conference and once a consensus is reached, will **_flag_** it accordingly in ARPHA and record the flag in the abstract tracking spreadsheet by **15 July 2023 deadline**.
+All session editors will receive an email announcing the submission of an abstract to their session (=collection in ARPHA). The session coordinator will work with session editors to make sure that all abstracts undergo preliminary assessment for the suitability of the abstract for publication and presentation at the conference and once a consensus is reached, will **_[flag](#flags-used-for-preliminary-assessment)_** it accordingly in ARPHA and record the flag in the abstract tracking spreadsheet by **15 July 2023 deadline**.
 
 _**The preliminary assessment is not a review**, and there is no required feedback to be submitted to the author yet. DO NOT use the Send Feedback button during or at the completion of this assessment._
 
@@ -108,9 +113,11 @@ _**The preliminary assessment is not a review**, and there is no required feedba
 
 ### Editorial review process
 
-The diagram below splits the editorial process into two parts but both the Review for Language and the Review for Content need to be assessed before the Session Coordinator uses the Send Feedback button to communicate with the author about revisions and clarifications needed/requested by the reviewers. An exception may be made if the language review is extensive and is a barrier to assessing content.
+The editorial review process may begin for any abstract once it has cleared the preliminary assessment (i.e., flagged `accepted with revisions`). The diagram below splits the editorial process into two parts but both the Review for Language and the Review for Content need to be assessed before authors are notified about revisions and clarifications needed/requested by the reviewers. An exception may be made if the language review is extensive and is a barrier to assessing content.
 
-![ARPHA Review Process](https://static.tdwg.org/images/journal/arpha-editing-review.png "ARPHA Editing Review Process Flowchart")
+**Session editors should NEVER use the `Send Feedback` button**. Communications with authors are limited to Volume editors and SCs who opt-in for this responsibility.
+
+![ARPHA Review Process](https://static.tdwg.org/images/journal/arpha-editorial-review.png "ARPHA Editorial Review Process Flowchart")
 
 
 
@@ -137,22 +144,25 @@ Confused about who has reviewed or touched an abstract? Access the Revision hist
 
 ### Validation and flag for approval
 
-When the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, set the flag for approval. DO NOT use the `Send Feedback` button after this flag has been set. Abstract should remain `in pre-submission review`.
+When the last of the Track Changes and Comments are sorted and the Validation only shows the number of characters, set the flag for `approve`. DO NOT use the `Send Feedback` button after this flag has been set. Abstract should remain `in pre-submission review`.
 
 Only volume editors will have access to the button to send out approval notices to the submitting author, requesting that they finalize the manuscript by completing a checklist that will put the abstract in Pensoft’s publication workflow. Once the abstract is published, it will have a DOI (digital object identifier) and no further changes may be made.
 
 ## Communication with authors
 
-The Session Coordinator should be the primary contact with authors. Communications should be constructive and civil. 
+The default communicators with authors are the Volume editors; the Session Coordinator smay opt-in if they wish. _No one else should use the `Send feedback` button_. Communications should be constructive and civil. 
 
 ### Steps to sending feedback
 
-Clicking the `Send Feedback` button brings up a Technical Evaluators feedback form with default answers in the affirmative to which you may make changes (recommend ignoring this form as it can cause confusion with authors later). Click `Save and Proceed` to bring up an email to the submitting author that you can customize.
+Clicking the `Send Feedback` button brings up a Technical Evaluators feedback form with default answers in the affirmative to which you may make changes (recommend ignoring this form as it can cause confusion with authors later). Click `Save and Proceed` to bring up a default email to the submitting author to which a customized message may be added.
 
 As authors are often unfamiliar with how the editing process works, create a template you can grab and customize as desired.  It may include the following:
 - Typically this should encourage authors to accept changes they agree with, but keep track changes on if they continue to add/change content so that you can easily see other changes they may make to the document.
+- Include links to specific ARPHA tips (e.g., how to use [Track Changes](https://arpha.pensoft.net/tips/Track-Changes)) or places in the [instructions for abstract submission](/conferences/2023/instructions-for-abstract-submission/) that the author may have missed.
 - Add a deadline for responding (e.g., no more than 1 week).
-- Note, you will not receive a copy of this email.
+- Note, you will not receive a copy of this email but need to record the transaction in the ATS.
+- The number of times feedback is sent back to the author may be seen on the ARPHA dashboard. This number should be no more than two.
+- To verify small changes or clarifications, particularly after one round of feedback, consider contacting the submitting author outside of ARPHA to minimize delay and to keep control of the abstract (i.e., status remains `in pre-submission review`).
 - If the deadline passes without anyone appearing to work on the draft (see [Revision history](#revision-history)), follow up with a personal email outside of ARPHA (they may not have seen the notification)
 - The ARPHA platform may send out automatic reminders to authors in the case of prolonged inactivity at critical stages and after three ignored notifications will automatically archive (remove the abstract from view) such manuscripts. Either you or the author will need to notify Pensoft to retrieve such an abstract from this fate.
 
@@ -167,15 +177,11 @@ You should be able to see all abstracts that have been submitted to your collect
 
 ### Draft
 
-The abstract has not yet been submitted by the authors OR it has been returned to the authors for revision by the Session Coordinator (via `Send Feedback` button). Editors will have read-only access at this time. What editors view from this angle may not be a true reflection of edits you made that the author will see.
+The abstract has not yet been submitted by the authors OR it has been returned to the authors for revision via `Send Feedback` button. Editors will have read-only access at this time. What editors view from this angle may not be a true reflection of edits you made or that the author will see.
 
 ### In pre-submission review
 
 You will receive email notification from awt@pensoft.net every time an author (re)submits an abstract for review. It is now the responsibility of you and your team to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the `Send Feedback` step.
-
-### Rejected
-
-Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate, set the _flag_ to `reject`; if it does not fit in your collection, _flag_ it as `move`. The Session Coordinator should notify <editor@tdwg.org> of this decision.
 
 ### Approved for submission
 
@@ -193,11 +199,15 @@ Author has completed the final submission process, a BISS ID has been assigned, 
 
 A DOI has been implemented and the abstract is [available to the world](https://biss.pensoft.net/collection/408). Abstracts cannot be withdrawn at this point. Any changes to presenter or placement are non-trivial.
 
+### Rejected
+
+Only submissions that are not relevant to the conference goals or collections will be rejected. If the abstract is not appropriate, set the _flag_ to `reject`; if it does not fit in your collection, _flag_ it as `move`. The Session Coordinator should notify <editor@tdwg.org> of this decision.
+
 ## Additional Information
 
 ### Communicating with authors
 
-The Session Coordinator should be the primary contact with authors and the editors (editor@tdwg.org). Session Editors should work with their Session Coordinator to convey additional observations or questions about a review that may not appear in the comments in ARPHA. Please be constructive and civil in all communications (comments and emails) with authors and remember TDWG's [Code of Conduct](/about/code-of-conduct/). Email authors through
+[Volume editors](#volume-editors) will by default communicate with submitting authors. [Session coordinators](#session-coordinator) may opt-in to take on responsibility for this process with authors during the review. [Session Editors](#session-editors) should work with their SC to convey additional observations or questions about a review that may not appear in the comments in ARPHA. Please be constructive and civil in all communications (comments and emails) with authors and remember TDWG's [Code of Conduct](/about/code-of-conduct/). Email authors through
 
 - `Send Feedback` button - changes status of abstract to `draft` and returns control to authors.  Editors will not see a true reflection of the editorial changes they have made/suggested when the abstract status is `draft`.
 - `Email Co-authors` button - does not change status of the abstract; may be used at any time while the abstract is in ARPHA. Recipients do not see who else may have received the same email and the person sending the email does not get a copy. Not recommended for use if you think authors are not receiving/seeing emails from pensoft.net.
