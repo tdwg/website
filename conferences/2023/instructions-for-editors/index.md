@@ -1,7 +1,7 @@
 ---
 title: Instructions for editors
 description: >
-  Of abstracts of presentations for TDWG 2023, to be published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/).
+  of abstracts of presentations for TDWG 2023, to be published in [Biodiversity Information Science and Standards](https://biss.pensoft.net/).
 background:
   img: https://images.unsplash.com/photo-1459664018906-085c36f472af
   by: Erol Ahmed
