@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 8 May 2023_
+_Last updated 31 May 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -366,3 +366,14 @@ Organizers
 : Kathryn Hall, Australian Reference Genome Atlas (ARGA) - Atlas of Living Australia, Australian BioCommons and Bioplatforms Australia, with the Australian Research Data Commons, Canberra, ACT, Australia, <kathryn.hall@csiro.au>
 
 Fundamental to the work of the Australian Reference Genome Atlas ([ARGA](https://arga.org.au/)) project has been the attempt to standardise the way in which we ingest and handle genomics data. Not all data are equal: single locus data is very different from whole genome annotations. As our work has progressed, we have identified a number of fields that are common across all of the records we are indexing, and useful subsets that pertain to specific data-types, many of which are amenable to the development of additional vocabularies. We would like to invite the TDWG community to join with us for an extended working session to work out the details of some of the extensions that we would like to propose adding to the genomics extensions blocks. We would welcome any feedback on the work we have done and also welcome the contributions of others who are developing standards and controlled vocabularies in this space. By the end of the session, we plan to submit some new standards and vocabularies for further consideration and refinement by the community.
+
+{:id="unconf"}
+### TDWG 2023 Unconference
+
+Session type
+: Unconference (no abstracts required)
+
+Organizers
+: Abigail Benson, U.S. Geological Survey, Lakewood, CO, USA, <albenson@usgs.gov>; Dimitri Brosens, Flemish Research Institute for Nature and Forest, Brussels, Belgium <dimitri.brosens@inbo.be>; Shelley James, Western Australia Dept. of Biodiversity Conservation and Attractions, Kensington, WA, Australia <shelley.james@dbca.wa.gov.au>; Deborah Paul, Illinois Natural History Survey, Prairie Research Institute, University of Illinois, Champaign, IL, USA <dlpaul@illinois.edu>
+
+TDWG attendees will have the opportunity to take control of the conference programme for 60 minutes of unbridled open participant-driven discussion, demonstration and debate. Do you have a topic you want to discuss but haven’t seen it in any of the sessions? Did one of the sessions spark an idea for you and you want to explore it further? Have recent events spurred subjects you want to talk about with other TDWG folks? Do you have an application idea or analysis you want to explore with others? If so, then the unconference is for you and we want you to propose your ideas. What topics need deeper discussion and exploration? The unconference is a place to collaborate, discover, explore and take a deep dive into emerging topics of interest.
