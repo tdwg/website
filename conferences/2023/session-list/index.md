@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 31 May 2023_
+_Last updated 5 June 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -376,4 +376,4 @@ Session type
 Organizers
 : Abigail Benson, U.S. Geological Survey, Lakewood, CO, USA, <albenson@usgs.gov>; Dimitri Brosens, Flemish Research Institute for Nature and Forest, Brussels, Belgium <dimitri.brosens@inbo.be>; Shelley James, Western Australia Dept. of Biodiversity Conservation and Attractions, Kensington, WA, Australia <shelley.james@dbca.wa.gov.au>; Deborah Paul, Illinois Natural History Survey, Prairie Research Institute, University of Illinois, Champaign, IL, USA <dlpaul@illinois.edu>
 
-TDWG attendees will have the opportunity to take control of the conference programme for 60 minutes of unbridled open participant-driven discussion, demonstration and debate. Do you have a topic you want to discuss but haven’t seen it in any of the sessions? Did one of the sessions spark an idea for you and you want to explore it further? Have recent events spurred subjects you want to talk about with other TDWG folks? Do you have an application idea or analysis you want to explore with others? If so, then the unconference is for you and we want you to propose your ideas. What topics need deeper discussion and exploration? The unconference is a place to collaborate, discover, explore and take a deep dive into emerging topics of interest.
+TDWG attendees will have the opportunity to take control of the conference programme to engage in unbridled open participant-driven discussion, demonstration and debate. Do you have a topic you want to discuss but haven’t seen it in any of the sessions? Did one of the sessions spark an idea for you and you want to explore it further? Have recent events spurred subjects you want to talk about with other TDWG folks? Do you have an application idea or analysis you want to explore with others? If so, then the unconference is for you and we want you to propose your ideas. What topics need deeper discussion and exploration? The unconference is a place to collaborate, discover, explore and take a deep dive into emerging topics of interest.
