@@ -8,6 +8,9 @@ background:
   href: https://unsplash.com/photos/ewGMqs2tmJI
 toc: true
 ---
+## Chair
+
+[Patricia Mergen](mailto:tardis@tdwg.org) (elected term: 2022-2023) - Meise Botanic Garden and Royal Museum for Central Africa, Belgium
 
 ## Mission
 
