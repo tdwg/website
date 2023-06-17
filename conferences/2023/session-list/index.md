@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 5 June 2023_
+_Last updated 16 June 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -217,7 +217,7 @@ Session type
 : Symposium (open to outside abstract submissions)
 
 Organizers
-: Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com> (soliciting additional organizers)
+: Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com>; Tomer Gueta, The Steinhardt Museum of Natural History, Tel Aviv, Israel <tomergu@tauex.tau.ac.il>
 
 Taxonomy is the foundation of biodiversity research and informatics. However, managing taxonomic data can be challenging due to the complexities specific to each taxonomic group and management of names with different codes of nomenclature.
 
