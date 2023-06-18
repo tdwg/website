@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Presenting at #tdwg2023? **Register** for 15 June webinar to make your presentation work!
+    Presenting at #tdwg2023? **View recording** of 15 June webinar on making your presentation work!
   href: /news/2023/webinar-make-presentations-work/
   img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
