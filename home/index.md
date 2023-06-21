@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Presenting at #tdwg2023? **View recording** of 15 June webinar on making your presentation work!
-  href: /news/2023/webinar-make-presentations-work/
-  img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
+    Join the public review of proposed changes to Darwin Core standard from Material Sample Task Group!
+  href: /news/2023/public-review-dcmg-material-sample/
+  img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
