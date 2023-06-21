@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 2 May 2023_
+_Last updated 21 June 2023_
 
 ## Getting started
 
@@ -19,7 +19,7 @@ Abstracts are required for all scheduled oral presentations (includes lightning 
 
 All conference participants are invited to submit abstracts representing their work, however the Program Committee reserves the right to schedule accepted abstracts to fit space and time constraints, as well as the right to limit the number of oral presentations by any single presenting author. The deadline for submission of abstracts is 1 July.
 
-Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Abstract submissions are limited to no more than 6,000 characters (including spaces), and may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples.
+Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Your abstract may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples. Abstract submissions are limited to no more than 6,000 characters (including spaces of all document content; only supplemental materials are excluded from this count). 
 
 ### Process overview
 
