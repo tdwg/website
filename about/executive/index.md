@@ -50,7 +50,7 @@ Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Africa | [Ian Engelbrecht](mailto:ianicus.za@gmail.com) | Natural Science Collections Facility, South Africa | 2023-2024
 Asia (co-rep) | [Vijay Barve](mailto:vijay.barve@gmail.com) | Natural History Museum of Los Angeles County, CA, USA | 2023-2024
-Asia (co-rep) | [Takeru Nakazato](mailto:nakazato@dbcls.rois.ac.jp) | Database Center for Life Science, Mishima, Japan | 2023-2024
+Asia (co-rep) | [Takeru Nakazato](mailto:nakazato.tkr@gmail.com) | Biological Resource Center (NBRC), National Institute of Technology and Evaluation (NITE), Tokyo, Japan | 2023-2024
 Europe | [Laurence Livermore](mailto:laurence.livermore@nhm.ac.uk) | Natural History Museum, London, England | 2023-2024
 Latin America | [Paula Zermoglio](mailto:pzermoglio@gmail.com) | VertNet, Bariloche, Argentina | [2022-2023](/about/executive/backgrounds/#latin-america-representative)
 North America | [Chandra Earl](mailto:chandra.earl@bishopmuseum.org) | Bishop Museum, Honolulu, Hawaii | 2023-2024
