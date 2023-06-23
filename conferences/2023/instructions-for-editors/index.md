@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 26 May 2023_
+_Last updated 22 June 2023_
 
 ## Role of editors
 
@@ -80,7 +80,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 ### Flags used during preliminary assessment
 
 - **Accept with revisions** - an assessment of whether an abstract will ultimately be accepted for presentation at the conference. It does not imply placement of where it was submitted only that it will have a place in the program. Setting this flag also indicates that the [editorial review process](#editorial-review-process) may begin for that abstract.
-- **Move** - indication that the (sub)collection ([session](/conferences/2023/session-list/)) should be changed but that the abstract should still be accepted for the conference. Please also notify <editor@tdwg.org>.
+- **Move** - indication that the (sub)collection ([session](/conferences/2023/session-list/)) should be changed. The decision to accept with revisions or reject would then be made by the editors wherever it is moved. Please notify <editor@tdwg.org> about abstracts flagged to move. When abstracts are moved to another collection, session editors will _not_ get automated email notification, but new abstracts will appear in your feed, flagged with move. You can uncheck the move flag and put it through the preliminary assessment process. 
 - **Reject** - reserved for those abstracts deemed out of scope or otherwise unsuitable for submission to the conference. 
 - **Remove** - reserved for abstracts that are duplicate or withdrawn for whatever reason
 
