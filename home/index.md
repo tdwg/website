@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Join the public review of proposed changes to Darwin Core standard from Material Sample Task Group!
-  href: /news/2023/public-review-dcmg-material-sample/
-  img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80
+    The 1 July deadline to submit your abstract for #tdwg2023 is less than a week away!
+  href: /conferences/2023/call-for-abstracts/
+  img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
