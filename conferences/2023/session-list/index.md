@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 16 June 2023_
+_Last updated 27 June 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -128,7 +128,7 @@ Session type
 : Symposium (open to outside abstract submissions)
 
 Organizers
-: Tobias Guldberg Frøslev, Global Biodiversity Information Facility, Copenhagen, Sealand, Denmark, <tfroeslev@gbif.org>; Saara Suominen, Ocean Biodiversity Information System, Amsterdam, Netherlands, <s.suominen@unesco.org>
+: Tobias Guldberg Frøslev, Global Biodiversity Information Facility, Copenhagen, Denmark, <tfroeslev@gbif.org>; Saara Suominen, Ocean Biodiversity Information System, Amsterdam, Netherlands, <s.suominen@unesco.org>; Veronika Johansson, Swedish Museum of Natural History, Stockholm, Sweden, <Veronika.Johansson@nrm.se>; Dag Endresen, Natural History Museum, Olso, Norway, <dag.endresen@nhm.uio.no>; Dmitry Schigel, Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark, <dschigel@gbif.org>; Tim Robertson, Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark, <trobertson@gbif.org>; Matthias Obst, University of Gothenburg, Sweden, <matthias.obst@marine.gu.se>; Anders Andersson, SciLifeLab, Sweden, <anders.andersson@scilifelab.se>
 
 Metabarcoding of DNA is becoming a standard tool for detecting species in bulk samples or environmental samples such as soil, water, and air. In the name of reproducibility, raw sequence data (fastq files), code and metadata files are most often shared and deposited in dedicated repositories within the International Nucleotide Sequence Database Collaboration, GitHub, and in generalist repositories such as Dryad and Zenodo. However, seen from a biodiversity perspective, raw sequences have narrower applications compared to the interpreted DNA metabarcoding data. Most often such interpretations come in the shape of a table with sequence abundances of Amplicon Sequence Variants or Operational Taxonomic Units across samples – a so-called ASV/OTU-table – and some associated files, e.g., spatiotemporal and other sample metadata, and taxonomic inferences of sequences. In most cases these are at best part of the supplementary materials, and unfortunately rarely shared in a standardised way that facilitates reuse and integration of DNA data with other data types and data layers, and across studies. In this session we will present and invite presentations on improving, promoting, and assisting FAIR publication and standardisation of biodiversity data (OTU-table-like data) for easier and broader reuse, and integration with other biodiversity data and data layers.
 
