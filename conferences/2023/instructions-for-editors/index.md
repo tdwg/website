@@ -9,11 +9,13 @@ background:
 toc: true
 ---
 
-_Last updated 22 June 2023_
+_Last updated 2 July 2023_
 
 ## Role of editors
 
-Thank you for volunteering to assess, review and/or edit abstracts submitted to your session. Reviews will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform. Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author text and Comments to ask questions and make suggestions about content. _There is no separate narrative review_. A single person will be identified within each group to serve as the [Session Coordinator](#session-coordinator) to organize the review process and track its progress in a Google spreadsheet.
+Thank you for volunteering to assess, review and/or edit abstracts submitted to your session. If you have participated in the reviewing process before, please note that this year's instructions have been substantially changed. Please read through them carefully. 
+
+Reviews will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform. Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author text and Comments to ask questions and make suggestions about content. [Session editors](#session-editors) will use **[flags](#understanding-flags)** but _will **not** send feedback to authors in ARPHA_. Only [volume editors](#volume-editors) will send feedback to authors. There is no separate narrative review. A single person will be identified within each group to serve as the [Session Coordinator](#session-coordinator) to organize the review process and track its progress in a Google spreadsheet.
 
 It is your responsibility as editors (aka technical editors) to ensure the acceptance of only high quality, well-written abstracts that will enhance your session and the reputation of our organization, the conference, and this journal.
 
@@ -46,6 +48,7 @@ As session organizers, it is in your best interest to participate in the [prelim
   - [Editorial review process](#editorial-review-process) is a detailed examination of the abstract for content and language (to be completed by **1 August**).
 - During the editorial review process, will suggest changes to wording using ARPHA’s [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) or [Comment](https://arpha.pensoft.net/tips/Comments) features. 
 - Use [flags](#understanding-flags) in ARPHA to mark assessment and editing progress
+- Will **not** use the `Send feedback` button despite what the email from Pensoft indicates.
 - Address editing tasks promptly to enable maximum time and flexibility for dealing with authors.
 - At least two people should review each abstract, addressing both language and content reviews. If not enough people are identified to serve in Session editor roles, they may be filled by members of the Program Committee.
 
@@ -64,7 +67,7 @@ As session organizers, it is in your best interest to participate in the [prelim
 ### Volume editors
 
 - Provide a link to the abstract tracking spreadsheet (ATS) to all session coordinators for tracking progress of the preliminary assessment and editorial review.
-- Responsible for communicating with authors about required revisions (after SC has flagged abstract with `revise`).
+- Responsible for communicating with authors (via `Send feedback` button) about required revisions (after SC has flagged abstract with `revise`).
 - Have access to all abstracts in the volume, should questions arise. 
 - Work with session coordinators to ensure that deadlines are met.
 - Notify authors (outside of ARPHA) of the provisional acceptance of their abstracts for presentation at the conference
@@ -186,7 +189,7 @@ The abstract has not yet been submitted by the authors OR it has been returned t
 
 ### In pre-submission review
 
-You will receive email notification from awt@pensoft.net every time an author (re)submits an abstract for review. It is now the responsibility of you and your team to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the `Send Feedback` step.
+You will receive email notification from awt@pensoft.net every time an author (re)submits an abstract for review. While this email states "Please review it and either approve it or submit your feedback to the authors", _only volume editors should send feedback to authors_. It is now the responsibility of Session editors to review the abstract, and mark its progress through flags (see figures [1](#preliminary-assessment) and [2](#editorial-review-process) above). While an abstract is in pre-submission review, authors may see your comments, but they will not have access to the manuscript until it is returned to them in the `Send Feedback` step.
 
 ### Approved for submission
 
@@ -221,7 +224,7 @@ Remember to always be constructive and civil in any communications with authors.
 
 ### Communications from Pensoft
 
-Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from awt@pensoft.net) for each abstract in ARPHA for which you are an editor, every time there is a change of [status](#abstract-status) for that abstract. If you share/forward the email, please remove links first. You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
+Emails originating from “pensoft.net” are often interpreted by overzealous email systems as potential spam. Please whitelist or otherwise train your email system to recognize these vital communications. You will receive notifications (from awt@pensoft.net) for each abstract in ARPHA for which you are an editor, every time there is a change of [status](#abstract-status) for that abstract. While these autogenerated emails indicate that you should send feedback to the author, _resist the temptation_. If you share/forward the email, please remove links first. You will not be able to tell who else may have received the same notification in auto-generated emails. Emails will reference the collection to which the abstract was submitted in both the subject line and in the body of the email, as well as the journal name (body only).
 
 ### Update your profile
 
