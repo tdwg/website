@@ -10,8 +10,8 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    The 1 July deadline to submit your abstract for #tdwg2023 is less than a week away!
-  href: /conferences/2023/call-for-abstracts/
+    The call for abstracts has closed for presentations to TDWG 2023. Watch for opening of registration.
+  href: /conferences/2023/
   img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
 
