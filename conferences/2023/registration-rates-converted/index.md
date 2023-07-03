@@ -12,11 +12,15 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-## Tables below give the registration rates for TDWG 2023 in:  
+## Registration types and fees
+
+Tables below give the registration fees for TDWG 2023 in:  
 - Australian Dollars (AU$)
 - Euros (&euro;)
 - United States Dollars (US$)
 - United Kingdom Pounds Sterling (&pound;)
+
+In-person registration includes:  the welcome reception, catering for coffee/tea breaks, the conference dinner.  Excursions on Wednesday will be an additional charge. Streaming technologies will support presentations by both virtual and in-person participants, and all participants will have have access to recorded presentations. Chat and message functions will support interaction between all participants.  (Please note that remote presenters will need to submit a video recording as backup for any network problems that might arise.) 
 
 
 ### Registration fees in Australian Dollars (AUD$)
