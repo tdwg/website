@@ -39,6 +39,7 @@ Virtual from low income economy	| 	| $0.00
 
 ### Registration fees in EUROS
 USD/AUD = 0.6092 on 30 June
+
 In-Person Attendance  |  Early-Bird  |  Standard
 | :--- | ---: | ---: |
 In-Person TDWG member (2023)  |  €405.12  |  €450.81
@@ -54,8 +55,10 @@ Virtual Post-doctoral or Retired  |    |  €91.38
 Virtual Student (undergraduate or postgraduate)  |    |  €91.38
 Virtual from low income economy  |    |  €0.00
 
+
 ### Registration fees in US Dollars
 USD/AUD = 0.6608 on 30 June
+
 In-Person Attendance  |  Early-Bird  |  Standard
 | :--- | ---: | ---: |
 In-Person TDWG member (2023)  |  $439.43  |  $488.99
@@ -71,8 +74,10 @@ Virtual Post-doctoral or Retired  |    |  $99.12
 Virtual Student (undergraduate or postgraduate)  |    |  $99.12
 Virtual from low income economy  |    |  $0.00
 
+
 ### Registration fees in UK Pound Sterling
 GBP/AUD = 0.524903 on 2 July
+
 In-Person Attendance  |  Early-Bird  |  Standard
 | :--- | ---: | ---: |
 In-Person TDWG member (2023)  |  £349.06  |  £388.43
@@ -87,3 +92,5 @@ Virtual and TDWG membership  |    |  £157.47
 Virtual Post-doctoral or Retired  |    |  £78.74
 Virtual Student (undergraduate or postgraduate)  |    |  £78.74
 Virtual from low income economy  |    |  £0.00
+
+
