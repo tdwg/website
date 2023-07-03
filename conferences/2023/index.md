@@ -16,7 +16,7 @@ _Last updated 9 May 2023_
 
 ## Deadlines
 
-- **[Call for abstracts](/conferences/2023/call-for-abstracts/) is now open until 1 July 2023.**
+- **[Call for abstracts](/conferences/2023/call-for-abstracts/) ~~is now open until~~ closed 1 July 2023.**
 
 ### Expired deadlines
 
