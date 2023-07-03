@@ -14,6 +14,8 @@ toc: true
 
 # Registration
 
+## Registration site
+
 A link to the online registration site will posted here as soon as the site goes live.  (Expected the first week of July.)
 
 ## In-person and virtual participation
@@ -28,24 +30,24 @@ Chat and message functions will support interaction among all participants.
 
 ## Categories
 
-- **TDWG members** receive a discount on their registration fees approximately equivalent to membership dues.  Institutional members may take the discount on up to five (5) participants. Discount codes have already been mailed to individual and institutions who have paid dues in 2023.
+- **TDWG members** receive a discount on their registration fees approximately equivalent to membership dues (AUD$110).  Institutional members may take the discount on up to five (5) participants. Discount codes have already been mailed to individual and institutions who have paid dues in 2023.
 - **Non-members** pay the full registration fee, but may opt-in to become a TDWG member for 2023.  (See [benefits of TDWG membership](https://www.tdwg.org/about/membership/#benefits-of-membership).)
-- An **early-bird discount** is available until 18 August.
+- An **early-bird discount** (AUD$75)is available until 18 August.
 
 The following categories of participants receive even larger discounts on registration fees.
 
 - **Post-docs** and **retired professionals**
 - **Students,** both undergraduate and post graduates
-- Participants from **lower-middle and low-income economies** ([See list](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).)
+- Participants from **lower-middle and low-income economies** ([See list](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups){:target="_blank"}.)
 
 (The early-bird discount is not available to the more heavily discounted categories.)
 
 ## Registration fees
 
 Tables below give the registration fees for TDWG 2023 in:  
-- Australian Dollars (AU$)
+- Australian Dollars (AUD$)
 - Euros (&euro;)
-- United States Dollars (US$)
+- United States Dollars (USD$)
 - United Kingdom Pounds Sterling (&pound;)
 
 (The converted amounts are estimates and will be updated if the rates change by more than a few percent.)
