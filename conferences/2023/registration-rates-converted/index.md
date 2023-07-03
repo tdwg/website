@@ -38,7 +38,8 @@ Virtual from low income economy	| 	| $0.00
 
 
 ### Registration fees in EUROS
-USD/AUD = 0.6092 on 30 June
+
+EURO/AUD = 0.6092 on 30 June
 
 In-Person Attendance  |  Early-Bird  |  Standard
 | :--- | ---: | ---: |
@@ -57,6 +58,7 @@ Virtual from low income economy  |    |  €0.00
 
 
 ### Registration fees in US Dollars
+
 USD/AUD = 0.6608 on 30 June
 
 In-Person Attendance  |  Early-Bird  |  Standard
@@ -76,6 +78,7 @@ Virtual from low income economy  |    |  $0.00
 
 
 ### Registration fees in UK Pound Sterling
+
 GBP/AUD = 0.524903 on 2 July
 
 In-Person Attendance  |  Early-Bird  |  Standard
