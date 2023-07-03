@@ -12,24 +12,24 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-Tables below give the registration rates for TDWG 2023 in:  
-- Australian Dollars (AUD$)
-- Euros (<&euro;>)
-- United States Dollars (USD$)
-- United Kingdom Pounds Sterling (<&pound;>)
+## Tables below give the registration rates for TDWG 2023 in:  
+- Australian Dollars (AU$)
+- Euros (&euro;)
+- United States Dollars (US$)
+- United Kingdom Pounds Sterling (&pound;)
 
 
+### Registration rates in Australian Dollars (AUD$)
 
-In-Person Attendance in Australian Dollars (AUD$) | Early Bird <br />before 18 Aug | Standard
+In-Person Attendance  | Early Bird <br />before 18 Aug | Standard
 | :--- | :---: | :---: |
 In-Person TDWG member (2023)   	| $665.00 | $740.00
 In-Person and TDWG Membership       	| $775.00 | $850.00
 In-Person Post-doctoral or Retired	|       	| $425.00
 In-Person Student <br />(undergraduate or postgraduate) 	| 	| $200.00
 In-Person from low income economy (see list)	| 	| $200.00
-
-Virtual Attendance | <&nbsp;&nbsp;&nbsp; > | Standard
-| :--- | :---: | :---: |
+&nbsp;  | &nbsp; | &nbsp;  | 
+**Virtual Attendance** |   | **Standard**
 Virtual TDWG member (2023)	| 	| $190.00
 Virtual and TDWG membership	| 	| $300.00
 Virtual Post-doctoral or Retired	| 	| $150.00
