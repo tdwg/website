@@ -1,7 +1,7 @@
 ---
 title: Registration for TDWG 2023
 description: >
-  TDWG Annual Conference - registration categories and fees
+  TDWG Annual Conference - registration categories, fees, and policies
 background:
   img: https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg
   by: Hobart Conference Centre
