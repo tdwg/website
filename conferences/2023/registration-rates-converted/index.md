@@ -32,14 +32,14 @@ In-Person and TDWG Membership       	| $775.00 | $850.00
 In-Person Post-doctoral or Retired	|       	| $425.00
 In-Person Student <br />(undergraduate or postgraduate) 	| 	| $200.00
 In-Person from low income economy (see list)	| 	| $200.00
-&nbsp;  | &nbsp; | &nbsp;  | 
+  |  |  
 **Virtual Attendance** |   | **Standard**
 Virtual TDWG member (2023)	| 	| $190.00
 Virtual and TDWG membership	| 	| $300.00
 Virtual Post-doctoral or Retired	| 	| $150.00
 Virtual Student (undergraduate or postgraduate)	| 	| $150.00
 Virtual from low income economy	| 	| $0.00
-
+<br /> &nbsp;
 
 ### Registration fees in EUROS
 
@@ -52,14 +52,14 @@ In-Person and TDWG Membership  |  €472.13  |  €517.82
 In-Person Post-doctoral or Retired  |    |  €258.91
 In-Person Student <br />(undergraduate or postgraduate)  |    |  €121.84
 In-Person from low income economy (see list)  |    |  €121.84
-&nbsp;  |  &nbsp;  |  &nbsp;
+  |  |  
 **Virtual Attendance**  |    |  **Standard**
 Virtual TDWG member (2023)  |    |  €115.75
 Virtual and TDWG membership  |    |  €182.76
 Virtual Post-doctoral or Retired  |    |  €91.38
 Virtual Student (undergraduate or postgraduate)  |    |  €91.38
 Virtual from low income economy  |    |  €0.00
-
+<br /> &nbsp;
 
 ### Registration fees in US Dollars
 
@@ -72,14 +72,14 @@ In-Person and TDWG Membership  |  $512.12  |  $561.68
 In-Person Post-doctoral or Retired  |    |  $280.84
 In-Person Student <br />(undergraduate or postgraduate)  |    |  $132.16
 In-Person from low income economy (see list)  |    |  $132.16
-&nbsp;  |  &nbsp;  |  &nbsp;
+  |  | 
 **Virtual Attendance**  |    |  **Standard**
 Virtual TDWG member (2023)  |    |  $125.55
 Virtual and TDWG membership  |    |  $198.24
 Virtual Post-doctoral or Retired  |    |  $99.12
 Virtual Student (undergraduate or postgraduate)  |    |  $99.12
 Virtual from low income economy  |    |  $0.00
-
+<br /> &nbsp;
 
 ### Registration fees in UK Pound Sterling
 
@@ -92,12 +92,12 @@ In-Person and TDWG Membership  |  £406.80  |  £446.17
 In-Person Post-doctoral or Retired  |    |  £223.08
 In-Person Student <br />(undergraduate or postgraduate)  |    |  £104.98
 In-Person from low income economy (see list)  |    |  £104.98
-&nbsp;  |  &nbsp;  |  &nbsp;
+  |   |  
 **Virtual Attendance**  |    |  **Standard**
 Virtual TDWG member (2023)  |    |  £99.73
 Virtual and TDWG membership  |    |  £157.47
 Virtual Post-doctoral or Retired  |    |  £78.74
 Virtual Student (undergraduate or postgraduate)  |    |  £78.74
 Virtual from low income economy  |    |  £0.00
-
+<br /> &nbsp;
 
