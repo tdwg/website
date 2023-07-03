@@ -20,7 +20,7 @@ Tables below give the registration fees for TDWG 2023 in:
 - United States Dollars (US$)
 - United Kingdom Pounds Sterling (&pound;)
 
-In-person registration includes:  the welcome reception, catering for coffee/tea breaks, the conference dinner.  Excursions on Wednesday will be an additional charge. Streaming technologies will support presentations by both virtual and in-person participants, and all participants will have have access to recorded presentations. Chat and message functions will support interaction between all participants.  (Please note that remote presenters will need to submit a video recording as backup for any network problems that might arise.) 
+In-person registration includes:  the welcome reception, catering for coffee/tea breaks, and the conference dinner.  Excursions on Wednesday may entail an additional charge. Virtual participants will have access to live streamed presentations as well as recordings within 24 hours. Virtual participants will be able to present any accepted contributions, but note, virtual presenters will be required to submit a pre-recorded video to serve as backup should a network problem arise.  Chat and message functions will support interaction between all participants.   
 
 
 ### Registration fees in Australian Dollars (AUD$)
