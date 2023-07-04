@@ -12,20 +12,29 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_Last updated 9 May 2023_
+_Last updated 3 July 2023_
 
 ## Deadlines
 
-- **[Call for abstracts](/conferences/2023/call-for-abstracts/) ~~is now open until~~ closed 1 July 2023.**
+- **Early bird registration ends 18 August 2023.**
 
 ### Expired deadlines
 
 - [Call for proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions) closed 15 April 2023.
+- [Call for abstracts](/conferences/2023/call-for-abstracts/) closed 1 July 2023.
+
+## Registration
+
+Information about [conference registration](/conferences/2023/registration) is now available, including participant categories, fees, and discounts. 
+
+A link to the online registration site will be posted here as soon as the site goes live, which should be in the first week of July.
 
 ## Location
 
 Hobart Function and Convention Centre (on the Hobart Waterfront)
 1 Elizabeth Street Pier, Hobart, Tasmania 7000
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.2211372413517!2d147.33112416654131!3d-42.884042949713134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xaa6e75868c4e6d13%3A0x3c04fdf8ea4cde5b!2s1%20Elizabeth%20Street%20Pier%2C%20Hobart%20TAS%207000%2C%20Australia!5e0!3m2!1sen!2sus!4v1688433732363!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Hosts
 
