@@ -10,8 +10,8 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    The call for abstracts has closed for presentations to TDWG 2023. Watch for opening of registration.
-  href: /conferences/2023/
+    150 abstracts submitted to TDWG 2023. New registration information now available!
+  href: /conferences/2023/#registration
   img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
 
