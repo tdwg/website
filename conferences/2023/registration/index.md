@@ -24,7 +24,7 @@ TDWG 2023 will be a hybrid conference with in-person and virtual participants.  
 
 **In-person** registration includes:  the welcome reception, coffee/tea breaks, lunch on session days, and the conference dinner.  Excursions on Wednesday may entail an additional charge. 
 
-Both in-person and **virtual participants** will receive a login to the conference platform and will have access to live streamed presentations as well as session recordings within 24 hours. (All sessions will be recorded.)  Virtual participants will be able to present any accepted contribution live, but scheduling will necessarily be a compromise between the presenter's time-zone and session subject matter. Virtual presenters will be required to submit a pre-recorded video to serve as backup should a network problem arise.  
+Both in-person and **virtual participants** will receive a login to the conference platform and will have access to live streamed presentations as well as session recordings as quickly as we can get them posted (we hope within 24 hours). Note that all sessions will be recorded.  Virtual participants will be able to present any accepted contribution live, but it is vital to note that the time zone shift may mean that your presentation will be scheduled in the midde of your night. We will be unable to give all virtual presenters times that are convenient. Virtual presenters will be required to submit a pre-recorded video to serve as backup should a network problem arise.  
 
 Chat and message functions will support interaction among all participants.   
 
