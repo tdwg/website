@@ -4,6 +4,10 @@
   menu:
   - text: "Sessions"
     href: /conferences/2023/session-list/
+- text: "Registration"
+  menu:
+  - text: "Registration details"
+    href: /conferences/2023/registration/
 - text: "Submissions"
   menu:
   - text: "Calls"
