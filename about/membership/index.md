@@ -42,7 +42,7 @@ Institutional | $ 500[^2]
 
 Individual membership can be paid online with a credit or debit card.
 
-<button onclick="window.location.href='https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership'" class="btn btn-secondary">Join TDWG as an individual!</button>
+<button onclick="window.location.href='https://zohosecurepay.com/checkout/gbs628p-zw5vr6i66b3xr/Individual-TDWG-Membership-2023'" class="btn btn-secondary">Join TDWG as an individual!</button>
 
 Institutions and individuals needing to pay through a formal _quote/purchase order/invoice_ process should send an email with name, affiliation, address, and desired membership type `individual`/`institutional` to the [TDWG Treasurer](mailto:treasurer@tdwg.org?subject=Membership%20request).
 
