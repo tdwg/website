@@ -135,3 +135,17 @@ Virtual Student (undergraduate or postgraduate)  |    |  £78.74
 Virtual from low income economy  |    |  £0.00
 
 <br /> &nbsp;
+
+## Cancellations
+
+- Cancellations for in-person attendance, with full refund (less transaction fees) can be made up to 22 September 2023
+- After 22 September, we encourage in-person participants who are unable to travel to switch to be a virtual participant. A refund of the difference between the in-person fee paid and virtual attendance will be offered (less transaction fees).  
+- After 2 October, in-person participants who are unable to travel are still encouraged to switch to be a virtual participant. No refund will be offered after 2 October as final numbers must be provided to the conference venue on that date.
+- In-person no-shows with no correspondence will not be refunded.
+- For alterations or cancellations to your registration please notify the TDWG Conference Organizers by sending an email to conf-organizers@tdwg.org    
+
+### Substitutions
+- Substitutions of participants are allowed at any time before Monday 9 October 2023.
+- Substitution of a presenting author by an alternative person (usually a co-author) is allowed up to Monday 9 October 2023.
+- For substitution of participants please notify the TDWG Conference Organizers by sending an email to conf-organizers@tdwg.org    
+
