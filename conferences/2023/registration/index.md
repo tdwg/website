@@ -20,7 +20,7 @@ _Last updated 7 July 2023_
 
 The online registration site is now live!
 
-[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary :target="_blank"}
+[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary; :target="_blank"}
 <!-- button onclick="window.location.href='https://tdwg2023.zohobackstage.com.au/TDWG2023'" class="btn btn-secondary">Register for TDWG 2023!</button> -->
 ## In-person and virtual participation
 
