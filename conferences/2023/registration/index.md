@@ -18,8 +18,10 @@ _Last updated 7 July 2023_
 
 ## Registration site
 
-A link to the online registration site will posted here as soon as the site goes live.  (Expected the first week of July.)
+The online registration site is now live!
 
+[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary :target="_blank"}
+<!-- button onclick="window.location.href='https://tdwg2023.zohobackstage.com.au/TDWG2023'" class="btn btn-secondary">Register for TDWG 2023!</button> -->
 ## In-person and virtual participation
 
 TDWG 2023 will be a hybrid conference with in-person and virtual participants.  All participants, including presenters, must register.  
