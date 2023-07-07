@@ -18,7 +18,9 @@ _Last updated 7 July 2023_
 
 The conference website, including online registration, is now live!  Find more complete information about the venue, accommodations, traveling to Australia, visa requirements, etc.  
 
-[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}  At least some information is available in eight languages (see menu, top right).
+[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}  
+
+At least some information is available in eight languages (see menu, top right).
 
 ## Deadlines
 
