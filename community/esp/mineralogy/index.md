@@ -20,7 +20,7 @@ toc: true
 - [Thomas Burri](mailto:thomas.burri@nmbe.ch) (Research Associate, Mineralogy and Petrography) - Natural History Museum Bern, Switzerland
 - [Nicolas Greber](mailto:Nicolas.Greber@ville-ge.ch) (Professor for Geochemistry) - Natural History Museum of Geneva, Switzerland
 - [Olle Hints](mailto:olle.hints@taltech.ee) (Director, Department of Geology) - Tallinn University of Technology, Estonia
-- [Sean Moran](mailto:sean.moran@naturalsciences.org) (Collections Manager, Paleontology and Geology) - North Carolina Museum of Natural Sciences, Raleigh, NC, USA
+- [Allison Dombrowski](mailto:allison.dombrowski@naturalsciences.org) (Collections Manager, Geology) - North Carolina Museum of Natural Sciences, Raleigh, NC, USA
 - [André Puschnig](mailto:Andre.Puschnig@bs.ch) (Curator, Mineralogy) - Natural History Museum Basel, Switzerland
 - [Jolyon Ralph](mailto:jolyon@mindat.org) (Founder) - Mindat.org
 - [Chris Tacker](mailto:christopher.tacker@naturalsciences.org) (Research Curator, Geology) - North Carolina Museum of Natural Sciences, Raleigh, NC, USA
