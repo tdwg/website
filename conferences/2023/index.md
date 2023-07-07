@@ -14,11 +14,11 @@ toc: true
 
 _Last updated 7 July 2023_
 
-## Primary conference website
+## Conference website now live!
 
-The primary conference website, including registration, is now live!  Find more complete information about the venue, accommodations, traveling to Australia (including visas), etc.  
+The conference website, including online registration, is now live!  Find more complete information about the venue, accommodations, traveling to Australia, visa requirements, etc.  
 
-[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}
+[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}  At least some information is available in eight languages (see menu, top right).
 
 ## Deadlines
 
