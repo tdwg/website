@@ -1,35 +1,47 @@
-- name: "Shelley James"
-  role: "Co-chair"
-  image: https://static.tdwg.org/conferences/2022/pc/james-shelley.jpg
-  description: >
-    Shelley is the Collections Manager at the Western Australian Herbarium. A botanical research scientist for more than two decades, she also serves the Society for the Preservation of Natural History Collections (SPNHC) as elected Member-at-Large and Representative for Oceania with The Biodiversity Information Standards (TDWG). Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
-  orcid: 0000-0003-1105-1850
-
 - name: "Elycia Wallis"
   role: "Co-chair"
-  image: https://static.tdwg.org/conferences/2022/pc/wallis-ely.jpg
+  image: https://static.tdwg.org/conferences/2023/pc/wallis-ely.jpg
   description: >
     _Atlas of Living Australia, Melbourne, Australia._ Dr Elycia (Ely) Wallis works with the Atlas of Living Australia where she is the Collections Community Engagement Manager and Team Lead for the Engagement Team. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, database administration, working with the library and archives section, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. She has a passion for free access and open sharing of data.
   orcid: 0000-0001-6017-0894
 
+- name: "Shelley James"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2023/pc/james-shelley.jpg
+  description: >
+    _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ A botanical research scientist for more than two decades, Dr Shelley serves as Representative for Oceania with TDWG. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
+  orcid: 0000-0003-1105-1850
+
 - name: "Vijay Barve"
-  image: https://static.tdwg.org/conferences/2022/pc/barve-vijay.jpg
+  image: https://static.tdwg.org/conferences/2023/pc/barve-vijay.jpg
   description: >
     _Bangalore, India._ Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the [Audubon Core Standard](/standards/ac/) since its inception.
   orcid: 0000-0002-4852-2567
   twitter: vijaybarve
 
 - name: "Chandra Earl"
-  image: https://static.tdwg.org/conferences/2022/pc/earl-chandra.jpg
+  image: https://static.tdwg.org/conferences/2023/pc/earl-chandra.jpg
   description: >
-    Chandra is the Joshua M. Copus Memorial Postdoctoral Fellow in Biodiversity Informatics and Computational Biology at the Bishop Museum in Honolulu, Hawaii. She received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers.
+    _Bishop Museum in Honolulu, Hawaii, USA._ Chandra is the Joshua M. Copus Memorial Postdoctoral Fellow in Biodiversity Informatics and Computational Biology. She received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers.
   orcid: 0000-0001-9850-882X
   twitter: ChandraEarl
 
 - name: "Gail Kampmeier"
-  image: https://static.tdwg.org/conferences/2022/pc/kampmeier-gail.jpg
+  image: https://static.tdwg.org/conferences/2023/pc/kampmeier-gail.jpg
   description: >
     _University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA._ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She will serve as a mentor to this year's Program Committee. As Editor-in-Chief of the Pensoft Journal [Biodiversity Information Science and Standards](https://biss.pensoft.net) she will help oversee the abstract submission process and encourages submission of full articles to the journal. Elected as North American representative (2008-2013) to the TDWG Exec, she has since served as an invited (non-voting) member.
   orcid: https://orcid.org/0000-0002-5178-4170
   twitter: gkampmeier
 
+- name: "Kristen “Kit” Lewers"
+  image: https://static.tdwg.org/conferences/2023/pc/lewers-kit.jpg
+  description: >
+    _Information Science and BioFrontiers Institute, University of Colorado Boulder, USA._ Kit is an interdisciplinary PhD student studying HCI (Human Computer Interaction) and IQ Bio (Interdisciplinary Quantitative Biology). She is also a member of the TAG (Technical Architecture Group) since 2022 where she works on projects related to standards and their lifecycle. For her HCI research, she focuses on how information overload impacts institutions grounded in big data (specifically looking at natural history and biocollections) mainly employing ethnographic(traditional + digital) and network science methods advised by Stephen Voida. Under the guidance of Orit Peleg in the BioFrontiers Institute, she studies North American firefly biodiversity, flash signals, and complex system science. She bridges her two interests through complex systems research, information ecosystem modeling, and biologically inspired information theory.
+  orcid: https://orcid.org/0000-0003-0526-4075
+
+  - name: "Daphne Z Hoh"
+  image: https://static.tdwg.org/conferences/2023/pc/daphne-hoh.jpg
+  description: >
+    Taiwan Biodiversity Information Facility, Taipei, Taiwan. Daphne has been trained as a marine biologist since completing her BSc and PhD studies. Her PhD research focused on fungal infection in sea turtle eggs, encompassing various aspects including analyzing pathogen genomics and assessing pathogenicity using high-throughput sequencing and bioinformatics approaches. She co-founded TurtleSpot Taiwan - a citizen science project dedicated to collecting sea turtle sightings for research. Recognizing the potential for generating large volumes of primary biodiversity data through her research, she became intrigued by Biodiversity Informatics and actively engaged herself in this field. She currently works as a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), focusing on evaluating national-level biodiversity data gaps.
+  orcid: https://orcid.org/0000-0002-7810-1034 
+  
