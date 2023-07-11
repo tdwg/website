@@ -33,7 +33,7 @@ At least some information is available in eight languages (see menu, top right).
 
 ## Registration
 
-The main [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"} is now live, including participant categories, fees, discounts, online registration, and cancellation policy. (Look for the green "Buy Tickets" button.)  See [this page](https://www.tdwg.org/conferences/2023/registration/#in-euros) if you'd like to see registration fees converted from Australian dollars to Euros, US Dollars, and GBP.
+The main [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023){:target="_blank"} is now live, including participant categories, fees, discounts, online registration, and cancellation policy. (Look for the green "Buy Tickets" button.)  See [this page](https://www.tdwg.org/conferences/2023/registration/#in-euros) if you'd like to see registration fees converted from Australian dollars to Euros, US Dollars, and GBP.
 
 ## Location
 
