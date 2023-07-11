@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    150 abstracts submitted to TDWG 2023. New registration information now available!
+    Registration now open for #tdwg2023! Early bird discount until 18 August for in-person attendees.
   href: /conferences/2023/#registration
   img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
