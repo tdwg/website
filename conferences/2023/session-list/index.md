@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 10 July 2023_
+_Last updated 11 July 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -58,7 +58,7 @@ Session type
 : Symposium (open to outside abstract submissions)
 
 Organizers
-: Adeline Kerner, Center for Research on Palaeontology - Paris (UMR 7207: CNRS-MNHN-Sorbonne University), Paris, Ile-de-France, France, <kerner@mnhn.fr>
+: Adeline Kerner, Center for Research on Palaeontology - Paris (UMR 7207: CNRS-MNHN-Sorbonne University), Paris, France, <kerner@mnhn.fr>; Sophie Pamerlon, Patrinat (OFB - MNHN - CNRS - IRD), GBIF France, Paris, France, <pamerlon@gbif.fr>
 
 The identification and description of species and other taxa are the fundamental basis for every biodiversity study. Descriptive data takes a number of very different forms, more or less complete, structured or not, standardized or heterogenous. The importance of a standard for this data has been crucial since the beginnings of TDWG. To address this, following the Description Language for Taxonomy ([DELTA](https://www.tdwg.org/standards/delta/); ratified in 1986), the [SDD](https://www.tdwg.org/standards/sdd/) (Structured Descriptive Data) was ratified in 2005. Since then, a rapid growth and increasing quantities of computerized descriptive data is observed. In parallel, the techniques and languages to collect and manage them have evolved considerably with, for instance, AI (Artificial Intelligence), ontologies, text mining, and annotation. New platforms are developed, with some still using and adapting the SDD, and others not. It is critical in a FAIR (Findable, Accessible, Interoperable, and Reusable) data context to maintain models for sharing descriptive data that are structured enough to become knowledge, allowing comparison, identification, data-mining and application of analysis tools. In this session, we will review the existing models and discuss how to evolve the standard around the structuration of taxonomic descriptions.
 
