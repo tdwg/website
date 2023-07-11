@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 27 June 2023_
+_Last updated 10 July 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -238,24 +238,6 @@ Organizers
 
 There is renewed interest in a circular flow of annotations among and between isolated sources of biodiversity data, lately called data “round-tripping”. The structure and package for these annotations has assumed various new forms such as Frictionless Data, JATS XML, or nanopublications, but the fundamental principles and challenges remain unchanged.  Someone (or something) (1) has a valuable enhancement to make elsewhere from the source where original data or information are generated or transcribed; (2) wishes to broadcast these statements to the originator and to others who may benefit; and (3) expects persistence, discoverability, and attribution for their contributions alongside the source. Digital Extended Specimens must provide an answer to these socio-technical desires. This likewise puts pressure on collections management systems to quickly respond with functional integrations or risk being disconnected from the accumulation of valuable annotations. Besides the very obvious need for globally unique, persistent, resolvable identifiers for shared objects and concepts, we likewise require a universally consistent way to package and shuttle annotations that are sufficiently informative for a data curator to confidently make a decision. We look to the Web Annotation Working Group, Filtered Push, AnnoSys, Hypothes.is and their champions for guidance. Here, we propose a survey on what annotation frameworks and standards are presently in use in collections management systems for data objects, shared concepts, and the links among them, especially those that reach beyond the walls of a local, isolated system. We encourage contributors to reveal strengths, shortcomings, and challenges with the aims of reinvigorating the [Annotations Interest Group](https://www.tdwg.org/community/annotations/) and providing leadership through actionable recommendations. 
 
-{:id="sym17"}
-### SYM17 Describing biodiversity in underrepresented languages using crowdsourcing
-
-Session type
-: Symposium (open to outside abstract submissions)
-
-Organizers
-: Mohammed Kamal-Deen Fuseini, Gurene Wikimedia Community, Tamale, Northern, Ghana, <fuseinikamaldeen@gmail.com>; Abah Agnes Ajumah, Igbo Wikimedia User Group, Abuja, Federal Capital Territory, Nigeria, <ajben12@gmail.com>
-
-Biodiversity, the variety of life on Earth, is crucial for conservation, but many languages, especially those spoken by indigenous communities, are underrepresented in scientific literature. This session explores the potential of crowdsourcing as a solution to collect biodiversity information in underrepresented languages.
-
-Goals
-
-- Highlight the challenge of underrepresented languages in documenting biodiversity
-- Discuss the benefits of crowdsourcing for biodiversity data collection
-- Share successful examples and best practices of crowdsourcing initiatives for biodiversity documentation
-
-We hereby call on all researchers, conservationists, and language enthusiasts! Join our session to explore how crowdsourcing can revolutionize biodiversity documentation in underrepresented languages. Share your insights, experiences, and success stories in utilizing crowdsourcing platforms to collect biodiversity data from local communities. We invite abstract submissions that highlight innovative approaches, validation mechanisms, and user-friendly features in crowdsourcing initiatives. Let's work together to bridge the language gap, tap into the wealth of local knowledge, and enhance our understanding of global biodiversity for effective conservation efforts. Don't miss this opportunity to be part of a cutting-edge discussion and contribute to the advancement of biodiversity research and conservation!
 
 ## Demonstration
 
