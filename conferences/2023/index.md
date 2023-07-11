@@ -12,7 +12,7 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_Last updated 7 July 2023_
+_Last updated 10 July 2023_
 
 ## Conference website<br />now live!
 
@@ -33,9 +33,7 @@ At least some information is available in eight languages (see menu, top right).
 
 ## Registration
 
-Information about [conference registration](/conferences/2023/registration) is now available, including participant categories, fees, discounts, and cancellations. 
-
-A link to the online registration site will be posted here as soon as the site goes live, which should be in the first week of July.
+The main [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"} is now live, including participant categories, fees, discounts, online registration, and cancellation policy. (Look for the green "Buy Tickets" button.)  See [this page](https://www.tdwg.org/conferences/2023/registration/#in-euros) if you'd like to see registration fees converted from Australian dollars to Euros, US Dollars, and GBP.
 
 ## Location
 
