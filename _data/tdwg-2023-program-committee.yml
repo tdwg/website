@@ -19,12 +19,23 @@
   orcid: 0000-0002-4852-2567
   twitter: vijaybarve
 
+- name: "María Mora Cross"
+  image: https://static.tdwg.org/conferences/2023/pc/cross-maria.jpg
+  description: >
+    _Costa Rica Institute of Technology (ITCR), Alajuela._ María is a computer scientist with more than 30 years of experience in biodiversity informatics. She is a faculty member at the Computer Science Department of the ITCR since 2017. From 1993 to 2015, she worked at the Biodiversity Informatics Program of the National Biodiversity Institute (INBio) where she had the opportunity to lead national and international biodiversity informatics projects. Her research interests include biodiversity informatics, natural language processing, and machine learning.
+  
 - name: "Chandra Earl"
   image: https://static.tdwg.org/conferences/2023/pc/earl-chandra.jpg
   description: >
     _Bishop Museum in Honolulu, Hawaii, USA._ Chandra is the Joshua M. Copus Memorial Postdoctoral Fellow in Biodiversity Informatics and Computational Biology. She received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers.
   orcid: 0000-0001-9850-882X
   twitter: ChandraEarl
+
+- name: "Daphne Hoh"
+  image: https://static.tdwg.org/conferences/2023/pc/hoh-daphne.jpg
+  description: >
+    _Taiwan Biodiversity Information Facility, Taipei, Taiwan._ Daphne has been trained as a marine biologist since completing her BSc and PhD studies. Her PhD research focused on fungal infection in sea turtle eggs, encompassing various aspects including analyzing pathogen genomics and assessing pathogenicity using high-throughput sequencing and bioinformatics approaches. She co-founded TurtleSpot Taiwan - a citizen science project dedicated to collecting sea turtle sightings for research. Recognizing the potential for generating large volumes of primary biodiversity data through her research, she became intrigued by Biodiversity Informatics and actively engaged herself in this field. She currently works as a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), focusing on evaluating national-level biodiversity data gaps.
+  orcid: https://orcid.org/0000-0002-7810-1034
 
 - name: "Gail Kampmeier"
   image: https://static.tdwg.org/conferences/2023/pc/kampmeier-gail.jpg
@@ -33,15 +44,20 @@
   orcid: https://orcid.org/0000-0002-5178-4170
   twitter: gkampmeier
 
+- name: "Adeline Kerner"
+  image: https://static.tdwg.org/conferences/2023/pc/kerner-adeline.jpg
+  description: >
+    _Center for Research on Palaeontology - Paris (UMR 7207: CNRS-MNHN-Sorbonne University), Paris, France._ Adeline is a paleontologist who divides her time between her very old sponges and descriptive models for identification keys. Recently named head of the piloting committee for the Xper3 platform, optimizing standards linked to taxa descriptions is becoming a key aspect of her daily work. She started coming to TDWG in 2016 in Costa Rica and this is her 1st year as a member of the program committee.
+  orcid: https://orcid.org/0000-0002-0101-8662
+  
 - name: "Kristen “Kit” Lewers"
   image: https://static.tdwg.org/conferences/2023/pc/lewers-kit.jpg
   description: >
     _Information Science and BioFrontiers Institute, University of Colorado Boulder, USA._ Kit is an interdisciplinary PhD student studying HCI (Human Computer Interaction) and IQ Bio (Interdisciplinary Quantitative Biology). She is also a member of the TAG (Technical Architecture Group) since 2022 where she works on projects related to standards and their lifecycle. For her HCI research, she focuses on how information overload impacts institutions grounded in big data (specifically looking at natural history and biocollections) mainly employing ethnographic(traditional + digital) and network science methods advised by Stephen Voida. Under the guidance of Orit Peleg in the BioFrontiers Institute, she studies North American firefly biodiversity, flash signals, and complex system science. She bridges her two interests through complex systems research, information ecosystem modeling, and biologically inspired information theory.
   orcid: https://orcid.org/0000-0003-0526-4075
 
-- name: "Daphne Hoh"
-  image: https://static.tdwg.org/conferences/2023/pc/hoh-daphne.jpg
+- name: "Julia Percy-Bower"
+  image: https://static.tdwg.org/conferences/2023/pc/percybower-julia.jpg
   description: >
-    _Taiwan Biodiversity Information Facility, Taipei, Taiwan._ Daphne has been trained as a marine biologist since completing her BSc and PhD studies. Her PhD research focused on fungal infection in sea turtle eggs, encompassing various aspects including analyzing pathogen genomics and assessing pathogenicity using high-throughput sequencing and bioinformatics approaches. She co-founded TurtleSpot Taiwan - a citizen science project dedicated to collecting sea turtle sightings for research. Recognizing the potential for generating large volumes of primary biodiversity data through her research, she became intrigued by Biodiversity Informatics and actively engaged herself in this field. She currently works as a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), focusing on evaluating national-level biodiversity data gaps.
-  orcid: https://orcid.org/0000-0002-7810-1034
-
+    _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ Julia is the Database Management Officer at the Western Australian Herbarium. She holds a BEnvSc from Murdoch University and has always had a passion for the natural world. Her current role involves specimen digitisation, data management of herbarium collections and taxon names, as well as specimen curation. This is Julia’s first year serving as a member of the TDWG program committee; she is also a member of SPNHC and the Australian Systematic Botany Society.
+  orcid: https://orcid.org/0000-0002-6041-2774
