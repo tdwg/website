@@ -4,6 +4,8 @@
   menu:
   - text: "Sessions"
     href: /conferences/2023/session-list/
+  - text: "Program committee"
+    href: /conferences/2023/program-committee/
 - text: "Registration"
   menu:
   - text: "Registration details"
