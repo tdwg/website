@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 11 July 2023_
+_Last updated 14 July 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -93,20 +93,6 @@ Topics of interest include:
 - AI-assisted biodiversity data mapping and standards alignment
 - AI-driven metadata management and ontology development for biodiversity data
 - Ethical and legal considerations in AI-assisted biodiversity data standardisation
-
-{:id="sym06"}
-### SYM06 Standards and automation for machine observations
-
-Session type
-: Symposium (open to outside abstract submissions)
-
-Organizers
-: Peter Desmet, Research Institute for Nature and Forest (INBO), Brussels, Brussels-Capital Region, Belgium, <peter.desmet@inbo.be>; Abby Benson, U.S. Geological Survey, Denver, Colorado, United States of America, <albenson@usgs.gov>; Peggy Newman, Atlas of Living Australia, Melbourne, Victoria, Australia, <peggy.newman@csiro.au>; Holger Dettki, Swedish Biodiversity Data Infrastructure (SBDI), Uppsala, Uppland, Sweden, <holger.dettki@slu.se>; Jonathan Pye, Ocean Tracking Network (OTN), Halifax, Nova Scotia, Canada, <jonpye@gmail.com>
-
-Machine observations can be defined as species occurrence records that are captured by an automated trigger or process. Such methods include camera traps, marine imaging, GPS loggers, acoustic telemetry, radar and other techniques that record spatial and non-spatial sensor data. They offer enticing opportunities for recording biodiversity rapidly, continuously, in detail and across broad spatial scales. The large data volumes and processing needs of these methods however require automated workflows (e.g., species identification) and appropriate data exchange formats. In this session, we want to learn about recent advancements in this domain and invite presentations on:
-
-1. Automated workflows from sensor capture to storage, from raw to processed species occurrence data
-2. Challenges and opportunities in sharing and publishing machine observations (e.g., data exchange formats, sensitive data)
 
 {:id="sym07"}
 ### SYM07 Ten Years of the Living Atlases
