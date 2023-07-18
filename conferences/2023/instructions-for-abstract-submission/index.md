@@ -11,6 +11,18 @@ toc: true
 
 _Last updated 18 July 2023_
 
+## Updates
+
+### Abstracts accepted
+
+Emails are being sent to each [submitting author](#submitting-author) (author names/emails are in the bcc so you won't see your name on the email) confirming acceptance of presentations at TDWG 2023. The editorial team and peer reviewers are working to [further assess abstracts and feedback](#how-does-the-editing-process-work) will be provided through a separate email from the ARPHA system requesting any corrections after the review. 
+
+You can see the [status of your abstract](#how-do-i-know-the-status-of-my-abstract) in ARPHA by logging in and checking your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22).  
+
+### Register for TDWG 2023
+
+Registration is now open for the conference [https://tdwg2023.zohobackstage.com.au/TDWG2023](https://tdwg2023.zohobackstage.com.au/TDWG2023) and _all presenters_ must be registered before their abstract will be published.  Early bird rates for in-person attendance expire 18 August.
+
 ## Getting started
 
 ### Introduction
@@ -213,7 +225,7 @@ If, at any time, you need further technical assistance, check the [Tips and tric
 
 ### How does the editing process work?
 
-Your abstract will be edited and reviewed for content and suitability as well as style and language by conference and session organizers and other volunteers. Once authors submit an abstract, the collection editors are notified about it, and they gain access to it. Once they evaluate it, and leave notes for its improvement (if any), they send feedback to the authors. At that point you—as the Submitting author—receive an automated notification from awt@pensoft.net, with access in editing mode to the abstract. After you coordinate the modifications with your co-authors, you can resubmit. This cycle can be reiterated as many times as needed, until the abstract is accepted, and ready to be submitted to the journal (to be published as is). Please wait for the system notification.
+Your abstract will be edited and reviewed for content and suitability as well as style and language. Once authors submit an abstract, the [editors](/conferences/2023/instructions-for-editors/#reviewer-roles) are notified about it, and they gain access to it. Once they evaluate it, and leave notes for its improvement (if any), the volume editors will send feedback to the authors. At that point you—as the Submitting author—receive an automated notification from awt@pensoft.net, with access in editing mode to the abstract. After you coordinate the modifications with your co-authors, you can resubmit. This cycle can be reiterated as many times as needed, until the abstract is accepted, and ready to be submitted to the journal (to be published as is). Please wait for the system notification.
 If, for some reason, your abstract is not accepted by the conference organizers under the collection (e.g., symposium) to which you submitted it, they will notify <editor@tdwg.org> for help in moving it elsewhere, if possible.
 
 ### What are the benefits of submitting a published abstract?
@@ -243,7 +255,7 @@ Regardless of email, if you are an author and need to credit a particular instit
 Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed under the My Manuscripts tab (text will be gray) on your dashboard. On the right of each manuscript, you can see the status. Note that only one person can work on an abstract at a time (either as authors or editors). If you are not actively working on a manuscript, please close the window to give others a chance to contribute. _Note:_ the dashboard may give misleading indications that someone is editing the manuscript. You can verify if this is true by clicking on the manuscript title.
 
 - **Draft** = authors have editing rights; editors see as read-only; authors must submit the abstract for review for the abstract to be released for editorial assessment.
-- **In pre-submission review** = authors see as read-only; technical editors are able to make changes to the abstract and add comments. Authors may see these updates but will not be able to make changes until editors release the abstract back to the authors using the `Send Feedback` button. Pressing the `Send Feedback` button returns the abstract to Draft mode so that authors may respond.
+- **In pre-submission review** = authors see as read-only; technical editors are able to make changes to the abstract and add comments. Authors may see these updates but will not be able to make changes until volume editors release the abstract back to the authors using the `Send Feedback` button. Pressing the `Send Feedback` button returns the abstract to Draft mode so that authors may respond.
 - Once your abstract has been **Approved**, the submitting author will need to **Submit to journal** and complete the final publication checklist (this consists of multiple screens; please be sure to follow it to the end). It then proceeds to **Layout** and is in a queue to be **Published**. **The final deadline for submission to the journal will be determined.** Make sure that the submitting author will be available until the process is complete.
 - If you fail to complete the final publication checklist, your abstract may be marked as **Incomplete submission**. You will get three automated warnings to remedy this before the system automatically buries/removes your submission from the publication queue.
 - Both authors and technical editors can send email (see icon near the top of the page) to co-authors and/or editors at any time during the pre-approval process, **this does not change the status of the manuscript.** _If you use this step, please fully reference your manuscript ID, the issue(s) and the person(s) you think should be responding to the email. The system sends individual emails out so no one receiving them knows who else is being asked to address your question. If in doubt, email <editor@tdwg.org> outside of the system instead.
