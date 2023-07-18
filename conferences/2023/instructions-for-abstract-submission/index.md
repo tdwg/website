@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 21 June 2023_
+_Last updated 18 July 2023_
 
 ## Getting started
 
@@ -222,7 +222,7 @@ See the 2021 Pensoft blog post, [_Not Your Typical Conference Abstract #TDWG2021
 
 ### I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?
 
-Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to ["How do I know the status of my abstract"](#how-do-i-know-the-status-of-my-abstract)) and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](/conferences/2023/session-list/) so they can prioritize providing you feedback, or email <editor@tdwg.org>.
+Don't worry--you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to ["How do I know the status of my abstract"](#how-do-i-know-the-status-of-my-abstract)) and should be sent back to you soon. If you have further questions or issues (e.g., you're going to be out of touch soon for a period of time), email the [organizers of your session](/conferences/2023/session-list/) so they can prioritize their part of the editing process, and cc <editor@tdwg.org> so they know to expedite providing feedback once reviews are completed.
 
 ### Where do I enter the state or province under address as an author?
 
