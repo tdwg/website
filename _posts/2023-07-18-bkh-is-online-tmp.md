@@ -3,7 +3,7 @@ title: Biodiversity Knowledge Hub is online!!!
 description: >
   Biodiversity Knowledge Hub is now online!
 background:
-  img: [https://bicikl-project.eu/storage/temp/public/imageresizecache/03b/e2c/560/03be2c560b5676887ed6a03e4339724f8439a0897db77ce786f93a7dea27289f.png]
+  img: https://bicikl-project.eu/storage/temp/public/imageresizecache/03b/e2c/560/03be2c560b5676887ed6a03e4339724f8439a0897db77ce786f93a7dea27289f.png
   href: https://bicikl-project.eu/media-center
 tags: [BiCIKL]
 ---
