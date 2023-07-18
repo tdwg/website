@@ -15,9 +15,9 @@ _Last updated 18 July 2023_
 
 ### Abstracts accepted
 
-Emails are being sent to each [submitting author](#submitting-author) (author names/emails are in the bcc so you won't see your name on the email) confirming acceptance of presentations at TDWG 2023. The editorial team and peer reviewers are working to [further assess abstracts and feedback](#how-does-the-editing-process-work) will be provided through a separate email from the ARPHA system requesting any corrections after the review. 
+Emails are being sent to each [submitting author](#submitting-author) (author names/emails are in the bcc so you won't see your name on the email) confirming acceptance of presentations at TDWG 2023. The editorial team and peer reviewers are working to [further assess abstracts and feedback](#how-does-the-editing-process-work) will be provided through a separate email from the ARPHA system requesting any corrections after the review, noting that you may not receive this until the end of July. 
 
-You can see the [status of your abstract](#how-do-i-know-the-status-of-my-abstract) in ARPHA by logging in and checking your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22).  
+You can see the [status of your abstract](#how-do-i-know-the-status-of-my-abstract) in ARPHA by logging in and checking your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22). [Still need help](#seeking-help)?
 
 ### Register for TDWG 2023
 
