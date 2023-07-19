@@ -9,13 +9,13 @@ background:
 toc: true
 ---
 
-_Last updated 2 July 2023_
+_Last updated 18 July 2023_
 
 ## Role of editors
 
 Thank you for volunteering to assess, review and/or edit abstracts submitted to your session. If you have participated in the reviewing process before, please note that this year's instructions have been substantially changed. Please read through them carefully. 
 
-Reviews will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform. Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author text and Comments to ask questions and make suggestions about content. [Session editors](#session-editors) will use **[flags](#understanding-flags)** but _will **not** send feedback to authors in ARPHA_. Only [volume editors](#volume-editors) will send feedback to authors. There is no separate narrative review. A single person will be identified within each group to serve as the [Session Coordinator](#session-coordinator) to organize the review process and track its progress in a Google spreadsheet.
+Reviews will be conducted in the [ARPHA](https://arpha.pensoft.net/) writing platform. Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author text and Comments to ask questions and make suggestions about content. [Session editors](#session-editors) will use **[flags](#understanding-flags)** to indicate status and actions to be taken regarding the abstract but _will **not** send feedback to authors in ARPHA_. Only [volume editors](#volume-editors) will send feedback to authors. _There is no separate narrative review._ A single person will be identified within each group to serve as the [Session Coordinator](#session-coordinator) to organize the review process and track its progress in a Google spreadsheet.
 
 It is your responsibility as editors (aka technical editors) to ensure the acceptance of only high quality, well-written abstracts that will enhance your session and the reputation of our organization, the conference, and this journal.
 
@@ -45,8 +45,11 @@ As session organizers, it is in your best interest to participate in the [prelim
 
 - May participate in one or both phases of abstract review:
   - [Preliminary assessment](#preliminary-assessment) of whether the abstract is within the scope of TDWG in general and your session in particular (must be completed by **15 July**).
-  - [Editorial review process](#editorial-review-process) is a detailed examination of the abstract for content and language (to be completed by **1 August**).
-- During the editorial review process, will suggest changes to wording using ARPHA’s [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) or [Comment](https://arpha.pensoft.net/tips/Comments) features. 
+  - [Editorial review process](#editorial-review-process) is a detailed examination of the abstract for content and language (to be completed by **1 August**). Please begin this process as soon as the preliminary assessment is complete.
+- During the editorial review process, suggest changes to wording using ARPHA’s [Track Changes](https://arpha.pensoft.net/tips/Track-Changes) or [Comment](https://arpha.pensoft.net/tips/Comments) features.
+  - Using these tools on the abstract itself is a way that we can track what has been suggested and its resolution by authors.
+  - If you have a general question or comment, highlight a small piece of text and attach a comment to it
+  - Use Track Changes to correct grammar, spelling, or style. The author can then accept or reject these changes as appropriate.
 - Use [flags](#understanding-flags) in ARPHA to mark assessment and editing progress
 - Will **not** use the `Send feedback` button despite what the email from Pensoft indicates.
 - Address editing tasks promptly to enable maximum time and flexibility for dealing with authors.
@@ -59,6 +62,7 @@ As session organizers, it is in your best interest to participate in the [prelim
 - May participate as a session editor in the assessment and/or review process.
 - Keeps the Abstract Tracking spreadsheet (ATS) up-to-date (link provided separately). 
 - Uses the ATS to fill in the **order of presentation by 15 August** for the session as it will appear in the conference program.
+- Works with Session organizers to identify & record programming requirements or contingencies (see ATS row 1 merged columns J-P)
 - Notifies the volume editors <editor@tdwg.org> with issues meeting timelines or a lack of session reviewers qualified for any part of the review. 
 - Identifies [conflicts of interest](#conflicts-of-interest) and works to resolve them.
 - Helps ensure that presenters register promptly for the conference. 
