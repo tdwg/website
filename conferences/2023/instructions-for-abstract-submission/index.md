@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 18 July 2023_
+_Last updated 24 July 2023_
 
 ## Updates
 
@@ -190,6 +190,8 @@ The organizers (technical editors) may accept or reject your submission, or may 
 Editors may have used **[track changes](https://arpha.pensoft.net/tips/Track-Changes)** and/or written comments that need to be addressed. Accept or reject suggestions and use comments as necessary to further communicate your actions. If you have immediate editorial questions, please email <editor@tdwg.org> and reference the ARPHA ID of your abstract in the subject line.
 
 Once you have addressed (i.e., accepted or rejected) any Track Changes (the next / previous buttons will disappear) and resolved the comments, please press the `Validate` button to make sure that all issues have been cleared up. If your manuscript does not validate (i.e., there is more than the number of characters listed), please try to resolve outstanding issues. Sometimes these issues are linked to the source for correcting them; sometimes not. If you are stumped, first try closing the abstract window and going back in; if you still can't find the issue, contact the journal help desk (using feedback icon in top banner) or email <editor@tdwg.org> with the ARPHA# and screen capture or description of your issue.
+
+**Everything set?** Hit the `Submit for technical review` button and it should show that it is in read-only mode. Refreshing the browser window of your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22), you should see that it is once again "in pre-submission review."
 
 Your manuscript may require more than one cycle of revision so please address communications promptly. 
 
