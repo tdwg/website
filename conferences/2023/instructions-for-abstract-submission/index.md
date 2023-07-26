@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 24 July 2023_
+_Last updated 26 July 2023_
 
 ## Updates
 
@@ -17,7 +17,7 @@ _Last updated 24 July 2023_
 
 Emails are being sent to each [submitting author](#submitting-author) (author names/emails are in the bcc so you won't see your name on the email) confirming acceptance of presentations at TDWG 2023. The editorial team and peer reviewers are working to [further assess abstracts and feedback](#how-does-the-editing-process-work) will be provided through a separate email from the ARPHA system requesting any corrections after the review, noting that you may not receive this until the end of July. 
 
-You can see the [status of your abstract](#how-do-i-know-the-status-of-my-abstract) in ARPHA by logging in and checking your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22). [Still need help](#seeking-help)?
+You can see the [status of your abstract](#how-do-i-know-the-status-of-my-abstract) in ARPHA by logging in and checking your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22). See [ARPHA-related FAQs](#arpha-related-faqs) for answers to many questions as well as [what to do](#feedback-and-revisions) when your abstract is returned to you for revisions. [Still need help](#seeking-help)?
 
 ### Register for TDWG 2023
 
@@ -136,7 +136,7 @@ Make sure this is filled in with `TDWG 2023` (no more, no less)
 
 **Acronyms and abbreviations.** The first mention of acronyms or abbreviations (including institutional/organizational acronyms and country abbreviations) in the abstract or figure/table legends must be spelled out (exceptions: 3D, API, DNA, RNA, GIS, HTML, WWW, URL, URI, XML, RDF, JPG, TIF, TIFF, PDF).
 
-**Hyperlinks.** Consider [embedding hyperlinks](https://arpha.pensoft.net/tips/Insert-Hyperlinks) or [adding endnotes](https://arpha.pensoft.net/tips/Endnotes) to give recognition to institutions and clarify concepts that will help readers to appreciate more fully the topic you are presenting. This can be especially helpful for jargon. Be mindful of persistence (not having future users find broken links) and irrelevant advertising if you choose to do this.
+**Hyperlinks & endnotes.** Consider [embedding hyperlinks](https://arpha.pensoft.net/tips/Insert-Hyperlinks) or [adding](https://arpha.pensoft.net/tips/Endnotes) and [citing endnotes](https://arpha.pensoft.net/tips/Cite-Endnotes) in your text to give recognition to institutions and clarify concepts that will help readers to appreciate more fully the topic you are presenting. This can be especially helpful for jargon. Do not show URLs as part of the abstract text (e.g., in parentheses). Be mindful of persistence (not having future users find broken links) and irrelevant advertising if you choose to do this.
 
 **Need help** with linguistics or other opinions about your abstract by non-authors? You may [invite contributors](https://arpha.pensoft.net/tips/Invite-contributors) to _Edit & comment_ or _Comment only_ within the manuscript. You may also email <editor@tdwg.org> for help.
 
@@ -183,13 +183,13 @@ While your abstract is in pre-submission review, you may see the work of various
 
 ## Feedback and revisions
 
-The organizers (technical editors) may accept or reject your submission, or may send feedback requesting (more) changes, and/or indicate that your abstract is being moved to a different collection or format (e.g., oral to poster) for programming reasons.
+The organizers (technical editors) may accept or reject your submission, or may send feedback requesting (more) revisions, and/or indicate that your abstract is being moved to a different collection or format (e.g., oral to poster) for programming reasons.
  
-**Draft** (again): if a submission is returned to you for changes, its status will return to _Draft_. Only you and other authors with editing or commenting privileges will have access to the abstract until you make or respond to changes requested and send it back for technical review. 
+**Draft** (again): if a submission is returned to you for changes, its status will return to _Draft_. Only you and other authors with editing or commenting privileges will have access to the abstract until you make or respond to changes requested and send it back for technical review. Only the submitting author will receive email notification from awt@pensoft.net.
 
-Editors may have used **[track changes](https://arpha.pensoft.net/tips/Track-Changes)** and/or written comments that need to be addressed. Accept or reject suggestions and use comments as necessary to further communicate your actions. If you have immediate editorial questions, please email <editor@tdwg.org> and reference the ARPHA ID of your abstract in the subject line.
+Editors may have used **[track changes](https://arpha.pensoft.net/tips/Track-Changes)** to suggest wording/grammatical/orthographical changes made during the editing/review process. Accept or reject suggestions already in Track Changes and make changes the text in response to comments provided by the editors. While you may justify _not_ changing your text in a follow-up comment, all others should be resolved (click `resolved` box) and changes made to your text. If you have immediate editorial questions, please email <editor@tdwg.org> and reference the ARPHA ID of your abstract in the subject line.
 
-Once you have addressed (i.e., accepted or rejected) any Track Changes (the next / previous buttons will disappear) and resolved the comments, please press the `Validate` button to make sure that all issues have been cleared up. If your manuscript does not validate (i.e., there is more than the number of characters listed), please try to resolve outstanding issues. Sometimes these issues are linked to the source for correcting them; sometimes not. If you are stumped, first try closing the abstract window and going back in; if you still can't find the issue, contact the journal help desk (using feedback icon in top banner) or email <editor@tdwg.org> with the ARPHA# and screen capture or description of your issue.
+Once you have addressed (i.e., accepted or rejected) all of the Track Changes (the editing ribbon with next / previous buttons will disappear; see also [issues](#why-does-it-think-i-still-have-track-changes)) and resolved all closed comments (leave open comments without resolution or where you have provided a justification for not taking actions requested by the editors), please press the `Validate` button to make sure that all issues have been cleared up. If your manuscript does not validate (i.e., headings are pink and there is more than the number of characters listed), please try to resolve outstanding issues. Sometimes these issues are linked to the source for correcting them; sometimes not. If you are stumped, first try refreshing your browser window or closing it and going back in; if you still can't find the issue, contact the journal help desk (using feedback icon in top banner) or email <editor@tdwg.org> with the ARPHA# and screen capture or description of your issue.
 
 **Everything set?** Hit the `Submit for technical review` button and it should show that it is in read-only mode. Refreshing the browser window of your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22), you should see that it is once again "in pre-submission review."
 
@@ -230,9 +230,9 @@ If, at any time, you need further technical assistance, check the [Tips and tric
 Your abstract will be edited and reviewed for content and suitability as well as style and language. Once authors submit an abstract, the [editors](/conferences/2023/instructions-for-editors/#reviewer-roles) are notified about it, and they gain access to it. Once they evaluate it, and leave notes for its improvement (if any), the volume editors will send feedback to the authors. At that point you—as the Submitting author—receive an automated notification from awt@pensoft.net, with access in editing mode to the abstract. After you coordinate the modifications with your co-authors, you can resubmit. This cycle can be reiterated as many times as needed, until the abstract is accepted, and ready to be submitted to the journal (to be published as is). Please wait for the system notification.
 If, for some reason, your abstract is not accepted by the conference organizers under the collection (e.g., symposium) to which you submitted it, they will notify <editor@tdwg.org> for help in moving it elsewhere, if possible.
 
-### What are the benefits of submitting a published abstract?
+### Why does it think I still have track changes?
 
-See the 2021 Pensoft blog post, [_Not Your Typical Conference Abstract #TDWG2021_](https://blog.pensoft.net/2021/07/13/not-your-typical-conference-abstract-tdwg2021/) (note that links refer to the 2021 conference, not the current one)
+Lots of times it's something small (e.g., a comma). Use the Next and Previous button in the Track Changes dialog to pinpoint what you may have missed. Sometimes though it's a quirk of ARPHA (e.g., you added a reference while Track Changes was on and some of the text is green). Put your cursor in the middle of the text and then click Accept in the track changes menu.
 
 ### I see feedback and corrections to make in my abstract, but I don't have access. Did I do something wrong?
 
@@ -271,6 +271,10 @@ It is possible that you have more than one ARPHA account under different emails.
 Another possibility is that the ARPHA platform has automatically archived your abstract due to prolonged inactivity (does so after three ignored email warnings). You will need to notify Pensoft to retrieve such an abstract from this fate. Please make sure all communications include an article identifier (ID#) in the subject line. When it is returned, it will be in Draft mode and you will need to need to [submit for technical review](#submit-for-technical-review). Editors are not able to work on or accept a manuscript in Draft status.
 
 Otherwise, communicate with the help desk (use the feedback icon located in the top banner of your abstract) to try to resolve technical issues or with <editor@tdwg.org> or <conf-organizers@tdwg.org> for content/meeting-related questions.
+
+### What are the benefits of submitting a published abstract?
+
+See the 2021 Pensoft blog post, [_Not Your Typical Conference Abstract #TDWG2021_](https://blog.pensoft.net/2021/07/13/not-your-typical-conference-abstract-tdwg2021/) (note that links refer to the 2021 conference, not the current one)
 
 ### Where will I find published abstracts?
 
