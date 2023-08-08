@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Taxonomic Concept Schema (TCS) Maintenance Group
+title: Taxon Concept Schema (TCS) Maintenance Group
 description: >
   The TCS maintenance group is responsible for maintaining the various components of the TCS standard. That includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. 
 github: https://github.com/tdwg/tnc
