@@ -14,7 +14,7 @@ toc: true
 
 _Last updated 10 July 2023_
 
-## Conference website<br />now live!
+## Conference website now live!
 
 The conference website, including online registration, is now live!  Find more complete information about the venue, accommodations, traveling to Australia, visa requirements, etc.  
 
