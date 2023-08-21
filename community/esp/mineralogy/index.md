@@ -11,12 +11,11 @@ toc: true
 
 ## Conveners
 
-- [Ben Norton](mailto:ben.norton@naturalsciences.org) (Head of Technology, Collections Data Curator, and Collections Manager of Mineralogy) - North Carolina Museum of Natural Sciences, Raleigh, NC, USA
+- [Ben Norton](mailto:michaelnorton.ben@gmail.com)
 - [Dr. Rachel Walcott](mailto:R.Walcott@nms.ac.uk) (Principal Curator, Earth Systems) - National Museums, Scotland
 
 ## Core members
 
-- [Alexis Beck](mailto:Alexis.Beck@ville-ge.ch) (IT Specialist) - Natural History Museum of Geneva, Switzerland
 - [Thomas Burri](mailto:thomas.burri@nmbe.ch) (Research Associate, Mineralogy and Petrography) - Natural History Museum Bern, Switzerland
 - [Nicolas Greber](mailto:Nicolas.Greber@ville-ge.ch) (Professor for Geochemistry) - Natural History Museum of Geneva, Switzerland
 - [Olle Hints](mailto:olle.hints@taltech.ee) (Director, Department of Geology) - Tallinn University of Technology, Estonia
