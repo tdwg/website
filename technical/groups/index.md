@@ -33,7 +33,7 @@ Some examples of tasks are: develop a new standard, revise an existing standard,
 
 Once the convener and Interest Group are in agreement about the task, the formation of the task group is similar to what was described in the section above. The [template for Task Group charters](https://static.tdwg.org/documents/templates/TDWG_Task_Group_Charter_Template_03.doc) can be used as a basis for writing the charter. Before submitting the charter to the Executive Committee for approval, the sponsoring Interest Group should sign off on it. In particular, the Interest Group should make sure that the proposed tasks and timeline are reasonable and within the scope of the Interest Group. 
 
-For next steps, see [Running an Task Group](../task/)
+For next steps, see [Running a Task Group](../task/)
 
 ----
 Revised 2023-08-19
