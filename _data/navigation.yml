@@ -83,3 +83,26 @@
     href: /about/contact/
 - text: "News"
   href: /news/
+- text: Technical
+  menu:
+  - text: "Leading standards development"
+  - text: Interest or task group?
+    href: /technical/groups/
+  - text: Running an interest group
+    href: /technical/interest/
+  - text: Running a task group
+    href: /technical/task/
+  - text: "---"
+  - text: "Techical reference"
+  - text: Technical recommendations
+    href: /technical/recommendations/
+  - text: Accessing standards metadata
+    href: http://rs.tdwg.org/index
+  - text: Vocabulary translations
+    href: https://tdwg.github.io/rs.tdwg.org/translations/
+  - text: "---"
+  - text: "Utility vocabularies"
+  - text: Controlled vocabulary for booleans
+    href: https://tdwg.github.io/tag/boolean/
+  - text: tdwgutility vocabulary
+    href: http://rs.tdwg.org/dwc/terms/attributes/
