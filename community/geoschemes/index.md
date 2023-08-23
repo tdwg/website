@@ -15,6 +15,8 @@ toc: true
 - [Francisco Pando](mailto:pando@rjb.csic.es) - Real Jardín Botánico-CSIC, Madrid, Spain
 - [Nicolas Bailly](mailto:n.bailly@q-quatics.org) - FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver, Canada
 - [Visotheary Ung](mailto:visotheary.ung@mnhn.fr) - ISYEB, CNRS/Muséum national d’Histoire Naturelle, Paris, France
+- [Serge Gofas](mailto:sgofas@uma.es) - Universidad de Málaga, Málaga, Spain
+- [Britt Lonneville](mailto:britt.lonneville@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
 
 ## Potential users and stakeholders
 
