@@ -1,5 +1,5 @@
 ---
-title: Running an Task Group
+title: Running a Task Group
 background:
   img: https://images.unsplash.com/photo-1509715513011-e394f0cb20c4
   by: Alex Guillaume
@@ -7,7 +7,7 @@ background:
 toc: true
 ---
 
-## Running an Task Group
+## Running a Task Group
 
 TDWG is an open, consensus-driven organization. So Task Group (TG) meetings should be open to all and publicised to the community.
 
