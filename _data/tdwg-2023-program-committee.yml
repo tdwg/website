@@ -19,11 +19,6 @@
   orcid: 0000-0002-4852-2567
   twitter: vijaybarve
 
-- name: "María Mora Cross"
-  image: https://static.tdwg.org/conferences/2023/pc/mora-maria.jpg
-  description: >
-    _Costa Rica Institute of Technology (ITCR), Alajuela._ María is a computer scientist with more than 30 years of experience in biodiversity informatics. She is a faculty member at the Computer Science Department of the ITCR since 2017. From 1993 to 2015, she worked at the Biodiversity Informatics Program of the National Biodiversity Institute (INBio) where she had the opportunity to lead national and international biodiversity informatics projects. Her research interests include biodiversity informatics, natural language processing, and machine learning.
-  
 - name: "Chandra Earl"
   image: https://static.tdwg.org/conferences/2023/pc/earl-chandra.jpg
   description: >
@@ -50,12 +45,23 @@
     _Center for Research on Palaeontology - Paris (UMR 7207: CNRS-MNHN-Sorbonne University), Paris, France._ Adeline is a paleontologist who divides her time between her very old sponges and descriptive models for identification keys. Recently named head of the piloting committee for the Xper3 platform, optimizing standards linked to taxa descriptions is becoming a key aspect of her daily work. She started coming to TDWG in 2016 in Costa Rica and this is her 1st year as a member of the program committee.
   orcid: https://orcid.org/0000-0002-0101-8662
   
+- name: "Niels Klazenga"
+  image: https://static.tdwg.org/conferences/2023/pc/klazenga-niels.jpg
+  description: >
+    _Royal Botanic Gardens Victoria, Melbourne, Australia._ Niels Klazenga is Biodiversity Informatics Developer at the Royal Botanic Gardens Victoria. He has played a major role in the implementation of Specify as the collections database for the National Herbarium of Victoria (MEL) and in the Australasian Virtual Herbarium (AVH) and is the creator of VicFlora, the online flora of Victoria, and KeyBase, a system to manage and disseminate traditional pathway keys. Niels’s background and true calling is in bryophyte systematics and he currently leads the TDWG Taxon Concept Schema (TCS) Maintenance Group and TCS 2 Task Group.
+  orcid: 0000-0003-2224-6821
+
 - name: "Kristen “Kit” Lewers"
   image: https://static.tdwg.org/conferences/2023/pc/lewers-kit.jpg
   description: >
     _Information Science and BioFrontiers Institute, University of Colorado Boulder, USA._ Kit is an interdisciplinary PhD student studying HCI (Human Computer Interaction) and IQ Bio (Interdisciplinary Quantitative Biology). She is also a member of the TAG (Technical Architecture Group) since 2022 where she works on projects related to standards and their lifecycle. For her HCI research, she focuses on how information overload impacts institutions grounded in big data (specifically looking at natural history and biocollections) mainly employing ethnographic(traditional + digital) and network science methods advised by Stephen Voida. Under the guidance of Orit Peleg in the BioFrontiers Institute, she studies North American firefly biodiversity, flash signals, and complex system science. She bridges her two interests through complex systems research, information ecosystem modeling, and biologically inspired information theory.
   orcid: https://orcid.org/0000-0003-0526-4075
 
+- name: "María Mora Cross"
+  image: https://static.tdwg.org/conferences/2023/pc/mora-maria.jpg
+  description: >
+    _Costa Rica Institute of Technology (ITCR), Alajuela._ María is a computer scientist with more than 30 years of experience in biodiversity informatics. She is a faculty member at the Computer Science Department of the ITCR since 2017. From 1993 to 2015, she worked at the Biodiversity Informatics Program of the National Biodiversity Institute (INBio) where she had the opportunity to lead national and international biodiversity informatics projects. Her research interests include biodiversity informatics, natural language processing, and machine learning.
+  
 - name: "Julia Percy-Bower"
   image: https://static.tdwg.org/conferences/2023/pc/percy-bower-julia.jpg
   description: >
