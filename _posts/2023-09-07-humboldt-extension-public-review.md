@@ -13,7 +13,7 @@ The members of the Darwin Core Maintenance Group are happy to announce the openi
 
 Please refer to the documentation we have provided on the [review process and the maintenance of the Darwin Core standard](https://github.com/tdwg/dwc/wiki/Darwin-Core-Maintenance-Frequently-Asked-Questions).
 
-The relevant issues for commentary on terms are listed in the following milestone: https://github.com/tdwg/hc/milestone/1. Any other comments not related to the individual terms can be added by creating a [new issue](https://github.com/tdwg/hc/issues/new?milestone=Public+Review+Humboldt+Extension+Task+Group+proposals).
+The relevant issues for commentary on terms are listed in the following milestone: [https://github.com/tdwg/hc/milestone/1](https://github.com/tdwg/hc/milestone/1). The best entry point into the Humboldt Extension Vocabulary Enhancement and accompanying documentation, some of which forms part of the standard, is its [landing page](https://tdwg.github.io/hc/). Any comments not related to the individual terms can be added by creating a [new issue](https://github.com/tdwg/hc/issues/new?milestone=Public+Review+Humboldt+Extension+Task+Group+proposals).
 
 Your comments are welcome and important for the evolution of the Darwin Core standard and its extensions.
 
