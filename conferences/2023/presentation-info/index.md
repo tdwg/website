@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 10 September 2023_
+_Last updated 11 September 2023_
 
 ## Overview
 
@@ -75,4 +75,4 @@ All presenters registered as students will be automatically entered into a compe
 
 ## Featured plenary or keynote speakers
 
-Three keynote speakers will present talks in plenary during the conference. Their abstracts are published [here](https://biss.pensoft.net/collection/429/).
+Four keynote speakers will present talks in plenary during the conference. Their abstracts are published [here](https://biss.pensoft.net/collection/429/).
