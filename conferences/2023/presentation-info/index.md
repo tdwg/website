@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 11 September 2023_
+_Last updated 12 September 2023_
 
 ## Overview
 
@@ -71,7 +71,7 @@ Posters should be uploaded as PDF files. Presenters may also provide a short vid
 
 ## Student competition
 
-All presenters registered as students will be automatically entered into a competition for best student presentations made at TDWG. Students’ oral contributions will be evaluated based on several criteria, namely Context, Originality and Approach, Completeness, Depth of Knowledge and Performance. Presentations will be scored by at least two independent judges and scores will be tallied following the final presentation. The presentations with the highest overall score will be the winners. Award winners will be announced at the Conference Closing Session (13 October 2023). See also [Instructions for speakers](https://docs.google.com/document/d/1kZ7V_0B-yGX0K67Ur-_T7Sq4iEKmFRc4PYu_pCnyBqk/edit?usp=sharing). If you do not wish to be entered into the competition, please email <conf-organizers@tdwg.org>.
+All presenters registered as students (undergraduate and post-graduate) will be automatically entered into a competition for best student presentations made at TDWG. Students’ oral contributions will be evaluated based on several criteria, namely Context, Originality and Approach, Completeness, Depth of Knowledge and Performance. Presentations will be scored by at least two independent judges and scores will be tallied following the final presentation. The presentation with the highest overall score will be the winner, announced at the Conference Closing Session (13 October 2023). See also [Instructions for speakers](https://docs.google.com/document/d/1kZ7V_0B-yGX0K67Ur-_T7Sq4iEKmFRc4PYu_pCnyBqk/edit?usp=sharing). If you do not wish to be entered into the competition, please email <conf-organizers@tdwg.org>.
 
 ## Featured plenary or keynote speakers
 
