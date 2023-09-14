@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Presenting at TDWG 2023? See instructions & deadline of 1 October for pre-recorded presentations.
+    Presenting at TDWG 2023? See instructions & deadline of 1 October to upload pre-recorded presentations.
   href: https://tdwg2023.zohobackstage.com.au/TDWG2023#/presentationinfo
   img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
 ---
