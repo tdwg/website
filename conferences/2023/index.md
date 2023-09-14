@@ -12,7 +12,7 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_Last updated 10 July 2023_
+_Last updated 14 September 2023_
 
 ## Conference website now live!
 
@@ -24,12 +24,13 @@ At least some information is available in eight languages (see menu, top right).
 
 ## Deadlines
 
-- **Early bird registration ends 18 August 2023.**
+- **Pre-recorded presentations due 1 October.** See [Presentation information](/conferences/2023/presentation-info/)
 
 ### Expired deadlines
 
 - [Call for proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions) closed 15 April 2023.
 - [Call for abstracts](/conferences/2023/call-for-abstracts/) closed 1 July 2023.
+- Early bird registration ended 18 August 2023
 
 ## Registration
 
