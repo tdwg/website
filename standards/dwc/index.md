@@ -81,7 +81,7 @@ What is not in scope?
 
 ## Parts of the standard
 
-This standard is comprised of 5 vocabularies and 11 documents.
+This standard is comprised of 5 vocabularies and 10 documents.
 
 Vocabularies:
 
