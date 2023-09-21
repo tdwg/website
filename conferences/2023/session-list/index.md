@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 14 July 2023_
+_Last updated 20 September 2023_
 
 <!-- ## Keynote speakers -->
 
@@ -179,7 +179,7 @@ Session type
 : Symposium (closed to outside abstract submissions)
 
 Organizers
-: Donat Agosti, Plazi, Bern, BE, Switzerland, <agosti@plazi.org>; Laurence Bénichout, CETAF / Muséum national d'Histoire naturelle, Paris, Île de France, France, <laurence.benichou@mnhn.fr>; Lyubomir Penev, Pensoft Ltd., Sofia, Sofia, Bulgaria, <lyubo.penev@gmail.com>
+: Donat Agosti, Plazi, Bern, BE, Switzerland, <agosti@plazi.org>; Laurence Bénichou, CETAF / Muséum national d'Histoire naturelle, Paris, Île de France, France, <laurence.benichou@mnhn.fr>; Lyubomir Penev, Pensoft Ltd., Sofia, Sofia, Bulgaria, <lyubo.penev@gmail.com>
 
 A goal of natural history institutions is contributing to the understanding of biodiversity and disseminating this knowledge by becoming scientific publishers. Through this, they joined the growing field of scholarly publishing established in 1665 by the Journal des sçavans to publish work from the sciences. One of the characteristics of scientific publishing is to cite previous works and thus linking existing knowledge with new discoveries. To provide access to the growing corpus of publications, libraries began to index individual works. With the advent of the digital age, full text search and text and data mining provide access to the content using machines analysing large corpora of works. The development of the semantic web enabled creating a knowledge graph. A typical example is the growth of knowledge related to a species, including synonyms, cited specimens, figures or DNA sequences. During this symposium the state and recent developments of biodiversity publishing, linking and providing increased access to data by [Pensoft](https://pensoft.net/), [CETAF](https://cetaf.org/)-publishing group, [MNHN Paris](https://www.mnhn.fr/en), [Plazi](https://plazi.org/) and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/), including over 50 journals in a semantic enhanced format, and supported by a series of projects ([BiCIKL](https://bicikl-project.eu/), [eBioDiv](https://ebiodiv.org/), [Arcadia fund](https://www.arcadiafund.org.uk/), [MétoSTeM](https://www.ouvrirlascience.fr/metostem-2/)) will be discussed.
 
