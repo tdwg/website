@@ -12,7 +12,7 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_Last updated 14 September 2023_
+_Last updated 22 September 2023_
 
 ## Conference website now live!
 
@@ -25,6 +25,8 @@ At least some information is available in eight languages (see menu, top right).
 ## Deadlines
 
 - **Pre-recorded presentations due 1 October.** See [Presentation information](/conferences/2023/presentation-info/)
+- **Poster presentations due 1 October**
+- **Slides for in-person and streaming presentations due 7 October**
 
 ### Expired deadlines
 
