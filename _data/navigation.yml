@@ -7,6 +7,9 @@
   href: /community/
 - text: "Conferences"
   menu:
+  - text: "Conferences"
+    href: /conferences/
+  - text: "---"
   - text: "2023 - Hobart, Australia"
     href: /conferences/2023/
   - text: "2022 - Sofia, Bulgaria"
