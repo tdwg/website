@@ -107,11 +107,9 @@ Organizers
 : Rukaya Johaadien, GBIF Norway, University of Oslo, Oslo, Norway, <rukayaj@gmail.com>; Michal Torma, GBIF Norway, University of Oslo, Oslo, Norway, <michal.torma@nhm.uio.no>; Kit Lewers, BioFrontiers Institute, and CUMNH (University of Colorado Boulder), Boulder, Colorado, United States of America, <kristen.lewers@colorado.edu>
 
 Where & When
-: Sovereign, Monday 9 October 1700–1830 AEDT SYM05.1 ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.1&iso=20231009T17&p1=396&ah=1&am=30))
-
-Sovereign, Tuesday 10 October 1630–1830 AEDT SYM05.2 ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.2&iso=20231010T1630&p1=396&ah=2))
-
-Sovereign, Thursday 12 October 1630–1815 AEDT SYM05.3 ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.3&iso=20231012T1630&p1=396&ah=1&am=45))
+: SYM05.1 Sovereign, Monday 9 October 1700–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.1&iso=20231009T17&p1=396&ah=1&am=30))
+SYM05.2 Sovereign, Tuesday 10 October 1630–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.2&iso=20231010T1630&p1=396&ah=2))
+SYM05.3 Sovereign, Thursday 12 October 1630–1815 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.3&iso=20231012T1630&p1=396&ah=1&am=45))
 
 Biodiversity data standardisation is an ongoing process with many challenges. Recently launched artificial intelligence (AI)-driven Large Language Models (LLMs) such as [ChatGPT-4](https://openai.com/product/gpt-4) have a new and unprecedented potential to contribute to the development/improvement of biodiversity data standards and the processes of standardisation. This is because, as LLMs are scaled, they reach critical levels where new abilities emerge suddenly and unpredictably. It is this emergent nature of LLMs, which has been fuelling the exponential jumps in their usage that we have seen over the past few months. By leveraging the new power of these AI language models, we can analyse and understand large amounts of biodiversity data, identify patterns and relationships, and derive insights that can improve our data standards and standardisation processes.
 
@@ -134,6 +132,9 @@ Session type
 Organizers
 : Peggy Newman, Atlas of Living Australia, Melbourne, Victoria, Australia, <Peggy.Newman@csiro.au>; Javier Molina, Atlas of Living Australia, Melbourne, Victoria, Australia, <Javier.Molina@csiro.au>; Vicente J. Ruiz Jurado, GBIF.es and LA Community, Bimenes, Asturias, Spain, <vjrj@gbif.es>; Anne-Sophie Archambeau,  IRD/PatriNat/GBIF France, Paris, Ile de France, France, <archambeau@gbif.fr>; Francisco Pando, Real Jardín Botánico - CSIC, Madrid, Comunidad de Madrid, Spain, <pando@gbif.es>; Sophia Ratcliffe, NBN Atlas, United Kingdom, <s.ratcliffe@nbn.org.uk> 
 
+Where & When
+: Marina, Thursday 12 October 1630–1815 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM07&iso=20231012T1630&p1=396&ah=1&am=45))
+
 The [Living Atlases](https://living-atlases.gbif.org/) community has grown and developed since 2013 by building national biodiversity data portals using open source software based on the Atlas of Living Australia ([ALA](https://www.ala.org.au/)). As the software evolves in collaboration with the Global Biodiversity Informatics Facility ([GBIF](https://www.gbif.org/)), and each platform seeks to address its own regional challenges, the Living Atlas portals have diverged into several permutations of architectural components. The pandemic has limited opportunity for workshops and in-person contact the community previously enjoyed.
 
 For the first time after a long hiatus, we would like to invite participants in the Living Atlas community to meet face-to-face in Australia and share their experiences in a series of lightning talks and a roundtable discussion. Lightning talks should outline the current data portal architecture, works in progress and priorities for each platform. The ensuing moderated discussion will be an opportunity to raise issues and opportunities related to the software, and also discuss future innovation and collaboration pathways.
@@ -147,6 +148,10 @@ Session type
 Organizers
 : Tobias Guldberg Frøslev, Global Biodiversity Information Facility, Copenhagen, Denmark, <tfroeslev@gbif.org>; Saara Suominen, Ocean Biodiversity Information System, Amsterdam, Netherlands, <s.suominen@unesco.org>; Veronika Johansson, Swedish Museum of Natural History, Stockholm, Sweden, <Veronika.Johansson@nrm.se>; Dag Endresen, Natural History Museum, Olso, Norway, <dag.endresen@nhm.uio.no>; Dmitry Schigel, Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark, <dschigel@gbif.org>; Tim Robertson, Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark, <trobertson@gbif.org>; Matthias Obst, University of Gothenburg, Sweden, <matthias.obst@marine.gu.se>; Anders Andersson, SciLifeLab, Sweden, <anders.andersson@scilifelab.se>
 
+Where & When
+: SYM08.1 Sovereign, Thursday 12 October 0930–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM08.1&iso=20231012T0930&p1=396&ah=1))
+SYM08.2 Sovereign, Thursday 12 October 1100–1230 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM08.2&iso=20231012T11&p1=396&ah=1&am=30))
+
 Metabarcoding of DNA is becoming a standard tool for detecting species in bulk samples or environmental samples such as soil, water, and air. In the name of reproducibility, raw sequence data (fastq files), code and metadata files are most often shared and deposited in dedicated repositories within the International Nucleotide Sequence Database Collaboration, GitHub, and in generalist repositories such as Dryad and Zenodo. However, seen from a biodiversity perspective, raw sequences have narrower applications compared to the interpreted DNA metabarcoding data. Most often such interpretations come in the shape of a table with sequence abundances of Amplicon Sequence Variants or Operational Taxonomic Units across samples – a so-called ASV/OTU-table – and some associated files, e.g., spatiotemporal and other sample metadata, and taxonomic inferences of sequences. In most cases these are at best part of the supplementary materials, and unfortunately rarely shared in a standardised way that facilitates reuse and integration of DNA data with other data types and data layers, and across studies. In this session we will present and invite presentations on improving, promoting, and assisting FAIR publication and standardisation of biodiversity data (OTU-table-like data) for easier and broader reuse, and integration with other biodiversity data and data layers.
 
 {:id="sym09"}
@@ -158,6 +163,9 @@ Session type
 Organizers
 : Walter G. Berendsohn, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <w.berendsohn@bo.berlin>; Markus Döring, GBIF Secretariat, Copenhagen, Denmark <mdoering@gbif.org>; Andreas Müller, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.mueller@bo.berlin>; Anton Güntsch, Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Berlin, Germany, <a.guentsch@bo.berlin>
 
+Where & When
+: Sovereign, Thursday 12 October 1430–1600 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM09&iso=20231012T1430&p1=396&ah=1&am=30))
+
 Numerous local, regional and global information systems are using taxon names in fields ranging from biology, ecology and conservation to government provisions and medical applications. We know that scientific names of organisms do not provide a “unique identifier” for a taxon, because the taxon’s circumscription represents a scientific hypothesis and thus is subject to change. Nevertheless, names provide the glue that allows for information gathering and access across systems. Although scientific names are governed by strict codes of nomenclature, numerous variants of names exist. The taxonomic community is increasingly aware of this fact and several initiatives exist to sort out the latter issue. Globally unique identifiers for names and their variants play a central role allowing machines to support that task, and to conserve the results of the data cleaning actions. Name matching services are a tool to disperse GUIDs (Globally Unique Identifiers) to local users. One of the tasks of the EU [TETTRIs](https://tettris.eu/) project is to document and enhance these processes in order to establish functional workflows for the mapping of local taxonomies. The symposium will invite presentations and lightning talks to publicise existing services and persistent GUID systems with a special focus on long-term sustainability of the services.
 
 {:id="sym10"}
@@ -168,6 +176,9 @@ Session type
 
 Organizers
 : Chuck Cook, Global Biodata Coalition, Strasbourg, Alsace, France, <ccook@globalbiodata.org>; Kathryn Hall, University of Queensland, Brisbane, Queensland, Australia, <Kathryn.Hall@csiro.au>; Jeff Christiansen, Australian BioCommons, Brisbane, Queensland, Australia, <jeff@biocommons.org.au>
+
+Where & When
+: Sovereign, Monday 9 October 1500–1630 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM10&iso=20231009T15&p1=396&ah=1&am=30))
 
 Life science data resources are numerous, distributed and variously interconnected (or not), forming a singular, and arguably the largest, infrastructure for global biological research. These resources are critical for guaranteeing reproducibility and integrity for life sciences research, including biodiversity studies. Sustainably funding this disseminated infrastructure is a key challenge: the Global Biodata Coalition ([GBC](https://globalbiodata.org/)) is working with the funders who support many of these resources to ensure long-term funding for existing infrastructure, while also channelling support to underpin future growth in data volumes and new technologies.
 
@@ -184,6 +195,9 @@ Session type
 Organizers
 : Francisco Pando, GBIF Spain / CSIC, Madrid, Spain, <pando@gbif.es>; William Ulate, Missouri Botanical Garden, St. Louis, Missouri, United States of America, <william_ulate_r@yahoo.com>
 
+Where & When
+: Gretel, Thursday 12 October 1100–1230 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM11&iso=20231012T11&p1=396&ah=1&am=30))
+
 Most scientific questions as well and those related to conservation, policy or other societal challenges connected with the environment, cannot be approached on the basis of biodiversity data alone, but require other data types such as climate, soil, and land use. In this symposium we aim to bring together projects and use cases that, by combining biodiversity data with other types, produce visualizations, analyses or models.
 
 We expect presentations to highlight methodological aspects such as data standards, or techniques to make different data sources work together to render coherent results. Projects focused on portals or Virtual Research Environments may fit especially well in this symposium.
@@ -199,6 +213,10 @@ Session type
 Organizers
 : Olaf Bánki, Catalogue of Life, Amsterdam, Noord Holland, Netherlands, <olaf.banki@sp2000.org>; Thomas Orrell, ITIS/Smithsonian Institution, Washington DC, United States of America, <Orrellt@si.edu>; Donald Hobern, Species 2000, Canberra, Australian Capital Territory, Australia, <donald.hobern@sp2000.org>
 
+Where & When
+: SYM12.1 Gretel, Monday 9 October 1130–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM12.1&iso=20231009T1130&p1=396&ah=1&am=30))
+SYM12.2 Marina, Monday 9 October 1500–1630 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM12.2&iso=20231009T15&p1=396&ah=1&am=30))
+
 Major improvements have been made in listing the world’s known species. The Catalogue of Life ([COL](https://www.catalogueoflife.org/)) Checklist now contains over 2,1 million species. The COL data infrastructure and services were recently rebuilt in collaboration with [GBIF](https://gbif.org/). This resulted in [ChecklistBank](https://www.checklistbank.org/), an open global repository for publishing and sharing taxonomic and nomenclatural datasets (>45,000 datasets, mostly mediated through [Plazi](https://plazi.org/)).
 Despite these global efforts, COL is not perfect. There are data gaps (incompleteness), weak spots in several taxonomic groups (outdated data), data types that are challenging to integrate (e.g., paleodata) and a considerable time lag in being up-to-date with published literature.
 Every day, taxonomists continue to publish new scientific names and refine our understanding of the world’s species. What is the role of taxonomic editing tools, such as those offered by [WoRMS](https://www.marinespecies.org/), [ITIS](https://www.itis.gov/), [TaxonWorks](https://taxonworks.org/), [WFO](http://www.worldfloraonline.org/), [EDIT](https://cybertaxonomy.org/) in managing and publishing data? Do we have commonly agreed taxonomic standards in place? To guarantee the highest confidence in data, we are in need of a transparent and consistent data quality assurance and data quality control mechanism from the creation of taxonomic data, to the data publishing, to the delivery into taxonomic data products and the global list of known species.
@@ -212,6 +230,9 @@ Session type
 Organizers
 : Donat Agosti, Plazi, Bern, BE, Switzerland, <agosti@plazi.org>; Laurence Bénichou, CETAF / Muséum national d'Histoire naturelle, Paris, Île de France, France, <laurence.benichou@mnhn.fr>; Lyubomir Penev, Pensoft Ltd., Sofia, Sofia, Bulgaria, <lyubo.penev@gmail.com>
 
+Where & When
+: Gretel, Thursday 12 October 1630–1815 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM13&iso=20231012T1630&p1=396&ah=1&am=45))
+
 A goal of natural history institutions is contributing to the understanding of biodiversity and disseminating this knowledge by becoming scientific publishers. Through this, they joined the growing field of scholarly publishing established in 1665 by the Journal des sçavans to publish work from the sciences. One of the characteristics of scientific publishing is to cite previous works and thus linking existing knowledge with new discoveries. To provide access to the growing corpus of publications, libraries began to index individual works. With the advent of the digital age, full text search and text and data mining provide access to the content using machines analysing large corpora of works. The development of the semantic web enabled creating a knowledge graph. A typical example is the growth of knowledge related to a species, including synonyms, cited specimens, figures or DNA sequences. During this symposium the state and recent developments of biodiversity publishing, linking and providing increased access to data by [Pensoft](https://pensoft.net/), [CETAF](https://cetaf.org/)-publishing group, [MNHN Paris](https://www.mnhn.fr/en), [Plazi](https://plazi.org/) and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/), including over 50 journals in a semantic enhanced format, and supported by a series of projects ([BiCIKL](https://bicikl-project.eu/), [eBioDiv](https://ebiodiv.org/), [Arcadia fund](https://www.arcadiafund.org.uk/), [MétoSTeM](https://www.ouvrirlascience.fr/metostem-2/)) will be discussed.
 
 {:id="sym14"}
@@ -222,6 +243,9 @@ Session type
 
 Organizers
 : Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com>; Arjan Basu Roy, Nature Mates Nature Club, Kolkata, West Bengal, India, <naturemates@gmail.com>; Daphne Hoh, Taiwan Biodiversity Information Facility, Taipei, Taiwan, <daphnehohzhiwei@gmail.com>
+
+Where & When
+: Marina, Thursday 12 October 1430–1600 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM14&iso=20231012T1430&p1=396&ah=1&am=30))
 
 The Asian continent is one of the most biodiverse regions in the world, boasting a diverse range of ecosystems and a multitude of endemic species. Biodiversity informatics plays a crucial role in conserving and understanding this richness. In this context, a growing community of practitioners in Asia is continuously developing new tools, technologies, and data-sharing platforms to support the study and conservation of biodiversity.
 
@@ -235,6 +259,9 @@ Session type
 
 Organizers
 : Vijay Barve, Natural History Museum of Los Angeles County, Los Angeles, California, USA, <vijay.barve@gmail.com>; Tomer Gueta, The Steinhardt Museum of Natural History, Tel Aviv, Israel <tomergu@tauex.tau.ac.il>
+
+Where & When
+: Marina, Monday 9 October 1700–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM15&iso=20231009T17&p1=396&ah=1&am=30))
 
 Taxonomy is the foundation of biodiversity research and informatics. However, managing taxonomic data can be challenging due to the complexities specific to each taxonomic group and management of names with different codes of nomenclature.
 
@@ -253,6 +280,9 @@ Session type
 Organizers
 : James Macklin, Agriculture and Agri-Food Canada, Ottawa, Ontario, Canada, <james.macklin@agr.gc.ca>; David Shorthouse, Agriculture and Agri-Food Canada, Ottawa, Ontario, Canada, <david.shorthouse@agr.gc.ca>; Falko Glöckler, Museum für Naturkunde Berlin, Berlin, Germany, <falko.gloeckler@mfn.berlin> 
 
+Where & When
+: Marina, Tuesday 10 October 0900–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM16&iso=20231010T09&p1=396&ah=1&am=30))
+
 There is renewed interest in a circular flow of annotations among and between isolated sources of biodiversity data, lately called data “round-tripping”. The structure and package for these annotations has assumed various new forms such as Frictionless Data, JATS XML, or nanopublications, but the fundamental principles and challenges remain unchanged.  Someone (or something) (1) has a valuable enhancement to make elsewhere from the source where original data or information are generated or transcribed; (2) wishes to broadcast these statements to the originator and to others who may benefit; and (3) expects persistence, discoverability, and attribution for their contributions alongside the source. Digital Extended Specimens must provide an answer to these socio-technical desires. This likewise puts pressure on collections management systems to quickly respond with functional integrations or risk being disconnected from the accumulation of valuable annotations. Besides the very obvious need for globally unique, persistent, resolvable identifiers for shared objects and concepts, we likewise require a universally consistent way to package and shuttle annotations that are sufficiently informative for a data curator to confidently make a decision. We look to the Web Annotation Working Group, Filtered Push, AnnoSys, Hypothes.is and their champions for guidance. Here, we propose a survey on what annotation frameworks and standards are presently in use in collections management systems for data objects, shared concepts, and the links among them, especially those that reach beyond the walls of a local, isolated system. We encourage contributors to reveal strengths, shortcomings, and challenges with the aims of reinvigorating the [Annotations Interest Group](https://www.tdwg.org/community/annotations/) and providing leadership through actionable recommendations. 
 
 
@@ -266,6 +296,9 @@ Session type
 
 Organizers
 : Quentin Groom, Meise Botanic Garden, Meise, Vlaams-Brabant, Belgium, <quentin.groom@plantentuinmeise.be>;  Olaf Banki, Species 2000 / Catalogue of Life, Amsterdam, , Netherlands, <olaf.banki@sp2000.org>; Patrick Ruch, HES-SO, Carouge, Geneva, Switzerland, <patrick.ruch@hesge.ch>; Wouter Addink, Naturalis Biodiversity Center, Leiden, Netherlands, <wouter.addink@naturalis.nl>; Lyubomir Penev, Pensoft Publishers, Sofia, Bulgaria, <l.penev@pensoft.net>; Donat Agosti, Plazi,  Bern, Switzerland, <agosti@plazi.org>
+
+Where & When
+: Sovereign, Tuesday 10 October 1100–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=DEM01&iso=20231010T11&p1=396&ah=2))
 
 We will demonstrate tools and infrastructure from the [BiCIKL](https://bicikl-project.eu/) project to find and establish links between entities. These include:
 - Infrastructure to create and manage machine actionable persistent identifiers (PIDs) for digital specimens. This allows the creation and annotation of digital specimens as new actionable objects on the internet, which provide a surrogate for physical specimens.
@@ -285,6 +318,9 @@ Session type
 Organizers
 : Lee Belbin, Blatant Fabrications Pty Ltd, Hobart, Tasmania, Australia, <leebelbin@gmail.com>; Arthur Chapman, Australian Biodiversity Information Services, Ballan, Victoria, Australia, <biodiv_2@achapman.org> 
 
+Where & When
+: Gretel, Monday 9 October 1130–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=PD01&iso=20231009T1130&p1=396&ah=1&am=30))
+
 The [Tests and Assertions Task Group](https://www.tdwg.org/community/bdq/tg-2/) has been working on a standard for testing fitness for  use for over five years. To get to this point, we acknowledge and value the high level of skill and perseverance of the core team: Arthur Chapman, John Wieczorek, Paul Morris, and Lee Belbin. The project has been epic in many ways.
 
 We have come a long way, primarily in erecting a set of 99 'tests' and associated specifications. We are most comfortable with the specifications as they provide a concise yet comprehensive framework for understanding the tests, implementing them and adding new domain specific tests as required. At the time of writing, minor refinements are evolving as a result of implementing the outstanding tests and running our test data against the implementation.
@@ -301,6 +337,9 @@ Session Type
 
 Organizer
 : Robert Mesibov, West Ulverstone, Australia, <robert.mesibov@gmail.com> 
+
+Where & When
+: Gretel, Tuesday 10 October 1100–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WKSH01&iso=20231010T11&p1=396&ah=2))
 
 Quality tests for Darwin Core tables are mostly checks within individual fields:
 
@@ -336,6 +375,9 @@ Session type
 Organizers
 : Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., Washington D.C., United States of America, <LittleH@si.edu>; David Fichtmueller, Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>
 
+Where & When
+: Marina, Tuesday 10 October 1100–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WKSH02&iso=20231010T11&p1=396&ah=2))
+
 To gain critical background for participating in this workshop, please attend the [associated symposium](#sym02) that will introduce this topic, looking at existing mappings, technical approaches, and identifying missing mappings.
 
 This workshop offers a hands-on approach to explore options for contributing to mappings, to provide input on the expected process, and to gather the needs and requirements from the community. Participation will be possible both in person and virtually.
@@ -348,6 +390,9 @@ Session type
 
 Organizers
 : Cameron Slatyer, Atlas of Living Australia, Canberra, ACT, Australia, <cam.slatyer@csiro.au>; Andrew Rodrigues, Global Biodiversity Information Facility, Copenhagen, Hovedstaden, Denmark, <arodrigues@gbif.org>; Tania Laity, tania.laity@csiro.au, Canberra, ACT, Australia, <tania.laity@csiro.au>
+
+Where & When
+: Gretel, Monday 9 October 1700–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WKSH03&iso=20231009T17&p1=396&ah=1&am=30))
 
 The growth of biodiversity data aggregators and citizen science projects over the past two decades has led to an exponential expansion in the application of big data to conservation assessment and biodiversity research. Subsequently, expectations that biodiversity data should be made available have risen, as has the recognition of the challenges of both releasing and not releasing sensitive species data.
  
@@ -364,6 +409,9 @@ Session type
 Organizers
 : Kathryn Hall, Australian Reference Genome Atlas (ARGA) - Atlas of Living Australia, Australian BioCommons and Bioplatforms Australia, with the Australian Research Data Commons, Canberra, ACT, Australia, <kathryn.hall@csiro.au>
 
+Where & When
+: Gretel, Thursday 12 October 1430–1600 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WKSH04&iso=20231012T1430&p1=396&ah=1&am=30))
+
 Fundamental to the work of the Australian Reference Genome Atlas ([ARGA](https://arga.org.au/)) project has been the attempt to standardise the way in which we ingest and handle genomics data. Not all data are equal: single locus data is very different from whole genome annotations. As our work has progressed, we have identified a number of fields that are common across all of the records we are indexing, and useful subsets that pertain to specific data-types, many of which are amenable to the development of additional vocabularies. We would like to invite the TDWG community to join with us for an extended working session to work out the details of some of the extensions that we would like to propose adding to the genomics extensions blocks. We would welcome any feedback on the work we have done and also welcome the contributions of others who are developing standards and controlled vocabularies in this space. By the end of the session, we plan to submit some new standards and vocabularies for further consideration and refinement by the community.
 
 {:id="unconf"}
@@ -374,5 +422,8 @@ Session type
 
 Organizers
 : Abigail Benson, U.S. Geological Survey, Lakewood, CO, USA, <albenson@usgs.gov>; Dimitri Brosens, Flemish Research Institute for Nature and Forest, Brussels, Belgium <dimitri.brosens@inbo.be>; Shelley James, Western Australia Dept. of Biodiversity Conservation and Attractions, Kensington, WA, Australia <shelley.james@dbca.wa.gov.au>; Deborah Paul, Illinois Natural History Survey, Prairie Research Institute, University of Illinois, Champaign, IL, USA <dlpaul@illinois.edu>
+
+Where & When
+: Gretel, Friday 13 October 1030–1230 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Unconference&iso=20231013T1030&p1=396&ah=2))
 
 TDWG attendees will have the opportunity to take control of the conference programme to engage in unbridled open participant-driven discussion, demonstration and debate. Do you have a topic you want to discuss but haven’t seen it in any of the sessions? Did one of the sessions spark an idea for you and you want to explore it further? Have recent events spurred subjects you want to talk about with other TDWG folks? Do you have an application idea or analysis you want to explore with others? If so, then the unconference is for you and we want you to propose your ideas. What topics need deeper discussion and exploration? The unconference is a place to collaborate, discover, explore and take a deep dive into emerging topics of interest.
