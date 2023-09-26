@@ -27,9 +27,26 @@ The latest schedule (agenda) is posted on the [conference site](https://tdwg2023
 
 ## Contributed oral presentations
 
-This category reflects a broad range of author-submitted topics that are not part an organized session. Six sessions will be featured during the conference, one entirely consisting of virtual presenters.
+Organizers
+: Niels Klazenga, Royal Botanic Gardens Victoria, Melbourne, Australia <Niels.Klazenga@rbg.vic.gov.au>; Stan Blum, TDWG Secretariat, San Francisco, CA, USA <stanblum@gmail.com>; Visotheary Ung, Institut de Systématique, Evolution, Biodiversité (ISYEB), CNRS-MNHN-SU-EPHE-PSL-UA, Paris, France <visotheary.ung@mnhn.fr>; María Auxiliadora Mora Cross, Costa Rica Institute of Technology (ITCR), Alajuela, Costa Rica, <mariamoracross@gmail.com>; Maxim Shashkov; Daphne Hoh, Taiwan Biodiversity Information Facility, Taipei, Taiwan, <daphnehohzhiwei@gmail.com>
+
+**Where & When:**
+ - CO1 Gretel, Tuesday 10 October 0900–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CO1&iso=20231010T09&p1=396&ah=1&am=30))
+ - CO2 Gretel, Tuesday 10 October 1630–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CO2&iso=20231010T1630&p1=396&ah=2))
+ - CO3 Marina, Thursday 12 October 0930–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CO3&iso=20231012T0930&p1=396&ah=1))
+ - CO4 Gretel, Thursday 12 October 0930–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CO4&iso=20231012T0930&p1=396&ah=1))
+ - CO5 Gretel, Monday 9 October 1500–1630 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CO5&iso=20231009T15&p1=396&ah=1&am=30))
+ - CO6 Sovereign, Friday 13 October 0900–1015 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CO6&iso=20231013T09&p1=396&ah=1&am=15))
+
+This category reflects a broad range of author-submitted topics that are not part a symposium. Six sessions will be featured during the conference, one entirely consisting of virtual presenters. 
 
 ## Posters
+
+Organizers
+: Julia Percy-Bower, Western Australian Herbarium, Perth, Australia, <julia.percy-bower@dbca.wa.gov.au>; Visotheary Ung, Institut de Systématique, Evolution, Biodiversité (ISYEB), CNRS-MNHN-SU-EPHE-PSL-UA, Paris, France, <visotheary.ung@mnhn.fr>; María Auxiliadora Mora Cross, Costa Rica Institute of Technology (ITCR), Alajuela, Costa Rica, <mariamoracross@gmail.com>
+
+Where & When
+: Gretel, Friday 13 October 0900–1015 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Posters&iso=20231013T09&p1=396&ah=1&am=15))
 
 All those submitting poster abstracts will be required to create a virtual poster and will have the option to upload a short video to accompany it. There is no space for physical posters at the conference.
 
@@ -106,10 +123,10 @@ Session type
 Organizers
 : Rukaya Johaadien, GBIF Norway, University of Oslo, Oslo, Norway, <rukayaj@gmail.com>; Michal Torma, GBIF Norway, University of Oslo, Oslo, Norway, <michal.torma@nhm.uio.no>; Kit Lewers, BioFrontiers Institute, and CUMNH (University of Colorado Boulder), Boulder, Colorado, United States of America, <kristen.lewers@colorado.edu>
 
-Where & When
-: SYM05.1 Sovereign, Monday 9 October 1700–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.1&iso=20231009T17&p1=396&ah=1&am=30))
-SYM05.2 Sovereign, Tuesday 10 October 1630–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.2&iso=20231010T1630&p1=396&ah=2))
-SYM05.3 Sovereign, Thursday 12 October 1630–1815 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.3&iso=20231012T1630&p1=396&ah=1&am=45))
+**Where & When:**
+ - SYM05.1 Sovereign, Monday 9 October 1700–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.1&iso=20231009T17&p1=396&ah=1&am=30))
+ - SYM05.2 Sovereign, Tuesday 10 October 1630–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.2&iso=20231010T1630&p1=396&ah=2))
+ - SYM05.3 Sovereign, Thursday 12 October 1630–1815 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.3&iso=20231012T1630&p1=396&ah=1&am=45))
 
 Biodiversity data standardisation is an ongoing process with many challenges. Recently launched artificial intelligence (AI)-driven Large Language Models (LLMs) such as [ChatGPT-4](https://openai.com/product/gpt-4) have a new and unprecedented potential to contribute to the development/improvement of biodiversity data standards and the processes of standardisation. This is because, as LLMs are scaled, they reach critical levels where new abilities emerge suddenly and unpredictably. It is this emergent nature of LLMs, which has been fuelling the exponential jumps in their usage that we have seen over the past few months. By leveraging the new power of these AI language models, we can analyse and understand large amounts of biodiversity data, identify patterns and relationships, and derive insights that can improve our data standards and standardisation processes.
 
@@ -148,9 +165,9 @@ Session type
 Organizers
 : Tobias Guldberg Frøslev, Global Biodiversity Information Facility, Copenhagen, Denmark, <tfroeslev@gbif.org>; Saara Suominen, Ocean Biodiversity Information System, Amsterdam, Netherlands, <s.suominen@unesco.org>; Veronika Johansson, Swedish Museum of Natural History, Stockholm, Sweden, <Veronika.Johansson@nrm.se>; Dag Endresen, Natural History Museum, Olso, Norway, <dag.endresen@nhm.uio.no>; Dmitry Schigel, Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark, <dschigel@gbif.org>; Tim Robertson, Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark, <trobertson@gbif.org>; Matthias Obst, University of Gothenburg, Sweden, <matthias.obst@marine.gu.se>; Anders Andersson, SciLifeLab, Sweden, <anders.andersson@scilifelab.se>
 
-Where & When
-: SYM08.1 Sovereign, Thursday 12 October 0930–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM08.1&iso=20231012T0930&p1=396&ah=1))
-SYM08.2 Sovereign, Thursday 12 October 1100–1230 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM08.2&iso=20231012T11&p1=396&ah=1&am=30))
+**Where & When:**
+ - SYM08.1 Sovereign, Thursday 12 October 0930–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM08.1&iso=20231012T0930&p1=396&ah=1))
+ - SYM08.2 Sovereign, Thursday 12 October 1100–1230 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM08.2&iso=20231012T11&p1=396&ah=1&am=30))
 
 Metabarcoding of DNA is becoming a standard tool for detecting species in bulk samples or environmental samples such as soil, water, and air. In the name of reproducibility, raw sequence data (fastq files), code and metadata files are most often shared and deposited in dedicated repositories within the International Nucleotide Sequence Database Collaboration, GitHub, and in generalist repositories such as Dryad and Zenodo. However, seen from a biodiversity perspective, raw sequences have narrower applications compared to the interpreted DNA metabarcoding data. Most often such interpretations come in the shape of a table with sequence abundances of Amplicon Sequence Variants or Operational Taxonomic Units across samples – a so-called ASV/OTU-table – and some associated files, e.g., spatiotemporal and other sample metadata, and taxonomic inferences of sequences. In most cases these are at best part of the supplementary materials, and unfortunately rarely shared in a standardised way that facilitates reuse and integration of DNA data with other data types and data layers, and across studies. In this session we will present and invite presentations on improving, promoting, and assisting FAIR publication and standardisation of biodiversity data (OTU-table-like data) for easier and broader reuse, and integration with other biodiversity data and data layers.
 
@@ -213,9 +230,9 @@ Session type
 Organizers
 : Olaf Bánki, Catalogue of Life, Amsterdam, Noord Holland, Netherlands, <olaf.banki@sp2000.org>; Thomas Orrell, ITIS/Smithsonian Institution, Washington DC, United States of America, <Orrellt@si.edu>; Donald Hobern, Species 2000, Canberra, Australian Capital Territory, Australia, <donald.hobern@sp2000.org>
 
-Where & When
-: SYM12.1 Gretel, Monday 9 October 1130–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM12.1&iso=20231009T1130&p1=396&ah=1&am=30))
-SYM12.2 Marina, Monday 9 October 1500–1630 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM12.2&iso=20231009T15&p1=396&ah=1&am=30))
+**Where & When:**
+ - SYM12.1 Gretel, Monday 9 October 1130–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM12.1&iso=20231009T1130&p1=396&ah=1&am=30))
+ - SYM12.2 Marina, Monday 9 October 1500–1630 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM12.2&iso=20231009T15&p1=396&ah=1&am=30))
 
 Major improvements have been made in listing the world’s known species. The Catalogue of Life ([COL](https://www.catalogueoflife.org/)) Checklist now contains over 2,1 million species. The COL data infrastructure and services were recently rebuilt in collaboration with [GBIF](https://gbif.org/). This resulted in [ChecklistBank](https://www.checklistbank.org/), an open global repository for publishing and sharing taxonomic and nomenclatural datasets (>45,000 datasets, mostly mediated through [Plazi](https://plazi.org/)).
 Despite these global efforts, COL is not perfect. There are data gaps (incompleteness), weak spots in several taxonomic groups (outdated data), data types that are challenging to integrate (e.g., paleodata) and a considerable time lag in being up-to-date with published literature.
