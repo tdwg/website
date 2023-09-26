@@ -9,17 +9,29 @@ background:
 toc: true
 ---
 
-_Last updated 20 September 2023_
+_Last updated 26 September 2023_
 
-<!-- ## Keynote speakers -->
+The latest schedule (agenda) is posted on the [conference site](https://tdwg2023.zohobackstage.com.au/TDWG2023#/agenda?lang=en). Note that by default all times are local to Hobart, Tasmania but the time zone may be changed to match your location. On this page, clicking on the word "convert" with provide a localized time/date for each session cited. Note that for some sessions, this will mean not only a different time, but a different day for virtual attendees.
+
+## Keynote speakers
+
+[Four keynote speakers](https://tdwg2023.zohobackstage.com.au/TDWG2023#/speakers) will be featured at this year's conference, all presenting in Sovereign:
+
+- **Jess Melbourne-Thomas** will speak at the opening session on Monday 9 October 9:30 AM (AEDT) ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keynote+-+Melbourne-Thomas&iso=20231009T0930&p1=396&am=45)) on "A Standardized, Large-Scale Ecosystem Assessment for the Southern Ocean and the Underpinning Role of Biodiversity Data" Abstract: [https://doi.org/10.3897/biss.7.110481](https://doi.org/10.3897/biss.7.110481)
+
+- **Maui Hudson** will also be featured in the opening session on Monday 9 October 10:15 AM (AEDT) ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keynote+-+Hudson&iso=20231009T1015&p1=396&am=45)) on "Recognising Indigenous Provenance in Biodiversity Records" Abstract: [https://doi.org/10.3897/biss.7.112610](https://doi.org/10.3897/biss.7.112610) 
+
+- **Tim Sherratt** will speak Tuesday 10 October at 3:00 PM (AEDT) ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keynote+-+Sherratt&iso=20231010T15&p1=396&ah=1)) on "What Can You Do with 200 million Newspaper Articles: Exploring GLAM data in the humanities" Abstract: [https://doi.org/10.3897/biss.7.112935](https://doi.org/10.3897/biss.7.112935)
+
+- **Arthur Chapman** will wrap up the week on Friday 13 October at 2:00 PM (AEDT) ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keynote+-+Arthur+Chapman&iso=20231013T14&p1=396&am=45)) with "Why do we do what we do?" Abstract: [https://doi.org/10.3897/biss.7.111751](https://doi.org/10.3897/biss.7.111751)
 
 ## Contributed oral presentations
 
-This category reflects a broad range of author-submitted topics that are not part an organized session. Multiple sessions are anticipated.
+This category reflects a broad range of author-submitted topics that are not part an organized session. Six sessions will be featured during the conference, one entirely consisting of virtual presenters.
 
 ## Posters
 
-All those submitting poster abstracts will be required to create a virtual poster and will have the option to upload a short video to accompany it. At this time, the availability of space for printed posters has yet to be determined.
+All those submitting poster abstracts will be required to create a virtual poster and will have the option to upload a short video to accompany it. There is no space for physical posters at the conference.
 
 ## Symposia
 
@@ -32,6 +44,9 @@ Session type
 Organizers
 : Erin Roger, Atlas of Living Australia, Sydney, NSW, Australia, <erin.roger@csiro.au>; Andrew Turley, Atlas of Living Australia, Brisbane, Queensland, Australia, <andrew.turley@csiro.au> 
 
+Where & When
+: Marina, Thursday 12 October 1100–1230 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM01&iso=20231012T11&p1=396&ah=1&am=30))
+
 Evaluating and understanding the distribution and spread of pests, weeds and diseases through collation of data and big data analytics is a critical need for biosecurity systems globally. Biosecurity efforts aim to prevent, eradicate or mitigate impacts from pests and diseases, but prevention and effective responses to threats are only possible if reliable data is available for surveillance, risk analysis, response modelling and informed decision making. Efforts are currently hampered by limited findability, accessibility, and interoperability of biosecurity data. In addition, data is often fragmented across multiple platforms as well as socially, among program leaders, participants, researchers, and managers. Issues with ontology and data standardisation are also challenges, and inconsistent taxonomy further compounds these issues. This session will explore global case studies that examine the practices and pathways that facilitate better access to biosecurity data. Participants will engage with best practice, lessons learned, and concrete tools that they can use in their programs. We aim to strengthen both the cooperation and transfer of experiences between industry, research, community and government, and present solutions to current biosecurity data challenges.
 
 {:id="sym02"}
@@ -42,6 +57,9 @@ Session type
 
 Organizers
 : David Fichtmueller, Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany, <d.fichtmueller@bgbm.org>; Holly Little, National Museum of Natural History, Smithsonian Institution, Washington D.C., United States of America, <LittleH@si.edu>; Mareike Petersen, Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, <Mareike.Petersen@mfn.berlin>
+
+Where & When
+: Sovereign, Tuesday 10 October 0900–1030 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM02&iso=20231010T09&p1=396&ah=1&am=30))
  
 TDWG offers a large variety of standards, covering many aspects of geo- and biodiversity sciences. Each standard has its own purpose and area of focus, but there are always conceptual overlaps between them. Being able to systematically express and document those overlaps in the form of mappings is important for their interoperability, e.g., when merging data from different sources given in different standards. Mappings also help people who are familiar with one standard to better understand other standards with which they are less accustomed. 
 
@@ -60,6 +78,9 @@ Session type
 Organizers
 : Adeline Kerner, Center for Research on Palaeontology - Paris (UMR 7207: CNRS-MNHN-Sorbonne University), Paris, France, <kerner@mnhn.fr>; Sophie Pamerlon, Patrinat (OFB - MNHN - CNRS - IRD), GBIF France, Paris, France, <pamerlon@gbif.fr>
 
+Where & When
+: Marina, Tuesday 10 October 1630–1830 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM03&iso=20231010T1630&p1=396&ah=2))
+
 The identification and description of species and other taxa are the fundamental basis for every biodiversity study. Descriptive data takes a number of very different forms, more or less complete, structured or not, standardized or heterogenous. The importance of a standard for this data has been crucial since the beginnings of TDWG. To address this, following the Description Language for Taxonomy ([DELTA](https://www.tdwg.org/standards/delta/); ratified in 1986), the [SDD](https://www.tdwg.org/standards/sdd/) (Structured Descriptive Data) was ratified in 2005. Since then, a rapid growth and increasing quantities of computerized descriptive data is observed. In parallel, the techniques and languages to collect and manage them have evolved considerably with, for instance, AI (Artificial Intelligence), ontologies, text mining, and annotation. New platforms are developed, with some still using and adapting the SDD, and others not. It is critical in a FAIR (Findable, Accessible, Interoperable, and Reusable) data context to maintain models for sharing descriptive data that are structured enough to become knowledge, allowing comparison, identification, data-mining and application of analysis tools. In this session, we will review the existing models and discuss how to evolve the standard around the structuration of taxonomic descriptions.
 
 {:id="sym04"}
@@ -71,6 +92,9 @@ Session type
 Organizers
 : Abby Benson, U.S. Geological Survey, Denver, Colorado, United States of America, <albenson@usgs.gov>; Stephen Formel, U.S. Geological Survey, New Orleans, Louisiana, United States of America, <sformel@usgs.gov>; Peggy Newman, Atlas of Living Australia, Melbourne, Victoria, Australia, <peggy.newman@csiro.au>
 
+Where & When
+: Sovereign, Monday 9 October 1130–1300 AEDT ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM04&iso=20231009T1130&p1=396&ah=1&am=30))
+
 The CARE Principles (Collective Benefit, Authority to Control, Responsibility, and Ethics) for Indigenous data governance  provide an important framework for ensuring that Indigenous and marginalized communities have control over the data they collect, data where they are the subject, or data collected in their territories (Carroll et al. 2020). Implementing the CARE Principles, alongside the FAIR Principles (Findable, Accessible, Interoperable, and Reusable), can minimize harm and maximize benefits to Indigenous and marginalized communities by accommodating past power and decision-making imbalances in the use of data. The data management community has an ethical responsibility to protect the intellectual rights of Indigenous knowledge holders. The entire biodiversity community would benefit from giving apt recognition to past and present power differentials between colonising and Indigenous cultures in data and knowledge exchange. This session will present the CARE principles and give examples of how they have been implemented around the world. We seek to increase our understanding of how CARE is being implemented, create a space for discussing approaches for applying CARE to biodiversity data, and bolster our ability to support Indigenous data sovereignty.
 
 {:id="sym05"}
@@ -81,6 +105,13 @@ Session type
 
 Organizers
 : Rukaya Johaadien, GBIF Norway, University of Oslo, Oslo, Norway, <rukayaj@gmail.com>; Michal Torma, GBIF Norway, University of Oslo, Oslo, Norway, <michal.torma@nhm.uio.no>; Kit Lewers, BioFrontiers Institute, and CUMNH (University of Colorado Boulder), Boulder, Colorado, United States of America, <kristen.lewers@colorado.edu>
+
+Where & When
+: Sovereign, Monday 9 October 1700–1830 AEDT SYM05.1 ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.1&iso=20231009T17&p1=396&ah=1&am=30))
+
+Sovereign, Tuesday 10 October 1630–1830 AEDT SYM05.2 ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.2&iso=20231010T1630&p1=396&ah=2))
+
+Sovereign, Thursday 12 October 1630–1815 AEDT SYM05.3 ([convert](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SYM05.3&iso=20231012T1630&p1=396&ah=1&am=45))
 
 Biodiversity data standardisation is an ongoing process with many challenges. Recently launched artificial intelligence (AI)-driven Large Language Models (LLMs) such as [ChatGPT-4](https://openai.com/product/gpt-4) have a new and unprecedented potential to contribute to the development/improvement of biodiversity data standards and the processes of standardisation. This is because, as LLMs are scaled, they reach critical levels where new abilities emerge suddenly and unpredictably. It is this emergent nature of LLMs, which has been fuelling the exponential jumps in their usage that we have seen over the past few months. By leveraging the new power of these AI language models, we can analyse and understand large amounts of biodiversity data, identify patterns and relationships, and derive insights that can improve our data standards and standardisation processes.
 
