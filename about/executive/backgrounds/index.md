@@ -59,11 +59,6 @@ I strongly believe that standards are essential to improve biodiversity data sha
 ## Treasurer
 
 OPEN
-<!-- 
-**Background**
-
-**Vision**
--->
 
 ## Subcommittee chairs
 
@@ -85,15 +80,6 @@ My first priority is to refine the organizational and documentation infrastructu
 ### Fundraising and Partnerships
 
 OPEN
-<!--
-**Background**
-
-
-
-**Vision**
-
-
--->
 
 ### Infrastructure
 
@@ -113,7 +99,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Outreach and Communications
 
-[**Mareike Petersen**](https://orcid.org/0000-0001-8666-1931) - Museum für Naturkunde Berlin
+[**Mareike Petersen**](https://orcid.org/0000-0001-8666-1931) - Museum für Naturkunde, Berlin
 
 **Background**
 
@@ -150,7 +136,7 @@ I am currently employed with the Natural Science Collections Facility (nscf.org.
 My vision is a vibrant African specimen collections digitization and biodiversity informatics community that shares and publishes data willingly and openly. Skills and capacity development are in my view the most important priorities for achieving this vision. I see participation in TDWG events, as well as others such as the iDigBio events, as an essential part of this capacity development process, and would value the opportunity to play a role in broadening participation and interest in TDWG activities within the wider African community. I also hope that my experience and technical background would bring some value to the TDWG Executive Committee in achieving its goals and objectives.
 
 ### Asia Representative 
-_(A single seat on the Executive Committee shared by two individuals.)_
+_(A single seat on the Executive Committee is shared by Barve and Nakazato.)_
 
 [**Vijay Barve**](https://orcid.org/0000-0002-4852-2567) - Natural History Museum of Los Angeles County, CA, USA
 
