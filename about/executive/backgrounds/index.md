@@ -10,57 +10,60 @@ toc: true
 
 ## Chair
 
-[**Deb Paul**](https://orcid.org/0000-0003-2639-7520) - Prairie Research Institute, University of Illinois, Champaign-Urbana, IL, USA
-
-**Background**
-
-I am passionate about working to build bridges between groups and creating environments where all feel welcome. For more than twelve years, I have participated in various biodiversity initiatives. Examples include digitization in the FSU R.K. Godfrey Herbarium, mobilizing data and images for Morphbank, leading digitization and capacity development efforts at iDigBio, collaborating worldwide to develop symposia and workshops, and networking and mentoring to foster biodiversity informatics skills in the collections and research communities. I am an active participant in the Society for the Preservation of Natural History Collections (SPNHC), Biodiversity Information Standards (TDWG), the Entomological Collections Network (ECN), ICEDIG, the Research Data Alliance (RDA), and The Carpentries.
-
-**Vision**
-
-As Deputy and then Chair, I would continue to strengthen TDWG’s role as a community leader and partner in biodiversity standards development and implementation. Initiating and continuing work with key organizations like ECN, RDA, CODATA, and The Carpentries, helps TDWG develop natural communities to use and contribute to biodiversity standards. Collaboration with GBIF, ALA, VertNet, iDigBio and others is key for testing and implementing TDWG ideas and products. Moreover, we need to work with other standards organizations to learn from them and share our expertise.
-
-We can work together to further the relationship between SPNHC and TDWG started by our first joint meeting. SPNHC and TDWG both publish journals, so a periodic joint issue might help expand the reach of each organization. I envision a TDWG 5-10+ year plan that seeks to include relevant industry/manufacturers as partners and collaborators (e.g. 3D, AI, Google).
-
-Additionally, it would be great to examine membership and choose some strategic goals (e.g. diversity, sustained membership, etc.). Evidence suggests training helps sustain membership, so this could be a potential role for TDWG, beginning by suggesting course/training content through the BDI IG and Community and Outreach group. Other ideas based on prior TDWG meetings and recent conversations center around meeting structure and the working group process. We could (re)incorporate introductory sessions for new / first time attendees. Others suggest: 1) allowing dedicated work time at future conferences, 2) offering training, 3) bringing back lightning talks, 4) developing a strategy for TDWG IGs and TGs to meet between yearly meetings, and 5) developing a webinar series parallel to Darwin Core Hour to support and facilitate effective community outreach for TDWG groups.
-
-As a TDWG member myself, I most want to support the development of your ideas, and your vision for TDWG.
-
-## Deputy Chair
-
 [**Elycia Wallis**](https://orcid.org/0000-0001-6017-0894) - Atlas of Living Australia, CSIRO, Melbourne, Australia
 
 **Background**
 
-My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website <https://collections.museumvictoria.com.au/> and the Field Guide apps for Australia <https://museumsvictoria.com.au/apps/>.
+My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website https://collections.museumvictoria.com.au/ and the Field Guide apps for Australia https://museumsvictoria.com.au/apps/.
 
-I have now joined the Atlas of Living Australia team <https://www.ala.org.au/> as the Collections Community Engagement Manager and leader of the Projects team. As Engagement Manager, I work with the Museums and Herbaria around Australia and New Zealand to share knowledge and work to continuously improve data standards, data pipelines, and data quality.
+I have now joined the Atlas of Living Australia team https://www.ala.org.au/ as the Collections Community Engagement Manager and leader of the Projects team. As Engagement Manager, I work with the Museums and Herbaria around Australia and New Zealand to share knowledge and work to continuously improve data standards, data pipelines, and data quality.
 
-My other passion is for the Biodiversity Heritage Library <https://www.biodiversitylibrary.org/> and I led the Australian project for a number of years. The Australian BHL has always been proud of the amount it has achieved with a small staff and a number of fabulous volunteers and continues to go from strength to strength.
+My other passion is for the Biodiversity Heritage Library https://www.biodiversitylibrary.org/ and I led the Australian project for a number of years. The Australian BHL has always been proud of the amount it has achieved with a small staff and a number of fabulous volunteers and continues to go from strength to strength.
 
 **Vision**
 
 The advantages of technology are many, but one that we haven’t yet fully overcome is the challenge of timezones and distance. I am often amazed at being able to talk with – and see – colleagues on the other side of the world and think that we are all the richer for being able to communicate in a way that would have been unthinkable just a few years ago. Timezones being what they are that communication does come at a price – which is usually a very early morning for some, and a late night for others. My initial focus will be on communication within the Oceania region; and I will work hard to ensure that the work of TDWG is disseminated widely and that I can represent the interests of the region back to the TDWG Executive.
 
+
+## Deputy Chair
+
+**David Bloom** - VertNet, Berkeley, CA 
+
+**Background**
+
+I have been the VertNet project manager since 2010, with 15 years of prior experience working in natural history and science museums. Currently, I am the VertNet Node Manager to GBIF (since 2016), serve as the GBIF Regional Representative for North America and support the global biodiversity community of practice as a guide, trainer, mentor, and Open Data Ambassador. I work with data publishers and biodiversity-focused projects in every global region. My participation with TDWG is closely tied to my work with VertNet and GBIF, with contributions to the maintenance of the Darwin Core, the creation of the Latimer Core, and participation on several work and interest groups since 2016. I have conducted more than 70 workshops globally on biodiversity informatics ranging from georeferencing to data publishing and the use of biodiversity data.
+
+**Vision**
+
+As a professional (and a not-so professional) I have devoted my time and effort to the discovery, development, and implementation of tools, services, and solutions to make the lives of people who work with, and learn about, biodiversity data more productive and efficient. As Deputy Chair of TDWG I intend to continue these efforts and to focus my activities on TDWG’s on-going initiatives. I am keen to understand and apply the lessons learned about participation in and collaboration through TDWG during the Covid years. In particular, I want to focus on the ways in which TDWG engages with the community to share knowledge and get work done. I want to retain and expand the participation of people online while respecting the time and money of those people able to participate in person so that we can make the most of both of these communities. I am especially interested to find ways to help TDWG value the efforts of those individuals and groups that do the work to develop, maintain and expand the standards that bring us all together. Finally, I believe it is in the interest of the TDWG community to find ways to engage with traditional, indigenous and local knowledge holders and to find ways to further integrate their perspectives, needs, and experiences into TDWG workflows and products.
+
+
 ## Secretary
 
 [**Visotheary Ung**](https://orcid.org/0000-0002-4049-0820) - Muséum National d'Histoire Naturelle, Paris, France
 
-## Treasurer
-
-[**William Ulate Rodriguez**](https://orcid.org/0000-0003-2863-2491) - Missouri Botanical Garden, St. Louis, MO, USA
-
 **Background**
 
-I am Costa Rican, father of one, project manager at the Center for Biodiversity Informatics in the IT Division of the Missouri Botanical Garden. My background is in Computer Science and Informatics, and I was a software developer for 7 years, before becoming an analyst/programmer first, then DBA and then Coordinator of the Informatics Development Unit at INBio in Costa Rica. For 11 years I worked with information on specimens, species, ecosystems, collections, digitization, conservation, education, tourism, and project management. In 2007, as Data Node Manager for Latin America at The Nature Conservancy I got involved with GIS and geographic information layers on Protected Areas, Threats and Biodiversity to determine Conservation Priorities. Since 2011, I've worked first as Global Coordinator for BHL, later as Technical Director for the BHL US/UK node and now as Data Administrator for the WorldFloraOnline project.
-
-While at INBio, I was part of the Executive Committee of the Employee Association, also involved in GBIF as Science Committee Chair and Node Manager and later in TDWG, starting as an ex officio member and then elected Treasurer for the last 5 years. During this time, TDWG has consolidated the Coordinator position, established our own Journal, formed a welldefined Conference procedure and formalized its Standards definition process, thanks to a shared Institutional memory and an up-to-date documentation of its activities, now in Github as part of a new website. We also obtained our not-for-profit tax status and established TDWGEurope to support EU projects.
+I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
+: I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
 
 **Vision**
 
-As Treasurer, I envision my role these next 2 years supporting an active standards organization that requires the opportune planned investment to support our different activities, provisioning the work of the Task Groups and Functional Subcommittees and assisting with the activation of the established CSF Travel Fund for IG and TG as well as the EC Meeting Attendance Fund. Additionally, I see myself as Treasurer with an active role helping the Executive Committee advance the new business model according to the upcoming Strategic Plan announced by our current Chair and also assisting the strong pursuit of Funders and Sponsors to maintain our BISS Journal and achieve the goal of publications established, as well as covering the operative and program expenses recently approved by the Executive Committee.
+My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
 
-As a personal conviction, I’ll be always looking to promote the participation and involvement of colleagues from Latin American countries and low-income economies and the promotion of multi-language approaches.
+I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
+
+I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
+
+
+## Treasurer
+
+OPEN
+<!-- 
+**Background**
+
+**Vision**
+-->
 
 ## Subcommittee chairs
 
@@ -81,17 +84,16 @@ My first priority is to refine the organizational and documentation infrastructu
 
 ### Fundraising and Partnerships
 
-[**Connie Rinaldo**](https://orcid.org/0000-0002-8339-728X) - Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, Cambridge, MA, USA
-
+OPEN
+<!--
 **Background**
 
-I have a BA in Biology and Anthropology from the University of Massachusetts, Boston, an MSc in Zoology from the University of Connecticut and an MLS from the University of Maryland. I began studying for a PhD in Zoology but after a number of twists and turns I ended up as a Systems Analyst for EG&G, Washington Analytical Services, Inc. From there I become a librarian by completing my MLS at the University of Maryland. I worked on the National Text Digitizing Project, an early digitization program, at the National Agricultural Library and then moved to Dartmouth College as the Head of Collections in the Biomedical Libraries. I also worked with the Digital Library for Earth Systems Education, analyzing collections. After Dartmouth, I became the Librarian of the Ernst Mayr Library of the Museum of Comparative Zoology (MCZ), Harvard University, combining my skills as a librarian with opportunities for research partnerships in the MCZ and Biodiversity Heritage Library. As a founding member of the BHL (now Chair of the Executive Committee), I have been instrumental in digitizing the Ernst Mayr Library collections for open access and developing innovative strategic plans for the BHL. I first attended TDWG in St. Louis in 2006. I am passionate about natural history and working with local, national and global partners to ensure that biodiversity data in library collections are connected, open and accessible for all.
+
 
 **Vision**
 
-The mission for this subcommittee states that “FPFS will work together with TDWG Executive Committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.” These complex and important tasks will require an engaged globally diverse committee from the TDWG membership that can find international opportunities for funding and partnerships. The 2018 New Zealand joint meeting with SPNHC and the upcoming 2019 joint meeting alongside GBIF, CETAF and DiSSCo are excellent examples of the types of partnerships that should be continued and pursued. Engaging European organizations and funders was key. These collaborations with GBIF, CETAF and DiSSCo will present more prospects for shared funding but the FPFS will need to identify and assess new strategic partners and funding opportunities, looking beyond the expected biodiversity organizations, pursuing more corporate partnerships, donors and foundations. 
 
-A long-term vision is to reinforce the visibility of TDWG across the globe, establish strong new alliances and nurture current relationships to secure funding and support.  My key goal for the upcoming year is to establish a strong committee to work with the Executive Committee to reach this vision.
+-->
 
 ### Infrastructure
 
@@ -137,17 +139,28 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 ### Africa Representative
 
-[**Lawrence Monda**](https://orcid.org/0000-0003-0299-0418) - National Museums of Kenya, Kenya
+**Ian Englebrecht** - Natural Science Collections Facility, South Africa
 
 **Background**
 
-Joining the museum community has since cultivated a love for biodiversity and cultural Heritage informatics. At the National Museums of Kenya, fusing Information technology with science has been a great challenging experience where I work as the chief information officer. I am involved in various digitization initiatives within the institution and advocate for data sharing, attribution while also building capacity on various areas of biodiversity informatics with emphasis on data quality assurance. I am currently the technical advisor for Biodiversity Heritage Library Africa, promoting digitization of biodiversity heritage literature in the region, and the Node manager for GBIF Kenya
+I am currently employed with the Natural Science Collections Facility (nscf.org.za) in a capacity to coordinate digitization of museum and herbarium collections in South Africa, as well as driving skills development for biodiversity informatics within this community. My primary training is as a conservation biologist and arachnologist. I have a special interest in taxonomy of scorpions and mygalomorph spiders, and completed my PhD in 2015 through the University of Pretoria. I have a long standing interest in information systems and how they support decision making and knowledge management, and studied programming part time early in my career. I have worked in museum institutions, government conservation agencies, and the private sector. I currently participate in the TDWG Technical Advisory Committee (TAC) meetings with an interest in APIs and identifiers. I especially enjoy developing software tools and utilities to aid with data management tasks, and teaching others to do the same.
 
 **Vision**
 
-TDWG plays a vital role in the development and maintenance of standards. As a TDWG member, through my engagement as Node Manager and a technical advisor for BHL Africa, I will focus on building capacity on greater understanding and use of the standards, its implementation and support the interests of partners and collaborators in the African region within TDWG.
+My vision is a vibrant African specimen collections digitization and biodiversity informatics community that shares and publishes data willingly and openly. Skills and capacity development are in my view the most important priorities for achieving this vision. I see participation in TDWG events, as well as others such as the iDigBio events, as an essential part of this capacity development process, and would value the opportunity to play a role in broadening participation and interest in TDWG activities within the wider African community. I also hope that my experience and technical background would bring some value to the TDWG Executive Committee in achieving its goals and objectives.
 
-### Asia Representative
+### Asia Representative 
+_(A single seat on the Executive Committee shared by two individuals.)_
+
+[**Vijay Barve**](https://orcid.org/0000-0002-4852-2567) - Natural History Museum of Los Angeles County, CA, USA
+
+**Background**
+
+I work as Digitization Project Manager for DigIn (Documenting Marine Biodiversity through Digitization of Invertebrate Collections). I got my master degree in Computer science from India and joined a non profit organization, contributing in Medicinal Plants Documentation and Conservation Issues. I developed interest in Biodiversity Informatics and joined a PhD program in Geography at University of Kansas. My doctoral research focused on Citizen’s contribution to Biodiversity data generation. After receiving my PhD, I worked with the Florida Museum of Natural History and Purdue University as a postdoctoral researcher, and continued to work on Biodiversity Informatics. My research interest is Citizen Science in Biodiversity and has several research publications on that theme. I have been coordinating several Citizen Science initiatives in India in the field of Biodiversity. I am recipient of the GBIF Young Researcher award during his doctoral research and two times member of the team receiving the GBIF Ebbe Nielsen Award. I have been training participants from several countries in Africa, Asia and the Americas in Biodiversity Informatics and have been mentoring students for Google Summer of Code. I have been part of the GBIF regional support team for Asia and have worked with several teams of biodiversity researchers to help publish data on GBIF. I am a contributor to Audubon Core Data standard and a member of the Program Committee for TDWG 2021 and 2022.
+
+**Vision**
+
+Biodiversity Informatics use and users in Asia are growing. GBIF data usage statistics shows Asian countries in the top ten, but the engagement of these researchers in the TDWG community is minimal. To fill this gap, we need to reach out to the community through appropriate forums and raise awareness regarding the data standards and practices TDWG is developing and promoting. I am working with several institutions and researchers in Asia and Africa already. Serving as Asia Representative would give me more opportunities to reach out to the community and engage them with TDWG. I would continue to help organize Asia and Global south focused symposia in upcoming TDWG conferences. 
 
 [**Takeru Nakazato**](https://orcid.org/0000-0002-0706-2867) - Database Center for Life Science, Mishima, Japan
 
@@ -161,25 +174,21 @@ The activities of TDWG are open to the world. Unfortunately, however, only a sma
 
 ### Europe Representative
 
-[**Wouter Addink**](https://orcid.org/0000-0002-3090-1761) - Naturalis Biodiversity Center, Leiden, The Netherlands
+**Laurence Livermore** - The Natural History Museum, London
 
 **Background**
 
-For about 15 years I have been participating in TDWG in different roles. I have actively participated in several interest groups and task groups and I recently assisted with setting up the new task groups for Collections Descriptions (CD) and Minimum Information about a Digital Specimen (MIDS). As Europe Representative I co-founded TDWG Europe, a stichting to enable participation of TDWG in EC funded projects. I also contributed to the organisation of Biodiversity_Next, development of the TDWG standards ratification process and a slide deck for presentations about TDWG and the standardisation process. 
-
-I am employed as Coordinator Research-data and E-infrastructure at Naturalis Biodiversity Center, with a background in plant systematics and agricultural biology.
-
-In my current position I am leading the technical development of DiSSCo (Distributed System of Scientific Collections), a new research infrastructure in Europe. I am participating as stream coordinator or work package leader in several related European projects: SYNTHESYS+, MOBILISE, DiSSCo Prepare and the former ICEDIG project. I participated in several other EC funded projects for biodiversity data in the past: e.g. Fauna Europea, ENBI, MarBEF, EuroCat, KeyToNature, 4D4Life, i4Life and OpenUp! I have also been working as IT systems manager for Species2000/Catalogue of Life.
-
-Besides my work for DiSSCo I am also active in the GBIF community as DiSSCo node manager and GBIF ambassador. I organised several GBIF mentoring projects and a GBIF species checklist hackathon and I have been 2nd vice chair in the GBIF Nodes Committee.
-
-As Chair of the RDA Biodiversity Data Integration interest group (with support from RDA Europe as RDA Ambassador), I have re-activated the RDA Biodiversity Data Integration interest group with new goals described in an updated charter and created a RDA discipline page for biodiversity.
+I am passionate about open data and increasing collaboration and community building to enable better data mobilisation from natural history collections. I have been working on community projects in Europe for over ten years, including two iterations of the EC-funded SYNTHESYS projects, ICEDIG, DiSSCo Prepare and Mobilise projects. Recently, this has included the proposal writing and leading the collaborative development of [Specimen Data Refinery platform](https://github.com/DiSSCo/SDR) in SYNTHESYS+ and the managing the creation of Digitisation Guides for [DiSSCo Prepare]( https://dissco.github.io/).
+: I am an active participant in SPNHC and CETAF (especially the Digitisation Working Group), and intend to remain active during my potential tenure. I have extensive experience of collaboration outside of Europe, including delivering e-taxonomy training in four continents, delivering a GBIF BID workshop in Jamaica, and digitisation of Malaysian collections as part of national digitisation initiative. I attended my first TDWG conference in 2014 ([slides](https://doi.org/10.6084/m9.figshare.1219251.v1)), and have attended all in-person European conferences since ([2019](https://doi.org/10.6084/m9.figshare.10024715.v1) and [2022](https://doi.org/10.6084/m9.figshare.21312345.v1)). Both myself and my digitisation team use TDWG standards on a day-to-day basis in our projects and are keen to give more user feedback on implementation and use.
+: I am an experienced editor of formal publications (Zootaxa, [ZooKeys](https://zookeys.pensoft.net/browse_journal_groups.php?journal_id=2&role_id=3&user_letter=L), [BDJ](https://bdj.pensoft.net/board/)) and for [special collections](https://riojournal.com/topical_collection/84). For examples of community presentations and outreach see my [Figshare profile](https://figshare.com/authors/Laurence_Livermore/100501).
 
 **Vision**
 
-TDWG has many active participants in Europe and as such Europe plays a major role in development, maintenance and use of the TDWG standards.
+There are multiple exciting initiatives across Europe which will benefit from global connectivity, including the continued development of DiSSCo and the establishment of national DiSSCo nodes.
 
-It is my vision that TDWG and the development and support of TDWG standards can be strengthened through EC funded projects in Europe like SYNTHESYS+, DiSSCo Prepare and BiCIKL. The foundation of TDWG Europe has made it possible to now participate as TDWG in such projects and through my role in DiSSCo I am well connected with these projects which enables me to position TDWG well.
+As Regional Representative for Europe, I would maintain and strengthen connections between the other Regional Representatives and promote TDWG's role in developing and promoting the use of biodiversity data standards. DiSSCo, and related initiatives around the world (e.g., GBIFs regional programmes, iDigBio, and ALA), are more effective and efficient when they collaborate and share approaches. Our community still has more to gain from establishing more shared practices, protocols, and training programmes. I would like to promote the co-development of more regional initiatives, or at least help connect people and initiatives that have the potential to benefit by working together.
+
+I am keen to promote wider participation in SPNHC and will ensure TDWG's work is brought to CETAF's Digitisation Working Group and Information Science and Technology Committee. Over the next two years I will be working to develop the DiSSCo-UK node and want to ensure that our work benefits the wider community, that we implement TDWG standards, and encourage wider participation in TDWG activities.
 
 ### Latin America Representative
 
@@ -219,4 +228,10 @@ My experience within the community and engagement in efforts to establish an env
 
 ### Oceania Representative
 
-To be appointed
+**Shelley James** - Western Australian Herbarium, Perth, Australia
+
+**Background**
+
+Dr. Shelley James is the Collections Manager of the Western Australian Herbarium, based in Kensington, Western Australia. She has been acting as the Regional Representative for Oceania for the past six months, and is part of the TDWG 2021 Program Committee. Shelley has been assisting with the planning for the TDWG 2024 meeting in her position as Member at Large on the Society for the Preservation of Natural History Collections (SPNHC) Council, and looks forward to continuing to help with planning. Shelley has been an active participant and member of TDWG for more than 10 years. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities. With her experience working in Australasia, Melanesia and the Pacific, she is well placed to communicate the biodiversity data standards activities being undertaken across the globe as the TDWG Oceania Regional Representative.
+
+
