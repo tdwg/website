@@ -10,13 +10,13 @@ toc: true
 ---
 
 {:.float-end .ms-5 .w-50}
-[![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)](https://tdwg2023.zohobackstage.com.au/TDWG2023)
+![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
 _Last updated 22 September 2023_
 
 ## Conference website now live!
 
-The conference website, including online registration, is now live!  Find more complete information about the venue, accommodations, traveling to Australia, visa requirements, etc.  
+The [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023), including online registration, is now live!  Find more complete information about the schedule, venue, accommodations, traveling to Australia, visa requirements, etc.  
 
 [Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}  
 
