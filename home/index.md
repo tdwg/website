@@ -12,7 +12,7 @@ featured: # description, href, img
   description: >
     Nominations for TDWG Executive Committee Officers are now open. Deadline 10 Nov 2023.
   href: https://www.tdwg.org/news/2023/call-for-nominations/
-  img: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
+  img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
