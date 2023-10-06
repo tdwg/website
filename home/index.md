@@ -10,12 +10,13 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Presenting at TDWG 2023? See instructions & deadline of 1 October to upload pre-recorded presentations.
-  href: https://tdwg2023.zohobackstage.com.au/TDWG2023#/presentationinfo
-  img: https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg
+    Nominations for TDWG Executive Committee Officers are now open. Deadline: 10 Nov 2023.
+  href: https://www.tdwg.org/news/2023/call-for-nominations/
+  img: https://www.flickr.com/photos/internetarchivebookimages/14751852622/
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
+<!--  https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg -->
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
 
