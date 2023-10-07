@@ -19,12 +19,6 @@
   orcid: 0000-0002-4852-2567
   twitter: vijaybarve
 
-- name: "Stan Blum"
-  image: https://static.tdwg.org/conferences/2023/pc/blum-stan-300.jpg
-  description: >
-    _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (“Specify”), and the California Academy of Sciences. He has developed data standards that support data integration across natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and the Taxonomic Databases Working Group (TDWG). The main theme in his career has been the integration of information across organizations and disciplines for use in biodiversity science. Currently he volunteers as the Administrator of the TDWG Secretariat in San Francisco.
-  orcid: 0000-0002-4419-6960
-
 - name: "Chandra Earl"
   image: https://static.tdwg.org/conferences/2023/pc/earl-chandra.jpg
   description: >
