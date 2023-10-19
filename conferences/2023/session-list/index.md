@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 26 September 2023_
+_Last updated 18 October 2023_
 
 The latest schedule (agenda) is posted on the [conference site](https://tdwg2023.zohobackstage.com.au/TDWG2023#/agenda?lang=en). Note that by default all times are local to Hobart, Tasmania but the time zone may be changed to match your location. On this page, clicking on the word "convert" with provide a localized time/date for each session cited. Note that for some sessions, this will mean not only a different time, but a different day for virtual attendees.
 
@@ -382,6 +382,7 @@ More information:
 - [What is AWK?](https://opensource.com/resources/what-awk)
 - [learnbyexample: GNU AWK](https://learnbyexample.github.io/learn_gnuawk/)
 - [Wikipedia: AWK](https://en.wikipedia.org/wiki/AWK)
+- [How to find errors and inconsistencies between fields: a guide for Darwin Core table checkers](https://drive.google.com/file/d/1poA96wLKF573gGeRvP6wv9gOHbSThsda/view?usp=sharing)
 
 {:id="wksh02"}
 ### WKSH02 Building bridges: Mapping from, to and between TDWG standards
