@@ -21,6 +21,7 @@ toc: true
 - Tim Robertson - Global Biodiversity Information Facility (GBIF), Denmark
 - Steven Baskauf - Vanderbilt University Heard Libraries, USA
 - Paula Zermoglio - VertNet, USA
+- Kate Ingenloff - Global Biodiversity Information Facility (GBIF), Denmark
 
 ## Motivation
 
