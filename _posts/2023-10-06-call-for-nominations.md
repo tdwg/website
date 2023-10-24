@@ -8,7 +8,7 @@ tags: [elections]
 toc: true
 ---
 
-Nominations are open for positions on the [Executive Committee](/about/executive/) for Biodiversity Information Standards (TDWG). **Noomination deadline is 10 November 2023.**
+Nominations are open for positions on the [Executive Committee](/about/executive/) for Biodiversity Information Standards (TDWG). **Nomination deadline is 10 November 2023.**
 
 The term for each role is 2 years, commencing on 1 January 2024.
 
