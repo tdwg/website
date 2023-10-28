@@ -9,6 +9,24 @@ background:
 toc: false
 ---
 
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="https://i0.wp.com/spnhc.org/wp-content/uploads/2022/10/SPNHC_LOGO_squareMed.jpg?w=216&amp;ssl=1" alt="" /></td>
+<td style="width: 50%; text-align: center;"><img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_Hex-Sticker_frame_blue.png" alt="" width="200" /></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 100%;" colspan="2">SPNHC &amp; TDWG Joint Hybrid Conference</td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;" colspan="2">Okinawa Convention Center</td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;" colspan="2">2-6 September 2024</td>
+</tr>
+</tbody>
+</table>
+
 ### The Society for the Preservation of Natural History Collections ([SPNHC](https://www.spnhc.org))
 _and_
 ### Biodiversity Information Standards ([TDWG](https://www.tdwg.org))
