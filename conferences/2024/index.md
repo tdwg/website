@@ -6,12 +6,12 @@ background:
   img: https://static.tdwg.org/conferences/2024/images/occ-by-sajames.jpg
   by: Shelley James
   href: 
-toc: true
+toc: false
 ---
 
-## The Society for the Preservation of Natural History Collections (SPNHC)
-and
-## Biodiversity Information Standards (TDWG)
+### The Society for the Preservation of Natural History Collections ([SPNHC](https://www.spnhc.org))
+_and_
+### Biodiversity Information Standards ([TDWG](https://www.tdwg.org))
 will meet jointly at the
 
 **Okinawa Convention Center in Okinawa, Japan**
