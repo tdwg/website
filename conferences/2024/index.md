@@ -32,7 +32,7 @@ toc: false
 <td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>2-6 September 2024</strong></td>
 </tr>
 <tr>
-<td style="width: 100%; text-align: center;" colspan="2"><strong>Save the date!</strong></td>
+<td style="width: 100%; text-align: center; height: 28px; vertical-align: bottom;" colspan="2"><strong>Save the date!</strong></td>
 </tr>
 </tbody>
 </table>
