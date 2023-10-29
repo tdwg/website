@@ -23,18 +23,22 @@ toc: false
 <td style="text-align: center; width: 100%;" colspan="2">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="text-align: center; height: 18px;" colspan="2"><strong>SPNHC &amp; TDWG Joint Conference (Hybrid)</strong></td>
+<td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>SPNHC &amp; TDWG Joint Conference (Hybrid)</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 100%; text-align: center; height: 18px;" colspan="2"><strong>Okinawa Convention Center</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 100%; text-align: center; height: 18px;" colspan="2"><strong>2-6 September 2024</strong></td>
+<td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>2-6 September 2024</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 100%;" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;" colspan="2"><strong>Save the date!</strong></td>
 </tr>
 </tbody>
 </table>
-
-**Save the Date!**
 
 <div style="text-align:center;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15961271.026159793!2d127.5096399435818!3d30.779717013870645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56ca503aaaaab%3A0xeb769b84d6de2088!2sOkinawa%20Convention%20Centre!5e0!3m2!1sen!2sus!4v1698478006062!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
