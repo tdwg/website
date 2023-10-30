@@ -41,7 +41,7 @@ toc: true
 
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/) 
 
-Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/) website:
+Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
   - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/#con-02)
   - [Getting to Okinawa](https://visitokinawajapan.com/plan-your-trip/getting-to-okinawa/)
   - [Nature and wildlife](https://visitokinawajapan.com/discover/wonderful-nature-okinawa/)
