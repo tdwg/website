@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-<table style="height: 288px; width: 100%; border-collapse: collapse;" border="0">
+<table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
 <tr style="height: 234px;">
 <td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.spnhc.org"><img src="https://i0.wp.com/spnhc.org/wp-content/uploads/2022/10/SPNHC_LOGO_squareMed.jpg?w=216&amp;ssl=1" alt="" /></a></td>
@@ -37,16 +37,16 @@ toc: true
 </tbody>
 </table>
 
+
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/) 
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/) website:
-  - [Travil inspiration](https://visitokinawajapan.com/travel-inspiration/#con-02)
+  - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/#con-02)
   - [Getting to Okinawa](https://visitokinawajapan.com/plan-your-trip/getting-to-okinawa/)
   - [Nature and wildlife](https://visitokinawajapan.com/discover/wonderful-nature-okinawa/)
     - [Birding in Okinawa](https://visitokinawajapan.com/travel-inspiration/okinawa-birdwatching-paradise/)
     - [Diving guide](https://visitokinawajapan.com/travel-inspiration/okinawa-diving-guide/)
     - [Snorkeling guide](https://visitokinawajapan.com/travel-inspiration/okinawa-snorkeling-guide/)
 
-<div style="text-align:center;">
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15961271.026159793!2d127.5096399435818!3d30.779717013870645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56ca503aaaaab%3A0xeb769b84d6de2088!2sOkinawa%20Convention%20Centre!5e0!3m2!1sen!2sus!4v1698478006062!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
