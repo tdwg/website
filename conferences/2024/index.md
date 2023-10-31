@@ -25,6 +25,9 @@ toc: true
 <tr style="height: 18px;">
 <td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>SPNHC &amp; TDWG Joint Conference (Hybrid)</strong></td>
 </tr>
+ <tr>
+  <td style="text-align: center; width: 100%; height: 4em;" colspan="2"><i>&quot;Enhancing Local Capacity, Elevating Global Standards.&quot;</i></td>
+ </tr>
 <tr style="height: 18px;">
 <td style="width: 100%; text-align: center; height: 18px;" colspan="2"><strong>Okinawa Convention Center</strong></td>
 </tr>
