@@ -39,15 +39,15 @@ toc: true
 
 <p>&nbsp;</p>
 
-## [Visit Okinawa Japan](https://visitokinawajapan.com/) 
+## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
-  - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/#con-02)
-  - [Getting to Okinawa](https://visitokinawajapan.com/plan-your-trip/getting-to-okinawa/)
-  - [Nature and wildlife](https://visitokinawajapan.com/discover/wonderful-nature-okinawa/)
-    - [Birding in Okinawa](https://visitokinawajapan.com/travel-inspiration/okinawa-birdwatching-paradise/)
-    - [Diving guide](https://visitokinawajapan.com/travel-inspiration/okinawa-diving-guide/)
-    - [Snorkeling guide](https://visitokinawajapan.com/travel-inspiration/okinawa-snorkeling-guide/)
+  - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/#con-02){:target="_blank"}
+  - [Getting to Okinawa](https://visitokinawajapan.com/plan-your-trip/getting-to-okinawa/){:target="_blank"}
+  - [Nature and wildlife](https://visitokinawajapan.com/discover/wonderful-nature-okinawa/){:target="_blank"}
+    - [Birding in Okinawa](https://visitokinawajapan.com/travel-inspiration/okinawa-birdwatching-paradise/){:target="_blank"}
+    - [Diving guide](https://visitokinawajapan.com/travel-inspiration/okinawa-diving-guide/){:target="_blank"}
+    - [Snorkeling guide](https://visitokinawajapan.com/travel-inspiration/okinawa-snorkeling-guide/){:target="_blank"}
 
 <p>&nbsp;</p>
 
