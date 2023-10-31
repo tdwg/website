@@ -44,7 +44,7 @@ toc: true
   - The Society for the Preservation of Natural History Collections [SPNHC](https://www.spnhc.org) is an international organization devoted to the preservation, conservation and management of natural history collections.
   - Biodiversity Information Standards ([TDWG](/)) was established to promote international collaboration among the creators, managers and users of biodiversity information, and its annual conference has become the preeminent forum for advancing biodiversity informatics.
 
-SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial by both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never been held in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations hope to welcome new participants from across Asia and to foster greater collaboration towards our shared goals.
+SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial by both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations hope to welcome new participants from across Asia and to foster greater collaboration towards our shared goals.
 
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
