@@ -26,7 +26,7 @@ toc: true
 <td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>SPNHC &amp; TDWG Joint Conference (Hybrid)</strong></td>
 </tr>
  <tr>
-  <td style="text-align: center; width: 100%; height: 4em;" colspan="2"><strong><i>&quot;Enhancing Local Capacity, Elevating Global Standards.&quot;</i></strong></td>
+  <td style="text-align: center; width: 100%; height: 4em;" colspan="2"><i>&quot;Enhancing Local Capacity, Elevating Global Standards.&quot;</i></td>
  </tr>
 <tr style="height: 18px;">
 <td style="width: 100%; text-align: center; height: 18px;" colspan="2"><strong>Okinawa Convention Center</strong></td>
@@ -45,7 +45,7 @@ toc: true
 ## SPNHC-TDWG joint conference
 
   - The Society for the Preservation of Natural History Collections [SPNHC](https://www.spnhc.org) is an international organization devoted to the preservation, conservation and management of natural history collections.
-  - Biodiversity Information Standards ([TDWG](/)) develops and maintains data standards that support the integration of primary biodiversity information across discipline, organizational, and national boundaries. Its annual conference has become the preeminent forum for advancing biodiversity informatics.
+  - Biodiversity Information Standards ([TDWG](/)) develops and maintains data standards that support the integration of primary biodiversity information across disciplines, organizations, and nations. Its annual conference has become the preeminent forum for advancing biodiversity informatics.
 
 SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations hope to welcome new participants from across Asia and to foster wider collaboration towards our shared goals.
 
