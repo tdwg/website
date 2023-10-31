@@ -39,6 +39,13 @@ toc: true
 
 <p>&nbsp;</p>
 
+## SPNHC-TDWG joint conference
+
+  - The Society for the Preservation of Natural History Collections [SPNHC](https://www.spnhc.org) is an international organization devoted to the preservation, conservation and management of natural history collections.
+  - TDWG was established to promote international collaboration among the creators, managers and users of biodiversity information, and its annual conference has become the preeminent forum for advancing biodiversity informatics.
+
+SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both disciplines and something that should be done periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never been held in Asia.  By holding our second joint meeting in Okinawa, Japan meeting, our organizations hope to welcome new participants from across Asia and to foster greater collaboration towards our shared goals.
+
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
