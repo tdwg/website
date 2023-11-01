@@ -56,7 +56,7 @@ The call for proposals to organize sessions (i.e., symposia, panels, workshops, 
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
-  - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/#con-02){:target="_blank"}
+  - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/){:target="_blank"}
   - [Getting to Okinawa](https://visitokinawajapan.com/plan-your-trip/getting-to-okinawa/){:target="_blank"}
   - [Nature and wildlife](https://visitokinawajapan.com/discover/wonderful-nature-okinawa/){:target="_blank"}
     - [Birding in Okinawa](https://visitokinawajapan.com/travel-inspiration/okinawa-birdwatching-paradise/){:target="_blank"}
