@@ -9,7 +9,7 @@ Responsibilities of Conveners:
     1. The charter must be clear and concise; this information will be public and therefore seen by potential members.
     2. Charters should be reviewed annually and updated as necessary.
     3. Template for [Interest](https://static.tdwg.org/documents/templates/TDWG_Interest_Group_Charter_Template_03.doc) or [Task](https://static.tdwg.org/documents/templates/TDWG_Task_Group_Charter_Template_03.doc) Group charter.
-2. Understand and use the online tools (URL) provided for group support. 
+2. Understand and use the [online resources](/about/#resources) provided for group support. 
     1. Ensure your home page reflects the activities and aspirations of the group. 
     2. Reference a few concise articles, presentations or tutorials. 
 3. Ensure that the formation of the new group is announced. The Secretary should notify all members by email, a news item should be posted to the web site by the Convener and relevant mailing lists.
