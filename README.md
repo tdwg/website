@@ -2,7 +2,7 @@
 
 # TDWG website
 
-This repository contains the content and settings for the [TDWG website](https://www.tdwg.org/). It is generated as a static website with [Pelican](http://docs.getpelican.com/).
+This repository contains the content and settings for the [TDWG website](https://www.tdwg.org/). It is generated as a static website with [jekyll](https://jekyllrb.com/)/[petridish](https://github.com/peterdesmet/petridish).
 
 ## Getting started
 
