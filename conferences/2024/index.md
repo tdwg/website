@@ -44,10 +44,10 @@ toc: true
 
 ## SPNHC-TDWG joint conference
 
-  - The Society for the Preservation of Natural History Collections [SPNHC](https://www.spnhc.org) is an international organization devoted to the preservation, conservation and management of natural history collections.
-  - Biodiversity Information Standards ([TDWG](/)) develops and maintains data standards that support the integration of primary biodiversity information across disciplines, organizations, and nations. Its annual conference has become the preeminent forum for advancing biodiversity informatics.
+  - The Society for the Preservation of Natural History Collections ([SPNHC](https://www.spnhc.org)) is an international organization devoted to the preservation, conservation and management of natural history collections.
+  - Biodiversity Information Standards ([TDWG](/)) develops and maintains data standards that support the integration of primary biodiversity information across disciplines, organizations, and nations. Its annual conference has become a preeminent forum for advancing biodiversity informatics.
 
-SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations hope to welcome new participants from across Asia and to foster wider collaboration towards our shared goals.
+SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations welcome new participants from across Asia.  Please join us and meet your colleagues from around the world!
 
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
@@ -60,5 +60,9 @@ Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan
     - [Snorkeling guide](https://visitokinawajapan.com/travel-inspiration/okinawa-snorkeling-guide/){:target="_blank"}
 
 <p>&nbsp;</p>
+
+## Calls for organized sessions and individual contributions
+
+The call for proposals to organize sessions (i.e., symposia, panels, workshops, etc.) will go out early in the new year (2024). The call for abstracts (individual contributions) will go out approximately six weeks later.  Watch for announcements!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15961271.026159793!2d127.5096399435818!3d30.779717013870645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56ca503aaaaab%3A0xeb769b84d6de2088!2sOkinawa%20Convention%20Centre!5e0!3m2!1sen!2sus!4v1698478006062!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
