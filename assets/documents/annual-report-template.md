@@ -4,7 +4,7 @@ _Text formatted as code block, i.e., between and including three back-ticks (\`\
 
 # ```Group Name```
 
-## ```[Interest | Task]``` Group Annual Report
+## ```[Interest | Maintenance | Task]``` Group Annual Report
 
 ### Website
 
