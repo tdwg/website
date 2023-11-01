@@ -49,6 +49,10 @@ toc: true
 
 SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations welcome new participants from across Asia.  Please join us and meet your colleagues from around the world!
 
+## Calls for organized sessions and individual contributions
+
+The call for proposals to organize sessions (i.e., symposia, panels, workshops, etc.) will go out early in the new year (2024). The call for abstracts (individual contributions) will go out approximately six weeks later.  Watch for announcements!
+
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
@@ -59,10 +63,6 @@ Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan
     - [Diving guide](https://visitokinawajapan.com/travel-inspiration/okinawa-diving-guide/){:target="_blank"}
     - [Snorkeling guide](https://visitokinawajapan.com/travel-inspiration/okinawa-snorkeling-guide/){:target="_blank"}
 
-
-## Calls for organized sessions and individual contributions
-
-The call for proposals to organize sessions (i.e., symposia, panels, workshops, etc.) will go out early in the new year (2024). The call for abstracts (individual contributions) will go out approximately six weeks later.  Watch for announcements!
 
 <p>&nbsp;</p>
 
