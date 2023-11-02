@@ -1,61 +1,26 @@
-[![Build Status](https://builds.gbif.org/job/tdwg-website/badge/icon?style=flat-square)](https://builds.gbif.org/job/tdwg-website/)
-
 # TDWG website
 
-This repository contains the content and settings for the [TDWG website](https://www.tdwg.org/). It is generated as a static website with [jekyll](https://jekyllrb.com/)/[petridish](https://github.com/peterdesmet/petridish).
+[![Build Status](https://builds.gbif.org/job/tdwg-website/badge/icon?style=flat-square)](https://builds.gbif.org/job/tdwg-website/)
 
-## Getting started
+This repository contains the source files for the [TDWG website](https://www.tdwg.org/).
 
-* **Report**: Found a bug? Have a question? See our [contributing guide](.github/CONTRIBUTING.md).
-* **Write**: Want to update a page or fix a typo? See our [contributing guide](.github/CONTRIBUTING.md).
-* **Deploy**: Want to render and deploy the site? See our [deployment guide](#deployment).
+## Usage
+
+This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `master` will automatically trigger a new build by [Jenkins](https://builds.gbif.org/job/tdwg-website/)** (maintained by GBIF) and update the website. There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
+
+Found a typo, have a question? See our [contributing guide](https://www.tdwg.org/about/website-faq/).
 
 ## Repo structure
 
-```
-├── README.md                 : Description of this repository
-│
-├── content                   : Website content. Each news item/page is a directory, containing at least an index.md
-│   ├── articles              : News items, organized by year
-│   └── pages
-│       ├── home              : Homepage
-│       ├── standards         : Standards pages
-│       ├── journal           : BISS page
-│       ├── community         : Interest, Task and Maintenance Groups pages
-│       ├── conferences       : Conference landing pages
-│       └── about             : Executive, Constitution, contact, etc. pages
-│
-├── settings.py, settings-prod.py : Generic website settings
-├── requirements.txt          : Python requirements for Pelican
-│
-├── LICENSE                   : Repository license
-├── .github                   : Contributing guide, issue templates
-└── .gitignore                : Files and directories to be ignored by git
-```
+The repository structure follows that of Jekyll websites.
 
-## Deployment
-
-[tdwg.org](https://www.tdwg.org) is rebuilt automatically for any change on the `master` branch in [this repository](https://github.com/tdwg/website) or the [tdwg-theme repository](https://github.com/tdwg/tdwg-theme). You can see the status of the builds at <https://builds.gbif.org/job/tdwg-website/>. If you want to build the website locally, do the following:
-
-### Installation
-
-1. Clone the [website repo](https://github.com/tdwg/website): `git clone https://github.com/tdwg/website`
-2. Clone the [theme repo](https://github.com/tdwg/tdwg-theme): `git clone https://github.com/tdwg/tdwg-theme`
-3. Optional: create a virtual environment (e.g. `conda create -n tdwg python=3.7`) and activate it (e.g. `source activate tdwg`)
-4. Verify Python 3.3+ is installed: `python --version`
-5. Navigate to the website repo and install the [requirements](requirements.txt) (including [Pelican](http://docs.getpelican.com/en/stable/install.html)): `pip install -r requirements.txt`
-
-### Build site
-
-1. Optional: activate your virtual environment (e.g. `source activate tdwg`)
-2. Navigate to the website directory: `cd website`
-3. Build the site locally: `pelican -s settings.py`
-4. The website is generated in `output/` which you can serve with e.g. `python -m http.server 8000`
-
-## Contributors
-
-[List of contributors](https://github.com/tdwg/website/contributors)
+- General site settings: [_config.yml](_config.yml)
+- Pages: `index.md` files in (sub)directories such as [about/](about/) and [community/](community/).
+- Posts: [_posts/](_posts/)
+- Images & static files: [assets/](assets/)
+- Top navigation: [_data/navigation.yml](_data/navigation.yml)
+- Footer content: [_data/footer.yml](_data/footer.yml)
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
