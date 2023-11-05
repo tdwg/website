@@ -39,7 +39,7 @@ The day-to-day operations of the Maintenance Group are managed in the group's [G
 
 ## History and context
 
-The Audiovisual Core vocabulary (formerly Audubon Core) was ratified as a TDWG Standard in 2013 to represent metadata for biodiversity multimedia resources and collections. It imports terms from various existing vocabularies, including Darwin Core, and mints terms in cases where existing terms are insufficient. Audiovisual Core records allow a user to determine the fitness for use of a resource before actually acquiring the resource itself. For an introduction to Audiovisual Core, visit <https://terms.tdwg.org/wiki/Audubon_Core>. For details, see R. A. Morris et al. 2013. Discovery and Publishing of Primary Biodiversity Data associated with Multimedia Resources: The Audubon Core Strategies and Approaches. Biodiversity Informatics, 8(2). <https://doi.org/10.17161/bi.v8i2.4117>
+The Audiovisual Core vocabulary (formerly Audubon Core) was ratified as a TDWG Standard in 2013 to represent metadata for biodiversity multimedia resources and collections. It imports terms from various existing vocabularies, including Darwin Core, and mints terms in cases where existing terms are insufficient. Audiovisual Core records allow a user to determine the fitness for use of a resource before actually acquiring the resource itself. For an introduction to Audiovisual Core, visit <https://ac.tdwg.org/introduction/>. For details, see R. A. Morris et al. 2013. Discovery and Publishing of Primary Biodiversity Data associated with Multimedia Resources: The Audubon Core Strategies and Approaches. Biodiversity Informatics, 8(2). <https://doi.org/10.17161/bi.v8i2.4117>
 
 ## Summary
 
