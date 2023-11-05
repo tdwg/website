@@ -16,7 +16,7 @@ toc: true
 
 - [James A. Macklin](mailto:james.macklin@agr.gc.ca)
 - [Robert A. Morris](mailto:morris.bob@gmail.com)
-- [Greg Riccard](mailto:griccardi@fsu.edu)
+- [Greg Riccardi](mailto:griccardi@fsu.edu)
 - [Walter G. Berendsohn](mailto:w.berendsohn@bgbm.org)
 - [Donald Hobern](mailto:Donald.Hobern@csiro.au)
 - [Tim Robertson](mailto:trobertson@gbif.org)
