@@ -36,6 +36,8 @@ toc: true
 
 ## Motivation
 
+**NOTE: this Task Group is in the final stages of completing its work. There may be future task groups formed to continue development of the extension -- contact the convener if you are interested in being involved.**
+
 Species inventories are routinely performed and offer particular value for characterizing biodiversity and its change. However, reporting standards allowing these inventories to be re‐used, compared to one another, and further integrated with other sources of biodiversity data are lacking, impeding their broadest utility. The Darwin Core standard currently allows sharing some of the information related to inventories, i.e., terms samplingProtocol, sampleSizeValue, sampleSizeUnit, samplingEffort. However, it still presents a limited ability to express detailed reporting of scope (spatial, temporal, taxonomic, and environmental), as well as a whole suite of commonly measured aspects of inventory sampling processes (e.g., direct or inferred measures of sampling effort).
 
 These limitations could be overcome by formalizing the Humboldt Core, a framework developed to deal specifically with this kind of data (Guralnick et al. 2018), and which is currently implemented in Map of Life (<https://mol.org/humboldtcore/>). While originally planned as a TDWG standard, ratification was not pursued until now. Broader implementation throughout the community has been hampered by a needed review of how to best integrate its terms with existing standards and implementation schemas. The natural space for the development of such a standard within TDWG is the Observations & Specimens Interest Group. While the purpose of this group is “to explore concepts and methods of biodiversity data description, integration and transfer that fully integrate specimen and observational data into existing data exchange schemas”, they have not yet tackled inventory data, which constitute an interesting mix of Events, Occurrences, and Taxon "checklists".
@@ -78,6 +80,8 @@ We will work closely with GBIF staff to coordinate wider implementation and use 
 All development will be done and progress tracked in the Humboldt Core GitHub repository from TDWG GitHub organization.
 
 ## Becoming involved
+
+**NOTE: this Task Group is in the final stages of completing its work. There may be future task groups formed to continue development of the extension -- contact the convener if you are interested in being involved.**
 
 Individuals having an interest in this work should contact the convener and are invited to watch and contribute via the [Humboldt Core GitHub repository](https://github.com/tdwg/hc).
 

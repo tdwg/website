@@ -36,6 +36,8 @@ toc: true
 
 ## Motivation
 
+**NOTE: this Task Group has completed its work and is no longer active.**
+
 Members of the Arctos Working Group feel that [MaterialSample](https://dwc.tdwg.org/terms/#materialsample) and [PreservedSpecimen](https://dwc.tdwg.org/terms/#preservedspecimen) are currently interchangeable. See [ArctosDB/arctos#2432](https://github.com/ArctosDB/arctos/issues/2432) for further discussion. The Global Genome Biodiversity Network ([GGBN](https://www.ggbn.org/ggbn_portal/)) community is using the Occurrence class currently as a MaterialSample class, as there is no alternative available right now if we want to publish information to aggregators such as the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). It became apparent in the [TDWG issue](https://github.com/tdwg/dwc/issues/314) about this change request that other issues pertaining to the representation of settings and events in which material samples occur need clarification too. There are terms in the Occurrence class that feel unnatural there, and the distinction between Darwin Core terms that are related to physical objects[^1] feels arbitrary.
 
 The purpose of this task group is to investigate and make recommendations on current shortcomings in the capacity to share, re-use, compare, and relate physical objects to one another and to other concepts, and further integrate with other sources of biodiversity data.
@@ -80,6 +82,8 @@ We intend to document the rationale for creating revised definitions, particular
 The task group will develop term definitions using GitHub issues in the [GitHub repository](https://github.com/tdwg/material-sample) from TDWG GitHub organization. Monthly meetings in a virtual platform will ensure that the task group remains active and working on the deliverables. Specific examples of the ways these terms are used by collection management systems will inform the definitions and recommendations. Members of related Interest and Task Groups are core members of this Task Group to ensure different use cases are addressed.
 
 ## Becoming involved
+
+**NOTE: this Task Group has completed its work and is no longer active.**
 
 Individuals having an interest in this work should contact the conveners, and are invited to watch and contribute via the [GitHub repository](https://github.com/tdwg/material-sample).
 

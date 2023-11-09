@@ -8,6 +8,9 @@ background:
   href: https://unsplash.com/photos/0MC0o-xLucM
 github: https://github.com/tdwg/dwc
 toc: true
+list:
+- label: TG
+  href: /community/osr/phenology/
 ---
 
 ## Convener
@@ -19,9 +22,10 @@ toc: true
 - Peter Desmet - Research Institute for Nature and Forest (INBO), Belgium
 - Markus Döring - Global Biodiversity Information Facility (GBIF), Denmark
 - Tim Robertson - Global Biodiversity Information Facility (GBIF), Denmark
-- Steven Baskauf - Vanderbilt University Heard Libraries, USA
+- [Steven Baskauf](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt University Heard Libraries, USA
 - Paula Zermoglio - VertNet, USA
 - Kate Ingenloff - Global Biodiversity Information Facility (GBIF), Denmark
+- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden, Belgium
 
 ## Motivation
 
@@ -34,3 +38,7 @@ The task group welcomes the participation of individuals who have a vested inter
 ## History and context
 
 The Darwin Core vocabulary has existed in various forms since 1998 and was ratified as a TDWG Standard in 2009. Its terms are widely used in biodiversity metadata transfer and storage. The Darwin Core vocabulary can be used to describe biodiversity resources through fielded text, XML, and RDF. For more information, see [Wieczorek et al. 2012](https://doi.org/10.1371/journal.pone.0029715).
+
+## Task groups
+
+<!-- list will be inserted below content -->
