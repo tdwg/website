@@ -51,6 +51,9 @@ list:
     href: /community/cd/mids/
 - label: MG
   href: /community/dwc/
+  menu:
+  - label: label: TG
+    href: /community/dwc/phenology/
 - label: IG
   href: /community/esp/
   menu:
@@ -80,8 +83,6 @@ list:
     href: /community/osr/humboldt-extension/
   - label: TG
     href: /community/osr/material-sample/
-  - label: TG
-    href: /community/osr/phenology/
 - label: IG
   href: /community/process/
 - label: IG
