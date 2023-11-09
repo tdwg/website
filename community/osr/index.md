@@ -13,23 +13,24 @@ list:
   href: /community/osr/humboldt-extension/
 - label: TG
   href: /community/osr/material-sample/
+- label: TG
+  href: /community/osr/phenology/
 ---
 
 ## Convenor
 
-- Quentin Groom - Meise Botanic Garden, Belgium (now member of the Darwin Core Maintenance Group)
+- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden, Belgium
 
 Former convenor: Steve Kellin
 
 ## Summary
 
-**NOTE: The Observations & Specimens Interest Group has been closed.** In the future, task groups will be sponsored by the Maintenance Group that will manage the ratification of the task groups' deliverables. Those maintenance groups will generally be the Darwin Core Maintenance Group or the ABCD Maintenance Group for tasks related to observations and specimens. 
-
 Most primary biodiversity data is based on observational data, which consists of observer-derived measurements of organisms in the environment, or specimens collected in the environment and stored within Natural History collections. There is sufficient overlap in the information stored in observational data and specimen records to allow existing data standards to integrate these data types. However, specific data types have unique requirements that need to be addressed. The purpose of this Interest Group is to explore concepts and methods of biodiversity data description, integration and transfer that fully integrate specimen and observational data into existing data exchange schemas.
 
 ## Becoming involved
 
-- No longer in operation
+- Anyone with and interest in organizing observational and specimen data can be involved.
+- Contact [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be)
 
 ## Resources
 
@@ -40,7 +41,5 @@ Most primary biodiversity data is based on observational data, which consists of
 - [OSR How Did It Die](https://www.tdwg.org/community/osr/how-did-it-die/)
 
 ## Task groups
-
-The How Did it Die?, Humboldt Extension, and Material Sample Task Groups have completed the tasks originally specified in their charters. The Plant Phenology Task Group is still active, but is now listed under the [Darwin Core Maintenance Group](https://www.tdwg.org/community/dwc/).
 
 <!-- list will be inserted below content -->

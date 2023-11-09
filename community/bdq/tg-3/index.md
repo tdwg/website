@@ -12,8 +12,6 @@ Miles Nicholls
 
 ## Motivation
 
-**NOTE: this Task Group has completed its work and is no longer active.**
-
 - Other than data availability, 'Data Quality' is probably the most significant issue for users of biodiversity data and this is specially so for the research community.
 - This Task Group is reviewing practical, real world uses relating to 'data quality' with a goal to provide best current practice.
 - If a list of practical data quality use cases can be provided to users of biodiversity records, then greater use and more appropriate use could be made of biodiversity data. Data providers and particularly aggregators such as GBIF and its nodes would have increased credibility with the user communities and be able to provide more effective examples of assessments of fitness for use.
@@ -30,8 +28,6 @@ A set of use cases that are in use by agencies and user communities to select re
 - Contact, via the task group participants, other government and conservation agencies and user communities to establish and document use cases where they assess data fitness for use and the data, dimensions and thresholds required.
 
 ## Becoming involved
-
-**NOTE: this Task Group has completed its work and is no longer active.**
 
 This Task Group would welcome anyone who has a practical interest in data quality and/or has experience with selecting data sets and records for specific purposes.
 

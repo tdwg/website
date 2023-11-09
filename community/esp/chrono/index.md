@@ -25,8 +25,6 @@ toc: true
 
 ## Motivation
 
-**NOTE: this Task Group has completed its work and is no longer active.**
-
 The Task Group is required in order to produce a new TDWG standard vocabulary. The new vocabulary to be produced by the Task Group is an extension to Darwin Core for chronometric age information. Chronometric age information is not covered by terms in Darwin Core, and is important in paleontology, zooarchaeology, and archaeobotany.
 
 ## Goals, outputs and outcomes
@@ -44,8 +42,6 @@ The Task Group is required in order to produce a new TDWG standard vocabulary. T
 - The outputs will follow the TDWG Standards Documentation Standard (SDS) and will be reviewed as required processes by the [TDWG By-laws](/about/process/) for the ratification of standards.
 
 ## Becoming involved
-
-**NOTE: this Task Group has completed its work and is no longer active.**
 
 Interested parties are invited to watch and contribute to the GitHub repository.
 

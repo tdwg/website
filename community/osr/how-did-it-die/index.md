@@ -1,4 +1,3 @@
-
 ---
 title: How Did It Die?
 description: >
@@ -18,8 +17,6 @@ toc: true
 - Libby Ellwood - Natural History Museum of Los Angeles, CA, USA
 
 ## Motivation
-
-**NOTE: this Task Group has completed its work and is no longer active.**
 
 There is a requirement that species records express whether the organism was dead or alive at the time of the observation or collection, and what the cause of any death was. Currently no such explicit terms exist in Darwin Core.
 
@@ -76,8 +73,6 @@ The scope of the terms, their names and vocabularies will be discussed within th
 - Submit proposals to TDWG’s journal BISS.
 
 ## Becoming involved
-
-**NOTE: this Task Group has completed its work and is no longer active.**
 
 This Task Group welcomes anyone who has a practical interest in recording and reporting biodiversity occurrence or collection records. The group may need support for the development of machine-readable vocabularies.
 
