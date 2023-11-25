@@ -12,31 +12,24 @@ toc: true
 {:.float-end .ms-5 .w-50}
 ![TDWG 2023 Logo](https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-tight-400.jpg)
 
-_Last updated 22 September 2023_
+_Last updated 24 November 2023_
 
-## Conference website now live!
+## Conference website on Zoho
 
-The [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023), including online registration, is now live!  Find more complete information about the schedule, venue, accommodations, traveling to Australia, visa requirements, etc.  
+See the [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023), to find more complete information about the schedule, venue, accommodations, traveling to Australia, visa requirements, etc.  
 
-[Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}  
+<!--- [Register for TDWG 2023!](https://tdwg2023.zohobackstage.com.au/TDWG2023){:.btn .btn-secondary}{:target="_blank"}  --->
 
 At least some information is available in eight languages (see menu, top right).
 
-## Deadlines
+## Deadlines (expired)
 
-- **Pre-recorded presentations due 1 October.** See [Presentation information](/conferences/2023/presentation-info/)
-- **Poster presentations due 1 October**
-- **Slides for in-person and streaming presentations due 7 October**
-
-### Expired deadlines
-
+- Pre-recorded presentations due 1 October. See [Presentation information](/conferences/2023/presentation-info/)
+- Poster presentations due 1 October
+- Slides for in-person and streaming presentations due 7 October
 - [Call for proposals for organized sessions](https://mailchi.mp/tdwg.org/2023-call-organized-sessions) closed 15 April 2023.
 - [Call for abstracts](/conferences/2023/call-for-abstracts/) closed 1 July 2023.
 - Early bird registration ended 18 August 2023
-
-## Registration
-
-The main [conference website](https://tdwg2023.zohobackstage.com.au/TDWG2023){:target="_blank"} is now live, including participant categories, fees, discounts, online registration, and cancellation policy. (Look for the green "Buy Tickets" button.)  See [this page](https://www.tdwg.org/conferences/2023/registration/#in-euros) if you'd like to see registration fees converted from Australian dollars to Euros, US Dollars, and GBP.
 
 ## Location
 
