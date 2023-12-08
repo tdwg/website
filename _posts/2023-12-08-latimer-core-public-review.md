@@ -1,3 +1,4 @@
+---
 title: Public review of the Latimer Core begins
 description: >
   Public comment period now open until 1 January 2024
@@ -6,6 +7,7 @@ background:
   by: Michael D Beckwith
   href: https://unsplash.com/photos/937gZaUJCos
 tags: [standards, public review, Latimer Core]
+---
 
 The [TDWG Executive Committee](/about/executive/) is pleased to announce that the Public Review of the Latimer Core (LtC) is now open.  Named after [Marjorie Courtenay-Latimer](https://en.wikipedia.org/wiki/Marjorie_Courtenay-Latimer), the Latimer Core is a product of the TDWG Interest Group on [Collection Descriptions](/community/cd/) and supports the representation and discovery of natural science collections by structuring data about the groups of objects that those collections and their subcomponents contain. The classes and properties (collectively terms) have been designed to represent information that describes these groupings in enough detail to inform deeper discovery of the resources contained within them.
 
