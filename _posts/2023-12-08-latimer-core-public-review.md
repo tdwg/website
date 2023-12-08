@@ -1,7 +1,7 @@
 ---
 title: Public review of the Latimer Core begins
 description: >
-  Public comment period now open until 1 January 2024
+  Public comment period open until 12 January 2024
 background:
   img: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
   by: Michael D Beckwith
