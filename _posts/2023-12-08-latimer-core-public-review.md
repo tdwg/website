@@ -3,9 +3,9 @@ title: Public review of the Latimer Core begins
 description: >
   Public comment period open until 12 January 2024
 background:
-  img: https://images.unsplash.com/photo-1522035508726-d50692a3bc87
-  by: Michael D Beckwith
-  href: https://unsplash.com/photos/937gZaUJCos
+  img: https://images.unsplash.com/photo-1456518563096-0ff5ee08204e
+  by: Patxi Olaeta
+  href: https://unsplash.com/photos/brown-cathedral-3bpKvzknix0
 tags: [standards, public review, Latimer Core]
 ---
 
