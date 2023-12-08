@@ -25,5 +25,5 @@ The TDWG Executive Committee congratulates all the [members of the Collections 
 
 For the TDWG Executive Committee,
 
-Stan Blum</ br>
+Stan Blum<br />
 Administrator, TDWG Secretariat
