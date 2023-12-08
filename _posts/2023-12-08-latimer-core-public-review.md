@@ -17,7 +17,7 @@ Please participate in the public review by posting a comment or question on the 
 
 The Collection Descriptions Data Standard Task Group will endeavor to resolve all issues received by 12 January 2024, prior to requesting ratification by the Executive Committee.  Issues identified after that date may be deferred and addressed under normal maintenance after the standard has been ratified.
 
-Please distribute this link ([../]) to anyone you think could or should comment on the proposed Latimer Core standard.
+Please distribute this link (https://www.tdwg.org/news/2023/latimer-core-public-review) to anyone you think could or should comment on the proposed Latimer Core standard.
 
 The TDWG Executive Committee congratulates all the [members of the Collections Descriptions Data Standard Task Group](https://github.com/tdwg/cd/blob/master/README.md#members) who contributed to the development of this standard.  The Committee also thanks the review manager, Ben Norton, and the expert reviewers, Robert Sanderson of the Yale Peabody Museum, and Ian Engelbrecht of Natural Science Collections Facility, South Africa.  Ben deserves special thanks for his extraordinary efforts in managing the review of this very large and important proposed standard.
 
