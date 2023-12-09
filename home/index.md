@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Nominations for TDWG Executive Committee Officers are now open. Deadline 10 Nov 2023.
-  href: https://www.tdwg.org/news/2023/call-for-nominations/
-  img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
+    Public review of the Latimer Core begins. Closes 12 January 2024.
+  href: https://www.tdwg.org/news/2023/latimer-core-public-review/
+  img: https://images.unsplash.com/photo-1456518563096-0ff5ee08204e
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
