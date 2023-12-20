@@ -19,9 +19,10 @@ toc: true
 - Peter Desmet - Research Institute for Nature and Forest (INBO), Belgium
 - Markus Döring - Global Biodiversity Information Facility (GBIF), Denmark
 - Tim Robertson - Global Biodiversity Information Facility (GBIF), Denmark
-- Steven Baskauf - Vanderbilt University Heard Libraries, USA
+- [Steven Baskauf](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt University Heard Libraries, USA
 - Paula Zermoglio - VertNet, USA
 - Kate Ingenloff - Global Biodiversity Information Facility (GBIF), Denmark
+- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden, Belgium
 
 ## Motivation
 
