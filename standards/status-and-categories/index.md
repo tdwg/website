@@ -24,10 +24,10 @@ Standards that were ratified prior to 2005 and that are not currently being prom
 
 ### Retired Standard
 
-Standards that have been ratified by TDWG in the past but that are no longer recommended.
+Standards that have been ratified by TDWG in the past but that are no longer recommended. A standard may be no longer recommended if there is a Current Standard that has superseded it.
 
 {:id="category"}
-## Categories of TDWG standards
+## Categories of TDWG standards documents
 
 ### Technical Specification (TS)
 
@@ -40,7 +40,3 @@ Specifies how, and under what circumstances, one or more TS (from TDWG or other 
 ### Best Current Practice (BCP)
 
 A description of standardized practices and the results of community deliberations. A BCP document is a vehicle by which the biodiversity information community can define and ratify the community's best current thinking on a statement of principle or on what is believed to be the best way to perform some operations or TDWG process function. For more information, see RFC 2026.
-
-### Data Standard (DS)
-
-Specifies valid values in controlled vocabularies.
