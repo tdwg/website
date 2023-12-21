@@ -13,8 +13,6 @@ list:
   href: /community/osr/humboldt-extension/
 - label: TG
   href: /community/osr/material-sample/
-- label: TG
-  href: /community/osr/phenology/
 ---
 
 ## Convenor
@@ -35,14 +33,14 @@ Most primary biodiversity data is based on observational data, which consists of
 
 ## Resources
 
-- [Access to Biological Collections Data (ABCD) Task Group Website](https://www.tdwg.org/community/abcd/)
-- [Darwin Core Task Group Website](https://www.tdwg.org/community/darwincore/)
-- [Machine Observations Interest Group](https://www.tdwg.org/community/mobs/)
-- [People in Biodiversity Data](https://www.tdwg.org/community/attribution/people/)
-- [OSR How Did It Die](https://www.tdwg.org/community/osr/how-did-it-die/)
+- [Access to Biological Collections Data (ABCD) Maintenance Group](/community/abcd/)
+- [Darwin Core Maintenance Group](/community/dwc/)
+- [Machine Observations Interest Group](/community/mobs/)
+- [People in Biodiversity Data](/community/attribution/people/)
+- [How Did It Die?](/community/osr/how-did-it-die/)
 
 ## Task groups
 
-The How Did it Die?, Humboldt Extension, and Material Sample Task Groups have completed the tasks originally specified in their charters. The Plant Phenology Task Group is still active, but is now listed under the [Darwin Core Maintenance Group](https://www.tdwg.org/community/dwc/).
+The How Did it Die?, Humboldt Extension, and Material Sample Task Groups have completed the tasks originally specified in their charters. The Plant Phenology Task Group is still active, but is now listed under the [Darwin Core Maintenance Group](/community/dwc/).
 
 <!-- list will be inserted below content -->

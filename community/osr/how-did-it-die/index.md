@@ -1,4 +1,3 @@
-
 ---
 title: How Did It Die?
 description: >
