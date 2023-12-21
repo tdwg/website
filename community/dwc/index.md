@@ -1,4 +1,5 @@
 ---
+layout: list
 title: Darwin Core
 description: >
   The Darwin Core Maintenance Group is responsible for maintaining the various components of the Darwin Core Standard, which includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. Maintenance Group members have a strong interest in ensuring the stability, interoperability, and evolution of the vocabulary.
@@ -8,6 +9,9 @@ background:
   href: https://unsplash.com/photos/0MC0o-xLucM
 github: https://github.com/tdwg/dwc
 toc: true
+list:
+- label: TG
+  href: /community/dwc/phenology/
 ---
 
 ## Convener
@@ -35,3 +39,7 @@ The task group welcomes the participation of individuals who have a vested inter
 ## History and context
 
 The Darwin Core vocabulary has existed in various forms since 1998 and was ratified as a TDWG Standard in 2009. Its terms are widely used in biodiversity metadata transfer and storage. The Darwin Core vocabulary can be used to describe biodiversity resources through fielded text, XML, and RDF. For more information, see [Wieczorek et al. 2012](https://doi.org/10.1371/journal.pone.0029715).
+
+## Task groups
+
+<!-- list will be inserted below content -->
