@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Public review of the Latimer Core begins. Closes 12 January 2024.
+    Public review of the Latimer Core begins. Closing extended until 19 January 2024.
   href: https://www.tdwg.org/news/2023/latimer-core-public-review/
   img: https://images.unsplash.com/photo-1456518563096-0ff5ee08204e
 ---
