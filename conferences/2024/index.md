@@ -11,10 +11,13 @@ toc: true
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
+<tr style="height: 234px;">
+<td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.spnhc.org"><img src="https://i0.wp.com/spnhc.org/wp-content/uploads/2022/10/SPNHC_LOGO_squareMed.jpg?w=216&amp;ssl=1" alt="" /></a></td>
+<td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.tdwg.org/"><img src="https://static.tdwg.org/logo/Colour/PNG/tdwg-logo-hex-sticker-noframe-w220.png" alt="" width="220" /></a></td>
+</tr>
 <tr>
-<td colspan=2>
-  <img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-combined.png" width="90%" alt="SPNHC, TDWG and conference logos" />
-</td>
+<td style="text-align: center; width: 50%;"><strong>Society for the Preservation of</strong><br /><strong>Natural History Collections<br />(<a href="https://www.spnhc.org">SPNHC</a>)</strong></td>
+<td style="text-align: center; width: 50%;"><strong>Biodiversity Information Standards</strong><br /><strong>(<a href="https://www.tdwg.org/">TDWG</a>)</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 100%;" colspan="2">&nbsp;</td>
