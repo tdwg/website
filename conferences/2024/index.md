@@ -15,15 +15,6 @@ toc: true
 <td colspan=2>
   <img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-combined.png" alt="SPNHC, TDWG and conference logos" />
 </td>
-<!-- 
-<tr style="height: 234px;">
-<td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.spnhc.org"><img src="https://i0.wp.com/spnhc.org/wp-content/uploads/2022/10/SPNHC_LOGO_squareMed.jpg?w=216&amp;ssl=1" alt="" /></a></td>
-<td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.tdwg.org/"><img src="https://static.tdwg.org/logo/Colour/PNG/tdwg-logo-hex-sticker-noframe-w220.png" alt="" width="220" /></a></td>
--->
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;"><strong>Society for the Preservation of</strong><br /><strong>Natural History Collections<br />(<a href="https://www.spnhc.org">SPNHC</a>)</strong></td>
-<td style="text-align: center; width: 50%;"><strong>Biodiversity Information Standards</strong><br /><strong>(<a href="https://www.tdwg.org/">TDWG</a>)</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 100%;" colspan="2">&nbsp;</td>
@@ -57,7 +48,9 @@ SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conf
 
 ## Calls for organized sessions and individual contributions
 
-The call for proposals to organize sessions (i.e., symposia, panels, workshops, etc.) will go out early in the new year (2024). The call for abstracts (individual contributions) will go out approximately six weeks later.  Watch for announcements!
+The [call for proposals to organize sessions](https://mailchi.mp/tdwg.org/spnhc-tdwg-2024-okinawa-call-for-organized-sessions) (i.e., symposia, panels, workshops, etc.) has been distributed (11 Jan 2024). The submission (hard) deadline is 16 February 2024, at the close of Business in your time zone.  Please contact the [conference organizers](mailto:okinawa2024@spnhc.org) with any questions.
+
+The call for abstracts (individual contributions) will go out in early March.  Watch for the announcement!
 
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
