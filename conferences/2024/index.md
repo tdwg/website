@@ -13,7 +13,7 @@ toc: true
 <tbody>
 <tr>
 <td colspan=2>
-  <img src="https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-combined.png" alt="SPNHC, TDWG and conference logos" />
+  <img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-combined.png" alt="SPNHC, TDWG and conference logos" />
 </td>
 <!-- 
 <tr style="height: 234px;">
