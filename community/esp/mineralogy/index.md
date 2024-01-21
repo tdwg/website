@@ -11,7 +11,7 @@ toc: true
 
 ## Conveners
 
-- [Ben Norton](mailto:michaelnorton.ben@gmail.com)
+- [Ben Norton](mailto:michaelnorton.ben@gmail.com) (Data Scientist)
 - [Dr. Rachel Walcott](mailto:R.Walcott@nms.ac.uk) (Principal Curator, Earth Systems) - National Museums, Scotland
 
 ## Core members
@@ -28,9 +28,9 @@ toc: true
 
 As an organization with origins in taxonomic classification, TDWG membership has long been dominated by biological research, informatics, and collections professionals. The result is a natural tendency toward areas of growth associated with knowledge domains that overlap with biology (e.g., ichthyology, herpetology, paleontology) and a community deficient in specific subject areas such as mineralogy. Identifying these knowledge gaps and taking direct action to address them is critical to the continued growth of the TDWG community.
 
-To explore specific areas of interest identified by the community, such as subject matter expansion, TDWG created community-led interest groups such as the Earth Sciences and Paleobiology (ESP) interest group. The core function of this group is to facilitate the use of Darwin Core across an array of earth sciences, including geology, chronostratigraphy, mineralogy, paleontology, paleobiology, zooarchaeology, and paleoanthropology.
+TDWG created community-led interest groups such as the Earth Sciences and Paleobiology (ESP) interest group to explore specific areas of interest identified by the community, such as subject matter expansion. The core function of this group is to facilitate the use of Darwin Core across an array of earth sciences, including geology, chronostratigraphy, mineralogy, paleontology, paleobiology, zooarchaeology, and paleoanthropology.
 
-Following the membership rends of the wider TDWG community, most ESP interest group participants are members of the paleontological community. The result is a set of priorities and subsequent discussions that naturally learn toward topics related to paleontology and paleontological collections. If the ESP interest group is to continue progress toward achieving its comprehensive goal of extending support to all earth sciences, specifically those with minimal biological overlap such as mineralogy and petrology, these deficits in community expertise must be identified and addressed through task groups, targeted and concerted efforts within the scope of a parent interest group.
+Following the membership rends of the wider TDWG community, most ESP interest group participants are members of the paleontological community. The result is a set of priorities and subsequent discussions that naturally learn toward topics related to paleontology and paleontological collections. If the ESP interest group is to continue progress toward achieving its comprehensive goal of extending support to all earth sciences, specifically those with minimal biological overlaps such as mineralogy and petrology, these deficits in community expertise must be identified and addressed through task groups, targeted and concerted efforts within the scope of a parent interest group.
 
 ## Motivation
 
