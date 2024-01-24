@@ -58,28 +58,41 @@ I strongly believe that standards are essential to improve biodiversity data sha
 
 ## Treasurer
 
-OPEN
+To Be Appointed.  David Bloom, Acting Treasurer.  (See Deputy Chair above.) 
 
 ## Subcommittee chairs
 
 {:id="tag"}
 ### Technical Architecture Group
 
-[**Steve Baskauf**](https://orcid.org/0000-0003-4365-3135) - Vanderbilt University Libraries, Nashville, Tennessee, USA
+[**Ben Norton**](https://orcid.org/) - 
 
 **Background**
 
-I'm a an ecologist by training (Ph.D. Vanderbilt University, 1999) and a long-term educator (30+ years), but more recently my career has morphed towards data science and data curation.
+As a dedicated, mission-driven, and determined individual, leading efforts that turn ideas into realities through technology has been a central theme of my career since the very beginning. The Technical Architecture Group chair position is at the apex of this endeavor. The TAG is an engine of progress, ingenuity, and support that impacts activities across the TDWG organization. The opportunities to extend this pivotal role are immense. 
 
-I have been an active participant in TDWG since 2009 and have served in a variety of leadership roles since then. They include: review manager of Audubon Core, co-convener of the RDF/OWL Task Group, convener of the Vocabulary Maintenance Task Group, current convener of the Audubon Core Maintenance Group, current convener of the Views Controlled Vocabularies Task Group, and member of the Darwin Core Maintenance Group, the Technical Architecture Group (TAG), and others. I was the lead author of the Standards Documentation Specification (SDS), lead author of the Vocabulary Maintenance Specification, lead author of the Darwin Core RDF Guide, lead author of three controlled vocabularies, and co-author of several other standards documents. I am also a major contributor to the development of the TDWG standards maintenance infrastructure (standards metadata and landing pages) and to bringing existing standards documents into conformance with the SDS.
+Over the past 15 years, I have chartered an Interdisciplinary and multi-functional career path at the intersection of science and technology. Today, this pathway has materialized into an extensive technical skill set with domain expertise in several scientific fields in both an academic and professional capacity. I’ve built dozens of data-driven, web-based technologies across numerous scientific disciplines, including online search portals, data publishing platforms, and small and large-scale collections management systems. 
+
+In 2020, I became an active member of TDWG. Three years later, I’m the current deputy chair of the Technical Architecture Group, co-convener of the Mineralogy Extension Task Group, review manager of Latimer Core, and contributor to Minimum Information about a Digital Specimen (MIDS) and Camtrap DP. I’ve had the honor of publishing best practices guides, presenting and hosting symposiums at annual conferences, and providing technical guidance to efforts across the organization. In collaboration with the current TAG chair, I’m developing tools to streamline the publication of standards documentation in tandem with the existing RDF TDWG workflow. This effort has immense potential to improve the organization's operations for years.
 
 **Vision**
 
-My first priority is to refine the organizational and documentation infrastructure to make the TAG the active group envisioned in its charter. There are currently numerous draft standards that are nearing completion, so this is a critical time for the TAG to exert its oversight role. A longer-term priority is to examine the role that feature and implementation experience reporting play in the overall standards development process, and to bring the TDWG Process into line with our aspirational peer standards organizations in this area. To ensure the success of the group, I would leverage the deep knowledge and technical expertise that already exists within TDWG by recruiting core members from across the community.
+I envision a more significant and strategic support role for TAG with a prioritization of the following ongoing efforts:
+
+1.  Assure that the work initiated and led by the current chair continues and, where possible, see the activity through to completion.
+2.  Expand the TDWG Technical Recommendations, beginning with two best practice guides that address the use of complex values and SKOS mappings in data standards.
+3.  Deploy an automated tool for generating web-based standards documentation that operates in tandem with the current RDF workflow.
+4.  Develop a strategy to provide targeted support to individual Task and Interest Groups within the current confines of TAG member obligations.
+5.  Complete the reorganization of current and past data standards under the stewardship of TDWG.
+6.  Continue to broaden and diversify TDWG membership, focusing on underrepresented populations and gaps in domain expertise.
 
 ### Fundraising and Partnerships
 
-OPEN
+[**Patricia Mergen**](https://orcid.org/0000-0003-2848-8231) - Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium
+
+As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
+
+If elected, I would continue to act as a relay between potential hosts and TDWG Executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push Regional Representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate to the annual conference and also to become active in the TG and IG.
 
 ### Infrastructure
 
@@ -115,11 +128,10 @@ As a chair of the subcommittee ‘Communications and Outreach’, I will work on
 
 ### Time and Place
 
-[**Patricia Mergen**](https://orcid.org/0000-0003-2848-8231) - Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium
+**Chandra Earl** (Acting Chair)
 
-As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
+See North American Regional Representative below for personal details.
 
-If elected, I would continue to act as a relay between potential hosts and TDWG Executive. The goal remains to have venues identified on a 3 to 5 years horizon. I would also continue to push Regional Representatives to play a bigger role in this committee and other TDWG members to mobilise participation to TDWG in their regions and participate to the annual conference and also to become active in the TG and IG.
 
 ## Regional Representatives
 
@@ -178,39 +190,19 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### Latin America Representative
 
-[**Paula Zermoglio**](https://orcid.org/0000-0002-6056-5084) - VertNet, Bariloche, Argentina
-
-**Background**
-
-I am a biologist, and my scientific background is in insect ecology and physiology. I got my masters degree in biological sciences at the University of Buenos Aires (Argentina), and a dual PhD in biological sciences at the University of Buenos Aires (Argentina) and the University of Tours (France). For the last ten years, aside from my scientific research activities, I have been involved in biodiversity informatics. My first steps were at the Museo Argentino de Ciencias Naturales, first as an intern and then coordinator of a collections digitization initiative. Back then, realizing the importance and necessity of data sharing using standards, pushed me to get involved in the biodiversity informatics community. I had a lot to learn (still have!), but more importantly, I had a will to share what I was learning. Since then, I have participated in data mobilization initiatives and I have provided training on data mobilization, data standards, data quality and georeferencing, nationally and internationally. I am currently part of the VertNet team and I have been involved with the GBIF community in mentoring and capacity building in Africa, Europe, South America, the Caribbean, and the Pacific regions. In the last years I have been increasingly involved in the biodiversity data standards community. Currently, at TDWG, I am a member of the Data Quality Interest Group, where I convene the “Vocabularies” task group (officially “Best practices for development of vocabularies of values”), and of the Darwin Core Maintenance Interest Group.
-
-**Vision**
-
-I firmly believe that progress towards better standards and their better use depends on a two-way relationship: TDWG reaching out to the broad community and the community reaching out to TDWG.
-
-As TDWG Latin America Representative, my focus will be on closing the gap between TDWG and the local community, fomenting TDWG adoption of regional-friendly approaches, encouraging greater participation of the region in the development and enhancement of TDWG standards and promoting their use. My approach will be centered on improving communication between regional stakeholders and TDWG. For instance, considering the diversity of backgrounds, understanding and needs in the region, I will create opportunities for the region to engage with TDWG by fostering dissemination of TDWG contents in the local languages.
-
-More broadly, as member of the Executive, I will work towards a better integration of TDWG standards across the global community, both from the technical and the social points of view.
+(To Be Appointed.)
 
 ### North America Representative
 
-[**Holly Little**](https://orcid.org/0000-0001-7909-4166) - Dept of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington DC, USA
+[**Chandra Earl**](https://orcid.org/0000-0001-9850-882X) - 
 
 **Background**
 
-As the Informatics Specialist for the Smithsonian National Museum of Natural History Department of Paleobiology, I am responsible for all aspects of our digital collections, from designing and managing digitization projects to long term preservation and stewardship of our data. This work requires me to maintain a core focus of designing extensible and replicable methods integrated with and based upon the standards of the global community, but adapted to local needs.
-
-In addition, I am a member of community efforts including Darwin Core Hour, Data Carpentries, the Society for the Preservation of Natural History Collections (SPNHC), multiple National Science Foundation Advancing the Digitization of Biological Collections program Thematic Collections Networks, Community Standards for 3D Data Preservation (CS3DP), TDWG Paleo Interest Group and Collections Description Interest Group, the iDigBio Paleo Digitization Working Group, and a number of collaborative projects spanning institutional boundaries across North America and the globe.
-
-My current research is focused on evaluating the landscape of data sharing practices in the paleo community through analysis of occurrence records and datasets in GBIF. I participate in and facilitate discussion on best practices for use of established standards for fossil occurrence data and on development of new terms, vocabularies, and additional tools that may be needed.
+Chandra received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers.
 
 **Vision**
 
-It is vital that TDWG actively engage with the individuals, projects, and institutions that utilize and contribute to the standards, best practices, and tools developed and maintained by TDWG. The North American Representative acts as a facilitator of that effort. I look forward to the opportunity to bring TDWG to the community and to bring the community to TDWG. In this role, I will highlight discussions of discipline specific and broader biodiversity community needs, and work towards implementation of TDWG standards and tools across the many projects and initiatives in North America.
-
-A great example of this effort was a workshop I co-convened, at the SPNHC 2017 meeting titled “Biodiversity Informatics 101”. Through community engagement and education we sought to sow the seeds of a grassroots effort to bridge collections community practitioners and standards developers into the same conversation and to provide an opportunity for common knowledge and language, encouraging participation in this work. With these efforts (e.g., workshops, webinars, reaching out to engage in discipline and community discussions), we can engage practitioners, along with members of the community affected by the work of the practitioners or that provide the building blocks from which biodiversity informatics develops.
-
-My experience within the community and engagement in efforts to establish an environment of collaboration and understanding sits within an important intersection of projects and people. As the North America Representative, I will bring new people into TDWG by informing the relevance that they have for TDWG and that TDWG has for them. I will also help to encourage continued progress and innovation for TDWG that remains engaged with, and informed of, the local implementation of our global efforts.
+(TBD)
 
 ### Oceania Representative
 
