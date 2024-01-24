@@ -45,7 +45,8 @@ As a professional (and a not-so professional) I have devoted my time and effort 
 **Background**
 
 I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
-: I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
+
+I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
 
 **Vision**
 
