@@ -39,7 +39,7 @@ Role | Name | Affiliation | Term of office
 
 Functional Subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | USA | 2024-2025
+[Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | Ecosystem, Planning, and Restoration; Raleigh, NC, USA | 2024-2025
 [Fundraising and Partnerships](/about/committees/fundraising/) | [Patricia Mergen](./backgrounds/#fundraising-and-partnerships)  [&#128231;](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2024-2025
 [Infrastructure](/about/committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure) [&#128231;](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2024-2025
 [Outreach and Communications](/about/committees/outreach/) | [Mareike Petersen](./backgrounds/#outreach-and-communications) [&#128231;](mailto:mareike.petersen@mfn.berlin) | Museum für Naturkunde, Berlin, Germany | 2023-2024
