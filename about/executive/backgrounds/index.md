@@ -66,7 +66,7 @@ To Be Appointed.  David Bloom, Acting Treasurer.  (See Deputy Chair above.)
 {:id="tag"}
 ### Technical Architecture Group
 
-[**Ben Norton**](https://orcid.org/) - 
+[**Ben Norton**](https://orcid.org/0000-0002-5819-9134) - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
 
 **Background**
 
