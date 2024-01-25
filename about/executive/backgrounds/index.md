@@ -12,6 +12,11 @@ toc: true
 
 [**Elycia Wallis**](https://orcid.org/0000-0001-6017-0894) - Atlas of Living Australia, CSIRO, Melbourne, Australia
 
+<a href="https://orcid.org/0000-0001-6017-0894">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0001-6017-0894
+</a>
+
 **Background**
 
 My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website https://collections.museumvictoria.com.au/ and the Field Guide apps for Australia https://museumsvictoria.com.au/apps/.
@@ -28,6 +33,11 @@ The advantages of technology are many, but one that we haven’t yet fully overc
 ## Deputy Chair
 
 **David Bloom** - VertNet, Berkeley, CA 
+
+<a href="https://orcid.org/0000-0003-1273-1807">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0003-1273-1807
+</a>
 
 **Background**
 
