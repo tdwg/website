@@ -12,7 +12,7 @@ toc: true
 
 [**Elycia Wallis**](https://orcid.org/0000-0001-6017-0894) - Atlas of Living Australia, CSIRO, Melbourne, Australia
 
-<a href="https://orcid.org/0000-0001-6017-0894"><img style="float: left; margin: 0px 15px 0px 0px; position: absolute; bottom: 0" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6017-0894</a>
+<a href="https://orcid.org/0000-0001-6017-0894"><img style="float: left; margin: 0px 15px 0px 0px; vertical-align: bottom" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6017-0894</a>
 
 **Background**
 
