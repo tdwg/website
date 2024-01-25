@@ -12,7 +12,7 @@ toc: true
 
 [**Elycia Wallis**](https://orcid.org/0000-0001-6017-0894) - Atlas of Living Australia, CSIRO, Melbourne, Australia
 
-<a href="https://orcid.org/0000-0001-6017-0894"><img style="float: left; margin: 0px 5px 0px 0px; padding: 0 0 0 0; vertical-align:bottom;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6017-0894</a>
+<a href="https://orcid.org/0000-0001-6017-0894"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6017-0894</a>
 
 **Background**
 
@@ -31,7 +31,7 @@ The advantages of technology are many, but one that we haven’t yet fully overc
 
 **David Bloom** - VertNet, Berkeley, CA 
 
-<a href="https://orcid.org/0000-0003-1273-1807"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-1273-1807</a>
+<a href="https://orcid.org/0000-0003-1273-1807"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-1273-1807</a>
 
 **Background**
 
@@ -44,7 +44,9 @@ As a professional (and a not-so professional) I have devoted my time and effort 
 
 ## Secretary
 
-[**Visotheary Ung**](https://orcid.org/0000-0002-4049-0820) - Muséum National d'Histoire Naturelle, Paris, France
+**Visotheary Ung** - Muséum National d'Histoire Naturelle, Paris, France
+
+<a href="https://orcid.org/0000-0002-4049-0820"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-4049-0820</a>
 
 **Background**
 
@@ -70,7 +72,9 @@ To Be Appointed.  David Bloom, Acting Treasurer.  (See Deputy Chair above.)
 {:id="tag"}
 ### Technical Architecture Group
 
-[**Ben Norton**](https://orcid.org/0000-0002-5819-9134) - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
+**Ben Norton** - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
+
+<a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-5819-9134</a>
 
 **Background**
 
@@ -93,7 +97,9 @@ I envision a more significant and strategic support role for TAG with a prioriti
 
 ### Fundraising and Partnerships
 
-[**Patricia Mergen**](https://orcid.org/0000-0003-2848-8231) - Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium
+**Patricia Mergen** - Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium
+
+<a href="https://orcid.org/0000-0003-2848-8231"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-2848-8231</a>
 
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
@@ -101,7 +107,9 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 ### Infrastructure
 
-[**Tim Robertson**](https://orcid.org/0000-0001-6215-3617) - Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark
+**Tim Robertson** - Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark
+
+<a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6215-3617</a>
 
 **Background**
 
@@ -117,7 +125,9 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Outreach and Communications
 
-[**Mareike Petersen**](https://orcid.org/0000-0001-8666-1931) - Museum für Naturkunde, Berlin
+**Mareike Petersen** - Museum für Naturkunde, Berlin
+
+<a href="https://orcid.org/0000-0001-8666-1931"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-8666-1931</a>
 
 **Background**
 
@@ -133,9 +143,22 @@ As a chair of the subcommittee ‘Communications and Outreach’, I will work on
 
 ### Time and Place
 
-**Chandra Earl** (Acting Chair)
+**Kristen "Kit" Lewers** - Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA.
 
-See North American Regional Representative below for personal details.
+<a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-0526-4075</a>
+
+**Background**
+
+My background in biodiversity started in undergrad spending a summer in Yellowstone National Park researching the social and environmental impacts of trophic cascade disruption focused on the re-introduction of gray wolves(canis lupus). After graduation, my summer in Yellowstone turned into three years of living in the park and being surrounded by one of the most intact ecosystems in the United States which was still plagued by its own imbalances. I decided I wanted to further my education and career in biodiversity informatics to understand the systems around me.
+
+I am currently pursuing my PhD at CU Boulder in Information Science and Interdisciplinary Quantitative Biology where I study many things, but the main question is how information overload impacts institutions grounded in big data focused on biocollections. Through mixed methods, this research aims to assist other researchers, citizen scientists, and stakeholders in dealing with big, complex, and unharmonized data in addition to identifying silos in traditional disciplinary practices.
+
+Current projects include: developing analysis software to detect structural variants on the human genome from high throughput read data, data harmonization of GBIF and iDigBio records for remote sensing with drones, developing “Computational Genomics for Everyone” coursework, AI mediated interventions to prevent information overload, and Colorado Firefly Monitoring + Complex System Modeling of Synchronicity.
+I love to talk to people so feel free to reach out to chat about anything and everything!
+
+**Vision**
+
+My passion is interdisciplinary work and strong networks of collaboration to create a thriving biodiversity informatics research community. I am constantly grateful for the knowledge and welcoming community that TDWG offers. I want for more individuals, teams, and organizations to experience our amazing culture so it is my vision as the Time and Place Committee Chair for TDWG to become embedded in other communities of research involving biodiversity and making data driven decisions of where to best hold our conferences to maximize accessibility, visibility, and involvement.
 
 
 ## Regional Representatives
@@ -155,7 +178,9 @@ My vision is a vibrant African specimen collections digitization and biodiversit
 ### Asia Representative 
 _(A single seat on the Executive Committee is shared by Barve and Nakazato.)_
 
-[**Vijay Barve**](https://orcid.org/0000-0002-4852-2567) - Natural History Museum of Los Angeles County, CA, USA
+**Vijay Barve** - Natural History Museum of Los Angeles County, CA, USA
+
+<a href="https://orcid.org/0000-0002-4852-2567"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-4852-2567</a>
 
 **Background**
 
@@ -165,7 +190,9 @@ I work as Digitization Project Manager for DigIn (Documenting Marine Biodiversit
 
 Biodiversity Informatics use and users in Asia are growing. GBIF data usage statistics shows Asian countries in the top ten, but the engagement of these researchers in the TDWG community is minimal. To fill this gap, we need to reach out to the community through appropriate forums and raise awareness regarding the data standards and practices TDWG is developing and promoting. I am working with several institutions and researchers in Asia and Africa already. Serving as Asia Representative would give me more opportunities to reach out to the community and engage them with TDWG. I would continue to help organize Asia and Global south focused symposia in upcoming TDWG conferences. 
 
-[**Takeru Nakazato**](https://orcid.org/0000-0002-0706-2867) - Database Center for Life Science, Mishima, Japan
+**Takeru Nakazato** - Database Center for Life Science, Mishima, Japan
+
+<a href="https://orcid.org/0000-0002-0706-2867"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-0706-2867</a>
 
 **Background**
 
@@ -178,6 +205,8 @@ The activities of TDWG are open to the world. Unfortunately, however, only a sma
 ### Europe Representative
 
 **Laurence Livermore** - The Natural History Museum, London
+
+<a href="https://orcid.org/0000-0002-7341-1842"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-7341-1842</a>
 
 **Background**
 
@@ -201,7 +230,9 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### North America Representative
 
-[**Chandra Earl**](https://orcid.org/0000-0001-9850-882X) - 
+**Chandra Earl** - 
+
+<a href="https://orcid.org/0000-0001-9850-882X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-9850-882X</a>
 
 **Background**
 
@@ -214,6 +245,8 @@ Chandra received her PhD from the University of Florida where her work bridged m
 ### Oceania Representative
 
 **Shelley James** - Western Australian Herbarium, Perth, Australia
+
+<a href="https://orcid.org/0000-0003-1105-1850"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-1105-1850</a>
 
 **Background**
 
