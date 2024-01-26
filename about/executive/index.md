@@ -54,7 +54,7 @@ Asia (co-rep) | [Vijay Barve](./backgrounds/#asia-representative) [&#128231;](ma
 Asia (co-rep) | [Takeru Nakazato](./backgrounds/#asia-representative) [&#128231;](mailto:nakazato.tkr@gmail.com) | Biological Resource Center (NBRC), National Institute of Technology and Evaluation (NITE), Tokyo, Japan | 2023-2024
 Europe | [Laurence Livermore](./backgrounds/#europe-representative) [&#128231;](mailto:laurence.livermore@nhm.ac.uk) | Natural History Museum, London, England | 2023-2024
 Latin America | TBA |  | 2024-2025
-North America | [Chandra Earl](./backgrounds/#north-america-representative) [&#128231;](mailto:chandra.earl@asu.edu) | Arizona State University, Tempe, AZ | 2023-2024
+North America | [Chandra Earl](./backgrounds/#north-america-representative) [&#128231;](mailto:chandra.earl@asu.edu) | NEON Biorepository, Arizona State University, Tempe, AZ | 2023-2024
 Oceania | [Shelley James](./backgrounds/#oceania-representative) [&#128231;](mailto:shelley.james@dbca.wa.gov.au) | Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions | 2024-2025
 
 ### Regularly invited participants (non-voting)
