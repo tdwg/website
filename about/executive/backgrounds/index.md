@@ -230,7 +230,7 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### North America Representative
 
-**Chandra Earl** - 
+**Chandra Earl** - NEON Biorepository, Biodiversity Informatician II, Biodiversity Knowledge Integration Center, Arizona State University (residing in Honolulu)
 
 <a href="https://orcid.org/0000-0001-9850-882X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-9850-882X</a>
 
