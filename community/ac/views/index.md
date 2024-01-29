@@ -21,6 +21,8 @@ toc: true
 
 ## Motivation
 
+**NOTE: this Task Group has completed its work and is no longer active.**
+
 The combination of the [Audubon Core](https://www.tdwg.org/standards/ac/) terms [ac:subjectOrientation](https://tdwg.github.io/ac/termlist/#ac_subjectOrientation) and [ac:subjectPart](https://tdwg.github.io/ac/termlist/#ac_subjectPart) are known colloquially as the "view" of the subject. The view is an important characteristic for searching by humans or machines for multimedia resources appropriate for a particular task.
 
 The notes associated with `ac:subjectOrientation` and `ac:subjectPart` currently state that "No formal encoding scheme as yet exists." The purpose of this task group is to develop the missing encoding schemes for these terms by creating two controlled vocabularies to be used as values for these two terms.
@@ -46,7 +48,9 @@ The definition of `ac:subjectPart` is: "The portion or product of organism morph
 
 ## Summary
 
-The Views Controlled Vocabularies Task Group is developing controlled vocabularies for the Audubon Core terms `ac:subjectOrientation` and `ac:subjectPart`. Anyone can participate in the group by "watching" the Audubon Core GitHib repository (<https://github.com/tdwg/ac>). For further information, contact the group's convener at <steve.baskauf@vanderbilt.edu>.
+**NOTE: this Task Group has completed its work and is no longer active.**
+
+The Views Controlled Vocabularies Task Group is developing controlled vocabularies for the Audubon Core terms `ac:subjectOrientation` and `ac:subjectPart`. Anyone can participate in the group by "watching" the Audubon Core GitHib repository (<https://github.com/tdwg/ac>). 
 
 ## Resources
 

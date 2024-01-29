@@ -35,6 +35,8 @@ toc: true
 
 ## Motivation
 
+**NOTE: this Task Group has completed its work and is no longer active.**
+
 The task group is needed to build semantically precise and sustained interoperability between TDWG’s Darwin Core (DwC) [1] standard, and the Minimum Information about any (x) Sequence (MIxS) [2,3] checklist from the Genomic Standards Consortium (GSC) [4].
 
 These two, de facto, (meta)data standards have co-existed for a number of years, but adoption of one or the other is still leading to the siloing of information and a resulting lack of sustained interoperability between systems such as those of the INSDC [5] and OBIS [6] or GBIF [7]. Meanwhile, some of these stakeholders are creating bespoke / local interpretations of DwC/MIxS mappings, which may further silo the digital holdings of the omic biodiversity community.
@@ -72,6 +74,8 @@ A key motivation for this group is to ensure the “digital health” efforts le
 - Consult with users who work across omics and biodiversity to ensure the work of this Task Group is implementable and adds value globally
 
 ## Becoming involved
+
+**NOTE: this Task Group has completed its work and is no longer active.**
 
 Interested parties are invited to watch and contribute to the GitHub repository (will be set up when the Task Group is endorsed [11]).
 
