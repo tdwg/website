@@ -11,7 +11,7 @@ toc: true
 
 ## Chair
 
-_Vacant_
+[_Patricia Mergen_](mailto:mergen.patricia@gmail.com) - Royal Museum for Central Africa and Botanic Garden Meise, Belgium
 
 ## Mission
 
