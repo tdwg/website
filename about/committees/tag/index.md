@@ -12,9 +12,7 @@ toc: true
 
 ## Chair
 
-- [Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu) (elected term: 2022-2023) - 
-Vanderbilt University Libraries, Nashville, TN, USA
-- [Ben Norton](mailto:michaelnorton.ben@gmail.com) (deputy chair) - Independent, Raleigh, NC, USA
+[Ben Norton](mailto:michaelnorton.ben@gmail.com) - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
 
 To see a list of TAG members for the current calendar year and issues under consideration by the group, see the [TAG GitHub repository](https://github.com/tdwg/tag).
 
