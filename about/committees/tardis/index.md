@@ -10,7 +10,7 @@ toc: true
 ---
 ## Chair
 
-[Patricia Mergen](mailto:tardis@tdwg.org) (elected term: 2022-2023) - Meise Botanic Garden and Royal Museum for Central Africa, Belgium
+[Kristen "Kit" Lewers](mailto:tardis@tdwg.org) (elected term: 2024-2025) - Information Science and BioFrontiers Institute, University of Colorado, Boulder; and iDigBio, University of Florida, USA.
 
 ## Mission
 
