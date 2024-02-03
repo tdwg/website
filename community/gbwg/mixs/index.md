@@ -86,7 +86,7 @@ Mappings can be found in the [TDWG/GBWG GitHub repository](https://github.com/td
 
 **NOTE: this Task Group has completed its work in 2023 and is no longer active.**
 
-Interested parties are invited to watch and contribute the [Darwin Core](https://dwc.tdwg.org/) and joint TDWG-GSC [Genomic Biodiversity Working Group](https://www.tdwg.org/community/gbwg/), as well as other activities within TDWG and the [GSC](https://www.gensc.org/index.html).
+Interested parties are invited to watch and contribute to the [Darwin Core](https://dwc.tdwg.org/) and joint TDWG-GSC [Genomic Biodiversity Working Group](https://www.tdwg.org/community/gbwg/), as well as other activities within [TDWG](https://www.tdwg.org/community/) and the [GSC](https://www.gensc.org/index.html).
 
 ## History and context
 
