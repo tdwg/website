@@ -55,6 +55,10 @@ The [call for proposals to organize sessions](https://mailchi.mp/tdwg.org/spnhc-
 
 The call for abstracts (individual contributions) will go out in early March.  Watch for the announcement!
 
+## Accommodations
+
+The conference will be held at the Okinawa Convention Center (OCC), not a hotel, so we have not arranged for room-blocks to be held at one or more local hotels.  We recommend looking at the hotels listed under [Neighborhood Accommodations](https://www.oki-conven.jp/en/neighborhoodaccommodations/) on the OCC website, or simply searching for near by hotels on your favorite travel or mapping site.
+
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
