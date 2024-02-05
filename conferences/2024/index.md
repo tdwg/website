@@ -57,7 +57,7 @@ The call for abstracts (individual contributions) will go out in early March.  W
 
 ## Accommodations
 
-The conference will be held at the Okinawa Convention Center (OCC), not a hotel, so we have not arranged for room-blocks to be held at one or more local hotels.  We recommend looking at the hotels listed under [Neighborhood Accommodations](https://www.oki-conven.jp/en/neighborhoodaccommodations/) on the OCC website, or simply searching for near by hotels on your favorite travel or mapping site.
+The conference will be held at the Okinawa Convention Center (OCC), not a hotel, so we have not arranged for room-blocks to be held at one or more local hotels.  We recommend looking at the hotels listed under [Neighborhood Accommodations](https://www.oki-conven.jp/en/neighborhoodaccommodations/) on the OCC website, or simply searching for nearby hotels on your favorite travel or mapping site.
 
 ## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
 
