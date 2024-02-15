@@ -14,7 +14,7 @@ tags: [standards, working sessions]
 
 The TDWG Working Sessions give interest and task groups an opportunity to introduce their work to a wider audience and receive feedback on progress and future plans.
 
-The same Zoom “meeting” will be used for all sessions.  Request the [Zoom login info via email](mailto:track1@tdwg.org). 
+The same Zoom “meeting” will be used for all sessions.  Request the **[Zoom login info via email](mailto:track1@tdwg.org)**. 
 
 - The following groups will be holding working sessions:
 - Latimer Core (Collections Description Interest Group)
