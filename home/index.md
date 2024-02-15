@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Working sessions for TDWG Interest/Task/Maintenance Groups 19-22 Feb.
+    Working sessions for TDWG Interest / Task / Maintenance Groups, 19-22 Feb.
   href: https:/news/2024/working-sessions/
   img: https://images.unsplash.com/photo-1569406125624-98ee19b01d4a
 ---
