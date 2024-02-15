@@ -1,5 +1,5 @@
 ---
-title: TDWG Working Sessions for Interest/Task/Maintenance Groups  
+title: Working Sessions for TDWG Interest/Task/Maintenance Groups  
 description: >
   Working sessions are open to all.  Join to learn about our standards work in progress.
 background:
