@@ -230,17 +230,21 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### North America Representative
 
-**Chandra Earl** - NEON Biorepository, Biodiversity Informatician II, Biodiversity Knowledge Integration Center, Arizona State University (residing in Honolulu)
+**Chandra Earl** - NEON Biorepository, Biodiversity Knowledge Integration Center, Arizona State University (residing in Honolulu, Hawaii)
 
 <a href="https://orcid.org/0000-0001-9850-882X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-9850-882X</a>
 
 **Background**
 
-Chandra received her PhD from the University of Florida where her work bridged many facets of informatics and data science, with a focus on large-scale biodiversity informatics. She is currently applying these skills to Pacific Island biodiversity, primarily making these data research-grade and available to data aggregators and island researchers.
+I currently work as the primary software developer and biodiversity informatician for the [NEON Biorepository](https://biorepo.neonscience.org/portal/), ensuring implementation of FAIR principles in data management, quality, integration and access of NEON sample data. I also hold a consultancy contract with UNESCO and OBIS as an eDNA scientific officer working on a citizen-science project which aims to determine the richness of fish species across 25 World Heritage Sites using a metabarcoding approach. Previously, I held the Joshua M. Copus Memorial Fellowship at the Bernice Pauahi Bishop Museum in Honolulu, Hawai‘i, where I worked closely with informaticians, collection managers, researchers and students across six major research museums to digitize, enhance, and mobilize specimen information for endangered Hawaiian species.
+
+I recieved my graduate degree in Genetics & Genomics from the Univerity of Florida, where my dissertation research focused on building tools for "big data" biodiversity analyses, specifically genomics, machine learning and diversification metrices. Part of this work was in collaboration with the Data Science Lab at the Smithsonian. Due to this, I maintain an ongoing Research Affiliation with the Florida Museum of Natural History.
+
+The theme of my personal research is focused on large-scale biodiversity data and analyses using natural history collections and as such I have broad experiences with developing pipelines for phylogenetics, bioinformatics, machine learning, geographic modelling, and digitized specimen mobilization. I enjoy collaborating with others on their personal research projects and have contributed to various biodiversity initiatives spanning across taxonomic scales, including insects, mollusks, plants, mammals and fish. One day I'll get to birds and herps...maybe. 
 
 **Vision**
 
-(TBD)
+I aim to continue advancing my expertise at the intersection of biodiversity, data science and genetics by engaging in collaborative and interdisciplinary research. This involves both utilizing and developing computational methods and tools to explore, integrate and visualize collections data to help address biological hypotheses. Additionally, I aspire to play an active role in shaping the future of biological data science by mentoring students and advocating for FAIR data practices across TDWG and the biodiversity informatics community.
 
 ### Oceania Representative
 
