@@ -6,7 +6,7 @@ background:
   img: https://images.unsplash.com/photo-1569406125624-98ee19b01d4a
   by: Mitchell Luo
   href: https://unsplash.com/photos/men-rowing-boat-H3htK85wwnU
-tags: [standards. working sessions]
+tags: [standards, working sessions]
 ---
 
 # TDWG Working Sessions
