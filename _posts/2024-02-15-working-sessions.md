@@ -3,9 +3,9 @@ title: TDWG Working Sessions for Interest/Task/Maintenance Groups
 description: >
   Working sessions are open to all.  Join to learn about our standards work in progress.
 background:
-  img: https://images.unsplash.com/photo-1456518563096-0ff5ee08204e
-  by: Patxi Olaeta
-  href: https://unsplash.com/photos/brown-cathedral-3bpKvzknix0
+  img: https://images.unsplash.com/photo-1569406125624-98ee19b01d4a
+  by: Mitchell Luo
+  href: https://unsplash.com/photos/men-rowing-boat-H3htK85wwnU
 tags: [standards. working sessions]
 ---
 
