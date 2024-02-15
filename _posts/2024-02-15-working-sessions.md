@@ -104,7 +104,7 @@ This task group aims to create a TDWG standard that clarifies the levels (depth)
 
 Conveners:  Elspeth Haston, Cat Chapman
 
-### [Mapping between Standards]()
+### Mapping between Standards
 17:00 - 18:30 UTC [Translate to your timezone]()
 
 [A soon to be established task group of the Technical Architecture Group.]  
