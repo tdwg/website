@@ -12,7 +12,7 @@ toc: true
 
 ## Chair
 
-[Ben Norton](mailto:michaelnorton.ben@gmail.com) - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
+[Ben Norton](mailto:michaelnorton.ben@gmail.com)
 
 To see a list of TAG members for the current calendar year and issues under consideration by the group, see the [TAG GitHub repository](https://github.com/tdwg/tag).
 
