@@ -56,6 +56,10 @@ The [call for proposals to organize sessions](https://mailchi.mp/tdwg.org/spnhc-
 
 The call for abstracts (individual contributions) will go out in early March.  Watch for the announcement!
 
+## [Code of Conduct](/conferences/2024/code-of-conduct/)
+
+By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity related to the SPNHC – TDWG 2024 Conference, you agree to abide by this Code of Conduct. This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.  [Read more...](/conferences/2024/code-of-conduct/)
+
 ## Accommodations
 
 The conference will be held at the Okinawa Convention Center (OCC), not a hotel, so we have not arranged for room-blocks to be held at one or more local hotels.  We recommend looking at the hotels listed under [Neighborhood Accommodations](https://www.oki-conven.jp/en/neighborhoodaccommodations/) on the OCC website, or simply searching for nearby hotels on your favorite travel or mapping site.
