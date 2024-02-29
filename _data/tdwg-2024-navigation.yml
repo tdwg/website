@@ -1,0 +1,15 @@
+- text: "TDWG 2024"
+  href: /conferences/2024/
+- text: "Code of Conduct"
+  href: /conferences/2024/code-of-conduct/
+- text: "Program"
+  menu:
+  - text: "Sessions"
+    href: /conferences/2024/session-list/
+  - text: "Program committee - in prep"
+- text: "Registration"
+  menu:
+  - text: "Registration details - Open by 1 May"
+- text: "Submissions"
+  menu:
+  - text: "Call for abstracts - expected 3 March"
