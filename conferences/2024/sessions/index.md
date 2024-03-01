@@ -13,7 +13,7 @@ toc: false
 
 Click a link to read the session abstract.
 
-| Session Code | Title |
+| Session Code | Session Title |
 | --- | --- |
 | CONTRIB | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#contrib-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
 | GENRL | [General Presentations: Enhancing local capacity, elevating global standards](#genrl-general-presentations-enhancing-local-capacity-elevating-global-standards) |
