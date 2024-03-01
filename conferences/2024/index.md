@@ -12,9 +12,9 @@ toc: true
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
 <tr style="height: 234px;">
-<!-- td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.spnhc.org"><img src="https://i0.wp.com/spnhc.org/wp-content/uploads/2022/10/SPNHC_LOGO_squareMed.jpg?w=216&amp;ssl=1" alt="" /></a></td>
-<td style="width: 50%; text-align: center; height: 234px;"><a href="https://www.tdwg.org/"><img src="https://static.tdwg.org/logo/Colour/PNG/tdwg-logo-hex-sticker-noframe-w220.png" alt="" width="220" /></a></td -->
- <td colspan="2" style="width: 100%; text-align: center"><img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png" width="750"></td>
+ <td colspan="2" style="width: 100%; text-align: center"><img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png" 
+     width="750">
+ </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;"><strong>Society for the Preservation of</strong><br /><strong>Natural History Collections<br />(<a href="https://www.spnhc.org">SPNHC</a>)</strong></td>
@@ -58,7 +58,7 @@ The call for abstracts (individual contributions) will go out in early March.  W
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
-By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity related to the SPNHC – TDWG 2024 Conference, you agree to abide by this Code of Conduct. This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.  [Read more...](/conferences/2024/code-of-conduct/)
+By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity related to the SPNHC – TDWG 2024 Conference, you agree to abide by this [Code of Conduct](/conferences/2024/code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.  [Read more...](/conferences/2024/code-of-conduct/)
 
 ## Accommodations
 
