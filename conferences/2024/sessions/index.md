@@ -38,7 +38,7 @@ Digital technology and standards are increasingly critical components of natural
 
 Since its debut at SPNHC 2009, DemoCamp has provided a venue for developers, biodiversity informaticians, digitization managers, and collection managers to convene and share innovative approaches for the use of technology to enhance the management and use of natural history collections. Presentations demonstrate the use of software, tools, services, and workflows that enhance capacity, use global standards, and extend the accessibility and quality of information.
 
-The format of DemoCamp dictates that presentations must be “live, without a net” and forbids the use of slideshows. Each presenter is allotted time for demonstrating the technology as well as questions from the audience. This format ensures that only functional technology is presented."
+The format of DemoCamp dictates that presentations must be “live, without a net” and forbids the use of slideshows. Each presenter is allotted time for demonstrating the technology as well as questions from the audience. This format ensures that only functional technology is presented.
 
 ## LTNG01 Digitization Coordination	
 
@@ -60,7 +60,7 @@ This session will explore the application of AI across diverse biodiversity chal
 
 Key topics include the hybridization of AI methods: i.e. mixing various methods and architectures, including mixing symbolic and digital AI, interpretability and robustness of model predictions. Data of interest will cover all sensors and modes of capture, including remote sensing, field or collections pictures, videos, sounds and measurements, tracking, text, and all multi-omics approaches to characterize natural ecosystems, from metagenomics to metatranscriptomics. All issues will be welcome, with a focus on data standardization, interactions, interdependencies and resilience, impact of anthropic activities, conservation, biodiversity monitoring with metabarcoding approaches, and ecosystem health and evolution indices.
 
-An introductory talk will remind the session's objectives, followed by ten 10' talks with 5' questions, then a panel discussion introduced by a comparative analysis of the cases presented, and focusing on common features and future avenues for developing standards in methods and data exchange."
+An introductory talk will remind the session's objectives, followed by ten 10' talks with 5' questions, then a panel discussion introduced by a comparative analysis of the cases presented, and focusing on common features and future avenues for developing standards in methods and data exchange.
 
 ## LTNG03 Interoperable Invasive Alien Species Data: Bridging the gap	
 
@@ -107,7 +107,7 @@ Organizers:  **Rebekah Kim**
 **Abstract**<br />
 In order to move forward in the path toward decolonization we must accept that the present is the product of the past, and we cannot truly highlight underrepresented communities without setting the historical context. Museums are rooted in colonialism and often tell a biased history that unintentionally excludes underrepresented communities. The panelists here will discuss their individual projects that discuss the colonial history of natural museum collections and exhibitions, amplifying naturalists whose contributions have been overlooked, and how to build community in a profession that lacks diversity.
 
-This work is ever-evolving and strengthened by collaboration, we intend to leave a good amount of time for questions and answers. We will use prompts and facilitated discussion to hear the audience’s responses to these projects, and what they are currently working on and/or envision for their own institutions."
+This work is ever-evolving and strengthened by collaboration, we intend to leave a good amount of time for questions and answers. We will use prompts and facilitated discussion to hear the audience’s responses to these projects, and what they are currently working on and/or envision for their own institutions.
 
 ## POSTER Poster session	
 
@@ -129,7 +129,7 @@ By bringing together community experts, collections management system (CMS) deve
 
 Solutions for effective work processes and satisfactory user experiences at the local level are challenging due to technological and resource limitations as well as institutional requirements. Moreover, conflict can arise with the data quality, integrity and harmonization required by the community’s need for global applications. Yet day-to-day care of natural science collections through CMS connect the engagement and work of individual users and local institutions to national and international collaborative networks, data flows and decision processes.
 
-In this symposium we hope to define with examples the intersections between institutions, the community and technology solutions through contributed talks. These will form the basis for an open discussion to help inform and align involved stakeholders."
+In this symposium we hope to define with examples the intersections between institutions, the community and technology solutions through contributed talks. These will form the basis for an open discussion to help inform and align involved stakeholders.
 
 ## SYM02 Back to Basics Skillshare	
 
@@ -160,7 +160,7 @@ Since the first bioblitz was held in the USA in 1996 these intense biological re
 
 SPNHC and TDWG have both previously held bioblitzes as part of annual conferences and we intend to do so this year as well, split into events for in person and virtual attendees and hosted on iNaturalist. How-to information would be provided for those new to the process. A results announcement event, possibly with prizes, would be held at the end of the conference.
 
-We would also like to hold a symposium discussing how museums have used bioblitzes, including topics such as: did you make partnerships with other organisations, have bioblitzes contributed to wider research, what was the value of the information gained and what are the lessons learned? We welcome talks on any bioblitz related topics."
+We would also like to hold a symposium discussing how museums have used bioblitzes, including topics such as: did you make partnerships with other organisations, have bioblitzes contributed to wider research, what was the value of the information gained and what are the lessons learned? We welcome talks on any bioblitz related topics.
 
 ## SYM05 Biodiversity Biobanking Network GGBN: A global infrastructure for molecular collections	
 
@@ -171,7 +171,7 @@ Organizers:  **Katharine Barker, Jonas Astrin, Gabriele Dröge**
 **Abstract**<br />
 The Global Genome Biodiversity Network (GGBN, http://www.ggbn.org [http://www.ggbn.org]) was founded in 2011 to fill a critical gap in the existing research infrastructure landscape. It consists of DNA and tissue collections at natural history museums, botanic gardens, universities, culture collections, environmental sample collections, gene banks, seed banks, and zoological gardens. These collections provide long-term storage and public access to material used for molecular research of all kinds. The GGBN Data Portal and the GGBN Data Standard have been developed as complementary tools for other infrastructures such as GBIF and INSDC, by enabling standardized access to its member biorepositories and establishing cross links between underlying voucher specimens, sequence data and publications. Today 6.6 million records are available through GGBN from 39 biobanks. Together with CETAF, SPNHC and SYNTHESYS+, GGBN provides best practices for biorepositories on implementation of Nagoya and ABS regulations. In addition, GGBN provides the community with a document library for biobanking knowledge exchange.
 
-In this symposium we will provide an overview of GGBN’s resources for best practice and policies for running and using a biobank focusing on the outcomes of the SYNTHESYS+ project (handbooks/guidelines on protocols and practices in biobanking), https://doi.org/10.3897/ab.e101876 [https://doi.org/10.3897/ab.e101876], on policies around biobank use, https://doi.org/10.3897/rio.9.e102908 [https://doi.org/10.3897/rio.9.e102908] and on permit and contract terminology https://doi.org/10.3897/rio.10.e114366 [https://doi.org/10.3897/rio.10.e114366]). We will also present updates to the GGBN Data Portal, a unified access point to biodiversity biobank sample data."
+In this symposium we will provide an overview of GGBN’s resources for best practice and policies for running and using a biobank focusing on the outcomes of the SYNTHESYS+ project (handbooks/guidelines on protocols and practices in biobanking), https://doi.org/10.3897/ab.e101876 [https://doi.org/10.3897/ab.e101876], on policies around biobank use, https://doi.org/10.3897/rio.9.e102908 [https://doi.org/10.3897/rio.9.e102908] and on permit and contract terminology https://doi.org/10.3897/rio.10.e114366 [https://doi.org/10.3897/rio.10.e114366]). We will also present updates to the GGBN Data Portal, a unified access point to biodiversity biobank sample data.
 
 ## SYM06 Biodiversity Data Standards and FAIR in Prototyping Biodiversity Digital Twins	
 
@@ -191,7 +191,7 @@ Organizers:  **Javier Molina, Francisco Pando, Anne-Sophie Archambeau, Peggy New
 **Abstract**<br />
 Many biodiversity questions --scientific, societal-- require information pertaining to species: descriptions, images, conservation status, legislation. In parallel, most scientific questions as well and those related to conservation, policy or other societal challenges connected with the environment, cannot be approached on the basis of biodiversity data alone, thus requiring these alongside other data types such as climatic, soil, land use, etc.
 
-The Living Atlas platform and indeed any biodiversity infrastructure with the key dimensions of taxa and location are challenged with the prospect of providing software and workflows to answer the questions above. In this session we invite submissions to focus on experiences around the Living Atlas’ Biodiversity Information Explorer, Spatial Portal, and other similar software that may help users navigate regional taxonomic backbone and spatial layers and analysis. The software, data and content behind these tools require substantial effort to implement and maintain. The session offers an opportunity to showcase implementations, share ideas and solutions."
+The Living Atlas platform and indeed any biodiversity infrastructure with the key dimensions of taxa and location are challenged with the prospect of providing software and workflows to answer the questions above. In this session we invite submissions to focus on experiences around the Living Atlas’ Biodiversity Information Explorer, Spatial Portal, and other similar software that may help users navigate regional taxonomic backbone and spatial layers and analysis. The software, data and content behind these tools require substantial effort to implement and maintain. The session offers an opportunity to showcase implementations, share ideas and solutions.
 
 ## SYM08 Biodiversity Informatics for Asia's Biodiverse Future: A focus on collections and collaboration	
 
@@ -202,7 +202,7 @@ Organizers:  **Vijay Barve, Arjan Basu Roy, Melissa Liu**
 **Abstract**<br />
 Asia, a global biodiversity hotspot, faces urgent challenges in conserving its unique ecosystems and endemic species. Biodiversity informatics plays a vital role in understanding and protecting this richness. This symposium brings together active players from across the continent to share their expertise and ignite collaborations.
 
-This year we hope to attract more collections community and cover more specimen related topics. Through shared knowledge and collaborative action, we can ensure a biodiverse future for the continent, leveraging the power of specimen data."
+This year we hope to attract more collections community and cover more specimen related topics. Through shared knowledge and collaborative action, we can ensure a biodiverse future for the continent, leveraging the power of specimen data.
 
 ## SYM09 Biodiversity Knowledge Linking: Progress after BiCIKL and beyond	
 
@@ -222,7 +222,7 @@ Organizers:  **Jeanette Pirlo, Carmi Thompson, Shamindri Tennakoon, Vanessa DelN
 **Abstract**<br />
 Natural history collections (NHCs) chronicle biodiversity through curation of biological, geological, and other specimens. These records typically exclude experienced community members utilizing them in non-traditional capacities. There is a long history of scientists excluding the contributions of local knowledge keepers. NHCs reflect this history, as they have yet to expand to integrate the public, honoring different knowledge systems. Significant work remains to create more inclusive NHCs, broaden our knowledge systems, and gain a contextual understanding of biodiversity. Re-imagining our field, we must decenter Western ideals of collection management - the lens through which our research community sees through. In this community recentering, we can intentionally engage and create dynamic experiences for diverse voices crucial to biodiversity science.
 
-Envisioning our future, increased efforts exist to make biodiversity science more inclusive. Previous scholarship includes professional curatorial workshops for avocational scientists, centering historically excluded learners, and engaging communities through compassionate outreach. This work takes the closed science legacy and welcomes all communities, interweaving indigenous and local knowledge in our NHC practices and support of emergent scientists. Our session highlights successes and challenges as we incorporate communities and collaboratively discuss future paths. We welcome abstract submissions that span, align with, and build upon these motivations."
+Envisioning our future, increased efforts exist to make biodiversity science more inclusive. Previous scholarship includes professional curatorial workshops for avocational scientists, centering historically excluded learners, and engaging communities through compassionate outreach. This work takes the closed science legacy and welcomes all communities, interweaving indigenous and local knowledge in our NHC practices and support of emergent scientists. Our session highlights successes and challenges as we incorporate communities and collaboratively discuss future paths. We welcome abstract submissions that span, align with, and build upon these motivations.
 
 ## SYM11 Catalogue of Life as a Means to Harmonise and Unify Taxonomic Data Services	
 
@@ -242,7 +242,7 @@ Organizers:  **Niels Klazenga, Johan Liljeblad**
 **Abstract**<br />
 The Taxon Concept Schema (TCS) is the TDWG standard for exchanging taxonomic data. The new version, which will make TCS maintainable and elevate it to a current TDWG standard, will go to public review this year. Circumscription or definition of taxonomic groups will not be part of the first release, because it is not straightforward and this information is very rarely exchanged with the elements that are currently available in TCS. However, they are obviously a very important aspect of Taxon Concepts—and therefore a Taxon Concept standard—and the TCS Maintenance Group has every intention of including it at a later stage.
 
-In this symposium we try to bring together presentations about methods of computationally tractable taxon circumscriptions, i.e. definitions that are unambiguous and can be reasoned with—at least by humans at this stage. The goal is to get started on a path towards inclusion of circumscription terms in TCS. Besides filling a gap in TCS, we hope that including these terms in a TDWG standard will bring the various methods of circumsciption to the attention of a larger audience and will hopefully lead to them becoming more mainstream and to the exchange of richer taxonomic data."
+In this symposium we try to bring together presentations about methods of computationally tractable taxon circumscriptions, i.e. definitions that are unambiguous and can be reasoned with—at least by humans at this stage. The goal is to get started on a path towards inclusion of circumscription terms in TCS. Besides filling a gap in TCS, we hope that including these terms in a TDWG standard will bring the various methods of circumsciption to the attention of a larger audience and will hopefully lead to them becoming more mainstream and to the exchange of richer taxonomic data.
 
 ## SYM13 Controlled Vocabularies: The secret sauce that unlocks the power of data consistency and accessibility!	
 
@@ -255,7 +255,7 @@ In the realm of biodiversity standards, controlled vocabularies, carefully curat
 
 Consider, for instance, the term dwc:lifestage. While it alludes to the development of organisms, there are many terms to wrangle since its precise delineation varies significantly across specialized fields like botany or ornithology. Managing these divergent perspectives requires a concerted community effort, ensuring controlled vocabularies capture the entirety of knowledge.
 
-During this session, we invite the community - enthusiasts, experts, and everyone in between - to explore the latest developments in creating, using and managing the ontologies and vocabularies that chart the course toward consistent data exploration."
+During this session, we invite the community - enthusiasts, experts, and everyone in between - to explore the latest developments in creating, using and managing the ontologies and vocabularies that chart the course toward consistent data exploration.
 
 ## SYM14 Emergence of Integrated Public Collection Services: Today's DES experiences for tomorrow's successes	
 
@@ -270,7 +270,7 @@ This symposium provides an opportunity to follow the trajectories of today's suc
 
 Building on this foundation, questions that still need answering include: What is needed for local capacity to develop or be enhanced to such a degree that it can connect with the progressing abstractions, generalizations and data-sharing specifications of global standards? How can global standards be strengthened and elevated, so that they fulfill expectations and form a functional integration layer?
 
-Will the multitude of existing independent, grassroots efforts inevitably coalesce into a globally integrated network or are targeted measures needed? What might the time horizon be for such a spontaneous process? What are our experiences with practical implementation and engagement?"
+Will the multitude of existing independent, grassroots efforts inevitably coalesce into a globally integrated network or are targeted measures needed? What might the time horizon be for such a spontaneous process? What are our experiences with practical implementation and engagement?
 
 ## SYM15 Emergent AI Contributions to Biodiversity Data & Data Standardisation: Opportunities, challenges, and a year in review	
 
@@ -289,7 +289,7 @@ Topics of interest include but not limited to:
  * AI-based biodiversity data extraction and normalisation techniques
  * AI-driven metadata management and ontology development for biodiversity data
 
-In this session there will be a closing that compares topics from presentations this year to presentations given last year to spark discussion how much the field and utilization has evolved since TDWG last convened."
+In this session there will be a closing that compares topics from presentations this year to presentations given last year to spark discussion how much the field and utilization has evolved since TDWG last convened.
 
 ## SYM16 Exploring and Enhancing Collections Metadata with the Global Registry of Scientific Collections (GRSciColl)	
 
@@ -309,7 +309,7 @@ In this session, we will cover:
  3. Practical tips for adding and improving entries: discover how to contribute to GRSciColl by enriching entries for your own institution.
  4. Contributing to GRSciColl's development: get involved in shaping the future of GRSciColl by exploring its roadmap and community initiatives.
 
-Everyone is welcome to join for any part of the symposium."
+Everyone is welcome to join for any part of the symposium.
 
 ## SYM17 From Local Data to Global Insights: Community curation of specimen data	
 
@@ -322,7 +322,7 @@ Urgent needs for data to study the effects of rapid changes in climate and land 
 
 If curation is done after publication, then how can changes effectively round-trip back to the source system? How can post-curation be scaled, and how can others benefit from users cleaning published data for their research? Is it possible to achieve standardised quality indicators (e.g., FAIR assessments) for the data?
 
-This session aims to present advances in community curation of online data by machines, citizen scientists, and domain experts using global standards like the Web Annotation Data Model and Nanopublications. It also aims to present progress in development and use of data quality and completeness indicators such as Minimum Information about a Digital Specimen (TDWG MIDS)."
+This session aims to present advances in community curation of online data by machines, citizen scientists, and domain experts using global standards like the Web Annotation Data Model and Nanopublications. It also aims to present progress in development and use of data quality and completeness indicators such as Minimum Information about a Digital Specimen (TDWG MIDS).
 
 ## SYM18 Globally Linking Taxonomies: Use cases and latest developments	
 
@@ -335,7 +335,7 @@ Efforts to understand, catalogue, preserve, and manage the world's biodiversity 
 
 The symposium invites presentations addressing related topics, including the implementation of name matching mechanisms to harmonize taxonomic names across databases, the role of intermediate aggregators (for specific taxonomic groups, or with with a specific topic, e.g. species conservation) in the workflow between research communities and global aggregators, or the use of the web services in taxonomic revisions. Taxonomies used in natural history collection databases will be specifically addressed in the context of use-cases tested in the EU-funded TETTRIs project.
 
-By linking the outcomes of scientific research to aggregated taxonomies, we aim to improve data integration and accessibility, facilitating more robust analyses and informed decision-making in biodiversity research and conservation. This symposium should foster collaboration among the growing number of initiatives pursuing these aims."
+By linking the outcomes of scientific research to aggregated taxonomies, we aim to improve data integration and accessibility, facilitating more robust analyses and informed decision-making in biodiversity research and conservation. This symposium should foster collaboration among the growing number of initiatives pursuing these aims.
 
 ## SYM19 Harmonizing Databases and Terminology on Biological Invasions for Successful Management Strategies	
 
@@ -348,7 +348,7 @@ Biological invasions pose threats to ecosystems, economies, and human health wor
 
 Setting the scene, we will highlight the fragmented nature of existing databases informing introduced species and the inconsistencies in terminology used to describe invasion status, hindering comprehensive understanding and management. Through case studies and expert insights, the session will demonstrate the benefits of integrating databases, including improved data quality, enhanced accessibility, and better-informed decision-making.
 
-The goals include discussing approaches to harmonize terminology, showcasing successful examples of database integration, and exploring implications for invasive species management and policy development. The outcomes will be especially important for biosecurity in federally managed countries and adjacent nations. We invite presenters to submit abstracts addressing these themes, fostering interdisciplinary dialogue and collaboration in the global effort to combat biological invasions. Join us in advancing solutions to pressing challenges in conservation biology."
+The goals include discussing approaches to harmonize terminology, showcasing successful examples of database integration, and exploring implications for invasive species management and policy development. The outcomes will be especially important for biosecurity in federally managed countries and adjacent nations. We invite presenters to submit abstracts addressing these themes, fostering interdisciplinary dialogue and collaboration in the global effort to combat biological invasions. Join us in advancing solutions to pressing challenges in conservation biology.
 
 ## SYM20 Herbarium Procedures and Techniques: Sharing best practice from across the globe	
 
@@ -359,7 +359,7 @@ Organizers:  **Nina Davies, Alison Moore, Clare Drinkell, Renata Borosova**
 **Abstract**<br />
 The new Herbarium Handbook, published in 2023, came about after extensive research from curators from a swathe of international herbaria. Taking the example of mounting specimens, and realising how much the process varies between institutes, it is easy to see that herbaria have developed unique procedures and techniques for curatorial tasks. Across the globe big things are happening at herbaria, from digitisation to museum accreditation and relocation of collections. Procedures and techniques are being adapted in different ways whilst entirely new protocols and methods are being developed and implemented.
 
-This symposium aims to bring colleagues together to share these updates, interesting findings and lessons learned which will be useful to other herbaria going through similar changes. We encourage best practice considerations and welcome anyone working with these collections to share their experiences."
+This symposium aims to bring colleagues together to share these updates, interesting findings and lessons learned which will be useful to other herbaria going through similar changes. We encourage best practice considerations and welcome anyone working with these collections to share their experiences.
 
 ## SYM21 Indigenous Traditional Knowledge and Natural History Collections	
 
@@ -370,7 +370,7 @@ Organizers:  **Sju-Juo Chen, Tsuo-Ting Li**
 **Abstract**<br />
 The convergence of Indigenous Traditional Knowledge (ITK) and Natural History Collections (NHC) represents a compelling nexus between traditional wisdom and scientific inquiry. Indigenous communities, often deeply connected to their local ecosystems, possess a profound understanding of the environment, biodiversity, and sustainable resource management. Passed down through generations, this wealth of knowledge encapsulates intricate relationships between species, ecosystems, and human societies. Simultaneously, Natural History Collections house a repository of specimens, artifacts, and records that encapsulate the Earth's biological and geological diversity.
 
-The intersection between ITK and NHC presents an opportunity to forge a more holistic and inclusive approach to understanding and preserving our natural world. Integrating Indigenous perspectives into the curation and interpretation of Natural History Collections has the potential to enrich scientific narratives, offering a nuanced understanding of ecosystems that transcends conventional Western scientific paradigms. However, navigating this intersection requires careful consideration of ethical and respectful collaboration with Indigenous communities, acknowledging their sovereignty and ensuring the equitable sharing of benefits. This introduction sets the stage for exploring the synergies and challenges in merging Indigenous Traditional Knowledge with the wealth of information housed within Natural History Collections, fostering a dialogue that transcends disciplinary boundaries for the betterment of biodiversity conservation and scientific understanding."
+The intersection between ITK and NHC presents an opportunity to forge a more holistic and inclusive approach to understanding and preserving our natural world. Integrating Indigenous perspectives into the curation and interpretation of Natural History Collections has the potential to enrich scientific narratives, offering a nuanced understanding of ecosystems that transcends conventional Western scientific paradigms. However, navigating this intersection requires careful consideration of ethical and respectful collaboration with Indigenous communities, acknowledging their sovereignty and ensuring the equitable sharing of benefits. This introduction sets the stage for exploring the synergies and challenges in merging Indigenous Traditional Knowledge with the wealth of information housed within Natural History Collections, fostering a dialogue that transcends disciplinary boundaries for the betterment of biodiversity conservation and scientific understanding.
 
 ## SYM22 Innovative Visualization for Effective Data-Driven Communication	
 
@@ -392,7 +392,7 @@ The International Union for the Conservation of Nature (IUCN)’s Red Lists of T
 
 Advancing the role of collections in biodiversity conservation, the SPNHC Biodiversity Crisis Response Committee has been actively engaging our global community since 2019 in the intersection of collections and conservation action.
 
-How can museum collections and museum staff support the IUCN Red List? Many curators and collections managers may have already been part of assessment teams or undertaken training, while for others this may all be new. This session will provide an overview of the process and would encourage members to become contributors to the IUCN Red List. We are soliciting talks from those who have experience in working with the Red List, telling us about the process and any problems they encountered as well as presenters who have used Red List data for exhibitions, displays, research and (sub-)national reporting."
+How can museum collections and museum staff support the IUCN Red List? Many curators and collections managers may have already been part of assessment teams or undertaken training, while for others this may all be new. This session will provide an overview of the process and would encourage members to become contributors to the IUCN Red List. We are soliciting talks from those who have experience in working with the Red List, telling us about the process and any problems they encountered as well as presenters who have used Red List data for exhibitions, displays, research and (sub-)national reporting.
 
 ## SYM24 Microscope Slide Curation, Conservation, and Access	
 
@@ -439,7 +439,7 @@ Organizers:  **Laura Anne Russell, Elizabeth Ellwood, Katie Pearson**
 **Abstract**<br />
 There is a growing and urgent need to scale up engagement and technical capacity across all global regions, in the sharing and use of open biodiversity data, respecting FAIR and CARE data principles. The context of this need is, principally, the Kunming-Montreal Global Biodiversity Framework (GBF), in particular Targets 20 and 21, which emphasize the importance of capacity building and the availability of biodiversity data, information and knowledge, as critical tools and solutions to address the biodiversity crisis. An additional stimulus is the UNESCO Recommendation on Open Science, which emphasizes the principles of inclusivity, transparency, and collaboration in scientific research, including the availability of open research data.
 
-During this symposium, we will showcase capacity development actions and informatics solutions that empower individuals and institutions to actively contribute within our biodiversity informatics community. We will highlight guidance materials and training approaches that are adapted to multiple local contexts; infrastructure and tools that facilitate collection, management, and sharing of data; and community engagement initiatives that foster collaboration, networking, and knowledge exchange. We will end with a discussion to explore the challenges and future opportunities to expand capacity towards achieving the objectives outlined in Targets 20 and 21."
+During this symposium, we will showcase capacity development actions and informatics solutions that empower individuals and institutions to actively contribute within our biodiversity informatics community. We will highlight guidance materials and training approaches that are adapted to multiple local contexts; infrastructure and tools that facilitate collection, management, and sharing of data; and community engagement initiatives that foster collaboration, networking, and knowledge exchange. We will end with a discussion to explore the challenges and future opportunities to expand capacity towards achieving the objectives outlined in Targets 20 and 21.
 
 ## SYM29 Specify Spotlight: Enhancing biodiversity data management	
 
@@ -456,7 +456,7 @@ In addition to user presentations, a member of the Specify Consortium team will 
 
 The Specify Spotlight session welcomes participation from both in-person and virtual attendees. We encourage researchers, data managers, and biodiversity professionals interested in or users of Specify to attend this session to learn from real-life examples, discover new possibilities, and network with fellow users and experts.
 
-Please join us at the SPNHC-TDWG 2024 conference to explore how Specify software enhances local capacity and contributes to elevating global standards in biodiversity data management."
+Please join us at the SPNHC-TDWG 2024 conference to explore how Specify software enhances local capacity and contributes to elevating global standards in biodiversity data management.
 
 ## SYM3 Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines	
 
@@ -498,7 +498,7 @@ Proposals for this session should include:
  * Institutions that are currently using empathy to interpret their collections.
  * Institutions that are evaluating the efficacy of social-emotional learning on their patrons.
  * Institutions that are evaluating the guest experience regarding cultural relevancy and anti-racism through the interpretation of artifacts and specimens.
- * Institutions that have trained staff and volunteers to interact with the public using empathy or social/emotional learning strategies."
+ * Institutions that have trained staff and volunteers to interact with the public using empathy or social/emotional learning strategies.
 
 ## SYM33 Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology	
 
@@ -529,7 +529,7 @@ During this two-hour long, participatory workshop collection managers, researche
 
 This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at https://www.globalbioticinteractions.org/sources [https://www.globalbioticinteractions.org/sources]).
 
-The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop."
+The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop.
 
 ## WKSH02 Herbarium Challenges: Sharing best practice from across the globe	
 
@@ -540,7 +540,7 @@ Organizers:  **Nina Davies, Alison Moore, Clare Drinkell, Renata Borosova**
 **Abstract**<br />
 Across the globe big things are happening at herbaria, from digitisation to museum accreditation and relocation of collections. The role of curation staff is changing, longstanding procedures and techniques are being adapted whilst entirely new protocols and methods must be developed and implemented to cope with e.g. the global rise of sampling and image requests. The aim for this workshop is to bring colleagues working with herbarium collections together in one place to promote lively discussion, share ideas and, most importantly, solutions to these challenges.
 
-We'd like to invite those with practical day-to-day curation experience to learn and share ideas in a friendly workshop. We would take suggestions from the attendees in advance on the most pressing discussion points to address. These suggestions would then form the basis of the workshop, being sent to the attendees in advance to prepare for. Using collections experience and expertise from herbaria around the globe, we seek to bring colleagues representing herbaria of different type, size and location together to encourage a fascinating and collaborative discussion. Actions and solutions will be recorded in a document and shared after the workshop."
+We'd like to invite those with practical day-to-day curation experience to learn and share ideas in a friendly workshop. We would take suggestions from the attendees in advance on the most pressing discussion points to address. These suggestions would then form the basis of the workshop, being sent to the attendees in advance to prepare for. Using collections experience and expertise from herbaria around the globe, we seek to bring colleagues representing herbaria of different type, size and location together to encourage a fascinating and collaborative discussion. Actions and solutions will be recorded in a document and shared after the workshop.
 
 ## WKSH03 Photography Workshop: Camera basics for field and collections photography	
 
