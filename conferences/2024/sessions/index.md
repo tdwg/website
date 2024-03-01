@@ -1,7 +1,7 @@
 ---
-title: Organized Sessions
+title: SPNHC-TDWG 2024 Sessions
 description: >
- Organized symposia, open sessions, and workshops at the 2024 SPNHC & TDWG Joint Conference
+ Organized symposia, open sessions, panels, and workshops at the 2024 SPNHC-TDWG Conference
 background:
   img: https://images.unsplash.com/photo-1583726933208-71489613d494
   by: Hiroko Yoshii
@@ -9,7 +9,7 @@ background:
 toc: false
 ---
 
-# Index to Sessions
+# Index to sessions
 
 Click a link to read the session abstract.
 
