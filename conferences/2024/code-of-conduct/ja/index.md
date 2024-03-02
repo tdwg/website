@@ -39,6 +39,7 @@ SPNHCおよびTDWGでは、理由の如何を問わず、あらゆる形態の�
 
 沖縄県・一般財団法人沖縄観光コンベンションビューロー（2023）、沖縄MICE 開催におけるサステナビリティガイドライン
 [https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf](https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf).
+
 沖縄県、沖縄21世紀ビジョン
 [https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html](https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html).
  
