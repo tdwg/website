@@ -31,11 +31,11 @@ toc: true
 　  沖縄21世紀ビジョンの考えを基に、ガイドラインも作成されていることから、 　ガイドライン内容が包括的になっている、同ビジョン「5つの将来像」も紹介 
       *「沖縄21世紀ビジョンサステナビリティガイドライン 本行動規範」という建付けとしておりま す。 
   * 参考資料 
-    * サステナビリティガイドライン： https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf 
+    * サステナビリティガイドライン： [https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf](https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf) 
     * 上記①はP16-18（PDFスライド11-12枚目）にございます 
     * 沖縄21世紀ビジョン： <br />
-      https://www.pref.okinawa.lg.jp/kensei/shisaku/1014211/1014223/1014226.html 
-      https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html 
+      [https://www.pref.okinawa.lg.jp/kensei/shisaku/1014211/1014223/1014226.html](https://www.pref.okinawa.lg.jp/kensei/shisaku/1014211/1014223/1014226.html) 
+      [https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html](https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html) 
 
 なお、今回作成した案と各学会の行動規範とで、文章の書きぶりに違いが生じる場合においては、 学会側の書きぶりをご優先いただき、沖縄のものを調整いただいて構いません。 
 またご不明な点やご質問などございましたら、 
