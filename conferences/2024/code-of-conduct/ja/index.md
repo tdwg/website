@@ -8,6 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: true
 ---
+_Translations:_ [🇬🇧🇺🇸 EN](../)
 
 ## SPNHC-TDWG 2024大会行動規範
 
