@@ -34,13 +34,9 @@ Bear in mind the Okinawan spirit that is reflected in two Uchinanchu words that 
 
 ## References
 
-Okinawa Prefectural Government & Okinawa Convention & Visitors Bureau (2023), Okinawa MICE Sustainability Guidelines (in Japanese),
+Okinawa Prefectural Government & Okinawa Convention & Visitors Bureau (2023), Okinawa MICE Sustainability Guidelines (in Japanese), [https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf](https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf).
 
-[https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf](https://mice.okinawastory.jp/root/wp-content/uploads/2023/02/sustainability_guideline_2023.pdf).
-
-Okinawa Prefectural Government, Okinawa 21st Century Vision (in Japanese),
-
-[https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html](https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html).
+Okinawa Prefectural Government, Okinawa 21st Century Vision (in Japanese), [https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html](https://www.pref.okinawa.jp/21vision/htmlver2/future_images.html).
 
 
 ## Reporting an Issue
