@@ -62,7 +62,8 @@ At this time, we invite you to submit abstracts for 15-minute oral presentations
 - When you are ready to start your abstract, follow the [Submission Guidelines for OA Abstracts](https://tdwg.org/conferences/2024/oa-abstract-submission-guidelines) - **deadline 19 April 2024**
 - Submitting authors will be contacted by email through OA (SPNHC TDWG 2024 <no-reply@oxfordabstracts.com>) for provisional acceptance of their abstracts (inclusion in the program is subject to payment of the conference registration fee by the presenter). 
 - By participating in SPNHC-TDWG 2024, you agree to abide by the [Code of Conduct](https://www.tdwg.org/conferences/2024/code-of-conduct/)
-- Please send additional questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).
+- Please send additional questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).<br />
+  日本語での問い合わせも受け付けています。
 - **Key dates**
   - Abstract submission opens: 4 March 2024 
   - Submission deadline: 19 April 2024 
