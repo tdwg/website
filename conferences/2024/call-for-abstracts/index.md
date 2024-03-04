@@ -1,9 +1,9 @@
 ---
-title: 2024 Abstract Submission Guidelines 
+title: Call for Abstracts and Submission Guidelines 
 description: >
-  For abstracts to be presented at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September. Abstract deadline 19 April 2024.
+  Call for abstracts to be presented at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September. Deadline 19 April 2024.
 background:
-  img: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
+  img: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad
   by: Dave Hoefler
   href: https://unsplash.com/photos/DVauUHIJby0
 toc: true
@@ -63,7 +63,7 @@ As the submitter, you will be asked to fill out the following form fields. Respo
   - This required affirmation gives permission to the organizers of SPNHC-TDWG 2024 to publish this abstract on electronic media and in hardcopy (i.e., in the abstract book, program, and poster gallery) if it is accepted for presentation.
  
 
-**Hit SUBMIT**  You may pause in the completion of this form at any time but MUST hit the submit button to save and be able to return to it before the deadline. Hitting submit will do two things:
+**Press SUBMIT**  You may pause in the completion of this form at any time but MUST press the submit button to save and be able to return to it before the deadline. Pressing submit will do two things:
 
 - Generate an email about the status of your abstract submission, including a link to access it for revisions.
 - Provide a list of sessions (see [https://www.tdwg.org/conferences/2024/sessions/](https://www.tdwg.org/conferences/2024/sessions/)) for you to ATTACH your presentation. 
