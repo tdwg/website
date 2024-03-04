@@ -8,6 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
+Last modified 2024-03-03
 
 ## Index to sessions
 
@@ -15,8 +16,8 @@ Click a link to read the session abstract.
 
 | Session Code | Session Title |
 | --- | --- |
-| CONTRIB | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#contrib-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
-| GENRL | [General Presentations: Enhancing local capacity, elevating global standards](#genrl-general-presentations-enhancing-local-capacity-elevating-global-standards) |
+| CTRB01 | [General Presentations: Enhancing local capacity, elevating global standards](#ctrb01-general-presentations-enhancing-local-capacity-elevating-global-standards) |
+| CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#cntrb02-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
 | DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01-democamp-live-demonstrations-of-technology-for-natural-history-collections-and-biodiversity-data) |
 | LTNG01 | [Digitization Coordination](#ltng01-digitization-coordination) |
 | LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02-diversity-and-commonalities-of-ai-applications-to-biodiversity-issues-and-data) |
@@ -55,8 +56,8 @@ Click a link to read the session abstract.
 | SYM27 | [Pre- & Post Disaster Management of Natural History Collections](#sym27-pre---post-disaster-management-of-natural-history-collections) |
 | SYM28 | [Scaling Up Capacity to Address Global Biodiversity Goals for Data Mobilization and Use](#sym28-scaling-up-capacity-to-address-global-biodiversity-goals-for-data-mobilization-and-use) |
 | SYM29 | [Specify Spotlight: Enhancing biodiversity data management](#sym29-specify-spotlight-enhancing-biodiversity-data-management) |
-| SYM3 | [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym3-success-metrics-focusing-local-capacity-on-relevance-demonstrating-relevance-with-global-baselines) |
 | SYM30 | [SPNHC to TDWG: Bridging communities and building capacity for digital collections mobilization](#sym30-spnhc-to-tdwg-bridging-communities-and-building-capacity-for-digital-collections-mobilization) |
+| SYM31 | [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31-success-metrics-focusing-local-capacity-on-relevance-demonstrating-relevance-with-global-baselines) |
 | SYM32 | [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32-through-interpretation-using-empathy-and-social-emotional-frameworks-to-interpret-our-collections-for-the-public) |
 | SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33-unlocking-barriers-and-access-inequities-to-museum-collections-in-archaeology-and-paleontology) |
 | SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen-based research in Indo-Pacific Asia](#sym34-unveiling-the-rich-tapestry-biodiversity-collection-practices-and-specimen-based-research-in-indo-pacific-asia) |
@@ -66,16 +67,7 @@ Click a link to read the session abstract.
 
 ## Session abstracts
 
-### CONTRIB Contributed oral presentations related to any aspect of SPNHC or TDWG interest	
-
-Session Type: Symposium; Open to abstract submissions<br />
-Conference Track:  General interest<br />
-Organizers:  **Elycia Wallis**
-
-**Abstract**<br />
-There are many symposia, panel discussions, workshops and other rich offerings for the SPNHC-TDWG 2024 conference. There will be presentations offered that don't clearly fit in any of these. This session - which may be several sessions - will provide a way for people to offer talks on any topic of interest to the SPNHC and TDWG audiences.
-
-### GENRL General Presentations: Enhancing local capacity, elevating global standards	
+### CTRB01 General Presentations: Enhancing local capacity, elevating global standards	
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  General interest<br />
@@ -83,6 +75,15 @@ Organizers:  **Shelley James, Julia Percy-Bower**
 
 **Abstract**<br />
 This general session is for presentations that fit within the SPNHC TDWG 2024 theme "Enhancing Local Capacity, Elevating Global Standards".
+
+### CTRB02 Contributed oral presentations related to any aspect of SPNHC or TDWG interest	
+
+Session Type: Symposium; Open to abstract submissions<br />
+Conference Track:  General interest<br />
+Organizers:  **Elycia Wallis**
+
+**Abstract**<br />
+There are many symposia, panel discussions, workshops and other rich offerings for the SPNHC-TDWG 2024 conference. There will be presentations offered that don't clearly fit in any of these. This session - which may be several sessions - will provide a way for people to offer talks on any topic of interest to the SPNHC and TDWG audiences.
 
 ### DEMO01 DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data	
 
@@ -515,15 +516,6 @@ The Specify Spotlight session welcomes participation from both in-person and vir
 
 Please join us at the SPNHC-TDWG 2024 conference to explore how Specify software enhances local capacity and contributes to elevating global standards in biodiversity data management.
 
-### SYM3 Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines	
-
-Session Type: Mixed session (talks, discussion, activity); Open to abstract submissions<br />
-Conference Track:  General interest<br />
-Organizers:  **Austin Mast, David Jennings**
-
-**Abstract**<br />
-We seek to bridge strategic planning at collections, which centers on metrics of local relevance, with national, regional, and global efforts, which, e.g., make data aggregation possible or provide accreditation but do not intentionally seek to produce baselines for the metrics by which local collections judge success. The organizers will give a pair of talks on (1) the roles of strategic planning in collections and metrics in evaluation and (2) the metrics by which >700 US collections organizations measure success. Additional talks will be sought from a diversity of speakers for both the local strategic planning perspective and the national, regional, and global community perspectives. Collectively, the talks will inform an extended group conversation focused on inventorying high-value metrics for which baselines have been elusive in the absence of intentional efforts. We hope that surfacing these metrics and baselines will lead to gap-filling efforts by the community.
-
 ### SYM30 SPNHC to TDWG: Bridging communities and building capacity for digital collections mobilization	
 
 Session Type: Symposium; Open to abstract submissions<br />
@@ -532,6 +524,15 @@ Organizers:  **Erica Krimmel, Talia Karim, Holly Little, Lindsay Walker**
 
 **Abstract**<br />
 Members of the SPNHC and TDWG communities have been working towards a unified goal of mobilizing specimen data from neontological and paleontological collections, but often from very different starting points (e.g. specimen digitization, standards development) and with different sets of expertise, awareness, and understanding of what is happening in the other’s domain. Those disconnects stymy full realization of this mutual goal. By centering community building and making the biodiversity data ecosystem more accessible across the collective work of these groups, we can identify challenges and enable a more interconnected and cohesive approach in our collections data practices. This symposium will focus on biodiversity data as a throughline between professional communities, bringing together perspectives from both the collections-based expertise of SPNHC and the informatics worldview of TDWG. Speakers will share their experience working to build digitization and data mobilization capacity in contexts ranging from institutional to international, with the option to focus on either success or failure. Talks will highlight how local capacity supported by strong communities of practice is essential for building a sustainable open ecosystem of digital biodiversity data. Session will close with a brief discussion.
+
+### SYM31 Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines	
+
+Session Type: Mixed session (talks, discussion, activity); Open to abstract submissions<br />
+Conference Track:  General interest<br />
+Organizers:  **Austin Mast, David Jennings**
+
+**Abstract**<br />
+We seek to bridge strategic planning at collections, which centers on metrics of local relevance, with national, regional, and global efforts, which, e.g., make data aggregation possible or provide accreditation but do not intentionally seek to produce baselines for the metrics by which local collections judge success. The organizers will give a pair of talks on (1) the roles of strategic planning in collections and metrics in evaluation and (2) the metrics by which >700 US collections organizations measure success. Additional talks will be sought from a diversity of speakers for both the local strategic planning perspective and the national, regional, and global community perspectives. Collectively, the talks will inform an extended group conversation focused on inventorying high-value metrics for which baselines have been elusive in the absence of intentional efforts. We hope that surfacing these metrics and baselines will lead to gap-filling efforts by the community.
 
 ### SYM32 Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.	
 
