@@ -149,7 +149,7 @@ We are looking for short, lightning-round type talks on one special specimen in 
 
 ### PANEL01 Environmental and Biological Sample Banking in MENA Nations	
 
-Session Type: Panel Discussion; Closed - abstract submission for invited participants only<br />
+Session Type: Panel Discussion; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  General interest<br />
 Organizers:  **Ahmad Mahdavi**
 
@@ -158,7 +158,7 @@ Sample banking in the Middle East and North Africa (MENA) region involves collec
 
 ### PANEL02 Telling the Whole Story of Science	
 
-Session Type: Panel Discussion; Closed - abstract submission for invited participants only<br />
+Session Type: Panel Discussion; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  SPNHC<br />
 Organizers:  **Rebekah Kim**
 
@@ -222,7 +222,7 @@ We would also like to hold a symposium discussing how museums have used bioblitz
 
 ### SYM05 Biodiversity Biobanking Network GGBN: A global infrastructure for molecular collections	
 
-Session Type: Symposium; Closed - abstract submission for invited participants only<br />
+Session Type: Symposium; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  General interest<br />
 Organizers:  **Katharine Barker, Jonas Astrin, Gabriele Dröge**
 
@@ -284,7 +284,7 @@ Envisioning our future, increased efforts exist to make biodiversity science mor
 
 ### SYM11 Catalogue of Life as a Means to Harmonise and Unify Taxonomic Data Services	
 
-Session Type: Symposium; Closed - abstract submission for invited participants only<br />
+Session Type: Symposium; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  General interest<br />
 Organizers:  **Olaf Banki, Joe Miller, Donald Hobern**
 
@@ -351,7 +351,7 @@ In this session there will be a closing that compares topics from presentations 
 
 ### SYM16 Exploring and Enhancing Collections Metadata with the Global Registry of Scientific Collections (GRSciColl)	
 
-Session Type: Symposium; Closed - abstract submission for invited participants only<br />
+Session Type: Symposium; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  General interest<br />
 Organizers:  **Marie Grosjean, Laura Anne Russell, Cecilie Svenningsen**
 
@@ -578,7 +578,7 @@ Join us at the SPNHC's first-ever meeting in Asia, amidst the vibrant biodiversi
 
 ### WKSH01 Data Carpentry: Introduction to species interaction data with GloBi	
 
-Session Type: Workshop; Closed - abstract submission for invited participants only<br />
+Session Type: Workshop; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  General interest<br />
 Organizers:  **Kristi Liu, Katja Seltmann**
 
@@ -591,7 +591,7 @@ The proposed outcome of this workshop is a reusable Carpentries lesson and impro
 
 ### WKSH02 Herbarium Challenges: Sharing best practice from across the globe	
 
-Session Type: Workshop; Closed - abstract submission for invited participants only<br />
+Session Type: Workshop; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  SPNHC<br />
 Organizers:  **Nina Davies, Alison Moore, Clare Drinkell, Renata Borosova**
 
@@ -602,7 +602,7 @@ We'd like to invite those with practical day-to-day curation experience to learn
 
 ### WKSH03 Photography Workshop: Camera basics for field and collections photography	
 
-Session Type: Workshop; Closed - abstract submission for invited participants only<br />
+Session Type: Workshop; CLOSED - abstract submission for invited participants only<br />
 Conference Track:  SPNHC<br />
 Organizers:  **Ian M. Wright**
 
