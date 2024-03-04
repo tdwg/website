@@ -8,7 +8,10 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: true
 ---
+
 _Translations:_ [🇯🇵 JA](./ja/)
+
+Last modified: 2024-03-03
 
 ## SPNHC – TDWG 2024 Code of Conduct
 
