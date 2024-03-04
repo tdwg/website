@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified: 2024-03-03
+Last modified: 2024-03-04
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -52,11 +52,13 @@ Last modified: 2024-03-03
 
 SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations welcome new participants from across Asia.  Please join us and meet your colleagues from around the world!
 
-## Calls for organized sessions and individual contributions
+## Calls for organized sessions (CLOSED)
 
 The [call for proposals to organize sessions](https://mailchi.mp/tdwg.org/spnhc-tdwg-2024-okinawa-call-for-organized-sessions) (i.e., symposia, panels, workshops, etc.) has been distributed (11 Jan 2024). The submission (hard) deadline is 16 February 2024, at the close of Business in your time zone.  Please contact the [conference organizers](mailto:okinawa2024@spnhc.org) with any questions.
 
-The call for abstracts (individual contributions) will go out in early March.  Watch for the announcement!
+## Call for abstracts
+
+The [call for abstracts](/conferences/2024/call-for-abstracts/) for individual oral or poster presentations in Oxford Abstracts is now open. Please see the [Submission Guidelines for OA Abstracts](/conferences/2024/oa-abstract-submission-guidelines/). **DEADLINE: 19 April 2024**
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
