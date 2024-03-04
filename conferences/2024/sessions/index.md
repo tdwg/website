@@ -17,7 +17,7 @@ Click a link to read the session abstract.
 | Session Code | Session Title |
 | --- | --- |
 | CTRB01 | [General Presentations: Enhancing local capacity, elevating global standards](#ctrb01-general-presentations-enhancing-local-capacity-elevating-global-standards) |
-| CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#cntrb02-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
+| CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#ctrb02-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
 | DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01-democamp-live-demonstrations-of-technology-for-natural-history-collections-and-biodiversity-data) |
 | LTNG01 | [Digitization Coordination](#ltng01-digitization-coordination) |
 | LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02-diversity-and-commonalities-of-ai-applications-to-biodiversity-issues-and-data) |
