@@ -87,5 +87,7 @@ If your abstract is accepted, the presenter will need to register for the confer
 
 ## Contact
 
-Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org)
-Direct questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) 
+Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org) <br />
+Direct questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) <br />
+日本語での問い合わせも受け付けています。
+
