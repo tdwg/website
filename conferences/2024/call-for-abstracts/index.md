@@ -49,7 +49,7 @@ We are pleased to announce the call for abstract submissions to SPNHC-TDWG 2024,
 
 ### Invitation to submit abstract
 
-At this time, we invite you to submit abstracts for 15-minute oral presentations, poster presentations, and lightning talks. Content may be presented in-person or pre-recorded. We are working on providing the technology to support remote participation for presenters. Accepted abstracts will be published via [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/homepage) (OA). Final approval for publication requires payment of any conference registration fees by the presenter. Authors additionally will have the option to publish an extended version of their abstract in _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections/))_, where slides and video recordings can be associated (details to be announced in May). Please visit the [conference website](https://www.tdwg.org/conferences/2024/) for more information and to see details in the [Submission Guidelines for Abstracts](https://tdwg.org/conferences/2024/oa-abstract-submission-guidelines).
+At this time, we invite you to submit abstracts for 15-minute oral presentations, poster presentations, and lightning talks. Content may be presented in-person or pre-recorded. We are working on providing the technology to support remote participation for presenters. Accepted abstracts will be published via [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/homepage) (OA). Final approval for publication requires payment of any conference registration fees by the presenter. Authors additionally will have the option to publish an extended version of their abstract in _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections/))_, where slides and video recordings can be associated (details to be announced in May). Please visit the [conference website](https://www.tdwg.org/conferences/2024/) for more information and to see details in the [Submission Guidelines for OA Abstracts](https://tdwg.org/conferences/2024/oa-abstract-submission-guidelines).
 
 ## What you need to know
 
@@ -58,8 +58,8 @@ At this time, we invite you to submit abstracts for 15-minute oral presentations
   - You will be asked to choose a session _after_ you submit your form.
   - To submit to a CLOSED session, you must have prior consent of the session's organizers.
   - If none of the sessions seem to fit your topic, submit it in a contributed session or as a (virtual) poster.
-- Not all submissions for oral presentations may be granted due to scheduling difficulties. In such cases, presenters will be asked to present a virtual poster (with a short pre-recorded video).
-- When you are ready to start your abstract, follow the [Submission Guidelines for OA Abstracts](https://tdwg.org/conferences/2024/oa-abstract-submission-guidelines) - **deadline 19 April 2024**
+- Not all submissions for oral presentations may be accepted due to limited capacity. In such cases, presenters will be asked to present a virtual poster (with a short pre-recorded video).
+- When you are ready to start your abstract, follow the [Submission Guidelines for OA Abstracts](https://tdwg.org/conferences/2024/oa-abstract-submission-guidelines) - **deadline 19 April 2024.** We recommend compiling your title, authors, author affiliations, and abstract offline, before starting your submission online.
 - Submitting authors will be contacted by email through OA (SPNHC TDWG 2024 <no-reply@oxfordabstracts.com>) for provisional acceptance of their abstracts (inclusion in the program is subject to payment of the conference registration fee by the presenter). 
 - By participating in SPNHC-TDWG 2024, you agree to abide by the [Code of Conduct](https://www.tdwg.org/conferences/2024/code-of-conduct/)
 - Please send additional questions about abstracts to [editor@tdwg.org](mailto:editor@tdwg.org).<br />
