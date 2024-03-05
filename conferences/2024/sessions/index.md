@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-03-03
+Last modified 2024-03-05
 
 ## Index to sessions
 
@@ -306,7 +306,7 @@ In this symposium we try to bring together presentations about methods of comput
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **Cecilie Svenningsen, Marie Grosjean, Laura Anne Russell**
+Organizers:  **Cecilie Svenningsen, Marie Grosjean, Laura Anne Russell, Markus Döring**
 
 **Abstract**<br />
 In the realm of biodiversity standards, controlled vocabularies, carefully curated collections of terms tailored to specific fields, act as the bridge connecting local insights to global context. But crafting and curating these vocabularies is not a one-person job. It requires collaboration across scientific disciplines and expert knowledge.
