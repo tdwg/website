@@ -10,13 +10,10 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    SPNHC-TDWG 2024: Call for abstracts
+    SPNHC-TDWG 2024: Call for abstracts! Deadline: 19 April 2024
   href: /conferences/2024/call-for-abstracts/
   img: https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-combined.png
 ---
-
-<!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
-<!--  https://static.tdwg.org/conferences/2023/images/tdwg2023-logo-gradient-cropped-3-1.jpg -->
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
 
