@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Working sessions for TDWG Interest / Task / Maintenance Groups, 19-22 Feb.
-  href: https:/news/2024/working-sessions/
-  img: https://images.unsplash.com/photo-1569406125624-98ee19b01d4a
+    SPNHC-TDWG 2024: Call for abstracts
+  href: /conferences/2024/call-for-abstracts/
+  img: https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
