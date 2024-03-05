@@ -12,7 +12,7 @@ featured: # description, href, img
   description: >
     SPNHC-TDWG 2024: Call for abstracts
   href: /conferences/2024/call-for-abstracts/
-  img: https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png
+  img: https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-combined.png
 ---
 
 <!--  https://static.tdwg.org/conferences/2023/images/hobart-conference-centre.jpg -->
