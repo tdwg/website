@@ -133,7 +133,7 @@ Over the past year, the importance of interoperable Invasive Alien Species (IAS)
 
 Session Type: Lightning Talks; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **Takashi Hosono, W. Appeltans, Katsunori Fujikura**
+Organizers:  **Takashi Hosono, Ward Appeltans, Katsunori Fujikura, Katherine Tattersall**
 
 **Abstract**<br />
 The Ocean Biodiversity Information System (OBIS), which is responsible for aggregating and disseminating biodiversity data globally in the marine community, has been working with data providers to format raw survey data into a DarwinCore format (DwC) that is findable, integratable, and reusable. The OBIS activities to date have been successful, as evidenced by the rapid expansion of OBIS data in recent years. However, the success was a result of various communications with the data providers, and there would have been many successes and many failures in the communication. In this session, we will share lessons learned from communication with local data providers in promoting data integration (i.e. promote the use of DwC) in the marine community. The session is expected to be attended by data providers, data curators, and data managers. Analogies from terrestrial cases are also welcome.
