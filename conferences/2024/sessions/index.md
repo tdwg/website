@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-03-05
+Last modified 2024-03-13
 
 ## Index to sessions
 
@@ -570,7 +570,7 @@ Join us at the SPNHC's first-ever meeting in Asia, amidst the vibrant biodiversi
 
 ### SYM35 Digitization Coordination 
 
-Session Type: Lightning Talks; Open to abstract submissions<br />
+Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  SPNHC<br />
 Organizers:  **Alyson Wilkins, Kira Sobers, Gary Motz**
 
