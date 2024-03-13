@@ -19,7 +19,7 @@ Click a link to read the session abstract.
 | CTRB01 | [General Presentations: Enhancing local capacity, elevating global standards](#ctrb01-general-presentations-enhancing-local-capacity-elevating-global-standards) |
 | CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#ctrb02-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
 | DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01-democamp-live-demonstrations-of-technology-for-natural-history-collections-and-biodiversity-data) |
-| LTNG01 | [Digitization Coordination](#ltng01-digitization-coordination) |
+| LTNG01 | see SYM35 [Digitization Coordination](#sym35-digitization-coordination) |
 | LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02-diversity-and-commonalities-of-ai-applications-to-biodiversity-issues-and-data) |
 | LTNG03 | [Interoperable Invasive Alien Species Data: Bridging the gap](#ltng03-interoperable-invasive-alien-species-data-bridging-the-gap) |
 | LTNG04 | [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#ltng04-lessons-learned-from-local-data-providers-in-the-marine-community-dwc-data-connect-local-to-global) |
@@ -61,6 +61,7 @@ Click a link to read the session abstract.
 | SYM32 | [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32-through-interpretation-using-empathy-and-social-emotional-frameworks-to-interpret-our-collections-for-the-public) |
 | SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33-unlocking-barriers-and-access-inequities-to-museum-collections-in-archaeology-and-paleontology) |
 | SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen-based research in Indo-Pacific Asia](#sym34-unveiling-the-rich-tapestry-biodiversity-collection-practices-and-specimen-based-research-in-indo-pacific-asia) |
+| SYM35 | [Digitization Coordination](#sym35-digitization-coordination) |
 | WKSH01 | [Data Carpentry: Introduction to species interaction data with GloBi](#wksh01-data-carpentry-introduction-to-species-interaction-data-with-globi) |
 | WKSH02 | [Herbarium Challenges: Sharing best practice from across the globe](#wksh02-herbarium-challenges-sharing-best-practice-from-across-the-globe) |
 | WKSH03 | [Photography Workshop: Camera basics for field and collections photography](#wksh03-photography-workshop-camera-basics-for-field-and-collections-photography) |
@@ -97,15 +98,6 @@ Digital technology and standards are increasingly critical components of natural
 Since its debut at SPNHC 2009, DemoCamp has provided a venue for developers, biodiversity informaticians, digitization managers, and collection managers to convene and share innovative approaches for the use of technology to enhance the management and use of natural history collections. Presentations demonstrate the use of software, tools, services, and workflows that enhance capacity, use global standards, and extend the accessibility and quality of information.
 
 The format of DemoCamp dictates that presentations must be “live, without a net” and forbids the use of slideshows. Each presenter is allotted time for demonstrating the technology as well as questions from the audience. This format ensures that only functional technology is presented.
-
-### LTNG01 Digitization Coordination	
-
-Session Type: Lightning Talks; Open to abstract submissions<br />
-Conference Track:  SPNHC<br />
-Organizers:  **Alyson Wilkins, Kira sobers, Gary Motz**
-
-**Abstract**<br />
-Many larger museums and archives have begun to implement a centralized approach to digitization of the collections by creating Digitization Coordinator positions. This new effort has initiated a coordinated vision for digitization which incorporates priorities, workflows, and resources to greatly improve the efficiency and throughput of digitization in collections. This effort is gaining more attention as the community recognizes the benefit of creating a more structured cross-disciplinary approach to digitization, allowing for better awareness and resourcing of the digitization needs in collections. Throughout a 3 day workshop held at the U.S. National Museum of Natural History in May 2023, it became evident that coordination of digitization efforts within natural history collections is multifaceted with many different stakeholders. Collaborations between different institutions and across the globe can significantly strengthen the impact and sharing of knowledge. Participants agreed that a community network focused on information and resource sharing amongst people working in digitization coordinator roles or associated efforts was needed. The group set goals to create a “Digitization Coordinator Network” (DigiCoordNet) to help address these needs in the community. This session will highlight what has been accomplished to date by this coordinated effort and provide a focal point for community engagement with job descriptions, described skillsets and resources for digitization coordinators, and success stories that detail the efforts undertaken by several institutions that have appointed centralized leadership across disciplinary siloes within and among institutions.
 
 ### LTNG02 Diversity and Commonalities of AI Applications to Biodiversity Issues and Data	
 
@@ -575,6 +567,15 @@ Organizers:  **Ming-Luen Jeng, Jing-Fu Tsai, Jhan-Wei Lin, Yu-Ling Huang**
 
 **Abstract**<br />
 Join us at the SPNHC's first-ever meeting in Asia, amidst the vibrant biodiversity hotspots of Indo-Pacific Asia. This symposium is a groundbreaking opportunity for museums and institutions across Indo-Pacific Asia to highlight their contributions to the preservation and understanding of biodiversity. Our goal is to build bridges with local entities, showcasing the vast and varied collections that narrate the story of our natural world. We warmly invite submissions to share your institution's unique collection, management strategies, and daily curation tales. Your research stories, drawn from the very specimens you steward, are especially coveted. This session is about sharing the how-tos, the lessons learned, and the best practices that underpin our work. Whether it's workflow insights, conservation tips, or research findings, your input is key to enriching our collective knowledge base. Your participation will spotlight the distinctiveness of your collection and contribute to a broader understanding of biodiversity collection practices across Indo-Pacific Asia. Let's knit together a fabric of collaboration, conservation, and discovery that elevates the global discourse on natural history preservation. Abstract submissions should encapsulate these themes, aiming to foster a dynamic exchange of knowledge among researchers, curators, and conservationists committed to safeguarding the biodiversity of Indo-Pacific Asia.
+
+### SYM35 Digitization Coordination 
+
+Session Type: Lightning Talks; Open to abstract submissions<br />
+Conference Track:  SPNHC<br />
+Organizers:  **Alyson Wilkins, Kira Sobers, Gary Motz**
+
+**Abstract**<br />
+Many larger museums and archives have begun to implement a centralized approach to digitization of the collections by creating Digitization Coordinator positions. This new effort has initiated a coordinated vision for digitization which incorporates priorities, workflows, and resources to greatly improve the efficiency and throughput of digitization in collections. This effort is gaining more attention as the community recognizes the benefit of creating a more structured cross-disciplinary approach to digitization, allowing for better awareness and resourcing of the digitization needs in collections. Throughout a 3 day workshop held at the U.S. National Museum of Natural History in May 2023, it became evident that coordination of digitization efforts within natural history collections is multifaceted with many different stakeholders. Collaborations between different institutions and across the globe can significantly strengthen the impact and sharing of knowledge. Participants agreed that a community network focused on information and resource sharing amongst people working in digitization coordinator roles or associated efforts was needed. The group set goals to create a “Digitization Coordinator Network” (DigiCoordNet) to help address these needs in the community. This session will highlight what has been accomplished to date by this coordinated effort and provide a focal point for community engagement with job descriptions, described skillsets and resources for digitization coordinators, and success stories that detail the efforts undertaken by several institutions that have appointed centralized leadership across disciplinary siloes within and among institutions.
 
 ### WKSH01 Data Carpentry: Introduction to species interaction data with GloBi	
 
