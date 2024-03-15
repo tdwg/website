@@ -163,7 +163,7 @@ This work is ever-evolving and strengthened by collaboration, we intend to leave
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  General interest<br />
-Organizers:  **[Elycia Wallis](mailto:)**
+Organizers:  **[Elycia Wallis](mailto:ely.wallis@csiro.au)**
 
 **Abstract**<br />
 Presentations that will be given as posters. Please choose this session type if you wish to present a poster rather than give an oral presentation.
@@ -172,7 +172,7 @@ Presentations that will be given as posters. Please choose this session type if 
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  General interest<br />
-Organizers:  **[Steen Dupont](mailto:), Jutta Buschbom**
+Organizers:  **[Steen Dupont](mailto:steen.dupont@nhm.ac.uk), Jutta Buschbom**
 
 **Abstract**<br />
 By bringing together community experts, collections management system (CMS) developers, and institutional stakeholders we want to discuss the latest developments, challenges, and opportunities at the intersections between CMS solutions, institutional requirements and bio-geodiversity community needs. A better understanding of these intersections is critical in aligning expectations of the parties involved. Giving rise to shared commitment, alignment can leverage the power of CMS solutions for institutional and public services and elevate the visibility and impact of natural science collections and community experts worldwide.
@@ -258,7 +258,7 @@ This year we hope to attract more collections community and cover more specimen 
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **[Lyubomir Penev](mailto:), Wouter Addink**
+Organizers:  **[Lyubomir Penev](mailto:l.penev@pensoft.net), Wouter Addink**
 
 **Abstract**<br />
 The European Commission-funded BiCIKL project catalysed a culture change in the way biodiversity data is linked and integrated between infrastructures. In the project, which ended May 2024, partners representing 15 European and international infrastructures worked together to create and improve connections between primary biodiversity data, molecular data and literature. The project also improved access to data, associated tools and services at each RI, between RIs and along the research cycle. The Biodiversity Knowledge Hub (BKH) was established as a knowledge broker and catalogue of services to facilitate access to novel tools and services for linked FAIR data developed in the course of the project and provided by the participating Research Infrastructures. The portal also provides extensive recommendations for improving interoperability. This session aims to give a summary of the achieved progress, current state of play, share some thoughts how this will affect data sharing, standards usage and research and pave the way for future collaboration and development.
@@ -563,7 +563,7 @@ Studies adopting destructive sampling methods of archaeological and paleontologi
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  General interest<br />
-Organizers:  **[Ming-Luen Jeng](mailto:), Jing-Fu Tsai, Jhan-Wei Lin, Yu-Ling Huang**
+Organizers:  **[Ming-Luen Jeng](mailto:jengml@nmns.edu.tw), Jing-Fu Tsai, Jhan-Wei Lin, Yu-Ling Huang**
 
 **Abstract**<br />
 Join us at the SPNHC's first-ever meeting in Asia, amidst the vibrant biodiversity hotspots of Indo-Pacific Asia. This symposium is a groundbreaking opportunity for museums and institutions across Indo-Pacific Asia to highlight their contributions to the preservation and understanding of biodiversity. Our goal is to build bridges with local entities, showcasing the vast and varied collections that narrate the story of our natural world. We warmly invite submissions to share your institution's unique collection, management strategies, and daily curation tales. Your research stories, drawn from the very specimens you steward, are especially coveted. This session is about sharing the how-tos, the lessons learned, and the best practices that underpin our work. Whether it's workflow insights, conservation tips, or research findings, your input is key to enriching our collective knowledge base. Your participation will spotlight the distinctiveness of your collection and contribute to a broader understanding of biodiversity collection practices across Indo-Pacific Asia. Let's knit together a fabric of collaboration, conservation, and discovery that elevates the global discourse on natural history preservation. Abstract submissions should encapsulate these themes, aiming to foster a dynamic exchange of knowledge among researchers, curators, and conservationists committed to safeguarding the biodiversity of Indo-Pacific Asia.
@@ -572,7 +572,7 @@ Join us at the SPNHC's first-ever meeting in Asia, amidst the vibrant biodiversi
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  SPNHC<br />
-Organizers:  **[Alyson Wilkins](mailto:), Kira Sobers, Gary Motz**
+Organizers:  **[Alyson Wilkins](mailto:awilkins@nhmu.utah.edu), Kira Sobers, Gary Motz**
 
 **Abstract**<br />
 Many larger museums and archives have begun to implement a centralized approach to digitization of the collections by creating Digitization Coordinator positions. This new effort has initiated a coordinated vision for digitization which incorporates priorities, workflows, and resources to greatly improve the efficiency and throughput of digitization in collections. This effort is gaining more attention as the community recognizes the benefit of creating a more structured cross-disciplinary approach to digitization, allowing for better awareness and resourcing of the digitization needs in collections. Throughout a 3 day workshop held at the U.S. National Museum of Natural History in May 2023, it became evident that coordination of digitization efforts within natural history collections is multifaceted with many different stakeholders. Collaborations between different institutions and across the globe can significantly strengthen the impact and sharing of knowledge. Participants agreed that a community network focused on information and resource sharing amongst people working in digitization coordinator roles or associated efforts was needed. The group set goals to create a “Digitization Coordinator Network” (DigiCoordNet) to help address these needs in the community. This session will highlight what has been accomplished to date by this coordinated effort and provide a focal point for community engagement with job descriptions, described skillsets and resources for digitization coordinators, and success stories that detail the efforts undertaken by several institutions that have appointed centralized leadership across disciplinary siloes within and among institutions.
