@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 4 March 2024_
+_Last updated 18 March 2024_
 
 ## About the Program
 
@@ -26,7 +26,7 @@ We welcome your submissions for abstracts via the SPNHC-TDWG 2024 conference pla
 **Sign in or create an account** with Oxford Abstracts [https://auth.oxfordabstracts.com/?redirect=virtual/event/6771/homepage](https://auth.oxfordabstracts.com/?redirect=virtual/event/6771/homepage) before accessing the submission portal. Note that event organizers will use this email to communicate with you about the conference and your abstract submission.
 
 **Access the submission form** [https://app.oxfordabstracts.com/stages/8623/submitter](https://app.oxfordabstracts.com/stages/8623/submitter) after signing in.
-As the submitter, you will be asked to fill out the following form fields. Responses to nearly all questions are required (*), although some fields within those questions may be optional. Where there are word limits, you are responsible for remaining within the guidelines. 
+As the submitter, you will be asked to fill out the following form fields. Responses to nearly all questions are required (*), although some fields within those questions may be optional. Where there are word limits, you are responsible for remaining within the guidelines. _Please proofread your abstract carefully as reviewers cannot edit your abstract._
 
 - __Title*__ 
   - Enter the FULL TITLE of your submission. 
@@ -79,7 +79,8 @@ As the submitter, you will be asked to fill out the following form fields. Respo
 
 ## Review Process and Notification
 
-Each submission will be reviewed by a panel selected by the Program Committee, including at least one organizer from the session to which you attached your submission. Reviews will take place between 22 April and 10 May 2024. Reviewers are not editors, but may elect to make minor changes to abstracts as required. The submitter will be notified by email regarding the outcome of their submission by **Wednesday 15 May 2024**. 
+Each submission will be reviewed by a panel selected by the Program Committee, including at least one organizer from the session to which you attached your submission. Reviews will take place between 22 April and 10 May 2024. Reviewers are not editors, but may elect to suggest minor changes to abstracts as required. 
+_They are unable to make any changes to your abstract, so please proofread it carefully._ The submitter will be notified by email regarding the outcome of their submission by **Wednesday 15 May 2024**. 
 
 If your abstract is accepted, the presenter will need to register for the conference (deadline to be announced). Instructions for presentation and uploading of slides, posters, and pre-recorded videos will be announced before the deadline for submission of abstracts.
 
