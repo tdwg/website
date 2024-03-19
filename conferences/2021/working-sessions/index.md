@@ -9,17 +9,17 @@ background:
 toc: true
 ---
 
-_Last updated 22 October 2021_
+_Last updated 2024-03-18_
 
-TDWG will host working sessions of the Interest and Task Groups (IG/TG) each Wednesday and Thursday in November. These sessions will be hosted in Zoom by TDWG and be free but require registration.
+TDWG hosted working sessions of the Interest and Task Groups (IG/TG) on the Wednesdays and Thursdays in November of 2021. The sessions were hosted on Zoom by TDWG.  They were free, but required registration to participate.  Most sessions were recorded and are now available on our [YouTube Channel](https://www.youtube.com/playlist?list=PLD9-DRLWVl0mH4LIu9WvebnTruRD4WIb7)
 
-Working sessions will include introductions, overviews of IG/TG use cases, solutions, collaboration resources, and current work practices. The sessions will be interactive, with the participants being able to see each other and raise hands to interact with the conveners, speakers and other participants. 
+Working sessions included introductions, overviews of IG/TG use cases, solutions, collaboration resources, and current work practices. The sessions were interactive, with the participants able to see each other and raise hands to interact with the conveners, speakers and other participants. 
 
-Below you can find the list of sessions, including workshops on a specific subject and meetings of the respective Interest Groups and Task Groups (ITG) and Functional Groups (FG) to progress on their activities and planning.
+The list of sessions is below, including workshops on a specific subject and meetings of the respective Interest Groups and Task Groups (ITG) and Functional Groups (FG) to progress on their activities and planning.
 
 ## Schedule
 
-The latest schedule (21 Oct.) has been posted as a Google spreadsheet. See the [TDWG 2021 November Working Sessions Schedule](https://docs.google.com/spreadsheets/d/1Uffjh1SAXvSi_si53ljCbAsfqRUSvqzB8DnUHV-UV3A/edit?usp=sharing). Three time zones are listed for start times of each session. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
+The latest schedule (21 Oct.) has been posted as a Google spreadsheet. See the [TDWG 2021 Working Sessions Schedule](https://static.tdwg.org/conferences/2021/2021-working-sessions-schedule.pdf). Three time zones are listed for start times of each session. Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
 
 Check back for more repeated sessions to be added soon. Each session will be recorded and made available for later viewing. Session organizers are encouraged to use shared notes to enable asynchronous participation. Links will be added to the descriptions below after the live session. 
 
