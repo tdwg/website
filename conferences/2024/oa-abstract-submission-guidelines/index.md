@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 18 March 2024_
+_Last updated 19 March 2024_
 
 ## About the Program
 
@@ -23,7 +23,7 @@ We are pleased to welcome abstracts for the following presentation types: **Oral
 
 We welcome your submissions for abstracts via the SPNHC-TDWG 2024 conference platform on Oxford Abstracts.
 
-**Sign in or create an account** with Oxford Abstracts [https://auth.oxfordabstracts.com/?redirect=virtual/event/6771/homepage](https://auth.oxfordabstracts.com/?redirect=virtual/event/6771/homepage) before accessing the submission portal. Note that event organizers will use this email to communicate with you about the conference and your abstract submission.
+**Sign in or create an account** with Oxford Abstracts. Use the link to access the submission form [https://app.oxfordabstracts.com/stages/8623/submitter](https://app.oxfordabstracts.com/stages/8623/submitter) (NEW). Note that event organizers will use this email to communicate with you about the conference and your abstract submission.
 
 **Access the submission form** [https://app.oxfordabstracts.com/stages/8623/submitter](https://app.oxfordabstracts.com/stages/8623/submitter) after signing in.
 As the submitter, you will be asked to fill out the following form fields. Responses to nearly all questions are required (*), although some fields within those questions may be optional. Where there are word limits, you are responsible for remaining within the guidelines. _Please proofread your abstract carefully as reviewers cannot edit your abstract._
