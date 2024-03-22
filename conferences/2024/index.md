@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified: 2024-03-19
+Last modified: 2024-03-21
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -63,6 +63,10 @@ The [call for abstracts](/conferences/2024/call-for-abstracts/) for individual o
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
 By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity related to the SPNHC – TDWG 2024 Conference, you agree to abide by this [Code of Conduct](/conferences/2024/code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.  [Read more...](/conferences/2024/code-of-conduct/)
+
+## Visa requirements
+
+The Ministry of Foreign Affairs of Japan is the recommended site [https://www.mofa.go.jp/j_info/visit/visa/index.html](https://www.mofa.go.jp/j_info/visit/visa/index.html) for information about visas for traveling to Japan.
 
 ## Accommodations
 
