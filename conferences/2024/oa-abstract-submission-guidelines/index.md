@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 19 March 2024_
+_Last updated 24 March 2024_
 
 ## About the Program
 
@@ -38,6 +38,11 @@ As the submitter, you will be asked to fill out the following form fields. Respo
   - Choose either Oral or Poster. 
   - Oral presentations include submissions to symposia, general, contributed, lightning talk, and keynote sessions. 
   - Abstracts are not required for workshops, panel discussions, or demo camp.
+- __Session*__ _NEW question added 24 March_
+  - Choose the session to which you will be submitting this abstract.
+  - Find the session list [https://www.tdwg.org/conferences/2024/sessions/](https://www.tdwg.org/conferences/2024/sessions/)
+  - Sessions marked as [CLOSED] require an invitation from the organizers to submit an abstract; all other sessions are open.
+  - Make sure that you choose the same session that you later append after pressing the submit button. 
 - __Authors and affiliations*__ 
   - Enter the names of all authors in the order in which they should appear in the program. 
   - Do not use all uppercase lettering on names. 
