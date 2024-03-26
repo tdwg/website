@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 25 March 2024_
+_Last updated 26 March 2024_
 
 ## About the Program
 
@@ -96,7 +96,7 @@ If your abstract is accepted, the presenter will need to register for the confer
 ## Contact
 
 Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org) <br />
-To contact specific session organizers about contributing to closed sessions
+To contact specific session organizers about contributing to closed sessions to session organizers ([email lead organizer listed](https://www.tdwg.org/conferences/2024/sessions/)) <br />
 Direct questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) <br />
 日本語での問い合わせも受け付けています。
 
