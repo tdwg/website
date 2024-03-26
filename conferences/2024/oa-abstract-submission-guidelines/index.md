@@ -41,7 +41,7 @@ As the submitter, you will be asked to fill out the following form fields. Respo
 - __Session*__ _NEW question added 24 March_
   - Choose the session to which you will be submitting this abstract.
   - Find the session list [https://www.tdwg.org/conferences/2024/sessions/](https://www.tdwg.org/conferences/2024/sessions/)
-  - Sessions marked as [CLOSED] require an invitation from the organizers to submit an abstract; all other sessions are open.
+  - Sessions listed as [CLOSED] require an invitation from the session organizers to submit an abstract and have it considered for presentation during that session. All other sessions are open for abstract submissions. _Restrictions apply only to abstract submission, not attendance._
   - Make sure that you choose the same session that you later append after pressing the submit button. 
 - __Authors and affiliations*__ 
   - Enter the names of all authors in the order in which they should appear in the program. 
@@ -95,8 +95,8 @@ If your abstract is accepted, the presenter will need to register for the confer
 
 ## Contact
 
-Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org) <br />
-To contact specific session organizers about contributing to closed sessions to session organizers ([email lead organizer listed](https://www.tdwg.org/conferences/2024/sessions/)) <br />
-Direct questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) <br />
+Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org). <br />
+To contribute an abstract to a closed session without a prior invitation, first [contact the session organizer](https://www.tdwg.org/conferences/2024/sessions/) for permission. <br />
+Direct questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org). <br />
 日本語での問い合わせも受け付けています。
 
