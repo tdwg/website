@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 24 March 2024_
+_Last updated 25 March 2024_
 
 ## About the Program
 
@@ -17,7 +17,7 @@ The program for SPNHC-TDWG 2024 will be composed of keynote presentations, sympo
 
 ## Call for Abstracts
 
-We are pleased to welcome abstracts for the following presentation types: **Oral** Presentations and **Posters**. Oral presentations include 15-minute presentations in symposia and general sessions, 5-minute lightning talks, and invited keynotes. **Deadline 19 April 2024**
+We are pleased to welcome abstracts for the following presentation types: **Oral** Presentations and **Posters**. Oral presentations include 15-minute presentations in symposia and general sessions, 5-minute lightning talks, demo, and invited keynotes. **Deadline 19 April 2024**
 
 ### Online Submission Portal
 
@@ -84,16 +84,19 @@ As the submitter, you will be asked to fill out the following form fields. Respo
 
 ## Review Process and Notification
 
-Each submission will be reviewed by a panel selected by the Program Committee, including at least one organizer from the session to which you attached your submission. Reviews will take place between 22 April and 10 May 2024. Reviewers are not editors, but may elect to suggest minor changes to abstracts as required. 
-_They are unable to make any changes to your abstract, so please proofread it carefully._ The submitter will be notified by email regarding the outcome of their submission by **Wednesday 15 May 2024**. 
+Each submission will be reviewed by a panel selected by the Program Committee, including at least one organizer from the session to which you attached your submission. _Abstracts that are incomplete (i.e., not all * questions have been answered) at the time of assignment to reviewers will not be considered for presentation at the conference._ 
 
-If your abstract is accepted, the presenter will need to register for the conference (deadline to be announced). Instructions for presentation and uploading of slides, posters, and pre-recorded videos will be announced before the deadline for submission of abstracts.
+Reviews will take place between 22 April and 10 May 2024. Reviewers are not editors, but may elect to suggest minor changes to abstracts as required. 
+_They are unable to make any changes to your abstract, so please proofread your abstract carefully._ The submitter will be notified by email regarding the outcome of their submission by **Wednesday 15 May 2024**. 
+
+If your abstract is accepted, the presenter will need to register for the conference (deadline to be announced). Instructions for presentation and uploading of slides, posters, and pre-recorded videos will be announced ~~before~~ after the deadline for submission of abstracts.
 
 **Publishing in BISS**. Authors of OA abstracts accepted for presentation at the conference will have the additional opportunity to publish an extended abstract in TDWG's Pensoft publication, _Biodiversity Information Science and Standards [(BISS)](https://biss.pensoft.net)_. Details of this opportunity will be provided in May. Meanwhile, past proceedings may be viewed [https://biss.pensoft.net/collections](https://biss.pensoft.net/collections), along with links to slides and videos under the media tab of individual abstracts.
 
 ## Contact
 
 Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org) <br />
+To contact specific session organizers about contributing to closed sessions
 Direct questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) <br />
 日本語での問い合わせも受け付けています。
 
