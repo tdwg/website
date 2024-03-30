@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-04-28
+Last modified 2024-03-29
 
 ## Index to sessions
 
@@ -267,7 +267,7 @@ The European Commission-funded BiCIKL project catalysed a culture change in the 
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  SPNHC<br />
-Organizers:  **[Jeanette Pirlo](mailto:jpirlo@csustan.edu), Carmi Thompson, Shamindri Tennakoon, Vanessa DelNavaz**
+Organizers:  **[Jeanette Pirlo](mailto:jpirlo@csustan.edu), Carmi Thompson, Shamindri Tennakoon, Vanessa DelNavaz, Meghann Toner**
 
 **Abstract**<br />
 Natural history collections (NHCs) chronicle biodiversity through curation of biological, geological, and other specimens. These records typically exclude experienced community members utilizing them in non-traditional capacities. There is a long history of scientists excluding the contributions of local knowledge keepers. NHCs reflect this history, as they have yet to expand to integrate the public, honoring different knowledge systems. Significant work remains to create more inclusive NHCs, broaden our knowledge systems, and gain a contextual understanding of biodiversity. Re-imagining our field, we must decenter Western ideals of collection management - the lens through which our research community sees through. In this community recentering, we can intentionally engage and create dynamic experiences for diverse voices crucial to biodiversity science.
