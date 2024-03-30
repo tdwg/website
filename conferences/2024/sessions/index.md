@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-03-29
+Last modified 2024-03-30
 
 ## Index to sessions
 
@@ -415,7 +415,7 @@ This symposium aims to bring colleagues together to share these updates, interes
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  General interest<br />
-Organizers:  **[Sju-Juo Chen](mailto:shujuo@gmail.com), Tsuo-Ting Li**
+Organizers:  **[Shu-Juo Chen](mailto:shujuo@gmail.com), Tsuo-Ting Li**
 
 **Abstract**<br />
 The convergence of Indigenous Traditional Knowledge (ITK) and Natural History Collections (NHC) represents a compelling nexus between traditional wisdom and scientific inquiry. Indigenous communities, often deeply connected to their local ecosystems, possess a profound understanding of the environment, biodiversity, and sustainable resource management. Passed down through generations, this wealth of knowledge encapsulates intricate relationships between species, ecosystems, and human societies. Simultaneously, Natural History Collections house a repository of specimens, artifacts, and records that encapsulate the Earth's biological and geological diversity.
