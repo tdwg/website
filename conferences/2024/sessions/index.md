@@ -22,8 +22,8 @@ Click a link to read the session abstract.
 | LTNG01 | see SYM35 [Digitization Coordination](#sym35-digitization-coordination) |
 | LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02-diversity-and-commonalities-of-ai-applications-to-biodiversity-issues-and-data) |
 | LTNG03 | [Interoperable Invasive Alien Species Data: Bridging the gap](#ltng03-interoperable-invasive-alien-species-data-bridging-the-gap) |
-| LTNG04 | [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#ltng04-lessons-learned-from-local-data-providers-in-the-marine-community-dwc-data-connect-local-to-global) |
 | LTNG05 | [Specimen Spotlight](#ltng05-specimen-spotlight) |
+| LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36-lessons-learned-from-local-data-providers-in-the-marine-community-dwc-data-connect-local-to-global) |
 | PANEL01 | [Environmental and Biological Sample Banking in MENA Nations](#panel01-environmental-and-biological-sample-banking-in-mena-nations) |
 | PANEL02 | [Telling the Whole Story of Science](#panel02-telling-the-whole-story-of-science) |
 | POSTER | [Poster session](#poster-poster-session) |
@@ -62,6 +62,7 @@ Click a link to read the session abstract.
 | SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33-unlocking-barriers-and-access-inequities-to-museum-collections-in-archaeology-and-paleontology) |
 | SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen-based research in Indo-Pacific Asia](#sym34-unveiling-the-rich-tapestry-biodiversity-collection-practices-and-specimen-based-research-in-indo-pacific-asia) |
 | SYM35 | [Digitization Coordination](#sym35-digitization-coordination) |
+| SYM36 | [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36-lessons-learned-from-local-data-providers-in-the-marine-community-dwc-data-connect-local-to-global) |
 | WKSH01 | [Data Carpentry: Introduction to species interaction data with GloBi](#wksh01-data-carpentry-introduction-to-species-interaction-data-with-globi) |
 | WKSH02 | [Herbarium Challenges: Sharing best practice from across the globe](#wksh02-herbarium-challenges-sharing-best-practice-from-across-the-globe) |
 | WKSH03 | [Photography Workshop: Camera basics for field and collections photography](#wksh03-photography-workshop-camera-basics-for-field-and-collections-photography) |
@@ -120,15 +121,6 @@ Organizers:  **[Lien Reyserhove](mailto:lien.reyserhove@inbo.be), Scott Brown**
 
 **Abstract**<br />
 Over the past year, the importance of interoperable Invasive Alien Species (IAS) data has gained significant recognition and has been the focus of different TDWG task groups. Improved interoperability of IAS data would greatly facilitate rapid data flows and information sharing, which is key in early detection and rapid eradication. Despite recent improvements in the Darwin Core standard, there’s still a lack of sufficient terms and vocabularies to cover the needs of the IAS community. For instance, the Darwin Core (DwC) standard is not able to capture the full complexity of the management of alien species and other wildlife. The diversity in management objectives and methods for different taxonomic groups make the standardization a real challenge. As such, currently, local invasive species management organizations often adopt bespoke data vocabularies and formats in order to meet these unique challenges. This proliferation of data vocabularies raises barriers to cross-organization sharing of data. This session will focus on how existing Darwin Core vocabularies meet or struggle to meet the needs of scientists, field managers and policymakers, and to reboot the TDWG task group for Invasive Organism Information to provide ongoing support for invasive-related data standards in Darwin Core.
-
-### LTNG04 Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global	
-
-Session Type: Lightning Talks; Open to abstract submissions<br />
-Conference Track:  TDWG<br />
-Organizers:  **[Takashi Hosono](mailto:hosonot@jamstec.go.jp), Ward Appeltans, Katsunori Fujikura, Katherine Tattersall**
-
-**Abstract**<br />
-The Ocean Biodiversity Information System (OBIS), which is responsible for aggregating and disseminating biodiversity data globally in the marine community, has been working with data providers to format raw survey data into a DarwinCore format (DwC) that is findable, integratable, and reusable. The OBIS activities to date have been successful, as evidenced by the rapid expansion of OBIS data in recent years. However, the success was a result of various communications with the data providers, and there would have been many successes and many failures in the communication. In this session, we will share lessons learned from communication with local data providers in promoting data integration (i.e. promote the use of DwC) in the marine community. The session is expected to be attended by data providers, data curators, and data managers. Analogies from terrestrial cases are also welcome.
 
 ### LTNG05 Specimen Spotlight	
 
@@ -576,6 +568,15 @@ Organizers:  **[Alyson Wilkins](mailto:awilkins@nhmu.utah.edu), Kira Sobers, Gar
 
 **Abstract**<br />
 Many larger museums and archives have begun to implement a centralized approach to digitization of the collections by creating Digitization Coordinator positions. This new effort has initiated a coordinated vision for digitization which incorporates priorities, workflows, and resources to greatly improve the efficiency and throughput of digitization in collections. This effort is gaining more attention as the community recognizes the benefit of creating a more structured cross-disciplinary approach to digitization, allowing for better awareness and resourcing of the digitization needs in collections. Throughout a 3 day workshop held at the U.S. National Museum of Natural History in May 2023, it became evident that coordination of digitization efforts within natural history collections is multifaceted with many different stakeholders. Collaborations between different institutions and across the globe can significantly strengthen the impact and sharing of knowledge. Participants agreed that a community network focused on information and resource sharing amongst people working in digitization coordinator roles or associated efforts was needed. The group set goals to create a “Digitization Coordinator Network” (DigiCoordNet) to help address these needs in the community. This session will highlight what has been accomplished to date by this coordinated effort and provide a focal point for community engagement with job descriptions, described skillsets and resources for digitization coordinators, and success stories that detail the efforts undertaken by several institutions that have appointed centralized leadership across disciplinary siloes within and among institutions.
+
+### SYM36 Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global	
+
+Session Type: Symposium; Open to abstract submissions<br />
+Conference Track:  TDWG<br />
+Organizers:  **[Takashi Hosono](mailto:hosonot@jamstec.go.jp), Ward Appeltans, Katsunori Fujikura, Katherine Tattersall**
+
+**Abstract**<br />
+The Ocean Biodiversity Information System (OBIS), which is responsible for aggregating and disseminating biodiversity data globally in the marine community, has been working with data providers to format raw survey data into a DarwinCore format (DwC) that is findable, integratable, and reusable. The OBIS activities to date have been successful, as evidenced by the rapid expansion of OBIS data in recent years. However, the success was a result of various communications with the data providers, and there would have been many successes and many failures in the communication. In this session, we will share lessons learned from communication with local data providers in promoting data integration (i.e. promote the use of DwC) in the marine community. The session is expected to be attended by data providers, data curators, and data managers. Analogies from terrestrial cases are also welcome.
 
 ### WKSH01 Data Carpentry: Introduction to species interaction data with GloBi	
 
