@@ -87,7 +87,8 @@ Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan
 <p>&nbsp;</p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15961271.026159793!2d127.5096399435818!3d30.779717013870645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56ca503aaaaab%3A0xeb769b84d6de2088!2sOkinawa%20Convention%20Centre!5e0!3m2!1sen!2sus!4v1698478006062!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br />
 
-#### Please send general questions about the conference to okinawa2024@spnhc.org.
+##### Please send general questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
 
 
