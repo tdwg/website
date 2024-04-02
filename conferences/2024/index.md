@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified: 2024-03-21
+Last modified: 2024-04-02
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -54,7 +54,7 @@ SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conf
 
 ## Organized Sessions
 
-A general call for proposals of sessions (e.g., symposia, panels, workshops) was distributed in January 2024 (deadline 16 February). The proposed sessions were categorized and reviewed by the Program Committee and [posted on the conference website](/conferences/2024/sessions/) in advance of the call for abstracts. 
+The call for session proposals (e.g., symposia, panels, workshops) was distributed in early January 2024 and closed 16 February. Proposals for sessions were reviewed by the Program Committee and more than 35 sessions (mostly symoposia) were provisionally accepted. See the session descriptions on our [Sessions page](/conferences/2024/sessions/). 
 
 ## Call for abstracts
 
@@ -87,3 +87,7 @@ Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan
 <p>&nbsp;</p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15961271.026159793!2d127.5096399435818!3d30.779717013870645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56ca503aaaaab%3A0xeb769b84d6de2088!2sOkinawa%20Convention%20Centre!5e0!3m2!1sen!2sus!4v1698478006062!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Please send general questions about the conference to okinawa2024@spnhc.org.
+
+
