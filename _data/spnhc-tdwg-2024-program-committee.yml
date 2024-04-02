@@ -1,0 +1,88 @@
+- name: "David Bloom"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/pc/bloom-david.jpg
+  description: >
+    _VertNet, Berkeley, CA, USA._ Lorem ipsem.
+  orcid: 0000-0000-0000-0000
+
+- name: "Vijay Barve"
+  image: https://static.tdwg.org/conferences/2024/pc/barve-vijay.jpg
+  description: >
+    _Bangalore, India._ Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the [Audubon Core Standard](/standards/ac/) since its inception.
+  orcid: 0000-0002-4852-2567
+  twitter: vijaybarve
+
+- name: "Stan Blum"
+  image: https://static.tdwg.org/conferences/2024/pc/blum-stan-300.jpg
+  description: >
+    _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (Specify), and the California Academy of Sciences. He has helped develop data standards that support data integration across natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and the Biodiversity Information Standards (TDWG). The main theme in his work has been the integration of information across organizations and disciplines for use in biodiversity science. Retired since 2015, he now volunteers as Administrator of the TDWG Secretariat in San Francisco.
+  orcid: 0000-0002-4419-6960
+
+- name: "Christina Byrd"
+  description: >
+    _Museum of Comparative Zoology, Cambridge, MA, USA._ Christina is the Curatorial Associate of Vertebrate Paleontology at Harvard University’s Museum of Comparative Zoology. Her collections expertise is in digitization, specifically 2D specimen photography and document digitization. Her focus in recent years has been on studying object conservation skills and how they can be applied in fossil conservation treatments. She has been a member of SPNHC since 2015, a member of the SPNHC Best Practices Committee since 2018, and is a first time member of the Program Committee. 
+  ORCID: 0000-0001-7963-6092
+  twitter: christinabyrd88
+
+- name: "Robert Cubey"
+  image:
+  description: >
+    _Plant Records Officer, Royal Botanic Garden, Edinburgh, Scotland_. The Plant Records Officer of the RBGE, handling the data management for both the Living and Herbarium collections. This includes the provision of data to the RBGE online catalogues as well as providing data to numerous external data partners I map the Living Collections of the RBGE, across all four of its sites and I am developing tools for the RBGE staff to use this data.  I am interested in how technology can be used to improve the visitor experience to RBGE, and how it can improve productivity in the horticultural department. I also work on information workflows within the RBGE herbarium, particularly how software and hardware can help make the information held within the 3 million herbarium sheets more accessible. 
+  orcid: 0000-0001-7902-3843
+  twitter: RBGE_Plant_Rec
+
+- name: "Daphne Hoh"
+  image: https://static.tdwg.org/conferences/2024/pc/hoh-daphne.jpg
+  description: >
+    _Taiwan Biodiversity Information Facility, Taipei, Taiwan._ Daphne has been trained as a marine biologist since completing her BSc and PhD studies. Her PhD research focused on fungal infection in sea turtle eggs, encompassing various aspects including analyzing pathogen genomics and assessing pathogenicity using high-throughput sequencing and bioinformatics approaches. She co-founded TurtleSpot Taiwan - a citizen science project dedicated to collecting sea turtle sightings for research. Recognizing the potential for generating large volumes of primary biodiversity data through her research, she became intrigued by Biodiversity Informatics and actively engaged herself in this field. She currently works as a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), focusing on evaluating national-level biodiversity data gaps.
+  orcid: 0000-0002-7810-1034
+
+- name: "Shelley James"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/pc/james-shelley.jpg
+  description: >
+    _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ A botanical research scientist for more than two decades, Dr Shelley serves as Representative for Oceania with TDWG. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
+  orcid: 0000-0003-1105-1850
+
+- name: "Gail Kampmeier"
+  image: https://static.tdwg.org/conferences/2024/pc/kampmeier-gail.jpg
+  description: >
+    _University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA._ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She will serve as a mentor to this year's Program Committee. As Editor-in-Chief of the Pensoft Journal [Biodiversity Information Science and Standards](https://biss.pensoft.net) she will help oversee the abstract submission process and encourages submission of full articles to the journal. Elected as North American representative (2008-2013) to the TDWG Exec, she has since served as an invited (non-voting) member.
+  orcid: 0000-0002-5178-4170
+  twitter: gkampmeier
+
+- name: "Kristen “Kit” Lewers"
+  image: https://static.tdwg.org/conferences/2024/pc/lewers-kit.jpg
+  description: >
+    _Information Science and BioFrontiers Institute, University of Colorado Boulder, USA._ Kit is an interdisciplinary PhD student studying HCI (Human Computer Interaction) and IQ Bio (Interdisciplinary Quantitative Biology). She is also a member of the TAG (Technical Architecture Group) since 2022 where she works on projects related to standards and their lifecycle. For her HCI research, she focuses on how information overload impacts institutions grounded in big data (specifically looking at natural history and biocollections) mainly employing ethnographic(traditional + digital) and network science methods advised by Stephen Voida. Under the guidance of Orit Peleg in the BioFrontiers Institute, she studies North American firefly biodiversity, flash signals, and complex system science. She bridges her two interests through complex systems research, information ecosystem modeling, and biologically inspired information theory.
+  orcid: 0000-0003-0526-4075
+
+- name: "Julia Percy-Bower"
+  image: https://static.tdwg.org/conferences/2024/pc/percy-bower-julia.jpg
+  description: >
+    _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ Julia is the Database Management Officer at the Western Australian Herbarium. She holds a BEnvSc from Murdoch University and has always had a passion for the natural world. Her current role involves specimen digitisation, data management of herbarium collections and taxon names, as well as specimen curation. This is Julia’s first year serving as a member of the TDWG program committee; she is also a member of SPNHC and the Australian Systematic Botany Society.
+  orcid: 0000-0002-6041-2774
+
+- name: "Arjan Basu Roy"
+  image:
+  description: >
+    Arjan (Secretary, Nature Mates, Kolkata) co-founded the group with school friends in the early 90s (originally a WWF India Nature Club). Passionate about nature, particularly butterflies & birds, he pursues wildlife research & citizen science despite no formal training. Urban biodiversity & creating green spaces are his other core interests. Authored field guides for birds & butterflies.
+
+- name: "Katherine Tattersall"
+  image: https://static.tdwg.org/conferences/2024/pc/tattersall-katherine.jpg
+  description: >
+    _National Collections and Marine Infrastructure and OBIS-AU, CSIRO, Hobart, Australia._ Katherine is a research data manager at the Information and Data Centre at CSIRO, home of OBIS-Australia. She is the Data Steward for the CSIRO National Collections and Marine Infrastructure (NCMI) Business Unit encompassing CSIRO’s National Research Collections, The Atlas of Living Australia, the marine Engineering and Technology team, Australian Marine National Facility and the Environomics Future Science Platform. Before joining CSIRO she was an Australian Research Data Cloud (ARDC) Research Data Specialist and worked for the Australian Integrated Marine Observing System (IMOS) and Australian Ocean Data Network (AODN). Katherine’s early interests focused on the spatial analysis of biological marine science data, particularly animal tracking, spatial modelling and ecosystems data. At the 11th session of the OBIS steering group in May 2023, Katherine was appointed as Co-Chair of the IODE Steering Group for OBIS.
+  orcid: 0000-0001-7843-3074
+
+- name: "Visotheary “Theary” Ung"
+  image: https://static.tdwg.org/conferences/2024/pc/ung-theary.jpg
+  description: >
+    _Institut de Systématique, Evolution, Biodiversité (ISYEB), CNRS-MNHN-SU-EPHE-PSL-UA, Paris, France._ Theary is a biodiversity informatics project manager and biogeographer at the french National Center for Scientific Research (CNRS) and the Muséum National d’Histoire Naturelle (MNHN) in Paris. Her research focuses on comparative biogeography, especially in the Southeast Asia region. She develops methods and informatic tools for biogeographical analysis including an ontology for biogeographic areas. She is also a member of the Equity and Inclusion group at the faculty of Sciences and Engineering of Sorbonne University in Paris where she participates in different actions toward students and the scientific community to promote equity and inclusion in Sciences. She has been involved in TDWG activities over the last 15 years, and she serves now as the secretary since 2021.
+  orcid: 0000-0002-4049-0820
+
+- name: "Elycia Wallis"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/pc/wallis-ely.jpg
+  description: >
+    _Atlas of Living Australia, Melbourne, Australia._ Dr Elycia (Ely) Wallis works with the Atlas of Living Australia where she is the Collections Community Engagement Manager and Team Lead for the Engagement Team. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, database administration, working with the library and archives section, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. She has a passion for free access and open sharing of data.
+  orcid: 0000-0001-6017-0894
