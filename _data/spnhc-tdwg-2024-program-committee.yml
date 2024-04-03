@@ -1,6 +1,6 @@
 - name: "David Bloom"
   role: "Co-chair"
-  image: https://static.tdwg.org/conferences/2024/images/pc/bloom-david.jpg
+  image: 
   description: >
     _University of North Carolina, Greensboro, USA._ Ranges Project Manager; TDWG Deputy Chair. David manages both the Ranges Digitization Project and VertNet. He is engaged with the GBIF community as the North American Regional Representative, and has served as an Open-Data Ambassador, mentor, and trainer. David works with data publishers and biodiversity scientists around the world to help organise, clean, and publish their data. He currently spends an inordinate amount of time herding cats and other vertebrates and sighing audibly when confronted with social media.
 
@@ -100,7 +100,6 @@
   orcid: 0000-0002-4049-0820
 
 - name: "Elycia Wallis"
-  role: "Co-chair"
   image: https://static.tdwg.org/conferences/2024/images/pc/wallis-ely.jpg
   description: >
     _Atlas of Living Australia, Melbourne, Australia._ Dr Elycia (Ely) Wallis works with the Atlas of Living Australia where she is the Collections Community Engagement Manager and Team Lead for the Engagement Team. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, database administration, working with the library and archives section, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. She has a passion for free access and open sharing of data.
