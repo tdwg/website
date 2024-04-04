@@ -449,7 +449,7 @@ Microscope slides are a prevalent way to prepare natural history collections. Th
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **[James Macklin](mailto:james.macklin@agr.gc.ca), David Shorthouse**
+Organizers:  **[James Macklin](mailto:james.macklin@agr.gc.ca), Stan Blum, David Shorthouse**
 
 **Abstract**<br />
 The Occurrence class was ratified in Darwin Core fifteen years ago in response to a need to accommodate both observations and specimens; it has become the defacto vehicle for how we exchange evidence of biodiversity. Unfortunately, the obligation to include Event data alongside that of samples or specimens limits the richness of evidence that can be shared. The inclusion of an occurrenceID – now expected to be globally persistent and stable – challenges collection management systems and how we model information. Collecting events are often represented as relational records to either field samples or specimens, which themselves have been subsampled for research activities that we wish to track. New concepts such as Digital Extended Specimens (DES) likewise challenges the Darwin Core exchange standard because not all objects contain information about a collecting event. The goal of this symposium session is to raise awareness about the artificial nature of Occurrences and to investigate what may be the challenges and opportunities should they be decoupled from their constituent events.
