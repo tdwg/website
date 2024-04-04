@@ -63,3 +63,7 @@ The TAG will formally convene at least twice each year. Meetings will be conduct
 Because the TAG may receive time-sensitive Executive Requests for advice or response at any time, a combination of issue tracker, e-mail, and internet technologies will be used to conduct TAG business online and to convene extraordinary meetings at short notice, as required.
 
 Minutes for all meetings and all requests, decisions, and responses will be posted to the TAG repository.
+
+## Task groups
+
+<!-- list will be inserted below content -->
