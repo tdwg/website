@@ -1,12 +1,12 @@
 - name: "David Bloom"
   role: "Co-chair"
-  image: 
+  image: https://static.tdwg.org/conferences/2024/images/pc/bloom-david.jpg
   description: >
     _University of North Carolina, Greensboro, USA._ Ranges Project Manager; TDWG Deputy Chair. David manages both the Ranges Digitization Project and VertNet. He is engaged with the GBIF community as the North American Regional Representative, and has served as an Open-Data Ambassador, mentor, and trainer. David works with data publishers and biodiversity scientists around the world to help organise, clean, and publish their data. He currently spends an inordinate amount of time herding cats and other vertebrates and sighing audibly when confronted with social media.
 
 - name: "Jillian Goodwin"
   role: "Co-chair"
-  image:
+  image: https://static.tdwg.org/conferences/2024/images/pc/goodwin-jillian.jpg
   description: >
     _iDigBio, Florida Museum of Natural History, Gainesville, FL, USA._ Jillian has worked with iDigBio since 2015 and currently serves as iDigBio’s Conference Manager. She coordinates iDigBio’s annual conferences including the Digital Data in Biodiversity Research Conference and BioDigiCon. She also works with the natural history collections community to develop workshops to support US digitization efforts through collaborations, promotional efforts, and development of best practices. Jillian also helped establish the DigiCoordNet effort. She believes in the importance of building and maintaining positive internal relationships as well as relationships with outside stakeholders through effective communication and organizational practices.
 
@@ -45,7 +45,7 @@
   twitter: christinabyrd88
 
 - name: "Robert Cubey"
-  image: https://static.tdwg.org/conferences/2024/images/pc/
+  image: https://static.tdwg.org/conferences/2024/images/pc/cubey-robert.jpg
   description: >
     _Plant Records Officer, Royal Botanic Garden, Edinburgh, Scotland_. The Plant Records Officer of the RBGE, handling the data management for both the Living and Herbarium collections. This includes the provision of data to the RBGE online catalogues as well as providing data to numerous external data partners I map the Living Collections of the RBGE, across all four of its sites and I am developing tools for the RBGE staff to use this data.  I am interested in how technology can be used to improve the visitor experience to RBGE, and how it can improve productivity in the horticultural department. I also work on information workflows within the RBGE herbarium, particularly how software and hardware can help make the information held within the 3 million herbarium sheets more accessible. 
   orcid: 0000-0001-7902-3843
@@ -112,7 +112,7 @@
   orcid: 0000-0001-5569-5127
 
 - name: "Harlan Svoboda"
-  image: 
+  image: https://static.tdwg.org/conferences/2024/images/pc/svoboda-harlan.jpg
   description: >
     _United States National Arboretum, U.S. Department of Agriculture, Washington, D.C., USA._ Harlan is a botanist and taxonomist with the USDA and the Curator of the herbarium collections. He is also the administrator of the ARS Biocollections portal, Data Steward for the federal government’s scientific collections registry, and is a leader in digitization efforts across the government. On the research front, Harlan is a specialist in the systematics and taxonomy of passionflowers (Passiflora) and a proponent of collections-based investigations across a multitude of fields. In addition to being an active member of SPNHC, Harlan also serves the natural history community through roles in several systematics- and collections-oriented societies.
   orcid: 0000-0001-9081-5980
