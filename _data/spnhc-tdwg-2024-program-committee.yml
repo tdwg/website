@@ -31,6 +31,12 @@
     _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (Specify), and the California Academy of Sciences. He has helped develop data standards for natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and Biodiversity Information Standards (TDWG). The main theme in his work has been integrating biodiversity information across organizations and disciplines. Retired since 2015, he now volunteers as Administrator of the TDWG Secretariat in San Francisco.
   orcid: 0000-0002-4419-6960
 
+- name: "Jutta Buschbom"
+  image: https://static.tdwg.org/conferences/2024/images/pc/buschbom-jutta.jpg
+  description: >
+    _Natural History Museum London, UK._ Jutta works as data architect in the RECODE team that is developing and implementing the upcoming collection management system for the NHM in collaboration with a large industry partner. By training she is an evolutionary biologist with a focus on population genetic theory, biodiversity conservation genomic applications and their statistics, globally integrated, collaborative data infrastructures for Digital Extended Specimens and FAIR Digital Objects, science-policy advocacy mainly at the UN level and governance for the digital commons. She is an independent scientist and consultant located close to Hamburg, DE and has been active in SPNHC since 2020 and TDWG since 2021. She was co-chair of the SPNHC Biodiversity Crisis Response Committee (2021-2023) and is active as the society’s liaison to CETAF and its representative to the UN Convention for Biological Diversity. In TDWG she is engaged in several work streams and member of the Latimer Core maintenance group.
+  orcid: 0000-0002-7697-9214
+
 - name: "Christina Byrd"
   image: https://static.tdwg.org/conferences/2024/images/pc/byrd-christina.jpg
   description: >
