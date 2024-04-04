@@ -101,7 +101,7 @@ list:
   href: /about/committees/tag
   menu:
     - label: TG
-      /community/standards-mapping/
+      href: /community/standards-mapping/
 ---
 
 TDWG interest (IG) and task (TG) groups undertake one of TDWG’s core functions — the development and maintenance of biodiversity information standards. The [TDWG Process](/about/process/) describes the steps for establishing and maintaining interest and task groups as well as the [process for ratification of standards](/about/process/#ratification-of-standards) under the guidance of a [Review Manager](/about/review-managers/). Most important among these for new interest or task groups, is the guidance for writing the group’s charter and steps for having it reviewed by the TDWG Executive Committee ([Exec](/about/executive/)). An interest or task group charter describes the group’s goals, how it works, pointers to background and specifications in progress, as well as how to participate. The TDWG Exec is responsible for ensuring that the group’s plan is scientifically sound and politically open and inclusive. Advice from the TDWG Technical Architecture Group ([TAG](/about/committees/tag/)) ensures that the methods and approach are technically sound. The charters of active interest and task groups are linked below. Guidance for group conveners can be found in the [community management guidelines](/community/management/).
