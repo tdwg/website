@@ -11,7 +11,7 @@ github: https://github.com/tdwg/tag
 toc: true
 list:
 - label: TG
-  href: /community/standards-mapping/
+  href: /about/committees/tag/standards-mapping/
 ---
 
 ## Chair
