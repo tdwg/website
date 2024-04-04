@@ -45,7 +45,7 @@
   twitter: christinabyrd88
 
 - name: "Robert Cubey"
-  image:
+  image: https://static.tdwg.org/conferences/2024/images/pc/
   description: >
     _Plant Records Officer, Royal Botanic Garden, Edinburgh, Scotland_. The Plant Records Officer of the RBGE, handling the data management for both the Living and Herbarium collections. This includes the provision of data to the RBGE online catalogues as well as providing data to numerous external data partners I map the Living Collections of the RBGE, across all four of its sites and I am developing tools for the RBGE staff to use this data.  I am interested in how technology can be used to improve the visitor experience to RBGE, and how it can improve productivity in the horticultural department. I also work on information workflows within the RBGE herbarium, particularly how software and hardware can help make the information held within the 3 million herbarium sheets more accessible. 
   orcid: 0000-0001-7902-3843
@@ -58,14 +58,19 @@
   orcid: 0000-0002-7810-1034
 
 - name: "Shelley James"
-  role: "Co-chair"
   image: https://static.tdwg.org/conferences/2024/images/pc/james-shelley.jpg
   description: >
     _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ A botanical research scientist for more than two decades, Dr Shelley serves as Representative for Oceania with TDWG. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
   orcid: 0000-0003-1105-1850
 
+- name: "Mariko Kageyama"
+  image: https://static.tdwg.org/conferences/2024/images/pc/kageyama-mariko.jpg
+  description: >
+    _Independent, Seattle, Washington, USA. Mariko has been actively involved with SPNHC since 2002, including the time having served as a Member at Large on the SPNHC Council in 2011-2014. A Japanese native, Mariko has found her niche in volunteering as a bilingual facilitator connecting the SPNHC-TDWG 2024 Organizing Committee to local collaborators and resources in Okinawa. She currently practises law at an international law firm as a zoology collections manager-turned-lawyer, while in her spare time she has been passionate about exploring complex legal and ethical issues pertaining to science, technology, museums, and cultural heritage domains.
+  orcid: 0000-0002-1121-4800
+
 - name: "Martin R. Kalfatovic"
-  image:
+  image: https://static.tdwg.org/conferences/2024/images/pc/kalfatovic-martin.jpg
   description: >
     _Smithsonian Libraries and Archives / Biodiversity Heritage Library, Washington, DC, USA._ Martin R. Kalfatovic is the Associate Director, Digital Initiatives and Scholarly Communications at Smithsonian Libraries and Archives (SLA). He also serves as Program Director of the Biodiversity Heritage Library (BHL). At SLA he is involved with scholarly communications, mass digitization, and research analytics and metadata. As the Program Director for the BHL, a global consortium of forty-two natural history, research, and botanical garden libraries (including five ARL members), he participates in the national and global coordination around issues of collection aggregation, technical development, and research applications of the digital library. A regular contributor to popular and scholarly publications. He can be found on select social platforms as @udcmrk and has an inordinate fondness for dodos.
   orcid: 0000-0002-4563-4627
@@ -100,6 +105,12 @@
   description: >
     _Secretary, Nature Mates, Kolkata._  Arjan co-founded the group with school friends in the early 90s (originally a WWF India Nature Club). Passionate about nature, particularly butterflies & birds, he pursues wildlife research & citizen science despite no formal training. Urban biodiversity & creating green spaces are his other core interests. Authored field guides for birds & butterflies.
 
+- name: "Young Ha Suh"
+  image: https://static.tdwg.org/conferences/2024/images/pc/
+  description: >
+    _Natural History Museum of Los Angeles County, Los Angeles, CA, USA._ Young Ha is the Collections Manager of Ornithology and has been active in SPNHC since 2022. During her PhD in Ecology and Evolutionary Biology, she worked extensively on field data collection and database management, allowing her to understand research needs in collections. Her current interest has been making Ornithology collections data more standardized and accessible to people outside of the collections field using applications such as shiny to create dynamic tables and figures. She is passionate about FAIR data practices and open access. 
+  orcid: 0000-0001-5569-5127
+
 - name: "Harlan Svoboda"
   image: 
   description: >
@@ -115,5 +126,5 @@
 - name: "Elycia Wallis"
   image: https://static.tdwg.org/conferences/2024/images/pc/wallis-ely.jpg
   description: >
-    _Atlas of Living Australia, Melbourne, Australia._ Dr Elycia (Ely) Wallis works with the Atlas of Living Australia where she is the Collections Community Engagement Manager and Team Lead for the Engagement Team. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, database administration, working with the library and archives section, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. She has a passion for free access and open sharing of data.
+    _Atlas of Living Australia, Melbourne, Australia._ Elycia (Ely) Wallis is the current Chair of the TDWG Executive (2023-2024) and has been an active member of the conference organising team for a number of years. Ely works with the Atlas of Living Australia where she is the Team Lead for the Engagement Team. The Engagement team works with an outward focus across biosecurity; citizen science; Indigenous science, and industry. Ely’s particular interest and responsibility is to liaise with the collections sector concentrating on museums and herbaria. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, library and archives, collections databases, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. Ely is working to learn more about Indigenous data sovereignty. She has a passion for free access and open sharing. 
   orcid: 0000-0001-6017-0894
