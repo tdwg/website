@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 26 March 2024_
+_Last updated 4 April 2024_
 
 ## About the Program
 
@@ -37,7 +37,7 @@ As the submitter, you will be asked to fill out the following form fields. Respo
 - __Presentation type*__ 
   - Choose either Oral or Poster. 
   - Oral presentations include submissions to symposia, general, contributed, lightning talk, and keynote sessions. 
-  - Abstracts are not required for workshops, panel discussions, or demo camp.
+  - Abstracts are not required for workshops or panel discussions ~~or demo camp~~.
 - __Session*__ _NEW question added 24 March_
   - Choose the session to which you will be submitting this abstract.
   - Find the session list [https://www.tdwg.org/conferences/2024/sessions/](https://www.tdwg.org/conferences/2024/sessions/)
