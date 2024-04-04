@@ -26,14 +26,15 @@
   twitter: vijaybarve
 
 - name: "Stan Blum"
-  image: https://static.tdwg.org/conferences/2024/images/pc/blum-stan-300.jpg
+  image: https://static.tdwg.org/conferences/2024/images/pc/blum-stan.jpg
   description: >
     _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (Specify), and the California Academy of Sciences. He has helped develop data standards that support data integration across natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and the Biodiversity Information Standards (TDWG). The main theme in his work has been integrating biodiversity information across organizations and disciplines. Retired since 2015, he now volunteers as Administrator of the TDWG Secretariat in San Francisco.
   orcid: 0000-0002-4419-6960
 
 - name: "Christina Byrd"
+  image: https://static.tdwg.org/conferences/2024/images/pc/byrd-christina.jpg
   description: >
-    _Museum of Comparative Zoology, Cambridge, MA, USA._ Christina is the Curatorial Associate of Vertebrate Paleontology at Harvard University’s Museum of Comparative Zoology. Her collections expertise is in digitization, specifically 2D specimen photography and document digitization. Her focus in recent years has been on studying object conservation skills and how they can be applied in fossil conservation treatments. She has been a member of SPNHC since 2015, a member of the SPNHC Best Practices Committee since 2018, and is a first time member of the Program Committee. 
+    _Museum of Comparative Zoology, Cambridge, MA, USA._ Christina is the Curatorial Associate of Vertebrate Paleontology at Harvard University’s Museum of Comparative Zoology. Her collections expertise is in digitization, specifically 2D specimen photography and document digitization. Her focus in recent years has been on studying object conservation skills and how they can be applied in fossil conservation treatments. She has been a member of SPNHC since 2015, a member of the SPNHC Best Practices Committee since 2018, and is a first time member of the Program Committee.
   ORCID: 0000-0001-7963-6092
   twitter: christinabyrd88
 
@@ -57,15 +58,21 @@
     _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ A botanical research scientist for more than two decades, Dr Shelley serves as Representative for Oceania with TDWG. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
   orcid: 0000-0003-1105-1850
 
+- name: "Martin R. Kalfatovic"
+  image:
+  description: >
+    _Smithsonian Libraries and Archives / Biodiversity Heritage Library, Washington, DC, USA._ Martin R. Kalfatovic is the Associate Director, Digital Initiatives and Scholarly Communications at Smithsonian Libraries and Archives (SLA). He also serves as Program Director of the Biodiversity Heritage Library (BHL). At SLA he is involved with scholarly communications, mass digitization, and research analytics and metadata. As the Program Director for the BHL, a global consortium of forty-two natural history, research, and botanical garden libraries (including five ARL members), he participates in the national and global coordination around issues of collection aggregation, technical development, and research applications of the digital library. A regular contributor to popular and scholarly publications. He can be found on select social platforms as @udcmrk and has an inordinate fondness for dodos.
+  orcid: 0000-0002-4563-4627
+
 - name: "Gail Kampmeier"
   image: https://static.tdwg.org/conferences/2024/images/pc/kampmeier-gail.jpg
   description: >
-    _University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA._ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She will serve as a mentor to this year's Program Committee. As Editor-in-Chief of the Pensoft Journal [Biodiversity Information Science and Standards](https://biss.pensoft.net) she will help oversee the abstract submission process and encourages submission of full articles to the journal. Elected as North American representative (2008-2013) to the TDWG Exec, she has since served as an invited (non-voting) member.
+    _University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA._ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She is leading the Abstracts Task Group on the Program Committee. As Editor-in-Chief of the Pensoft Journal Biodiversity Information Science and Standards she helps oversee the abstract submission process and encourages submission of full articles to the journal. Elected as North American representative (2008-2013) to the TDWG Exec, she has since served as an invited (non-voting) member.
   orcid: 0000-0002-5178-4170
   twitter: gkampmeier
 
 - name: "Erica Krimmel"
-  image: 
+  image: https://static.tdwg.org/conferences/2024/images/pc/krimmel-erica.jpg
   description: >
     _Sacramento, CA, USA._ Erica is a biodiversity information scientist who has been involved as a member of SPNHC since 2015 and TDWG since 2019. She has worked in several natural history collections, as well as for iDigBio, and her expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data.
   orcid: 0000-0003-3192-0080 
