@@ -51,6 +51,11 @@
   orcid: 0000-0001-7902-3843
   twitter: RBGE_Plant_Rec
 
+- name: "Jillian Goodwin"
+  image: https://static.tdwg.org/conferences/2024/images/pc/goodwin-jillian.jpg
+  description: >
+    _iDigBio, Florida Museum of Natural History, Gainesville, FL, USA._ Jillian has worked with iDigBio since 2015 and currently serves as iDigBio’s Conference Manager. She coordinates iDigBio’s annual conferences including the Digital Data in Biodiversity Research Conference and BioDigiCon. She also works with the natural history collections community to develop workshops to support US digitization efforts through collaborations, promotional efforts, and development of best practices. Jillian also helped establish the DigiCoordNet effort. She believes in the importance of building and maintaining positive internal relationships as well as relationships with outside stakeholders through effective communication and organizational practices.
+  
 - name: "Daphne Hoh"
   image: https://static.tdwg.org/conferences/2024/images/pc/hoh-daphne.jpg
   description: >
@@ -122,6 +127,12 @@
   description: >
     _Institut de Systématique, Evolution, Biodiversité (ISYEB), CNRS-MNHN-SU-EPHE-PSL-UA, Paris, France._ Theary is a biodiversity informatics project manager and biogeographer at the french National Center for Scientific Research (CNRS) and the Muséum National d’Histoire Naturelle (MNHN) in Paris. Her research focuses on comparative biogeography, especially in the Southeast Asia region. She develops methods and informatic tools for biogeographical analysis including an ontology for biogeographic areas. She is also a member of the Equity and Inclusion group at the faculty of Sciences and Engineering of Sorbonne University in Paris where she participates in different actions toward students and the scientific community to promote equity and inclusion in Sciences. She has been involved in TDWG activities over the last 15 years, and she serves now as the secretary since 2021.
   orcid: 0000-0002-4049-0820
+
+- name: "Flávia Virginio"
+  image: https://static.tdwg.org/conferences/2024/images/pc/virginio-flavia.jpg
+  description: >
+    _Scientific Researcher and Curator of Entomological Collection,  Professor and Accredited Advisor in the Specialization Program in Animals of Interest in Health: Animal Biology, and Coordinator of extension courses at the Butantan Institute/Foundation. Co-founder and part of the Executive Committee (voluntary vice-president) of the Brazilian Chapter of the International Organization Women in Global Health; part of Executive Committee (voluntary treasurer) of the "Organization for Women in Science for the Developing World"; part of the Equity, Diversity and Inclusion Committee of "International Society for Biocuration". São Paulo, Brazil._ Flávia Virginio is a biologist and PhD in Sciences. Her main lines of research, education and extension are: Biodiversity and One Health, emphasing on the impact of anthropogeny and climate changes on the diversity and ecology of medical important insects, as well as the dynamics of diseases and accidents related to them. She also has experience in vector control and resistance, creation and maintenance of relational databases and scientific dissemination. In addition, her research group also develops studies on Entomological Collection Curation, Diversity and Inclusion in Science and Scientific Dissemination and Communication.
+  orcid: 0000-0003-1803-114X
 
 - name: "Elycia Wallis"
   image: https://static.tdwg.org/conferences/2024/images/pc/wallis-ely.jpg
