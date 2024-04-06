@@ -98,7 +98,7 @@ list:
   - label: TG
     href: /community/tnc/tcs2/
 - label: IG
-  href: /about/committees/tag
+  href: /about/committees/tag/
   menu:
     - label: TG
       href: /about/committees/tag/standards-mapping/
