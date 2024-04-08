@@ -11,6 +11,8 @@
   menu:
   - text: "Sessions"
     href: /conferences/2024/sessions/
+  - text: "Program Committee"
+    href: /conferences/2024/program-committee/
 - text: "Registration"
   menu:
   - text: "Expected to open 1 May"
