@@ -38,7 +38,7 @@ However additional efforts are needed to better integrate mappings into the TDWG
 
 The tasks of this task group can be grouped into three steps that correspond to the envisioned mappings process. At first mappings are created by the standard creators, then they are expressed in a common format and based on this they can be documented on the TDWG website. The order of the tasks and deliverables described here does not follow these three steps in order, as we consider the decision on a unified way to express mappings as the first and most important step, as both the task relating to the mapping creation and the mapping documentation depend on that outcome. 
 
-![](https://github.com/tdwg/standards-mappings/blob/main/media/mapping-process.png)
+![](https://raw.githubusercontent.com/tdwg/standards-mappings/main/media/mapping-process.png)
 
 Figure 1: The three steps of the mapping process, with the deliverables (D1-D7) associated with them.
 
