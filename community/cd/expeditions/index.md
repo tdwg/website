@@ -3,7 +3,7 @@ title: Modelling Research Expeditions
 description: >
   The Expeditions Task Group creates best practice recommendations for the modelling and linking of expedition data.
 background:
-  img: (https://images.unsplash.com/photo-1584266032559-fe29c2fc22e8)
+  img: https://images.unsplash.com/photo-1584266032559-fe29c2fc22e8
   by: NOAA
   href: https://unsplash.com/photos/white-and-blue-ship-on-sea-under-blue-sky-during-daytime-AdZUiGNo9Fo
 toc: true
