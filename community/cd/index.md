@@ -9,6 +9,8 @@ github: https://github.com/tdwg/cd/
 toc: true
 list:
 - label: TG
+  href: /community/cd/expeditions/
+- label: TG
   href: /community/cd/mids/
 ---
 
