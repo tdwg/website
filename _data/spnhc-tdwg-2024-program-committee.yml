@@ -6,6 +6,14 @@
   orcid: 0000-0003-1273-1807
   twitter: VertNetOrg
 
+- name: "Julian Carter"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/images/pc/carter-julian.jpg
+  description: >
+    _Amgeuddfa Cymru - National Museum Wales, UK._ Julian works as the Principal Conservator Natural Sciences covering the care and conservation across the natural science collection disciplines with extensive experience in a wide range of collections from fluid preserved to Blaschka glass models. In addition he has an extensive background in exhibitions and other outreach work, particularly enjoying facilitating using collections beyond the Museum and working in SciArt crossover projects. He has been a member of SPNHC since the mid 1990s and has previously been a Member-at-Large, Conference Chair, and is currently the President of the Society. When not in the Museum he can usually be found exploring the underground world.
+  orcid: 0000-0002-7058-3382
+  twitter: NatHistConserve
+
 - name: "Jillian Goodwin"
   role: "Co-chair"
   image: https://static.tdwg.org/conferences/2024/images/pc/goodwin-jillian.jpg
@@ -96,8 +104,8 @@
     _Sacramento, CA, USA._ Erica is a biodiversity information scientist who has been involved as a member of SPNHC since 2015 and TDWG since 2019. She has worked in several natural history collections, as well as for iDigBio, and her expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data.
   orcid: 0000-0003-3192-0080 
 
-- name: "Katie Leard"
-  image:
+- name: "Katey Leard"
+  image: https://static.tdwg.org/conferences/2024/images/pc/leard-katey.jpg
   description: >
     _de Young Museum / Legion of Honor, Conservation Department, San Francisco, CA, USA._ Katey works as the Collections Care Assistant for the de Young Museum and Legion of Honor. Her position carries out both museum’s Integrated Pest Management (IPM) plan, environmental monitoring system, gallery maintenance, and collections rehousing. Katey has been a member of SPNHC since 2015. She is passionate about the bridging of art and science within museum conservation and collections care.
 
@@ -131,6 +139,18 @@
   description: >
     _United States National Arboretum, U.S. Department of Agriculture, Washington, D.C., USA._ Harlan is a botanist and taxonomist with the USDA and the Curator of the herbarium collections. He is also the administrator of the ARS Biocollections portal, Data Steward for the federal government’s scientific collections registry, and is a leader in digitization efforts across the government. On the research front, Harlan is a specialist in the systematics and taxonomy of passionflowers (Passiflora) and a proponent of collections-based investigations across a multitude of fields. In addition to being an active member of SPNHC, Harlan also serves the natural history community through roles in several systematics- and collections-oriented societies.
   orcid: 0000-0001-9081-5980
+
+- name: "Barbara Thiers"
+  image: https://static.tdwg.org/conferences/2024/images/pc/thiers-barbara.jpg
+  description: >
+    _New York Botanical Garden and Denver Botanic Gardens._ Barbara is the Director Emerita of the New York Botanical Garden’s Steere Herbarium and continues as editor of Index Herbariorum.  She has been a member of SPNHC since 2010, and is a past president of SPNHC (2018–2020).  As President-Elect of SPNHC in 2017, she served on the program committee for the joint SPNHC-TDWG conference in Dunedin, NZ.  She is a member of the advisory committees for the Biodiversity Collections Network (BCoN), the Natural Science Collections Committeemember since 2010.  She is currently a Research Adjunct at the Denver Botanic Gardens.
+  orcid: 0000-0002-8613-7133
+
+- name: "Jennifer Trimble"
+  image: https://static.tdwg.org/conferences/2024/images/pc/trimble-jennifer.jpg
+  description: >
+    _Museum of Comparative Zoology, Harvard University, Cambridge, MA, USA._ Jennifer is the Curatorial Associate in Malacology at Harvard's Museum of Comparative Zoology in Cambridge, MA, USA. Since 2013, she has been an engaged member of SPNHC and presently holds the role of Member-at-Large on the SPNHC Council. Her areas of interest include the digitization of collections, and fostering synergy between historical and digital record-keeping practices. With a master's degree in Sustainability and Environmental Management, Jennifer endeavours to integrate elements of climate science awareness, and educational outreach into her work within museum collections.
+  orcid: 0000-0002-7480-3645
 
 - name: "Visotheary “Theary” Ung"
   image: https://static.tdwg.org/conferences/2024/images/pc/ung-theary.jpg
