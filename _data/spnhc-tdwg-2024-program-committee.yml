@@ -6,14 +6,6 @@
   orcid: 0000-0003-1273-1807
   twitter: VertNetOrg
 
-- name: "Julian Carter"
-  role: "Co-chair"
-  image: https://static.tdwg.org/conferences/2024/images/pc/carter-julian.jpg
-  description: >
-    _Amgeuddfa Cymru - National Museum Wales, UK._ Julian works as the Principal Conservator Natural Sciences covering the care and conservation across the natural science collection disciplines with extensive experience in a wide range of collections from fluid preserved to Blaschka glass models. In addition he has an extensive background in exhibitions and other outreach work, particularly enjoying facilitating using collections beyond the Museum and working in SciArt crossover projects. He has been a member of SPNHC since the mid 1990s and has previously been a Member-at-Large, Conference Chair, and is currently the President of the Society. When not in the Museum he can usually be found exploring the underground world.
-  orcid: 0000-0002-7058-3382
-  twitter: NatHistConserve
-
 - name: "Jillian Goodwin"
   role: "Co-chair"
   image: https://static.tdwg.org/conferences/2024/images/pc/goodwin-jillian.jpg
@@ -53,6 +45,13 @@
     _Museum of Comparative Zoology, Cambridge, MA, USA._ Christina is the Curatorial Associate of Vertebrate Paleontology at Harvard University’s Museum of Comparative Zoology. Her collections expertise is in digitization, specifically 2D specimen photography and document digitization. Her focus in recent years has been on studying object conservation skills and how they can be applied in fossil conservation treatments. She has been a member of SPNHC since 2015, a member of the SPNHC Best Practices Committee since 2018, and is a first time member of the Program Committee.
   ORCID: 0000-0001-7963-6092
   twitter: christinabyrd88
+
+- name: "Julian Carter"
+  image: https://static.tdwg.org/conferences/2024/images/pc/carter-julian.jpg
+  description: >
+    _Amgeuddfa Cymru - National Museum Wales, UK._ Julian works as the Principal Conservator Natural Sciences covering the care and conservation across the natural science collection disciplines with extensive experience in a wide range of collections from fluid preserved to Blaschka glass models. In addition he has an extensive background in exhibitions and other outreach work, particularly enjoying facilitating using collections beyond the Museum and working in SciArt crossover projects. He has been a member of SPNHC since the mid 1990s and has previously been a Member-at-Large, Conference Chair, and is currently the President of the Society. When not in the Museum he can usually be found exploring the underground world.
+  orcid: 0000-0002-7058-3382
+  twitter: NatHistConserve
 
 - name: "Robert Cubey"
   image: https://static.tdwg.org/conferences/2024/images/pc/cubey-robert.jpg
