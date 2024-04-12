@@ -48,9 +48,9 @@ list:
   href: /community/cd/
   menu:
   - label: TG
-    href: /community/cd/expeditions/
-  - label: TG
     href: /community/cd/mids/
+  - label: TG
+    href: /community/cd/expeditions/
 - label: MG
   href: /community/dwc/
   menu:
