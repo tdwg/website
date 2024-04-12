@@ -17,14 +17,14 @@ toc: true
 
 ## Convenor
 
-- Cameron Slatyer (Atlas of Living Australia)
+- Cameron Slatyer - _Atlas of Living Australia_
 
 
 ## Core Members
 
-- Andrew Rodrigues (GBIF – global initiatives and implementation of DWC)
-- Piers Higgs, (Gaia Resources – technical expertise)
-- John Wieczorek (VertNet, Darwin Core Maintenance Interest Group)
+- Andrew Rodrigues - _GBIF, Global initiatives and implementation of DWC_
+- Piers Higgs - _Gaia Resources, technical expertise_
+- John Wieczorek - _VertNet, Darwin Core Maintenance Interest Group_
 
 
 ## Motivation
