@@ -6,7 +6,7 @@ background:
   img: https://images.unsplash.com/photo-1658737320601-b10bcd2ca06d
   by: Tomás Evaristo
   href: https://unsplash.com/photos/a-close-up-of-a-sea-animal-MB1Ml14y90U
-github: https://github.com/tdwg/sensitve-species-extension/
+github: https://github.com/tdwg/sensitive-species-extension
 toc: true
 ---
 
