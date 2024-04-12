@@ -56,6 +56,8 @@ list:
   menu:
   - label: TG
     href: /community/dwc/phenology/
+  - label: TG
+    href: /community/dwc/sensitive-species/
 - label: IG
   href: /community/esp/
   menu:
