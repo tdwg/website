@@ -22,6 +22,7 @@ toc: true
 
 ## Core Members
 
+- Tania Laity - _Atlas of Living Australia, species information_
 - Andrew Rodrigues - _GBIF, Global initiatives and implementation of DWC_
 - Piers Higgs - _Gaia Resources, technical expertise_
 - John Wieczorek - _VertNet, Darwin Core Maintenance Interest Group_
