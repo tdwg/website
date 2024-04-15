@@ -61,7 +61,7 @@ Create a GitHub repository for the task group to assure adoption of best practic
 ## Becoming Involved
 
 * individuals having an interest in this work should contact the convener and are invited to watch and contribute via the Sensitive Species Extension GitHub Repository (https://github.com/tdwg/sensitive-species-extension).
-* Please join the mailing list to contact the group http://lists.dwc.org/mailman/listinfo/tdwg-sensitve-species
+* Please join the mailing list to contact the group https://lists.tdwg.org/mailman/listinfo/dwc-sensitive-species
 
 
 ## History/Context
