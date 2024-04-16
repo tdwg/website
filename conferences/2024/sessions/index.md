@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-03-30
+Last modified 2024-04-15
 
 ## Index to sessions
 
@@ -228,7 +228,7 @@ Digital twins combine cutting-edge modeling approaches with powers of supercompu
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **[Javier Molina](mailto:javier.molina@csiro.au), Francisco Pando, Anne-Sophie Archambeau, Peggy Newman**
+Organizers:  **[Javier Molina](mailto:javier.molina@csiro.au), Francisco Pando, Anne-Sophie Archambeau, Peggy Newman, Vicente J Ruiz Jurado**
 
 **Abstract**<br />
 Many biodiversity questions --scientific, societal-- require information pertaining to species: descriptions, images, conservation status, legislation. In parallel, most scientific questions as well and those related to conservation, policy or other societal challenges connected with the environment, cannot be approached on the basis of biodiversity data alone, thus requiring these alongside other data types such as climatic, soil, land use, etc.
