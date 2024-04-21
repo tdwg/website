@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified: 2024-04-02
+Last modified: 2024-04-20
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -58,7 +58,9 @@ The call for session proposals (e.g., symposia, panels, workshops) was distribut
 
 ## Call for abstracts
 
-The [call for abstracts](/conferences/2024/call-for-abstracts/) for individual oral or poster presentations in Oxford Abstracts is now open. Please see the [Submission Guidelines for OA Abstracts](/conferences/2024/oa-abstract-submission-guidelines/). **DEADLINE: 19 April 2024**
+The [call for abstracts](/conferences/2024/call-for-abstracts/) for individual oral or poster presentations in Oxford Abstracts (OA) has now closed. Abstracts will undergo review and authors will be notified by 15 May about their status.
+
+An opportunity will open to submit _extended_ abstracts (based on successful abstracts submitted to OA) to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced later in May.
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
