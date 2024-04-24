@@ -22,6 +22,7 @@ toc: true
 - [Adam Mansur](mailto:mansura@si.edu) (IT Specialist, Department of Mineral Sciences) - National Natural History Museum, Smithsonian Institution, Washington DC, USA
 - [André Puschnig](mailto:Andre.Puschnig@bs.ch) (Curator, Mineralogy) - Natural History Museum Basel, Switzerland
 - [Jolyon Ralph](mailto:jolyon@mindat.org) (Founder) - Mindat.org
+- [Stephen Richard](mailto:smrtucson@gmail.com) (Geologist and geoinformatics specialist) - Tucson, AZ, USA
 - [Chris Tacker](mailto:christopher.tacker@naturalsciences.org) (Research Curator, Geology) - North Carolina Museum of Natural Sciences, Raleigh, NC, USA
 
 ## Overview
