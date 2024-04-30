@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-04-15
+Last modified 2024-04-30
 
 ## Index to sessions
 
@@ -383,7 +383,7 @@ By linking the outcomes of scientific research to aggregated taxonomies, we aim 
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **[Irene Martin-Fores](mailto:irene.martin@adelaide.edu.au)**
+Organizers:  **[Irene Martin-Fores](mailto:irene.martin@adelaide.edu.au), Donna Lewis**
 
 **Abstract**<br />
 Biological invasions pose threats to ecosystems, economies, and human health worldwide. To address these challenges, it is imperative to integrate and harmonize databases and terminology related to invasive species into unified datasets. This organized session aims to explore the importance of such integration in facilitating collaboration and enhancing management strategies in invasion biology.
