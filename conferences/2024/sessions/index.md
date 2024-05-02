@@ -17,55 +17,55 @@ Click a link to read the session abstract.
 | Session Code | Session Title |
 | --- | --- |
 | CTRB01 | [General Presentations: Enhancing local capacity, elevating global standards](#ctrb01) |
-| CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#ctrb02-contributed-oral-presentations-related-to-any-aspect-of-spnhc-or-tdwg-interest) |
-| DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01-democamp-live-demonstrations-of-technology-for-natural-history-collections-and-biodiversity-data) |
-| LTNG01 | see SYM35 [Digitization Coordination](#sym35-digitization-coordination) |
-| LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02-diversity-and-commonalities-of-ai-applications-to-biodiversity-issues-and-data) |
-| LTNG03 | [Interoperable Invasive Alien Species Data: Bridging the gap](#ltng03-interoperable-invasive-alien-species-data-bridging-the-gap) |
-| LTNG05 | [Specimen Spotlight](#ltng05-specimen-spotlight) |
-| LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36-lessons-learned-from-local-data-providers-in-the-marine-community-dwc-data-connect-local-to-global) |
-| PANEL01 | [Environmental and Biological Sample Banking in MENA Nations](#panel01-environmental-and-biological-sample-banking-in-mena-nations) |
-| PANEL02 | [Telling the Whole Story of Science](#panel02-telling-the-whole-story-of-science) |
-| POSTER | [Poster session](#poster-poster-session) |
-| SYM01 | [A Fly Can’t Bird but a Bird Can Fly: Current advances and challenges at the intersections of collection management systems, institutions and community](#sym01-a-fly-cant-bird-but-a-bird-can-fly-current-advances-and-challenges-at-the-intersections-of-collection-management-systems-institutions-and-community) |
-| SYM02 | [Back to Basics Skillshare](#sym02-back-to-basics-skillshare) |
-| SYM03 | [Beyond Best Practice: Embracing the value of improvisation](#sym03-beyond-best-practice-embracing-the-value-of-improvisation) |
-| SYM04 | [Bioblitzes and Museums: Natural partners](#sym04-bioblitzes-and-museums-natural-partners) |
-| SYM05 | [Biodiversity Biobanking Network GGBN: A global infrastructure for molecular collections](#sym05-biodiversity-biobanking-network-ggbn-a-global-infrastructure-for-molecular-collections) |
-| SYM06 | [Biodiversity Data Standards and FAIR in Prototyping Biodiversity Digital Twins](#sym06-biodiversity-data-standards-and-fair-in-prototyping-biodiversity-digital-twins) |
-| SYM07 | [Biodiversity Data, Software and Workflows: Beyond observations, beyond biodiversity](#sym07-biodiversity-data-software-and-workflows-beyond-observations-beyond-biodiversity) |
-| SYM08 | [Biodiversity Informatics for Asia's Biodiverse Future: A focus on collections and collaboration](#sym08-biodiversity-informatics-for-asias-biodiverse-future-a-focus-on-collections-and-collaboration) |
-| SYM09 | [Biodiversity Knowledge Linking: Progress after BiCIKL and beyond](#sym09-biodiversity-knowledge-linking-progress-after-bicikl-and-beyond) |
-| SYM10 | [Broadening Access, Community Science, Inclusion, Education, Outreach](#sym10-broadening-access-community-science-inclusion-education-outreach) |
-| SYM11 | [Catalogue of Life as a Means to Harmonise and Unify Taxonomic Data Services](#sym11-catalogue-of-life-as-a-means-to-harmonise-and-unify-taxonomic-data-services) |
-| SYM12 | [Computationally Tractable Taxon Circumscriptions for TCS](#sym12-computationally-tractable-taxon-circumscriptions-for-tcs) |
-| SYM13 | [Controlled Vocabularies: The secret sauce that unlocks the power of data consistency and accessibility!](#sym13-controlled-vocabularies-the-secret-sauce-that-unlocks-the-power-of-data-consistency-and-accessibility) |
-| SYM14 | [Emergence of Integrated Public Collection Services: Today's DES experiences for tomorrow's successes](#sym14-emergence-of-integrated-public-collection-services-todays-des-experiences-for-tomorrows-successes) |
-| SYM15 | [Emergent AI Contributions to Biodiversity Data & Data Standardisation: Opportunities, challenges, and a year in review](#sym15-emergent-ai-contributions-to-biodiversity-data--data-standardisation-opportunities-challenges-and-a-year-in-review) |
-| SYM16 | [Exploring and Enhancing Collections Metadata with the Global Registry of Scientific Collections (GRSciColl)](#sym16-exploring-and-enhancing-collections-metadata-with-the-global-registry-of-scientific-collections-grscicoll) |
-| SYM17 | [From Local Data to Global Insights: Community curation of specimen data](#sym17-from-local-data-to-global-insights-community-curation-of-specimen-data) |
-| SYM18 | [Globally Linking Taxonomies: Use cases and latest developments](#sym18-globally-linking-taxonomies-use-cases-and-latest-developments) |
-| SYM19 | [Harmonizing Databases and Terminology on Biological Invasions for Successful Management Strategies](#sym19-harmonizing-databases-and-terminology-on-biological-invasions-for-successful-management-strategies) |
-| SYM20 | [Herbarium Procedures and Techniques: Sharing best practice from across the globe](#sym20-herbarium-procedures-and-techniques-sharing-best-practice-from-across-the-globe) |
-| SYM21 | [Indigenous Traditional Knowledge and Natural History Collections](#sym21-indigenous-traditional-knowledge-and-natural-history-collections) |
-| SYM22 | [Innovative Visualization for Effective Data-Driven Communication](#sym22-innovative-visualization-for-effective-data-driven-communication) |
-| SYM23 | [IUCN Red List Assessments: How can and do museums contribute?](#sym23-iucn-red-list-assessments-how-can-and-do-museums-contribute) |
-| SYM24 | [Microscope Slide Curation, Conservation, and Access](#sym24-microscope-slide-curation-conservation-and-access) |
-| SYM25 | [Occurrences are Neither Specimens or Samples: Data modelling challenges and opportunities for information storage and exchange](#sym25-occurrences-are-neither-specimens-or-samples-data-modelling-challenges-and-opportunities-for-information-storage-and-exchange) |
-| SYM26 | [Phenology: It's about time (for standards, best practices and integration)](#sym26-phenology-its-about-time-for-standards-best-practices-and-integration) |
-| SYM27 | [Pre- & Post Disaster Management of Natural History Collections](#sym27-pre---post-disaster-management-of-natural-history-collections) |
-| SYM28 | [Scaling Up Capacity to Address Global Biodiversity Goals for Data Mobilization and Use](#sym28-scaling-up-capacity-to-address-global-biodiversity-goals-for-data-mobilization-and-use) |
-| SYM29 | [Specify Spotlight: Enhancing biodiversity data management](#sym29-specify-spotlight-enhancing-biodiversity-data-management) |
-| SYM30 | [SPNHC to TDWG: Bridging communities and building capacity for digital collections mobilization](#sym30-spnhc-to-tdwg-bridging-communities-and-building-capacity-for-digital-collections-mobilization) |
-| SYM31 | [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31-success-metrics-focusing-local-capacity-on-relevance-demonstrating-relevance-with-global-baselines) |
-| SYM32 | [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32-through-interpretation-using-empathy-and-social-emotional-frameworks-to-interpret-our-collections-for-the-public) |
-| SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33-unlocking-barriers-and-access-inequities-to-museum-collections-in-archaeology-and-paleontology) |
-| SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen-based research in Indo-Pacific Asia](#sym34-unveiling-the-rich-tapestry-biodiversity-collection-practices-and-specimen-based-research-in-indo-pacific-asia) |
-| SYM35 | [Digitization Coordination](#sym35-digitization-coordination) |
-| SYM36 | [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36-lessons-learned-from-local-data-providers-in-the-marine-community-dwc-data-connect-local-to-global) |
-| WKSH01 | [Data Carpentry: Introduction to species interaction data with GloBi](#wksh01-data-carpentry-introduction-to-species-interaction-data-with-globi) |
-| WKSH02 | [Herbarium Challenges: Sharing best practice from across the globe](#wksh02-herbarium-challenges-sharing-best-practice-from-across-the-globe) |
-| WKSH03 | [Photography Workshop: Camera basics for field and collections photography](#wksh03-photography-workshop-camera-basics-for-field-and-collections-photography) |
+| CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#ctrb02) |
+| DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01) |
+| LTNG01 | see SYM35 [Digitization Coordination](#sym35) |
+| LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02) |
+| LTNG03 | [Interoperable Invasive Alien Species Data: Bridging the gap](#ltng03) |
+| LTNG05 | [Specimen Spotlight](#ltng05) |
+| LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
+| PANEL01 | [Environmental and Biological Sample Banking in MENA Nations](#panel01) |
+| PANEL02 | [Telling the Whole Story of Science](#panel02) |
+| POSTER | [Poster session](#poster) |
+| SYM01 | [A Fly Can’t Bird but a Bird Can Fly: Current advances and challenges at the intersections of collection management systems, institutions and community](#sym01) |
+| SYM02 | [Back to Basics Skillshare](#sym02) |
+| SYM03 | [Beyond Best Practice: Embracing the value of improvisation](#sym03) |
+| SYM04 | [Bioblitzes and Museums: Natural partners](#sym04) |
+| SYM05 | [Biodiversity Biobanking Network GGBN: A global infrastructure for molecular collections](#sym05) |
+| SYM06 | [Biodiversity Data Standards and FAIR in Prototyping Biodiversity Digital Twins](#sym06) |
+| SYM07 | [Biodiversity Data, Software and Workflows: Beyond observations, beyond biodiversity](#sym07) |
+| SYM08 | [Biodiversity Informatics for Asia's Biodiverse Future: A focus on collections and collaboration](#sym08) |
+| SYM09 | [Biodiversity Knowledge Linking: Progress after BiCIKL and beyond](#sym09) |
+| SYM10 | [Broadening Access, Community Science, Inclusion, Education, Outreach](#sym10) |
+| SYM11 | [Catalogue of Life as a Means to Harmonise and Unify Taxonomic Data Services](#sym11) |
+| SYM12 | [Computationally Tractable Taxon Circumscriptions for TCS](#sym12) |
+| SYM13 | [Controlled Vocabularies: The secret sauce that unlocks the power of data consistency and accessibility!](#sym13) |
+| SYM14 | [Emergence of Integrated Public Collection Services: Today's DES experiences for tomorrow's successes](#sym14) |
+| SYM15 | [Emergent AI Contributions to Biodiversity Data & Data Standardisation: Opportunities, challenges, and a year in review](#sym15) |
+| SYM16 | [Exploring and Enhancing Collections Metadata with the Global Registry of Scientific Collections (GRSciColl)](#sym16) |
+| SYM17 | [From Local Data to Global Insights: Community curation of specimen data](#sym17) |
+| SYM18 | [Globally Linking Taxonomies: Use cases and latest developments](#sym18) |
+| SYM19 | [Harmonizing Databases and Terminology on Biological Invasions for Successful Management Strategies](#sym19) |
+| SYM20 | [Herbarium Procedures and Techniques: Sharing best practice from across the globe](#sym20) |
+| SYM21 | [Indigenous Traditional Knowledge and Natural History Collections](#sym21) |
+| SYM22 | [Innovative Visualization for Effective Data-Driven Communication](#sym22) |
+| SYM23 | [IUCN Red List Assessments: How can and do museums contribute?](#sym23) |
+| SYM24 | [Microscope Slide Curation, Conservation, and Access](#sym24) |
+| SYM25 | [Occurrences are Neither Specimens or Samples: Data modelling challenges and opportunities for information storage and exchange](#sym25) |
+| SYM26 | [Phenology: It's about time (for standards, best practices and integration)](#sym26) |
+| SYM27 | [Pre- & Post Disaster Management of Natural History Collections](#sym27) |
+| SYM28 | [Scaling Up Capacity to Address Global Biodiversity Goals for Data Mobilization and Use](#sym28) |
+| SYM29 | [Specify Spotlight: Enhancing biodiversity data management](#sym29) |
+| SYM30 | [SPNHC to TDWG: Bridging communities and building capacity for digital collections mobilization](#sym30) |
+| SYM31 | [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31) |
+| SYM32 | [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32) |
+| SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33) |
+| SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen)](#sym24) |
+| SYM35 | [Digitization Coordination](#sym35) |
+| SYM36 | [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
+| WKSH01 | [Data Carpentry: Introduction to species interaction data with GloBi](#wksh01) |
+| WKSH02 | [Herbarium Challenges: Sharing best practice from across the globe](#wksh02) |
+| WKSH03 | [Photography Workshop: Camera basics for field and collections photography](#wksh03) |
 
 ## Session abstracts
 
