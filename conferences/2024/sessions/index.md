@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-04-30
+Last modified 2024-05-03
 
 ## Index to sessions
 
@@ -60,7 +60,7 @@ Click a link to read the session abstract.
 | SYM31 | [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31) |
 | SYM32 | [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32) |
 | SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33) |
-| SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen)](#sym24) |
+| SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen)](#sym34) |
 | SYM35 | [Digitization Coordination](#sym35) |
 | SYM36 | [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
 | WKSH01 | [Data Carpentry: Introduction to species interaction data with GloBi](#wksh01) |
