@@ -13,13 +13,13 @@ toc: true
 
 ## Completion notice
 
-**This Task Group has completed its work. There may be future task groups formed to continue development of the extension -- contact the convener if you are interested in being involved.**
-
-Please see the results on:
-- [Darwin Core, Humboldt Extension Vocabulary List of Terms](https://www.tdwg.org/standards/dwc/#humboldt-extension-vocabulary-list-of-terms)
+**This Task Group has completed its work and has been dissolved.**  Please see the results on:
+- [Darwin Core, Humboldt Extension Vocabulary List of Terms](/standards/dwc/#humboldt-extension-vocabulary-list-of-terms)
 - [Humboldt Extension documentation](https://eco.tdwg.org)
 
-This page (last version of the charter) will be archived under the [Humboldt Extension website](https://eco.tdwg.org) within a year of completion.
+The terms created as by the task group have been incorporated into the Darwin Core and will be maintained by the [Darwin Core Maintenance Group](/community/dwc/).  Future task groups may be formed to continue development of the extension if usage experience indicates significant additional work would be beneficial. 
+
+This page will be archived under the [Humboldt Extension website](https://eco.tdwg.org) within a year of ratification date, above.
 
 ## Convener
 
