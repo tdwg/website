@@ -1,14 +1,25 @@
 ---
 title: Humboldt Extension
 description: >
-  This task group will explore concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt extension terms (Guralnick et al. 2018) will be reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core if possible. If not, the work of the Task Group will be amended to pursue an alternative standard for this type of data within the TDWG corpus of standards. The outcome in either case will be to provide a framework and clear semantics for sharing and integrating biodiversity inventory data.
+  This task group explored concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt extension terms (Guralnick et al. 2018) reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core. The TDWG Executive Committee ratified the Humboldt Extension 2024-02-28. The resulting terms have been incorporated into the Darwin Core and can be found on the website linked below. The outcome provides a framework and clear semantics for sharing and integrating biodiversity inventory data.
 background:
   img: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
   by: David Clode
   href: https://unsplash.com/photos/oe25dLOXpL8
+website: https://eco.tdwg.org
 github: https://github.com/tdwg/hc
 toc: true
 ---
+
+## Completion notice
+
+**This Task Group has completed its work. There may be future task groups formed to continue development of the extension -- contact the convener if you are interested in being involved.**
+
+Please see the results on:
+- [Darwin Core, Humboldt Extension Vocabulary List of Terms](https://www.tdwg.org/standards/dwc/#humboldt-extension-vocabulary-list-of-terms)
+- [Humboldt Extension documentation](https://eco.tdwg.org)
+
+This page (last version of the charter) will be archived under the [Humboldt Extension website](https://eco.tdwg.org) within a year of completion.
 
 ## Convener
 
@@ -35,8 +46,6 @@ toc: true
 - [Yi-Ming Gan](mailto:ymgan@naturalsciences.be) - Royal Belgian Institute of Natural Sciences
 
 ## Motivation
-
-**NOTE: this Task Group has completed its work. There may be future task groups formed to continue development of the extension -- contact the convener if you are interested in being involved.**
 
 Species inventories are routinely performed and offer particular value for characterizing biodiversity and its change. However, reporting standards allowing these inventories to be re‐used, compared to one another, and further integrated with other sources of biodiversity data are lacking, impeding their broadest utility. The Darwin Core standard currently allows sharing some of the information related to inventories, i.e., terms samplingProtocol, sampleSizeValue, sampleSizeUnit, samplingEffort. However, it still presents a limited ability to express detailed reporting of scope (spatial, temporal, taxonomic, and environmental), as well as a whole suite of commonly measured aspects of inventory sampling processes (e.g., direct or inferred measures of sampling effort).
 
