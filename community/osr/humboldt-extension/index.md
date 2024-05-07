@@ -1,7 +1,7 @@
 ---
 title: Humboldt Extension
 description: >
-  This task group explored concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt extension terms (Guralnick et al. 2018) reviewed, revised as necessary, and integrated into one or more extensions to the Darwin Core. The TDWG Executive Committee ratified the Humboldt Extension 2024-02-28. The resulting terms have been incorporated into the Darwin Core and can be found on the website linked below. The outcome provides a framework and clear semantics for sharing and integrating biodiversity inventory data.
+  This task group explored concepts and methods of species inventories to fully integrate this type of observational data into existing data exchange schemas. To support proper capture of key information about inventories, current Humboldt extension terms (Guralnick et al. 2018) were reviewed, revised as necessary, and integrated into an extensions to the Darwin Core. The TDWG Executive Committee ratified the Humboldt Extension on 2024-02-28. The resulting terms have been incorporated into the Darwin Core and can be found in the Darwin Core, with addition documentation and recommendations on the website linked below. The outcome provides a framework and clear semantics for sharing and integrating biodiversity inventory data.
 background:
   img: https://images.unsplash.com/photo-1593924237840-7cf29772fcda
   by: David Clode
@@ -10,6 +10,8 @@ website: https://eco.tdwg.org
 github: https://github.com/tdwg/hc
 toc: true
 ---
+
+Last modified: 2024-05-06
 
 ## Completion notice
 
