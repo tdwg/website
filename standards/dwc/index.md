@@ -81,7 +81,7 @@ What is not in scope?
 
 ## Parts of the standard
 
-This standard is comprised of 5 vocabularies and 10 documents.
+This standard is comprised of 7 vocabularies and 12 documents.
 
 Vocabularies:
 
@@ -90,6 +90,8 @@ Vocabularies:
 - degreeOfEstablishment controlled vocabulary (<http://rs.tdwg.org/dwcdoe/>)
 - pathway controlled vocabulary (<http://rs.tdwg.org/dwcpw/>)
 - Darwin Core Chronometric Age Extension vocabulary (<http://rs.tdwg.org/chrono/>)
+- Humboldt Extension vocabulary (<http://rs.tdwg.org/eco/>)
+- Taxon Completeness Reported Controlled Vocabulary (<http://rs.tdwg.org/ecotcr/>)
 
 Documents:
 
@@ -261,26 +263,29 @@ Created
 : 2020-08-12
 
 Last modified
-: 2021-07-15
+: 2023-09-18
 
 Contributors
-: John Wieczorek (contributor) - VertNet
-: Peter Desmet (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO)
-: Steve Baskauf (contributor) - Vanderbilt University Libraries
-: Tim Robertson (contributor) - Global Biodiversity Information Facility
-: Markus Döring (contributor) - Global Biodiversity Information Facility
-: Quentin Groom (contributor) - Botanic Garden Meise
-: Stijn Van Hoey (contributor) - Instituut voor Natuur- en Bosonderzoek (INBO)
-: David Bloom (contributor) - VertNet
-: Paula Zermoglio (contributor) - VertNet
-: Robert Guralnick (contributor) - University of Florida
-: John Deck (contributor) - Genomic Biodiversity Working Group
-: Gail Kampmeier (contributor) - Illinois Natural History Survey
-: Dave Vieglais (contributor) - KU Natural History Museum
-: Renato De Giovanni (contributor) - Centro de Referência em Informação Ambiental
-: Campbell Webb (contributor) - TDWG RDF/OWL Task Group
-: Paul J. Morris (contributor) - Harvard University Herbaria/Museum of Comparative Zoölogy
-: Mark Schildhauer (contributor) - National Center for Ecological Analysis and Synthesis
+: [John Wieczorek](https://orcid.org/0000-0003-1144-0290) ([VertNet](http://www.wikidata.org/entity/Q98382028))
+: [Peter Desmet](https://orcid.org/0000-0002-8442-8025) ([Instituut voor Natuur- en Bosonderzoek (INBO)](http://www.wikidata.org/entity/Q7315097))
+: [Steve Baskauf](https://orcid.org/0000-0003-4365-3135) ([Vanderbilt University Libraries](http://www.wikidata.org/entity/Q16849893))
+: [Tim Robertson](https://orcid.org/0000-0001-6215-3617) ([Global Biodiversity Information Facility](http://www.wikidata.org/entity/Q1531570))
+: [Markus Döring](https://orcid.org/0000-0001-7757-1889) ([Global Biodiversity Information Facility](http://www.wikidata.org/entity/Q1531570))
+: [Quentin Groom](https://orcid.org/0000-0002-0596-5376) ([Botanic Garden Meise](http://www.wikidata.org/entity/Q3052500))
+: [Stijn Van Hoey](https://orcid.org/0000-0001-6413-3185) ([Instituut voor Natuur- en Bosonderzoek (INBO)](http://www.wikidata.org/entity/Q7315097))
+: [David Bloom](https://orcid.org/0000-0003-1273-1807) ([VertNet](http://www.wikidata.org/entity/Q98382028))
+: [Paula Zermoglio](https://orcid.org/0000-0002-6056-5084) ([VertNet](http://www.wikidata.org/entity/Q98382028))
+: [Robert Guralnick](https://orcid.org/0000-0001-6682-1504) ([University of Florida](http://www.wikidata.org/entity/Q501758))
+: [John Deck](https://orcid.org/0000-0002-5905-1617) ([Genomic Biodiversity Working Group](http://www.wikidata.org/entity/Q98382041))
+: [Gail Kampmeier](https://orcid.org/0000-0002-5178-4170) ([Illinois Natural History Survey](http://www.wikidata.org/entity/Q5999587))
+: [Dave Vieglais](https://orcid.org/0000-0002-6513-4996) ([KU Natural History Museum](http://www.wikidata.org/entity/Q1111807))
+: [Renato De Giovanni](https://orcid.org/0000-0002-7104-7266) ([Centro de Referência em Informação Ambiental](http://www.wikidata.org/entity/Q29168927))
+: [Campbell Webb](https://orcid.org/0000-0003-1031-3249) ([TDWG RDF/OWL Task Group](http://www.wikidata.org/entity/Q4914768))
+: [Paul J. Morris](http://purl.oclc.org/net/edu.harvard.huh/guid/uuid/5e51de22-d841-4c47-b0c4-d5ad0bd03035) ([Harvard University Herbaria/Museum of Comparative Zoölogy](http://www.wikidata.org/entity/Q51926077))
+: [Mark Schildhauer](https://orcid.org/0000-0003-0632-7576) ([National Center for Ecological Analysis and Synthesis](http://www.wikidata.org/entity/Q6971323))
+: [Sophia Ratcliffe](https://orcid.org/0000-0001-9284-7900) ([National Biodiversity Network Trust](http://www.wikidata.org/entity/Q6970988))
+: [Teresa J. Mayfield-Meyer](https://orcid.org/0000-0002-1970-7044) ([The University of New Mexico, Arctos](http://www.wikidata.org/entity/Q1190812))
+: [Christian Bölling](https://orcid.org/0000-0002-6544-1363) ([Museum für Naturkunde Berlin - Leibniz-Institut für Evolutions- und Biodiversitätsforschung](http://www.wikidata.org/entity/Q233098))
 
 Publisher
 : Biodiversity Information Standards (TDWG)
@@ -289,7 +294,7 @@ Abstract
 : Darwin Core is a vocabulary standard for transmitting information about biodiversity. This document lists all terms in namespaces currently used in the vocabulary.
 
 Citation
-: Darwin Core Maintenance Group. 2021. List of Darwin Core terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/list/2021-07-15>
+: Darwin Core Maintenance Group. 2023. List of Darwin Core terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/list/2023-09-18>
 
 ### Degree of Establishment Controlled Vocabulary List of Terms
 
@@ -451,7 +456,7 @@ Title
 : Humboldt Extension Vocabulary List of Terms
 
 Permanent IRI
-: [http://rs.tdwg.org/dwc/doc/chrono/](https://tdwg.github.io/chrono/list/)
+: <http://rs.tdwg.org/dwc/doc/eco/>
 
 Created
 : 2024-02-28
@@ -486,3 +491,31 @@ Abstract
 
 Citation
 : TDWG Humboldt Extension Task Group. 2024. Humboldt Extension Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/2024-03-26>
+
+### Taxon Completeness Reported Controlled Vocabulary List of Terms
+
+Title
+: Taxon Completeness Reported Controlled Vocabulary List of Terms
+
+Permanent IRI
+: <http://rs.tdwg.org/dwc/doc/tcr/>
+
+Created
+: 2024-02-28
+
+Last modified
+: 2024-02-28
+
+Contributors
+: [Yanina V. Sica](https://orcid.org/0000-0002-1720-0127) ([Yale University](http://www.wikidata.org/entity/Q49112))
+: [Wesley M. Hochachka](https://orcid.org/0000-0002-0595-7827) ([Cornell Lab of Ornithology](http://www.wikidata.org/entity/Q2997535))
+: [Steven J. Baskauf](https://orcid.org/0000-0003-4365-3135) ([Vanderbilt University Libraries](http://www.wikidata.org/entity/Q16849893))
+
+Publisher
+: Biodiversity Information Standards (TDWG)
+
+Abstract
+: The Humboldt Extension for Ecological Inventories mints the term `taxonCompletenessReported` to alert users that the inventory was conducted in such a way that all of the target taxa should have been detectable if they were present during the dwc:Event. This vocabulary provides terms that should be used as values for `eco:taxonCompletenessReported` and `ecoiri:taxonCompletenessReported`.
+
+Citation
+: TDWG Humboldt Extension Task Group. 2024. Taxon Completeness Reported Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/tcr/2024-02-28>
