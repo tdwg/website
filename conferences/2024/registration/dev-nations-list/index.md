@@ -9,10 +9,10 @@ background:
 toc: false
 ---
 
-Countries listed below are from the World Bank's list of lower-middle and low income economies (See the 
+Countries listed below are from the *World Bank* list of _lower-middle_ and _low income_ economies (See the 
 [source](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) of this list.)  
 
-If you are from one of these countries, you receive a very significant discount on in-person participation ($200), and virtual participation is 
+If you are a citizen of one of these countries, you are eligible to receive a very reduced ticket on in-person participation ($200), and virtual participation is 
 free -- but you must register in advance.
 
 |: --- |: ---|: ---|
