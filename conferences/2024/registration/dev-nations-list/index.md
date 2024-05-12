@@ -1,7 +1,7 @@
 ---
 title: Developing Nations List
 description: >
-  Developing Nations List
+  Simplified list of nations classified as having low and lower-middle income economies by the World Bank. 
 background:
   img: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
   by: Georg Eiermann
@@ -9,11 +9,11 @@ background:
 toc: false
 ---
 
-Countries listed below are from the *World Bank* list of _lower-middle_ and _low income_ economies (See the 
+Countries listed below are from the *World Bank* list of _low income_ and _lower-middle income_ economies (See the 
 [source](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) of this list.)  
 
-If you are a citizen of one of these countries, you are eligible to receive a very reduced ticket on in-person participation ($200), and virtual participation is 
-free -- but you must register in advance.
+If you are a citizen of one of these countries, you are eligible to receive a very reduced price for in-person participation ($200), while virtual participation is 
+entirely free -- but you must register in advance.
 
 |: --- |: ---|: ---|
 | Afghanistan | Algeria | Angola | 
