@@ -9,6 +9,8 @@ background:
 toc: true
 ---
 
+Last modified:  13 May 2024
+
 ## SPNHC TDWG 2024 registration
 
 We are pleased to announce that registration for the SPNHC-TDWG 2024 Joint Meeting in Okinawa, Japan, is now open.
@@ -19,9 +21,9 @@ Before you register, please be aware of the **IMPORTANT** requirements around re
 
 ## Special offer
 
-The first 120 people to register **prior to 30 June** for in-person attendance will be granted two special privileges. These individuals will be:
+The **first 120 people** to register for in-person attendance will be granted two special privileges. These individuals will be:
 
-1. Given access to early registration for our Okinawan excursions.
+1. Given exclusive early access to registration for our Okinawan excursions.
 
 2. Entered into a raffle to win one of many prizes. 5 individuals will be selected to win one-year memberships to both SPNHC and TDWG. Other individuals will win fun prizes from Okinawa.
 
