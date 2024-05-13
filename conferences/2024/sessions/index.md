@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-05-03
+Last modified 2024-05-13
 
 ## Index to sessions
 
@@ -326,7 +326,7 @@ During this session, we invite the community - enthusiasts, experts, and everyon
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  General interest<br />
-Organizers:  **[Jutta Buschbom](mailto:jutta.buschbom@statistical-genetics.de), Libby Ellwood**
+Organizers:  **[Jutta Buschbom](mailto:jutta.buschbom@nhm.ac.uk), Libby Ellwood**
 
 **Abstract**<br />
 Solidly grounded in decades of in-depth experience and engagement, it is time for the many established and successful collaborations throughout the collections community to consider transforming individual scientific and institutional initiatives, specifically those inspired by the Digital Extended Specimen (DES) concept, into an integrated network of public services to address today's biodiversity-related big questions.
