@@ -11,7 +11,7 @@ toc: true
 
 Last modified:  13 May 2024
 
-## SPNHC TDWG 2024 registration
+# SPNHC TDWG 2024 registration
 
 We are pleased to announce that registration for the SPNHC-TDWG 2024 Joint Meeting in Okinawa, Japan, is now open.
 
@@ -31,7 +31,7 @@ So step up and sign up!
 
 ## IMPORTANT for registration
 
-- If you are the organizer of a session or the designated presenter of an abstract at this year’s meeting, **you MUST register using the same email address used for your session or on the abstract submission**. This is how your registration will be linked to your abstract.
+- If you are the organizer of a session or the designated presenter of an abstract at this year’s meeting, **you MUST register using the same email address used for your session or on the abstract submission**. This is how your registration will be linked to your abstract. (See [details and remedies below](./#oa-email).)
 
 - With your registration you agree to adhere to the [TDWG 2024 Code of Conduct](https://www.tdwg.org/conferences/2024/code-of-conduct/) during your participation in conference sessions, workshops, panels, field trips, social events, or all other activities related to the SPNHC-TDWG 2024 Conference.
 
@@ -65,3 +65,27 @@ If you have any questions, please email the Planning Committee at [okinawa2024@s
   - go to your profile and update the email address with the one on your abstract and the one you will use to register for the conference.
 - Alternatively, you update your abstract(s) with your current account email - best practice is to check all abstracts where you are a co-author but not the submitter
 
+## Cancellation policy
+
+We hope you will join us at SPNHC-TDWG 2024 in person and online! However we recognize that unexpected changes occur. After 17:00 JST (UTC+9) on 30 August, 2024, the fees for any missed events will be retained by the organisers in order to support the subsidies we have offered to students and our colleagues from low and lower-middle income economies. These fees may include, but are not limited to, currency and transaction handling fees, currency exchange, printing services, and food services.
+
+### Cancellations 
+Cancellations for in-person attendance, with full refund, excluding currency, transaction and exchange fees, can be made up to 23:59, 16 August 2024 in the time zone of the registrant’s residence. Cancellations between 00:00, 17 August and 16:59 JST (UTC+9), 30 August, will be refunded at the rate of 50%, excluding excursions and tours.
+
+At any time, we encourage in-person delegates who are unable to travel to switch to be a virtual delegate. A refund of the difference between the in-person fee paid and virtual attendance will be offered.
+
+After 30 August, in-person delegates who are unable to travel are still encouraged to switch to be a virtual delegate. No refunds will be offered after 17:00 JST (UTC+9), 30 August, 2024.
+
+In-person no-shows with no correspondence will not be refunded.
+
+For alterations or cancellations to your registration please notify the SPNHC-TDWG Program Committee via email, okinawa2024@spnhc.org.
+
+### Excursions & Tours
+
+Cancellations, substitutions, and other changes for excursions and tours must be made via the operator of the excursions. SPNHC-TDWG 2024 is not affiliated with the organising or payments associated with these experiences. All requests must be directed to the specific excursion or tour vendors or organisers in accordance with their respective terms and conditions
+
+### Substitutions
+
+Substitutions of delegates are allowed at any time before 17:00 JST (UTC+9), 30 August, 2024. Substitution of a presenting author by an alternative person (usually a co-author) is allowed up to 17:00 JST (UTC+9), 30 August, 2024.
+
+For substitution of delegates please notify the SPNHC-TDWG Program Committee via email, okinawa2024@spnhc.org. 
