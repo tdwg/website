@@ -17,6 +17,8 @@
   menu:
   - text: "Registration"
     href: /conferences/2024/registration/
+  - text: "List of developing nations"
+    href: /conferences/2024/registration/dev-nations-list/
 - text: "Submissions"
   menu:
   - text: "Calls"
