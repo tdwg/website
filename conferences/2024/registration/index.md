@@ -9,11 +9,11 @@ background:
 toc: true
 ---
 
-## SPNHC TDWG 2024 REGISTRATION
+## SPNHC TDWG 2024 registration
 
 We are pleased to announce that registration for the SPNHC-TDWG 2024 Joint Meeting in Okinawa, Japan, is now open.
 
-Before you register, please be aware of the important requirements around registration described below.
+Before you register, please be aware of the **IMPORTANT** requirements around registration described below.
 
 [Register for SPNHC TDWG 2024!](https://register.oxfordabstracts.com/event/6771?preview=false){:.btn .btn-secondary}{:target="_blank"}
 
@@ -27,7 +27,7 @@ The first 120 people to register **prior to 30 June** for in-person attendance w
 
 So step up and sign up!
 
-## IMPORTANT for REGISTRATION
+## IMPORTANT for registration
 
 - If you are the organizer of a session or the designated presenter of an abstract at this year’s meeting, **you MUST register using the same email address used for your session or on the abstract submission**. This is how your registration will be linked to your abstract.
 
@@ -35,11 +35,11 @@ So step up and sign up!
 
 - It is your responsibility to obtain a [visa to travel to Japan](https://www.tdwg.org/conferences/2024/#visa-requirements) if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full before we can agree to assist you in support of your visa request. Please visit the [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/index.html) website for information about visas for traveling to Japan from your country.
 
-## REGISTRATION ADD-ONS
+## Registration add-ons
 
 Registration for our Bingo Night (this year’s version of the trivia night) and sales of our conference T-shirt are not yet included in registration while we finalize our logistics. As soon as they are ready we will announce that you can reserve a space or buy a shirt.
 
-## EXCURSION AND TOUR UPDATES
+## Excursion and tour updates
 
 Registration for excursions is separate from meeting registration. When the excursion sign ups are available, we will send a separate announcement.
 
