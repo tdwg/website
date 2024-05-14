@@ -37,6 +37,8 @@ So step up and sign up!
 
 - It is your responsibility to obtain a [visa to travel to Japan](https://www.tdwg.org/conferences/2024/#visa-requirements) if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see [cancellation policy](/conferences/2024/registration/cancellation-policy)) before we can agree to assist you in support of your visa request. Please visit the [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/index.html) website for information about visas for traveling to Japan from your country.
 
+- **Member discounts:**  Members in either SPNHC or TDWG can obtain their usual discount by selecting the appropriate ticket type.  This year we are not using codes to validate memebership status; validation will be done manually.  If you are unsure of your membership status, please inquire with the appropriate membership manager in [SPNHC](mailto:membership@spnhc.org) or [TDWG](mailto:secretariat@tdwg.org).  TDWG _institutional_ members please note, that the usual limit of 5 discounted registrations per membership still applies.  If you are sending more than 5 delegates, please coordinate which staff receive them so that you do not exceed the limit. 
+
 ### Registration add-ons
 
 Registration for our Bingo Night (this year’s version of the trivia night) and sales of our conference T-shirt are not yet included in registration while we finalize our logistics. As soon as they are ready we will announce that you can reserve a space or buy a shirt.
