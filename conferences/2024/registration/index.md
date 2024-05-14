@@ -11,7 +11,7 @@ toc: true
 
 Last modified:  13 May 2024
 
-# SPNHC TDWG 2024 registration
+<h1>SPNHC TDWG 2024 registration</h1>
 
 We are pleased to announce that registration for the SPNHC-TDWG 2024 Joint Meeting in Okinawa, Japan, is now open.
 
@@ -51,7 +51,7 @@ Please see the [meeting website](https://www.tdwg.org/conferences/2024/) for mor
 
 If you have any questions, please email the Planning Committee at [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
 
-# Frequently asked questions (FAQ)
+<h1>Frequently asked questions (FAQ)</h1>
 
 {:id="oa-email"}
 ## One email to rule your identify in Oxford Abstracts (OA)
