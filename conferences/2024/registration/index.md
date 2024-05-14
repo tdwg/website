@@ -35,7 +35,7 @@ So step up and sign up!
 
 - With your registration you agree to adhere to the [TDWG 2024 Code of Conduct](https://www.tdwg.org/conferences/2024/code-of-conduct/) during your participation in conference sessions, workshops, panels, field trips, social events, or all other activities related to the SPNHC-TDWG 2024 Conference.
 
-- It is your responsibility to obtain a [visa to travel to Japan](https://www.tdwg.org/conferences/2024/#visa-requirements) if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see [cancellation policy](/conferences/2024/registration/cancellation-policy))before we can agree to assist you in support of your visa request. Please visit the [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/index.html) website for information about visas for traveling to Japan from your country.
+- It is your responsibility to obtain a [visa to travel to Japan](https://www.tdwg.org/conferences/2024/#visa-requirements) if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see [cancellation policy](/conferences/2024/registration/cancellation-policy)) before we can agree to assist you in support of your visa request. Please visit the [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/index.html) website for information about visas for traveling to Japan from your country.
 
 ### Registration add-ons
 
