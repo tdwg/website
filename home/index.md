@@ -10,8 +10,8 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    SPNHC-TDWG 2024: The call for abstracts has now closed. The review phase begins. Notifications about acceptance by 15 May.
-  href: /conferences/2024/
+    Registration for SPNHC-TDWG 2024 is now open
+  href: /conferences/2024/registration/
   img: https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-combined.png
 ---
 
