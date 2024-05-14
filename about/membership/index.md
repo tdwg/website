@@ -44,7 +44,7 @@ Individual membership can be paid online with a credit or debit card.
 
 <button onclick="window.location.href='https://zohosecurepay.com/checkout/gbs628p-zw5vr6i66b3xr/Individual-TDWG-Membership-2023'" class="btn btn-secondary">Join TDWG as an individual!</button>
 
-Institutions and individuals needing to pay through a formal _quote/purchase order/invoice_ process should send an email with name, affiliation, address, and desired membership type `individual`/`institutional` to the [TDWG Treasurer](mailto:treasurer@tdwg.org?subject=Membership%20request).
+Institutions, as well as individuals who need to pay through a formal _quote/purchase order/invoice_ process, should request an invoice by sending an email with name, affiliation, address, and desired membership type `individual`/`institutional` to the [TDWG Treasurer](mailto:treasurer@tdwg.org?subject=Membership%20request).
 
 Invoices for membership dues can be paid:
 
@@ -52,10 +52,11 @@ Invoices for membership dues can be paid:
 - by bank wire (banking details included with an invoice)
 - by check drawn on a United States bank.
 
-## Institutional members 2023
+## Institutional members 2024
 
 Institution name | City
 :--- | :---
+[Agriculture Agri-Food Canada](https://agriculture.canada.ca/en) | Ottawa
 [ArtDatabanken / Swedish Species Information Centre](https://www.artdatabanken.se/en/?menu=open) | Uppsala
 [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) | Canberra
 [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) | Boulder
@@ -64,13 +65,15 @@ Institution name | City
 [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) | Lawrence, KS
 [Bishop Museum](https://www.bishopmuseum.org/) | Honolulu, HI
 [Botanic Garden and Botanical Museum Berlin, FU Berlin](https://www.bgbm.org/) | Berlin
+[California Academy of Sciences](https://www.calacademy.org) | San Francisco
+[Catalog of Life]() | Weesp, Netherlands
 [Centre for Australian National Biodiversity Research](https://www.cpbr.gov.au/cpbr/) | Canberra
 [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) | Ithaca, NY
 [Distributed System Scientific Collections (DiSSCo)](https://www.dissco.eu/) | Leiden
 [Field Museum](https://www.fieldmuseum.org/) | Chicago, IL
-[Finnish Museum of Natural History](https://www.luomus.fi/en) | Helsinki
 [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) | Gainesville, FL
 [GBIF-ES](https://datos.gbif.es/) (GBIF España) | Madrid
+[GBIF Norway, University of Oslo Natural History Museum]() | Oslo
 [Global Biodiversity Information Facility](https://www.gbif.org) | Copenhagen
 [Harvard University/Ernst Mayr Library/MCZ](https://library.mcz.harvard.edu/) | Cambridge
 [Illinois Natural History Survey](https://www.inhs.illinois.edu/) | Champaign, IL
@@ -86,8 +89,8 @@ Institution name | City
 [National Research Collections Australia CSIRO](https://www.csiro.au/en/Showcase/NRCA) | Canberra
 [Natural History Museum Vienna](https://www.nhm-wien.ac.at/en) | Vienna
 [Natural Science Collections Facility (SANBI)](https://www.sanbi.org/) | Brummeria
-[Natural Solutions](https://www.natural-solutions.eu/) | Marseille
 [NatureServe](https://www.natureserve.org/) | Arlington, VA
+[New York Botanical Garden](https://www.nybg.org) | The Bronx, New York
 [Norwegian Biodiversity Information Centre (Artsdatabanken)](https://www.biodiversity.no/) | Trondheim
 [Own Capital of the Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) | Brussels
 [PLAZI](http://plazi.org/) | Bern
