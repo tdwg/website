@@ -66,6 +66,7 @@ Click a link to read the session abstract.
 | WKSH01 | [Data Carpentry: Introduction to species interaction data with GloBi](#wksh01) |
 | WKSH02 | [Herbarium Challenges: Sharing best practice from across the globe](#wksh02) |
 | WKSH03 | [Photography Workshop: Camera basics for field and collections photography](#wksh03) |
+| WKSH04 | [Latimer Core (LtC) Workshop](#wksh04) |
 
 ## Session abstracts
 
@@ -97,8 +98,8 @@ Conference Track:  General interest<br />
 Organizers:  **[Jason H. Best](mailto:jbest@brit.org), Deborah L. Paul, Erica Krimmel**
 
 **Abstract**<br />
-Digital technology and standards are increasingly critical components of natural history collections. Ongoing efforts to digitize natural history collections and link the resulting information to other realms will eventually culminate in a comprehensive digital record of biodiversity preserved and represented in collections worldwide. This significant expansion of digital collections reach will further cement the important role of technology and standards in the management, analysis, and dissemination of natural history collections specimens and data.
 
+Digital technology and standards are increasingly critical components of natural history collections. Ongoing efforts to digitize natural history collections and link the resulting information to other realms will eventually culminate in a comprehensive digital record of biodiversity preserved and represented in collections worldwide. This significant expansion of digital collections reach will further cement the important role of technology and standards in the management, analysis, and dissemination of natural history collections specimens and data.
 Since its debut at SPNHC 2009, DemoCamp has provided a venue for developers, biodiversity informaticians, digitization managers, and collection managers to convene and share innovative approaches for the use of technology to enhance the management and use of natural history collections. Presentations demonstrate the use of software, tools, services, and workflows that enhance capacity, use global standards, and extend the accessibility and quality of information.
 
 The format of DemoCamp dictates that presentations must be “live, without a net” and forbids the use of slideshows. Each presenter is allotted time for demonstrating the technology as well as questions from the audience. This format ensures that only functional technology is presented.
@@ -658,3 +659,13 @@ Organizers:  **[Ian M. Wright](mailto:iwright@riversideca.gov)**
 
 **Abstract**<br />
 In this workshop, attendees would have an opportunity to learn and practice controlling camera exposure, focus stacking techniques, the use of flash, setting up an imaging studio for collections, and more. Participants are encouraged to bring their own cameras, though some demonstration equipment and materials will be provided. Gear and techniques will be discussed and demonstrated ranging from photographing minute insect collections all the way to large taxidermies, wet or dry collections, and techniques for posing and working with both living and dead specimens. Tips and techniques will also be shown for capturing effective video and audio for archival use as well as for science communication. We will introduce various editing programs and software for both still images and video. And we will have time for attendees to practice photographic techniques on site and with hands on instruction. The goal of this workshop will be to educate and empower a number of collections professionals to be able to effectively image specimens for digitization and to create content for scientific communication around the globe.
+
+{:id="wksh04"}
+### WKSH04 Latimer Core (LtC) Workshop
+
+Session Type:  Workshop; CLOSED - abstract submission for invited participants only<br />
+Conference Track: SPNHC and TDWG<br />
+Organisers: **[Laurence Livermore](mailto:l.livermore@nhm.ac.uk), Matt Woodburn, Ben Norton**
+
+**Abstract**<br />
+This workshop will give an overview of the newly ratified Latimer Core (LtC) TDWG data standard for describing groups of objects in natural science collections. In this workshop we will take people through Latimer Core and its different applications in collections both small and big. We will give worked examples and examples of pilots use cases at different institutions. This will include the capturing of collection descriptions data prior to collection moves, or as a first pass to allow discovery and documentation prior to specimen-level digitisation.
