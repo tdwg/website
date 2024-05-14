@@ -21,7 +21,7 @@ Before you register, please be aware of the **IMPORTANT** requirements around re
 
 ## Special offer
 
-The **first 120 people** to register for in-person attendance will be granted two special privileges. These individuals will be:
+The **first 120 people** to register for in-person attendance by the end of June will be granted two special privileges. These individuals will be:
 
 1. Given exclusive early access to registration for our Okinawan excursions.
 
