@@ -25,7 +25,7 @@ The **first 120 people** to register for in-person attendance by the end of June
 
 1. Given exclusive early access to registration for our Okinawan excursions.
 
-2. Entered into a raffle to win one of many prizes. 5 individuals will be selected to win one-year memberships to both SPNHC and TDWG. Other individuals will win fun prizes from Okinawa.
+2. Entered into a raffle to win one of many prizes. Five individuals will be selected to win one-year memberships to both SPNHC and TDWG. Other individuals will win fun prizes from Okinawa.
 
 So step up and sign up!
 
