@@ -62,6 +62,13 @@ The [call for abstracts](/conferences/2024/call-for-abstracts/) for individual o
 
 An opportunity will open to submit _extended_ abstracts (based on successful abstracts submitted to OA) to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced later in May.
 
+## Daily schedule
+
+The conferece days will be Monday - Friday (2-6 September), but note that Monday is a half-day beginning with the Welcome remarks and plenary presentations.  Specially arranged excursions will be offered on the preceding Sunday (1 September) and the following Saturday (7 September).   
+
+<img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
+
+
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
 By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity related to the SPNHC – TDWG 2024 Conference, you agree to abide by this [Code of Conduct](/conferences/2024/code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.  [Read more...](/conferences/2024/code-of-conduct/)
