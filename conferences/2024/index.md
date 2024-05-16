@@ -45,28 +45,21 @@ Last modified: 2024-05-15
 
 <p>&nbsp;</p>
 
-## SPNHC-TDWG joint conference
+## [Registration is now open!](/conferences/2024/registration/)
 
-  - The Society for the Preservation of Natural History Collections ([SPNHC](https://www.spnhc.org)) is an international organization devoted to the preservation, conservation and management of natural history collections.
-  - Biodiversity Information Standards ([TDWG](/)) develops and maintains data standards that support the integration of primary biodiversity information across disciplines, organizations, and nations. Its annual conference has become a preeminent forum for advancing biodiversity informatics.
-
-SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations welcome new participants from across Asia.  Please join us and meet your colleagues from around the world!
-
-## Organized Sessions
-
-The call for session proposals (e.g., symposia, panels, workshops) was distributed in early January 2024 and closed 16 February. Proposals for sessions were reviewed by the Program Committee and more than 35 sessions (mostly symoposia) were provisionally accepted. See the session descriptions on our [Sessions page](/conferences/2024/sessions/). 
-
-## Call for abstracts
-
-The [call for abstracts](/conferences/2024/call-for-abstracts/) for individual oral or poster presentations in Oxford Abstracts (OA) has now closed. Abstracts will undergo review and authors will be notified by 15 May about their status.
-
-An opportunity will open to submit _extended_ abstracts (based on successful abstracts submitted to OA) to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced later in May.
+Please read the [important information](/conferences/2024/registration/) before you register!
 
 ## Daily schedule
 
-The conferece days will be Monday - Friday (2-6 September), but note that Monday is a half-day beginning with the Welcome remarks and plenary presentations.  Specially arranged excursions will be offered on the preceding Sunday (1 September) and the following Saturday (7 September).   
+The conferece days will be Monday - Friday (2-6 September), but note that Monday is a half-day beginning after lunch with the welcoming remarks and plenary presentations. Specially arranged excursions will be offered on the preceding Sunday (1 September) and the following Saturday (7 September). An initial list of excursions on the bracketing days will be announced soon. We expect the excursions to be popular and space limited, so stay tuned.  (Also be aware that early access will be granted to the first 120 registrants!)
 
 <img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
+
+## Conference program
+
+SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/).  More than 390 presentations and posters have been reviewed, accepted, and are now being organized into the final schedule.  
+
+Authors please note: you will have an opportunity to submit _extended_ abstracts to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced in June.
 
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
@@ -98,6 +91,12 @@ Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15961271.026159793!2d127.5096399435818!3d30.779717013870645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56ca503aaaaab%3A0xeb769b84d6de2088!2sOkinawa%20Convention%20Centre!5e0!3m2!1sen!2sus!4v1698478006062!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
 
+## About the SPNHC-TDWG joint conference
+
+  - The Society for the Preservation of Natural History Collections ([SPNHC](https://www.spnhc.org)) is an international organization devoted to the preservation, conservation and management of natural history collections.
+  - Biodiversity Information Standards ([TDWG](/)) develops and maintains data standards that support the integration of primary biodiversity information across disciplines, organizations, and nations. Its annual conference has become a preeminent forum for advancing biodiversity informatics.
+
+SPNHC and TDWG first met jointly in 2018 (Dunedin, New Zealand).  The joint conference was widely viewed as beneficial to both organizations and something we should do periodically. TDWG last met in Asia in 2012 (Beijing), and SPNHC has never met in Asia.  By holding our second joint meeting in Okinawa, Japan, our organizations welcome new participants from across Asia.  Please join us and meet your colleagues from around the world!
+
+
 ##### Please send general questions about the conference to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
-
-
