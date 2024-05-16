@@ -23,7 +23,7 @@ Freie Universität Berlin\
 Königin-Luise-Straße 6-8,\
 D-14195 Berlin, Germany
 
-## **Core Members**
+## **Core members**
 -   Walter Berendsohn (Botanic Garden and Botanical Museum Berlin)
 -   Tanja Weibulat (Bavarian Natural History Collections)
 -   Franck Theeten (Royal Museum for Central Africa, Belgium)
@@ -37,7 +37,7 @@ The purpose of the ABCD Maintenance Group is to maintain the ABCD
 vocabularies and to adjust them to new requirements from the community
 through the addition and revision of terms.
 
-## **Becoming Involved**
+## **Becoming involved**
 
 The work done by this group is open for participation from all
 interested community members. Upcoming meetings are communicated through
@@ -54,7 +54,7 @@ questions, please create a ticket for it in the GitHub issue tracker:
 Alternatively you can also email the conveners for your input or to be
 notified about upcoming meetings.
 
-## **History and Context**
+## **History and context**
 
 Development on ABCD started in 2001 as an XML Schema. Version 2 became a
 ratified TDWG standard in 2005 and has since achieved widespread
