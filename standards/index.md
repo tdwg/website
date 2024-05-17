@@ -82,3 +82,7 @@ TDWG standards have a [status and category](/standards/status-and-categories/). 
 ### XDF
 
 [XDF - A Language for the Definition and Exchange of Biological Data Sets](/standards/xdf/)
+
+## Externally maintained
+
+[See this page](/standards/external/)
