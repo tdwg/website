@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-05-13
+Last modified 2024-05-16
 
 ## Index to sessions
 
@@ -21,7 +21,7 @@ Click a link to read the session abstract.
 | DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01) |
 | LTNG01 | see SYM35 [Digitization Coordination](#sym35) |
 | LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02) |
-| LTNG03 | [Interoperable Invasive Alien Species Data: Bridging the gap](#ltng03) |
+| LTNG03 | see SYM19 [Bridging the gap: Interoperable Alien Species Data and Terminology for Successful Sharing of Management Strategies](#sym19) |
 | LTNG05 | [Specimen Spotlight](#ltng05) |
 | LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
 | PANEL01 | [Environmental and Biological Sample Banking in MENA Nations](#panel01) |
@@ -45,7 +45,7 @@ Click a link to read the session abstract.
 | SYM16 | [Exploring and Enhancing Collections Metadata with the Global Registry of Scientific Collections (GRSciColl)](#sym16) |
 | SYM17 | [From Local Data to Global Insights: Community curation of specimen data](#sym17) |
 | SYM18 | [Globally Linking Taxonomies: Use cases and latest developments](#sym18) |
-| SYM19 | [Harmonizing Databases and Terminology on Biological Invasions for Successful Management Strategies](#sym19) |
+| SYM19 | [Bridging the gap: Interoperable Alien Species Data and Terminology for Successful Sharing of Management Strategies](#sym19) |
 | SYM20 | [Herbarium Procedures and Techniques: Sharing best practice from across the globe](#sym20) |
 | SYM21 | [Indigenous Traditional Knowledge and Natural History Collections](#sym21) |
 | SYM22 | [Innovative Visualization for Effective Data-Driven Communication](#sym22) |
@@ -117,16 +117,6 @@ This session will explore the application of AI across diverse biodiversity chal
 Key topics include the hybridization of AI methods: i.e. mixing various methods and architectures, including mixing symbolic and digital AI, interpretability and robustness of model predictions. Data of interest will cover all sensors and modes of capture, including remote sensing, field or collections pictures, videos, sounds and measurements, tracking, text, and all multi-omics approaches to characterize natural ecosystems, from metagenomics to metatranscriptomics. All issues will be welcome, with a focus on data standardization, interactions, interdependencies and resilience, impact of anthropic activities, conservation, biodiversity monitoring with metabarcoding approaches, and ecosystem health and evolution indices.
 
 An introductory talk will remind the session's objectives, followed by ten 10' talks with 5' questions, then a panel discussion introduced by a comparative analysis of the cases presented, and focusing on common features and future avenues for developing standards in methods and data exchange.
-
-{:id="ltng03"}
-### LTNG03 Interoperable Invasive Alien Species Data: Bridging the gap	
-
-Session Type: Lightning Talks; Open to abstract submissions<br />
-Conference Track:  TDWG<br />
-Organizers:  **[Lien Reyserhove](mailto:lien.reyserhove@inbo.be), Scott Brown**
-
-**Abstract**<br />
-Over the past year, the importance of interoperable Invasive Alien Species (IAS) data has gained significant recognition and has been the focus of different TDWG task groups. Improved interoperability of IAS data would greatly facilitate rapid data flows and information sharing, which is key in early detection and rapid eradication. Despite recent improvements in the Darwin Core standard, there’s still a lack of sufficient terms and vocabularies to cover the needs of the IAS community. For instance, the Darwin Core (DwC) standard is not able to capture the full complexity of the management of alien species and other wildlife. The diversity in management objectives and methods for different taxonomic groups make the standardization a real challenge. As such, currently, local invasive species management organizations often adopt bespoke data vocabularies and formats in order to meet these unique challenges. This proliferation of data vocabularies raises barriers to cross-organization sharing of data. This session will focus on how existing Darwin Core vocabularies meet or struggle to meet the needs of scientists, field managers and policymakers, and to reboot the TDWG task group for Invasive Organism Information to provide ongoing support for invasive-related data standards in Darwin Core.
 
 {:id="ltng05"}
 ### LTNG05 Specimen Spotlight	
@@ -408,11 +398,11 @@ The symposium invites presentations addressing related topics, including the imp
 By linking the outcomes of scientific research to aggregated taxonomies, we aim to improve data integration and accessibility, facilitating more robust analyses and informed decision-making in biodiversity research and conservation. This symposium should foster collaboration among the growing number of initiatives pursuing these aims.
 
 {:id="sym19"}
-### SYM19 Harmonizing Databases and Terminology on Biological Invasions for Successful Management Strategies	
+### SYM19 Bridging the gap: Interoperable Alien Species Data and Terminology for Successful Sharing of Management Strategies	
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **[Irene Martin-Fores](mailto:irene.martin@adelaide.edu.au), Donna Lewis**
+Organizers:  **[Irene Martin-Fores](mailto:irene.martin@adelaide.edu.au), Lien Reyserhove, Donna Lewis, Scott Brown**
 
 **Abstract**<br />
 Biological invasions pose threats to ecosystems, economies, and human health worldwide. To address these challenges, it is imperative to integrate and harmonize databases and terminology related to invasive species into unified datasets. This organized session aims to explore the importance of such integration in facilitating collaboration and enhancing management strategies in invasion biology.
