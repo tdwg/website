@@ -13,72 +13,72 @@ TDWG standards have a [status and category](/standards/status-and-categories/). 
 
 ## Actively maintained
 
-### Access to Biological Collection Data (ABCD) Schema
+### ABCD
 
-[Landing page](/standards/abcd/)
+[Access to Biological Collection Data (ABCD) Schema](/standards/abcd/)
 
-### Audiovisual Core Multimedia Resources Metadata Schema
+### Audiovisual Core
 
-[Landing page](/standards/ac/)
+[Audiovisual Core Multimedia Resources Metadata Schema](/standards/ac/)
 
 ### Darwin Core
 
-[Landing page](/standards/dwc/)
+[Darwin Core](/standards/dwc/)
 
-### GUID and Life Sciences Identifiers Applicability Statements
+### GUID Applicability Statements
 
-[Landing page](/standards/guid-as/)
+[GUID and Life Sciences Identifiers Applicability Statements](/standards/guid-as/)
 
-### Taxon Concept Schema (TCS)
+### SDS
 
-[Landing page](/standards/tcs/)
+[TDWG Standards Documentation Standard (SDS)](/standards/sds/)
 
-### TDWG Access Protocol for Information Retrieval (TAPIR)
+### TAPIR
 
-[Landing page](/standards/tapir/)
+[TDWG Access Protocol for Information Retrieval (TAPIR)](/standards/tapir/)
 
-### TDWG Standards Documentation Standard (SDS)
+### TCS
 
-[Landing page](/standards/sds/)
+[Taxon Concept Schema (TCS)](/standards/tcs/)
 
-### Vocabulary Maintenance Standard (VMS)
+### VMS
 
-[Landing page](/standards/vms/)
+[Vocabulary Maintenance Standard (VMS)](/standards/vms/)
 
-### World Geographical Scheme for Recording Plant Distributions (WGSRPD)
+### WGSRPD
 
-[Landing page](/standards/wgsrpd/)
+[World Geographical Scheme for Recording Plant Distributions (WGSRPD)](/standards/wgsrpd/)
 
 ## Not under active maintenance
 
-### Economic Botany Data Collection Standard
+### Economic Botany
 
-[Landing page](/standards/economic-botany/)
+[Economic Botany Data Collection Standard](/standards/economic-botany/)
 
-### Floristic Regions of the World
+### Floristic Regions
 
-[Landing page](/standards/floristic-regions/)
+[Floristic Regions of the World](/standards/floristic-regions/)
 
-### Herbarium Information Standards and Protocols for Interchange of Data (HISPID3)
+### HISPID3
 
-[Landing page](/standards/hispid3/)
+[Herbarium Information Standards and Protocols for Interchange of Data (HISPID3)](/standards/hispid3/)
 
-### International Transfer Format for Botanic Garden Plant Records (ITF2)
+### ITF2
 
-[Landing page](/standards/itf2/)
+[International Transfer Format for Botanic Garden Plant Records (ITF2)](/standards/itf2/)
 
-### Plant Names in Botanical Databases
+### Plant Names
 
-[Landing page](/standards/plant-names/)
+[Plant Names in Botanical Databases](/standards/plant-names/)
 
-### Plant Occurrence and Status Scheme (POSS)
+### POSS
 
-[Landing page](/standards/poss/)
+[Plant Occurrence and Status Scheme (POSS)](/standards/poss/)
 
-### Structured Descriptive Data (SDD)
+### SDD
 
-[Landing page](/standards/sdd/)
+[Structured Descriptive Data (SDD)](/standards/sdd/)
 
-### XDF - A Language for the Definition and Exchange of Biological Data Sets
+### XDF
 
-[Landing page](/standards/xdf/)
+[XDF - A Language for the Definition and Exchange of Biological Data Sets](/standards/xdf/)
