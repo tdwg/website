@@ -1,7 +1,7 @@
 ---
 title: Access to Biological Collection Data (ABCD) Schema
 description: >
-  The Access to Biological Collections Data (ABCD) Schema is an evolving comprehensive standard for the access to and exchange of data about specimens and observations (a.k.a. primary biodiversity data).
+  The Access to Biological Collection Data (ABCD) Schema is an evolving comprehensive standard for the access to and exchange of data about specimens and observations (a.k.a. primary biodiversity data).
 background:
   img: https://c1.staticflickr.com/1/839/41611348922_d4030a5197_b.jpg
   by: "Natural History Museum: Coleoptera Section"

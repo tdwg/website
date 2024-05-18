@@ -1,6 +1,10 @@
 # Main navigation
 - text: "Standards"
-  href: /standards/
+  menu:
+  - text: "Maintained by TDWG"
+    href: /standards/
+  - text: "Externally maintained"
+    href: /standards/external/
 - text: "Journal"
   href: /journal/
 - text: "Community"
