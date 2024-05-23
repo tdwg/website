@@ -9,7 +9,6 @@ background:
 toc: true
 ---
 
-Last modified: 2024-05-15
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -45,6 +44,8 @@ Last modified: 2024-05-15
 
 <p>&nbsp;</p>
 
+_Last updated 23 May 2024_
+
 ## [Registration is now open!](/conferences/2024/registration/)
 
 Please read the [important information](/conferences/2024/registration/) before you register!
@@ -57,9 +58,15 @@ The conferece days will be Monday - Friday (2-6 September), but note that Monday
 
 ## Conference program
 
-SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/).  More than 390 presentations and posters have been reviewed, accepted, and are now being organized into the final schedule.  
+SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/).  
 
-Authors please note: you will have an opportunity to submit _extended_ abstracts to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced in June.
+## Abstracts
+
+More than 390 abstracts for oral presentations and posters were reviewed by session organizers and members of the Program Committee between 22 April–12 May.
+
+**Notifications of acceptance** for presentation at the conference were emailed to abstract submitters (not to all authors) on 15 May through the Oxford Abstracts conference platform. These notifications included an invitation to submitters to respond to reviewer comments/corrections by editing their abstracts (**deadline 29 May**). Presenters were reminded to [register for the conference](/conferences/2024/registration/) to secure their place in the program. Presentations are now being organized into the final schedule. Please address questions to [editor@tdwg.org](mailto:editor@tdwg.org)
+
+**Authors please note:** you will have an opportunity to submit _extended_ abstracts to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced in June.
 
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
