@@ -6,14 +6,15 @@ background:
   img: https://images.unsplash.com/photo-1583726933208-71489613d494
   by: Hiroko Yoshii
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
-toc: false
+toc: true
 ---
 
 _Last updated 23 May 2024_
 
 While the [Code of Conduct](/conferences/2024/code-of-conduct/) sets out the expectations for behavior and comportment at the conference as well as Okinawan cultural considerations, this document collects and answers questions not necessarily treated in the Code. 
 
-**For questions about the Code of Conduct** or additions to this document, please contact [ccc@tdwg.org](mailto:ccc@tdwg.org)</br>
+**For questions about the Code of Conduct** or additions to this document, please contact [ccc@tdwg.org](mailto:ccc@tdwg.org)
+
 **For questions about the conference**, please contact [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org)
 
 {:id="collecting-specimens"}
