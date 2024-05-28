@@ -19,7 +19,6 @@ toc: true
 
 - Cameron Slatyer - _Atlas of Living Australia_
 
-
 ## Core Members
 
 - Andrew Rodrigues - _GBIF, Global initiatives and implementation of DWC_
@@ -27,8 +26,13 @@ toc: true
 - Tania Laity - _Atlas of Living Australia, data management and species expertise_
 - John Wieczorek - _VertNet, Darwin Core Maintenance Interest Group_
 
-
 ## Motivation
+
+The growth of biodiversity data aggregators and citizen science projects over the past two decades has led to an exponential expansion in the application of big data to conservation assessment and biodiversity research. Subsequently, expectations that biodiversity data should be made available have risen, as has the recognition of the challenges of both releasing and not releasing sensitive species data.
+
+As biodiversity data has been democratised, the motivations of individuals, researchers, and organisations in restricting access to certain types of data have remained constant. Data producers and custodians may have a more conservative view of access than data consumers. Factors to be taken into consideration include type and level of threat, vulnerability, type of information, and public availability. Additionally, there is a growing recognition of the need to enable Indigenous peoples and local communities to assert data sovereignty over traditional knowledge and biodiversity data gathered by, about or within areas managed by them.
+
+## History/Context
 
 Two of the most recent attempts to deal with the overlapping issues in this space have been [Arthur Chapman's 2020 Current Best Practices for Generalizing Sensitive Species Occurrence Data](https://docs.gbif.org/sensitive-species-best-practices/master/en/), and development of a standardised [national framework for the Sharing of Restricted access species data in Australia](https://rasd.org.au/pdf-html/index.html).
 
@@ -62,13 +66,6 @@ Create a GitHub repository for the task group to assure adoption of best practic
 
 * individuals having an interest in this work should contact the convener and are invited to watch and contribute via the Sensitive Species Extension GitHub Repository (https://github.com/tdwg/sensitive-species-extension).
 * Please join the mailing list to contact the group https://lists.tdwg.org/mailman/listinfo/dwc-sensitive-species
-
-
-## History/Context
-
-The growth of biodiversity data aggregators and citizen science projects over the past two decades has led to an exponential expansion in the application of big data to conservation assessment and biodiversity research. Subsequently, expectations that biodiversity data should be made available have risen, as has the recognition of the challenges of both releasing and not releasing sensitive species data.
-
-As biodiversity data has been democratised, the motivations of individuals, researchers, and organisations in restricting access to certain types of data have remained constant. Data producers and custodians may have a more conservative view of access than data consumers. Factors to be taken into consideration include type and level of threat, vulnerability, type of information, and public availability. Additionally, there is a growing recognition of the need to enable Indigenous peoples and local communities to assert data sovereignty over traditional knowledge and biodiversity data gathered by, about or within areas managed by them.
 
 
 ## Summary
