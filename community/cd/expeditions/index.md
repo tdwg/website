@@ -16,9 +16,10 @@ A Task Group of the Collections Description Interest Group
 
 ## Convenors
 
-* Sabine von Mering, Museum für Naturkunde Berlin, DE
-* Siobhan Leachman, Wikimedia Aotearoa New Zealand, NZ
-* Dag Endresen, University of Oslo, NO
+* [Sabine von Mering](mailto:sabine.vonmering@mfn.berlin), Museum für Naturkunde Berlin, DE
+* [Siobhan Leachman](mailto:siobhan.leachman@gmail.com), Wikimedia Aotearoa New Zealand, NZ
+* [Dag Endresen](mailto:dag.endresen@nhm.uio.no), University of Oslo, NO
+* [Ben Norton](michaelnorton.ben@gmail.com), TDWG-TAG Chair, North Carolina, USA
 
 
 ## Core Members
