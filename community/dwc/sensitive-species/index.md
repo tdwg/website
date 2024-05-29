@@ -17,7 +17,7 @@ toc: true
 
 ## Convenor
 
-- Cameron Slatyer - _Atlas of Living Australia_
+- [Cameron Slatyer](mailto:Cam.Slatyer@csiro.au) - _Atlas of Living Australia_
 
 ## Core Members
 
