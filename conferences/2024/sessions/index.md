@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-05-16
+Last modified 2024-06-01
 
 ## Index to sessions
 
@@ -24,7 +24,6 @@ Click a link to read the session abstract.
 | LTNG03 | see SYM19 [Bridging the gap: Interoperable Alien Species Data and Terminology for Successful Sharing of Management Strategies](#sym19) |
 | LTNG05 | [Specimen Spotlight](#ltng05) |
 | LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
-| PANEL01 | [Environmental and Biological Sample Banking in MENA Nations](#panel01) |
 | PANEL02 | [Telling the Whole Story of Science](#panel02) |
 | POSTER | [Poster session](#poster) |
 | SYM01 | [A Fly Can’t Bird but a Bird Can Fly: Current advances and challenges at the intersections of collection management systems, institutions and community](#sym01) |
@@ -128,15 +127,6 @@ Organizers:  **[Paul Mayer](mailto:pmayer@fieldmuseum.org), Gregory Watkins-Colw
 **Abstract**<br />
 We are looking for short, lightning-round type talks on one special specimen in your collection. Something that has an amazing story to tell. Why that specimen is your favorite or is critical to science or education. Why does it matter? Why is it important? What makes it important? What work have you done on it? Please be creative and if you have an idea, try it and please feel free to email us any questions you might have. Talks will be limited to 5 minutes and just 1 or 2 slides. The audio will be recorded and presentations posted on our SPNHC YouTube Channel.
 
-{:id="panel01"}
-### PANEL01 Environmental and Biological Sample Banking in MENA Nations	
-
-Session Type: Panel Discussion; CLOSED - abstract submission for invited participants only<br />
-Conference Track:  General interest<br />
-Organizers:  **[Ahmad Mahdavi](mailto:bugmahda@gmail.com)**
-
-**Abstract**<br />
-Sample banking in the Middle East and North Africa (MENA) region involves collecting, storing, and managing environmental (soil, water, air) and biological (tissues, blood, DNA) samples for research, monitoring, and conservation. Establishing sample banks in MENA countries can advance science, protect the environment, and enhance understanding of regional biodiversity. Proper sample collection protocols, secure storage facilities, data management systems, and ethical considerations are key. Collaborations between researchers, government agencies, and local communities are vital for success. MENA countries can contribute to global scientific knowledge, promote sustainable development, and preserve their unique ecosystems for future generations by investing in sample banking. Sample banks can aid biodiversity research by storing genetic material from various species, contributing to conservation efforts, and supporting crop improvement programs by preserving plant genetic material. They can also play a crucial role in medical research by storing biological samples for studying diseases, developing new treatments, and understanding genetic factors in health and disease. By investing in sample banking, MENA countries can position themselves as leaders in scientific research and innovation, paving the way for advancements in various fields.
 
 {:id="panel02"}
 ### PANEL02 Telling the Whole Story of Science	
