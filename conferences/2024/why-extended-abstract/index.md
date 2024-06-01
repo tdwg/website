@@ -8,36 +8,7 @@ background:
 toc: false
 ---
 
-<table style="width: 100%; border-collapse: collapse;" border="0">
-<tbody>
-<tr style="height: 234px;">
- <td colspan="2" style="width: 100%; text-align: center"><img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png" 
-     width="750">
- </td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;"><strong>Society for the Preservation of</strong><br /><strong>Natural History Collections<br />(<a href="https://www.spnhc.org">SPNHC</a>)</strong></td>
-<td style="text-align: center; width: 50%;"><strong>Biodiversity Information Standards</strong><br /><strong>(<a href="https://www.tdwg.org/">TDWG</a>)</strong></td>
-</tr>
-<tr>
-<td style="text-align: center; width: 100%;" colspan="2">&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>SPNHC &amp; TDWG Joint Conference (Hybrid)</strong></td>
-</tr>
- <tr>
-  <td style="text-align: center; width: 100%; height: 4em;" colspan="2"><i>&quot;Enhancing Local Capacity, Elevating Global Standards.&quot;</i></td>
- </tr>
-<tr style="height: 18px;">
-<td style="width: 100%; text-align: center; height: 18px;" colspan="2"><strong>Okinawa Convention Center</strong></td>
-</tr>
-<tr style="height: 18px;">
-<td style="text-align: center; height: 18px; width: 100%;" colspan="2"><strong>2-6 September 2024</strong></td>
-</tr>
-</tbody>
-</table>
-
-<p>&nbsp;</p>
+_Last updated 31 May 2024_
 
 Each extended abstract is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. It is not a verbatim repetition of your abstract in OA. Using Pensoft’s ARPHA writing tool, you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation can also be added to the abstract’s media tab after the conference, to build a well-rounded presentation of your work. Each published abstract can link to your ORCID, will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work. 
 
