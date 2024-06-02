@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 1 June 2024_
+_Last updated 2 June 2024_
 
 ## Getting started
 
@@ -187,3 +187,111 @@ On your ARPHA dashboard, the status of the manuscript will change to in pre-subm
 While your abstract is in pre-submission review, you may see the work of various technical editors suggesting changes to be made, or making comments on your abstract but you will only be able to view, not edit your submission yet. Wait until you receive official notice that feedback has been requested—do not ask technical editors to make changes.
 
 ## Feedback and revisions
+
+The organizers (technical editors) may accept or reject your submission, or may send feedback requesting (more) revisions, and/or indicate that your abstract is being moved to a different collection or format (e.g., oral to poster) for programming reasons.
+
+Draft (again): if a submission is returned to you for changes, its status will return to Draft. Only you and other authors with editing or commenting privileges will have access to the abstract until you make or respond to changes requested and send it back for technical review. Only the submitting author will receive email notification from awt@pensoft.net.
+
+Editors may have used track changes to suggest wording/grammatical/orthographical changes made during the editing/review process. Accept or reject suggestions already in Track Changes and make changes to the text in response to comments provided by the editors. While you may justify not changing your text in a follow-up comment, all others should be resolved (click `resolved` box) and changes made to your text. If you have immediate editorial questions, please email [editor@tdwg.org](mailto:editor@tdwg.org) and reference the ARPHA ID of your abstract in the subject line.
+
+Once you have addressed (i.e., accepted or rejected) all of the Track Changes (the editing ribbon with next / previous buttons will disappear; see also issues) and resolved all closed comments (leave open comments without resolution or where you have provided a justification for not taking actions requested by the editors), please press the `Validate` button to make sure that all issues have been cleared up. If your manuscript does not validate (i.e., headings are pink and there is more than the number of characters listed), please try to resolve outstanding issues. Sometimes these issues are linked to the source for correcting them; sometimes not. If you are stumped, first try refreshing your browser window or closing it and going back in; if you still can’t find the issue, contact the journal help desk (using feedback icon in top banner) or email editor@tdwg.org with the ARPHA# and screen capture or description of your issue.
+
+Everything set? Hit the `Submit for technical review` button and it should show that it is in read-only mode. Refreshing the browser window of your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=22), you should see that it is once again “in pre-submission review.”
+
+Your manuscript may require more than one cycle of revision so please address communications promptly.
+
+## Finalize and submit to journal
+
+Once the submitting author receives notification that their abstract has been approved, they must now go through the process to finalize and submit the abstract to the journal for publication.
+
+### Steps
+
+1. Verify that the author order and their respective affiliations are correct and you have added [Acknowledgements](/conferences/2024/biss-abstract-submission/#acknowledgements) where appropriate.
+2. Double check the name of the presenting author (should appear as it does in the author list) and do a final proofing of your abstract.
+3. Validate. Next, click the `Validate` button first to make sure there are no lingering issues. See [https://arpha.pensoft.net/tips/Finalise-a-Manuscript](https://arpha.pensoft.net/tips/Finalise-a-Manuscript). Click on the blue text for each issue to resolve it. A successful validation will only show the number of characters in your abstract.
+4. Once approved, the `Submit to the journal` button should become visible (if you do not see this button, you may not be listed as the submitting author (see [Authors](/conferences/2024/biss-abstract-submission/#authors)) in the ARPHA Writing Tool. When you are ready to submit your abstract for publication, click the `Submit to the journal` button and then go through the (long) checklist of submission steps.
+5. The first step in the checklist regards the license and copyright of your abstract. The default is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with copyright attributed to the authors. However, if any author is a U.S. or Canadian government employee, you must specify [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Any other issues should be referred to the journal’s help desk.
+6. Step 2 requires that you mark the box indicating “I am aware that my abstract will be published only after registering and payment of any fees for the SPNHC-TDWG 2024 conference”.
+7. The final step asks you to assign categories (taxon, geographic area, scientific subject, geological era) to your submission; complete this step if it is applicable, but _be sure to click through to the end of the submission process_.
+8. When the submission process is finalized, you should receive an email confirming the successful submission and the abstract goes directly to production for publication, a DOI (digital object identifier) is assigned, and the abstract cannot be revised further (without difficulty).
+9. At publication, you should receive a confirmation email from the journal.
+
+### Incomplete submission
+
+If, after your manuscript has been approved, you fail to complete all of the steps in the previous section, you may see it tagged as _Incomplete Submission_ in your ARPHA dashboard, even though a BISS ID has been assigned to it. 
+
+Because this now has a BISS identifier, you must access actions to complete the submission (or delete it) via the [BISS dashboard](https://biss.pensoft.net/dashboard?view_mode=1&journal_id=63) not ARPHA’s.
+
+![Incomplete Submission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "Incomplete Submission")
+
+_The deadline for finalizing your abstract for publication in the journal will be announced in July._
+
+## Seeking help
+
+If, at any time, you need further technical assistance, check the [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, click `Feedback` icon (on the top navigation bar to open a new window with an email form for you to fill in to the journal’s technical staff) OR for content/editorial questions, send an email to TDWG Editors [editor@tdwg.org](mailto:editor@tdwg.org) including the ARPHA ID of your abstract in the subject line. Note that icons now use tooltips (mouse over) and do not otherwise include text explanations. For other questions about the conference, please email [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
+
+## ARPHA-related-FAQs
+
+{:id="editing-work"}
+### How does the editing process work?
+
+Your abstract will be edited and reviewed for content and suitability as well as style and language. Once authors submit an abstract, the editors are notified about it, and they gain access to it. Once they evaluate it, and leave notes for its improvement (if any), the volume editors will send feedback to the authors. At that point you—as the Submitting author—receive an automated notification from awt@pensoft.net, with access in editing mode to the abstract. After you coordinate the modifications with your co-authors, you can resubmit. This cycle can be reiterated as many times as needed, until the abstract is accepted, and ready to be submitted to the journal (to be published as is). Please wait for the system notification. If, for some reason, your abstract is not accepted by the conference organizers under the collection (e.g., symposium) to which you submitted it, they will notify [editor@tdwg.org](mailto:editor@tdwg.org) for help in moving it elsewhere, if possible.
+
+{:id="why-track-changes"}
+### Why does it think I still have track changes?
+
+Lots of times it’s something small (e.g., a comma). Use the Next and Previous button in the Track Changes dialog to pinpoint what you may have missed. Sometimes though it’s a quirk of ARPHA (e.g., you added a reference while Track Changes was on and some of the text is green). Put your cursor in the middle of the text and then click Accept in the track changes menu.
+
+{:id="no-access"}
+### I see feedback and corrections to make in my abstract, but I don’t have access. Did I do something wrong?
+
+Don’t worry–you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to [How do I know the status of my abstract](/conferences/2024/biss-abstract-submission/#abstract-status)) and should be sent back to you soon. If you have further questions or issues (e.g., you’re going to be out of touch soon for a period of time), email editor@tdwg.org so they know to expedite providing feedback once reviews are completed.
+
+{:id="state-province"}
+### Where do I enter the state or province under address as an author?
+
+ARPHA does not currently track that information. If you feel it is necessary, add an [ISO 3166-2 code](http://www.unece.org/cefact/locode/subdivisions.html) for your country’s subdivision, separating it from the city name with a comma and space.
+
+{:id="no-submit-button"}
+### My abstract has been approved and it validates but why don’t I see a `submit to journal` button?
+
+You may not be the person who originally submitted the abstract (see [submitting author](/conferences/2024/biss-abstract-submission/#submitting-author). If the submitting author is unavailable, please contact the Pensoft team [journals@pensoft.net](mailto:journals@pensoft.net) for help.
+
+{:id="email-issues"}
+### I use more than one email for my work. How do I choose one?
+
+In the ARPHA editorial platform, you should use only one email account that you check regularly, will have persistence, and that you do not mind being public (the system displays it publicly to other users and in published papers). This way all tasks appointed to the user will be accumulated under a single account and you will not have to log in and out and access several dashboards for a single journal. The editorial platform allows users to have different roles within the same journal and also in other journals hosted by Pensoft. The system does not allow adding more than one email per account and is not set to enable sending a copy of the same notification to an alternative email of the same user. If you have been asked to merge two or more accounts into a single one, Pensoft will need to choose one of the emails as primary. This is also used to send alerts and newsletters of Pensoft journal content to which you may subscribe.
+
+Regardless of email, if you are an author and need to credit a particular institution for the work you are presenting, modify your affiliation in the author metadata for each abstract or manuscript submitted.
+
+{:id="abstract-status"}
+### How do I know the status of my abstract?
+
+Sign into [ARPHA](https://arpha.pensoft.net/). Your abstract(s) should be listed under the My Manuscripts tab (text will be gray) on your dashboard. On the right of each manuscript, you can see the status. Note that only one person can work on an abstract at a time (either as authors or editors). If you are not actively working on a manuscript, please close the window to give others a chance to contribute. Note: the dashboard may give misleading indications that someone is editing the manuscript. You can verify if this is true by clicking on the manuscript title.
+
+- Draft = authors have editing rights; editors see as read-only; authors must submit the abstract for review for the abstract to be released for editorial assessment.
+- In pre-submission review = authors see as read-only; technical editors are able to make changes to the abstract and add comments. Authors may see these updates but will not be able to make changes until volume editors release the abstract back to the authors using the `Send Feedback` button. Pressing the `Send Feedback` button returns the abstract to Draft mode so that authors may respond.
+- Once your abstract has been Approved, the submitting author will need to Submit to journal and complete the final publication checklist (this consists of multiple screens; please be sure to follow it to the end). It then proceeds to Layout and is in a queue to be Published. The final deadline for submission to the journal will be determined. Make sure that the submitting author will be available until the process is complete.
+- If you fail to complete the final publication checklist, your abstract may be marked as Incomplete submission. You will get three automated warnings to remedy this before the system automatically buries/removes your submission from the publication queue.
+- Both authors and technical editors can send email (see icon near the top of the page) to co-authors and/or editors at any time during the pre-approval process; this does not change the status of the manuscript. _If you use this step, please fully reference your manuscript ID, the issue(s) and the person(s) you think should be responding to the email._ The system sends individual emails out so no one receiving them knows who else is being asked to address your question. If in doubt, email [editor@tdwg.org](mailto:editor@tdwg.org) outside of the system instead.
+- For an abstract associated with SPNHC-TDWG 2024 to be published, the presenter must be fully registered (i.e., any assessed fee paid) for the conference.
+- Approved abstracts will be published once the placement of their presentation in the program is confirmed. Authors should receive notification of successful submission to the journal, pending publication.
+
+{:id="wheres-my-abstract"}
+### What if I don’t see my abstract anywhere?
+
+It is possible that you have more than one ARPHA account under different emails. Please consolidate them if this is the case.
+
+Another possibility is that the ARPHA platform has automatically archived your abstract due to prolonged inactivity (does so after three ignored email warnings). You will need to notify Pensoft to retrieve such an abstract from this fate. Please make sure all communications include an article identifier (ID#) in the subject line. When it is returned, it will be in Draft mode and you will need to revise it and (re-)[submit for technical review](/conferences/2024/biss-abstract-submission/#submit-for-technical-review). Editors are not able to work on or accept a manuscript in Draft status.
+
+Otherwise, communicate with the help desk (use the feedback icon located in the top banner of your abstract) to try to resolve technical issues or with editor@tdwg.org or okinawa2024@spnhc.org for conference-related questions.
+
+{:id="benefits-biss"}
+### What are the benefits of submitting an extended abstract?
+
+See [_Why submit an extended abstract in BISS?_](/conferences/2024/why-extended-abstract/).
+
+{:id="where-published-abstracts"}
+### Where will I find published abstracts?
+
+See [published abstract collections](https://biss.pensoft.net/collections) and select current year’s volume. Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _Biodiversity Information Science and Standards_ after signing in.
