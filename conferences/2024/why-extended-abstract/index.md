@@ -8,7 +8,7 @@ background:
 toc: false
 ---
 
-_Last updated 1 June 2024_
+_Last updated 3 June 2024_
 
 Each extended abstract published in [_BISS_](https://biss.pensoft.net) is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. It is not a verbatim repetition of your abstract in OA. Using Pensoft’s [ARPHA writing tool](https://arpha.pensoft.net/), you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation can also be added to the abstract’s media tab after the conference, to build a well-rounded presentation of your work. Each published abstract can link to your [ORCID](https://orcid.org/), will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work. 
 
@@ -21,7 +21,7 @@ Additional benefits of publishing your extended abstract include
 _Note that during and following the conference, your abstract in Oxford Abstracts will only be visible to conference delegates. The abstract will require a login to OA to see it, and will not be publicly accessible. No DOI will be minted for individual abstracts in OA._
 - Distribution of abstracts under the terms of [Creative Commons attribution licenses](https://creativecommons.org/share-your-work/), either [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (default) or [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (by request).
 - At least two editors will review and may provide editorial comments for each abstract.
-- Post-publication, readers can comment or ask questions within the Comment tab in the publication. Authors may also use the [Comment tab for updates](https://biss.pensoft.net/article/59089/list/13/) or errata.
+- Post-publication, readers can comment or ask questions within the Comment tab in the publication. Authors may also use the Comment tab for updates (see example [here](https://biss.pensoft.net/article/59089/list/13/)) or errata.
 - To prompt discoverability, all articles, including abstracts, are automatically harvested upon publication by a range of [indexers](https://biss.pensoft.net/), from [AGRICOLA](https://www.nal.usda.gov/agricola) to [ZDB](https://zdb-katalog.de/index.xhtml).
 - Abstracts will be associated with the conference session in which they are presented.
 - Easy to promote your presentation by sharing your abstract on X (formerly Twitter), Facebook, Mendeley, Reddit, or via email with a single click, thanks to share buttons.
