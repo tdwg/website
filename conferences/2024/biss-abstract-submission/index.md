@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 2 June 2024_
+_Last updated 3 June 2024_
 
 ## Getting started
 
@@ -139,9 +139,7 @@ Be mindful of persistence (not having future users find broken links) and irrele
 
 ### Editorial help
 
-If you have used AI to compose your abstract or translation tools to make automatic translations, please seek confirmation from an independent source—before submitting the abstract for review—that the abstract truly reflects your work. 
-
-Need help with linguistics or other opinions about your abstract by non-authors? You may [invite contributors](https://arpha.pensoft.net/tips/Invite-contributors) to _Edit & comment_ or _Comment only_ within the manuscript. You may also email [editor@tdwg.org](mailto:editor@tdwg.org) for help.
+Need help with linguistics or other opinions about your abstract by non-authors? You may [invite contributors](https://arpha.pensoft.net/tips/Invite-contributors) to _Edit & comment_ or _Comment only_ within the manuscript. You may also email [editor@tdwg.org](mailto:editor@tdwg.org) for help. Please note that seeking confirmation from a fluent English-speaker is especially recommended if you have used AI to compose your abstract or translation tools to make automatic translations.
 
 ## Keywords
 
