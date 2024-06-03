@@ -18,8 +18,8 @@ The complete instructions for submitting 2024 extended abstracts may be found [h
 1. [Register](/conferences/2024/registration/) for SPNHC-TDWG 2024
 2. See "[Why submit an extended abstract in BISS](/conferences/2024/why-extended-abstract/)"
 3. Extended abstracts will appear in [2024 collection](https://biss.pensoft.net/collections) 
-  1. [log-in](https://biss.pensoft.net/login.php?redirurl=%2F) or [register](https://pensoft.net/register.php?register=1&gotourl=biss.pensoft.net%2F) for an account with Pensoft
-  2. whitelist communications from pensoft.net
+    1. [log-in](https://biss.pensoft.net/login.php?redirurl=%2F) or [register](https://pensoft.net/register.php?register=1&gotourl=biss.pensoft.net%2F) for an account with Pensoft
+    2. whitelist communications from pensoft.net
 4. Start a new abstract using button on [BISS homepage](https://biss.pensoft.net/)
 5. Return to an existing abstract in [ARPHA](https://arpha.pensoft.net)
 
@@ -38,10 +38,10 @@ The complete instructions for submitting 2024 extended abstracts may be found [h
 
 1. [References, figures, tables, supplementary materials](/conferences/2024/biss-abstract-submission/#references-figures-supplementary-materials)
 2. [Acknowledgements](/conferences/2024/biss-abstract-submission/#acknowledgements)
-  1. Funder
-  2. Funding program
-  3. Grant title
-  4. Hosting institution
+    1. Funder
+    2. Funding program
+    3. Grant title
+    4. Hosting institution
 
 ## Ready to [submit for review](/conferences/2024/biss-abstract-submission/#submit-for-technical-review)
 
