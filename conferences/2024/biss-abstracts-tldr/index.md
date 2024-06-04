@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 2 June 2024_
+_Last updated 3 June 2024_
 
 The complete instructions for submitting 2024 extended abstracts may be found [here](/conferences/2024/biss-abstract-submission/). This high level summary provides relevant links to that document. 
 
@@ -64,8 +64,8 @@ The complete instructions for submitting 2024 extended abstracts may be found [h
 1. Email announces that editors have approved your abstract for submission
 2. Verify that all information is correct, including name of presenting author
 3. Click `Validate` button - no lingering issues
-4. `Submit to the journal` button initiates a long checklist of submission steps (only submitter sees this button)
-5. Should receive email confirming successful submission; if none, check dashboard to see if abstract status is "incomplete" and resolve.
+4. `Submit to the journal` button initiates a _long_ checklist of submission steps (only submitter sees this button)
+5. Should receive email confirming successful submission; if none, check dashboard to see if abstract status is "[incomplete](https://www.tdwg.org/conferences/2024/biss-abstract-submission/#incomplete-submission)" and resolve.
 6. At publication, receive another email
 
 ## Help and other FAQ
