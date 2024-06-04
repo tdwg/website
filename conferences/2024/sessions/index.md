@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-06-01
+Last modified 2024-06-04
 
 ## Index to sessions
 
@@ -206,9 +206,9 @@ Conference Track:  General interest<br />
 Organizers:  **[Katharine Barker](mailto:barkerk@si.edu), Jonas Astrin, Gabriele Dröge**
 
 **Abstract**<br />
-The Global Genome Biodiversity Network (GGBN, http://www.ggbn.org [http://www.ggbn.org]) was founded in 2011 to fill a critical gap in the existing research infrastructure landscape. It consists of DNA and tissue collections at natural history museums, botanic gardens, universities, culture collections, environmental sample collections, gene banks, seed banks, and zoological gardens. These collections provide long-term storage and public access to material used for molecular research of all kinds. The GGBN Data Portal and the GGBN Data Standard have been developed as complementary tools for other infrastructures such as GBIF and INSDC, by enabling standardized access to its member biorepositories and establishing cross links between underlying voucher specimens, sequence data and publications. Today 6.6 million records are available through GGBN from 39 biobanks. Together with CETAF, SPNHC and SYNTHESYS+, GGBN provides best practices for biorepositories on implementation of Nagoya and ABS regulations. In addition, GGBN provides the community with a document library for biobanking knowledge exchange.
+The Global Genome Biodiversity Network (GGBN, [http://www.ggbn.org](http://www.ggbn.org) was founded in 2011 to fill a critical gap in the existing research infrastructure landscape. It consists of DNA and tissue collections at natural history museums, botanic gardens, universities, culture collections, environmental sample collections, gene banks, seed banks, and zoological gardens. These collections provide long-term storage and public access to material used for molecular research of all kinds. The GGBN Data Portal and the GGBN Data Standard have been developed as complementary tools for other infrastructures such as GBIF and INSDC, by enabling standardized access to its member biorepositories and establishing cross links between underlying voucher specimens, sequence data and publications. Today 6.6 million records are available through GGBN from 39 biobanks. Together with CETAF, SPNHC and SYNTHESYS+, GGBN provides best practices for biorepositories on implementation of Nagoya and ABS regulations. In addition, GGBN provides the community with a document library for biobanking knowledge exchange.
 
-In this symposium we will provide an overview of GGBN’s resources for best practice and policies for running and using a biobank focusing on the outcomes of the SYNTHESYS+ project (handbooks/guidelines on protocols and practices in biobanking), https://doi.org/10.3897/ab.e101876 [https://doi.org/10.3897/ab.e101876], on policies around biobank use, https://doi.org/10.3897/rio.9.e102908 [https://doi.org/10.3897/rio.9.e102908] and on permit and contract terminology https://doi.org/10.3897/rio.10.e114366 [https://doi.org/10.3897/rio.10.e114366]). We will also present updates to the GGBN Data Portal, a unified access point to biodiversity biobank sample data.
+In this symposium we will provide an overview of GGBN’s resources for best practice and policies for running and using a biobank focusing on the outcomes of the SYNTHESYS+ project (handbooks/guidelines on protocols and practices in biobanking), [https://doi.org/10.3897/ab.e101876](https://doi.org/10.3897/ab.e101876), on policies around biobank use, [https://doi.org/10.3897/rio.9.e102908](https://doi.org/10.3897/rio.9.e102908) and on permit and contract terminology [https://doi.org/10.3897/rio.10.e114366](https://doi.org/10.3897/rio.10.e114366). We will also present updates to the GGBN Data Portal, a unified access point to biodiversity biobank sample data.
 
 {:id="sym06"}
 ### SYM06 Biodiversity Data Standards and FAIR in Prototyping Biodiversity Digital Twins	
@@ -346,7 +346,7 @@ Conference Track:  General interest<br />
 Organizers:  **[Marie Grosjean](mailto:mgrosjean@gbif.org), Laura Anne Russell, Cecilie Svenningsen**
 
 **Abstract**<br />
-The Global Registry of Scientific Collections (GRSciColl - https://scientific-collections.gbif.org [https://scientific-collections.gbif.org]), hosted by the Global Biodiversity Information Facility (GBIF), is a comprehensive and community-curated clearing house of information about scientific collections. By providing information about physical scientific collections - their content, location, contacts, associated institutions, and collection codes and identifiers - GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
+The Global Registry of Scientific Collections (GRSciColl - [https://scientific-collections.gbif.org](https://scientific-collections.gbif.org), hosted by the Global Biodiversity Information Facility (GBIF), is a comprehensive and community-curated clearing house of information about scientific collections. By providing information about physical scientific collections - their content, location, contacts, associated institutions, and collection codes and identifiers - GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
 
 This interactive session will introduce GRSciColl, its current and future developments, and aim to give attendants all the tools they need to improve the representation and visibility of their collections.
 
@@ -614,7 +614,7 @@ Organizers:  **[Kristi Liu](mailto:ksliu@ucsb.edu), Katja Seltmann**
 **Abstract**<br />
 During this two-hour long, participatory workshop collection managers, researchers, or data providers will use GloBI for data management and information retrieval. Our group exploration into the data will cover the data origins and data integration process and data products.
 
-This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at https://www.globalbioticinteractions.org/sources [https://www.globalbioticinteractions.org/sources]).
+This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at [https://www.globalbioticinteractions.org/sources](https://www.globalbioticinteractions.org/sources).
 
 The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop.
 
