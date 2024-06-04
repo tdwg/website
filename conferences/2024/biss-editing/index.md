@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 2 June 2024_
+_Last updated 3 June 2024_
 
 ## Role of reviewers
 
@@ -19,7 +19,7 @@ Thank you for volunteering to review and/or edit the extended abstracts submitte
 
 Reviews will be conducted in Pensoft's [ARPHA](https://arpha.pensoft.net/) writing platform for publication in the journal Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net)) as [Proceedings of SPNHC-TDWG 2024](https://biss.pensoft.net/collections). Only authors who submitted an accepted abstract in [Oxford Abstracts (OA) conference platform](https://virtual.oxfordabstracts.com/#/event/6771/homepage) qualify to submit an extended abstract.  
 
-Editing will consist of using **Track Changes** (to correct spelling, grammar, and style) to make suggested changes to author text and **Comments** to ask questions and make suggestions about content or wording. Session editors will use flags to indicate status and actions to be taken regarding the abstract but will not send feedback to (communicate directly with) authors in ARPHA. **Only volume editors will send feedback to authors.** _There is no separate narrative review._
+Editing will consist of using **Track Changes** (to correct spelling, grammar, and style) to make suggested changes to author text and **Comments** to ask questions and make suggestions about content or wording. Session editors will use flags to indicate status and actions to be taken regarding the abstract but will not send feedback to (communicate directly with) authors in ARPHA. **Only volume editors will send feedback to authors.** _There is no separate narrative review; all comments/questions/changes should appear on the abstract._
 
 ### Responsibilities
 
@@ -85,7 +85,7 @@ If both flags are set in ARPHA, this should be scored as `both` on ATS.
 
 ### Editorial review process
 
-Please begin the editorial review process as soon as an abstract is submitted for review. You should receive an email from awt@pensoft.net when an abstract has been assigned to you for review. Alternatively, the [Collection editor tab in your ARPHA dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) will show abstracts ready to be reviewed (they will be marked "in pre-submission review"). 
+Please begin the editorial review process as soon as an abstract is submitted for review. You should receive an email from awt@pensoft.net when an abstract has been assigned to you for review. Alternatively, the [Collection editor tab in your ARPHA dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) (when logged in) will show abstracts ready to be reviewed (they will be marked "in pre-submission review"). 
 
 Abstracts need to be reviewed and flagged both for Language and for Content before authors are notified by the volume editors about revisions and clarifications needed/requested by the reviewers. An exception may be made if the language review shows the need for extensive revisions and is a barrier to assessing content (contact the [editor@tdwg.org](mailto:editor@tdwg.org) if you are in this situation).
 
@@ -123,7 +123,7 @@ The process of reviewing for language includes verifying spelling, grammar, cons
 - Missing or inconsistent authors’ affiliations
 - Non-expansion of acronyms at first use
 - Wording issues resulting from translation or AI-assisted content construction
-- Titles should be in title case (see [Title Case Converter](https://titlecaseconverter.com/) and choose MLA for style
+- Titles should be in title case (see [Title Case Converter](https://titlecaseconverter.com/) and choose MLA for style)
 - Missing Keywords 
 - Keywords not separated by commas, words repeated from the title, or capitalization of non-proper nouns
 - Missing `Presented at` metadata (should be filled in with SPNHC-TDWG 2024 and only that)
