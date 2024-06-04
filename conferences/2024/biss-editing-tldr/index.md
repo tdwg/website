@@ -9,9 +9,9 @@ background:
 toc: true
 ---
 
-_Last updated 3 June 2024_
+_Last updated 4 June 2024_
 
-The complete instructions for reviewing/editing 2024 extended abstracts may be found [here](/conferences/2024/biss-editing/). This high level summary provides relevant links to that document.
+The complete instructions for reviewing/editing 2024 extended abstracts may be found [here](/conferences/2024/biss-editing/). This high level summary provides relevant links to that document. _Note that only those volunteering to review will have access to unpublished abstracts in the system._
 
 ## Getting started
 
