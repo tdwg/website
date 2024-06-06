@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 3 June 2024_
+_Last updated 6 June 2024_
 
 ## Role of reviewers
 
@@ -17,7 +17,7 @@ Thank you for volunteering to review and/or edit the extended abstracts submitte
 
 ### Process
 
-Reviews will be conducted in Pensoft's [ARPHA](https://arpha.pensoft.net/) writing platform for publication in the journal Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net)) as [Proceedings of SPNHC-TDWG 2024](https://biss.pensoft.net/collections). Only authors who submitted an accepted abstract in [Oxford Abstracts (OA) conference platform](https://virtual.oxfordabstracts.com/#/event/6771/homepage) qualify to submit an extended abstract.  
+Reviews will be conducted in Pensoft's [ARPHA](https://arpha.pensoft.net/) writing platform for publication in the journal Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net)) as [Proceedings of SPNHC-TDWG 2024](https://biss.pensoft.net/collections). Only authors who submitted an accepted abstract in [Oxford Abstracts (OA) conference platform](https://virtual.oxfordabstracts.com/#/event/6771/homepage) qualify to submit an extended abstract. _Qualification will be verified by volume editors._ 
 
 Editing will consist of using **Track Changes** (to correct spelling, grammar, and style) to make suggested changes to author text and **Comments** to ask questions and make suggestions about content or wording. Session editors will use flags to indicate status and actions to be taken regarding the abstract but will not send feedback to (communicate directly with) authors in ARPHA. **Only volume editors will send feedback to authors.** _There is no separate narrative review; all comments/questions/changes should appear on the abstract._
 
@@ -87,6 +87,8 @@ If both flags are set in ARPHA, this should be scored as `both` on ATS.
 
 Please begin the editorial review process as soon as an abstract is submitted for review. You should receive an email from awt@pensoft.net when an abstract has been assigned to you for review. Alternatively, the [Collection editor tab in your ARPHA dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) (when logged in) will show abstracts ready to be reviewed (they will be marked "in pre-submission review"). 
 
+Keep in mind that the same notification is sent to all technical editors, and ARPHA does not allow simultaneous editing of a document. Only one person can work on an abstract at a time. If you are not actively working on a manuscript, please close the window to give others a chance to contribute. Note: the dashboard may give misleading indications that someone is editing the manuscript. You can verify if this is true by clicking on the manuscript title.
+
 Abstracts need to be reviewed and flagged both for Language and for Content before authors are notified by the volume editors about revisions and clarifications needed/requested by the reviewers. An exception may be made if the language review shows the need for extensive revisions and is a barrier to assessing content (contact the [editor@tdwg.org](mailto:editor@tdwg.org) if you are in this situation).
 
 Session editors should NEVER use the `Send Feedback` button. Communications with authors are limited to Volume editors.
@@ -143,13 +145,13 @@ Upon completion of the language review,
 
 Once the above reviews are completed and the editorial action(s) are recommended, the Volume editors conduct their own reviews and will be the ones to communicate with authors either to recommend revisions (may be an iterative process) or to approve the abstract for publication. 
 
-The [status of the abstract](/conference/2024/biss-editing/#abstract-status) changes with each decision and Session editors will receive notifications about submission of revised abstracts (message is indistinguishable from "new") as well as when abstracts are approved for publication and published. It is not required that you re-review any abstract but it is recommended if extensive changes were requested, particularly to content. Otherwise the Volume editors will deal with revised abstracts (if they require a second opinion, they will request it of you).
+The [status of the abstract](/conferences/2024/biss-editing/#abstract-status) changes with each decision and Session editors will receive notifications about submission of revised abstracts (message is indistinguishable from "new") as well as when abstracts are approved for publication and published. It is not required that you re-review any abstract but it is recommended if extensive changes were requested, particularly to content. Otherwise the Volume editors will deal with revised abstracts (if they require a second opinion, they will request it of you).
 
 # Additional information about ARPHA
 
 ## Revision history
 
-Confused about who has reviewed or touched an abstract? Access the Revision history from your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) for the abstract or use the counterclockwise icon in the top ribbon of the ARPHA writing tool.
+Confused about who has reviewed or touched an abstract? Access the Revision history from your [dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) for the abstract or use the counterclockwise icon in the top ribbon of the ARPHA writing tool. See also [Compare Manuscript Versions](https://arpha.pensoft.net/tips/Compare-Manuscript-Versions).
 
 ## Abstract status
 
@@ -198,7 +200,7 @@ Emails originating from “pensoft.net” are often interpreted by overzealous e
 
 ### Update your profile
 
-Please [create or update your profile](https://pensoft.net/profile) in Pensoft. Make sure that you have only one email address registered.
+Please [create](https://pensoft.net/profile) or [update](https://arphahub.com/manual#Updateprofile) your profile in Pensoft. Make sure that you have only one email address registered.
 
 ## For additional help
 
