@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last updated 3 June 2024_
+_Last updated 6 June 2024_
 
 The complete instructions for submitting 2024 extended abstracts may be found [here](/conferences/2024/biss-abstract-submission/). This high level summary provides relevant links to that document. 
 
@@ -32,7 +32,7 @@ The complete instructions for submitting 2024 extended abstracts may be found [h
 5. [Keywords](/conferences/2024/biss-abstract-submission/#keywords) - separate with comma and space; capitalize only proper nouns
 6. [Presenting author](/conferences/2024/biss-abstract-submission/#presenting-author) - just the name as it appears as an author
 7. [Presented at](/conferences/2024/biss-abstract-submission/#presented-at) - SPNHC-TDWG 2024
-8. [Conflicts of interest](/conferences/2024/biss-abstract-submission/#required-fields) - mark yes, only if Gail Kampmeier or Elicia Wallis are co-authors
+8. [Conflicts of interest](/conferences/2024/biss-abstract-submission/#required-fields) - mark yes, only if Gail Kampmeier or Elycia Wallis are co-authors
 
 ## Abstract optional fields
 
@@ -63,12 +63,12 @@ The complete instructions for submitting 2024 extended abstracts may be found [h
 
 1. Email announces that editors have approved your abstract for submission
 2. Verify that all information is correct, including name of presenting author
-3. Click `Validate` button - no lingering issues
-4. `Submit to the journal` button initiates a _long_ checklist of submission steps (only submitter sees this button)
+3. Click `Validate` button - no lingering issues; number of characters should not exceed 6000
+4. `Submit to the journal` button initiates a _long_ checklist of submission steps (only the [submitting author](/conferences/2024/biss-abstract-submission/#submitting-author) sees this button)
 5. Should receive email confirming successful submission; if none, check dashboard to see if abstract status is "[incomplete](https://www.tdwg.org/conferences/2024/biss-abstract-submission/#incomplete-submission)" and resolve.
 6. At publication, receive another email
 
 ## Help and other FAQ
 
-1. Before contacting [editor@tdwg.org](mailto:editor@tdwg.org) with questions, be sure to read [full documentation](/conferences/2024/biss-abstract-submission/)
+1. Before contacting [editor@tdwg.org](mailto:editor@tdwg.org) or [journals@pensoft.net](mailto:journals@pensoft.net) with questions, be sure to read [full documentation](/conferences/2024/biss-abstract-submission/)
 2. list of [ARPHA-related FAQ](/conferences/2024/biss-abstract-submission/#arpha-related-faqs)
