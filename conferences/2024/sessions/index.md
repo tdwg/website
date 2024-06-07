@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-06-04
+Last modified 2024-06-07
 
 ## Index to sessions
 
@@ -131,7 +131,7 @@ We are looking for short, lightning-round type talks on one special specimen in 
 {:id="panel02"}
 ### PANEL02 Telling the Whole Story of Science 
 
-Session Type: Panel Discussion; WITHDRAWN<br />
+Session Type: Panel Discussion; **WITHDRAWN**<br />
 Conference Track:  SPNHC<br />
 Organizers:  **[Rebekah Kim](mailto:rkim@calacademy.org)**
 
