@@ -24,7 +24,7 @@ Click a link to read the session abstract.
 | LTNG03 | see SYM19 [Bridging the gap: Interoperable Alien Species Data and Terminology for Successful Sharing of Management Strategies](#sym19) |
 | LTNG05 | [Specimen Spotlight](#ltng05) |
 | LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
-| PANEL02 | [Telling the Whole Story of Science](#panel02) |
+| PANEL02 | WITHDRAWN [Telling the Whole Story of Science](#panel02) |
 | POSTER | [Poster session](#poster) |
 | SYM01 | [A Fly Can’t Bird but a Bird Can Fly: Current advances and challenges at the intersections of collection management systems, institutions and community](#sym01) |
 | SYM02 | [Back to Basics Skillshare](#sym02) |
@@ -129,9 +129,9 @@ We are looking for short, lightning-round type talks on one special specimen in 
 
 
 {:id="panel02"}
-### PANEL02 Telling the Whole Story of Science	
+### PANEL02 Telling the Whole Story of Science 
 
-Session Type: Panel Discussion; CLOSED - abstract submission for invited participants only<br />
+Session Type: Panel Discussion; WITHDRAWN<br />
 Conference Track:  SPNHC<br />
 Organizers:  **[Rebekah Kim](mailto:rkim@calacademy.org)**
 
