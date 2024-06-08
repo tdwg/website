@@ -28,11 +28,25 @@
 - text: "Submissions"
   menu:
   - text: "Calls"
+  - text: "Why submit an extended abstract?"
+    href: /conferences/2024/why-extended-abstract/
+  - text: "Call for extended abstracts"
+    href: /conferences/2024/biss-extended-abstract-call/
+  - text: "---"
+  - text: "Instructions"
+  - text: "Submit extended abstract to BISS"
+    href: /conferences/2024/biss-abstract-submission/
+  - text: "TL;DR extended abstract submission"
+    href: /conferences/2024/biss-abstracts-tldr/
+  - text: "Instructions for reviewers/editors"
+    href: /conferences/2024/biss-editing/
+  - text: "TL;DR for reviewers/editors"
+    href: /conferences/2024/biss-editing-tldr/
+  - text: "---"
+  - text: "No longer open"
   - text: "Call for sessions (CLOSED)"
     href: https://mailchi.mp/tdwg.org/spnhc-tdwg-2024-okinawa-call-for-organized-sessions
   - text: "Call for OA Abstracts (CLOSED)"
     href: /conferences/2024/call-for-abstracts/
-  - text: "---"
-  - text: "Instructions"
   - text: "OA Abstract Guidelines (CLOSED)"
     href: /conferences/2024/oa-abstract-submission-guidelines/
