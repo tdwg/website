@@ -44,7 +44,7 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 23 May 2024_
+_Last updated 7 June 2024_
 
 ## [Registration is now open!](/conferences/2024/registration/)
 
@@ -64,7 +64,9 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 
 More than 390 abstracts for oral presentations and posters were reviewed by session organizers and members of the Program Committee between 22 April–12 May.
 
-**Notifications of acceptance** for presentation at the conference were emailed to abstract submitters (not to all authors) on 15 May through the Oxford Abstracts conference platform. These notifications included an invitation to submitters to respond to reviewer comments/corrections by editing their abstracts (**deadline 29 May**). Presenters were reminded to [register for the conference](/conferences/2024/registration/) to secure their place in the program. Presentations are now being organized into the final schedule. Please address questions to [editor@tdwg.org](mailto:editor@tdwg.org)
+**Notifications of acceptance** for presentation at the conference were emailed to abstract submitters (not to all authors) on 15 May through the Oxford Abstracts conference platform. These notifications included an invitation to submitters to respond to reviewer comments/corrections by editing their abstracts (**deadline 29 May**). Presenters were reminded to [register for the conference](/conferences/2024/registration/) to secure their place in the program. Presentations are now being organized into the final schedule. Please address questions to [editor@tdwg.org](mailto:editor@tdwg.org).
+
+**Did you miss the email** notifying you of the acceptance of your abstract? Sign into your account on Oxford Abstracts and if your abstract appears, it was accepted. We are still finalizing the placement of abstracts in sessions, so your session may change.
 
 **Authors please note:** you will have an opportunity to submit _extended_ abstracts to _Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections))_. Details to be announced in June.
 
