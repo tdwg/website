@@ -1,5 +1,5 @@
 ---
-title: Call for extended abstracts in _BISS_
+title: Call for extended abstracts
 description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September. Deadline 15 July 2024.
 background:
   img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
