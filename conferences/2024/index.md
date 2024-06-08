@@ -70,9 +70,9 @@ More than 390 abstracts for oral presentations and posters were reviewed by sess
 
 **Did you miss the email** notifying you of the acceptance of your abstract? Sign into your account on Oxford Abstracts and if your abstract appears, it was accepted. We are still finalizing the placement of abstracts in sessions, so your session may change.
 
-### Call for submission extended abstracts in _Biodiversity Information Science and Standards (BISS)_
+### Call to submit extended abstracts to _BISS_
 
-The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/) in [_BISS_](https://biss.pensoft.net/collection/438/) is now open. Wondering why you should submit an extended abstract when you have already had your abstract accepted in Oxford Abstracts? Check out the reasons [here](/conferences/2024/why-extended-abtract/). **Deadline for submission of extended abstracts is 15 July 2024.**
+The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/) in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/) is now open. Wondering why you should submit an extended abstract when you have already had your abstract accepted in Oxford Abstracts? Check out the reasons [here](/conferences/2024/why-extended-abtract/). **Deadline for submission of extended abstracts is 15 July 2024.**
 
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
