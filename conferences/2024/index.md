@@ -44,7 +44,7 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 7 June 2024_
+_Last updated 9 June 2024_
 
 ## [Registration is now open!](/conferences/2024/registration/)
 
@@ -62,18 +62,17 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 
 ## Abstracts
 
-### Abstract submission to Oxford Abstracts
+### Call to submit extended abstracts to _BISS_
+
+The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/) in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/) is now open. See [why you should submit an extended abstract](/conferences/2024/why-extended-abtract/) when you have already had your abstract accepted in Oxford Abstracts. **Deadline for submission of extended abstracts is 15 July 2024.**
+
+### Abstracts submitted to Oxford Abstracts
 
 More than 390 abstracts for oral presentations and posters were reviewed by session organizers and members of the Program Committee between 22 April–12 May.
 
 **Notifications of acceptance** for presentation at the conference were emailed to abstract submitters (not to all authors) on 15 May through the Oxford Abstracts conference platform. These notifications included an invitation to submitters to respond to reviewer comments/corrections by editing their abstracts (deadline now passed: 29 May). Presenters were reminded to [register for the conference](/conferences/2024/registration/) to secure their place in the program. Presentations are now being organized into the final schedule. Please address questions to [editor@tdwg.org](mailto:editor@tdwg.org).
 
 **Did you miss the email** notifying you of the acceptance of your abstract? Sign into your account on Oxford Abstracts and if your abstract appears, it was accepted. We are still finalizing the placement of abstracts in sessions, so your session may change.
-
-### Call to submit extended abstracts to _BISS_
-
-The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/) in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/) is now open. Wondering why you should submit an extended abstract when you have already had your abstract accepted in Oxford Abstracts? Check out the reasons [here](/conferences/2024/why-extended-abtract/). **Deadline for submission of extended abstracts is 15 July 2024.**
-
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
