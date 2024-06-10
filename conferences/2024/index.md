@@ -44,7 +44,7 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 9 June 2024_
+_Last updated 10 June 2024_
 
 ## [Registration is now open!](/conferences/2024/registration/)
 
@@ -70,9 +70,9 @@ The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/
 
 More than 390 abstracts for oral presentations and posters were reviewed by session organizers and members of the Program Committee between 22 April–12 May.
 
-**Notifications of acceptance** for presentation at the conference were emailed to abstract submitters (not to all authors) on 15 May through the Oxford Abstracts conference platform. These notifications included an invitation to submitters to respond to reviewer comments/corrections by editing their abstracts (deadline now passed: 29 May). Presenters were reminded to [register for the conference](/conferences/2024/registration/) to secure their place in the program. Presentations are now being organized into the final schedule. Please address questions to [editor@tdwg.org](mailto:editor@tdwg.org).
+**Notifications of acceptance** for presentation at the conference were emailed to abstract _submitters_ (not to all authors) on 15 May through the Oxford Abstracts conference platform. These notifications included an invitation to submitters to respond to reviewer comments/corrections by editing their abstracts (deadline now passed: 29 May). Presenters were reminded to [register for the conference](/conferences/2024/registration/) to secure their place in the program. Presentations are now being organized into the final schedule. Please address questions to [editor@tdwg.org](mailto:editor@tdwg.org).
 
-**Did you miss the email** notifying you of the acceptance of your abstract? Sign into your account on Oxford Abstracts and if your abstract appears, it was accepted. We are still finalizing the placement of abstracts in sessions, so your session may change.
+**Did you miss the email** notifying you of the acceptance of your abstract submission? Sign into your account on Oxford Abstracts and if your abstract appears, it was accepted (contact the person who submitted the abstract if this was not you). We are still finalizing the placement of abstracts in sessions, so your session may change.
 
 ## [Code of Conduct](/conferences/2024/code-of-conduct/)
 
