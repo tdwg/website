@@ -8,7 +8,7 @@ background:
 toc: false
 ---
 
-_Last updated 7 June 2024_
+_Last updated 10 June 2024_
 
 We are pleased to announce the call for extended abstracts (mini-papers) for the joint hybrid conference of SPNHC-TDWG 2024 to be published in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
 
@@ -16,7 +16,7 @@ We are pleased to announce the call for extended abstracts (mini-papers) for the
 
 Wondering why you might want to submit an extended abstract when your presentation has already been accepted on the Oxford Abstracts (OA) conference platform?  See all the reasons why here: [https://www.tdwg.org/conferences/2024/why-extended-abstract/](https://www.tdwg.org/conferences/2024/why-extended-abstract/) 
 
-**Eligibility.** Only authors with abstracts [approved for presentation](/conferences/2024/#abstracts) at the conference are eligible to submit an extended abstract as a benefit of their registration for the conference. _The person submitting the extended abstract to BISS can be a different co-author from the one who submitted the original abstract to the conference program._ It is important that this submitting author be available to handle reviews in a timely manner.
+**Eligibility.** Only authors with abstracts [approved for presentation](/conferences/2024/#abstracts-submitted-to-oxford-abstracts)) at the conference are eligible to submit an extended abstract as a benefit of their registration for the conference. _The person submitting the extended abstract to BISS can be a different co-author from the one who submitted the original abstract to the conference program._ It is important that this submitting author be available to handle reviews in a timely manner.
 
 **Full instructions** for extended abstract submission may be found at [https://www.tdwg.org/conferences/2024/biss-abstract-submission/](/conferences/2024/biss-abstract-submission/) but if you are already familiar with abstract submission to _BISS_, you may elect to use the shorter summarized version, [https://www.tdwg.org/conferences/2024/biss-abstracts-tldr/](/conferences/2024/biss-abstracts-tldr/) 
 
