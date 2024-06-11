@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified:  13 May 2024
+Last modified:  10 June 2024
 
 ## SPNHC TDWG 2024 registration
 
@@ -35,7 +35,7 @@ So step up and sign up!
 
 - With your registration you agree to adhere to the [TDWG 2024 Code of Conduct](https://www.tdwg.org/conferences/2024/code-of-conduct/) during your participation in conference sessions, workshops, panels, field trips, social events, or all other activities related to the SPNHC-TDWG 2024 Conference.
 
-- It is your responsibility to obtain a [visa to travel to Japan](https://www.tdwg.org/conferences/2024/#visa-requirements) if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see [cancellation policy](/conferences/2024/registration/cancellation-policy)) before we can agree to assist you in support of your visa request. Please visit the [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/index.html) website for information about visas for traveling to Japan from your country.
+- It is your responsibility to obtain a visa to travel to Japan if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see [cancellation policy](/conferences/2024/registration/cancellation-policy)). To request a letter of invitation, see the [required information and instructions here](https://www.tdwg.org/conferences/2024/#visa-requirements).
 
 - **Member discounts:**  Members in either SPNHC or TDWG can obtain their usual discount by selecting the appropriate ticket type. We are not using codes this year to validate membership status. Validation will be done manually after registration.  If you are unsure of your membership status, please inquire with the appropriate membership manager in [SPNHC](mailto:membership@spnhc.org) or [TDWG](mailto:secretariat@tdwg.org).  TDWG _institutional_ members please note, the usual limit of 5 discounted registrations per membership still applies.  If you are sending more than 5 delegates, please coordinate which staff will take the institution's discounts, so the limit is not exceeded. 
 
