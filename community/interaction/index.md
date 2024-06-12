@@ -10,7 +10,6 @@ toc: true
 
 ## Conveners
 
-- [Antonio Mauro Saraiva](mailto:saraiva@usp.br) - Universidade de São Paulo, Escola Politécnica, Research Center on Biodiversity and Computing, São Paulo, Brazil
 - [Jen Hammock](mailto:hammockj@si.edu) - Encyclopedia of Life, Smithsonian National Museum of Natural History, Washington DC, USA
 
 ## Core members
