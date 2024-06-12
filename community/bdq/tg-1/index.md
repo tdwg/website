@@ -10,6 +10,8 @@ github: https://tdwg.github.io/bdq/tg1/site/
 toc: true
 ---
 
+**This task group has completed its work.  Please see the GitHub repository (linked above) for the results.**
+
 ## Convenor
 
 Allan Koch Veiga
