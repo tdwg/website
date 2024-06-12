@@ -16,11 +16,10 @@ list:
 
 ## Convener
 
-[Steve Baskauf](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt University Heard Libraries, Nashville, TN, USA
+- [Ed Baker](mailto:edward.baker@nhm.ac.uk) - Natural History Museum, London and University of York, UK
 
 ## Core members
 
-- Ed Baker - Natural History Museum, London and University of York, UK
 - Douglas Boyer - Department of Evolutionary Anthropology, Duke University, NC, USA
 - Niels Klazenga - Royal Botanic Gardens Victoria, Australia
 - Rebecca Snyder - Smithsonian Institution, National Museum of Natural History, Washington DC, USA
