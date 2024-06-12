@@ -6,10 +6,11 @@ background:
   href: https://unsplash.com/photos/jqTSl68betY
 toc: true
 ---
+Last modified: 12 June 2024
 
 ## What is the TDWG Community Support Fund?
 
-TDWG [Interest (IG) and Task (TG) Groups](/community/) are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG supports the work of IG/TGs by contributing to the costs of convening one or two working meetings.
+TDWG [Interest (IG) and Task (TG) Groups](/community/) are the organizational entities that undertake standards development and maintenance. Every year, if the budget permits, TDWG will support the work of one or two IG/TGs by contributing to the costs of convening a working meeting.
 
 ## What does the TDWG CSF cover?
 
@@ -25,7 +26,7 @@ Please be aware that proposals from Groups that have a current annual report wil
 
 ## Call frequency
 
-Provided that sufficient resources are available, a call for applications will be announced at least once every calendar year.
+Provided that sufficient resources are available, a call for applications will be announced once every calendar year.
 
 ## Evaluation criteria
 
@@ -35,17 +36,17 @@ Provided that sufficient resources are available, a call for applications will b
 1. Expected progress on development of new or revision of current TDWG standards
 1. Availability of matching funds from other sources (as percentage of total costs)
 
-_New Groups are here defined as formally endorsed IG and TG with less than a year's activity from the time of approval._
+\* _New Groups are those established (first charter approved) within the the last year (i.e., less than 365 days before the application deadline)._
 
 **Additional information and restrictions**
 
-The maximum amount of funds awarded per proposal is USD $3,000.
+The maximum amount of funds awarded per proposal is USD $5,000.
 
 Following successful completion of TDWG CSF-supported working meetings, the Convener must report to the TDWG Executive Committee key outputs and action items. Reports must be submitted within 30 days after the event date.
 
 ## Review and notification
 
-Applications received by the deadline will be reviewed by TDWG Executive Committee and evaluated against the criteria set forth above. Following the completion of the review, applicants will be notified of their scores and the Committee's decision. Successful proposals will be communicated to the TDWG membership and posted on the TDWG website.
+Applications received by the deadline will be reviewed by TDWG Executive Committee and evaluated against the criteria above. Following the completion of the review, applicants will be notified of their scores and the Committee's decision. Successful proposals will be communicated to the TDWG membership and posted on the TDWG website.
 
 ## Application form
 
