@@ -49,6 +49,6 @@ Registration for excursions is separate from meeting registration. When the excu
 
 Most excursions will be scheduled for Sunday (Sept 1) prior to the start of the meeting and Saturday (Sept 7), so please plan accordingly. An additional excursion (yes, it’s a secret for now) will be available on Aug 31/Sept 1 and on Sept 7/8.
 
-Please see the [meeting website](https://www.tdwg.org/conferences/2024/) for more information about the meeting, travel and accommodations. If you experience any difficulty with registration, please visit our registration FAQ.
+Please see the [meeting website](https://www.tdwg.org/conferences/2024/) for more information about the meeting, travel and accommodations. If you experience any difficulty with registration, please visit our [registration FAQ](/conferences/2024/registration/faq).
 
 If you have any questions, please email the Planning Committee at [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
