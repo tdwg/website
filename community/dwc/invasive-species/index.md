@@ -10,12 +10,13 @@ github: https://github.com/tdwg/sensitive-species-extension
 toc: true
 ---
 
-# Invasive Species Management Information Charter \
-A Task Group of Darwin Core Species Interest Group
+# Invasive Species Management Information Charter
+
+A Task Group of Darwin Core Maintenance Group
 
 ## Convenor
 
-Lien Reyserhove, Research Institute for Nature and Forest (INBO)
+[Lien Reyserhove](mailto:lien.reyserhove@inbo.be), Research Institute for Nature and Forest (INBO)
 
 
 ## Core Members
