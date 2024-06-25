@@ -11,7 +11,7 @@ toc: true
 
 _Translations:_ [🇯🇵 JA](./ja/)
 
-Last modified: 2024-03-03
+Last modified: 2024-06-25
 
 ## SPNHC – TDWG 2024 Code of Conduct
 
@@ -47,3 +47,5 @@ Okinawa Prefectural Government, Okinawa 21st Century Vision (in Japanese), [http
 Any breaches to this Code of Conduct are encouraged to be submitted to the meeting organizers at [ccc@tdwg.org](mailto:ccc@tdwg.org) or by locating a meeting organizer at the conference. All reports and the parties involved in alleged violations will be treated confidentially. All parties involved must be protected from any form of physical, verbal, or psychological abuse, threat, or retaliation when sharing their findings. Any act of retribution or intimidation (both directly or indirectly) towards reporters will be treated as a serious violation of this code. Resolution may be pursued by including the meeting venue authorities, security, and/or local law enforcement. 
 
 **Acknowledgement:  **This Code of Conduct was developed from the Codes created for the previous SPNHC, TDWG, and Biodiversity Heritage Library (BHL) Conferences. Members of the 2024 Conference Organizing Committee provided suggestions as well as useful feedback during the production of this Code of Conduct. Okinawa Convention & Visitors Bureau, Okinawa Prefecture Environment Science Center, and Okinawa Congrès Inc. contributed their local expertise to the segment on Okinawan cultural considerations.
+
+## [Frequently asked Questions (FAQ)](/conferences/2024/code-of-conduct/faq/)
