@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified:  10 June 2024
+Last modified:  25 June 2024
 
 ## SPNHC TDWG 2024 registration
 
@@ -37,7 +37,7 @@ So step up and sign up!
 
 - It is your responsibility to obtain a visa to travel to Japan if it is required for entry from your country of citizenship or residence. Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see [cancellation policy](/conferences/2024/registration/cancellation-policy)). To request a letter of invitation, see the [required information and instructions here](https://www.tdwg.org/conferences/2024/#visa-requirements).
 
-- **Member discounts:**  Members in either SPNHC or TDWG can obtain their usual discount by selecting the appropriate ticket type. We are not using codes this year to validate membership status. Validation will be done manually after registration.  If you are unsure of your membership status, please inquire with the appropriate membership manager in [SPNHC](mailto:membership@spnhc.org) or [TDWG](mailto:secretariat@tdwg.org).  TDWG _institutional_ members please note, the usual limit of 5 discounted registrations per membership still applies.  If you are sending more than 5 delegates, please coordinate which staff will take the institution's discounts, so the limit is not exceeded. 
+- **Member discounts:**  Members in either SPNHC or TDWG can obtain their usual discount by selecting the appropriate ticket type. We are not using codes this year to validate membership status. Validation will be done manually after registration.  If you are unsure of your membership status, please inquire with the appropriate membership manager in [SPNHC](mailto:membership@spnhc.org) or [TDWG](mailto:secretariat@tdwg.org).  TDWG _institutional_ members please note, the usual limit of 5 discounted registrations per membership still applies.  If you are sending more than 5 delegates, please coordinate which staff will take the institution's discounts, so the limit is not exceeded. Also, please be aware that **member discounts are not available for virtual participants.** The costs of equipment and staffing required to produce the conference virtually are among the largest expenses in the budget, and the tickets for virtual participants are already significantly reduced.
 
 ### Registration add-ons
 
