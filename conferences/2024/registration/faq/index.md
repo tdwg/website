@@ -8,6 +8,7 @@ background:
   href: 
 toc: true
 ---
+Last modified:  2024-06-25
 
 ## Frequently asked questions
 
@@ -21,3 +22,6 @@ The system matches registration email addresses with presenter email addresses t
   - please sign in with your existing account information
   - go to your profile and update the email address with the one on your abstract and the one you will use to register for the conference.
 - Alternatively, you update your abstract(s) with your current account email - best practice is to check all abstracts where you are a co-author but not the submitter
+
+
+Please also see the **[Frequently Asked Questions](/conferences/2024/code-of-conduct/faq/)** under the **[Code of Conduct](/conferences/2024/code-of-conduct/).**
