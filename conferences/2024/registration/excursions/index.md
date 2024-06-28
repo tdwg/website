@@ -24,9 +24,9 @@ All listed tours, excluding "Day Trip to Kerama Islands," are directly funded by
 
 ## Booking
 
-To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf).)
+To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.)
 
-### [Booking site](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top)
+### [Booking site](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top){:target="_blank"}
 
 ## Cancellation policy
 
