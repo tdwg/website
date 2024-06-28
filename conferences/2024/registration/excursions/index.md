@@ -9,3 +9,7 @@ background:
 toc: true
 ---
 
+
+
+[Excursion PDF](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf){:target="_blank"}
+
