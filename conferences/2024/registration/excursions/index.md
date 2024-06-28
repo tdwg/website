@@ -15,18 +15,20 @@ toc: true
 
 ## Tour descriptions
 
-For SPNHC-TDWG 2024 Excursion Bus tour course details, click **[HERE](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf){:target="_blank"}**<br />
-Each course has a set number of participants, so we look forward to your early application!
-
-## Booking
-
-To ensure fair use amongst participants, each traveler is eligible to book a maximum of one course, unless stated otherwise. If we discover that two or more Excursion Bus Tour courses are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked course(s).
+To see the details of the various Excursion Bus Tours offered in conjunction with SPNHC-TDWG 2024, click **[HERE](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf){:target="_blank"}**<br />
+Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
 
 ## Excursion costs
 
-All listed courses, excluding "Day Trip to Kerama Islands," are directly funded by the JAPAN TOURISM AGENCY, MINISTRY OF LAND, INFRASTRUCTURE, TRASNPORT AND TOURISM, GOVERNMENT OF JAPAN (“Japan Tourism Agency”), as part of an independent survey with an aim to demonstrate enhanced effects of international meetings held in Japan. All expected fees, unless stated otherwise, will be sustained in full through the budget allocated to the organizers by the Japan Tourism Agency. The participant will not be required to make payment for these fees at the time of booking.
+All listed tours, excluding "Day Trip to Kerama Islands," are directly funded by the JAPAN TOURISM AGENCY, MINISTRY OF LAND, INFRASTRUCTURE, TRASNPORT AND TOURISM, GOVERNMENT OF JAPAN (“Japan Tourism Agency”), as part of an independent survey with an aim to demonstrate enhanced effects of international meetings held in Japan. All expected fees, unless stated otherwise, will be paid in full through the budget allocated to the organizers by the Japan Tourism Agency. The participant will not be required to make payment for these fees unless except when a participant cancels a booking fewer than eight (8) days before the day of the tour (see cancellation policy below).
 
-## CANCELLATION POLICY
+## Booking
+
+To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf).)
+
+### [Booking site](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top)
+
+## Cancellation policy
 
 ### Cancellation fee schedule
 
