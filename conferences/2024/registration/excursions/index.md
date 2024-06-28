@@ -34,10 +34,10 @@ To ensure fair use amongst participants, each traveler is eligible to book **onl
 
 All relevant dates hereinunder are indicated in reference to local time in Japan (JST). Cancellation of participation must be requested in writing and is effective from the date we receive and confirm the written notification. Cancellations may be made up to eight days prior to the excursion date at no charge; thereinafter, a cancellation fee will be incurred at a maximum of 10,000 JPY at the following rates:
 
-1) 8 or more days’ notice prior to excursion date: No charge;
-2) 7 to 2 days’ notice prior to excursion date: 30% charge;
-3) 1 day’s notice prior to excursion date: 50% charge; and
-4) Notice received on or past the day of excursion date (no-show): 100% charge.
+  * 8 or more days’ notice prior to excursion date: No charge;
+  * 7 to 2 days’ notice prior to excursion date: 30% charge;
+  * 1 day’s notice prior to excursion date: 50% charge; and
+  * Notice received on or past the day of excursion date ("no-show"): 100% charge.
 
 ### Cancellation charges
 
