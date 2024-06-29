@@ -11,11 +11,11 @@ toc: true
 
 ## Registration deadline : August 2nd 17:00 (JST)
 
-## Scheduled date options: September 1st (Sun) or 7th (Sat)
+## Tour date options: September 1st (Sun) or 7th (Sat)
 
 ## Tour descriptions
 
-To see the details of the various Excursion Bus Tours offered in conjunction with SPNHC-TDWG 2024, click **[HERE](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf){:target="_blank"}**<br />
+To see the details of the various Excursion Bus Tours offered in conjunction with SPNHC-TDWG 2024, click **[HERE!](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf){:target="_blank"}**<br />
 Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
 
 ## Excursion costs
