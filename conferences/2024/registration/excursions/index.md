@@ -9,6 +9,8 @@ background:
 toc: true
 ---
 
+Last modified: 2024-06-28
+
 ## Registration deadline : August 2nd 17:00 (JST)
 
 ## Tour date options: September 1st (Sun) or 7th (Sat)
