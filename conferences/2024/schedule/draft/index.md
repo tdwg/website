@@ -10,9 +10,9 @@ toc: false
 ---
 Last modified 2024-07-01
 
-# DRAFT Schedule
+## DRAFT Schedule
 
-## View as [published GoogleSheet](http://bit.ly/3RNaEuI){:target="_blank"}
+### View as [published GoogleSheet](http://bit.ly/3RNaEuI){:target="_blank"}
 
-## View as (or download) [PDF](https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-schedule__DRAFT__1-july-2024.pdf){:target="_blank"}
+### View as (or download) [PDF](https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-schedule__DRAFT__1-july-2024.pdf){:target="_blank"}
 
