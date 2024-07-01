@@ -1,5 +1,5 @@
 ---
-title: SPNHC-TDWG 2024 DRAFT Program
+title: SPNHC-TDWG 2024 DRAFT Schedule
 description: >
  Version date: 1 July 2024
 background:
@@ -10,7 +10,7 @@ toc: false
 ---
 Last modified 2024-07-01
 
-# DRAFT Program (schedule)
+# DRAFT Schedule
 
 ## View as [published GoogleSheet](http://bit.ly/3RNaEuI){:target="_blank"}
 
