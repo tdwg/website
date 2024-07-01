@@ -10,5 +10,9 @@ toc: false
 ---
 Last modified 2024-07-01
 
+# DRAFT Program (schedule)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrOkzjhpIjWy_CWQtGngbTM9E75Kh31DIgdyt1ANeVXc64PMFB7upsihpZkguq7zSCGmcALKzAQCvD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800" style="border:0;" allowfullscreen=""></iframe>
+View as [published GoogleSheet](http://bit.ly/3RNaEuI)
+
+View as (or download) [PDF](https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-schedule__DRAFT__1-july-2024.pdf)
+
