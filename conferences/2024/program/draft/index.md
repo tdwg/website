@@ -11,4 +11,4 @@ toc: false
 Last modified 2024-07-01
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrOkzjhpIjWy_CWQtGngbTM9E75Kh31DIgdyt1ANeVXc64PMFB7upsihpZkguq7zSCGmcALKzAQCvD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrOkzjhpIjWy_CWQtGngbTM9E75Kh31DIgdyt1ANeVXc64PMFB7upsihpZkguq7zSCGmcALKzAQCvD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800" style="border:0;" allowfullscreen=""></iframe>
