@@ -56,6 +56,8 @@ The conferece days will be Monday - Friday (2-6 September), but note that Monday
 
 <img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
 
+### [DRAFT schedule of sessions](/conferences/2024/schedule/draft/)
+
 ## Conference program
 
 SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/).  
