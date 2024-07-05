@@ -66,7 +66,7 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 
 ### Call to submit extended abstracts to _BISS_
 
-The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/) in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/) is now open. See [why you should submit an extended abstract](/conferences/2024/why-extended-abtract/) when you have already had your abstract accepted in Oxford Abstracts. **Deadline for submission of extended abstracts is 15 July 2024.**
+The [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/) in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/) is now open. See [why you should submit an extended abstract](/conferences/2024/why-extended-abstract/) when you have already had your abstract accepted in Oxford Abstracts. **Deadline for submission of extended abstracts is 15 July 2024.**
 
 ### Abstracts submitted to Oxford Abstracts
 
