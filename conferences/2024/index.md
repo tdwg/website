@@ -44,11 +44,15 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 10 June 2024_
+_Last updated 8 July 2024_
 
-## [Registration is now open!](/conferences/2024/registration/)
+## [Conference registration is now open!](/conferences/2024/registration/)
 
 Please read the [important information](/conferences/2024/registration/) before you register!
+
+## [Excursion registration is open, too!](/conferences/2024/registration/excursions/)
+
+The registration sites for excursions associated with our conference are now open.  You can read [about these tours here](/conferences/2024/registration/excursions/). Please pay special attention to booking instructions and conditions. Some of these tours are offered free of charge, but capacity is limited, so book as soon as you can.
 
 ## Daily schedule
 
