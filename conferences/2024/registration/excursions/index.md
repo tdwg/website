@@ -34,8 +34,6 @@ Participants will not be required to provide payment for these tours (excluding 
 
 ### Where to register
 
-To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.)
-
 **YANBARU NATURE TOURS**
 
 **[Yanbaru Nature Tours Booking](https://acorn-okinawa.com/en/excursion-tour/){:target="_blank"}**
@@ -46,13 +44,15 @@ We do not have any special instructions for registration with Yanbaru Nature Tou
 
 **[Japan Tourism Agency Excursions Booking](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top){:target="_blank"}**
 
-[Excursion PDF](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf) (JTA excursions) - Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
+[Excursion descriptions (PDF)](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf) (JTA excursions) - Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
 
 If you choose to register for a JTA excursion, please be aware of the following:
 
   * You will need to register on the booking site before you can see any of the excursion details. Click the green “NEW USER” button in the upper left.
   * When you register you will be required to provide a Credit Card number. Although all excursions (not including Kerama) are free of charge, you will be billed a penalty if you do not show up for your booking. Please see the cancellation policy on the excursion registration site for more information.
   * Also when registering, you will need to provide your Oxford Abstracts order number from your registration for the SPNHC-TDWG meeting. You should have received an email with Subject: “You’re registered for SPNHC-TDWG 2024!” in which there will be an order number (e.g., #0109) at the top of that email message (you can also find your number if you log in to Oxford Abstracts). When you register through the excursion site, you will be asked for a “registration order number” – please enter your Oxford Abstracts order number. You may contact us via okinawa2024@spnhc.org if you cannot find your number.
+
+To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.)
 
 If you have any questions about JTA tours, payments or schedules, please contact the tour provider, Nippon Travel Agency Okinawa Co., LTD., directly using the contact provided in your confirmation email. To cancel please log in to the excursion registration site. Neither SPNHC nor TDWG is responsible for the planning of these tours. There are no discounts or other benefits offered by SPNHC-TDWG for these tours.
 
