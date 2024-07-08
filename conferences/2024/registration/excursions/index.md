@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified: 2024-06-28
+Last modified: 2024-07-08
 
 ## Registration deadline : August 2nd 17:00 (JST)
 
