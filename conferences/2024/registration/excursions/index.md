@@ -15,11 +15,6 @@ Last modified: 2024-06-28
 
 ## Tour date options: September 1st (Sun) or 7th (Sat)
 
-## Tour descriptions
-
-To see the details of the various Excursion Bus Tours offered in conjunction with SPNHC-TDWG 2024, click **[HERE!](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf){:target="_blank"}**<br />
-Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
-
 ## Excursion costs
 
 All excursions, excluding the day trip to the Kerama Islands and the Yanbaru nature tours, are funded by the generosity of the Japanese Government’s Japan Tourism Agency (a.k.a., Tourism Agency, MInistry of Land, Infrastructure, Transport, and Tourism). Thus, all excursions (excluding Kerama and Yanbaru), unless stated otherwise, are **free of charge.**
