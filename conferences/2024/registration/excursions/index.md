@@ -41,11 +41,11 @@ Participants will not be required to provide payment for these tours (excluding 
 
 To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.)
 
-#### YANBARU NATURE TOURS
+**YANBARU NATURE TOURS**
 
 We do not have any special instructions for registration with Yanbaru Nature Tours. The web site is clear and self-explanatory. These are very special, limited capacity tours led by local biodiversity experts (emphasis on birds and herps). If you have any questions about the tours, payments or schedules, please contact ACORN Okinawa directly. Neither SPNHC nor TDWG is responsible for the planning of these tours. There are no discounts or other benefits offered by SPNHC-TDWG for these tours.
 
-#### JAPAN TOURISM AGENCY EXCURSIONS
+**JAPAN TOURISM AGENCY EXCURSIONS**
 
 If you choose to register for a JTA excursion, please be aware of the following:
 
