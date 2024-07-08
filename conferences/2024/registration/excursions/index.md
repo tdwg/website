@@ -71,7 +71,7 @@ All relevant dates hereinunder are indicated in reference to local time in Japan
 
 In accordance with the cancellation fee schedule asindicated above, the organizer will issue a written notification to the traveler stating the amount to be charged with material expense details. Upon mutual confirmation, the organizer will charge the aforementioned amount to the credit card detail on file provided at the time of booking, and the traveler agrees to not make any improper chargebacks.
 
-### Disclaimer of responsibility
+## Disclaimer of responsibility
 
 Please be aware that neither the JAPAN TOURISM AGENCY, NIPPON TRAVEL AGENCY OKINAWA CO., LTD., CERULEAN BLUE OKINAWA, nor ACORN OKINAWA is affiliated with SPNHC or TDWG. SPNHC and TDWG do not receive any financial or other benefit from SPNHC-TDWG 2024 registrants participating in any tour or excursion offered. If you register for any JTA excursions or Yanbaru Nature Tours, SPNHC and TDWG are in no way responsible for you, your property or the excursions, including fee payments, scheduling, facilities, transportation, and damage or harm of any kind. All responsibility lies with the Nippon Travel Agency Okinawa Co., Ltd., Cerulean Blue OKINAWA, ACORN Okinawa or the individual participant. Please see Item #7 Limitation of Liability in the [Terms and Conditions document](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.
 
