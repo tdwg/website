@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-06-07
+Last modified 2024-07-09
 
 ## Index to sessions
 
@@ -37,7 +37,7 @@ Click a link to read the session abstract.
 | SYM09 | [Biodiversity Knowledge Linking: Progress after BiCIKL and beyond](#sym09) |
 | SYM10 | [Broadening Access, Community Science, Inclusion, Education, Outreach](#sym10) |
 | SYM11 | [Catalogue of Life as a Means to Harmonise and Unify Taxonomic Data Services](#sym11) |
-| SYM12 | [Computationally Tractable Taxon Circumscriptions for TCS](#sym12) |
+| SYM12 | WITHDRAWN [Computationally Tractable Taxon Circumscriptions for TCS](#sym12) |
 | SYM13 | [Controlled Vocabularies: The secret sauce that unlocks the power of data consistency and accessibility!](#sym13) |
 | SYM14 | [Emergence of Integrated Public Collection Services: Today's DES experiences for tomorrow's successes](#sym14) |
 | SYM15 | [Emergent AI Contributions to Biodiversity Data & Data Standardisation: Opportunities, challenges, and a year in review](#sym15) |
@@ -51,13 +51,13 @@ Click a link to read the session abstract.
 | SYM23 | [IUCN Red List Assessments: How can and do museums contribute?](#sym23) |
 | SYM24 | [Microscope Slide Curation, Conservation, and Access](#sym24) |
 | SYM25 | [Occurrences are Neither Specimens or Samples: Data modelling challenges and opportunities for information storage and exchange](#sym25) |
-| SYM26 | [Phenology: It's about time (for standards, best practices and integration)](#sym26) |
+| SYM26 | WITHDRAWN [Phenology: It's about time (for standards, best practices and integration)](#sym26) |
 | SYM27 | [Pre- & Post Disaster Management of Natural History Collections](#sym27) |
 | SYM28 | [Scaling Up Capacity to Address Global Biodiversity Goals for Data Mobilization and Use](#sym28) |
 | SYM29 | [Specify Spotlight: Enhancing biodiversity data management](#sym29) |
 | SYM30 | [SPNHC to TDWG: Bridging communities and building capacity for digital collections mobilization](#sym30) |
-| SYM31 | [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31) |
-| SYM32 | [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32) |
+| SYM31 | WITHDRAWN [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31) |
+| SYM32 | WITHDRAWN [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32) |
 | SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33) |
 | SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen)](#sym34) |
 | SYM35 | [Digitization Coordination](#sym35) |
@@ -108,7 +108,7 @@ The format of DemoCamp dictates that presentations must be “live, without a ne
 
 Session Type: Mixed session (talks, discussion, activity); Open to abstract submissions<br />
 Conference Track:  TDWG<br />
-Organizers:  **[Youcef Sklab](mailto:youcef.sklab@ird.fr), Eric Chenin, Eugeni Belda Cuesta**
+Organizers:  **[Youcef Sklab](mailto:youcef.sklab@ird.fr), Eric Chenin, Eugeni Belda Cuesta, Auguste Gardette**
 
 **Abstract**<br />
 This session will explore the application of AI across diverse biodiversity challenges. The objectives are 1) to illustrate the diversity of issues, data types and AI techniques applied, and 2) to examine the shared features among techniques and data, 3) setting the scene for identifying future avenues of possible standards regarding methods and architectures, and data used for training and testing.
@@ -279,7 +279,7 @@ Catalogue of Life should serve a range of different use cases, and be a valuable
 {:id="sym12"}
 ### SYM12 Computationally Tractable Taxon Circumscriptions for TCS	
 
-Session Type: Symposium; Open to abstract submissions<br />
+Session Type: Symposium; Open to abstract submissions **WITHDRAWN**<br />
 Conference Track:  TDWG<br />
 Organizers:  **[Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au), Johan Liljeblad**
 
@@ -472,7 +472,7 @@ The Occurrence class was ratified in Darwin Core fifteen years ago in response t
 {:id="sym26"}
 ### SYM26 Phenology: It's about time (for standards, best practices and integration)	
 
-Session Type: Symposium; Open to abstract submissions<br />
+Session Type: Symposium; Open to abstract submissions **WITHDRAWN**<br />
 Conference Track:  TDWG<br />
 Organizers:  **[Rob Guralnick](mailto:robgur@gmail.com)**
 
@@ -532,7 +532,7 @@ Members of the SPNHC and TDWG communities have been working towards a unified go
 {:id="sym31"}
 ### SYM31 Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines	
 
-Session Type: Mixed session (talks, discussion, activity); Open to abstract submissions<br />
+Session Type: Mixed session (talks, discussion, activity); Open to abstract submissions **WITHDRAWN**<br />
 Conference Track:  General interest<br />
 Organizers:  **[Austin Mast](mailto:amast@fsu.edu), David Jennings**
 
@@ -542,7 +542,7 @@ We seek to bridge strategic planning at collections, which centers on metrics of
 {:id="sym32"}
 ### SYM32 Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.	
 
-Session Type: Symposium; Open to abstract submissions<br />
+Session Type: Symposium; Open to abstract submissions **WITHDRAWN**<br />
 Conference Track:  SPNHC<br />
 Organizers:  **[Shanna M. Hillard](mailto:shannah@zoosociety.org)**
 
