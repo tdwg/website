@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified:  25 June 2024
+Last modified:  09 July 2024
 
 ## SPNHC TDWG 2024 registration
 
@@ -18,16 +18,6 @@ We are pleased to announce that registration for the SPNHC-TDWG 2024 Joint Meeti
 Before you register, please be aware of the **IMPORTANT** requirements around registration described below.
 
 [Register for SPNHC TDWG 2024!](https://register.oxfordabstracts.com/event/6771?preview=false){:.btn .btn-secondary}{:target="_blank"}
-
-### Special offer
-
-The **first 120 people** to register for in-person attendance by the end of June will be granted two special privileges. These individuals will be:
-
-1. Given exclusive early access to registration for our Okinawan excursions.
-
-2. Entered into a raffle to win one of many prizes. Five individuals will be selected to win one-year memberships to both SPNHC and TDWG. Other individuals will win fun prizes from Okinawa.
-
-So step up and sign up!
 
 ### IMPORTANT for registration
 
