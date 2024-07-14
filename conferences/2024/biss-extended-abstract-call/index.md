@@ -1,6 +1,6 @@
 ---
 title: Call for extended abstracts
-description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September. Deadline 15 July 2024.
+description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September. Deadline ~~15~~ 24 July 2024.
 background:
   img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
   by: Sammy Wong
@@ -10,7 +10,8 @@ toc: true
 
 _Last updated 13 July 2024_
 
-# Breaking News!
+
+## Breaking News!
 
 Have you given up on a BISS abstract because you can’t make the July 15th deadline?
 
@@ -22,15 +23,15 @@ Do you believe that you won’t have everything you need to complete your submis
 
 We have **extended the deadline to July 24th** for you to start your abstract. Now you have two options.
 
-## Option 1
+### Option 1
 
 If you’ve got everything you need, except a few extra hours, your wish has come true. You now have an extra 9 days to complete and submit your abstract for review. Our kudos to you.
 
-## Option 2
+### Option 2
 
 If you don’t have everything you want to include yet, Surprise!! All you need to get started is the abstract you submitted to Oxford Abstracts a couple of months ago. That’s all you need to start the process now – you can finish later and you have all of the details you want to include in your abstract. Just get it started and BISS will keep your place until you're done.
 
-### Here is what you need to do before July 24th.
+#### Here is what you need to do before July 24th
 
 1. Complete steps 1–4 under [Getting started](/conferences/2024/biss-abstracts-tldr/#getting-started) - this is the basic stuff, registering and starting your abstract.
 2. Complete steps 1–4 under [Abstract requirements](/conferences/2024/biss-abstracts-tldr/#abstract-required-fields) - just a few easy steps using the information you already submitted to Oxford Abstracts (in some cases, you don’t even need that much).
@@ -50,7 +51,8 @@ Oh, and, lest you become lazy or forgetful, we’ll remind you to get that abstr
 
 See the original call, including eligibility, full instructions and more information below.
 
-# Original call
+
+## Original call
 
 We are pleased to announce the call for extended abstracts (mini-papers) for the joint hybrid conference of SPNHC-TDWG 2024 to be published in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
 
