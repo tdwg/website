@@ -25,5 +25,5 @@ We expect detailed scheduling to be completed by mid July and will notify partic
 
 ### View as [published GoogleSheet](http://bit.ly/3RNaEuI)
 
-### View as (or download) [PDF](https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-schedule__DRAFT__1-july-2024.pdf){:target="_blank"}
+### View as (or download) [PDF](https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-schedule__DRAFT__16-july.pdf){:target="_blank"}
 
