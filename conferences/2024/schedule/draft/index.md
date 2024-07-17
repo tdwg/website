@@ -1,15 +1,13 @@
 ---
 title: SPNHC-TDWG 2024 DRAFT Schedule
 description: >
- Version date: 1 July 2024
+ Version date: 17 July 2024
 background:
   img: https://images.unsplash.com/photo-1583726933208-71489613d494
   by: Hiroko Yoshii
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-07-16
-
 ## DRAFT schedule of sessions
 
 We are pleased to share with you a more detailed version of our conference schedule, in which sessions have been given explicit dates and times. Please note that all times in this schedule are subject to change, though we do not anticipate any major revisions. 
@@ -23,5 +21,5 @@ We expect detailed scheduling to be completed by mid July and will notify partic
 
 ### View as [published GoogleSheet](http://bit.ly/3RNaEuI)
 
-### View as (or download) [PDF](https://static.tdwg.org/conferences/2024/spnhc-tdwg-2024-schedule__DRAFT__16-july.pdf){:target="_blank"}
+### View as (or download) [PDF](https://static.tdwg.org/conferences/2024/SPNHC-TDWG%202024%20DRAFT%20Schedule%20-%20Sessions.pdf){:target="_blank"}
 
