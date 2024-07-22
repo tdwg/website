@@ -8,7 +8,7 @@ background:
 toc: true
 ---
 
-_Last updated 13 July 2024_
+_Last updated 22 July 2024_
 
 
 ## Breaking News!
@@ -39,7 +39,7 @@ If you don’t have everything you want to include yet, Surprise!! All you need 
    2. If you do not have a copy of your OA abstract, leave it blank or [find it here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true)
    3. If you are missing other information, i.e., authors, fill them in later
 
-That’s it! Done! You’ve created a draft of your abstract. Now you can return to it later when you are ready to complete the process.
+That’s it! Done! You’ve created a draft of your abstract. Now you can return to it later when you are ready to complete the process. _No deadline to submit your abstract for review has been announced._
 
 **IMPORTANT!!  DO NOT SUBMIT** the abstract for review if you choose Option 2. When you complete the steps detailed above, your abstract should remain as a [draft](/conferences/2024/biss-abstract-submission/#abstract-status) that you can return to in ARPHA to complete at a later time (see #5 under [Getting Started](/conferences/2024/biss-abstracts-tldr/#getting-started)). Submitting your abstract for review prematurely will cause you to be unable to update and complete your abstract. Plus, our reviewers will be grateful to avoid having to edit your abstract twice.
 
