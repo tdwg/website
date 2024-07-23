@@ -23,7 +23,7 @@ A Task Group of Darwin Core Maintenance Group
 * Scott Brown, USGS
 * Matthew Neilson, USGS
 * Nicole Hernandez, USGS
-* Quentin Groom, Meise Botanical Garden
+* Quentin Groom, Meise Botanic Garden, Belgium
 * Kate Ingenloff, GBIF Secretariat
 * Yanina V. Sica, Justus Liebig University 
 * Anahita (Ani) Kazem, iDiv
