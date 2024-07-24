@@ -65,12 +65,12 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 
 ## Sponsors and supporters
 
-<img src="https://static.tdwg.org/conferences/2024/images/2024-sponsors-supporters.png" alt="supporters" usemap="#supporters"> 
+<img src="https://static.tdwg.org/conferences/2024/images/2024-sponsors-supporters.png" width="100%" alt="supporters" usemap="#supporters"> 
 <map name="supporters">
-	<area shape="rect" coords="38,78,346,318" alt="picturae" href="">
+	<area shape="rect" coords="38,78,346,318" alt="picturae" href="https://picturae.com/">
 	<area shape="rect" coords="373,126,935,270" alt="delta" href="">
 	<area shape="rect" coords="990,88,1234,298" alt="max" href="">
-	<area shape="rect" coords="248,357,500,464" alt="gbif" href="">
+	<area shape="rect" coords="248,357,500,464" alt="gbif" href="https://www.gbif.org/">
 	<area shape="rect" coords="725,364,1015,453" alt="idigbio" href="">
 	<area shape="rect" coords="123,515,390,592" alt="truevue" href="">
 	<area shape="rect" coords="536,513,747,592" alt="ala" href="">
