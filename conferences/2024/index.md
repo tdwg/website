@@ -65,16 +65,16 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 
 ## Sponsors and supporters
 
-<img src="https://static.tdwg.org/conferences/2024/images/2024-sponsors-supporters.png" width="100%" alt="supporters" usemap="#supporters"> 
+<img src="https://static.tdwg.org/conferences/2024/images/2024-sponsors-supporters.png" width="856px" alt="supporters" usemap="#supporters"> 
 <map name="supporters">
-	<area shape="rect" coords="25,52,231,213" alt="picturae" href="https://picturae.com/">
-	<area shape="rect" coords="373,126,935,270" alt="delta" href="">
-	<area shape="rect" coords="990,88,1234,298" alt="max" href="">
-	<area shape="rect" coords="248,357,500,464" alt="gbif" href="https://www.gbif.org/">
-	<area shape="rect" coords="725,364,1015,453" alt="idigbio" href="">
-	<area shape="rect" coords="123,515,390,592" alt="truevue" href="">
-	<area shape="rect" coords="536,513,747,592" alt="ala" href="">
-	<area shape="rect" coords="890,526,1131,579" alt="pensoft" href="">
+	<area shape="rect" coords="25,52,231,213" alt="picturae" href="https://www.picturae.com/">
+	<area shape="rect" coords="249,84,625,181" alt="delta" href="https://www.deltadesignsltd.com/">
+	<area shape="rect" coords="662,59,825,199" alt="max" href="https://maxcommunications.co.uk/">
+	<area shape="rect" coords="166,239,334,311" alt="gbif" href="https://www.gbif.org">
+	<area shape="rect" coords="485,244,679,303" alt="idigbio" href="https://www.idigbio.org/">
+	<area shape="rect" coords="82,345,261,396" alt="truevue" href="https://tru-vue.com/">
+	<area shape="rect" coords="358,343,500,396" alt="ala" href="https://www.ala.org.au/">
+	<area shape="rect" coords="595,352,756,388" alt="pensoft" href="https://pensoft.net/">
 </map>
 
 ## Abstracts
