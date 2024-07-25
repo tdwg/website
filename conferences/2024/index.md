@@ -66,32 +66,32 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 ## Sponsors and supporters
 
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://picturae.com">
+  <a href="https://picturae.com" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/picturae-400.png" alt="Picturae" width="180">
   </a>
-  <a href="https://www.deltadesignsltd.com/">
+  <a href="https://www.deltadesignsltd.com/" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" alt="Delta Designs Ltd / Bruynzeel Storage Systems" width="400">
   </a>
-  <a href="https://maxcommunications.co.uk/">
+  <a href="https://maxcommunications.co.uk/" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" alt="Max Digitization and Archiving Services" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://gbif.org">
+  <a href="https://gbif.org" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/gbif-400.png" alt="Global Biodiversity Information Facility" width="160">
   </a>
-  <a href="https://idigbio.org">
+  <a href="https://idigbio.org" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" alt="iDigBio" width="160">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://tru-vue.com/">
+  <a href="https://tru-vue.com/" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue.png" alt="Tru Vue, Inc.: Glass and Acrylic Glazing Solutions" width="160">
   </a>
-  <a href="https://ala.org.au">
+  <a href="https://ala.org.au" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="160">
   </a>
-  <a href="https://pensoft.net">
+  <a href="https://pensoft.net" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="160">
   </a>
 </p>
