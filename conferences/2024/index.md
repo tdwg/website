@@ -65,9 +65,7 @@ SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning tal
 
 ## Sponsors and supporters
 
-<!-- a href="/conferences/2024/sponsors-supporters/ -- > 
-  <img src="https://static.tdwg.org/conferences/2024/images/2024-sponsors-supporters.png" width="856px" alt="supporters"> 
-<!-- /a -->
+<img src="https://static.tdwg.org/conferences/2024/images/2024-sponsors-supporters.png" width="856px" alt="supporters"> 
 
 ## Abstracts
 
