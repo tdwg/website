@@ -6,31 +6,73 @@ background:
   img: https://static.tdwg.org/conferences/2024/images/occ-by-sajames.jpg
   by: Shelley James
   href: 
-toc: false
+toc: true
 ---
 
 ## Diamond level
 
-![Delta Designs](https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg) Delta Designs
+### Delta Designs Ltd/Bruynzeel Storage Systems
 
-![Max](https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg) Max Communications 
+<a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" width="300px"></a>
 
-![Picturae](https://static.tdwg.org/conferences/2024/images/sponsors/picturae-400.png) | Picturae |
+Delta Designs Ltd/Bruynzeel Storage Systems specializes in the custom designs, professional manufacture and personal installation of quality museum storage equipment.
+
+Our products meet the highest standards of conservation practice for historical artifacts, art objects, textiles, scientific specimens and archival materials.
+
+{:id="max"}
+### <a href="" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" width="170px"></a>
+
+Max is a world-leading digitisation company with extensive experience in digitising and extracting metadata for internationally renowned institutions. We specialise in both life science and historic archive collections, earning the trust of institutions for our ability to handle precious and often fragile collections. Our commitment to delivering excellent digitisation services is built on innovative and leading-edge solutions.
+
+Our clients return time and again because we prioritise developing friendly, mutually beneficial long-term relationships. This approach ensures high satisfaction and consistently successful project outcomes.In addition to our work with other life science collections, we are currently over 50% through the digitisation and data extraction of more than eight million herbarium specimens at the Royal Botanical Gardens, Kew. We are delighted to report that the project is highly successful on all levels.
+
+We look forward to meeting you at the SPNHC-TDWG 2024 conference and exploring how we may assist with your collections' needs!
+
+
+### Picturae
+
+<a href="https://picturae.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/picturae-400.png" width="170px"></a>
+
+Picturae offers solutions exclusively for cultural heritage and natural history collections and can use our 25 years worth of experience to design a custom solution for your institution.
+
+Bigger audiences await the information in your physical collection, and Picturae can connect physical to digital to make this possible. By providing a holistic digitization journey, Picturae transforms a physical collection into a fully digital, searchable, and accessible tool.
+
+That is a future worth planning for, and Picturae is here to help you get there.
 
 ## Gold level
 
-iDigBio
+### iDigBio
+
+<a href="https:/www.idigbio.org/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" width="170px"></a>
+
+
 
 ## Silver level
 
-Global Biodiversity Information Facility
+### Global Biodiversity Information Facility
+
+<a href="https://gbif.org"  target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/gbif-400.png" width="170px"></a>
+
+
 
 ## Bronze level
 
-Atlas of Living Australia
+### Atlas of Living Australia
 
-Tru Vue
+<a href="https://ala.org.au" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" width="170px"></a>
+
+
+
+### Tru Vue
+
+<a href="https://tru-vue.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue.png" width="170px"></a>
+
+
 
 ## Supporting partner
 
-Pensoft Publishers
+### Pensoft Publishers
+
+<a href="https://pensoft.net/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" width="170px"></a>
+
+
