@@ -21,10 +21,10 @@ toc: true
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-  <a href="gbif.org">
+  <a href="https://gbif.org">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/gbif-400.png" alt="Global Biodiversity Information Facility" width="160">
   </a>
-  <a href="idigbio.org">
+  <a href="https://idigbio.org">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" alt="iDigBio" width="160">
   </a>
 </p>
@@ -35,7 +35,8 @@ toc: true
   <a href="https://ala.org.au">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="160">
   </a>
-  <a href="pensoft.net">
+  <a href="https://pensoft.net">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="160">
   </a>
 </p>
+
