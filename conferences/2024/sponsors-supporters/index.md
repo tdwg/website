@@ -11,9 +11,8 @@ toc: true
 
 ## Diamond level
 
-### Delta Designs Ltd/Bruynzeel Storage Systems
-
-<a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" width="300px"></a>
+{:id="delta"}
+### <a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" width="300px"></a>
 
 Delta Designs Ltd/Bruynzeel Storage Systems specializes in the custom designs, professional manufacture and personal installation of quality museum storage equipment.
 
@@ -28,10 +27,8 @@ Our clients return time and again because we prioritise developing friendly, mut
 
 We look forward to meeting you at the SPNHC-TDWG 2024 conference and exploring how we may assist with your collections' needs!
 
-
-### Picturae
-
-<a href="https://picturae.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/picturae-400.png" width="170px"></a>
+{:id="picturae"}
+### <a href="https://picturae.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/picturae-400.png" width="170px"></a>
 
 Picturae offers solutions exclusively for cultural heritage and natural history collections and can use our 25 years worth of experience to design a custom solution for your institution.
 
@@ -41,38 +38,31 @@ That is a future worth planning for, and Picturae is here to help you get there.
 
 ## Gold level
 
-### iDigBio
-
-<a href="https:/www.idigbio.org/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" width="170px"></a>
+{:id="iDigBio"}
+### <a href="https:/www.idigbio.org/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" width="170px"></a>
 
 
 
 ## Silver level
 
-### Global Biodiversity Information Facility
-
-<a href="https://gbif.org"  target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/gbif-400.png" width="170px"></a>
+{:id="gbif"}
+### <a href="https://gbif.org"  target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/gbif-400.png" width="170px"></a>
 
 
 
 ## Bronze level
 
-### Atlas of Living Australia
-
-<a href="https://ala.org.au" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" width="170px"></a>
-
+{:id="ala"}
+### <a href="https://ala.org.au" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" width="170px"></a>
 
 
-### Tru Vue
-
-<a href="https://tru-vue.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue.png" width="170px"></a>
+{:id="truevue"}
+### <a href="https://tru-vue.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue.png" width="170px"></a>
 
 
 
 ## Supporting partner
 
-### Pensoft Publishers
-
-<a href="https://pensoft.net/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" width="170px"></a>
-
+{:id="pensoft"}
+### <a href="https://pensoft.net/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" width="170px"></a>
 
