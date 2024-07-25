@@ -12,7 +12,7 @@ toc: true
 ## Diamond level
 
 {:id="delta"}
-### <a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" width="300px"></a>
+### <a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" style="float:left" width="300px"></a>
 
 Delta Designs Ltd/Bruynzeel Storage Systems specializes in the custom designs, professional manufacture and personal installation of quality museum storage equipment.
 
