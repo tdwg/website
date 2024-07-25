@@ -12,14 +12,14 @@ toc: true
 ## Diamond level
 
 {:id="delta"}
-### <a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" style="float:left" width="300px"></a>
+<a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" style="float:left" width="300px"></a> 
 
 Delta Designs Ltd/Bruynzeel Storage Systems specializes in the custom designs, professional manufacture and personal installation of quality museum storage equipment.
 
 Our products meet the highest standards of conservation practice for historical artifacts, art objects, textiles, scientific specimens and archival materials.
 
 {:id="max"}
-### <a href="" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" width="170px"></a>
+### <a href="" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" style="float:left" width="170px"></a>
 
 Max is a world-leading digitisation company with extensive experience in digitising and extracting metadata for internationally renowned institutions. We specialise in both life science and historic archive collections, earning the trust of institutions for our ability to handle precious and often fragile collections. Our commitment to delivering excellent digitisation services is built on innovative and leading-edge solutions.
 
