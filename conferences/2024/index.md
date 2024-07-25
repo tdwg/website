@@ -41,7 +41,7 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 24 July 2024_
+_Last updated 25 July 2024_
 
 ## [Conference registration is now open!](/conferences/2024/registration/)
 
