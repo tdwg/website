@@ -14,7 +14,7 @@ toc: true
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/picturae-400.png" alt="Picturae" width="180">
   </a>
   <a href="https://www.deltadesignsltd.com/">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" alt="Delta Designs Ltd / Bruynzeel Storage Systems" width="180">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" alt="Delta Designs Ltd / Bruynzeel Storage Systems" width="400">
   </a>
   <a href="https://maxcommunications.co.uk/">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" alt="Max Digitization and Archiving Services" width="180">
