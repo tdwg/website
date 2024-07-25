@@ -30,12 +30,12 @@ toc: true
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://tru-vue.com/">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue.png" alt="Tru Vue, Inc.: Glass and Acrylic Glazing Solutions" width="180">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue.png" alt="Tru Vue, Inc.: Glass and Acrylic Glazing Solutions" width="160">
   </a>
   <a href="https://ala.org.au">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="180">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="160">
   </a>
   <a href="pensoft.net">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="180">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="160">
   </a>
 </p>
