@@ -15,10 +15,12 @@ toc: true
 <a href="https://www.deltadesignsltd.com/" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/delta-combined.jpg" style="float:left" width="300px"></a> 
 Delta Designs Ltd/Bruynzeel Storage Systems specializes in the custom designs, professional manufacture and personal installation of quality museum storage equipment.
 
-Our products meet the highest standards of conservation practice for historical artifacts, art objects, textiles, scientific specimens and archival materials.<br />
+Our products meet the highest standards of conservation practice for historical artifacts, art objects, textiles, scientific specimens and archival materials.
+
+<br />
 
 {:id="max"}
-<a href="" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" style="float:left" width="170px"></a> Max is a world-leading digitisation company with extensive experience in digitising and extracting metadata for internationally renowned institutions. We specialise in both life science and historic archive collections, earning the trust of institutions for our ability to handle precious and often fragile collections. Our commitment to delivering excellent digitisation services is built on innovative and leading-edge solutions.
+<a href="" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/sponsors/max-sqy.jpg" style="float:left; padding:15px" width="170px"></a> Max is a world-leading digitisation company with extensive experience in digitising and extracting metadata for internationally renowned institutions. We specialise in both life science and historic archive collections, earning the trust of institutions for our ability to handle precious and often fragile collections. Our commitment to delivering excellent digitisation services is built on innovative and leading-edge solutions.
 
 Our clients return time and again because we prioritise developing friendly, mutually beneficial long-term relationships. This approach ensures high satisfaction and consistently successful project outcomes.In addition to our work with other life science collections, we are currently over 50% through the digitisation and data extraction of more than eight million herbarium specimens at the Royal Botanical Gardens, Kew. We are delighted to report that the project is highly successful on all levels.
 
