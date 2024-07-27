@@ -37,8 +37,8 @@ We are currently witnessing an unprecedented loss of biodiversity, yet biodivers
 ## Tom Strang
 
 <div>
-  <div  style="float:left;padding-right:10px;width:240px">
-    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="240px">
+  <div  style="float:left;box-sizing: border-box;padding-right:10px;width:240px">
+    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="230px">
   </div>
   <div>
     <p>BSc in Biology from Carleton University in Ottawa,<br />
