@@ -15,7 +15,7 @@ toc: true
   <div  style="float:left;width:30%">
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="240px"> 
   </div>
-  <div style="width:70%">
+  <div>
     <p>Assistant Professor of AI and Decision Making, 
       Massachusetts Insitute of Technology, Electrical Engineering and Computer Science; and <br />
       Computer Science & Artificial Intelligence Laboratory, Biodiversity Lead, Climate Change <br /> 
