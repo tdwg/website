@@ -1,7 +1,7 @@
 ---
 title: Keynote Speakers
 description: >
- SPNHC & TDWG Joint Conference - Keynote speakers, 2 September, Monday 15:30 - 17:00
+ SPNHC & TDWG Joint Conference - Keynote speakers,<br />2 September, Monday 13:00 - 15:00
 background:
   img: https://images.unsplash.com/photo-1573055418049-c8e0b7e3403b
   by: Antoine Julien
