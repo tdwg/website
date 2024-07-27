@@ -11,7 +11,7 @@ toc: true
 
 
 ## Sara Berry
-<div style="float:clear">
+<div>
   <div  style="float:left;width:30%">
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="250px"> 
   </div>
@@ -24,8 +24,7 @@ toc: true
     </p>
   </div>
 </div>
-
-<div style="float:clear">
+<div style="float:clear">&nbsp;</div>
 
 **Title:  Challenges and Opportunities at the Intersection of AI and Biodiversity**
 
