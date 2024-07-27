@@ -12,8 +12,8 @@ toc: true
 
 ## Sara Beery
 <div>
-  <div  style="float:left;padding-right:10px;width:240px">
-    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="240px"> 
+  <div  style="float:left;box-sizing: border-box;padding-right:10px;width:240px">
+    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="230px"> 
   </div>
   <div>
     <p>Assistant Professor of AI and Decision Making, 
