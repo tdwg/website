@@ -13,7 +13,7 @@ toc: true
 ## Sara Berry
 <div>
   <div  style="float:left;width:30%">
-    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg"> 
+    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="200px"> 
   </div>
   <div style="width:70%">
     <p>Homer A. Burnell Career Development Assistant Professor of AI and Decision Making, MIT EECS and CSAIL<br />
