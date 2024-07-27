@@ -16,11 +16,12 @@ toc: true
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="240px"> 
   </div>
   <div style="width:70%">
-    <p>Homer A. Burnell Career Development Assistant Professor of AI and Decision Making, MIT EECS and <br />
-      CSAIL Biodiversity Lead, Climate Change AI<br />
-      Founder and Director, CV4Ecology<br />
+    <p>Assistant Professor of AI and Decision Making, 
+      Massachusetts Insitute of Technology, Electrical Engineering and Computer Science; and <br />
+      Computer Science & Artificial Intelligence Laboratory, Biodiversity Lead, Climate Change <br /> 
+      Founder and Director, Computer Vision for Ecology (CV4Ecology)<br />
       <br />
-      Bio Info: https://beerys.github.io/
+      Bio Info: [https://beerys.github.io/](https://beerys.github.io/)
     </p>
   </div>
 </div>
