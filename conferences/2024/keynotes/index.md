@@ -41,7 +41,8 @@ We are currently witnessing an unprecedented loss of biodiversity, yet biodivers
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="240px">
   </div>
   <div>
-    <p>BSc in biology from Carleton University in Ottawa, a Master’s in Art Conservation from Queens University in Kingston, and <br />
+    <p>BSc in biology from Carleton University in Ottawa,<br />
+     Master’s in Art Conservation from Queens University in Kingston, and<br />
      PhD in conservation from the University of Gothenburg.<br />
      <br />
      Recipient of the SPNHC Carolyn Rose Award, 2014.
