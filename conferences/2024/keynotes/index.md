@@ -11,20 +11,19 @@ toc: true
 
 
 ## Sara Berry
-<div>
+<div style="float:clear">
   <div  style="float:left;width:30%">
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="200px"> 
   </div>
   <div style="width:70%">
-    <p>Homer A. Burnell Career Development Assistant Professor of AI and Decision Making, MIT EECS and CSAIL<br />
-      Biodiversity Lead, Climate Change AI<br />
+    <p>Homer A. Burnell Career Development Assistant Professor of AI and Decision Making, MIT EECS and <br />
+      CSAIL Biodiversity Lead, Climate Change AI<br />
       Founder and Director, CV4Ecology<br />
       <br />
       Bio Info: https://beerys.github.io/
     </p>
   </div>
 </div>
-
 
 **Title:  Challenges and Opportunities at the Intersection of AI and Biodiversity**
 
