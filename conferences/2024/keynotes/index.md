@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-## Sara Berry
+## Sara Beery
 <div>
   <div  style="float:left;width:30%">
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="240px"> 
