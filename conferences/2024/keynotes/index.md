@@ -13,7 +13,7 @@ toc: true
 ## Sara Berry
 <div>
   <div  style="float:left;width:30%">
-    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="250px"> 
+    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="240px"> 
   </div>
   <div style="width:70%">
     <p>Homer A. Burnell Career Development Assistant Professor of AI and Decision Making, MIT EECS and <br />
@@ -24,7 +24,7 @@ toc: true
     </p>
   </div>
 </div>
-<div style="float:clear">&nbsp;</div>
+<div style="clear:left">&nbsp;</div>
 
 **Title:  Challenges and Opportunities at the Intersection of AI and Biodiversity**
 
