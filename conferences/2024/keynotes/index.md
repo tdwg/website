@@ -12,7 +12,7 @@ toc: true
 
 ## Sara Beery
 <div>
-  <div  style="float:left;width:240px">
+  <div  style="float:left;padding-right:10px;width:240px">
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/beery-sqr.jpg" width="240px"> 
   </div>
   <div>
@@ -37,7 +37,7 @@ We are currently witnessing an unprecedented loss of biodiversity, yet biodivers
 ## Tom Strang
 
 <div>
-  <div  style="float:left;width:30%">
+  <div  style="float:left;padding-right:10px;width:240px">
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="240px">
   </div>
   <div>
