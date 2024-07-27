@@ -36,4 +36,27 @@ We are currently witnessing an unprecedented loss of biodiversity, yet biodivers
 
 ## Tom Strang
 
-<img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="30%">
+<div>
+  <div  style="float:left;width:30%">
+    <img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="240px">
+  </div>
+  <div>
+    <p>BSc in biology from Carleton University in Ottawa, a Master’s in Art Conservation from Queens University in Kingston, and <br />
+     PhD in conservation from the University of Gothenburg.<br />
+     <br />
+     Recipient of the SPNHC Carolyn Rose Award, 2014.
+    </p>
+  </div>
+</div>
+<div style="clear:left">&nbsp;</div>
+
+**Title:** 
+
+**Abstract**
+
+What started as a single conversation with Dr. Rika Kigawa at the 2001 Pest Odyssey conference in London, England about the transition away from methyl bromide (MeBr) fumigation and the applicability of alternatives to the protection of cultural property became a 23-year collaboration with Japanese colleagues. 
+
+Over the following year we conversed about the changes in Canada that I had participated in from the mid-1980’s to 2000’s and the positive examples for Japan. In 1999, Dr. Kigawa had started a five-year federal research program to respond to the loss of MeBr for cultural property protection. In 2003 we visited five Canadian institutions with long running IPM programs to interview staff on the success and challenges with adopting IPM. By 2004 we had organized a three-day workshop with practicum on IPM that introduced many professionals from Japan and Korea to the insects and alternative methods required to carry out IPM programs in their university collections and museums. 
+
+By 2005 MeBr use was limited and ceased to be available in Japan. Subsequently many institutions no longer had access to MeBr fumigation for eradicating insect pests unless they switched to carbon dioxide or anoxic methods. Ethylene oxide has remained available as a major fumigant for treating mould and as a quarantine treatment for importing foreign sourced objects, however it will no longer be available for cultural sectors by March 2025.   A few mid-sized pest control firms had interest in providing alternative methods to museums, were engaged in the education process, and now have a long running association as service providers. 
+While low temperature thermal control predominated, interest remained in elevated temperature approaches. When the UNESCO World Heritage site at Nikko was determined to have a pernicious threat from novel anobiid species threatening 103 buildings, Dr. Kigawa’s research applied moisture-content controlled heating for timber structure disinfestation.
