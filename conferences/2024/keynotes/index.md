@@ -21,7 +21,7 @@ toc: true
       Computer Science & Artificial Intelligence Laboratory, Biodiversity Lead, Climate Change <br /> 
       Founder and Director, Computer Vision for Ecology (CV4Ecology)<br />
       <br />
-      Bio Info: [https://beerys.github.io/](https://beerys.github.io/)
+      Bio Info: <a href="https://beerys.github.io/">https://beerys.github.io/</a>
     </p>
   </div>
 </div>
@@ -29,7 +29,7 @@ toc: true
 
 **Title:  Challenges and Opportunities at the Intersection of AI and Biodiversity**
 
-**Abstract:**
+**Abstract**
 
 We are currently witnessing an unprecedented loss of biodiversity, yet biodiversity is vital to sustainable development, public health, and mitigating climate change. To better understand and hopefully mitigate this loss, natural-world data is being collected at unprecedented scales from networks of ground-level sensors, satellites, drones, DNA collections, and community science platforms. There is valuable scientific information stored in these raw data, the vast majority of which are as-yet inaccessible due to the time and resources needed to process the data by small groups of relevant human experts. AI will prove crucial to facilitate efficient extraction of scientific insight from quickly-growing repositories of natural world data, but in order to realize the goal of global-scale, near-real-time biodiversity monitoring we must shift the AI research paradigm beyond highly curated datasets to capture the complexities of the real world, including strong spatiotemporal correlations, imperfect data quality, fine-grained categories, and long-tailed distributions. Beyond the inherent challenges of the data itself, the target is also moving - taxonomies are constantly debated and in flux, data infrastructure and protocols aren't standardized, and there are ongoing and important discussions about data ownership, sovereignty, and the risks of sharing data, particularly for at-risk species. I will discuss the implications of these challenges and the impactful new avenues of research they outline at the intersection of AI and Biodiversity, and highlight exciting recent efforts towards AI-enabled biodiversity monitoring that operate within and overcome these constraints.
 </div>
