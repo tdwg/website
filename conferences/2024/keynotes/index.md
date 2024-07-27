@@ -41,9 +41,9 @@ We are currently witnessing an unprecedented loss of biodiversity, yet biodivers
     <img src="https://static.tdwg.org/conferences/2024/images/keynotes/strang-sqr.jpg" width="240px">
   </div>
   <div>
-    <p>BSc in biology from Carleton University in Ottawa,<br />
+    <p>BSc in Biology from Carleton University in Ottawa,<br />
      Master’s in Art Conservation from Queens University in Kingston, and<br />
-     PhD in conservation from the University of Gothenburg.<br />
+     PhD in Conservation from the University of Gothenburg.<br />
      <br />
      Recipient of the SPNHC Carolyn Rose Award, 2014.
     </p>
@@ -51,7 +51,7 @@ We are currently witnessing an unprecedented loss of biodiversity, yet biodivers
 </div>
 <div style="clear:left">&nbsp;</div>
 
-**Title:** 
+**Title:** 一期一会  (Ichi go ichi e) One lifetime, one chance meeting
 
 **Abstract**
 
