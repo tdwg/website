@@ -57,15 +57,15 @@ The conferece days will be Monday - Friday (2-6 September), but note that Monday
 
 <img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
 
-### [Keynote Speakers](/conferences/2024/keynotes/)
-
-SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our opening plenary session. Don’t miss [Dr. Sara Beery](https://www.tdwg.org/conferences/2024/keynotes/#sara-beery), Assistant Professor of AI and Decision Making from MIT and [Dr. Tom Strang](https://www.tdwg.org/conferences/2024/keynotes/#tom-strang), Conservator Extraordinaire and recipient of the 2014 SPNHC Carolyn Rose Award.
-
 ### [DRAFT schedule of sessions](/conferences/2024/schedule/draft/)
 
 ## Conference program
 
 SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/).  
+
+### [Keynote Speakers](/conferences/2024/keynotes/)
+
+SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our opening plenary session. Don’t miss [Dr. Sara Beery](https://www.tdwg.org/conferences/2024/keynotes/#sara-beery), Assistant Professor of AI and Decision Making from MIT and [Dr. Tom Strang](https://www.tdwg.org/conferences/2024/keynotes/#tom-strang), Conservator Extraordinaire and recipient of the 2014 SPNHC Carolyn Rose Award.
 
 ## Sponsors and supporters
 
