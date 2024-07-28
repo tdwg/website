@@ -41,7 +41,7 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 25 July 2024_
+_Last updated 28 July 2024_
 
 ## [Conference registration is now open!](/conferences/2024/registration/)
 
@@ -56,6 +56,10 @@ The registration sites for excursions associated with our conference are now ope
 The conferece days will be Monday - Friday (2-6 September), but note that Monday is a half-day beginning after lunch with the welcoming remarks and plenary presentations. Specially arranged excursions will be offered on the preceding Sunday (1 September) and the following Saturday (7 September). An initial list of excursions on the bracketing days will be announced soon. We expect the excursions to be popular and space limited, so stay tuned.  (Also be aware that early access will be granted to the first 120 registrants!)
 
 <img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
+
+### [Keynote Speakers](/conferences/2024/keynotes/)
+
+SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our opening plenary session. Don’t miss [Dr. Sara Beery](https://www.tdwg.org/conferences/2024/keynotes/#sara-beery), Assistant Professor of AI and Decision Making from MIT and [Dr. Tom Strang](https://www.tdwg.org/conferences/2024/keynotes/#tom-strang), Conservator Extraordinaire and recipient of the 2014 SPNHC Carolyn Rose Award.
 
 ### [DRAFT schedule of sessions](/conferences/2024/schedule/draft/)
 
