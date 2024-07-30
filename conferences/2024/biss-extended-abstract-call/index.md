@@ -31,7 +31,7 @@ If you’ve got everything you need, except a few extra hours, your wish has com
 
 If you don’t have everything you want to include yet, Surprise!! All you need to get started is the abstract you submitted to Oxford Abstracts a couple of months ago. That’s all you need to start the process now – you can finish later and you have all of the details you want to include in your abstract. Just get it started and BISS will keep your place until you're done.
 
-#### Here is what you need to do before July 24th
+#### Here is what you need to do
 
 1. Complete steps 1–4 under [Getting started](/conferences/2024/biss-abstracts-tldr/#getting-started) - this is the basic stuff, registering and starting your abstract.
 2. Complete steps 1–4 under [Abstract requirements](/conferences/2024/biss-abstracts-tldr/#abstract-required-fields) - just a few easy steps using the information you already submitted to Oxford Abstracts (in some cases, you don’t even need that much).
