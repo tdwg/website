@@ -9,9 +9,13 @@ background:
 toc: true
 ---
 
-_Last modified: 30 July 2024
+_Last modified: 30 July 2024_
 
 ## Bingo night
+
+Date, venue, transportation, cost
+
+What is "bingo"?
 
 
 ## T-shirt
