@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-07-09
+Last modified 2024-07-30
 
 ## Index to sessions
 
@@ -19,12 +19,8 @@ Click a link to read the session abstract.
 | CTRB01 | [General Presentations: Enhancing local capacity, elevating global standards](#ctrb01) |
 | CTRB02 | [Contributed oral presentations related to any aspect of SPNHC or TDWG interest](#ctrb02) |
 | DEMO01 | [DemoCamp: Live demonstrations of technology for natural history collections and biodiversity data](#demo01) |
-| LTNG01 | see SYM35 [Digitization Coordination](#sym35) |
 | LTNG02 | [Diversity and Commonalities of AI Applications to Biodiversity Issues and Data](#ltng02) |
-| LTNG03 | see SYM19 [Bridging the gap: Interoperable Alien Species Data and Terminology for Successful Sharing of Management Strategies](#sym19) |
 | LTNG05 | [Specimen Spotlight](#ltng05) |
-| LTNG04 | see SYM36 [Lessons Learned from Local Data Providers in the Marine Community: DwC data connect local to global](#sym36) |
-| PANEL02 | WITHDRAWN [Telling the Whole Story of Science](#panel02) |
 | POSTER | [Poster session](#poster) |
 | SYM01 | [A Fly Can’t Bird but a Bird Can Fly: Current advances and challenges at the intersections of collection management systems, institutions and community](#sym01) |
 | SYM02 | [Back to Basics Skillshare](#sym02) |
@@ -37,7 +33,6 @@ Click a link to read the session abstract.
 | SYM09 | [Biodiversity Knowledge Linking: Progress after BiCIKL and beyond](#sym09) |
 | SYM10 | [Broadening Access, Community Science, Inclusion, Education, Outreach](#sym10) |
 | SYM11 | [Catalogue of Life as a Means to Harmonise and Unify Taxonomic Data Services](#sym11) |
-| SYM12 | WITHDRAWN [Computationally Tractable Taxon Circumscriptions for TCS](#sym12) |
 | SYM13 | [Controlled Vocabularies: The secret sauce that unlocks the power of data consistency and accessibility!](#sym13) |
 | SYM14 | [Emergence of Integrated Public Collection Services: Today's DES experiences for tomorrow's successes](#sym14) |
 | SYM15 | [Emergent AI Contributions to Biodiversity Data & Data Standardisation: Opportunities, challenges, and a year in review](#sym15) |
@@ -51,13 +46,10 @@ Click a link to read the session abstract.
 | SYM23 | [IUCN Red List Assessments: How can and do museums contribute?](#sym23) |
 | SYM24 | [Microscope Slide Curation, Conservation, and Access](#sym24) |
 | SYM25 | [Occurrences are Neither Specimens or Samples: Data modelling challenges and opportunities for information storage and exchange](#sym25) |
-| SYM26 | WITHDRAWN [Phenology: It's about time (for standards, best practices and integration)](#sym26) |
 | SYM27 | [Pre- & Post Disaster Management of Natural History Collections](#sym27) |
 | SYM28 | [Scaling Up Capacity to Address Global Biodiversity Goals for Data Mobilization and Use](#sym28) |
 | SYM29 | [Specify Spotlight: Enhancing biodiversity data management](#sym29) |
 | SYM30 | [SPNHC to TDWG: Bridging communities and building capacity for digital collections mobilization](#sym30) |
-| SYM31 | WITHDRAWN [Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines](#sym31) |
-| SYM32 | WITHDRAWN [Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.](#sym32) |
 | SYM33 | [Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology](#sym33) |
 | SYM34 | [Unveiling the Rich Tapestry: Biodiversity collection practices and specimen)](#sym34) |
 | SYM35 | [Digitization Coordination](#sym35) |
@@ -113,9 +105,8 @@ Organizers:  **[Youcef Sklab](mailto:youcef.sklab@ird.fr), Eric Chenin, Eugeni B
 **Abstract**<br />
 This session will explore the application of AI across diverse biodiversity challenges. The objectives are 1) to illustrate the diversity of issues, data types and AI techniques applied, and 2) to examine the shared features among techniques and data, 3) setting the scene for identifying future avenues of possible standards regarding methods and architectures, and data used for training and testing.
 
-Key topics include the hybridization of AI methods: i.e. mixing various methods and architectures, including mixing symbolic and digital AI, interpretability and robustness of model predictions. Data of interest will cover all sensors and modes of capture, including remote sensing, field or collections pictures, videos, sounds and measurements, tracking, text, and all multi-omics approaches to characterize natural ecosystems, from metagenomics to metatranscriptomics. All issues will be welcome, with a focus on data standardization, interactions, interdependencies and resilience, impact of anthropic activities, conservation, biodiversity monitoring with metabarcoding approaches, and ecosystem health and evolution indices.
+Key topics include the hybridization of AI methods: i.e., mixing various methods and architectures, including mixing symbolic and digital AI, interpretability and robustness of model predictions. Data of interest will cover all sensors and modes of capture, including remote sensing, field or collections pictures, videos, sounds and measurements, tracking, text, and all multi-omics approaches to characterize natural ecosystems, from metagenomics to metatranscriptomics. All issues will be welcome, with a focus on data standardization, interactions, interdependencies and resilience, impact of anthropic activities, conservation, biodiversity monitoring with metabarcoding approaches, and ecosystem health and evolution indices. Talks will be limited to 5 minutes (including questions) and just 2 or 3 slides. 
 
-An introductory talk will remind the session's objectives, followed by ten 10' talks with 5' questions, then a panel discussion introduced by a comparative analysis of the cases presented, and focusing on common features and future avenues for developing standards in methods and data exchange.
 
 {:id="ltng05"}
 ### LTNG05 Specimen Spotlight	
@@ -127,18 +118,6 @@ Organizers:  **[Paul Mayer](mailto:pmayer@fieldmuseum.org), Gregory Watkins-Colw
 **Abstract**<br />
 We are looking for short, lightning-round type talks on one special specimen in your collection. Something that has an amazing story to tell. Why that specimen is your favorite or is critical to science or education. Why does it matter? Why is it important? What makes it important? What work have you done on it? Please be creative and if you have an idea, try it and please feel free to email us any questions you might have. Talks will be limited to 5 minutes and just 1 or 2 slides. The audio will be recorded and presentations posted on our SPNHC YouTube Channel.
 
-
-{:id="panel02"}
-### PANEL02 Telling the Whole Story of Science 
-
-Session Type: Panel Discussion; **WITHDRAWN**<br />
-Conference Track:  SPNHC<br />
-Organizers:  **[Rebekah Kim](mailto:rkim@calacademy.org)**
-
-**Abstract**<br />
-In order to move forward in the path toward decolonization we must accept that the present is the product of the past, and we cannot truly highlight underrepresented communities without setting the historical context. Museums are rooted in colonialism and often tell a biased history that unintentionally excludes underrepresented communities. The panelists here will discuss their individual projects that discuss the colonial history of natural museum collections and exhibitions, amplifying naturalists whose contributions have been overlooked, and how to build community in a profession that lacks diversity.
-
-This work is ever-evolving and strengthened by collaboration, we intend to leave a good amount of time for questions and answers. We will use prompts and facilitated discussion to hear the audience’s responses to these projects, and what they are currently working on and/or envision for their own institutions.
 
 {:id="poster"}
 ### POSTER Poster session	
@@ -194,9 +173,9 @@ Organizers:  **[Mike G. Rutherford](mailto:mike.rutherford@glasgow.ac.uk), Vijay
 **Abstract**<br />
 Since the first bioblitz was held in the USA in 1996 these intense biological recording events have become a worldwide phenomenon ranging from bioblitzes held in school yards for a few hours to events covering whole cities for several days. Natural history museums and collections are often involved in bioblitzes, either as organisers, hosts, repositories of specimens collected or as a source of experts for identification and are a great way of promoting interest in local biodiversity.
 
-SPNHC and TDWG have both previously held bioblitzes as part of annual conferences and we intend to do so this year as well, split into events for in person and virtual attendees and hosted on iNaturalist. How-to information would be provided for those new to the process. A results announcement event, possibly with prizes, would be held at the end of the conference.
+SPNHC and TDWG have both previously held bioblitzes as part of annual conferences and we intend to do so this year as well, hosted on iNaturalist there will be two projects – one based in Okinawa for in person attendees and one covering worldwide virtual attendees. How-to information will be provided for those new to the process. An initial results announcement event (possibly with prizes!) will be held at the end of the conference.
 
-We would also like to hold a symposium discussing how museums have used bioblitzes, including topics such as: did you make partnerships with other organisations, have bioblitzes contributed to wider research, what was the value of the information gained and what are the lessons learned? We welcome talks on any bioblitz related topics.
+A symposium will also examine how museums have used bioblitz events: areas covered include building community relations, training curators, building up materials for genetic studies, encouraging citizen science at a local, national and global level and as a resource for museum activities.
 
 {:id="sym05"}
 ### SYM05 Biodiversity Biobanking Network GGBN: A global infrastructure for molecular collections	
@@ -206,7 +185,7 @@ Conference Track:  General interest<br />
 Organizers:  **[Katharine Barker](mailto:barkerk@si.edu), Jonas Astrin, Gabriele Dröge**
 
 **Abstract**<br />
-The Global Genome Biodiversity Network (GGBN, [http://www.ggbn.org](http://www.ggbn.org) was founded in 2011 to fill a critical gap in the existing research infrastructure landscape. It consists of DNA and tissue collections at natural history museums, botanic gardens, universities, culture collections, environmental sample collections, gene banks, seed banks, and zoological gardens. These collections provide long-term storage and public access to material used for molecular research of all kinds. The GGBN Data Portal and the GGBN Data Standard have been developed as complementary tools for other infrastructures such as GBIF and INSDC, by enabling standardized access to its member biorepositories and establishing cross links between underlying voucher specimens, sequence data and publications. Today 6.6 million records are available through GGBN from 39 biobanks. Together with CETAF, SPNHC and SYNTHESYS+, GGBN provides best practices for biorepositories on implementation of Nagoya and ABS regulations. In addition, GGBN provides the community with a document library for biobanking knowledge exchange.
+The Global Genome Biodiversity Network (GGBN, [http://www.ggbn.org](http://www.ggbn.org)) was founded in 2011 to fill a critical gap in the existing research infrastructure landscape. It consists of DNA and tissue collections at natural history museums, botanic gardens, universities, culture collections, environmental sample collections, gene banks, seed banks, and zoological gardens. These collections provide long-term storage and public access to material used for molecular research of all kinds. The GGBN Data Portal and the GGBN Data Standard have been developed as complementary tools for other infrastructures such as GBIF and INSDC, by enabling standardized access to its member biorepositories and establishing cross links between underlying voucher specimens, sequence data and publications. Today 6.6 million records are available through GGBN from 39 biobanks. Together with CETAF, SPNHC and SYNTHESYS+, GGBN provides best practices for biorepositories on implementation of Nagoya and ABS regulations. In addition, GGBN provides the community with a document library for biobanking knowledge exchange.
 
 In this symposium we will provide an overview of GGBN’s resources for best practice and policies for running and using a biobank focusing on the outcomes of the SYNTHESYS+ project (handbooks/guidelines on protocols and practices in biobanking), [https://doi.org/10.3897/ab.e101876](https://doi.org/10.3897/ab.e101876), on policies around biobank use, [https://doi.org/10.3897/rio.9.e102908](https://doi.org/10.3897/rio.9.e102908) and on permit and contract terminology [https://doi.org/10.3897/rio.10.e114366](https://doi.org/10.3897/rio.10.e114366). We will also present updates to the GGBN Data Portal, a unified access point to biodiversity biobank sample data.
 
@@ -276,17 +255,6 @@ Organizers:  **[Olaf Banki](mailto:olaf.banki@catalogueoflife.org), Joe Miller, 
 **Abstract**<br />
 Catalogue of Life should serve a range of different use cases, and be a valuable global core biodata resource for others to build on. In recent years most effort has focused on creating a new Catalogue of Life infrastructure and getting the operations in such a condition that the Catalogue of Life can scale up its efforts. This has resulted at the end of 2020 in the launch of the ChecklistBank infrastructure, an open data publishing platform for taxonomic data, that is core infrastructure to GBIF and Catalogue of Life. GBIF and COL are now ready to take the next step in launching a more comprehensive Catalogue of Life Checklist that can serve as core taxonomic data service in organising species occurrence mediated through GBIF. A more comprehensive COL Checklist could support a vision that major biodiversity data initiatives and infrastructures can revolve around a common and shared taxonomic service. This session is to highlight the current combined efforts of GBIF and COL, and present perspectives from data custodians, to infrastructure developments up to end users.
 
-{:id="sym12"}
-### SYM12 Computationally Tractable Taxon Circumscriptions for TCS	
-
-Session Type: Symposium; Open to abstract submissions **WITHDRAWN**<br />
-Conference Track:  TDWG<br />
-Organizers:  **[Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au), Johan Liljeblad**
-
-**Abstract**<br />
-The Taxon Concept Schema (TCS) is the TDWG standard for exchanging taxonomic data. The new version, which will make TCS maintainable and elevate it to a current TDWG standard, will go to public review this year. Circumscription or definition of taxonomic groups will not be part of the first release, because it is not straightforward and this information is very rarely exchanged with the elements that are currently available in TCS. However, they are obviously a very important aspect of Taxon Concepts—and therefore a Taxon Concept standard—and the TCS Maintenance Group has every intention of including it at a later stage.
-
-In this symposium we try to bring together presentations about methods of computationally tractable taxon circumscriptions, i.e. definitions that are unambiguous and can be reasoned with—at least by humans at this stage. The goal is to get started on a path towards inclusion of circumscription terms in TCS. Besides filling a gap in TCS, we hope that including these terms in a TDWG standard will bring the various methods of circumsciption to the attention of a larger audience and will hopefully lead to them becoming more mainstream and to the exchange of richer taxonomic data.
 
 {:id="sym13"}
 ### SYM13 Controlled Vocabularies: The secret sauce that unlocks the power of data consistency and accessibility!	
@@ -443,11 +411,11 @@ Conference Track:  SPNHC<br />
 Organizers:  **[Mike G. Rutherford](mailto:mike.rutherford@glasgow.ac.uk), Alina Freire-Fierro, Libby Ellwood**
 
 **Abstract**<br />
-The International Union for the Conservation of Nature (IUCN)’s Red Lists of Threatened Species are considered to be the world's most comprehensive information source on the extinction risks facing animal, fungus and plant species. IUCN highlights that since 1964 this resource has been used by governments, NGOs, businesses and the general public to guide conservation efforts and better understand the threats facing biodiversity.
+The International Union for the Conservation of Nature (IUCN)’s Red Lists of Threatened Species are considered to be the world’s most comprehensive information source on the extinction risks facing animal, fungus and plant species. IUCN highlights that since 1964 this resource has been used by governments, NGOs, businesses and the general public to guide conservation efforts and better understand the threats facing biodiversity.
 
 Advancing the role of collections in biodiversity conservation, the SPNHC Biodiversity Crisis Response Committee has been actively engaging our global community since 2019 in the intersection of collections and conservation action.
 
-How can museum collections and museum staff support the IUCN Red List? Many curators and collections managers may have already been part of assessment teams or undertaken training, while for others this may all be new. This session will provide an overview of the process and would encourage members to become contributors to the IUCN Red List. We are soliciting talks from those who have experience in working with the Red List, telling us about the process and any problems they encountered as well as presenters who have used Red List data for exhibitions, displays, research and (sub-)national reporting.
+How do museum collections and museum staff utilise and/or support the IUCN Red List? Presentations examine how displays, activities and tours can use the Red List, how data from collections can contribute and how gaps in Red Lists can be addressed.
 
 {:id="sym24"}
 ### SYM24 Microscope Slide Curation, Conservation, and Access	
@@ -469,15 +437,6 @@ Organizers:  **[James Macklin](mailto:james.macklin@agr.gc.ca), Stan Blum, David
 **Abstract**<br />
 The Occurrence class was ratified in Darwin Core fifteen years ago in response to a need to accommodate both observations and specimens; it has become the defacto vehicle for how we exchange evidence of biodiversity. Unfortunately, the obligation to include Event data alongside that of samples or specimens limits the richness of evidence that can be shared. The inclusion of an occurrenceID – now expected to be globally persistent and stable – challenges collection management systems and how we model information. Collecting events are often represented as relational records to either field samples or specimens, which themselves have been subsampled for research activities that we wish to track. New concepts such as Digital Extended Specimens (DES) likewise challenges the Darwin Core exchange standard because not all objects contain information about a collecting event. The goal of this symposium session is to raise awareness about the artificial nature of Occurrences and to investigate what may be the challenges and opportunities should they be decoupled from their constituent events.
 
-{:id="sym26"}
-### SYM26 Phenology: It's about time (for standards, best practices and integration)	
-
-Session Type: Symposium; Open to abstract submissions **WITHDRAWN**<br />
-Conference Track:  TDWG<br />
-Organizers:  **[Rob Guralnick](mailto:robgur@gmail.com)**
-
-**Abstract**<br />
-Phenology – the timing of life-cycle events, such as leaf growth, flowering, fruiting or insect adult emergence – plays a fundamental role in shaping terrestrial ecosystems. Changes in phenology are accelerating in response to global change and have cascading effects on ecological processes. Phenological research has accelerated over the last decade, particularly for studies focused on inter-trophic phenological shifts. This acceleration is driven by both the recognition of the importance of phenology as a driver of system changes and the growth of shared research-facilitating resources and networks available to investigators. These burgeoning resources – including in-situ phenological observations, specimen-based data, in-situ and remote sensing, tools for data integration, and new analytical methods – have the potential to be catalytic, but connecting across infrastructures and communities remains challenging. These challenges magnify substantially when working across trophic levels and when moving across scales of analyses. This session is particularly timely because of the accelerating rate of research in this field and the great variation in data resources, tools, design and implementation of experimental and observational approaches used to analyze phenological patterns within and among taxa, among functional groups, and across geographic and temporal gradients. In addition, the continuing growth of the community of researchers focused on phenology, the rapid increase in the accessibility of digitized resources and databases that support phenological research, new opportunities for coalescing methodological approaches that bridge across disciplines, and the urgent need to support more integration and synthesis in this area given pace of environmental change all call for this session now.
 
 {:id="sym27"}
 ### SYM27 Pre- & Post Disaster Management of Natural History Collections	
@@ -529,40 +488,6 @@ Organizers:  **[Erica Krimmel](mailto:ekrimmel@gmail.com), Talia Karim, Holly Li
 **Abstract**<br />
 Members of the SPNHC and TDWG communities have been working towards a unified goal of mobilizing specimen data from neontological and paleontological collections, but often from very different starting points (e.g. specimen digitization, standards development) and with different sets of expertise, awareness, and understanding of what is happening in the other’s domain. Those disconnects stymy full realization of this mutual goal. By centering community building and making the biodiversity data ecosystem more accessible across the collective work of these groups, we can identify challenges and enable a more interconnected and cohesive approach in our collections data practices. This symposium will focus on biodiversity data as a throughline between professional communities, bringing together perspectives from both the collections-based expertise of SPNHC and the informatics worldview of TDWG. Speakers will share their experience working to build digitization and data mobilization capacity in contexts ranging from institutional to international, with the option to focus on either success or failure. Talks will highlight how local capacity supported by strong communities of practice is essential for building a sustainable open ecosystem of digital biodiversity data. Session will close with a brief discussion.
 
-{:id="sym31"}
-### SYM31 Success Metrics: Focusing local capacity on relevance, demonstrating relevance with global baselines	
-
-Session Type: Mixed session (talks, discussion, activity); Open to abstract submissions **WITHDRAWN**<br />
-Conference Track:  General interest<br />
-Organizers:  **[Austin Mast](mailto:amast@fsu.edu), David Jennings**
-
-**Abstract**<br />
-We seek to bridge strategic planning at collections, which centers on metrics of local relevance, with national, regional, and global efforts, which, e.g., make data aggregation possible or provide accreditation but do not intentionally seek to produce baselines for the metrics by which local collections judge success. The organizers will give a pair of talks on (1) the roles of strategic planning in collections and metrics in evaluation and (2) the metrics by which >700 US collections organizations measure success. Additional talks will be sought from a diversity of speakers for both the local strategic planning perspective and the national, regional, and global community perspectives. Collectively, the talks will inform an extended group conversation focused on inventorying high-value metrics for which baselines have been elusive in the absence of intentional efforts. We hope that surfacing these metrics and baselines will lead to gap-filling efforts by the community.
-
-{:id="sym32"}
-### SYM32 Through Interpretation: Using empathy and social emotional frameworks to interpret our collections for the public.	
-
-Session Type: Symposium; Open to abstract submissions **WITHDRAWN**<br />
-Conference Track:  SPNHC<br />
-Organizers:  **[Shanna M. Hillard](mailto:shannah@zoosociety.org)**
-
-**Abstract**<br />
-The incorporation of empathy into interpretive strategies can lead to a greater understanding of the subject, dispel misconceptions, and engender a sense of protection for collections both living and nonliving. These strategies are currently being used in zoos and aquariums to connect interpretation to conservation outcomes. This symposia will demonstrate how to integrate empathy into interpretation strategies, and how to measure its efficacy towards conservation and learning outcomes.
-
-Attendees will leave this session able to:
-
- * Understand the role of empathy in education and interpretation.
- * Name empathy best practices and how they can be used to interpret collections.
- * Gain diverse strategies for evaluating empathy outputs.
- * Add empathy to DEAI efforts and reduce barriers to participation from historically marginalized groups.
- * Collect strategies for training staff and volunteers to interpret using empathy and social-emotional learning. 
-
-Proposals for this session should include:
-
- * Institutions that are currently using empathy to interpret their collections.
- * Institutions that are evaluating the efficacy of social-emotional learning on their patrons.
- * Institutions that are evaluating the guest experience regarding cultural relevancy and anti-racism through the interpretation of artifacts and specimens.
- * Institutions that have trained staff and volunteers to interact with the public using empathy or social/emotional learning strategies.
 
 {:id="sym33"}
 ### SYM33 Unlocking Barriers and Access Inequities to Museum Collections in Archaeology and Paleontology	
