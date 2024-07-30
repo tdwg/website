@@ -22,3 +22,9 @@ What is "bingo"?
 
 T-shirt info; available colors and sizes
 
+<p class="d-flex justify-content-around align-items-center">
+ <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-black.png" alt="black t-shirt" width="360">
+ <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-white.png" alt="white t-shirt" width="360">
+</p>
+
+Images above are mock-ups, not actual photographs.
