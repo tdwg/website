@@ -1,6 +1,6 @@
 ---
 title: Call for extended abstracts
-description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September. Deadline ~~15~~ 24 July 2024.
+description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September.
 background:
   img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
   by: Sammy Wong
@@ -8,12 +8,12 @@ background:
 toc: true
 ---
 
-_Last updated 22 July 2024_
+_Last updated 29 July 2024_
 
 
 ## Breaking News!
 
-Have you given up on a BISS abstract because you can’t make the July 15th deadline?
+Have you given up on a BISS abstract because you can’t make the deadline?
 
 **_Don’t worry, We have a solution for you!_**
 
@@ -21,11 +21,11 @@ Do you believe that you won’t have everything you need to complete your submis
 
 **_We’ve got you covered! You can still make it work!!_**
 
-We have **extended the deadline to July 24th** for you to start your abstract. Now you have two options.
+Now you have two options.
 
 ### Option 1
 
-If you’ve got everything you need, except a few extra hours, your wish has come true. You now have an extra 9 days to complete and submit your abstract for review. Our kudos to you.
+If you’ve got everything you need, except a few extra hours, your wish has come true. Complete and submit your abstract for review. Our kudos to you.
 
 ### Option 2
 
@@ -56,7 +56,7 @@ See the original call, including eligibility, full instructions and more informa
 
 We are pleased to announce the call for extended abstracts (mini-papers) for the joint hybrid conference of SPNHC-TDWG 2024 to be published in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
 
-**The deadline for extended abstract submission is ~~15 July 2024~~ NOW 24 July 2024.**
+**The deadline for extended abstract submission is ~~15 July 2024~~ ~~NOW 24 July 2024.**~~
 
 Wondering why you might want to submit an extended abstract when your presentation has already been accepted on the Oxford Abstracts (OA) conference platform?  See all the reasons why here: [https://www.tdwg.org/conferences/2024/why-extended-abstract/](https://www.tdwg.org/conferences/2024/why-extended-abstract/) 
 
@@ -66,4 +66,4 @@ Wondering why you might want to submit an extended abstract when your presentati
 
 **Please direct any questions** about extended abstracts to [editor@tdwg.org](mailto:editor@tdwg.org); questions about the conference should be directed to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
 
-We look forward to receiving your extended abstract submissions by ~~15 July 2024~~ **NOW 24 July 2024**!
+We look forward to receiving your extended abstract submissions by ~~15 July 2024~~ ~~**NOW 24 July 2024**!~~
