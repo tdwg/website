@@ -41,12 +41,14 @@ toc: true
 
 <p>&nbsp;</p>
 
-_Last updated 29 July 2024_
+_Last updated 31 July 2024_
 
+{:id="registration"}
 ## [Conference registration is now open!](/conferences/2024/registration/)
 
 Please read the [important information](/conferences/2024/registration/) before you register!
 
+{:id="excursions"}
 ## [Excursion registration is open, too!](/conferences/2024/registration/excursions/)
 
 The registration sites for excursions associated with our conference are now open.  You can read [about these tours here](/conferences/2024/registration/excursions/). Please pay special attention to booking instructions and conditions. Some of these tours are offered free of charge, but capacity is limited, so book as soon as you can.
