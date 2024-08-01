@@ -23,7 +23,7 @@ Test your knowledge about organisms from Japan’s rich bio-history. Win prizes 
 - Round-trip bus transportation from the Ginowan City Gymnasium (in between the Okinawa Convention Center and Laguna Garden Hotel) to downtown Naha.
 **NOTE**: There will be a short, but level, ~12 minute walk to/from the bus drop/pick-up location and the venue.
 
-Only 150 seats available!! Sign up now!! Follow the instructions below.
+Only 150 seats available!! Sign up now!! [Follow the instructions](https://www.tdwg.org/conferences/2024/registration/add-ons/#how-to-include-an-add-on-in-oxford-abstracts) below.
 
 **What is bingo?**
 _In the United States and Canada, bingo is a game of chance in which each player matches the numbers printed in different arrangements on cards. The game host (known as a caller) draws balls at random, marking the selected numbers with tiles. When a player finds that the selected numbers are arranged on their card in a horizontal, vertical, or diagonal line, they call out "Bingo!" to alert all participants to a winning card..._ from [Wikipedia](https://en.wikipedia.org/wiki/Bingo_(American_version))
@@ -36,9 +36,12 @@ The reason is simple. We anticipate this year's meeting in Asia will attract a l
 The SPNHC-TDWG 2024 Conference T-shirt has arrived!!!
 
 This year's shirt features the conference logo designed by Ms. Takako Tomozawa, from the NPO Osaka Natural History Center, and the SPNHC and TDWG logos. The shirts are:
-- Available in black and white
-- Short sleeved wihtout a pocket
+- Available on black and white
+- Short-sleeved wihtout a pocket
 - Printed on one side only.
+
+All t-shirts will be provided at the registration desk in Okinawa. If you are not coming to the meeting in-person, you can order a shirt. We will happily give your order to another attendee who is from your country or region to bring back to you. It will then be up to you to determine the best way to get the shirt. SPNHC-TDWG cannot arrange for or pay for shipping. Just let us know to whom we should give your order via [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
+
 _Images below are mock-ups, not photographs, so the real things will look even more fantastic!_
 
 <p class="d-flex justify-content-around align-items-center">
@@ -52,7 +55,7 @@ Shirt sizes offered are in Japanese sizing. Most sizes are comparable to western
 
 <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-sizing.png" alt="white t-shirt" width="100%">
 
-**Follow the instructions below, to get your very own shirt!**
+**[Follow the instructions](https://www.tdwg.org/conferences/2024/registration/add-ons/#how-to-include-an-add-on-in-oxford-abstracts) below to get your very own shirt!**
 
 ## How to Include an Add-on in Oxford Abstracts
 
