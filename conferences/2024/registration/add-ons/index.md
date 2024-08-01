@@ -37,7 +37,7 @@ The SPNHC-TDWG 2024 Conference T-shirt has arrived!!!
 
 This year's shirt features the conference logo designed by Ms. Takako Tomozawa, from the NPO Osaka Natural History Center, and the SPNHC and TDWG logos. The shirts are:
 - Available on black and white
-- Short-sleeved wihtout a pocket
+- Short-sleeved without a pocket
 - Printed on one side only.
 
 All t-shirts will be provided at the registration desk in Okinawa. If you are not coming to the meeting in-person, you can order a shirt. We will happily give your order to another attendee who is from your country or region to bring back to you. It will then be up to you to determine the best way to get the shirt. SPNHC-TDWG cannot arrange for or pay for shipping. Just let us know to whom we should give your order via [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
@@ -45,8 +45,8 @@ All t-shirts will be provided at the registration desk in Okinawa. If you are no
 _Images below are mock-ups, not photographs, so the real things will look even more fantastic!_
 
 <p class="d-flex justify-content-around align-items-center">
- <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-black.png" alt="black t-shirt" width="360">
- <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-white.png" alt="white t-shirt" width="360">
+ <a href="https://static.tdwg.org/conferences/2024/images/t-shirt-black.png" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/t-shirt-black.png" alt="black t-shirt" width="360"></a>
+ <a href="https://static.tdwg.org/conferences/2024/images/t-shirt-white.png" target="_blank"><img src="https://static.tdwg.org/conferences/2024/images/t-shirt-white.png" alt="white t-shirt" width="360"></a>
 </p>
 
 ### T-shirt Sizes
@@ -69,3 +69,4 @@ To register for Biodiversity Bingo Night and to purchase your very own SPNHC-TDW
 5. Add the number of tickets you wish to purchase for Biodiversity Bingo and/or Select the T-shirts you want to buy.
 6. Click continue
 7. Select payment type and you're off to the races...
+8. Note that the credit/debit card used for add-ons can be different than the one used for conference registration (i.e., personal, not institutional).
