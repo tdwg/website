@@ -34,7 +34,7 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 
 ## Preparing your virtual poster:
 
-* **Size** (dimensions): there are no dimension limits for a virtual poster, but it must fit on a single “page.” We recommend using a PowerPoint slide with the slide size set to “wide screen”(i.e., HD, W x H \= 16:9, )   
+* **Size** (dimensions): there are no physical dimensions for a virtual poster, but it must fit on a single “page.” We recommend using a PowerPoint slide with the slide size set to “wide screen”(i.e., HD, W x H \= 16:9, )   
 * **Orientation:** use landscape orientation. Landscape fits more effectively when projected on a screen or viewed on a monitor without pan and zoom controls. (See last section, *Poster viewing at SPNHC-TDWG 2024*).  
 * A [conference-themed template](https://drive.google.com/drive/folders/1l\_k-WEicWET4bl2ZSEa9hhd3ZsCRRdd9?usp=drive\_link) using the recommended widescreen format in landscape orientation is available to download. The layout can be changed; it gives reminders about content and demonstrates how different font sizes will appear.  
 * Metadata to include in your poster:  
