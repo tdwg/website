@@ -31,7 +31,7 @@ Before you register, please be aware of the **IMPORTANT** requirements around re
 
 ### Registration add-ons
 
-Registration for our Bingo Night (this year’s version of the trivia night) and sales of our conference T-shirt are not yet included in registration while we finalize our logistics. As soon as they are ready we will announce that you can reserve a space or buy a shirt.
+Registration for our Bingo Night (this year’s version of the trivia night) and sales of our conference T-shirt are now open!! Join us for a fun night on the town while you wear your fancy new conference shirt. [Purchase and register](https://www.tdwg.org/conferences/2024/registration/add-ons/) now.
 
 ### Excursion and tour updates
 
