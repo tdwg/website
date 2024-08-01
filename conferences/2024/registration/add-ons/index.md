@@ -49,6 +49,7 @@ _Images below are mock-ups, not photographs, so the real things will look even m
  <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-white.png" alt="white t-shirt" width="360">
 </p>
 
+### Sizing
 Shirt sizes offered are in Japanese sizing. Most sizes are comparable to western sizes.
 - If you want a fairly fitted t-shirt, then buy your regular size.
 - If you want baggy or loose-fitting t-shirt, then select a size, or even two, larger.
