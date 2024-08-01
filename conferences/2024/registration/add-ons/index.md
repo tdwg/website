@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 30 July 2024_
+_Last modified: 1 August 2024_
 
 ## Biodiversity Bingo Night
 
@@ -54,7 +54,7 @@ Shirt sizes offered are in Japanese sizing. Most sizes are comparable to western
 
 **Follow the instructions below, to get your very own shirt!**
 
-## How to Include an Add-on in Oxofrd Abstracts
+## How to Include an Add-on in Oxford Abstracts
 
 To register for Biodiversity Bingo Night and to purchase your very own SPNHC-TDWG 2024 T-shirt, follow these simple steps.
 
