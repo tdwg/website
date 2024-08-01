@@ -35,7 +35,7 @@ The reason is simple. We anticipate this year's meeting in Asia will attract a l
 
 The SPNHC-TDWG 2024 Conference T-shirt has arrived!!!
 
-This year's shirt features the conference logo designed by Ms. Takako Tomozawa, from the NPO Osaka Natural History Center, and the SPNHC and TDWG logos. The shirts are:
+This year's shirt features the conference logo designed by Ms. Takako Tomozawa, from the NPO Osaka Natural History Center, and the SPNHC and TDWG logos. The conference logo incorporates an original illustration of the Iriomote cat by Prof. Mitsuru Moriguchi of Okinawa University. The shirts are:
 - Available on black and white
 - Short-sleeved without a pocket
 - Printed on one side only.
