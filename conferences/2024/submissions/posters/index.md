@@ -13,7 +13,6 @@ _Last modified: 1 August 2024_
 
 # SPNHC-TDWG 2024 Instructions for Virtual Posters and Poster Presenters
 
-*Updated 1 August 2024*
 
 ## Overview
 
