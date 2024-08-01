@@ -28,3 +28,10 @@ T-shirt info; available colors and sizes
 </p>
 
 Images above are mock-ups, not actual photographs.
+
+
+<img src="https://static.tdwg.org/conferences/2024/images/t-shirt-sizing.png" alt="white t-shirt" width="100%">
+
+Sizes as given (S, M, L etc) are pretty comparable to western sizes<br />
+If you want a fairly fitted t-shirt then buy your regular size<br />
+If you want baggy or loose-fitting t-shirt then buy up a size or even two.
