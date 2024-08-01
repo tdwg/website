@@ -35,7 +35,12 @@ The reason is simple. We anticipate this year's meeting in Asia will attract a l
 
 The SPNHC-TDWG 2024 Conference T-shirt has arrived!!!
 
-Available in black and white, this year's shirt features the conference logo dsigned by Ms. Takako Tomozawa from the NPO Osaka Natural History Center, and the SPNHC and TDWG logos. The shirt are short sleeved wihtout a pocket. Printing is on one side only. Images below are mock-ups, not photographs, so the real things will look even more fantastic
+This year's shirt features the conference logo designed by Ms. Takako Tomozawa, from the NPO Osaka Natural History Center, and the SPNHC and TDWG logos. Shirts are:
+- Available in Black and White
+- Short sleeved wihtout a pocket
+- Printing is on one side only.
+
+_Images below are mock-ups, not photographs, so the real thing will look even more fantastic!_
 
 <p class="d-flex justify-content-around align-items-center">
  <img src="https://static.tdwg.org/conferences/2024/images/t-shirt-black.png" alt="black t-shirt" width="360">
@@ -59,6 +64,6 @@ To register for Biodiversity Bingo Night and to purchase your very own SPNHC-TDW
 2. Open your existing Oxford Abstracts Dashboard for SPNHC-TDWG 2024.
 3. Scroll down to the Registration Section
 4. Click the Buy Add-Ons button
-5. Add the number of tickets you wish to purchase for Biodiversity Bingo and/or Select the T-shirts you want to buy.Night
+5. Add the number of tickets you wish to purchase for Biodiversity Bingo and/or Select the T-shirts you want to buy.
 6. Click continue
 7. Select payment type and you're off to the races...
