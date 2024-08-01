@@ -1,5 +1,5 @@
 ---
-title: Add-ons
+title: Bingo Night and T-shirts
 description: >
   Additions to your registration: Biodiversity Bingo Night and T-shirts
 background:
