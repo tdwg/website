@@ -1,7 +1,7 @@
 ---
 title: Add-ons
 description: >
-  Additions to your registration: Bingo night and T-shirts
+  Additions to your registration: Biodiversity Bingo Night and T-shirts
 background:
   img: https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-lg.jpg
   by: Mitsuru Moriguchi, Takako Tomozawa
