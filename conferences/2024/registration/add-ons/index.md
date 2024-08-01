@@ -39,6 +39,7 @@ This year's shirt features the conference logo designed by Ms. Takako Tomozawa, 
 - Available on black and white
 - Short-sleeved without a pocket
 - Printed on one side only.
+- **Only $20 USD**
 
 All t-shirts will be provided at the registration desk in Okinawa. If you are not coming to the meeting in-person, you can order a shirt. We will happily give your order to another attendee who is from your country or region to bring back to you. It will then be up to you to determine the best way to get the shirt. SPNHC-TDWG cannot arrange for or pay for shipping. Just let us know to whom we should give your order via [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
 
