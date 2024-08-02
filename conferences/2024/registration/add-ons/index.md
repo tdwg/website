@@ -20,7 +20,7 @@ Test your knowledge about organisms from Japan’s rich bio-history. Win prizes 
 **$40 per person. Ticket includes:**
 - All the bingo you can handle.
 - One drink and two food tickets (with the option to purchase more on-site)
-- Round-trip bus transportation from the Ginowan City Gymnasium (in between the Okinawa Convention Center and Laguna Garden Hotel) to downtown Naha.
+- Round-trip bus transportation from the Okinawa Convention Center to downtown Naha.
 **NOTE**: There will be a short, but level, ~12 minute walk to/from the bus drop/pick-up location and the venue.
 
 Only 150 seats available!! Sign up now!! [Follow the instructions](https://www.tdwg.org/conferences/2024/registration/add-ons/#how-to-include-an-add-on-in-oxford-abstracts) below.
