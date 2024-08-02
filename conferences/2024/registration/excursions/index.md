@@ -9,9 +9,9 @@ background:
 toc: true
 ---
 
-Last modified: 2024-07-08
+_Last modified: 2024-07-08 New deadline and rules for registration, plus new virtual tours._
 
-## Registration deadline : August 2nd 17:00 (JST)
+## Registration deadline EXTENDED: ~~August 2nd~~ August 12th 17:00 (JST)
 
 ## Tour date options: September 1st (Sun) or 7th (Sat)
 
@@ -27,16 +27,20 @@ Participants will not be required to provide payment for these tours (excluding 
 
 ## Booking
 
-### Special rules and instructions
+### Special rules and instructions - UPDATED!
 
-  * You may register for a **TOTAL OF ONE (1)** free Japan Tourism Agency excursion schedule for either Sunday, September 1st or on Saturday, September 7th. In addition to this tour you may also register for paid excursions to the Kerama Islands and/or Yanbaru as long as there is no scheduling conflict. We have a limited number of seats available, so we need to give others an opportunity to register, too.
+  * **You may now register for more than excursion.** Register for one tour on Sunday, September 1st and another on Saturday, September 7th. In addition to these tours you may also register for paid excursions to the Kerama Islands and/or Yanbaru as long as there are no scheduling conflicts. We have a limited number of seats available, so we need to give others an opportunity to register, too.
   * If you are traveling with a partner, spouse or family member, you can register them for a tour at the same time, including Kerama and Yanbaru tours.
+  * **NEW!!** A short waiting list has been created for up to three people for those excursions that have sold-out. A Google Form is available on the [registration site](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top) if you wish to put your name on a waitlist (not including Yanbaru tours). Just remember that no spots are guaranteed for people on the waitlist.
+  * **NEW Virtual Tours are now available.** See Japan Toursims Agency Excursions below.
 
 ### Where to register
 
 **YANBARU NATURE TOURS**
 
 **[Yanbaru Nature Tours Booking](https://acorn-okinawa.com/en/excursion-tour/){:target="_blank"}**
+
+**UPDATE: Weekend trips are closed! Half-day trips are still available, including Monday morning, September 2nd.**
 
 We do not have any special instructions for registration with Yanbaru Nature Tours. The web site is clear and self-explanatory. These are very special, limited capacity tours led by local biodiversity experts (emphasis on birds and herps). If you have any questions about the tours, payments or schedules, please contact ACORN Okinawa directly. Neither SPNHC nor TDWG is responsible for the planning of these tours. There are no discounts or other benefits offered by SPNHC-TDWG for these tours.
 
@@ -45,6 +49,8 @@ We do not have any special instructions for registration with Yanbaru Nature Tou
 **[Japan Tourism Agency Excursions Booking](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top){:target="_blank"}**
 
 [Excursion descriptions (PDF)](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf) (JTA excursions) - Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
+
+**[New Virtual Tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/excursions0731.pdf)** are being offered in mid-August. Priority registration is being offered for people registered as virtual participants of SPNHC-TDWG 2024 (not traveling to Okinawa) until Wednesday, August 7th. After August 7th, registration will open up to everyone, including in-person registrants, as long as tickets are still available.
 
 If you choose to register for a JTA excursion, please be aware of the following:
 
