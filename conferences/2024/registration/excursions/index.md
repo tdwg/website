@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 2024-07-08 New deadline and rules for registration, plus new virtual tours._
+_Last modified: 2024-07-08 New deadline and rules for registration, plus new virtual tours and updated Terms and Conditions._
 
 ## Registration deadline EXTENDED: ~~August 2nd~~ August 12th 17:00 (JST)
 
@@ -48,9 +48,9 @@ We do not have any special instructions for registration with Yanbaru Nature Tou
 
 **[Japan Tourism Agency Excursions Booking](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/joho?MODE=top){:target="_blank"}**
 
-[Excursion descriptions (PDF)](https://static.tdwg.org/conferences/2024/excursions/spnhc-tdwg-2024-excursions.pdf) (JTA excursions) - Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
+[Excursion descriptions (PDF)](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/excursions0731.pdf) (JTA excursions) - Each bus tour can accommodate a limited number of participants, so we recommend booking as early as you can!
 
-**[New Virtual Tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/excursions0731.pdf)** are being offered in mid-August. Priority registration is being offered for people registered as virtual participants of SPNHC-TDWG 2024 (not traveling to Okinawa) until Wednesday, August 7th. After August 7th, registration will open up to everyone, including in-person registrants, as long as tickets are still available.
+**[New Virtual Tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/Virtual%20Tour.pdf)** are being offered in mid-August. Priority registration is being offered for people registered as virtual participants of SPNHC-TDWG 2024 (not traveling to Okinawa) until Wednesday, August 7th. After August 7th, registration will open up to everyone, including in-person registrants, as long as tickets are still available.
 
 If you choose to register for a JTA excursion, please be aware of the following:
 
@@ -58,7 +58,7 @@ If you choose to register for a JTA excursion, please be aware of the following:
   * When you register you will be required to provide a Credit Card number. Although all excursions (not including Kerama) are free of charge, you will be billed a penalty if you do not show up for your booking. Please see the cancellation policy on the excursion registration site for more information.
   * Also when registering, you will need to provide your Oxford Abstracts order number from your registration for the SPNHC-TDWG meeting. You should have received an email with Subject: “You’re registered for SPNHC-TDWG 2024!” in which there will be an order number (e.g., #0109) at the top of that email message (you can also find your number if you log in to Oxford Abstracts). When you register through the excursion site, you will be asked for a “registration order number” – please enter your Oxford Abstracts order number. You may contact us via okinawa2024@spnhc.org if you cannot find your number.
 
-To ensure fair use amongst participants, each traveler is eligible to book **only one excursion bus tour**, unless stated otherwise. If we discover that two or more Excursion Bus Tours are booked under your name against the Terms and Conditions, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.)
+**UPDATED:** To ensure fair use amongst participants, each traveler is eligible to book a **maximum of two (2) different excursions**, one on Sunday, September 1st, and one on Saturday, September 7th. If we discover that three or more Excursion Bus Tours are booked under your name against the Terms and Conditions, or if there is a conflict in schedule, we will contact you directly to cancel the booked tour(s).  (See [Terms and Conditions](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/Terms%20&%20Conditions_v1.1-2.pdf){:target="_blank"}.)
 
 If you have any questions about JTA tours, payments or schedules, please contact the tour provider, Nippon Travel Agency Okinawa Co., LTD., directly using the contact provided in your confirmation email. To cancel please log in to the excursion registration site. Neither SPNHC nor TDWG is responsible for the planning of these tours. There are no discounts or other benefits offered by SPNHC-TDWG for these tours.
 
@@ -79,7 +79,8 @@ In accordance with the cancellation fee schedule asindicated above, the organize
 
 ## Disclaimer of responsibility
 
-Please be aware that neither the JAPAN TOURISM AGENCY, NIPPON TRAVEL AGENCY OKINAWA CO., LTD., CERULEAN BLUE OKINAWA, nor ACORN OKINAWA is affiliated with SPNHC or TDWG. SPNHC and TDWG do not receive any financial or other benefit from SPNHC-TDWG 2024 registrants participating in any tour or excursion offered. If you register for any JTA excursions or Yanbaru Nature Tours, SPNHC and TDWG are in no way responsible for you, your property or the excursions, including fee payments, scheduling, facilities, transportation, and damage or harm of any kind. All responsibility lies with the Nippon Travel Agency Okinawa Co., Ltd., Cerulean Blue OKINAWA, ACORN Okinawa or the individual participant. Please see Item #7 Limitation of Liability in the [Terms and Conditions document](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/TERMS.pdf){:target="_blank"}.
+Please be aware that neither the JAPAN TOURISM AGENCY, NIPPON TRAVEL AGENCY OKINAWA CO., LTD., CERULEAN BLUE OKINAWA, nor ACORN OKINAWA is affiliated with SPNHC or TDWG. SPNHC and TDWG do not receive any financial or other benefit from SPNHC-TDWG 2024 registrants participating in any tour or excursion offered. If you register for any JTA excursions or Yanbaru Nature Tours, SPNHC and TDWG are in no way responsible for you, your property or the excursions, including fee payments, scheduling, facilities, transportation, and damage or harm of any kind. All responsibility lies with the Nippon Travel Agency Okinawa Co., Ltd., Cerulean Blue OKINAWA, ACORN Okinawa or the individual participant. Please see Item #7 Limitation of Liability in the [Terms and Conditions document](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/Terms%20&%20Conditions_v1.1-2.pdf){:target="_blank"}.
+_Terms and Conditions updated on August 1, 2024 to v1.1_
 
 Still, we think you’re gonna have a great time.
 
