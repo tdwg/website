@@ -41,6 +41,8 @@ _Last updated 1 August 2024_
 
 <p>&nbsp;</p>
 
+<p><span style="color:red"><strong>Important! Please ask your email administrators to white-list <i>no-reply@oxfordabstracts.com</i> so you receive emails about the conference.</strong></span></p>
+
 {:id="registration"}
 ## [Conference registration is open!](/conferences/2024/registration/)
 
