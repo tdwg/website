@@ -37,8 +37,6 @@ Registration for our Bingo Night (this year’s version of the trivia night) and
 
 Registration for excursions is separate from meeting registration. When the excursion sign ups are available, we will send a separate announcement.
 
-Most excursions will be scheduled for Sunday (Sept 1) prior to the start of the meeting and Saturday (Sept 7), so please plan accordingly. An additional excursion (yes, it’s a secret for now) will be available on Aug 31/Sept 1 and on Sept 7/8.
+Most excursions are scheduled for Sunday, September 1st and Saturday, September 7th, so please plan accordingly. Virtual tours are also available for participants, especially virtual registrants in mid-August (registration will open on August 8th).
 
-Please see the [meeting website](https://www.tdwg.org/conferences/2024/) for more information about the meeting, travel and accommodations. If you experience any difficulty with registration, please visit our [registration FAQ](/conferences/2024/registration/faq).
-
-If you have any questions, please email the Planning Committee at [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
+Tours are filling up quickly so please visit the [excursions page]() on our website for more information and register for an adventure. If you experience any difficulty with registration, please visit our [registration FAQ](/conferences/2024/registration/faq) or email us at [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
