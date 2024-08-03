@@ -39,9 +39,13 @@
   - text: "Call for extended abstracts"
     href: /conferences/2024/biss-extended-abstract-call/
   - text: "---"
-  - text: "Instructions"
-  - text: "Poster instructions"
+  - text: "Presentation Instructions"
+  - text: "Oral Presentations"
+    href: /conferences/2024/oral-presentations/
+  - text: "Posters"
     href: /conferences/2024/submissions/posters/
+ - text: "---"
+  - text: "Abstracts"
   - text: "Submit extended abstract to BISS"
     href: /conferences/2024/biss-abstract-submission/
   - text: "TL;DR extended abstract submission"
