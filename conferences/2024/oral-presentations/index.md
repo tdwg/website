@@ -3,9 +3,9 @@ title: Oral presentation instructions
 description: >
   Instructions and recommendations for preparing oral presentations for SPNHC-TDWG 2024 - DEADLINE 19 August
 background:
-  img: https://images.unsplash.com/photo-1493972741200-51d407e0ee33
-  by: Cindy Chan
-  href: https://unsplash.com/photos/scattered-magazines-RpC-9e0ORNM
+  img: https://images.unsplash.com/photo-1568641922612-4fd5ab7f5b39
+  by: Cindy Chan on Unsplash
+  href: https://unsplash.com/photos/brown-and-black-turle-VLQj5niaT4E
 toc: true
 ---
 
