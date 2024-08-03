@@ -39,4 +39,4 @@ Registration for excursions is separate from meeting registration. Registration 
 
 Most excursions are scheduled for Sunday, September 1st and Saturday, September 7th, so please plan accordingly. Virtual tours are also available for participants, especially virtual registrants, in mid-August (registration will open on August 8th).
 
-Tours are filling up quickly so please visit the [excursions page](https://www.tdwg.org/conferences/2024/registration/excursions/) on our website for more information and register for an adventure. If you experience any difficulty with registration, please visit our [registration FAQ](/conferences/2024/registration/faq) or email us at [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
+Tours are filling up quickly so please visit the [excursions page](/conferences/2024/registration/excursions/) on our website for more information and register for an adventure. If you experience any difficulty with registration, please visit our [registration FAQ](/conferences/2024/registration/faq) or email us at [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
