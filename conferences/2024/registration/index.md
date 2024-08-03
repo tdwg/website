@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Last modified:  09 July 2024
+_Last modified:  02 August 2024_
 
 ## SPNHC TDWG 2024 registration
 
