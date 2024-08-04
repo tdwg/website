@@ -13,6 +13,8 @@
   menu:
   - text: "DRAFT Schedule"
     href: /conferences/2024/schedule/draft/
+  - text: "Keynotes"
+    href: /conferences/2024/keynotes/
   - text: "Sessions"
     href: /conferences/2024/sessions/
   - text: "Program Committee"
