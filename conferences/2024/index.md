@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 1 August 2024_
+_Last updated 4 August 2024_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -127,7 +127,7 @@ By registering for and/or participating in conference sessions, workshops, panel
 
 ## Visa requirements
 
-The Ministry of Foreign Affairs of Japan is the recommended site [https://www.mofa.go.jp/j_info/visit/visa/index.html](https://www.mofa.go.jp/j_info/visit/visa/index.html) for information about visas for traveling to Japan. If your country of citizenship requires that you obtain a visa for entry into Japan, you will most likely also need a Letter of Invitation for your visa application.  To request the Letter of Invitation, please send the following information to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org), who will confirm your registration and forward your request to our local hosts.
+The Ministry of Foreign Affairs of Japan is the recommended site [https://www.mofa.go.jp/j_info/visit/visa/index.html](https://www.mofa.go.jp/j_info/visit/visa/index.html) for information about visas for traveling to Japan. If your country of citizenship requires that you obtain a visa for entry into Japan, you will most likely also need a Letter of Invitation for your visa application.  Before you request supporting documents (e.g., letter of invitation) from SPNHC-TDWG’s local committee you must register and pay in full (see cancellation policy). To request the Letter of Invitation, please send the following information to [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org), who will confirm your registration and forward your request to our local hosts.
 
 - Name as it appears in your passport/in Latin alphabet (clearly indicating given name(s) and family name(s) avoids confusion)
 - Gender (sex)
