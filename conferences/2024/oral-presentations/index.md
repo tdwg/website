@@ -9,11 +9,13 @@ background:
 toc: true
 ---
 
-_Last modified: 2 August 2024 - important updates to slide format, slide upload deadlines & email notifications_
+_Last modified: 5 August 2024 - important updates to slide format, slide upload deadlines & email notifications_
 
 ## TL;DR
 
-- All final presentations must be uploaded to SPNCH-TDWG by **19 August**.
+- Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
+  - Watch for the latest date you can modify your file 
+  - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name
 - Upload final version of slides (as PPTX, PDF, or ODP; _not Google Slides_) and pre-recorded videos (using .mp4 format) to your presentation's Session folder on Google Drive
 - Link to upload site will be sent in separate email (do not lose; do not distribute)
 - Slide and video format is widescreen (16:9)
@@ -31,11 +33,11 @@ _Last modified: 2 August 2024 - important updates to slide format, slide upload 
 - **Lightning talks** ([LTNG02](/conferences/2024/sessions/#ltng02) and [LTNG05](/conferences/2024/sessions/#ltng05) are scheduled for **5 minutes (total)**, to include questions and transition to the next speaker. Slide numbers are limited (see linked descriptions)  
 - **Remote presenters** must upload a pre-recorded file to the relevant folder for their session by **19 August**. Links will be emailed to presenters via Oxford Abstracts (and MailChimp as a backup).
 - **Language:** while the language of the conference is English, we are experimenting again this year with allowing speakers to present in a language other than English IF the presentation is pre-recorded and includes English subtitles and slide content. Please email okinawa2024@spnhc.org if you would like to try this.
-- **Poster presenters**, please see separate instructions.
+- **Poster presenters**, please see [separate instructions](/conferences/2024/submissions/posters/).
 
 ### Slide format
 
-- All presentations should be saved as PowerPoint (pptx), OpenDocument Presentation (ODP) or PDF files. If you use Google Slides, please download them as one of these formats.
+- All presentations should be saved as PowerPoint (pptx), OpenDocument Presentation (ODP) or PDF files. If you use Google Slides, please download them as one of these formats before uploading to the conference folder.
 - An optional template, designed for SPNHC-TDWG 2024 by Daphne Hoh, is available for your use. [Download a copy of the file](https://docs.google.com/presentation/d/1zW4feT5K33qymUyU5b37_jRrGykR0UpE/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) to personalize it for your presentation. 
 - Please format all slides for 16:9 size. Try to avoid putting critical content in the top right corner of your slides (where the speaker is often displayed in video).
 - Do not embed videos, use animations or fancy slide transitions that might slow, bloat the file size or otherwise hinder the presentation on Zoom.
@@ -61,7 +63,7 @@ _Last modified: 2 August 2024 - important updates to slide format, slide upload 
 - Pre-recorded presentations should be saved as MP4 formatted files. 
 - Please use a headset with a microphone for best quality audio.
 - If your recording includes you in the video, please ensure that your camera is at the level of your head. (If you are looking down at your computer and camera, we’re looking up your nose ;-/ ).
-- Upload your pre-recorded presentation to the relevant folder for your session by **19 August 2024**. The link to upload your session will be provided by email via MailChimp.
+- Upload at least a solid draft of your pre-recorded presentation to the relevant folder for your session by **19 August 2024**. The link to upload your session will be provided by email via MailChimp.
 
 ### Uploading your slides & pre-recorded video
 
@@ -74,6 +76,16 @@ _Last modified: 2 August 2024 - important updates to slide format, slide upload 
 - Upload of the final version of videos and slides to be presented live (in-person or streaming) by 19 August 2024.
 - If you are late uploading your slides, please contact your session moderator and [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) to let them know.
 
+{:id="tip-update-file"}
+### How to update your file without changing the URL or file name
+
+If you decide to update your presentation file (.pptx, .pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
+- Find your original file (file name may have been changed slightly by the conference organizers; do not change it)
+- Right click on the file name and from the pop-up menu, choose "File information"
+- You should then choose the option to "Manage versions"
+- Click `Upload new version` and do so
+- You can delete older versions after uploading your current version.
+
 ## Presenting your talk
 
 - Practice your presentation and timing so as not to exceed 10 minutes.
@@ -81,6 +93,8 @@ _Last modified: 2 August 2024 - important updates to slide format, slide upload 
 - All sessions and talks will be recorded and made available to registrants for subsequent on-demand viewing after the session. 
 - If presenting onsite, please be at the conference room where your presentation is scheduled at least 15 min before your session begins.
 - The default for virtual presenters is to play their video during their session, unless a compelling reason is made to the session organizers for presenting remotely online (Zoom call and screen sharing). The decision to support live, remote presentations will be determined on a case by case basis. Separate instructions will be provided if this is granted.
+- DEMO01 is the only session where presenters may bring their own computer to use for their presentation. Please bring your own ethernet dongle so that you are not restricted to WiFi.
+  - Any other use of the presenter's computer must be pre-arranged on a case-by-case basis.
 - Slides will be started and displayed by the Audio Visual Technical Support team via a computer in the conference room. You will be able to advance your slides from the lectern.
 
 ## Additional thoughts
