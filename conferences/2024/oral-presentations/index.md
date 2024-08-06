@@ -63,7 +63,9 @@ _Last modified: 5 August 2024 - important updates to slide format, slide upload 
 - Pre-recorded presentations should be saved as MP4 formatted files. 
 - Please use a headset with a microphone for best quality audio.
 - If your recording includes you in the video, please ensure that your camera is at the level of your head. (If you are looking down at your computer and camera, we’re looking up your nose ;-/ ).
-- Upload at least a solid draft of your pre-recorded presentation to the relevant folder for your session by **19 August 2024**. The link to upload your session will be provided by email via MailChimp.
+- Upload at least a solid draft of your pre-recorded presentation to the relevant folder for your session by **19 August 2024**.
+  - The link to upload your session will be provided by email via Oxford Abstracts.
+  - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name.
 
 ### Uploading your slides & pre-recorded video
 
@@ -73,8 +75,9 @@ _Last modified: 5 August 2024 - important updates to slide format, slide upload 
   - Go to the link provided and find the folder for your session (open the folder)
   - Click 'New’ then 'File upload.'
   - After uploading, right-click your file in the folder and ensure that ’Open with Google Slides’ is not selected. 
-- Upload of the final version of videos and slides to be presented live (in-person or streaming) by 19 August 2024.
-- If you are late uploading your slides, please contact your session moderator and [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) to let them know.
+- Upload at least a solid draft of videos and slides to be presented live (in-person or streaming) by **19 August 2024**.
+  - The link to upload your session will be provided by email via Oxford Abstracts.
+  - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name.
 
 {:id="tip-update-file"}
 ### How to update your file without changing the URL or file name
@@ -99,4 +102,5 @@ If you decide to update your presentation file (.pptx, .pdf, .mp4) after the ini
 
 ## Additional thoughts
 
-Want to make your talk more interactive? Consider creating a poll in Zoom for your audience. Work with your moderator/[session organizers](/conferences/2024/sessions/) to create polls in advance.
+- Want to make your talk more interactive? Consider creating a poll in Zoom for your audience. Work with your moderator/[session organizers](/conferences/2024/sessions/) to create polls in advance.
+- Contact [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) with questions.
