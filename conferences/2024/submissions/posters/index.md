@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 1 August 2024_
+_Last modified: 6 August 2024_
 
 # SPNHC-TDWG 2024 Instructions for Virtual Posters and Poster Presenters
 
@@ -24,11 +24,11 @@ Presenters are encouraged to reimagine what their virtual posters could be while
 
 Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.  All posters will be available in the Oxford Abstracts Poster Gallery for online viewing by registered participants (both in-person and virtual).  We are also planning to rent some large flat screen monitors (TVs) for displaying posters on site from Tuesday through Thursday. (More about on-site display below.)  If you chose to [contribute an extended abstract](https://www.tdwg.org/conferences/2024/\#abstract-deadline) to *Biodiversity Information Science and Standards*, your poster will be uploaded to your published abstract in BISS (i.e., [https://biss.pensoft.net/collection/444/](https://biss.pensoft.net/collection/444/)), and your abstract will have a link to your video, if you submit one.
 
-**NOTE:** There is no space to display physical posters at the venue. Do not bring a physical poster.
+**NOTE:** There is no space to display physical posters at the venue. **Do not bring a physical poster.**
 
 ### Uploading content
 
-You will receive a link via separate email for uploading your poster **as a PDF**, and optionally an accompanying video (MP4), to TDWG's Google Drive. If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).  **Please upload these by 19 August.** 
+You will receive a link via separate email for uploading your poster **as a PDF**, and optionally an accompanying video (MP4), to TDWG's Google Drive. If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).  **Please upload a solid version by 19 August.** See also [How to update your file without changing the URL or file name](#tip-update-file)
 
 ***Do not include content that you do not [have permission](https://www.tdwg.org/about/terms-of-use/) to share publicly.*** By uploading your poster and/or video to the conference platform or folders, you are agreeing to allow SPNHC and TDWG to post it in locations where  it can be viewed at first by registered participants, but within a few months by the public at large, without restriction.  Again, if you chose to [submit an extended abstract](https://www.tdwg.org/conferences/2024/\#abstract-deadline) to *Biodiversity Information Science and Standards*, your poster will be attached to your abstract, and if you submit a video, it will be published on the SPNHC and/or TDWG YouTube channel.
 
@@ -49,7 +49,7 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 * The language of all posters is English.  
 * **Do not include** material (including images) protected by copyright or a license if it is not yours and you do not have specific permission to share it. Do not assume that images found on the web are free to reuse on the web, even for this non-commercial & academic purpose. If an open license is not specifically applied to an image you use, you must obtain an explicit license from the rights holder. Provide [attribution](https://creativecommons.org/use-remix/attribution/) for all images and content not belonging to you or your co-authors. See [TDWG's Terms of Use](https://www.tdwg.org/about/terms-of-use/).  
 * **File format:**  save the final version of your poster as a PDF and upload to the TDWG Google Drive. (See detailed export/upload instructions below.)   
-* **Deadline for uploading:  19 August 2024**    
+* **Deadline for uploading a solid draft:  19 August 2024**  You may update the file before the conference (see [tip](#tip-update-file) for doing this)  
 * Please use this naming convention for the PDF of your poster:   
   **POSTER\_OA\[submission\#\]\_YourFamilyName.pdf** (You can [find your OA\# here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing\&ouid=112437040868151967020\&rtpof=true\&sd=true).)  
 * Remember your poster will be viewed by a diverse international audience, who may not be familiar with customs, acronyms, and jargon used in your speciality. Spell out all acronyms at first use and explain or avoid jargon. 
@@ -75,6 +75,16 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 * The link to upload your poster to Google Drive will be provided in a separate email.  
   * Upload a copy of your poster (and optionally a video) to Google Drive. Note that you must sign in first.  
   * If this is a problem please email your poster to [editor@tdwg.org](mailto:editor@tdwg.org). Make sure you get an email acknowledging receipt. If you do not receive this within 12 h of sending your email, contact [editor@tdwg.org](mailto:editor@tdwg.org) without appending the file.
+ 
+{:id="tip-update-file"}
+### How to update your file without changing the URL or file name
+
+If you decide to update your presentation file (.pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
+- Find your original file (file name may have been changed slightly by the conference organizers; do not change it)
+- Right click on the file name and from the pop-up menu, choose "File information"
+- You should then choose the option to "Manage versions"
+- Click `Upload new version` and do so
+- You can delete older versions after uploading your current version.
 
 ## Poster viewing at SPNHC-TDWG 2024
 
