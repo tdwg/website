@@ -11,7 +11,7 @@ toc: true
 
 _Last modified: 5 August 2024 - important updates to slide format, slide upload deadlines & email notifications_
 
-## TL;DR
+## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
 - Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
   - Watch for the latest date you can modify your file 
@@ -31,7 +31,7 @@ _Last modified: 5 August 2024 - important updates to slide format, slide upload 
 
 - **Time:** Oral Presentation slots are designed for **10 minute presentations**, +3 minutes of questions, and +2 min of transition to the next speaker (total 15 min). Please respect the fact that moderators will be tasked to keep their sessions on time so your presentation should not exceed 10 minutes in length. 
 - **Lightning talks** ([LTNG02](/conferences/2024/sessions/#ltng02) and [LTNG05](/conferences/2024/sessions/#ltng05) are scheduled for **5 minutes (total)**, to include questions and transition to the next speaker. Slide numbers are limited (see linked descriptions)  
-- **Remote presenters** must upload a pre-recorded file to the relevant folder for their session by **19 August**. Links will be emailed to presenters via Oxford Abstracts (and MailChimp as a backup).
+- **Remote presenters** must upload at least a solid draft of their pre-recorded talk to the relevant folder for their session by **19 August**. Links will be emailed to presenters via Oxford Abstracts.
 - **Language:** while the language of the conference is English, we are experimenting again this year with allowing speakers to present in a language other than English IF the presentation is pre-recorded and includes English subtitles and slide content. Please email okinawa2024@spnhc.org if you would like to try this.
 - **Poster presenters**, please see [separate instructions](/conferences/2024/submissions/posters/).
 
