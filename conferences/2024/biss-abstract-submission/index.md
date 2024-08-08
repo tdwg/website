@@ -9,19 +9,17 @@ background:
 toc: true
 ---
 
-_Last updated 6 June 2024_
+_Last updated 8 August 2024_
 
 ## Getting started
 
 ### Register for SPNHC-TDWG 2024
 
-Registration is now open for the conference [https://www.tdwg.org/conferences/2024/registration/](/conferences/2024/registration/) and all presenters must be registered before their abstract will be published. Early bird rates for in-person attendance expire 8 July 2024.
+Registration is now open for the conference [https://www.tdwg.org/conferences/2024/registration/](/conferences/2024/registration/) and all presenters must be registered before their abstract will be published. 
 
 ### Introduction
 
 Extended abstracts may be submitted for any accepted oral presentation (including lightning talk) or poster—they are encouraged but not a requirement for presentation. Abstracts will be published in TDWG’s journal, _Biodiversity Information Science and Standards (BISS)_ ([see more](/conferences/2024/why-extended-abstract/)). Abstract publication is a benefit of your conference registration. Acceptance of an abstract in the Oxford Abstracts (OA) conference platform does not guarantee acceptance of publication of an extended abstract.
-
-**The deadline for submission of extended abstracts is 15 July.**
 
 Abstracts should be written in English for a general audience, providing context for your presentation and avoiding unexplained jargon. Your abstract may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples. Abstract submissions are limited to no more than 6,000 characters (including spaces of all document content; only supplemental materials are excluded from this count).
 
@@ -176,7 +174,7 @@ Please proofread your submission carefully:
 
 Click the `Validate` button to check that you have no outstanding omissions (ensures that mandatory fields are filled in, you have not exceeded the character limit, and the abstract is assigned to a collection) or errors flagged by the system (unresolved track changes or comments).
 
-The submitting author should see the `Submit for Technical Review` button (below the `Validate` button). Clicking this button sends your abstract to the editors for consideration as part of SPNHC-TDWG 2024. This step must be completed by the **deadline of 15 July**.
+The submitting author should see the `Submit for Technical Review` button (below the `Validate` button). Clicking this button sends your abstract to the editors for consideration as part of SPNHC-TDWG 2024. 
 
 You should receive an auto-generated confirmation email (be sure to find this in your mailbox).
 
@@ -225,7 +223,6 @@ Because this now has a BISS identifier, you must access actions to complete the 
 
 ![Incomplete Submission](https://static.tdwg.org/conferences/2020/instructions/3_IncompleteSubmission.png "Incomplete Submission")
 
-_The deadline for finalizing your abstract for publication in the journal will be announced in July._
 
 ## Seeking help
 
