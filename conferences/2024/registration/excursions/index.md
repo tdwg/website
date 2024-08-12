@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 2024-08-06 Site rearranged to highlight announcements, including new virtual tours and updated Terms and Conditions._
+_Last modified: 2024-08-12 Site rearranged to highlight announcements, including new virtual tours and updated Terms and Conditions._
 
 ## Announcements
 
@@ -38,7 +38,7 @@ Participants will not be required to provide payment for these tours (excluding 
 
 #### YANBARU NATURE TOURS
 
-**[Yanbaru Nature Tours Booking](https://acorn-okinawa.com/en/excursion-tour/){:target="_blank"}**
+**[Yanbaru Nature Tours Booking](https://yanbaru-guide.com/en/excursion-tour/){:target="_blank"}  New URL since 9 Aug**  
 
 **UPDATE: Weekend trips are closed! Half-day trips are still available, including Monday morning, September 2nd.**
 
