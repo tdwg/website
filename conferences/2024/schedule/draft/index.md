@@ -1,7 +1,7 @@
 ---
 title: SPNHC-TDWG 2024 DRAFT Schedule
 description: >
- Version date: 17 July 2024
+ Version date: 14 August 2024
 background:
   img: https://images.unsplash.com/photo-1583726933208-71489613d494
   by: Hiroko Yoshii
