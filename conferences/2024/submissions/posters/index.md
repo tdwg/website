@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 6 August 2024_
+_Last modified: 14 August 2024: fixed broken links to find your OA number and template_
 
 # SPNHC-TDWG 2024 Instructions for Virtual Posters and Poster Presenters
 
@@ -22,7 +22,7 @@ Presenters are encouraged to reimagine what their virtual posters could be while
 
 ### Poster Viewing
 
-Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.  All posters will be available in the Oxford Abstracts Poster Gallery for online viewing by registered participants (both in-person and virtual).  We are also planning to rent some large flat screen monitors (TVs) for displaying posters on site from Tuesday through Thursday. (More about on-site display below.)  If you chose to [contribute an extended abstract](https://www.tdwg.org/conferences/2024/\#abstract-deadline) to *Biodiversity Information Science and Standards*, your poster will be uploaded to your published abstract in BISS (i.e., [https://biss.pensoft.net/collection/444/](https://biss.pensoft.net/collection/444/)), and your abstract will have a link to your video, if you submit one.
+Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.  All posters will be available in the Oxford Abstracts Poster Gallery for online viewing by registered participants (both in-person and virtual).  We are also planning to rent some large flat screen monitors (TVs) for displaying posters on site from Tuesday through Thursday. (More about on-site display below.)  If you chose to [contribute an extended abstract](/conferences/2024/biss-extended-abstract-call/) to *Biodiversity Information Science and Standards*, your poster will be uploaded to your published abstract in BISS (i.e., [https://biss.pensoft.net/collection/438/](https://biss.pensoft.net/collection/438/)), and your abstract will have a link to your video, if you submit one.
 
 **NOTE:** There is no space to display physical posters at the venue. **Do not bring a physical poster.**
 
@@ -30,13 +30,13 @@ Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.
 
 You will receive a link via separate email for uploading your poster **as a PDF**, and optionally an accompanying video (MP4), to TDWG's Google Drive. If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).  **Please upload a solid version by 19 August.** See also [How to update your file without changing the URL or file name](#tip-update-file)
 
-***Do not include content that you do not [have permission](https://www.tdwg.org/about/terms-of-use/) to share publicly.*** By uploading your poster and/or video to the conference platform or folders, you are agreeing to allow SPNHC and TDWG to post it in locations where  it can be viewed at first by registered participants, but within a few months by the public at large, without restriction.  Again, if you chose to [submit an extended abstract](https://www.tdwg.org/conferences/2024/\#abstract-deadline) to *Biodiversity Information Science and Standards*, your poster will be attached to your abstract, and if you submit a video, it will be published on the SPNHC and/or TDWG YouTube channel.
+***Do not include content that you do not [have permission](https://www.tdwg.org/about/terms-of-use/) to share publicly.*** By uploading your poster and/or video to the conference platform or folders, you are agreeing to allow SPNHC and TDWG to post it in locations where  it can be viewed at first by registered participants, but within a few months by the public at large, without restriction.  Again, if you chose to [submit an extended abstract](/conferences/2024/biss-extended-abstract-call/) to *Biodiversity Information Science and Standards*, your poster will be attached to your abstract, and if you submit a video, it will be published on the SPNHC and/or TDWG YouTube channel.
 
 ## Preparing your virtual poster:
 
 * **Size** (dimensions): there are no physical dimensions for a virtual poster, but it must fit on a single “page.” We recommend using a PowerPoint slide with the slide size set to “wide screen”(i.e., HD, W x H \= 16:9, )   
 * **Orientation:** use landscape orientation. Landscape fits more effectively when projected on a screen or viewed on a monitor without pan and zoom controls. (See last section, *Poster viewing at SPNHC-TDWG 2024*).  
-* A [conference-themed template](https://drive.google.com/drive/folders/1l\_k-WEicWET4bl2ZSEa9hhd3ZsCRRdd9?usp=drive\_link) using the recommended widescreen format in landscape orientation is available to download. The layout can be changed; it gives reminders about content and demonstrates how different font sizes will appear.  
+* A [conference-themed template](https://docs.google.com/presentation/d/1sg-t3bBj-xxmUdzVwwHeBIl2YOn3jk0qoaF3rpyZNsU/edit?usp=sharing) using the recommended widescreen format in landscape orientation is available to download. The layout can be changed; it gives reminders about content and demonstrates how different font sizes will appear.  
 * Metadata to include in your poster:  
   * **Title**  
   * **Authors:** everyone listed in your abstract; affiliations too, if you like.  
@@ -51,7 +51,7 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 * **File format:**  save the final version of your poster as a PDF and upload to the TDWG Google Drive. (See detailed export/upload instructions below.)   
 * **Deadline for uploading a solid draft:  19 August 2024**  You may update the file before the conference (see [tip](#tip-update-file) for doing this)  
 * Please use this naming convention for the PDF of your poster:   
-  **POSTER\_OA\[submission\#\]\_YourFamilyName.pdf** (You can [find your OA\# here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing\&ouid=112437040868151967020\&rtpof=true\&sd=true).)  
+  **POSTER\_OAsubmission\#\_YourFamilyName.pdf** (You can [find your OA\# here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true).) _Please use leading zeros to create a 3-digit number._
 * Remember your poster will be viewed by a diverse international audience, who may not be familiar with customs, acronyms, and jargon used in your speciality. Spell out all acronyms at first use and explain or avoid jargon. 
 
 ## Preparing an Optional video
@@ -61,7 +61,7 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 * Here’s a tutorial on using PowerPoint to make a video of your presentation (poster): [https://youtu.be/hisnhKK94nI?si=KS0IixBLclBLhbku](https://youtu.be/hisnhKK94nI?si=KS0IixBLclBLhbku)   
 * Your video will be shared on either the SPNHC or TDWG YouTube channel. During the conference only registered participants will get the links to your video, but after the conference videos will become public. Do not upload a video if you are unwilling to share it publicly.  (BISS abstracts will also have links to related videos.)  
 * Videos may be in a language other than English, *if* English subtitles are provided.   
-* Use the filename convention: **POSTER\_OAsubmission\#\_YourFamilyName.** Find your OA submission number [here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing\&ouid=112437040868151967020\&rtpof=true\&sd=true) (use leading zeros to create a 3-digit number)..  
+* Use the filename convention: **POSTER\_OAsubmission\#\_YourFamilyName.pdf** Find your OA submission number [here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) (use leading zeros to create a 3-digit number).  
 * **Deadline for uploading your video is 19 August**
 
 ## Uploading posters & videos
