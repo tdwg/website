@@ -11,9 +11,9 @@ background:
 toc: true
 ---
 
-View or download as a .PDF.
+View or download as a [.PDF](https://static.tdwg.org/conferences/2024/first-timer-guidelines-for-spnhc-tdwg-2024.pdf){:target="_blank"}.
 
-Prepared by the SPNHC Networking and Career Development Committee (NCDC) and SPNHC-TDWG 2024 Steering Committee
+*Prepared by the SPNHC Networking and Career Development Committee (NCDC) and SPNHC-TDWG 2024 Steering Committee.*
 
 LOGOS
 
@@ -47,62 +47,62 @@ The conference is managed by a joint Steering Committee composed primarily of of
 ## Conference Events
 SPNHC-TDWG 2024 is organized over the week of 2–6 September.  This year's conference consists of 32 themed symposia, four workshops, two lightning talk sessions, democamp, virtual posters, and multiple sessions of contributed presentations. There will be five concurrent sessions throughout Tuesday–Thursday of the conference, featuring more than 380 presentations.  All sessions will be recorded for later viewing. Lunch and morning and afternoon tea breaks are included while sessions are in progress.  **Links to the latest program schedule may be found [here](https://www.tdwg.org/conferences/2024/#daily-schedule)**. Virtual attendees joining sessions by Zoom should note that **all times are local JST**.
 
-### Poster presentations:
+### Poster presentations
 Four large monitors will be set up for viewing posters during breaks and lunch, in addition to having them available for viewing on demand. In-person poster presenters will be scheduled to be present to answer questions during lunch and breaks Tuesday–Thursday. 
 
-### Themed lunches:
+### Themed lunches
 While bento box lunches will be distributed for attendees to disperse and eat where and with whom they want, special lunch gathering places are themed for Tuesday–Thursday in designated rooms. Newcomers (first timers) to SPNHC and/or TDWG may lunch together and enjoy an orientation from seasoned veterans on Tuesday. The annual SPNHC Networking and Career Development Committee ([NCDC](https://spnhc.org/networking-and-career-development-committee/)) networking luncheon is planned for Wednesday, September 4th. SPNHC-TDWG 2024 Diamond Sponsors will be featured at Thursday's lunch to reach a wider audience. 
 
-### Social events:
+### Social events
 Special evening social gatherings will include a Welcome Reception on Monday; Biodiversity Bingo Night on Tuesday ([tickets sold separately](https://www.tdwg.org/conferences/2024/registration/add-ons/#biodiversity-bingo-night)); and the Conference Dinner (and dancing!) on Thursday.
 
-### Bioblitz:
+### Bioblitz
 Hosted on iNaturalist, there will be two projects—one based in Okinawa for in-person attendees and one worldwide, for virtual attendees. How-to information will be provided for those new to the process. An initial results announcement event (possibly with prizes!) will be held during the Closing Plenary Session.
 
-### Sponsors and Supporters:
+### Sponsors and Supporters
 Please take the time to visit with the folks at the tables and booths of the generous [sponsors and supporters](https://www.tdwg.org/conferences/2024/#sponsors-and-supporters) of SPNHC-TDWG 2024. Their support has helped make this conference possible. 
 
-### Business meetings:
+### Business meetings
 Each Society will hold separate open business meetings on Friday morning--come to see what each society has accomplished over the past year, find out where it's going and get a preview of what's planned for next year's conference. 
 
-### Committee meetings:
+### Committee meetings
 While SPNHC committees and TDWG Interest/Task groups will not hold formal meetings during the conference. The SPNHC Committee Chairs will meet in a closed session on Tuesday and the SPNHC Council meeting (also closed session) will meet on Wednesday evening.  
 
 ***SPNHC Members:*** *Please refer to the [SPNHC website for Committee Chairs](https://spnhc.org/what-spnhc-does/governance/committees-and-representatives/#conference) contact information and reach out directly to join their listserv and/or attend future meetings held after the conference.*
 
 ***TDWG Members:*** *Find out more about TDWG and [learn how to become involved](https://www.tdwg.org/about/) in the [TDWG Community](https://www.tdwg.org/community/). Interest and Task groups meet regularly throughout the year on Zoom and invite you to join them!*
 
-### Excursions:
+### Excursions
 Sign up for [pre- and post-conference excursions](https://www.tdwg.org/conferences/2024/registration/excursions/) before the **12 August** deadline. Many are free thanks to the generous sponsorship of the Japanese Government's Japan Tourism Agency. Special this year for virtual participants are three pre-conference [Virtual tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/Virtual%20Tour.pdf) taking place in mid-August.
 
-### Daily Scheduled Events
+## Daily Scheduled Events
 ***An updated schedule of events can be found [here](https://www.tdwg.org/conferences/2024/#daily-schedule).***
 
-#### Monday, 2 September
+### Monday, 2 September
 Starting Monday afternoon, everyone will gather for the opening session, featuring two keynote speakers [Dr. Sara Beery](https://www.tdwg.org/conferences/2024/keynotes/#sara-beery) and [Dr. Tom Strang](https://www.tdwg.org/conferences/2024/keynotes/#tom-strang), followed by highlighted contributed talks after afternoon tea. Doors open at the nearby Laguna Garden Hotel for the Welcome Reception at 6:30 PM. Enjoy light snacks and beverages while greeting old friends and making new ones. Don't miss the Okinawa dancers starting at 7 PM!
 
-#### Tuesday, 3 September
+### Tuesday, 3 September
 Beginning Tuesday morning at 9 AM, attendees will have difficult choices to make between attending one of five parallel sessions or racing between rooms to catch specific talks. Before FOMO (fear of missing out) strikes, know that you can catch up later on talks you missed by watching on-demand recordings, which will be posted for viewing by both in-person and virtual attendees alike. Topics for Tuesday range from AI to facets of collections management to data mobilization.
 
 Newcomers to SPNHC or TDWG events are invited to lunch together today.
 
 Be sure to catch the bus leaving at 7 PM to [Biodiversity Bingo Night](https://www.tdwg.org/conferences/2024/registration/add-ons/#biodiversity-bingo-night) (separate registration required) at the [Sky Bar Top Tree](https://toptree-naha.com/en/).
 
-#### Wednesday, 4 September
+### Wednesday, 4 September
 Day two of the five-parallel-session smorgasbord features lightning talks in Specimen Spotlight; DemoCamp; herbarium techniques; workshops on Latimer Core and photography; updates on biodiversity knowledge linking (BiCIKL), Catalog of LIfe, and Specify; and more.
 
 **Networking Luncheon (formerly, the Emerging Professionals Luncheon):** This event, hosted by the SPNHC Networking and Career Development Committee ([NCDC](https://spnhc.org/networking-and-career-development-committee/)) will be held during the Wednesday lunch break (**please sign up to attend when registering, there is no cost to register for this event**). The NCDC encourages professionals of all stages to attend, especially those who identify as emerging or early-career professionals, students, and first-time attendees of a SPNHC or TDWG conference. The NCDC also invites more established professionals who are willing to highlight their expertise and guide discussions held over lunch. This event is a good opportunity for members of SPNHC and TDWG—at all stages in their careers—to connect and network with folks in their field! 
 
 If you did not register to join the Networking Luncheon, but have changed your mind, that’s just fine. Just show up. If you’d like to receive communications in advance of this event, contact the luncheon hosts directly, NCDC committee co-chairs, Jessie Nakano ([nakanojk@si.edu](mailto:nakanojk@si.edu)) or Megan King ([megan.king@rutgers.edu](mailto:megan.king@rutgers.edu)) to be added to the event list.
 
-#### Thursday, 5 September
+### Thursday, 5 September
 The last day of the whirlwind [omakase](https://en.wikipedia.org/wiki/Omakase) of conference topics features a workshop on Data Carpentry; symposia on collection practices; data practices including controlled vocabularies, alien species, and taxonomies; communicating through data; increasing access through community science; prototyping biodiversity digital twins, and more.
 
 Diamond Sponsors will be featured at Thursday's lunch.
 
 Join us at the Laguna Garden Hotel for the **Conference Dinner** and dancing (a SPNHC conference tradition!), and top off your experience with an evening walk on the beach.
 
-#### Friday, 6 September
+### Friday, 6 September
 The SPNHC Annual Business Meeting will be held starting at 9:00 AM and continue until morning tea. This presents the primary opportunity for the SPNHC leadership, Council and Committee chairs, to gather and discuss important business while in person, including updates about future conferences, hosts, and dates. All are welcome to attend. 
 
 The TDWG Business Meeting will start at 11:00 AM after morning tea until lunch. Reports from committees, interest and task groups will be featured, as well as a sneak peak at plans for the upcoming conference in 2025. 
