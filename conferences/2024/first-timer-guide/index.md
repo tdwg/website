@@ -18,7 +18,9 @@ View or download as a [.PDF](https://static.tdwg.org/conferences/2024/first-time
 LOGOS
 
 **Dates:** 2-6 September 2024
+
 **Location:** Okinawa Convention Center, Okinawa, Japan
+
 **Theme:** "Enhancing Local Capacity, Elevating Global Standards."
 
 **NOTE:** This document is geared towards preparing attendees for the joint conference in Okinawa, and its information should be especially helpful to first-time conference attendees regardless of whether they are SPNHC or TDWG members.
