@@ -10,12 +10,18 @@ background:
   href: https://unsplash.com/photos/people-standing-beside-stage-FLmujG5l7uE
 toc: true
 ---
-
+*Prepared by the SPNHC Networking and Career Development Committee (NCDC) and SPNHC-TDWG 2024 Steering Committee.*
 View or download as a [.PDF](https://static.tdwg.org/conferences/2024/first-timer-guidelines-for-spnhc-tdwg-2024.pdf){:target="_blank"}.
 
-*Prepared by the SPNHC Networking and Career Development Committee (NCDC) and SPNHC-TDWG 2024 Steering Committee.*
-
-LOGOS
+<table style="width: 100%; border-collapse: collapse;" border="0">
+<tbody>
+<tr style="height: 234px;">
+ <td colspan="2" style="width: 100%; text-align: center"><img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png" 
+     width="750">
+ </td>
+</tr>
+</tbody>
+</table>
 
 **Dates:** 2-6 September 2024
 
