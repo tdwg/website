@@ -46,7 +46,7 @@ _Last updated 4 August 2024_
 {:id="presenter-instructions"}
 ## Instructions for presenters have been posted!
 
-If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, please read the instructions for [presenters](/conferences/2024/oral-presentations/) and/or [posters](/conferences/2024/submissions/posters/).  If you missed the email sent via Oxford Abstracts about these instructions, please be aware:
+If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, please read the instructions for **[presenters](/conferences/2024/oral-presentations/)** and/or **[posters](/conferences/2024/submissions/posters/).**  If you missed the email sent via Oxford Abstracts about these instructions, please be aware:
 
   - The **deadline for uploading at least a solid draft of your presentation is 19 Aug!**  The technical team in Okinawa wants to review slides and video to ensure there are no technical problems.
   - The URL to the upload folder was contained in that email! (As an open folder it can't be posted publicly.)  Please request the **Upload URL** by emailing the [organizers](mailto:okinawa2024@spnhc.org).
