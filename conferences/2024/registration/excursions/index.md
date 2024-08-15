@@ -13,7 +13,8 @@ _Last modified: 2024-08-12 Site rearranged to highlight announcements, including
 
 ## Announcements
 
-- **Registration deadline for [tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/excursions0731.pdf){:target="_blank"} EXTENDED:** ~~August 2nd~~ **August 12th 17:00 (JST)**
+- **Registration deadline for [tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/excursions0731.pdf){:target="_blank"} ~~EXTENDED~~:** ~~August 2nd~~ ~~August 12th 17:00 (JST)~~ **CLOSED**
+- **VIRTUAL TOURS STILL OPEN** (See Japan Tourism Agency Excursions below)
 - **Tour date options:**
   - September 1st (Sun) and 7th (Sat) for Japan Tourism Agency-sponsored free excursions
   - [Virtual Tours](https://va.apollon.nta.co.jp/SPNHC-TDWG2024/files/Virtual%20Tour.pdf){:target="_blank"} **NEW** registration deadlines 14 August 17:00 JST or 16 August 17:00 JST, depending on tour
