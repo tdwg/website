@@ -115,6 +115,10 @@ SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our 
   </a>
 </p>
 
+## [First-timer's Guide to SPNHC-TDWG 2024](/conferences/2024/first-timer-guide/)
+
+Guidelines and suggestions for attending a joint conference hosted by the Society for the Preservation of Natural History Collections (SPNHC) and Biodiversity Information Standards (TDWG).
+
 ## Abstracts
 
 {:id="abstract-deadline"}
