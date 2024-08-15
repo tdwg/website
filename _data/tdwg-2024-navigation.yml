@@ -35,17 +35,17 @@
     href: /conferences/2024/registration/excursions/
 - text: "Submissions"
   menu:
+  - text: "PRESENTER INSTRUCTIONS"
+  - text: "Oral Presentations"
+    href: /conferences/2024/oral-presentations/
+  - text: "Posters"
+    href: /conferences/2024/submissions/posters/
+  - text: "---"
   - text: "Calls"
   - text: "Why submit an extended abstract?"
     href: /conferences/2024/why-extended-abstract/
   - text: "Call for extended abstracts"
     href: /conferences/2024/biss-extended-abstract-call/
-  - text: "---"
-  - text: "Presentation Instructions"
-  - text: "Oral Presentations"
-    href: /conferences/2024/oral-presentations/
-  - text: "Posters"
-    href: /conferences/2024/submissions/posters/
   - text: "---"
   - text: "Abstracts"
   - text: "Submit extended abstract to BISS"
