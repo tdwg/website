@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 14 August 2024: fixed broken links to find your OA number and template_
+_Last modified: 15 August 2024: reminder to **sign in to your Google account** before trying to upload your poster or video_
 
 # SPNHC-TDWG 2024 Instructions for Virtual Posters and Poster Presenters
 
@@ -22,13 +22,13 @@ Presenters are encouraged to reimagine what their virtual posters could be while
 
 ### Poster Viewing
 
-Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.  All posters will be available in the Oxford Abstracts Poster Gallery for online viewing by registered participants (both in-person and virtual).  We are also planning to rent some large flat screen monitors (TVs) for displaying posters on site from Tuesday through Thursday. (More about on-site display below.)  If you chose to [contribute an extended abstract](/conferences/2024/biss-extended-abstract-call/) to *Biodiversity Information Science and Standards*, your poster will be uploaded to your published abstract in BISS (i.e., [https://biss.pensoft.net/collection/438/](https://biss.pensoft.net/collection/438/)), and your abstract will have a link to your video, if you submit one.
+Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.  All posters will be available in the Oxford Abstracts Poster Gallery for online viewing by registered participants (both in-person and virtual).  We are renting four large flat screen monitors (TVs) for displaying posters on site from Tuesday through Thursday. (More about on-site display below.)  If you chose to [contribute an extended abstract](/conferences/2024/biss-extended-abstract-call/) to *Biodiversity Information Science and Standards*, your poster will be uploaded to your published abstract in BISS (i.e., [https://biss.pensoft.net/collection/438/](https://biss.pensoft.net/collection/438/)), and your abstract will have a link to your video, if you submit one.
 
 **NOTE:** There is no space to display physical posters at the venue. **Do not bring a physical poster.**
 
 ### Uploading content
 
-You will receive a link via separate email for uploading your poster **as a PDF**, and optionally an accompanying video (MP4), to TDWG's Google Drive. If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).  **Please upload a solid version by 19 August.** See also [How to update your file without changing the URL or file name](#tip-update-file)
+You will receive a link via separate email for uploading your poster **as a PDF**, and optionally an accompanying video (MP4), to TDWG's Google Drive. **Please sign in to Google** before clicking the link to upload your poster or video. Your Google account can use any email (gmail not necessary). If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).  **Please upload a solid version by 19 August.** See also [How to update your file without changing the URL or file name](#tip-update-file)
 
 ***Do not include content that you do not [have permission](https://www.tdwg.org/about/terms-of-use/) to share publicly.*** By uploading your poster and/or video to the conference platform or folders, you are agreeing to allow SPNHC and TDWG to post it in locations where  it can be viewed at first by registered participants, but within a few months by the public at large, without restriction.  Again, if you chose to [submit an extended abstract](/conferences/2024/biss-extended-abstract-call/) to *Biodiversity Information Science and Standards*, your poster will be attached to your abstract, and if you submit a video, it will be published on the SPNHC and/or TDWG YouTube channel.
 
@@ -62,11 +62,13 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 * Your video will be shared on either the SPNHC or TDWG YouTube channel. During the conference only registered participants will get the links to your video, but after the conference videos will become public. Do not upload a video if you are unwilling to share it publicly.  (BISS abstracts will also have links to related videos.)  
 * Videos may be in a language other than English, *if* English subtitles are provided.   
 * Use the filename convention: **POSTER\_OAsubmission\#\_YourFamilyName.pdf** Find your OA submission number [here](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) (use leading zeros to create a 3-digit number).  
-* **Deadline for uploading your video is 19 August**
+* **Deadline for uploading (a solid version of) your video is 19 August**
 
 ## Uploading posters & videos
 
-**Save & Upload your poster to TDWG's Google Drive** **no later than 19 August**
+**Please sign in to Google** before clicking the link to upload your poster or video. Your Google account can use any email (gmail not necessary).
+
+**Save & Upload (at least a solid version of) your poster to TDWG's Google Drive no later than 19 August** (link sent by separate email from Oxford Abstracts)
 
 * Save your poster as a PDF so that it is not more than 10 MB in size. Optimize your export for on-screen viewing, not printing.  Graphic objects should not be saved at higher resolution than they will be displayed. (PowerPoint hint: use “File / Compress pictures” before exporting to PDF.)  
 * If you are on a Mac, we recommend that you export using the option for “Best electronic distribution” because it will preserve your links as functional URLs.    
@@ -80,6 +82,8 @@ You will receive a link via separate email for uploading your poster **as a PDF*
 ### How to update your file without changing the URL or file name
 
 If you decide to update your presentation file (.pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
+
+- Sign in to your Google account first (gives you write access to the upload site)
 - Find your original file (file name may have been changed slightly by the conference organizers; do not change it)
 - Right click on the file name and from the pop-up menu, choose "File information"
 - You should then choose the option to "Manage versions"
