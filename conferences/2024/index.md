@@ -95,11 +95,11 @@ SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our 
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://tru-vue.com/" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue-drkblu-300w.png" alt="Tru Vue, Inc.: Glass and Acrylic Glazing Solutions" width="120">
-  </a>
   <a href="https://ala.org.au" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="160">
+  </a>
+  <a href="https://tru-vue.com/" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue-drkblu-300w.png" alt="Tru Vue, Inc.: Glass and Acrylic Glazing Solutions" width="120">
   </a>
   <a href="https://pensoft.net" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="160">
