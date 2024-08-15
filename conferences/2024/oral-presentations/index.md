@@ -9,10 +9,11 @@ background:
 toc: true
 ---
 
-_Last modified: 5 August 2024 - important updates to slide format, slide upload deadlines & email notifications_
+_Last modified: 15 August 2024 - **reminder to sign in to Google** before trying to upload presentation_
 
 ## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
+- Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
 - Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
   - Watch for the latest date you can modify your file 
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name
@@ -63,6 +64,7 @@ _Last modified: 5 August 2024 - important updates to slide format, slide upload 
 - Pre-recorded presentations should be saved as MP4 formatted files. 
 - Please use a headset with a microphone for best quality audio.
 - If your recording includes you in the video, please ensure that your camera is at the level of your head. (If you are looking down at your computer and camera, we’re looking up your nose ;-/ ).
+- Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
 - Upload at least a solid draft of your pre-recorded presentation to the relevant folder for your session by **19 August 2024**.
   - The link to upload your session will be provided by email via Oxford Abstracts.
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name.
@@ -70,6 +72,7 @@ _Last modified: 5 August 2024 - important updates to slide format, slide upload 
 ### Uploading your slides & pre-recorded video
 
 - File naming convention: Please title the file to your talk using the following filename convention: **SessionCode_OAidentifier_YourFamilyName** Examples of the SessionCode include SYM01, DEMO01, LTNG05. [Find your OAidentifer](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) (Column A). 
+- Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
 - Upload pre-recorded presentations and slides to the relevant session folder (link sent separately). 
 - IMPORTANT: To ensure that your file remains in its original format and does not get converted to Google Slides 
   - Go to the link provided and find the folder for your session (open the folder)
@@ -83,6 +86,7 @@ _Last modified: 5 August 2024 - important updates to slide format, slide upload 
 ### How to update your file without changing the URL or file name
 
 If you decide to update your presentation file (.pptx, .pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
+- Sign in to Google _before_ clicking the link to find/upload your presentation. Your Google account can use any email (gmail not necessary)
 - Find your original file (file name may have been changed slightly by the conference organizers; do not change it)
 - Right click on the file name and from the pop-up menu, choose "File information"
 - You should then choose the option to "Manage versions"
