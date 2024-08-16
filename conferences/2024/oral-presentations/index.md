@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 15 August 2024 - **reminder to sign in to Google** before trying to upload presentation_
+_Last modified: 15 August 2024 - **reminder to sign in to Google** before trying to upload presentation; no speaker view provided on site_
 
 ## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
@@ -21,8 +21,10 @@ _Last modified: 15 August 2024 - **reminder to sign in to Google** before trying
 - Link to upload site will be sent in separate email (do not lose; do not distribute)
 - Slide and video format is widescreen (16:9)
 - Do not include material (particularly images) under copyright that is not yours to share. Provide attribution for all images including content belonging to the authors.
-- Presentations are 10 minutes in length + time for questions/change to next speaker (15 min total)
-- Lightning talks are 5 minutes total and limited in slide number
+- Presentations
+  - Symposium, democamp, and contributed oral talks are 10 minutes in length + time for questions/change to next speaker (15 min total)
+  - Lightning talks are 5 minutes total and limited in slide number
+- No speaker view is provided at the podium. If you need notes to make your presentation, please bring them with you.
 - Want more inspiration? See [Your slides, your story, your attitude: Make your presentations work](https://www.youtube.com/watch?v=yi0OkL8y8Ac) on YouTube.
 - Contact [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org) with questions.
 
@@ -33,6 +35,7 @@ _Last modified: 15 August 2024 - **reminder to sign in to Google** before trying
 - **Time:** Oral Presentation slots are designed for **10 minute presentations**, +3 minutes of questions, and +2 min of transition to the next speaker (total 15 min). Please respect the fact that moderators will be tasked to keep their sessions on time so your presentation should not exceed 10 minutes in length. 
 - **Lightning talks** ([LTNG02](/conferences/2024/sessions/#ltng02) and [LTNG05](/conferences/2024/sessions/#ltng05) are scheduled for **5 minutes (total)**, to include questions and transition to the next speaker. Slide numbers are limited (see linked descriptions)  
 - **Remote presenters** must upload at least a solid draft of their pre-recorded talk to the relevant folder for their session by **19 August**. Links will be emailed to presenters via Oxford Abstracts.
+- **No speaker view** is provided on the computer at the podium. If you need notes to make your presentation, please bring them with you.
 - **Language:** while the language of the conference is English, we are experimenting again this year with allowing speakers to present in a language other than English IF the presentation is pre-recorded and includes English subtitles and slide content. Please email okinawa2024@spnhc.org if you would like to try this.
 - **Poster presenters**, please see [separate instructions](/conferences/2024/submissions/posters/).
 
@@ -96,6 +99,7 @@ If you decide to update your presentation file (.pptx, .pdf, .mp4) after the ini
 ## Presenting your talk
 
 - Practice your presentation and timing so as not to exceed 10 minutes.
+- **No speaker view** is provided on the computer at the podium. If you need notes to make your presentation, please bring them with you.
 - Remember this is a diverse international audience who may not be familiar with customs, acronyms, and jargon used in your speciality. Help everyone appreciate your work by speaking clearly, avoiding slang, and explaining potentially unfamiliar terms. Also avoid very rapid delivery.
 - All sessions and talks will be recorded and made available to registrants for subsequent on-demand viewing after the session. 
 - If presenting onsite, please be at the conference room where your presentation is scheduled at least 15 min before your session begins.
