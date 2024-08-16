@@ -162,14 +162,9 @@ or think of open-ended questions such as “What are you most looking forward to
 - Both SPNHC and TDWG greatly appreciate your feedback by participating in post-conference surveys and sharing your experience and observations to make the next year’s meetings even better.
 
 ## Contact Information
-SPNHC-TDWG Steering Committee: [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org)
+**SPNHC-TDWG Steering Committee:** [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org)
 
-SPNHC NCDC Co-Chairs:
-Jessie Nakano (nakanojk@si.edu) =  Attending conference in-person
-
-Megan King (megan.king@rutgers.edu)  = Attending conference in-person
-
-Kevin Krajcir  (kjkrajcir@gmail.com)
+**SPNHC NCDC Co-Chairs:**  Jessie Nakano (nakanojk@si.edu) =  Attending conference in-person; Megan King (megan.king@rutgers.edu)  = Attending conference in-person; Kevin Krajcir  (kjkrajcir@gmail.com)
 
 
  
