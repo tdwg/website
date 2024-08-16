@@ -31,6 +31,8 @@ View or download as a [.PDF](https://static.tdwg.org/conferences/2024/first-time
 
 **NOTE:** This document is geared towards preparing attendees for the joint conference in Okinawa, and its information should be especially helpful to first-time conference attendees regardless of whether they are SPNHC or TDWG members.
 
+_Last updated 15 August_
+
 ## What is SPNHC?
 The Society for the Preservation of Natural History Collection (SPNHC; pronounced as “spinach”) is an international organization devoted to the preservation, conservation, and management of natural history collections. 
 
@@ -164,7 +166,9 @@ SPNHC-TDWG Steering Committee: [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.
 
 SPNHC NCDC Co-Chairs:
 Jessie Nakano (nakanojk@si.edu) =  Attending conference in-person
+
 Megan King (megan.king@rutgers.edu)  = Attending conference in-person
+
 Kevin Krajcir  (kjkrajcir@gmail.com)
 
 
