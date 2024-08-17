@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 4 August 2024_
+_Last updated 16 August 2024_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -60,7 +60,7 @@ Please read the [important information](/conferences/2024/registration/) before 
 {:id="excursions"}
 ## [Excursion registration has closed](/conferences/2024/registration/excursions/)
 
-The registration sites for excursions associated with our conference are now closed.  You can read [about these tours here](/conferences/2024/registration/excursions/). Please pay special attention to booking instructions and conditions. Some of these tours are offered free of charge, but capacity is limited, so book as soon as you can.
+The registration sites for excursions associated with our conference are now closed.  You can read [about these tours here](/conferences/2024/registration/excursions/), if you need some inspiration for exploring on your own.
 
 ## [Registration add-ons: Biodiversity Bingo Night (Tue) and T-shirts](/conferences/2024/registration/add-ons/)
 
