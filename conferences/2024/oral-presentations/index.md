@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 15 August 2024 - **reminder to sign in to Google** before trying to upload presentation; no speaker view provided on site_
+_Last modified: 17 August 2024 - **reminder to sign in to Google** before trying to upload presentation; **updated template file** 17 Aug.; no speaker view provided on site_
 
 ## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
@@ -17,10 +17,11 @@ _Last modified: 15 August 2024 - **reminder to sign in to Google** before trying
 - Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
   - Watch for the latest date you can modify your file 
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name
-- Upload final version of slides (as PPTX, PDF, or ODP; _not Google Slides_) and pre-recorded videos (using .mp4 format) to your presentation's Session folder on Google Drive
+- Upload final version of slides (as PPTX, PDF, or ODP; **_not Google Slides_**) and pre-recorded videos (using .mp4 format) to your presentation's Session folder on Google Drive
 - Link to upload site will be sent in separate email (do not lose; do not distribute)
 - Slide and video format is widescreen (16:9)
 - Do not include material (particularly images) under copyright that is not yours to share. Provide attribution for all images including content belonging to the authors.
+  - **Updated version of PowerPoint template uploaded 17 Aug** (includes credit for conference logo; existing presentations using an earlier version of the template can copy the text block and paste it into their presentations)
 - Presentations
   - Symposium, democamp, and contributed oral talks are 10 minutes in length + time for questions/change to next speaker (15 min total)
   - Lightning talks are 5 minutes total and limited in slide number
@@ -41,8 +42,9 @@ _Last modified: 15 August 2024 - **reminder to sign in to Google** before trying
 
 ### Slide format
 
-- All presentations should be saved as PowerPoint (pptx), OpenDocument Presentation (ODP) or PDF files. If you use Google Slides, please download them as one of these formats before uploading to the conference folder.
-- An optional template, designed for SPNHC-TDWG 2024 by Daphne Hoh, is available for your use. [Download a copy of the file](https://docs.google.com/presentation/d/1zW4feT5K33qymUyU5b37_jRrGykR0UpE/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) to personalize it for your presentation. 
+- All presentations should be saved as PowerPoint (pptx), OpenDocument Presentation (ODP) or PDF files. If you use Google Slides, please download them as one of these formats before uploading to the conference folder. **Do not upload Google Slides files to the conference folder.**
+- An optional template, designed for SPNHC-TDWG 2024 by Daphne Hoh, is available for your use. [Download a copy of the file](https://docs.google.com/presentation/d/1zW4feT5K33qymUyU5b37_jRrGykR0UpE/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) to personalize it for your presentation.
+  - An **updated version of PowerPoint template uploaded 17 Aug** (includes credit for conference logo; existing presentations using an earlier version of the template can copy the text block and paste it into their presentations) 
 - Please format all slides for 16:9 size. Try to avoid putting critical content in the top right corner of your slides (where the speaker is often displayed in video).
 - Do not embed videos, use animations or fancy slide transitions that might slow, bloat the file size or otherwise hinder the presentation on Zoom.
   - If sound or video must be embedded in slides, prior notice must be given [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org)
@@ -90,7 +92,7 @@ _Last modified: 15 August 2024 - **reminder to sign in to Google** before trying
 
 If you decide to update your presentation file (.pptx, .pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
 - Sign in to Google _before_ clicking the link to find/upload your presentation. Your Google account can use any email (gmail not necessary)
-- Find your original file (file name may have been changed slightly by the conference organizers; do not change it)
+- Find your original file (file name may have been changed by the conference organizers, but should have your family name visible; do not change it)
 - Right click on the file name and from the pop-up menu, choose "File information"
 - You should then choose the option to "Manage versions"
 - Click `Upload new version` and do so
