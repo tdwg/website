@@ -41,7 +41,7 @@ Participants will not be required to provide payment for these tours (excluding 
 
 **[Yanbaru Nature Tours Booking](https://yanbaru-guide.com/en/excursion-tour/){:target="_blank"}  New URL since 9 Aug**  
 
-**UPDATE: Weekend trips are closed! Half-day trips are still available, including Monday morning, September 2nd.**
+**UPDATE: Registration for ALL trips is now closed.**
 
 We do not have any special instructions for registration with Yanbaru Nature Tours. The web site is clear and self-explanatory. These are very special, limited capacity tours led by local biodiversity experts (emphasis on birds and herps). If you have any questions about the tours, payments or schedules, please contact ACORN Okinawa directly. Neither SPNHC nor TDWG is responsible for the planning of these tours. There are no discounts or other benefits offered by SPNHC-TDWG for these tours.
 
