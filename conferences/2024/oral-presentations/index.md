@@ -9,11 +9,12 @@ background:
 toc: true
 ---
 
-_Last modified: 17 August 2024 - **reminder to sign in to Google** before trying to upload presentation; **updated template file** 17 Aug.; no speaker view provided on site_
+_Last modified: 18 August 2024 - **reminder to sign in to Google** before trying to upload presentation; **updated template file** 17 Aug.; no speaker view provided on site_
 
 ## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
 - Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
+- Use the following filename convention: **SessionCode_OAidentifier_YourFamilyName** (e.g., SYM01_011_Smythy)
 - Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
   - Watch for the latest date you can modify your file 
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name
@@ -90,7 +91,7 @@ _Last modified: 17 August 2024 - **reminder to sign in to Google** before trying
 {:id="tip-update-file"}
 ### How to update your file without changing the URL or file name
 
-If you decide to update your presentation file (.pptx, .pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
+If you decide to update your presentation file (.pptx, .pdf, .mp4; _method does not work for native Google files_) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
 - Sign in to Google _before_ clicking the link to find/upload your presentation. Your Google account can use any email (gmail not necessary)
 - Find your original file (file name may have been changed by the conference organizers, but should have your family name visible; do not change it)
 - Right click on the file name and from the pop-up menu, choose "File information"
