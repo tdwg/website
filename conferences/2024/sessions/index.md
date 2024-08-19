@@ -8,7 +8,7 @@ background:
   href: https://unsplash.com/photos/a-large-school-of-fish-swimming-in-the-ocean-vYsOa_s3C6g
 toc: false
 ---
-Last modified 2024-07-30
+Last modified 2024-08-19
 
 ## Index to sessions
 
@@ -422,7 +422,7 @@ How do museum collections and museum staff utilise and/or support the IUCN Red L
 
 Session Type: Symposium; Open to abstract submissions<br />
 Conference Track:  SPNHC<br />
-Organizers:  **[Mariana Di Giacomo](mailto:mariana.digiacomo@yale.edu), Peter Giere**
+Organizers:  **[Mariana Di Giacomo](mailto:mariana.digiacomo@yale.edu), Piper Stepule, Peter Giere**
 
 **Abstract**<br />
 Microscope slides are a prevalent way to prepare natural history collections. They house complete and partial specimens, as well as samples prepared for study. They may be mounted with or without a medium, on glass, metal, cardstock or on other creative materials and they may date back more than a century and thus show signs of deterioration. This diversity and age make the need for their care and preservation complex while at the same time, they may connect professionals who might otherwise work in very different fields. This session will serve as an opportunity for participants to share their experiences in curating microscope slides collections, including conservation, collections management, and digitization. We will discuss issues of storage, mounting media stability, glass deterioration, remounting efforts, and digitization campaigns, among other topics. We encourage professionals from different fields within natural history to share their experiences, tips and tricks, as well as their research on topics of conservation, degradation, and preservation.
