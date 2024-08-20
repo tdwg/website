@@ -9,14 +9,14 @@ background:
 toc: true
 ---
 
-_Last modified: 18 August 2024 - **reminder to sign in to Google** before trying to upload presentation; **updated template file** 17 Aug.; no speaker view provided on site_
+_Last modified: 20 August 2024 - **new deadline** for revised presentation uploads; **reminder to sign in to Google** before trying to upload presentation; **updated template file** 17 Aug.; no speaker view provided on site_
 
 ## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
 - Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
 - Use the following filename convention: **SessionCode_OAidentifier_YourFamilyName** (e.g., SYM01_011_Smythy)
 - Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
-  - Watch for the latest date you can modify your file 
+  - **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775) 
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name
 - Upload final version of slides (as PPTX, PDF, or ODP; **_not Google Slides_**) and pre-recorded videos (using .mp4 format) to your presentation's Session folder on Google Drive
 - Link to upload site will be sent in separate email (do not lose; do not distribute)
@@ -73,6 +73,7 @@ _Last modified: 18 August 2024 - **reminder to sign in to Google** before trying
 - Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
 - Upload at least a solid draft of your pre-recorded presentation to the relevant folder for your session by **19 August 2024**.
   - The link to upload your session will be provided by email via Oxford Abstracts.
+  - **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775)
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name.
 
 ### Uploading your slides & pre-recorded video
@@ -86,6 +87,7 @@ _Last modified: 18 August 2024 - **reminder to sign in to Google** before trying
   - After uploading, right-click your file in the folder and ensure that ’Open with Google Slides’ is not selected. 
 - Upload at least a solid draft of videos and slides to be presented live (in-person or streaming) by **19 August 2024**.
   - The link to upload your session will be provided by email via Oxford Abstracts.
+  - **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775)
   - See important instructions for [updating your file](#tip-update-file) without destroying the link or the file name.
 
 {:id="tip-update-file"}
@@ -98,6 +100,7 @@ If you decide to update your presentation file (.pptx, .pdf, .mp4; _method does 
 - You should then choose the option to "Manage versions"
 - Click `Upload new version` and do so
 - You can delete older versions after uploading your current version.
+- **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775)
 
 ## Presenting your talk
 
