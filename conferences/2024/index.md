@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 16 August 2024_
+_Last updated 21 August 2024: virtual tours now available online; deadline to upload revised presentations posted_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -48,8 +48,10 @@ _Last updated 16 August 2024_
 
 If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please read the instructions for [presenters](/conferences/2024/oral-presentations/)** and/or **[posters](/conferences/2024/submissions/posters/).**  If you missed the email sent via Oxford Abstracts about these instructions, please be aware:
 
-  - The **deadline for uploading at least a solid draft of your presentation is 19 Aug!**  The technical team in Okinawa wants to review all slides and videos to ensure there are no technical problems.  You can upload your perfected version later, but before the conference! (Details to follow.)
-  - The secret URL of the upload folder was contained in that email! (As an open folder it can't be posted publicly.)  Please request the **Upload URL** by emailing the [organizers](mailto:okinawa2024@spnhc.org).
+- The deadline for uploading at least a solid draft of your presentation was 19 Aug!  The technical team in Okinawa wants to review all slides and videos to ensure there are no technical problems.
+- **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775).
+ - **Important instructions** for updating your files are [here](/conferences/2024/oral-presentations/#tip-update-file)
+ - The secret URL to the upload folder was sent to presenters by email! (As an open folder it can't be posted publicly.)  _Please look for the email first_ (from 3 or 5 Aug) before requesting the **Upload URL** by emailing the [organizers](mailto:okinawa2024@spnhc.org).
   
 
 {:id="registration"}
@@ -58,9 +60,11 @@ If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please 
 Please read the [important information](/conferences/2024/registration/) before you register!
 
 {:id="excursions"}
-## [Excursion registration has closed](/conferences/2024/registration/excursions/)
+## Excursions & Virtual Tours
 
-The registration sites for excursions associated with our conference are now closed.  You can read [about these tours here](/conferences/2024/registration/excursions/), if you need some inspiration for exploring on your own.
+While registration for excursions is now closed, you don't need to register for [these virtual tours](https://oki-digitourism.com/). Discover the history of Okinawa, things to know before you go and while you are there, and if you are a virtual registrant, get a flavor of the this prefecture known as "offshore rope."
+
+If you need extra inspiration for exploring on your own, you can read [about organized tours here](/conferences/2024/registration/excursions/) and find someone who participated!
 
 ## [Registration add-ons: Biodiversity Bingo Night (Tue) and T-shirts](/conferences/2024/registration/add-ons/)
 
@@ -68,19 +72,24 @@ Tickets for Biodiversity Bingo Night and conference T-shirts can be [added to yo
 
 ## Daily schedule
 
-The conferece days will be Monday - Friday (2-6 September), but note that Monday is a half-day beginning after lunch with the welcoming remarks and plenary presentations. Specially arranged excursions will be offered on the preceding Sunday (1 September) and the following Saturday (7 September). An initial list of excursions on the bracketing days will be announced soon. We expect the excursions to be popular and space limited, so stay tuned.  (Also be aware that early access will be granted to the first 120 registrants!)
+The conference days will be Monday–Friday (2-6 September), but note that Monday is a half-day beginning after lunch with the welcoming remarks and plenary presentations. 
 
 <img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
 
 ### [DRAFT schedule of sessions](/conferences/2024/schedule/draft/)
 
-## Conference program
+### Conference program
 
-SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/).  
+SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/). 
 
 ### [Keynote Speakers](/conferences/2024/keynotes/)
 
 SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our opening plenary session. Don’t miss [Dr. Sara Beery](https://www.tdwg.org/conferences/2024/keynotes/#sara-beery), Assistant Professor of AI and Decision Making from MIT and [Dr. Tom Strang](https://www.tdwg.org/conferences/2024/keynotes/#tom-strang), Conservator Extraordinaire and recipient of the 2014 SPNHC Carolyn Rose Award.
+
+## [First-timer's Guide to SPNHC-TDWG 2024](/conferences/2024/first-timer-guide/)
+
+Guidelines and suggestions for attending a joint conference hosted by the Society for the Preservation of Natural History Collections (SPNHC) and Biodiversity Information Standards (TDWG).
+
 
 ## Sponsors and supporters
 
@@ -115,9 +124,7 @@ SPNHC-TDWG 2024 is pleased to present two visionary keynote speakers during our 
   </a>
 </p>
 
-## [First-timer's Guide to SPNHC-TDWG 2024](/conferences/2024/first-timer-guide/)
 
-Guidelines and suggestions for attending a joint conference hosted by the Society for the Preservation of Natural History Collections (SPNHC) and Biodiversity Information Standards (TDWG).
 
 ## Abstracts
 
