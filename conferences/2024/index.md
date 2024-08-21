@@ -62,7 +62,7 @@ Please read the [important information](/conferences/2024/registration/) before 
 {:id="excursions"}
 ## Excursions & Virtual Tours
 
-While registration for excursions is now closed, you don't need to register for [these virtual tours](https://oki-digitourism.com/). Discover the history of Okinawa, things to know before you go and while you are there, and if you are a virtual registrant, get a flavor of the this prefecture known as "offshore rope."
+While registration for excursions is now closed, you don't need to register for [these virtual tours](https://oki-digitourism.com/). Discover the history of Okinawa, things to know before you go and while you are there, and if you are a virtual registrant, get a flavor of this prefecture known as "offshore rope."
 
 If you need extra inspiration for exploring on your own, you can read [about organized tours here](/conferences/2024/registration/excursions/) and find someone who participated!
 
