@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 21 August 2024: virtual tours now available online; deadline to upload revised presentations posted_
+_Last updated 22 August 2024: **[program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program); In-person registration closes [22 Aug](https://www.timeanddate.com/worldclock/fixedtime.html?msg=In-person+registration+closes+SPNHC-TDWG+2024&iso=20240822T12&p1=224);** virtual tours now available online; deadline to upload revised presentations posted_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -57,7 +57,7 @@ If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please 
 {:id="registration"}
 ## [Conference registration is open](/conferences/2024/registration/)
 
-Please read the [important information](/conferences/2024/registration/) before you register!
+**In-person registration closes [22 August 12 noon PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=In-person+registration+closes+SPNHC-TDWG+2024&iso=20240822T12&p1=224)**. Registration for virtual attendance will remain open throughout the conferencce. Please read the [important information](/conferences/2024/registration/) before you register!
 
 {:id="excursions"}
 ## Excursions & Virtual Tours
@@ -70,17 +70,19 @@ If you need extra inspiration for exploring on your own, you can read [about org
 
 Tickets for Biodiversity Bingo Night and conference T-shirts can be [added to your registration](/conferences/2024/registration/add-ons/).
 
-## Daily schedule
+{:id="program"}
+## [Detailed program schedule now posted](https://virtual.oxfordabstracts.com/#/event/6771/program)
+
+- SPNHC TDWG 2024 includes symposia, workshops, lightning talks, demonstrations, general contributed papers, and plenary presentations.
+- See the session descriptions on our [Sessions page](/conferences/2024/sessions/).
+- [Overview schedule of sessions](/conferences/2024/schedule/draft/)
+- Detailed schedule now available on [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program).
+
+### Daily schedule
 
 The conference days will be Monday–Friday (2-6 September), but note that Monday is a half-day beginning after lunch with the welcoming remarks and plenary presentations. 
 
 <img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
-
-### [DRAFT schedule of sessions](/conferences/2024/schedule/draft/)
-
-### Conference program
-
-SPNHC TDWG 2024 will include symposia, panel discussion, workshop, lightning talks, demonstrations, general contributed papers, and plenary presentations. See the session descriptions on our [Sessions page](/conferences/2024/sessions/). 
 
 ### [Keynote Speakers](/conferences/2024/keynotes/)
 
