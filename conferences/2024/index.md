@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 22 August 2024: **[program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program); In-person registration closes [22 Aug](https://www.timeanddate.com/worldclock/fixedtime.html?msg=In-person+registration+closes+SPNHC-TDWG+2024&iso=20240822T12&p1=224);** virtual tours now available online; deadline to upload revised presentations posted_
+_Last updated 22 August 2024: **[program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program); In-person registration is closed; Virtual Registration Is Still OPEN;** virtual tours now available online; deadline to upload revised presentations posted_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -67,7 +67,7 @@ If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please 
 {:id="registration"}
 ## [Conference registration is open](/conferences/2024/registration/)
 
-**In-person registration closes [22 August 12 noon PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=In-person+registration+closes+SPNHC-TDWG+2024&iso=20240822T12&p1=224)**. Registration for virtual attendance will remain open throughout the conferencce. Please read the [important information](/conferences/2024/registration/) before you register!
+**In-person registration is closed. Virtual registration is still open**. Registration for virtual attendance will remain open throughout the conferencce. Please read the [important information](/conferences/2024/registration/) before you register!
 
 {:id="excursions"}
 ## Excursions & Virtual Tours
