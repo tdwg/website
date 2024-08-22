@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified:  02 August 2024_
+_Last modified:  02 August 2024_  **In-person registration is closed; Virtual registration is still open.**
 
 ## SPNHC TDWG 2024 registration
 
