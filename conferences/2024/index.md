@@ -43,6 +43,11 @@ _Last updated 22 August 2024: **[program posted!](https://virtual.oxfordabstract
 
 <p><span style="color:red"><strong>Important! Please ask your email administrators to white-list <i>no-reply@oxfordabstracts.com</i> so you receive emails about the conference.</strong></span></p>
 
+{:id="detailed-program"}
+## [Detailed program (schedule) now available on Oxford Abstracts!](https://virtual.oxfordabstracts.com/#/event/6771/program)
+
+To find your own presentation, however, first login and [enable your own "badge"](https://virtual.oxfordabstracts.com/#/event/6771/edit-badge) (click the person icon, top right), then search on [Attendees](https://virtual.oxfordabstracts.com/#/event/6771/attendees).
+
 {:id="presenter-instructions"}
 ## Instructions for presenters have been posted!
 
