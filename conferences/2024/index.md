@@ -43,6 +43,16 @@ _Last updated 22 August 2024: **[program posted!](https://virtual.oxfordabstract
 
 <p><span style="color:red"><strong>Important! Please ask your email administrators to white-list <i>no-reply@oxfordabstracts.com</i> so you receive emails about the conference.</strong></span></p>
 
+{:id="program"}
+## [Detailed program schedule now posted](https://virtual.oxfordabstracts.com/#/event/6771/program)
+
+To find your own presentation, however, first login and [enable your own "badge"](https://virtual.oxfordabstracts.com/#/event/6771/edit-badge) (click the person icon, top right), then search on [Attendees](https://virtual.oxfordabstracts.com/#/event/6771/attendees).
+
+- SPNHC TDWG 2024 includes symposia, workshops, lightning talks, demonstrations, general contributed papers, and plenary presentations.
+- See the session descriptions on our [Sessions page](/conferences/2024/sessions/).
+- [Overview schedule of sessions](/conferences/2024/schedule/draft/)
+- Detailed schedule now available on [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program).
+
 {:id="presenter-instructions"}
 ## Instructions for presenters have been posted!
 
@@ -69,22 +79,6 @@ If you need extra inspiration for exploring on your own, you can read [about org
 ## [Registration add-ons: Biodiversity Bingo Night (Tue) and T-shirts](/conferences/2024/registration/add-ons/)
 
 Tickets for Biodiversity Bingo Night and conference T-shirts can be [added to your registration](/conferences/2024/registration/add-ons/).
-
-{:id="program"}
-## [Detailed program schedule now posted](https://virtual.oxfordabstracts.com/#/event/6771/program)
-
-To find your own presentation, however, first login and [enable your own "badge"](https://virtual.oxfordabstracts.com/#/event/6771/edit-badge) (click the person icon, top right), then search on [Attendees](https://virtual.oxfordabstracts.com/#/event/6771/attendees).
-
-- SPNHC TDWG 2024 includes symposia, workshops, lightning talks, demonstrations, general contributed papers, and plenary presentations.
-- See the session descriptions on our [Sessions page](/conferences/2024/sessions/).
-- [Overview schedule of sessions](/conferences/2024/schedule/draft/)
-- Detailed schedule now available on [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program).
-
-### Daily schedule
-
-The conference days will be Monday–Friday (2-6 September), but note that Monday is a half-day beginning after lunch with the welcoming remarks and plenary presentations. 
-
-<img src="https://static.tdwg.org/conferences/2024/images/daily-schedule.png" width="750">
 
 ### [Keynote Speakers](/conferences/2024/keynotes/)
 
