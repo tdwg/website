@@ -112,7 +112,7 @@ Guidelines and suggestions for attending a joint conference hosted by the Societ
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://ala.org.au" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="120">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="130">
   </a>
   <a href="https://tru-vue.com/" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/tru-vue-drkblu-300w.png" alt="Tru Vue, Inc.: Glass and Acrylic Glazing Solutions" width="85">
@@ -121,10 +121,10 @@ Guidelines and suggestions for attending a joint conference hosted by the Societ
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="120">
   </a>
   <a href="https://earthcape.com/" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/earthcape.png" alt="EarthCape" width="120">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/earthcape.png" alt="EarthCape" width="135">
   </a>
   <a href="https://www.nakasha.co.jp/" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/nakasha.jpg" alt="Nakasha Creative" width="130">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/nakasha.jpg" alt="Nakasha Creative" width="150">
   </a>
 </p>
 
