@@ -9,11 +9,12 @@ background:
 toc: true
 ---
 
-_Last modified: 20 August 2024 - **new deadline** for revised presentation uploads; **reminder to sign in to Google** before trying to upload presentation; **updated template file** 17 Aug.; no speaker view provided on site_
+_Last modified: 23 August 2024 - **new deadline** for revised presentation uploads; **reminder to sign in to Google** before trying to upload presentation & **check settings** for uploads; **updated template file** 17 Aug.; no speaker view provided on site_
 
 ## [TL;DR](https://dictionary.cambridge.org/us/dictionary/english/tldr)
 
 - Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
+- Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 - Use the following filename convention: **SessionCode_OAidentifier_YourFamilyName** (e.g., SYM01_011_Smythy)
 - Please have at least a solid draft of your presentation uploaded to Google Drive by **19 August** so that it may be tested by the local team.
   - **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775) 
@@ -71,6 +72,7 @@ _Last modified: 20 August 2024 - **new deadline** for revised presentation uploa
 - Please use a headset with a microphone for best quality audio.
 - If your recording includes you in the video, please ensure that your camera is at the level of your head. (If you are looking down at your computer and camera, we’re looking up your nose ;-/ ).
 - Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
+- Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 - Upload at least a solid draft of your pre-recorded presentation to the relevant folder for your session by **19 August 2024**.
   - The link to upload your session will be provided by email via Oxford Abstracts.
   - **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775)
@@ -80,6 +82,7 @@ _Last modified: 20 August 2024 - **new deadline** for revised presentation uploa
 
 - File naming convention: Please title the file to your talk using the following filename convention: **SessionCode_OAidentifier_YourFamilyName** Examples of the SessionCode include SYM01, DEMO01, LTNG05. [Find your OAidentifer](https://docs.google.com/spreadsheets/d/1SXIfwKg6TYs5dWZrsKO5NgASWSW3KUaP/edit?usp=sharing&ouid=112437040868151967020&rtpof=true&sd=true) (Column A). 
 - Sign in to Google _before_ clicking the link to upload your presentation. Your Google account can use any email (gmail not necessary)
+- Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 - Upload pre-recorded presentations and slides to the relevant session folder (link sent separately). 
 - IMPORTANT: To ensure that your file remains in its original format and does not get converted to Google Slides 
   - Go to the link provided and find the folder for your session (open the folder)
@@ -95,6 +98,7 @@ _Last modified: 20 August 2024 - **new deadline** for revised presentation uploa
 
 If you decide to update your presentation file (.pptx, .pdf, .mp4; _method does not work for native Google files_) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
 - Sign in to Google _before_ clicking the link to find/upload your presentation. Your Google account can use any email (gmail not necessary)
+- Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 - Find your original file (file name may have been changed by the conference organizers, but should have your family name visible; do not change it)
 - Right click on the file name and from the pop-up menu, choose "File information"
 - You should then choose the option to "Manage versions"
