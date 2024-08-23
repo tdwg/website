@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified: 20 August 2024: addition of **deadline** to upload to conference server; reminder to **sign in to your Google account** before trying to upload your poster or video_
+_Last modified: 23 August 2024: addition of **deadline** to upload to conference server; reminder to **sign in to your Google account** before trying to upload your poster or video; **check upload settings** on your Google account_
 
 # SPNHC-TDWG 2024 Instructions for Virtual Posters and Poster Presenters
 
@@ -29,7 +29,8 @@ Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.
 ### Uploading content
 
 * You will receive a link via separate email for uploading your poster **as a PDF**, and optionally an accompanying video (MP4), to the conference Google Drive.
-* **Please sign in to Google** before clicking the link to upload your poster or video. Your Google account can use any email (gmail not necessary). If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).  Please upload a solid version by 19 August.
+* **Please sign in to Google** before clicking the link to upload your poster or video. Your Google account can use any email (gmail not necessary). If you missed this email, please request the link from [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
+  * Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 * **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775)
 * See also [How to update your file without changing the URL or file name](#tip-update-file)
 
@@ -72,6 +73,7 @@ Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.
 ## Uploading posters & videos
 
 * **Please sign in to Google** before clicking the link to upload your poster or video. Your Google account can use any email (gmail not necessary).
+  * Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 * Save & Upload (at least a solid version of) your poster to TDWG's Google Drive no later than 19 August (link sent by separate email from Oxford Abstracts)
 * **Deadline to upload revisions** to the conference (Google Drive) server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775). See also [How to update your file without changing the URL or file name](#tip-update-file)
 
@@ -79,8 +81,8 @@ Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.
 * If you are on a Mac, we recommend that you export using the option for “Best electronic distribution” because it will preserve your links as functional URLs.    
 * If you wish to share your poster in more than one file format (for example, in the original editable file type, which will be easier for others to reuse), please let us know, so we can try to accommodate you.  
 * Name your PDF using the file-naming convention above.  
-* The link to upload your poster to Google Drive will be provided in a separate email.  
-  * Upload a copy of your poster (and optionally a video) to Google Drive. Note that you must sign in first.  
+* The link to upload your poster to Google Drive is provided in a separate email.  
+  * Upload your poster (and optionally a video) to Google Drive. Note that you must sign in first.  
   * If this is a problem please email your poster to [editor@tdwg.org](mailto:editor@tdwg.org). Make sure you get an email acknowledging receipt. If you do not receive this within 12 h of sending your email, contact [editor@tdwg.org](mailto:editor@tdwg.org) without appending the file.
  
 {:id="tip-update-file"}
@@ -89,6 +91,7 @@ Posters for SPNHC-TDWG 2024 will be virtual; i.e., submitted and viewed as PDFs.
 If you decide to update your presentation file (.pdf, .mp4) after the initial upload, the easiest way to do this _without_ destroying the link to the file or the file name is to replace the file in the following manner:
 
 - Sign in to your Google account first (gives you write access to the upload site)
+  - Verify your settings (under the gear icon->General->Uploads) and make sure that "Convert uploads to Google Docs editor format" is _unchecked._
 - Find your original file (file name may have been changed slightly by the conference organizers; do not change it)
 - Right click on the file name and from the pop-up menu, choose "File information"
 - You should then choose the option to "Manage versions"
@@ -97,7 +100,7 @@ If you decide to update your presentation file (.pdf, .mp4) after the initial up
 
 ## Poster viewing at SPNHC-TDWG 2024
 
-Although posters will be viewable online throughout the conference (and beyond), we are planning to rent some large screen monitors (TVs) that will be placed in the break space or corridors. Our plan is to use four TVs to display posters on site, and to assign each poster to display on a TV for a morning, afternoon, or lunch break. Poster presenters will be assigned a station and time-slot when they should stand by their poster to engage with other participants during a coffee break or the later part of a lunch break.  If you are a virtual participant and you submitted a video, we will set your video to play on loop during your scheduled time-slot.  Without a video, we’ll just display your PDF during your time-slot.
+Although posters will be viewable online throughout the conference (and beyond), we are renting large screen monitors (TVs) that will be placed in the break space corridor. Our plan is to use four TVs to display posters on site, and to assign each poster to display on a TV for a morning, afternoon, or lunch break. Poster presenters will be assigned a station and time-slot when they should stand by their poster to engage with other participants during a coffee break or the later part of a lunch break.  If you are a virtual participant and you submitted a video, we will set your video to play on loop during your scheduled time-slot.  Without a video, we’ll just display your PDF during your time-slot.
 
 ## Additional tips
 
