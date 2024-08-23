@@ -111,6 +111,9 @@ Guidelines and suggestions for attending a joint conference hosted by the Societ
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
+  <a href="https://www.nakasha.co.jp/" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/nakasha.jpg" alt="Nakasha Creative" width="150">
+  </a>
   <a href="https://ala.org.au" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/ala-400.png" alt="Atlas of Living Australia" width="130">
   </a>
@@ -122,9 +125,6 @@ Guidelines and suggestions for attending a joint conference hosted by the Societ
   </a>
   <a href="https://earthcape.com/" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/earthcape.png" alt="EarthCape" width="135">
-  </a>
-  <a href="https://www.nakasha.co.jp/" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/nakasha.jpg" alt="Nakasha Creative" width="150">
   </a>
 </p>
 
