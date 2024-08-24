@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 22 August 2024: **[program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program); In-person registration is closed; Virtual Registration Is Still OPEN;** virtual tours now available online; deadline to upload revised presentations posted_
+_Last updated 24 August 2024: **[program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program); In-person registration is closed; Virtual Registration Is Still OPEN;** virtual tours now available online; deadline to upload revised presentations posted_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -67,7 +67,7 @@ If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please 
 {:id="registration"}
 ## [Conference registration is open](/conferences/2024/registration/)
 
-**In-person registration is closed. Virtual registration is still open**. Registration for virtual attendance will remain open throughout the conferencce. Please read the [important information](/conferences/2024/registration/) before you register!
+**In-person registration is closed. Virtual registration is still open**. Registration for virtual attendance will remain open throughout the conferencce. Please read the [important information](/conferences/2024/registration/) before you register. The first two points still apply to virtual participants.
 
 {:id="excursions"}
 ## Excursions & Virtual Tours
@@ -76,9 +76,18 @@ While registration for excursions is now closed, you don't need to register for 
 
 If you need extra inspiration for exploring on your own, you can read [about organized tours here](/conferences/2024/registration/excursions/) and find someone who participated!
 
+## Conference BioBlitzes
+
+A pair of iNaturalist Bioblitz events will run during the conference.  (Thank you, Vijay Barve!)  
+
+  - https://www.inaturalist.org/projects/spnhc-tdwg-2024-bioblitz-okinawa
+  - https://www.inaturalist.org/projects/spnhc-tdwg-2024-bioblitz-worldwide
+
 ## [Registration add-ons: Biodiversity Bingo Night (Tue) and T-shirts](/conferences/2024/registration/add-ons/)
 
-Tickets for Biodiversity Bingo Night and conference T-shirts can be [added to your registration](/conferences/2024/registration/add-ons/).
+Tickets for Biodiversity Bingo Night can be [added to your registration](/conferences/2024/registration/add-ons/).  Fewer than 10 spaces were still open at the close of in-person registration, and those will be allocated as "first-come, first served."  
+
+The T-shirt order has already gone in, but we ordered a few extra.  If you didn't already order one, please wait until you are on site and know that what you want is actually availavle before paying for it.
 
 ### [Keynote Speakers](/conferences/2024/keynotes/)
 
