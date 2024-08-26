@@ -29,6 +29,10 @@ TDWG standards have a [status and category](/standards/status-and-categories/). 
 
 [GUID and Life Sciences Identifiers Applicability Statements](/standards/guid-as/)
 
+### Latimer Core
+
+[Latimer Core, a standard for describing collections](https://ltc.tdwg.org/)
+
 ### SDS
 
 [TDWG Standards Documentation Standard (SDS)](/standards/sds/)
