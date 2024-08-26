@@ -11,7 +11,9 @@
     href: /conferences/2024/code-of-conduct/faq/
 - text: "Program"
   menu:
-  - text: "DRAFT Schedule"
+  - text: "Full Program (Oxford Abstracts)"
+    href: https://virtual.oxfordabstracts.com/#/event/6771/program
+  - text: "Session Schedule"
     href: /conferences/2024/schedule/draft/
   - text: "Keynote Speakers"
     href: /conferences/2024/keynotes/
