@@ -46,7 +46,8 @@ _Last updated 27 August 2024_
   - Detailed program (with individual talks in sessions in parallel columns) as a spreadsheet
   - In-person registration is closed; Virtual Registration Is Still OPEN;**
   - virtual tours now available online;
-  - deadline to upload revised presentations posted
+  - instructions for presenters and moderators
+  - _hard_ deadline to upload revised presentations posted
 
 {:id="program"}
 ## [Detailed program schedule now posted](https://virtual.oxfordabstracts.com/#/event/6771/program)
@@ -61,18 +62,19 @@ Please note that the program interface has two search boxes. The one at the top 
 
 
 {:id="presenter-instructions"}
-## Instructions for presenters have been posted!
+## Instructions for presenters and moderators have been posted!
 
 If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please read the instructions for [presenters](/conferences/2024/oral-presentations/)** and/or **[posters](/conferences/2024/submissions/posters/).**  If you missed the email sent via Oxford Abstracts about these instructions, please be aware:
 
 - The deadline for uploading at least a solid draft of your presentation was 19 Aug!  The technical team in Okinawa wants to review all slides and videos to ensure there are no technical problems.
-- **Deadline to upload revisions** to the conference server is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775).
+- **Deadline to upload revisions** to the conference Google Drive is [midnight JST 30 August](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Last+Slide+Update+to+Server+-+SPNHC-TDWG+2024&iso=20240830T235959&p1=775).
  - **Important instructions** for updating your files are [here](/conferences/2024/oral-presentations/#tip-update-file)
  - The secret URL to the upload folder was sent to presenters by email! (As an open folder it can't be posted publicly.)  _Please look for the email first_ (from 3 or 5 Aug) before requesting the **Upload URL** by emailing the [organizers](mailto:okinawa2024@spnhc.org).
+ - [Instructions for moderators](/conferences/2024/moderators/)
   
 
 {:id="registration"}
-## [Conference registration is open](/conferences/2024/registration/)
+## [Conference registration](/conferences/2024/registration/)
 
 **In-person registration is closed. Virtual registration is still open**. Registration for virtual attendance will remain open throughout the conferencce. Please read the [important information](/conferences/2024/registration/) before you register. The first two points still apply to virtual participants.
 
