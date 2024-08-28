@@ -57,7 +57,7 @@ Please note that the program interface has two search boxes. The one at the top 
 - Detailed schedule now available on [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program).
 - A spreadsheet with sessions in parallel columns, showing every presentation in every session -- as a [webpage](https://docs.google.com/spreadsheets/d/1jhpRcvs4Svu19daLc-jhR4N-9DV2y-Hw9O3cxRM9CZo/pubhtml) (on Google infrastructure), or as a [PDF](https://static.tdwg.org/conferences/2024/SPNHC-TDWG-2024-detailed-program.pdf).  
 - See the full session descriptions on our [Sessions page](/conferences/2024/sessions/).
-- [Overview schedule of sessions](/conferences/2024/schedule/draft/)
+- [Overview schedule of sessions](/conferences/2024/schedule/)
 
 
 {:id="presenter-instructions"}
