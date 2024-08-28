@@ -8,7 +8,7 @@ background:
   href: 
 toc: true
 ---
-_Last updated 24 August 2024: **[program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program); In-person registration is closed; Virtual Registration Is Still OPEN;** virtual tours now available online; deadline to upload revised presentations posted_
+_Last updated 27 August 2024_ 
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
@@ -41,7 +41,12 @@ _Last updated 24 August 2024: **[program posted!](https://virtual.oxfordabstract
 
 <p>&nbsp;</p>
 
-<p><span style="color:red"><strong>Important! Please ask your email administrators to white-list <i>no-reply@oxfordabstracts.com</i> so you receive emails about the conference.</strong></span></p>
+#### New Details
+  - **[Program posted!](https://virtual.oxfordabstracts.com/#/event/6771/program)**
+  - Detailed program (with individual talks in sessions in parallel columns) as a spreadsheet
+  - In-person registration is closed; Virtual Registration Is Still OPEN;**
+  - virtual tours now available online;
+  - deadline to upload revised presentations posted
 
 {:id="program"}
 ## [Detailed program schedule now posted](https://virtual.oxfordabstracts.com/#/event/6771/program)
