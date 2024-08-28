@@ -1,47 +1,25 @@
 - text: "SPNHC-TDWG 2024"
   href: /conferences/2024/
-- text: "Code of Conduct"
-  href: /conferences/2024/code-of-conduct/
-  menu:
-  - text: "Code of Conduct 🇺🇸"
-    href: /conferences/2024/code-of-conduct/
-  - text: "Code of Conduct 🇯🇵"
-    href: /conferences/2024/code-of-conduct/ja/
-  - text: "FAQ"
-    href: /conferences/2024/code-of-conduct/faq/
 - text: "Program"
   menu:
   - text: "Full Program (Oxford Abstracts)"
     href: https://virtual.oxfordabstracts.com/#/event/6771/program
-  - text: "Session Schedule"
-    href: /conferences/2024/schedule/draft/
   - text: "Keynote Speakers"
     href: /conferences/2024/keynotes/
-  - text: "Sessions"
+  - text: "Schedules"
+    href: /conferences/2024/schedule/draft/
+  - text: "Session Descriptions"
     href: /conferences/2024/sessions/
   - text: "Program Committee"
     href: /conferences/2024/program-committee/
-- text: "Registration"
-  menu:
-  - text: "Registration"
-    href: /conferences/2024/registration/
-  - text: "Frequently Asked Questions"
-    href: /conferences/2024/registration/faq/
-  - text: "Cancellation Policy"
-    href: /conferences/2024/registration/cancellation-policy/
-  - text: "List of developing nations"
-    href: /conferences/2024/registration/dev-nations-list/
-  - text: "T-shirts and Bingo Night"
-    href: /conferences/2024/registration/add-ons/
-  - text: "Excursions"
-    href: /conferences/2024/registration/excursions/
-- text: "Submissions"
+- text: "Instructions"
   menu:
   - text: "PRESENTER INSTRUCTIONS"
   - text: "Oral Presentations"
     href: /conferences/2024/oral-presentations/
   - text: "Posters"
     href: /conferences/2024/submissions/posters/
+  - text: "Moderators"
   - text: "---"
   - text: "Calls"
   - text: "Why submit an extended abstract?"
@@ -66,3 +44,26 @@
     href: /conferences/2024/call-for-abstracts/
   - text: "OA Abstract Guidelines (CLOSED)"
     href: /conferences/2024/oa-abstract-submission-guidelines/
+- text: "Registration"
+  menu:
+  - text: "Registration"
+    href: /conferences/2024/registration/
+  - text: "Frequently Asked Questions"
+    href: /conferences/2024/registration/faq/
+  - text: "Cancellation Policy"
+    href: /conferences/2024/registration/cancellation-policy/
+  - text: "List of developing nations"
+    href: /conferences/2024/registration/dev-nations-list/
+  - text: "T-shirts and Bingo Night"
+    href: /conferences/2024/registration/add-ons/
+  - text: "Excursions"
+    href: /conferences/2024/registration/excursions/
+- text: "Code of Conduct"
+  href: /conferences/2024/code-of-conduct/
+  menu:
+  - text: "Code of Conduct 🇺🇸"
+    href: /conferences/2024/code-of-conduct/
+  - text: "Code of Conduct 🇯🇵"
+    href: /conferences/2024/code-of-conduct/ja/
+  - text: "FAQ"
+    href: /conferences/2024/code-of-conduct/faq/
