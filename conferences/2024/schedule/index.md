@@ -11,9 +11,9 @@ toc: false
 
 ## [Full program in Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program)
 
-You must be a registered user and logged-in to view the program.  If you are a registered virtual participant, the OA program gives you access to Zoom sessions.  
+You must be a registered user and logged-in to view the program.  If you are a registered virtual participant, the OA program gives you access to Zoom sessions.  [Virtual registration](/conferences/2024/registration/) is still open.
 
-If live sessions are too far out of your timezone, we will be posting recordings YouTube as fast as we can.  Find the links in session descriptions, clickable on the program.
+If live sessions are too far out of your timezone, we will be posting recordings on YouTube as fast as we can (12-24 hrs).  Find the links in session descriptions, clickable on the program.
 
 ## Schedule of talks in sessions
 
