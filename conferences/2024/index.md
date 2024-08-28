@@ -49,9 +49,10 @@ _Last updated 24 August 2024: **[program posted!](https://virtual.oxfordabstract
 Please note that the program interface has two search boxes. The one at the top right (blue background) is for searching on presentations. The one at the upper left is for searching session metadata. Also, make yourself visible to other participants by [enabling your own "badge"](https://virtual.oxfordabstracts.com/#/event/6771/edit-badge). 
 
 - SPNHC TDWG 2024 includes symposia, workshops, lightning talks, demonstrations, general contributed papers, and plenary presentations.
-- See the session descriptions on our [Sessions page](/conferences/2024/sessions/).
-- [Overview schedule of sessions](/conferences/2024/schedule/draft/)
 - Detailed schedule now available on [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program).
+- A spreadsheet with sessions in parallel columns, showing every presentation in every session -- as a [webpage](https://docs.google.com/spreadsheets/d/1jhpRcvs4Svu19daLc-jhR4N-9DV2y-Hw9O3cxRM9CZo/pubhtml) (on Google infrastructure), or as a [PDF](https://static.tdwg.org/conferences/2024/SPNHC-TDWG-2024-detailed-program.pdf).  
+- See the full session descriptions on our [Sessions page](/conferences/2024/sessions/).
+- [Overview schedule of sessions](/conferences/2024/schedule/draft/)
 
 
 {:id="presenter-instructions"}
