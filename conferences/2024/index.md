@@ -5,15 +5,15 @@ description: >
 background:
   img: https://static.tdwg.org/conferences/2024/images/occ-by-sajames.jpg
   by: Shelley James
-  href: 
+  href:
 toc: true
 ---
-_Last updated 28 August 2024_ 
+_Last updated 28 August 2024_
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
 <tr style="height: 234px;">
- <td colspan="2" style="width: 100%; text-align: center"><img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png" 
+ <td colspan="2" style="width: 100%; text-align: center"><img src="https://static.tdwg.org/conferences/2024/images/spnhc-tdwg-2024-logo-w-credit-line.png"
      width="750">
  </td>
 </tr>
@@ -52,11 +52,11 @@ _Last updated 28 August 2024_
 {:id="program"}
 ## [Detailed program schedule now posted](https://virtual.oxfordabstracts.com/#/event/6771/program)
 
-Please note that the program interface has two search boxes. The one at the top right (blue background) is for searching on presentations. The one at the upper left is for searching session metadata. Also, make yourself visible to other participants by [enabling your own "badge"](https://virtual.oxfordabstracts.com/#/event/6771/edit-badge). 
+Please note that the program interface has two search boxes. The one at the top right (blue background) is for searching on presentations. The one at the upper left is for searching session metadata. Also, make yourself visible to other participants by [enabling your own "badge"](https://virtual.oxfordabstracts.com/#/event/6771/edit-badge).
 
 - SPNHC TDWG 2024 includes symposia, workshops, lightning talks, demonstrations, general contributed papers, and plenary presentations.
 - Detailed schedule now available on [Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program).
-- A spreadsheet with sessions in parallel columns, showing every presentation in every session -- as a [webpage](https://docs.google.com/spreadsheets/d/1jhpRcvs4Svu19daLc-jhR4N-9DV2y-Hw9O3cxRM9CZo/pubhtml) (on Google infrastructure), or as a [PDF](https://static.tdwg.org/conferences/2024/SPNHC-TDWG-2024-detailed-program.pdf).  
+- A spreadsheet with sessions in parallel columns, showing every presentation in every session -- as a [webpage](https://docs.google.com/spreadsheets/d/1jhpRcvs4Svu19daLc-jhR4N-9DV2y-Hw9O3cxRM9CZo/pubhtml) (on Google infrastructure), or as a [PDF](https://static.tdwg.org/conferences/2024/SPNHC-TDWG-2024-detailed-program.pdf).
 - See the full session descriptions on our [Sessions page](/conferences/2024/sessions/).
 - [Overview schedule of sessions](/conferences/2024/schedule/)
 
@@ -71,7 +71,7 @@ If you are giving an oral presentation or a poster at SPNHC-TDWG 2024, **please 
  - **Important instructions** for updating your files are [here](/conferences/2024/oral-presentations/#tip-update-file)
  - The secret URL to the upload folder was sent to presenters by email! (As an open folder it can't be posted publicly.)  _Please look for the email first_ (from 3 or 5 Aug) before requesting the **Upload URL** by emailing the [organizers](mailto:okinawa2024@spnhc.org).
  - [Instructions for moderators](/conferences/2024/moderators/)
-  
+
 
 {:id="registration"}
 ## [Conference registration](/conferences/2024/registration/)
@@ -87,14 +87,14 @@ If you need extra inspiration for exploring on your own, you can read [about org
 
 ## Conference BioBlitzes
 
-A pair of iNaturalist Bioblitz events will run during the conference.  (Thank you, Vijay Barve!)  
+A pair of iNaturalist Bioblitz events will run during the conference.  (Thank you, Vijay Barve!)
 
-  - https://www.inaturalist.org/projects/spnhc-tdwg-2024-bioblitz-okinawa
-  - https://www.inaturalist.org/projects/spnhc-tdwg-2024-bioblitz-worldwide
+  - [For those in Okinawa](https://www.inaturalist.org/projects/spnhc-tdwg-2024-bioblitz-okinawa)
+  - [For those attending remotely](https://www.inaturalist.org/projects/spnhc-tdwg-2024-bioblitz-worldwide)
 
 ## [Registration add-ons: Biodiversity Bingo Night (Tue) and T-shirts](/conferences/2024/registration/add-ons/)
 
-Tickets for Biodiversity Bingo Night can be [added to your registration](/conferences/2024/registration/add-ons/).  Fewer than 10 spaces were still open at the close of in-person registration, and those will be allocated as "first-come, first served."  
+Tickets for Biodiversity Bingo Night can be [added to your registration](/conferences/2024/registration/add-ons/).  Fewer than 10 spaces were still open at the close of in-person registration, and those will be allocated as "first-come, first served."
 
 The T-shirt order has already gone in, but we ordered a few extra.  If you didn't already order one, please wait until you are on site and know that what you want is actually availavle before paying for it.
 
@@ -151,7 +151,7 @@ Guidelines and suggestions for attending a joint conference hosted by the Societ
 ## Abstracts
 
 {:id="abstract-deadline"}
-### Call to submit extended abstracts to _BISS_ 
+### Call to submit extended abstracts to _BISS_
 
 Be sure to secure your spot to publish an extended abstract in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). See new options in the expanded  [call for extended abstracts](/conferences/2024/biss-extended-abstract-call/). Stop wondering [why you should submit an extended abstract](/conferences/2024/why-extended-abstract/) when you have already had your abstract accepted in Oxford Abstracts and reserve your place or submit your abstract now!
 
@@ -183,7 +183,7 @@ The Ministry of Foreign Affairs of Japan is the recommended site [https://www.mo
 
 The conference will be held at the Okinawa Convention Center (OCC), not a hotel, so we have not arranged for room-blocks to be held at one or more local hotels.  We recommend looking at the hotels listed under [Neighborhood Accommodations](https://www.oki-conven.jp/en/neighborhoodaccommodations/) on the OCC website, or simply searching for nearby hotels on your favorite travel or mapping site.
 
-## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} 
+## [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"}
 
 Information not to miss from the [Visit Okinawa Japan](https://visitokinawajapan.com/){:target="_blank"} website:
   - [Travel inspiration](https://visitokinawajapan.com/travel-inspiration/){:target="_blank"}
