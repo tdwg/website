@@ -121,11 +121,14 @@ Guidelines and suggestions for attending a joint conference hosted by the Societ
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
+  <a href="https://idigbio.org" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" alt="iDigBio" width="160">
+  </a>
   <a href="https://gbif.org" target="_blank">
     <img src="https://static.tdwg.org/conferences/2024/images/sponsors/gbif-400.png" alt="Global Biodiversity Information Facility" width="160">
   </a>
-  <a href="https://idigbio.org" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/idigbio.png" alt="iDigBio" width="160">
+  <a href="https://www.universityproducts.com/" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2024/images/sponsors/upilogo.png" alt="University Products" width="160">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
