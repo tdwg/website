@@ -124,4 +124,4 @@ The group will support standard creators and maintainers to create mappings by g
 
 ## 9. Resources
 
-* Task Group Github repository: [https://github.com/tdwg/standards-mappings](https://github.com/tdwg/standards-mappings-tg)
+* Task Group Github repository: [https://github.com/tdwg/standards-mappings](https://github.com/tdwg/standards-mappings)
