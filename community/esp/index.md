@@ -21,11 +21,11 @@ list:
 ## Convenor
 
 - Holly Little - National Museum of Natural History, Smithsonian Institution, Washington DC, USA
-- Ben Norton, Independent, Raleigh, NC, USA
+- Ben Norton - Independent, Raleigh, NC, USA
 
 ## Core members
 
-- Erica Krimmel - Independent Sacramento, CA, USA
+- Erica Krimmel - Independent, Sacramento, CA, USA
 - Talia Karim - University of Colorado, Boulder, CO, USA
 - Falko Glöckler - Museum für Naturkunde, Berlin, Germany
 - Mareike Petersen - Museum für Naturkunde, Berlin, Germany
