@@ -9,13 +9,19 @@ background:
 toc: true
 ---
 
-_Last updated 8 August 2024_
+_Last updated 29 September 2024_
+
+## Breaking news!
+
+**15 October is the final deadline** for submitting your extended abstract to ARPHA for publication in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
+
+**Are you an old hand at ARPHA and just need a summary version of these instructions?** See the [TL;DR](/conferences/2024/biss-abstracts-tldr/) (too long; didn't read) version. 
 
 ## Getting started
 
 ### Register for SPNHC-TDWG 2024
 
-Registration is now open for the conference [https://www.tdwg.org/conferences/2024/registration/](/conferences/2024/registration/) and all presenters must be registered before their abstract will be published. 
+All presenters must be registered and a presentation made at the conference before an extended abstract will be approved for publication. 
 
 ### Introduction
 
@@ -113,7 +119,7 @@ Make sure this is filled in with `SPNHC-TDWG 2024` (no more, no less).
 
 ### Requirements
 
-Please write your abstract in English for a general audience, providing context for your presentation and avoiding unexplained jargon. _This abstract is an expanded version of what has been submitted and accepted for presentation at SPNHC-TDWG 2024._
+Please write your abstract in English for a general audience, providing context for your presentation and avoiding unexplained jargon. _This abstract must be an expanded version of what was been submitted and accepted for presentation at SPNHC-TDWG 2024._
 
 Be sure to provide references for TDWG or other [standards](/standards/) used in your work (e.g., [Darwin Core Standard](/standards/450)).
 
@@ -226,7 +232,7 @@ Because this now has a BISS identifier, you must access actions to complete the 
 
 ## Seeking help
 
-If, at any time, you need further technical assistance, check the [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, click `Feedback` icon (on the top navigation bar to open a new window with an email form for you to fill in to the journal’s technical staff) OR for content/editorial questions, send an email to TDWG Editors [editor@tdwg.org](mailto:editor@tdwg.org) including the ARPHA ID of your abstract in the subject line. Note that icons now use tooltips (mouse over) and do not otherwise include text explanations. For other questions about the conference, please email [okinawa2024@spnhc.org](mailto:okinawa2024@spnhc.org).
+If, at any time, you need further technical assistance, check the [Tips and tricks](https://arpha.pensoft.net/tips/) link or if you fail to find an answer to your question, click `Feedback` icon (on the top navigation bar to open a new window with an email form for you to fill in to the journal’s technical staff) OR for content/editorial questions, send an email to TDWG Editors [editor@tdwg.org](mailto:editor@tdwg.org) including the ARPHA ID of your abstract in the subject line. Note that icons now use tooltips (mouse over) and do not otherwise include text explanations. 
 
 ## ARPHA-related-FAQs
 
