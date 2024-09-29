@@ -8,13 +8,13 @@ background:
 toc: false
 ---
 
-_Last updated 10 June 2024_
+_Last updated 29 September 2024_
 
-Each extended abstract published in [_BISS_](https://biss.pensoft.net) is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. It is not a verbatim repetition of your abstract in OA. Using Pensoft’s [ARPHA writing tool](https://arpha.pensoft.net/), you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation can also be added to the abstract’s media tab after the conference, to build a well-rounded presentation of your work. Each published abstract can link to your [ORCID](https://orcid.org/), will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work. 
+Each extended abstract published in [_BISS_](https://biss.pensoft.net) is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. _It is not a verbatim repetition of your abstract in OA._ Using Pensoft’s [ARPHA writing tool](https://arpha.pensoft.net/), you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation will also be added to the abstract’s media tab in December 2024, to build a well-rounded presentation of your work. Each published abstract can link to your [ORCID](https://orcid.org/), will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work. 
 
 Abstracts you submitted to OA were purposefully kept succinct (≤300 words) to facilitate prompt review  with limited editorial suggestions for the purposes of programming the conference. We also aimed to provide notification to authors in a timely manner for planning their travel. However, TDWG has had a successful partnership since 2017 with Pensoft Publishing (joined by [SPNHC in 2018](https://biss.pensoft.net/collection/63/)) to publish the [Proceedings](https://biss.pensoft.net/collections) of its conferences, including those of [Biodiversity_Next 2019](https://biss.pensoft.net/collection/115/). This opportunity is being extended to those desiring to take advantage of it for SPNHC-TDWG 2024. This is a benefit of your registration for the conference and acceptance of your presentation. There is no additional cost attached to publishing your extended abstract and there are other benefits to doing the additional work. 
 
-See the [Call for Extended Abstracts](https://www.tdwg.org/conferences/2024/biss-extended-abstract-call/) - **Deadline for submission: 15 July**
+See the [Call for Extended Abstracts](https://www.tdwg.org/conferences/2024/biss-extended-abstract-call/) - **Final Deadline for Submission: 15 October**
 
 Additional benefits of publishing your extended abstract include
 
