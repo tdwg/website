@@ -9,15 +9,17 @@ background:
 toc: true
 ---
 
-_Last updated 6 June 2024_
+_Last updated 29 September 2024_
 
 The complete instructions for submitting 2024 extended abstracts may be found [here](/conferences/2024/biss-abstract-submission/). This high level summary provides relevant links to that document. 
 
-**Deadline for the submission of extended abstracts is 15 July 2024**
+## Breaking news
+
+**Final deadline for the submission of extended abstracts is 15 October 2024.** Abstracts in draft after 15 October and never submitted for review will not be considered for publication.
 
 ## Getting started
 
-1. [Register](/conferences/2024/registration/) for SPNHC-TDWG 2024
+1. Register for SPNHC-TDWG 2024. Presentation must be made at conference to be eligible to submit an extended abstract.
 2. See "[Why submit an extended abstract in BISS](/conferences/2024/why-extended-abstract/)"
 3. Extended abstracts will appear in [2024 collection](https://biss.pensoft.net/collection/438/) 
     1. [log-in](https://biss.pensoft.net/login.php?redirurl=%2F) or [register](https://pensoft.net/register.php?register=1&gotourl=biss.pensoft.net%2F) for an account with Pensoft
