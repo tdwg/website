@@ -8,12 +8,12 @@ background:
 toc: true
 ---
 
-_Last updated 29 September 2024_
+_Last updated 13 October 2024: clarified that this applies only to NEW abstracts, not previously submitted in ARPHA_ 
 
 
 ## Breaking News!
 
-**15 October is the final deadline** for [submitting an extended abstract to ARPHA](/conferences/2024/biss-abstract-submission/) for publication in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
+**15 October is the final deadline** for [submitting a NEW extended abstract to ARPHA](/conferences/2024/biss-abstract-submission/) for publication in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). _This deadline only applies to abstracts not previously submitted for review or in the review process._
 
 Don't miss out on this important benefit of your registration and presentation at SPNHC-TDWG 2024. See "[Why submit an extended abtract](/conferences/2024/why-extended-abstract/)" if you have lingering doubts.
 
