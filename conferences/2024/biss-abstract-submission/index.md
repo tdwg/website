@@ -9,11 +9,11 @@ background:
 toc: true
 ---
 
-_Last updated 29 September 2024_
+_Last updated 13 October 2024_
 
 ## Breaking news!
 
-**15 October is the final deadline** for submitting your extended abstract to ARPHA for publication in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
+**15 October is the final deadline** for submitting a NEW extended abstract to ARPHA for publication in [_Biodiversity Information Science and Standards (BISS)_](https://biss.pensoft.net/collection/438/). 
 
 **Are you an old hand at ARPHA and just need a summary version of these instructions?** See the [TL;DR](/conferences/2024/biss-abstracts-tldr/) (too long; didn't read) version. 
 
@@ -298,4 +298,4 @@ See [_Why submit an extended abstract in BISS?_](/conferences/2024/why-extended-
 {:id="where-published-abstracts"}
 ### Where will I find published abstracts?
 
-See [published abstract collections](https://biss.pensoft.net/collections) and select current year’s volume. Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _Biodiversity Information Science and Standards_ after signing in.
+See [published 2024 abstract collection](https://biss.pensoft.net/collections/438/). Sign up for [email notifications](https://pensoft.net/profile/alerts/edit) of newly published content from _Biodiversity Information Science and Standards_ after signing in.
