@@ -1,7 +1,7 @@
 ---
 title: SPNHC-TDWG 2024 Schedule
 description: >
- Version date: 27 August 2024
+ Version date: 25 October 2024
 background:
   img: https://images.unsplash.com/photo-1583726933208-71489613d494
   by: Hiroko Yoshii
@@ -11,9 +11,7 @@ toc: false
 
 ## [Full program in Oxford Abstracts](https://virtual.oxfordabstracts.com/#/event/6771/program)
 
-You must be a registered user and logged-in to view the program.  If you are a registered virtual participant, the OA program gives you access to Zoom sessions.  [Virtual registration](/conferences/2024/registration/) is still open.
-
-If live sessions are too far out of your timezone, we will be posting recordings on YouTube as fast as we can (12-24 hrs).  Find the links in session descriptions, clickable on the program.
+You must be a registered user and logged-in to view the program.  If you are a registered in-person or virtual participant, the OA program gives you access to recordings of sessions you may have missed. Find the links in program's session descriptions. Session recordings will be made public later in the year.
 
 ## Schedule of talks in sessions
 
