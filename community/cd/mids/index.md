@@ -79,7 +79,7 @@ Design study work funded by the European Union Horizon 2020 [ICEDIG](https://ice
 - Supporting and contributing towards assessments of fitness for purpose of data (suitability) for feeding specific types of data processing pipelines; and,
 - Assisting researchers to know what information to include in their journal articles and data deposits about specimens they have used in their research.
 
-Drawing on prior work, drafting commenced on a specification for Minimum Information about a Digital Specimen (MIDS), (Hardisty et al. draft) and this is continuing in the present DiSSCo [Prepare](https://www.dissco.eu/prepare/) project. This work is offered as the starting point for a TDWG task group.
+Drawing on prior work, drafting commenced on a specification for Minimum Information about a Digital Specimen (MIDS), (Hardisty et al. draft) and this is continuing in the present DiSSCo [Prepare](https://www.dissco.eu/dissco-prepare/) project. This work is offered as the starting point for a TDWG task group.
 
 Considering the global nature of the aims outlined, it is appropriate now to propose a TDWG Task Group to prepare a draft global standard on the topic.
 
@@ -91,6 +91,7 @@ Biodiversity Data Quality: (BDQ IG): MIDS recognises the importance of both qual
 
 ## Resources
 
-- Hardisty, A., Addink, W., Dillen, M., Groom, Q., Haston, E., et al. [(*Draft*) Minimum Information about a Digital Specimen (MIDS) v0.11, July 2020](http://bit.ly/MIDSv011). _Draft text of a specification._
-- Borsch, T., Stevens, A.-D., Häffner, E., Güntsch, A., Berendsohn, W.G., et al. (2020): A complete digitization of German herbaria is possible, sensible and should be started now. [Research Ideas and Outcomes 6: e50675](https://doi.org/10.3897/rio.6.e50675]).
+- Hardisty, A., Addink, W., Dillen, M., Groom, Q., Haston, E., et al. [(*Draft*) Minimum Information about a Digital Specimen (MIDS) v0.11, July 2020]([http://bit.ly/MIDSv011](https://github.com/tdwg/mids/blob/main/MIDS-definition.md 
+)). _Draft text of a specification._
+- Borsch, T., Stevens, A.-D., Häffner, E., Güntsch, A., Berendsohn, W.G., et al. (2020): A complete digitization of German herbaria is possible, sensible and should be started now. [Research Ideas and Outcomes 6: e50675](https://doi.org/10.3897/rio.6.e50675).
 - MISC 2012. iDigBio MISC Data Element Catalog ([Phase 1, V0, rev. 15 December 2012](https://www.idigbio.org/wiki/images/c/c9/Phase\_I\_Report.pdf)).
