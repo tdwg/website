@@ -43,7 +43,7 @@ Chapman proposed an extension to Darwin Core to capture information about how an
 
 * An assessment of how the Sensitive Species extension relates to other TDWG standards
 * Detailed documentation on sensitive species terms included in the extension
-* Standard specification for submission to TDWG Executive by December 2024
+* Standard specification for submission to TDWG Executive by December 2025
 
 
 ## Strategy 
