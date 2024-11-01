@@ -39,7 +39,7 @@ Inspired by the idea of 'minimum information standards' adopted in other areas o
 
 ## Goals, outputs and outcomes
 
-- Beginning with the existing [draft MIDS specification](https://bit.ly/MIDSv011) (July 2020) developed with input from the DiSSCo and ADBC programmes, the goal now is to broaden applicability and to achieve international consensus that leads to widespread adoption and implementation.
+- Beginning with the existing [draft MIDS specification](old-drafts/MIDS-definition-v0.11-21July2020.md) (July 2020) developed with input from the DiSSCo and ADBC programmes, the goal now is to broaden applicability and to achieve international consensus that leads to widespread adoption and implementation.
 - Outputs will include the draft standard itself, a summary of the use cases served, reports of pilot implementations and evaluations of the standard's content, and appropriate proposals for MIDS sup > by other TDWG standards, such as Darwin Core, ABCD, CD, ...
 - The complete draft minimum information standard for Minimum Information about a Digital Specimen (MIDS) will be submitted for consideration as a TDWG Standard (Autumn 2021).
 
@@ -91,7 +91,6 @@ Biodiversity Data Quality: (BDQ IG): MIDS recognises the importance of both qual
 
 ## Resources
 
-- Hardisty, A., Addink, W., Dillen, M., Groom, Q., Haston, E., et al. [(*Draft*) Minimum Information about a Digital Specimen (MIDS) v0.11, July 2020]([http://bit.ly/MIDSv011](https://github.com/tdwg/mids/blob/main/MIDS-definition.md 
-)). _Draft text of a specification._
+- Hardisty, A., Addink, W., Dillen, M., Groom, Q., Haston, E., et al. [(*Draft*) Minimum Information about a Digital Specimen (MIDS) v0.11, July 2020](https://github.com/tdwg/mids/blob/main/MIDS-definition.md). _Draft text of a specification._
 - Borsch, T., Stevens, A.-D., Häffner, E., Güntsch, A., Berendsohn, W.G., et al. (2020): A complete digitization of German herbaria is possible, sensible and should be started now. [Research Ideas and Outcomes 6: e50675](https://doi.org/10.3897/rio.6.e50675).
 - MISC 2012. iDigBio MISC Data Element Catalog ([Phase 1, V0, rev. 15 December 2012](https://www.idigbio.org/wiki/images/c/c9/Phase\_I\_Report.pdf)).
