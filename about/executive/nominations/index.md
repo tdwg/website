@@ -44,7 +44,7 @@ Nominee
 
 [Responsibilities](/about/executive/responsibilities/#secretary)
 
-#### Nominee for Sec: Visotheary Ung - Muséum National d’Histoire Naturelle, Paris
+#### Nominee: Visotheary Ung - Muséum National d’Histoire Naturelle, Paris
 
 **Background**
 : I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
@@ -59,7 +59,7 @@ Nominee
 
 [Responsibilities](/about/executive/responsibilities/#treasurer)
 
-##### Nominee for Treas: Chandra Earl - National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)
+##### Nominee: Chandra Earl - National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)
 
 **Background**
 : I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
@@ -89,7 +89,7 @@ The theme of my personal research is focused on large-scale biodiversity data an
 
 [Responsibilities](/about/committees/outreach/#responsibilities)
 
-#### Nominee for O&C: Nicky Nicolson - Royal Botanic Gardens, Kew, Richmond, UK
+#### Nominee: Nicky Nicolson - Royal Botanic Gardens, Kew, Richmond, UK
 
 **Background**
 : I worked for about fifteen years in a variety of software development roles at the Royal Botanic Gardens, Kew [1] helping researchers and curators manage and mobilise scientific information. Effectively this was a research software engineer role [2], it just predated the term. Ten years ago I switched from the technical track into research, where I completed a doctorate in machine learning, applying density based clustering to our digitised specimen data to identify collectors, expeditions and related specimens gathered from a shared collecting event [3]. I took software development practices with me - things like revision control, dependency management, build automation and continuous integration - to help manage the research process. My work was applied in the Global Biodiversity Information Facility (GBIF) data portal where it helps users navigate between related records [4]. Now I'm senior research leader in digital collections at Kew. We are nearing the end of our specimen digitisation project [5], and I'm interested in how we can use our digitised specimen data to build the "digital extended specimen", and how we do this in an open and inclusive way. I am developing a toolkit called "echinopscis: an extensible notebook for open science on specimens" [6], which was partly supported by Open Seeds [7], an open science mentoring and skills development programme.
@@ -127,14 +127,13 @@ The theme of my personal research is focused on large-scale biodiversity data an
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
-Nominee Rep for Afr: 
-: _None received yet._
+#### Nominee: _None received yet_
 
 ### Regional Representative for Asia  <!-- Term: 2025-2026 -->
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
-##### Nominee Rep for Asia (1): Vijay Barve - Natural History Museum of Los Angeles County, CA, USA
+#### Nominee: Vijay Barve - Natural History Museum of Los Angeles County, CA, USA
 : [ORCID](https://orcid.org/0000-0002-4852-2567)
 
 **Background**
@@ -146,7 +145,7 @@ Nominee Rep for Afr:
 : While Asian countries rank among the top ten in GBIF data usage, their participation in the TDWG community remains limited. To bridge this gap, we must proactively reach out to Asian researchers and raise awareness about the data standards and practices TDWG is developing.
 : As an Asia Representative, I would leverage my existing relationships with institutions and researchers in Asia and Africa to foster greater engagement with TDWG. This role would provide me with additional opportunities to connect with the community and promote TDWG's initiatives. I would also continue to organize symposia focused on Asia and the Global South at future TDWG conferences.
 
-#### Nominee Rep for Asia (2): Daphne Z. Hoh - Taiwan Biodiversity Information Facility, Taipei, Taiwan
+#### Nominee: Daphne Z. Hoh - Taiwan Biodiversity Information Facility, Taipei, Taiwan
 : [ORCID](https://orcid.org/0000-0002-7810-1034)
 
 **Background**
@@ -159,10 +158,9 @@ Nominee Rep for Afr:
 ### Regional Representative for Europe
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
-
 <!-- Term: 2025-2026 -->
+#### Nominee: Laurence Livermore - The Natural History Museum, London
 
-#### Nominee Rep for Eu: Laurence Livermore - The Natural History Museum, London
 **Background**
 : I am passionate about open data and increasing collaboration and community building to enable better data mobilisation from natural history collections. I have been working on community projects in Europe for over ten years, including two iterations of the EC-funded SYNTHESYS projects, ICEDIG, DiSSCo Prepare and Mobilise projects. Recently, this has included the proposal writing and leading the collaborative development of [Specimen Data Refinery platform](https://github.com/DiSSCo/SDR) in SYNTHESYS+ and the managing the creation of Digitisation Guides for [DiSSCo Prepare](https://dissco.github.io/).
 : I am an active participant in SPNHC and CETAF (especially the Digitisation Working Group), and intend to remain active during my potential tenure. I have extensive experience of collaboration outside of Europe, including delivering e-taxonomy training in four continents, delivering a GBIF BID workshop in Jamaica, and digitisation of Malaysian collections as part of national digitisation initiative. I attended my first TDWG conference in 2014 ([slides](https://doi.org/10.6084/m9.figshare.1219251.v1)), and have attended all in-person European conferences since ([2019](https://doi.org/10.6084/m9.figshare.10024715.v1) and [2022](https://doi.org/10.6084/m9.figshare.21312345.v1)). Both myself and my digitisation team use TDWG standards on a day-to-day basis in our projects and are keen to give more user feedback on implementation and use.
@@ -177,16 +175,13 @@ Nominee Rep for Afr:
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
-#### Nominee Rep for LA: Juan Manuel Saez Hidalgo - Instituto de Ecologia y Biodiversidad (IEB), Chile
-
+#### Nominee: Juan Manuel Saez Hidalgo - Instituto de Ecologia y Biodiversidad (IEB), Chile
 
 ### Regional Representative for North America
-
+<!-- Term: 2025-2026 -->
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
-<!-- Term: 2025-2026 -->
-
-#### Nominee Rep for NA: Erica Krimmel - Biodiversity Information Scientist
+#### Nominee: Erica Krimmel - Biodiversity Information Scientist
 : [ORCID](https://orcid.org/0000-0003-3192-0080)
 
 **Background**
