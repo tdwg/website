@@ -177,8 +177,12 @@ _The Natural History Museum, London_
 _Instituto de Ecologia y Biodiversidad (IEB), Chile_
 
 **Background**
+: I am a Computer Science researcher at Chile's Institute of Ecology and Biodiversity (IEB). I manage and develop the Digital Herbarium, supporting biodiversity research by ensuring its digital assets are organized, accessible, and up-to-date. Additionally, I lead data analysis for various projects, utilizing my expertise to support decision-making in research grants and tenders.
+: The IEB aspires to be a world-class institute that conducts groundbreaking scientific research to support sustainable development in Chile. As part of this mission, the IEB operates as a training center, providing advanced education for undergraduate and postgraduate students and mentoring young researchers. While not all research can be published in scientific journals, the IEB remains committed to connecting science with the challenges facing the country's production industries and with public institutions responsible for environmental and biodiversity care.
+: I hold a Master's in Computer Science from the University of Chile, have two years of experience in ecology, and aspire to pursue a doctoral degree in Statistics at the Pontificia Universidad Católica de Chile. This doctorate aligns with my strong interest in data science and its application to biodiversity research.
 
 **Vision**
+: My vision is to serve as a representative within the Taxonomic Databases Working Group (TDWG), advocating for the inclusion of Latin America in TDWG’s global initiatives. I aim to contribute to a more inclusive and comprehensive approach to global biodiversity research and conservation by bridging regional expertise with international biodiversity data standards.
 
 ### Rep for North America
 
