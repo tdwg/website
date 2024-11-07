@@ -173,13 +173,17 @@ _The Natural History Museum, London_
 
 ### Rep for Latin America
 
-#### Juan Manuel Saez Hidalgo - Instituto de Ecologia y Biodiversidad (IEB), Chile
+#### Juan Manuel Saez Hidalgo 
+_Instituto de Ecologia y Biodiversidad (IEB), Chile_
+
+**Background**
+
+**Vision**
 
 ### Rep for North America
 
-#### Erica Krimmel
-_Biodiversity Information Scientist_
-: [ORCID](https://orcid.org/0000-0003-3192-0080)
+#### Erica Krimmel - [ORCID](https://orcid.org/0000-0003-3192-0080)
+_Independent Biodiversity Information Scientist, Sacramento, CA, USA_
 
 **Background**
 : I am an information scientist (MLIS) whose expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data. Since 2006, I have worked in and around natural history collections–during my undergraduate education, at a research field station, at nonprofit museums, in the context of a national resource (iDigBio), and now as a freelance consultant. My driving goal is to make biodiversity data of all scales FAIR and fit-for-use in applied contexts from academic research to public policy. I have been a member of the TDWG community since 2017, when I began helping produce the Darwin Core Hour series. Since then, I regularly attend and present at annual meetings, participate in standards development processes, and benefit from the essential framework that TDWG provides for biodiversity data mobilization.
