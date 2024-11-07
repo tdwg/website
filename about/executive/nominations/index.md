@@ -134,9 +134,8 @@ _None received yet_
 
 ### Rep for Asia
 
-#### (1) Vijay Barve 
+#### (1) Vijay Barve - [ORCID](https://orcid.org/0000-0002-4852-2567)
 _Natural History Museum of Los Angeles County, CA, USA_
-: [ORCID](https://orcid.org/0000-0002-4852-2567)
 
 **Background**
 : With a Master's degree in Computer Science, I began my career in India, contributing to medicinal plant documentation and conservation. Developing a passion for biodiversity informatics, I pursued a PhD in Geography at the University of Kansas. My doctoral research focused on citizen contributions to biodiversity data generation.
@@ -147,9 +146,8 @@ _Natural History Museum of Los Angeles County, CA, USA_
 : While Asian countries rank among the top ten in GBIF data usage, their participation in the TDWG community remains limited. To bridge this gap, we must proactively reach out to Asian researchers and raise awareness about the data standards and practices TDWG is developing.
 : As an Asia Representative, I would leverage my existing relationships with institutions and researchers in Asia and Africa to foster greater engagement with TDWG. This role would provide me with additional opportunities to connect with the community and promote TDWG's initiatives. I would also continue to organize symposia focused on Asia and the Global South at future TDWG conferences.
 
-#### (2) Daphne Z. Hoh
+#### (2) Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034)
 _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
-: [ORCID](https://orcid.org/0000-0002-7810-1034)
 
 **Background**
 : I have been trained as a marine scientist since completing my BSc and PhD studies. My research focused on sea turtle conservation, with a specific emphasis on fungal infections in sea turtle eggs and sea turtle’s foraging ecology. My research has spanned various aspects of this issue, including pathogen genomics and pathogenicity, utilising high-throughput sequencing and bioinformatics methods. I co-founded TurtleSpot Taiwan, a citizen science initiative that collects sea turtle sightings to support local involvement in science. Recognising the significance of generating extensive primary biodiversity data through my work, this experience sparks my interest in biodiversity informatics. I have since then actively engaged in TDWG activities, serving as a Program Committee member for associated conferences and contributing as an open data ambassador, mentor, and trainer. For the past years, I have been a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), where my work focuses on evaluating biodiversity data gaps, mobilizing data, and building capacity for data use. Additionally, I contributed to translating critical materials on biodiversity data standards, such as Darwin Core terms and vocabularies, GBIF’s DNA publishing guidelines, and related course materials, from English to Chinese, making these resources more accessible to Chinese-speaking audiences.
