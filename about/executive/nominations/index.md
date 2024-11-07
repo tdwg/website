@@ -173,7 +173,7 @@ _The Natural History Museum, London_
 
 ### Rep for Latin America
 
-#### Nominee: Juan Manuel Saez Hidalgo - Instituto de Ecologia y Biodiversidad (IEB), Chile
+#### Juan Manuel Saez Hidalgo - Instituto de Ecologia y Biodiversidad (IEB), Chile
 
 ### Rep for North America
 
