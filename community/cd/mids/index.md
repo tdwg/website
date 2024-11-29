@@ -20,6 +20,7 @@ Previous convenors: [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk)
 - Mathias Dillen - Meise Botanic Garden, BE
 - Quentin Groom - Meise Botanic Garden, BE
 - Falko Glöckler - Museum für Naturkunde Berlin, DE
+- Ben Norton - US
 - Deborah Paul - iDigBio, USA
 - Mareike Petersen - Museum für Naturkunde Berlin, DE
 - Hannu Saarenmaa - Bioshare Digitization, FI
