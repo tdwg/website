@@ -134,19 +134,7 @@ _None received yet_
 
 ### Rep for Asia
 
-#### (1) Vijay Barve - [ORCID](https://orcid.org/0000-0002-4852-2567)
-_Natural History Museum of Los Angeles County, CA, USA_
-
-**Background**
-: With a Master's degree in Computer Science, I began my career in India, contributing to medicinal plant documentation and conservation. Developing a passion for biodiversity informatics, I pursued a PhD in Geography at the University of Kansas. My doctoral research focused on citizen contributions to biodiversity data generation.
-: As a postdoctoral researcher at the Florida Museum of Natural History and Purdue University, I continued to delve into biodiversity informatics. My research interests center on citizen science in biodiversity, and I have published extensively on this topic. I've coordinated several citizen science initiatives in India and have been recognized for my contributions with the GBIF Young Researcher award and multiple GBIF Ebbe Nielsen Awards.
-: I have trained participants from around the world in biodiversity informatics and mentored students through Google Summer of Code. As part of the GBIF regional support team for Asia, I've assisted numerous biodiversity researchers in publishing their data on GBIF. I'm a contributor to the Audiovisual Core Data standard and have served on the Conference Program Committee of TDWG since 2021.
-
-**Vision**
-: While Asian countries rank among the top ten in GBIF data usage, their participation in the TDWG community remains limited. To bridge this gap, we must proactively reach out to Asian researchers and raise awareness about the data standards and practices TDWG is developing.
-: As an Asia Representative, I would leverage my existing relationships with institutions and researchers in Asia and Africa to foster greater engagement with TDWG. This role would provide me with additional opportunities to connect with the community and promote TDWG's initiatives. I would also continue to organize symposia focused on Asia and the Global South at future TDWG conferences.
-
-#### (2) Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034)
+#### Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034)
 _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
 
 **Background**
