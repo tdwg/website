@@ -37,7 +37,7 @@ All officers elected this year will serve a term of two calendar years, 2025-202
 
 [Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2025-2026, then as Chair 2027-2028)
 
-_No nomination received yet_
+_No nomination received._
 
 ### Secretary
 
@@ -130,7 +130,7 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 
 ### Rep for Africa: 
 
-_None received yet_
+_No nomination received._
 
 ### Rep for Asia
 
