@@ -24,6 +24,7 @@ list:
 - Nico Franz – Arizona State University, USA
 - Anne Fuchs – Centre for Australian National Biodiversity Research, Australia
 - Johan Liljeblad – SLU Swedish Species Information Centre, Sweden
+- Carlos Martínez Muñoz - Senckenberg Gesellschaft für Naturforschung, Germany
 - Richard Pyle – Bishop Museum, USA
 - Jonathan Rees – independent, USA
 - Mieke Strong = Gaia Resources, Australia
