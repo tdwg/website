@@ -17,6 +17,7 @@ toc: true
 - Markus Döring - Global Biodiversity Information Facility, Germany
 - Anne Fuchs - Centre for Australian National Biodiversity Research, Australia
 - Johan Liljeblad – SLU Swedish Species Information Centre, Sweden
+- Carlos Martínez Muñoz - Senckenberg Gesellschaft für Naturforschung, Germany
 - Mieke Strong - Gaia Resources, Australia
 - Campbell Webb – University of Alaska Museum of the North, USA
 - Greg Whitbread – Taxamatics, Australia
