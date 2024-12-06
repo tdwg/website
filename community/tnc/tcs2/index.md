@@ -12,12 +12,14 @@ toc: true
 
 ## Core members
 
-- Johan Liljeblad – SLU Swedish Species Information Centre, Sweden
-- Campbell Webb – University of Alaska Museum of the North, USA
-- Jeff Gerbracht – Cornell Lab of Ornithology, USA
-- Greg Whitbread – Taxamatics, Australia
-- William Ulate – Missouri Botanical Garden, USA
+- Vijay Barve - Natural History Museum, Los Angeles County, USA
+- Thierry Bourgoin - Muséum national de l'Histoire naturelle, France
+- Markus Döring - Global Biodiversity Information Facility, Germany
 - Anne Fuchs - Centre for Australian National Biodiversity Research, Australia
+- Johan Liljeblad – SLU Swedish Species Information Centre, Sweden
+- Mieke Strong - Gaia Resources, Australia
+- Campbell Webb – University of Alaska Museum of the North, USA
+- Greg Whitbread – Taxamatics, Australia
 
 ## Motivation and scope
 
