@@ -12,6 +12,8 @@ toc: false
 # Posters
 
 
+{:.float-end .ms-5 .w-20}
+![Abarca Russack](https://static.tdwg.org/conferences/2024/posters/abarca-188.png)
 
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 <div>
@@ -493,7 +495,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ------
 
-### [On the history of a Mexican Paleontological collection](https://static.tdwg.org/conferences/2024/posters/romero-157.pdf)
+### [On the history of a Mexican Paleontological collection](https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.pdf)
 
   <div>
     Violeta A. Romero-Mayén <a href="https://orcid.org/0000-0001-5098-5299">ORCID iD</a>, Jesús Alvarado-Ortega <a href="https://orcid.org/0000-0001-8458-7205">ORCID iD</a>
