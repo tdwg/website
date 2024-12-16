@@ -14,16 +14,14 @@ toc: false
 
 
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
-
-	<div>
-	  Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941" >ORCID iD</a><sup>1</sup>
-	
-	  <div style="font-size: 0.8em;">
-	    <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
-	    <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
-	    &nbsp;
-	  </div>
-	</div>
+<div>
+  Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941" >ORCID iD</a><sup>1</sup>
+  <div style="font-size: 0.8em;">
+    <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
+    <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
+    &nbsp;
+  </div>
+</div>
 
 #### Abstract
 
@@ -32,6 +30,7 @@ toc: false
 <p class="calibri">Components of the publication tracking application include a MySQL database of publications and institutionally affiliated authors, as well as an automated email reporting system for tables and visualizations of publication data. Examples of these reports, including visualizations related to Sustainable Development assignments can be found at <a href="https://github.com/calacademy-research/publications_finder" class="calibri">https://github.com/calacademy-research/publications_finder</a>.</p>
 
 ------
+
 ### [A History of Marine Exploration: Expeditions and Contributors to the Marine Invertebrate Collections at the American Museum of Natural History](https://static.tdwg.org/conferences/2024/posters/berniker-354.pdf)
 
   <div>
