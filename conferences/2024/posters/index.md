@@ -16,7 +16,7 @@ toc: false
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 <div>
   Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941">ORCID iD</a><sup>1</sup>
-  <div style="font-size: 0.8em;">
+  <div style="font-size: 0.8em; margin-left: 10px;">
     <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
     <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
     &nbsp;
@@ -54,7 +54,7 @@ toc: false
 
   <div>
     Emily Braker<a href="https://orcid.org/0000-0002-8359-5884">ORCID iD</a><sup>1</sup>, Mariel Campbell <a href="https://orcid.org/0000-0003-0536-5044">ORCID iD</a><sup>2</sup>, Carla Cicero <a href="https://orcid.org/0000-0002-6282-2339">ORCID iD</a><sup>3</sup>, Andrew Doll <a href="https://orcid.org/0000-0002-1038-1690">ORCID iD</a><sup>4</sup>, Lindsey Frederick<sup>5</sup>, Michelle S. Koo <a href="https://orcid.org/0000-0003-0410-722X">ORCID iD</a><sup>3</sup>, Angela Linn <a href="https://orcid.org/0000-0003-4016-0837">ORCID iD</a><sup>6</sup>, Teresa J. Mayfield-Meyer <a href="https://orcid.org/0000-0002-1970-7044">ORCID iD</a><sup>7</sup>, Dusty McDonald <a href="https://orcid.org/0000-0002-4848-5938">ORCID iD</a><sup>8</sup>, Elizabeth A. Wommack <a href="https://orcid.org/0000-0002-9172-0120">ORCID iD</a><sup>9</sup>
-    <div style="font-size: 0.8em; left-margin: 10px">
+    <div style="font-size: 0.8em;">
       <sup>1</sup>University of Colorado Museum of Natural History, Boulder, Colorado, USA.<br />
       <sup>2</sup>Museum of Southwestern Biology, University of New Mexico, Albuquerque, New Mexico, USA.<br />
       <sup>3</sup>Museum of Vertebrate Zoology, University of California, Berkeley, Berkeley, California, USA.<br />
