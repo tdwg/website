@@ -6,14 +6,14 @@ background:
   img: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
   by: Georg Eiermann
   href: https://unsplash.com/photos/eWiTil2CAvA 
-  toc: false
+toc: false
 ---
 
 # Posters
 
 
 
-## [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
+### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 
 <div>
   <span class="mdc-typography--body1" style="text-align: left; font-weight: 500; text-decoration: underline">Maricela Abarca </span><a class="mdc-typography--body1" href="https://orcid.org/0000-0002-0890-8887" style="text-decoration: underline">ORCID iD</a><sup style="font-weight: 500">1,2</sup><span class="mdc-typography--body1" style="text-align: left">, </span><span class="mdc-typography--body1" style="text-align: left; font-weight: 500">Joseph Russack </span><a class="mdc-typography--body1" href="https://orcid.org/0000-0001-8366-0941" style="text-decoration: underline">ORCID iD</a><sup style="font-weight: 500">1</sup>
