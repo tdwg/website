@@ -21,12 +21,14 @@ background:
   <div style="font-size: 0.8em;">
     <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
     <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
+    &nbsp;
   </div>
 </div>
 
-#### <b>Abstract</b>
+#### Abstract
+
 <p class="calibri">Although publications alone are not a comprehensive measure of the impact of biodiversity collections, they provide a valuable starting point for formulating impact metrics due to the accessible and standardized nature of publication metadata. The ubiquity of attributes such as DOIs, author affiliation, and the increasing adoption of author identifiers such as ORCIDS facilitate automated collection and analysis of publication data. One useful and emerging area of publication metadata is the assignment of UN Sustainable Development Goals, which offer a direct linkage between collections based research and solutions to climate change and sustainability initiatives.</p>
 <p class="calibri">At the California Academy of Sciences (CAS), the tracking of institutional publications was initially a manual process, conducted as needed using spreadsheets and documents. Recognizing the inefficiencies and potential for errors in this method, CAS aimed to develop an automated, reliable tracking system. The integration of publications from diverse sources posed a challenge, yet it was successfully addressed using the OpenAlex API, an open-source repository of publication data. Querying the API using affiliation metadata alone resulted in a significant improvement in publication tracking, and further refinement was achieved by incorporating ORCID-based searches and filters. In the calendar year 2022, while staff manually tracked 66 publications for reporting purposes, the API system successfully identified 198 publications authored by museum staff and affiliates during the same period. The API is also equipped to retrieve datasets published through platforms like Zenodo, Figshare, and other DataCite affiliates. It returned 22 CAS datasets, a metric that was previously untracked.&#xA0;</p>
 <p class="calibri">Components of the publication tracking application include a MySQL database of publications and institutionally affiliated authors, as well as an automated email reporting system for tables and visualizations of publication data. Examples of these reports, including visualizations related to Sustainable Development assignments can be found at <a href="https://github.com/calacademy-research/publications_finder" class="calibri">https://github.com/calacademy-research/publications_finder</a>.</p>
-</div>
------
+
+------
