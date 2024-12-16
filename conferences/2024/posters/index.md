@@ -16,7 +16,7 @@ toc: false
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 
 <div>
-  Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>, Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941" >ORCID iD</a><sup>1</sup>
+  Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941" >ORCID iD</a><sup>1</sup>
 
   <div style="font-size: 0.8em;">
     <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
