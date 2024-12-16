@@ -15,15 +15,15 @@ toc: false
 
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 
-<div>
-  Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941" >ORCID iD</a><sup>1</sup>
-
-  <div style="font-size: 0.8em;">
-    <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
-    <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
-    &nbsp;
-  </div>
-</div>
+	<div>
+	  Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941" >ORCID iD</a><sup>1</sup>
+	
+	  <div style="font-size: 0.8em;">
+	    <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
+	    <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
+	    &nbsp;
+	  </div>
+	</div>
 
 #### Abstract
 
@@ -32,43 +32,21 @@ toc: false
 <p class="calibri">Components of the publication tracking application include a MySQL database of publications and institutionally affiliated authors, as well as an automated email reporting system for tables and visualizations of publication data. Examples of these reports, including visualizations related to Sustainable Development assignments can be found at <a href="https://github.com/calacademy-research/publications_finder" class="calibri">https://github.com/calacademy-research/publications_finder</a>.</p>
 
 ------
-### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
-
-  <div>
-    Maricela Abarca<a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>, Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941">ORCID iD</a><sup>1</sup>
-    <div>
-      <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
-  		<sup>2</sup>University of San Francisco, San Francisco, California, USA
-    </div>
-  </div>
-
-#### Abstract
-
-  <div>
-    <p>Although publications alone are not a comprehensive measure of the impact of biodiversity collections, they provide a valuable starting point for formulating impact metrics due to the accessible and standardized nature of publication metadata. The ubiquity of attributes such as DOIs, author affiliation, and the increasing adoption of author identifiers such as ORCIDS facilitate automated collection and analysis of publication data. One useful and emerging area of publication metadata is the assignment of UN Sustainable Development Goals, which offer a direct linkage between collections based research and solutions to climate change and sustainability initiatives.</p>
-    <p>At the California Academy of Sciences (CAS), the tracking of institutional publications was initially a manual process, conducted as needed using spreadsheets and documents. Recognizing the inefficiencies and potential for errors in this method, CAS aimed to develop an automated, reliable tracking system. The integration of publications from diverse sources posed a challenge, yet it was successfully addressed using the OpenAlex API, an open-source repository of publication data. Querying the API using affiliation metadata alone resulted in a significant improvement in publication tracking, and further refinement was achieved by incorporating ORCID-based searches and filters. In the calendar year 2022, while staff manually tracked 66 publications for reporting purposes, the API system successfully identified 198 publications authored by museum staff and affiliates during the same period. The API is also equipped to retrieve datasets published through platforms like Zenodo, Figshare, and other DataCite affiliates. It returned 22 CAS datasets, a metric that was previously untracked.&#xA0;</p>
-    <p>Components of the publication tracking application include a MySQL database of publications and institutionally affiliated authors, as well as an automated email reporting system for tables and visualizations of publication data. Examples of these reports, including visualizations related to Sustainable Development assignments can be found at <a href="https://github.com/calacademy-research/publications_finder">https://github.com/calacademy-research/publications_finder</a>.</p>
-  </div>
-
-------
-
 ### [A History of Marine Exploration: Expeditions and Contributors to the Marine Invertebrate Collections at the American Museum of Natural History](https://static.tdwg.org/conferences/2024/posters/berniker-354.pdf)
 
   <div>
     Lily Berniker<a href="https://orcid.org/0000-0001-7790-3011">ORCID iD</a>, Estefania Rodriguez <a href="https://orcid.org/0000-0002-5590-6606">ORCID iD</a>, Christine Johnson <a href="https://orcid.org/0000-0002-8173-4027">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       American Museum of Natural History, New York, NY, USA
     </div>
   </div>
 
 #### Abstract
 
-  <div>
-    <p>The marine invertebrate collections within the Division of Invertebrate Zoology at the American Museum of Natural History (AMNH) house an estimated 5-7 million specimens and encompass more than 25 animal phyla. &#xA0;</p>
-    <p>Cataloging material in these collections has been in practice since the museum&#x2019;s beginning more than 150 years ago. However, only in the past few decades has there been a concerted effort to catalog records and their associated data in digital format, and only in the past few years has this digital data been available online.&#xA0;</p>
-    <p>Since the fall of 2020, The Division of Invertebrate Zoology has been participating in Documenting Marine Biodiversity Through Digitization of Invertebrate Collections (DigIn), a National Science Foundation (NSF)-funded Thematic Collections Network (TCN). &#xA0;The AMNH&#x2019;s objectives under this grant are to digitize the majority of the non-mollusk, fluid-preserved marine invertebrate holdings, georeference the collection localities and make available publicly thousands of specimen images. Through the efforts of this grant, the history of the collection, including major expeditions and major donors, has come into focus. With digital catalog, expedition, locality and donor records, it is now easier than ever to examine the history of these collections.</p>
-    <p>Here we present an overview of the non-molluscan marine invertebrate collections and highlight a few of the expeditions and donors that have contributed to the collection&#x2019;s growth over the past 150 years.</p>
-  </div>
+<p>The marine invertebrate collections within the Division of Invertebrate Zoology at the American Museum of Natural History (AMNH) house an estimated 5-7 million specimens and encompass more than 25 animal phyla. &#xA0;</p>
+<p>Cataloging material in these collections has been in practice since the museum&#x2019;s beginning more than 150 years ago. However, only in the past few decades has there been a concerted effort to catalog records and their associated data in digital format, and only in the past few years has this digital data been available online.&#xA0;</p>
+<p>Since the fall of 2020, The Division of Invertebrate Zoology has been participating in Documenting Marine Biodiversity Through Digitization of Invertebrate Collections (DigIn), a National Science Foundation (NSF)-funded Thematic Collections Network (TCN). &#xA0;The AMNH&#x2019;s objectives under this grant are to digitize the majority of the non-mollusk, fluid-preserved marine invertebrate holdings, georeference the collection localities and make available publicly thousands of specimen images. Through the efforts of this grant, the history of the collection, including major expeditions and major donors, has come into focus. With digital catalog, expedition, locality and donor records, it is now easier than ever to examine the history of these collections.</p>
+<p>Here we present an overview of the non-molluscan marine invertebrate collections and highlight a few of the expeditions and donors that have contributed to the collection&#x2019;s growth over the past 150 years.</p>
 
 ------
 
@@ -76,11 +54,11 @@ toc: false
 
   <div>
     Emily Braker<a href="https://orcid.org/0000-0002-8359-5884">ORCID iD</a><sup>1</sup>, Mariel Campbell <a href="https://orcid.org/0000-0003-0536-5044">ORCID iD</a><sup>2</sup>, Carla Cicero <a href="https://orcid.org/0000-0002-6282-2339">ORCID iD</a><sup>3</sup>, Andrew Doll <a href="https://orcid.org/0000-0002-1038-1690">ORCID iD</a><sup>4</sup>, Lindsey Frederick<sup>5</sup>, Michelle S. Koo <a href="https://orcid.org/0000-0003-0410-722X">ORCID iD</a><sup>3</sup>, Angela Linn <a href="https://orcid.org/0000-0003-4016-0837">ORCID iD</a><sup>6</sup>, Teresa J. Mayfield-Meyer <a href="https://orcid.org/0000-0002-1970-7044">ORCID iD</a><sup>7</sup>, Dusty McDonald <a href="https://orcid.org/0000-0002-4848-5938">ORCID iD</a><sup>8</sup>, Elizabeth A. Wommack <a href="https://orcid.org/0000-0002-9172-0120">ORCID iD</a><sup>9</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>University of Colorado Museum of Natural History, Boulder, Colorado, USA.<br />
-  		<sup>2</sup>Museum of Southwestern Biology, University of New Mexico, Albuquerque, New Mexico, USA.<br />
-  		<sup>3</sup>Museum of Vertebrate Zoology, University of California, Berkeley, Berkeley, California, USA.<br />
-  		<sup>4</sup>Denver Museum of Nature &amp; Science, Denver, Colorado, USA  .<br />
+      <sup>2</sup>Museum of Southwestern Biology, University of New Mexico, Albuquerque, New Mexico, USA.<br />
+      <sup>3</sup>Museum of Vertebrate Zoology, University of California, Berkeley, Berkeley, California, USA.<br />
+			<sup>4</sup>Denver Museum of Nature &amp; Science, Denver, Colorado, USA  .<br />
   		<sup>5</sup>New Mexico Museum of Natural History &amp; Science, Albuquerque, New Mexico, USA  .<br />
   		<sup>6</sup>University of Alaska Museum of the North, Fairbanks, Alaska, USA.<br />
   		<sup>7</sup>Arctos Consortium, Community Initiatives, Oakland, California, USA.<br />
@@ -104,8 +82,8 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 ### [Increasing Discoverability: A Challenge in Managing Microfossil Bulk Collections](https://static.tdwg.org/conferences/2024/posters/drew-300.pdf)
 
   <div>
-   Nicholas Drew  
-    <div>
+    Nicholas Drew  
+		<div style="font-size: 0.8em;">
       Smithsonian Institution - National Musem of Natural History, Washington, DC, USA  
     </div>
   </div>
@@ -123,7 +101,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
   <div>
     Tohru Iseto<a href="https://orcid.org/0000-0001-6290-7001">ORCID iD</a><sup>1</sup>, Marika Ichiyanagi<sup>2</sup>, Masatomo Hisazumi<sup>2</sup>, Yoshihiko Tamura <a href="https://orcid.org/0000-0002-3705-7815">ORCID iD</a><sup>1</sup>, Yoshihiro Takatsu<sup>1</sup>, Kazuyo Fukuda <a href="https://orcid.org/0000-0001-9837-4307">ORCID iD</a><sup>1</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Kanagawa, Japan  .<br />
 			<sup>2</sup>MARINE WORKS JAPAN LTD., Yokosuka, Kanagawa, Japan  
     </div>
@@ -145,7 +123,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
   <div>
     Kalina Jakymec  <sup>1</sup>, Austin Mast<sup>2,1</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Institute for Digital Information &amp; Scientific Communication, Florida State University, Tallahassee, Florida, USA  .<br />
 			<sup>2</sup>Department of Biological Science, Florida State University, Tallahassee, Florida, USA
     </div>
@@ -167,7 +145,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
   <div>
     Anna Jerve<a href="https://orcid.org/0000-0002-9276-1346">ORCID iD</a>, Chloe Cheng <a href="https://orcid.org/0009-0005-2205-1284">ORCID iD</a>, Christine Garcia <a href="https://orcid.org/0000-0002-9728-3670">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Stanford University, Stanford, CA, USA
     </div>
   </div>
@@ -184,7 +162,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
   <div>
     Rachunliu Kamei<a href="https://orcid.org/0000-0003-3054-9785">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Field Museum of Natural History, Chicago, Illinois, USA
     </div>
   </div>
@@ -201,7 +179,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
   <div>
     Claire Kelly  
-    <div>
+    <div style="font-size: 0.8em;">
       Natural History Museum, London, United Kingdom
     </div>
   </div>
@@ -221,7 +199,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
   <div>
     Keeva Connolly<a href="https://orcid.org/0009-0004-1409-4041">ORCID iD</a><sup>1</sup>, Peter Brenton<sup>2</sup>, Simon Checksfield<sup>2</sup>, Christopher Mangion<sup>1</sup>, Winnie Mok<sup>1</sup>, Caitlin Ramsay<sup>2</sup>, Sarah Richmond<sup>3</sup>, Goran Sterjov<sup>2</sup>, Nigel Ward<sup>1</sup>, Kathryn Hall<sup>2</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Australian BioCommons, Australia.<br />
 			<sup>2</sup>Atlas of Living Australia, Australia.<br />
 			<sup>3</sup>Bioplatforms Australia, Australia
@@ -246,7 +224,7 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 
   <div>
     Wouter Koch<a href="https://orcid.org/0000-0001-9025-9486">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Norwegian Biodiversity Information Centre, Trondheim, Norway
     </div>
   </div>
@@ -268,7 +246,7 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 
   <div>
     Jessica Lane  
-    <div>
+    <div style="font-size: 0.8em;">
       Botanical Research Institute of Texas, Fort Worth, Texas, USA
     </div>
   </div>
@@ -285,7 +263,7 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 
   <div>
     Holly Little<a href="https://orcid.org/0000-0001-7909-4166">ORCID iD</a><sup>1</sup>, Kay Behrensmeyer <a href="https://orcid.org/0000-0001-6857-368X">ORCID iD</a><sup>1</sup>, Jarod Hutson<sup>1</sup>, Stephen Maikweki<sup>2</sup>, Briana Pobiner <a href="https://orcid.org/0000-0001-5051-9175">ORCID iD</a><sup>1</sup>, Lindsay Walker <a href="https://orcid.org/0000-0002-2162-6593">ORCID iD</a><sup>3</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Smithsonian National Museum of Natural History, Washington, DC, USA.<br />
 			<sup>2</sup>National Museum of Kenya, Nairobi, Kenya.<br />
 			<sup>3</sup>Arizona State University, Tempe, USA
@@ -304,7 +282,7 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 
   <div>
    Brooke Long-Fox   <a href="https://orcid.org/0000-0002-2718-647X">ORCID iD</a><sup>1</sup>, Ana Andruchow-Colombo <a href="https://orcid.org/0000-0003-2942-5603">ORCID iD</a><sup>2</sup>, Shreya Jariwala <a href="https://orcid.org/0009-0008-3198-4547">ORCID iD</a><sup>3</sup>, Maureen O’Leary <a href="https://orcid.org/0000-0001-7837-5708">ORCID iD</a><sup>4</sup>, Tanya Berardini <a href="https://orcid.org/0000-0002-3837-8864">ORCID iD</a><sup>1</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Phoenix Bioinformatics, Newark, CA, USA.<br />
   		<sup>2</sup>University of Kansas, Lawrence, KS, USA.<br />
   		<sup>3</sup>University of California, Berkeley, Berkeley, CA, USA.<br />
@@ -328,7 +306,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 
   <div>
     Annika Bengtson<sup>1</sup>, Johannes Lundberg<sup>2</sup>, <span class="mdc-typography--body1" style="text-align: left; font-weight: 500; text-decoration: underline">Tobias Malm</span><sup>2</sup>, Andrea Hennyey<sup>2</sup>, Sara Danielsson<sup>2</sup>, Veronika Johansson<sup>2</sup>, Dennis Strid<sup>2</sup>, Dan Holtstam<sup>2</sup>, Cecilia Larsson<sup>2</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Swedish Museum of natural History, Stockholm, Sweden.<br />
 			<sup>2</sup>Swedish Museum of Natural History, Stockholm, Sweden
     </div>
@@ -347,7 +325,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 
   <div>
     satoshi maruyama  <sup>1</sup>, shinya miyata<sup>2</sup>, hiromi kurosu<sup>3</sup>, hiroshige matsuoka<sup>4</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Natural History Museum and Institute, Chiba., Chiba, Chiba, Japan  .<br />
 			<sup>2</sup>Josai University, Chiyoda, Tokyo, Japan.<br />
 			<sup>3</sup>Amakusa Museum of Goshoura Dinosaur Island, Amakusa, Kumamoto, Japan.<br />
@@ -374,7 +352,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
   <div>
     Bjørk Bach Nielsen, Kristian Murphy Gregersen
-    <div>
+    <div style="font-size: 0.8em;">
       The Royal Danish Academy, Copenhagen, Denmark
     </div>
   </div>
@@ -391,7 +369,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 <div>
     Takeshi Noda<a href="https://orcid.org/0000-0003-2213-0626">ORCID iD</a><sup>1</sup>, Mikihiko Higa<sup>2</sup>, Kanako Hisata<sup>1</sup>, Haruhi Narisoko<sup>1</sup>, Mayuki Suwa<sup>1</sup>, Aya Koseki<sup>1</sup>, Hiroki Taniguchi<sup>3</sup>, Koki Nishitsuji <a href="https://orcid.org/0000-0002-4015-7139">ORCID iD</a><sup>4</sup>, Tomofumi Nagata<sup>5</sup>, Megumi Kanai<sup>5</sup>, Chuya Shinzato <a href="https://orcid.org/0000-0001-7843-3381">ORCID iD</a><sup>6</sup>, Noriyuki Satoh <a href="https://orcid.org/0000-0002-4480-3572">ORCID iD</a><sup>1</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Okinawa institute of science and technology, Onna, Okinawa, Japan.<br />
 			<sup>2</sup>Akajima Marine Science labolatory, Aka, Okinawa, Japan.<br />
 			<sup>3</sup>Zamami Village tourism association, Zamami, Okinawa, Japan.<br />
@@ -413,7 +391,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
   <div>
     Tatsuo Ohtsuki<a href="https://orcid.org/0000-0003-1667-9161">ORCID iD</a>, Taisuke Ohtsuka <a href="https://orcid.org/0000-0003-0811-5382">ORCID iD</a>, Kayoko O. Kameda
-    <div>
+    <div style="font-size: 0.8em;">
       LAKE BIWA MUSEUM, KUSATSU, SHIGA, Japan
     </div>
   </div>
@@ -434,7 +412,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
   <div>
     Lauren Phelan  
-    <div>
+    <div style="font-size: 0.8em;">
       Royal Botanic Gardens, Kew, London, United Kingdom
     </div>
   </div>
@@ -453,7 +431,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
   <div>
     Nikos Gänsdorfer <a href="https://orcid.org/0000-0001-6973-1475">ORCID iD</a><sup>1</sup>, Heimo Rainer<a href="https://orcid.org/0000-0002-5963-349X">ORCID iD</a><sup>2</sup>, Clara Lines Diaz <a href="https://orcid.org/0000-0003-3437-5145">ORCID iD</a><sup>3</sup>, Angus Whyte <a href="https://orcid.org/0000-0002-5198-0833">ORCID iD</a><sup>3</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>NHM Vienna, VIenna, Austria.<br />
 			<sup>2</sup>NHM Vienna, Vienna, Austria.<br />
 			<sup>3</sup>Edinburgh Napier University, Edinburgh, United Kingdom
@@ -482,7 +460,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
   <div>
     Erica Read  , Arianna Bernucci, Armando Mendez, Lu Allington-Jones, Lauren Burleson, Fabiana Portoni
-    <div>
+    <div style="font-size: 0.8em;">
       Natural History Museum, London, United Kingdom
     </div>
   </div>
@@ -500,7 +478,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
   <div>
     <span class="mdc-typography--body1" style="text-align: left; font-weight: 500; text-decoration: underline">Violeta A. Romero-Mayén </span><a href="https://orcid.org/0000-0001-5098-5299">ORCID iD</a>, Jesús Alvarado-Ortega <a href="https://orcid.org/0000-0001-8458-7205">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Colección Nacional de Paleontología, Instituto de Geología, Universidad Nacional Autónoma de México, Mexico City, Mexico  
     </div>
   </div>
@@ -519,7 +497,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
   <div>
     Enrique Santoyo Brito<a href="https://orcid.org/0000-0003-3997-3232">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Illinois Natural History Survey, Champaign, Illinois, USA
     </div>
   </div>
@@ -536,7 +514,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
   <div>
     Kathryn Sullivan<a href="https://orcid.org/0000-0003-3792-2538">ORCID iD</a><sup>1,2</sup>, Erika Tucker <a href="https://orcid.org/0000-0002-8822-2315">ORCID iD</a><sup>1,3</sup>, Nicolas Dowdy<sup>1</sup>, Julie Allen<sup>4</sup>, Vijay Barve<sup>5</sup>, Sarah Bush<sup>6</sup>, Neal Evenhuis<sup>7</sup>, Michael Hastriter<sup>8</sup>, Jessica Light<sup>9</sup>, Teresa Mayfield-Meyer<sup>10</sup>, Barry OConnor<sup>11</sup>, Jorrit Poelen<sup>12,13</sup>, Gabor Racz<sup>14</sup>, Katja Seltmann<sup>13</sup>, Jennifer Zaspel<sup>1,2</sup>
-    <div>
+    <div style="font-size: 0.8em;">
       <sup>1</sup>Milwaukee Public Museum, Milwaukee, WI, USA.<br />
 			<sup>2</sup>Marquette University, Milwaukee, WI, USA.<br />
 			<sup>3</sup>Biodiversity Outreach Network, USA.<br />
@@ -570,7 +548,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
   <div>
     Jessica Tir<a href="https://orcid.org/0000-0002-6446-7713">ORCID iD</a>, Allie Tir
-    <div>
+    <div style="font-size: 0.8em;">
       Charles R. Conner Museum, Washington State University, Pullman, WA, USA  
     </div>
   </div>
@@ -589,7 +567,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
   <div>
     Jennifer Trimble<a href="https://orcid.org/0000-0002-7480-3645">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       MCZ, Harvard, Cambridge, MA, USA
     </div>
   </div>
@@ -606,7 +584,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
   <div>
     Jessica Utrup<a href="https://orcid.org/0000-0001-5201-8235">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Yale Peabody Museum, New Haven, CT, USA
     </div>
   </div>
@@ -623,7 +601,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
   <div>
     Lucy Watkinson  
-    <div>
+    <div style="font-size: 0.8em;">
       Natural History Museum, London, United Kingdom
     </div>
   </div>
@@ -641,7 +619,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
   <div>
     Alexander Wolodkin<a href="https://orcid.org/0000-0003-1556-8750">ORCID iD</a>, Claus Weiland <a href="https://orcid.org/0000-0003-0351-6523">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       Senckenberg – Leibniz Institution for Biodiversity and Earth System Research, Frankfurt am Main, Hessen, Germany  
     </div>
   </div>
@@ -666,7 +644,7 @@ Funded by DFG (German Research Foundation). DFG project number 508107981.
 
   <div>
     Sungsoo Yoon<a href="https://orcid.org/0000-0003-4712-8004">ORCID iD</a>, Yongsu Kwon <a href="https://orcid.org/0000-0002-2573-5922">ORCID iD</a>
-    <div>
+    <div style="font-size: 0.8em;">
       National Institute of Ecology, Seocheon-gun, Chungcheongnam-do, Korea, Republic of  
     </div>
   </div>
