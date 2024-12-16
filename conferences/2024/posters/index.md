@@ -12,7 +12,7 @@ toc: false
 # Posters
 
 
-{:.float-end .ms-2 .w-20}
+{:.float-end .ms-5}
 ![Abarca Russack](https://static.tdwg.org/conferences/2024/posters/abarca-188.png)
 
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
