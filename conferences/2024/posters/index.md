@@ -606,19 +606,19 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
 ### [Significance of Extraregional Surveys - Contribution to Comprehensive Historical Exhibition of the Regional Museum through Interregional Comparisons of "Familiar Insects"](https://static.tdwg.org/conferences/2024/posters/uchifune-228.pdf)
 
-	<div>
-		Toshiki Uchifune
-		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
-			Yokosuka City Museum, Yokosuka, Kanagawa, Japan.<br />
-	    &nbsp;
-	  </div>
-	</div>
+<div>
+Toshiki Uchifune
+	<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+		Yokosuka City Museum, Yokosuka, Kanagawa, Japan.<br />
+    &nbsp;
+  </div>
+</div>
 
 #### Abstract
 
-	<div>
- 		<p>In order for a local museum to exhibit natural history in a limited space, the following items should be prioritized in its animals and plants collection: 1) animals and plants in each natural environment characteristic of the local area, 2) fossils and remains excavated in the local area, and 3) animals and plants that have changed with the urbanization of the present day. The presenter's museum is planning a major renewal of its exhibits in the near future, and one of its tasks is to integrate natural history exhibits with historical and folklore exhibits, which have been separated from natural history exhibits, in a comprehensive and historical manner. While many of the animal and plant materials mentioned in 2) above can be placed in various parts of the general history exhibits from geohistory to history, it is difficult to solve the same problem for insect materials because the number of insect remains is extremely small compared to the number of species that can be observed close at hand. "Familiar insects" are a set of species of the current insect fauna of an area that can be followed by many people, and are an important component of the earliest remembered scenery for children. The presenter is conducting a survey of "familiar insects" in various areas where the present and future climate, topography, and land use patterns that define the insect fauna of each period, from prehistory to modern times and into the future, in the museum's field are assumed or predicted to match today. The collection and information accumulated through this survey will greatly extend the time period covered in 3) above, and will enable the placement of insect collections at various locations throughout the historical exhibition of the region's past and future.</p>
-	</div>
+<div>
+		<p>In order for a local museum to exhibit natural history in a limited space, the following items should be prioritized in its animals and plants collection: 1) animals and plants in each natural environment characteristic of the local area, 2) fossils and remains excavated in the local area, and 3) animals and plants that have changed with the urbanization of the present day. The presenter's museum is planning a major renewal of its exhibits in the near future, and one of its tasks is to integrate natural history exhibits with historical and folklore exhibits, which have been separated from natural history exhibits, in a comprehensive and historical manner. While many of the animal and plant materials mentioned in 2) above can be placed in various parts of the general history exhibits from geohistory to history, it is difficult to solve the same problem for insect materials because the number of insect remains is extremely small compared to the number of species that can be observed close at hand. "Familiar insects" are a set of species of the current insect fauna of an area that can be followed by many people, and are an important component of the earliest remembered scenery for children. The presenter is conducting a survey of "familiar insects" in various areas where the present and future climate, topography, and land use patterns that define the insect fauna of each period, from prehistory to modern times and into the future, in the museum's field are assumed or predicted to match today. The collection and information accumulated through this survey will greatly extend the time period covered in 3) above, and will enable the placement of insect collections at various locations throughout the historical exhibition of the region's past and future.</p>
+</div>
 
 #### Funding program
 
