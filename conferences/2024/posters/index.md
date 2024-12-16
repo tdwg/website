@@ -125,7 +125,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 ### [Professional development offerings from the iDigBio Digitization Academy](https://static.tdwg.org/conferences/2024/posters/jakymec-377.pdf)
 
   <div>
-    Kalina Jakymec  <sup>1</sup>, Austin Mast<sup>2,1</sup>
+    Kalina Jakymec<sup>1</sup>, Austin Mast<sup>2,1</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Institute for Digital Information &amp; Scientific Communication, Florida State University, Tallahassee, Florida, USA.<br />
 			<sup>2</sup>Department of Biological Science, Florida State University, Tallahassee, Florida, USA.<br />
@@ -496,7 +496,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 ### [On the history of a Mexican Paleontological collection](https://static.tdwg.org/conferences/2024/posters/romero-157.pdf)
 
   <div>
-    <span class="mdc-typography--body1" style="text-align: left; font-weight: 500; text-decoration: underline">Violeta A. Romero-Mayén </span><a href="https://orcid.org/0000-0001-5098-5299">ORCID iD</a>, Jesús Alvarado-Ortega <a href="https://orcid.org/0000-0001-8458-7205">ORCID iD</a>
+    Violeta A. Romero-Mayén <a href="https://orcid.org/0000-0001-5098-5299">ORCID iD</a>, Jesús Alvarado-Ortega <a href="https://orcid.org/0000-0001-8458-7205">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Colección Nacional de Paleontología, Instituto de Geología, Universidad Nacional Autónoma de México, Mexico City, Mexico.<br />
       &nbsp;
@@ -601,6 +601,28 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
   <div>
     <p>How do museums keep track of the things that we have? A report based on the 78 largest museums and herbaria worldwide estimates that they house over 1.1 billion objects. Museum collections are an important repository for historical and current research specimens. Therefore, the tools used to store, track, and document object movement, have long-lasting implications. The Malacology Collection at Harvard University's MCZ has digitized just under 400,000 cataloged lots on MCZbase, a museumwide online database, and estimates that another 300,000 uncataloged lots, including dry and fluid material, microscope slides, and bulk samples remain. With ongoing digitization, physical rearrangement, and loans, object containers allow for specimen tracking and bulk inventories. The MCZ utilizes several methods of specimen/lot tracking, including specimen object containers, physical placeholders, and barcodes. With the development of robust collection databases, and bulk object tracking, best practices continue to be developed. The ability to locate objects within a museum collection is paramount in keeping order when curating large collections and will continue to evolve with the addition of new technologies.</p>
   </div>
+
+------
+
+### [Significance of Extraregional Surveys - Contribution to Comprehensive Historical Exhibition of the Regional Museum through Interregional Comparisons of "Familiar Insects"](https://static.tdwg.org/conferences/2024/posters/uchifune-228.pdf)
+
+	<div>
+		Toshiki Uchifune
+		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+			Yokosuka City Museum, Yokosuka, Kanagawa, Japan.<br />
+	    &nbsp;
+	  </div>
+	</div>
+
+#### Abstract
+
+	<div>
+ 		<p>In order for a local museum to exhibit natural history in a limited space, the following items should be prioritized in its animals and plants collection: 1) animals and plants in each natural environment characteristic of the local area, 2) fossils and remains excavated in the local area, and 3) animals and plants that have changed with the urbanization of the present day. The presenter's museum is planning a major renewal of its exhibits in the near future, and one of its tasks is to integrate natural history exhibits with historical and folklore exhibits, which have been separated from natural history exhibits, in a comprehensive and historical manner. While many of the animal and plant materials mentioned in 2) above can be placed in various parts of the general history exhibits from geohistory to history, it is difficult to solve the same problem for insect materials because the number of insect remains is extremely small compared to the number of species that can be observed close at hand. "Familiar insects" are a set of species of the current insect fauna of an area that can be followed by many people, and are an important component of the earliest remembered scenery for children. The presenter is conducting a survey of "familiar insects" in various areas where the present and future climate, topography, and land use patterns that define the insect fauna of each period, from prehistory to modern times and into the future, in the museum's field are assumed or predicted to match today. The collection and information accumulated through this survey will greatly extend the time period covered in 3) above, and will enable the placement of insect collections at various locations throughout the historical exhibition of the region's past and future.</p>
+	</div>
+
+#### Funding program
+
+This project was supported by JSPS KAKENHI Grant Number JP21K01011
 
 ------
 
