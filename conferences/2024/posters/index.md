@@ -690,6 +690,15 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.
     <p>While the Yale Peabody Museum itself did not exist as an entity until 1866, the collections that are its core have been on campus much longer. Yale College had a cabinet of natural wonders dating back to the American Revolution. This &#x201C;Cabinet of Yale College&#x201D; had been housed in multiple places around campus prior to the construction of the Peabody Museum. Some of the earliest collections came from exchanges between Benjamin Silliman and Gideon Mantell. It wasn&#x2019;t until 1876 when the first Peabody Museum building opened that the museum had both its own identity and space. The appointment of Charles Beecher in 1888 gave the invertebrate paleontology collection its first dedicated staff member. Under Beecher the collections continued to grow with multiple accessions from Syria, Lebanon, and Palestine. By the late 1860s, fossils from the American West were being shipped back to Yale by train. Marsh&#x2019;s dinosaurs are the most well-known, but the invertebrate paleontology division received extensive collections of Western Interior Seaway specimens. Charles Schuchert took over the division in 1904, bringing with him an extensive collection of brachiopods that he continued to expand over his lifetime. Graduate student dissertation collections significantly grew the collections throughout the twentieth century. Significant additions in the last quarter century include the Samuel J. Ciurca Eurypterid collection, an Early Ordovician Fezouata Formation lagerst&#xE4;tte collection, the CLIMAP collection of foraminifera slides and vials, and an incredibly diverse collection of Green River Formation insects. Many fossils are on display in the newly renovated Yale Peabody Museum which reopened in April of 2024.</p>
   </div>
 
+**[Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)**
+
+_[Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)_
+
+##### _[Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)_
+
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)
+
+
 ------
 
 ### [Salvage Planning and Training in the Natural History Museum Galleries](https://static.tdwg.org/conferences/2024/posters/watkinson-245.pdf)
