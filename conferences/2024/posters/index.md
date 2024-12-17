@@ -15,7 +15,7 @@ toc: false
 <div>
   <a href="https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/abarca-188.png" style="float: right; width: 250px;"></a>
 	Maricela Abarca <a href="https://orcid.org/0000-0002-0890-8887">ORCID iD</a><sup>1,2</sup>,  Joseph Russack <a href="https://orcid.org/0000-0001-8366-0941">ORCID iD</a><sup>1</sup>
-  <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+  <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
     <sup>1</sup>California Academy of Sciences, San Francisco, California, USA.<br />
     <sup>2</sup>University of San Francisco, San Francisco, California, USA.<br />
     &nbsp;
@@ -35,7 +35,7 @@ toc: false
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/berniker-354.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/berniker-354.png" style="float: right; width: 250px;"></a>
     Lily Berniker <a href="https://orcid.org/0000-0001-7790-3011">ORCID iD</a>, Estefania Rodriguez <a href="https://orcid.org/0000-0002-5590-6606">ORCID iD</a>, Christine Johnson <a href="https://orcid.org/0000-0002-8173-4027">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       American Museum of Natural History, New York, NY, USA.<br />
  	    &nbsp;
     </div>
@@ -55,7 +55,7 @@ toc: false
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/braker-266.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/braker-266.png" style="float: right; width: 250px;"></a>
     Emily Braker <a href="https://orcid.org/0000-0002-8359-5884">ORCID iD</a><sup>1</sup>, Mariel Campbell <a href="https://orcid.org/0000-0003-0536-5044">ORCID iD</a><sup>2</sup>, Carla Cicero <a href="https://orcid.org/0000-0002-6282-2339">ORCID iD</a><sup>3</sup>, Andrew Doll <a href="https://orcid.org/0000-0002-1038-1690">ORCID iD</a><sup>4</sup>, Lindsey Frederick<sup>5</sup>, Michelle S. Koo <a href="https://orcid.org/0000-0003-0410-722X">ORCID iD</a><sup>3</sup>, Angela Linn <a href="https://orcid.org/0000-0003-4016-0837">ORCID iD</a><sup>6</sup>, Teresa J. Mayfield-Meyer <a href="https://orcid.org/0000-0002-1970-7044">ORCID iD</a><sup>7</sup>, Dusty McDonald <a href="https://orcid.org/0000-0002-4848-5938">ORCID iD</a><sup>8</sup>, Elizabeth A. Wommack <a href="https://orcid.org/0000-0002-9172-0120">ORCID iD</a><sup>9</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>University of Colorado Museum of Natural History, Boulder, Colorado, USA.<br />
       <sup>2</sup>Museum of Southwestern Biology, University of New Mexico, Albuquerque, New Mexico, USA.<br />
       <sup>3</sup>Museum of Vertebrate Zoology, University of California, Berkeley, Berkeley, California, USA.<br />
@@ -77,7 +77,7 @@ toc: false
 
 ##### Funding Program
 
-Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (2023) and the following awards from the National Science Foundation for development and sustainability: DBI-9630909, DBI-9876837, DEB-9981915, DBI-2034593, DBI-2034568, DBI-2034577.<br />
+Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (2023) and the following awards from the National Science Foundation for development and sustainability: DBI-9630909, DBI-9876837, DEB-9981915, DBI-2034593, DBI-2034568, DBI-2034577.<br />&nbsp;
 
 ------
 
@@ -86,7 +86,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/drew-300.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/drew-300.png" style="float: right; width: 250px;"></a>
     Nicholas Drew  
-		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+		<div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Smithsonian Institution - National Musem of Natural History, Washington, DC, USA.<br />
       &nbsp;
     </div>
@@ -106,7 +106,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 <div>
 	<a href="https://static.tdwg.org/conferences/2024/posters/filippova-244.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/filippova-244.png" style="float: right; width: 250px;"></a>
 	Nina Filippova <a href="https://orcid.org/0000-0002-9506-0991">ORCID iD</a><sup>1</sup>, Sergei Bolshakov <a href="https://orcid.org/0000-0002-6208-7792">ORCID iD</a><sup>2,1</sup>, Elena Zvyagina <a href="https://orcid.org/0000-0003-2063-4847">ORCID iD</a><sup>3,1</sup>
-		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+		<div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
 			<sup>1</sup>Yugra State University, Khanty-Mansiysk, Russian Federation.<br />
 			<sup>2</sup>Komarov Botanical Institute of the Russian Academy of Sciences, Saint-Petersburg, Russian Federation.<br />
 			<sup>3</sup>Moscow State University, Moscow, Russian Federation.<br />
@@ -133,7 +133,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/iseto-62.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/iseto-62.png" style="float: right; width: 250px;"></a>
     Tohru Iseto <a href="https://orcid.org/0000-0001-6290-7001">ORCID iD</a><sup>1</sup>, Marika Ichiyanagi<sup>2</sup>, Masatomo Hisazumi<sup>2</sup>, Yoshihiko Tamura <a href="https://orcid.org/0000-0002-3705-7815">ORCID iD</a><sup>1</sup>, Yoshihiro Takatsu<sup>1</sup>, Kazuyo Fukuda <a href="https://orcid.org/0000-0001-9837-4307">ORCID iD</a><sup>1</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Kanagawa, Japan.<br />
 			<sup>2</sup>MARINE WORKS JAPAN LTD., Yokosuka, Kanagawa, Japan.<br />
       &nbsp;
@@ -150,7 +150,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
     <p>We hope that the JAMSTEC initiative will become a revitalizing model for sample-based research.</p>
   </div>
 
-##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135638)<br />
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135638)<br />&nbsp;
 
 ------
 
@@ -159,7 +159,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/jakymec-377.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/jakymec-377.png" style="float: right; width: 250px;"></a>
     Kalina Jakymec<sup>1</sup>, Austin Mast<sup>2,1</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Institute for Digital Information &amp; Scientific Communication, Florida State University, Tallahassee, Florida, USA.<br />
 			<sup>2</sup>Department of Biological Science, Florida State University, Tallahassee, Florida, USA.<br />
       &nbsp;
@@ -174,7 +174,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ##### Funding Program
 
-iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2011-2018), DBI-1547229 (2016-2022), &amp; DBI-2027654 (2021-2026)].<br />
+iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2011-2018), DBI-1547229 (2016-2022), &amp; DBI-2027654 (2021-2026)].<br />&nbsp;
 
 ------
 
@@ -183,7 +183,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/jerve-169.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/jerve-169.png" style="float: right; width: 250px;"></a>
     Anna Jerve <a href="https://orcid.org/0000-0002-9276-1346">ORCID iD</a>, Chloe Cheng <a href="https://orcid.org/0009-0005-2205-1284">ORCID iD</a>, Christine Garcia <a href="https://orcid.org/0000-0002-9728-3670">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Stanford University, Stanford, CA, USA.<br />
       &nbsp;
     </div>
@@ -202,7 +202,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/kamei-365.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kamei-365.png" style="float: right; width: 250px;"></a>
     Rachunliu Kamei <a href="https://orcid.org/0000-0003-3054-9785">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Field Museum of Natural History, Chicago, Illinois, USA.<br />
       &nbsp;
     </div>
@@ -221,7 +221,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/kelly-76.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kelly-76.png" style="float: right; width: 250px;"></a>
     Claire Kelly  
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Natural History Museum, London, United Kingdom.<br />
       &nbsp;
     </div>
@@ -243,7 +243,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 <div>
 	<a href="https://static.tdwg.org/conferences/2024/posters/kobayashi-248.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kobayashi-248.png" style="float: right; width: 250px;"></a>
 	Sayaka kobayashi
-		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+		<div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
 			Yamashina Institute for Ornithology, Abiko, Chiba, Japan
 		</div>
 </div>
@@ -267,7 +267,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
   <div>
     <a href="https://static.tdwg.org/conferences/2024/posters/koch-268.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/koch-268.png" style="float: right; width: 250px;"></a>
 		Wouter Koch <a href="https://orcid.org/0000-0001-9025-9486">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Norwegian Biodiversity Information Centre, Trondheim, Norway.<br />
       &nbsp;
     </div>
@@ -291,7 +291,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/lane-372.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/lane-372.png" style="float: right; width: 250px;"></a>
     Jessica Lane  
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Botanical Research Institute of Texas, Fort Worth, Texas, USA.<br />
       &nbsp;
     </div>
@@ -310,7 +310,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/little-341.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/little-341.png" style="float: right; width: 250px;"></a>
     Holly Little <a href="https://orcid.org/0000-0001-7909-4166">ORCID iD</a><sup>1</sup>, Kay Behrensmeyer <a href="https://orcid.org/0000-0001-6857-368X">ORCID iD</a><sup>1</sup>, Jarod Hutson<sup>1</sup>, Stephen Maikweki<sup>2</sup>, Briana Pobiner <a href="https://orcid.org/0000-0001-5051-9175">ORCID iD</a><sup>1</sup>, Lindsay Walker <a href="https://orcid.org/0000-0002-2162-6593">ORCID iD</a><sup>3</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Smithsonian National Museum of Natural History, Washington, DC, USA.<br />
 			<sup>2</sup>National Museum of Kenya, Nairobi, Kenya.<br />
 			<sup>3</sup>Arizona State University, Tempe, USA.<br />
@@ -331,7 +331,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/long-fox-198.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/long-fox-198.png" style="float: right; width: 250px;"></a>
 		Brooke Long-Fox <a href="https://orcid.org/0000-0002-2718-647X">ORCID iD</a><sup>1</sup>, Ana Andruchow-Colombo <a href="https://orcid.org/0000-0003-2942-5603">ORCID iD</a><sup>2</sup>, Shreya Jariwala <a href="https://orcid.org/0009-0008-3198-4547">ORCID iD</a><sup>3</sup>, Maureen O’Leary <a href="https://orcid.org/0000-0001-7837-5708">ORCID iD</a><sup>4</sup>, Tanya Berardini <a href="https://orcid.org/0000-0002-3837-8864">ORCID iD</a><sup>1</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Phoenix Bioinformatics, Newark, CA, USA.<br />
   		<sup>2</sup>University of Kansas, Lawrence, KS, USA.<br />
   		<sup>3</sup>University of California, Berkeley, Berkeley, CA, USA.<br />
@@ -348,7 +348,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
 ##### Funding Program
 
-MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membership fees from academic institutions and museums around the world.<br />
+MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membership fees from academic institutions and museums around the world.<br />&nbsp;
 
 ------
 
@@ -357,7 +357,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/malm-253.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/malm-253.png" style="float: right; width: 250px;"></a>
     Annika Bengtson<sup>1</sup>, Johannes Lundberg<sup>2</sup>, <span style="text-decoration: underline">Tobias Malm</span><sup>2</sup>, Andrea Hennyey<sup>2</sup>, Sara Danielsson<sup>2</sup>, Veronika Johansson<sup>2</sup>, Dennis Strid<sup>2</sup>, Dan Holtstam<sup>2</sup>, Cecilia Larsson<sup>2</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Swedish Museum of natural History, Stockholm, Sweden.<br />
 			<sup>2</sup>Swedish Museum of Natural History, Stockholm, Sweden.<br />
       &nbsp;
@@ -378,7 +378,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/maruyama-26.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/maruyama-26.png" style="float: right; width: 250px;"></a>
     Satoshi Maruyama<sup>1</sup>, Shinya Miyata<sup>2</sup>, Hiromi Kurosu<sup>3</sup>, Hiroshige Matsuoka<sup>4</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Natural History Museum and Institute, Chiba., Chiba, Chiba, Japan.<br />
 			<sup>2</sup>Josai University, Chiyoda, Tokyo, Japan.<br />
 			<sup>3</sup>Amakusa Museum of Goshoura Dinosaur Island, Amakusa, Kumamoto, Japan.<br />
@@ -409,7 +409,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/nielsen-247.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/nielsen-247.png" style="float: right; width: 250px;"></a>
     Bjørk Bach Nielsen, Kristian Murphy Gregersen
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       The Royal Danish Academy, Copenhagen, Denmark.<br />
       &nbsp;
     </div>
@@ -430,7 +430,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
 	  <a href="https://static.tdwg.org/conferences/2024/posters/noda-368.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/noda-368.png" style="float: right; width: 250px;"></a>
     Takeshi Noda <a href="https://orcid.org/0000-0003-2213-0626">ORCID iD</a><sup>1</sup>, Mikihiko Higa<sup>2</sup>, Kanako Hisata<sup>1</sup>, Haruhi Narisoko<sup>1</sup>, Mayuki Suwa<sup>1</sup>, Aya Koseki<sup>1</sup>, Hiroki Taniguchi<sup>3</sup>, Koki Nishitsuji <a href="https://orcid.org/0000-0002-4015-7139">ORCID iD</a><sup>4</sup>, Tomofumi Nagata<sup>5</sup>, Megumi Kanai<sup>5</sup>, Chuya Shinzato <a href="https://orcid.org/0000-0001-7843-3381">ORCID iD</a><sup>6</sup>, Noriyuki Satoh <a href="https://orcid.org/0000-0002-4480-3572">ORCID iD</a><sup>1</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Okinawa institute of science and technology, Onna, Okinawa, Japan.<br />
 			<sup>2</sup>Akajima Marine Science labolatory, Aka, Okinawa, Japan.<br />
 			<sup>3</sup>Zamami Village tourism association, Zamami, Okinawa, Japan.<br />
@@ -445,7 +445,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
   <div>
     <p>Coral reefs are one of the hotspots for biodiversity and hosting around 30% of marine species. Compositions of coral species in reefs are dynamically changing as they undergo damage and recovery, including mass bleaching event due to anthropogenic coastal development and global warming, feeding damage caused by mass outbreaks of corallivore crown-of-thorns starfish, and physical destruction due to rough water current caused by storms. Assessing coral reefs requires a precise description of coral communities within their habitat and a convenient method for doing so. Our group established an eDNA metabarcoding method that can identify reef-building coral genera. We conducted a large scale survey of coral enviromental DNA around Okinawa Island and the Kerama Islands, and compared the biodiversity of corals between them. The average number of detected genera at sampling sites in the Kerama Islands (21.6 genera) was higher than that in Okinawa Island (12.0 genera) by our methods. This result can be said to support the legitimacy of the Kerama Islands being designated as a Japanese national park due to their beautiful and diverse coral reefs. We have succeeded in clearly and objectively showing the relative richness of coral diversity in the Kerama Islands using eDNAs in this study. That is to say that eDNA metabarcoding of the scleractinian corals as the key stone group must be the one of the powerful methods for the standardization of tropical marine biodiversity.&#xA0;</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -454,7 +454,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/ohtsuki-220.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/ohtsuki-220.png" style="float: right; width: 250px;"></a>
     Tatsuo Ohtsuki <a href="https://orcid.org/0000-0003-1667-9161">ORCID iD</a>, Taisuke Ohtsuka <a href="https://orcid.org/0000-0003-0811-5382">ORCID iD</a>, Kayoko O. Kameda
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       LAKE BIWA MUSEUM, KUSATSU, SHIGA, Japan.<br />
       &nbsp;
     </div>
@@ -479,7 +479,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/phelan-352.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/phelan-352.png" style="float: right; width: 250px;"></a>
     Lauren Phelan  
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Royal Botanic Gardens, Kew, London, United Kingdom.<br />
       &nbsp;
     </div>
@@ -499,7 +499,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/read-100.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/read-100.png" style="float: right; width: 250px;"></a>
     Erica Read, Arianna Bernucci, Armando Mendez, Lu Allington-Jones, Lauren Burleson, Fabiana Portoni
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Natural History Museum, London, United Kingdom.<br />
       &nbsp;
     </div>
@@ -519,7 +519,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/rainer-363.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/rainer-363.png" style="float: right; width: 250px;"></a>
     Nikos Gänsdorfer <a href="https://orcid.org/0000-0001-6973-1475">ORCID iD</a><sup>1</sup>, <span style="text-decoration: underline">Heimo Rainer</span> <a href="https://orcid.org/0000-0002-5963-349X">ORCID iD</a><sup>2</sup>, Clara Lines Diaz <a href="https://orcid.org/0000-0003-3437-5145">ORCID iD</a><sup>3</sup>, Angus Whyte <a href="https://orcid.org/0000-0002-5198-0833">ORCID iD</a><sup>3</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>NHM Vienna, VIenna, Austria.<br />
 			<sup>2</sup>NHM Vienna, Vienna, Austria.<br />
 			<sup>3</sup>Edinburgh Napier University, Edinburgh, United Kingdom.<br />
@@ -535,13 +535,14 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
     <p>(2) &#x2018;Minimum Viable Skillset&#x2019; (MVS) for Digital Collections Managers. Since digital transformation of museum collections also requires different ways of working and new skills, we are developing a job profile based on this MVS, and piloting training materials to help people acquire the essential skills to make collections more open for research. &#xA0;The MVS are one of the key outputs of the project and cover a variety of career profiles related to open science, such as researchers, policy-makers, knowledge brokers, and data stewards. To assist trainers of people in these roles, &#xA0;the project is developing learning paths and training resources based on the MVS.</p>
     <p>(3) We are establishing a professional network of data curators in museums and collections, both nationally and internationally to facilitate the exchange of best practices around open science and digital museum collections.</p>
     <p>At TDWG2024, we are looking forward to engaging with other initiatives working towards open scientific collections and discovering cases of scientific collections supporting biodiversity policy goals. If you work with natural history collections and any aspect of our work aligns with your interests let&#x2019;s talk!</p>
+		
     <p><a href="https://cordis.europa.eu/project/id/101058527">https://cordis.europa.eu/project/id/101058527</a><br />
     <a href="https://www.skills4eosc.eu/">https://www.skills4eosc.eu/</a></p>
   </div>
 
 ##### Funding Program
 
-SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 101058527).<br />
+SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 101058527).<br />&nbsp;
 
 ------
 
@@ -550,7 +551,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.png" style="float: right; width: 250px;"></a>
     Violeta A. Romero-Mayén <a href="https://orcid.org/0000-0001-5098-5299">ORCID iD</a>, Jesús Alvarado-Ortega <a href="https://orcid.org/0000-0001-8458-7205">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Colección Nacional de Paleontología, Instituto de Geología, Universidad Nacional Autónoma de México, Mexico City, Mexico.<br />
       &nbsp;
     </div>
@@ -571,7 +572,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.png" style="float: right; width: 250px;"></a>
     Enrique Santoyo Brito <a href="https://orcid.org/0000-0003-3997-3232">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Illinois Natural History Survey, Champaign, Illinois, USA.<br />
       &nbsp;
     </div>
@@ -590,7 +591,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/sullivan-135.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/sullivan-135.png" style="float: right; width: 250px;"></a>
     Kathryn Sullivan <a href="https://orcid.org/0000-0003-3792-2538">ORCID iD</a><sup>1,2</sup>, Erika Tucker <a href="https://orcid.org/0000-0002-8822-2315">ORCID iD</a><sup>1,3</sup>, Nicolas Dowdy<sup>1</sup>, Julie Allen<sup>4</sup>, Vijay Barve<sup>5</sup>, Sarah Bush<sup>6</sup>, Neal Evenhuis<sup>7</sup>, Michael Hastriter<sup>8</sup>, Jessica Light<sup>9</sup>, Teresa Mayfield-Meyer<sup>10</sup>, Barry OConnor<sup>11</sup>, Jorrit Poelen<sup>12,13</sup>, Gabor Racz<sup>14</sup>, Katja Seltmann<sup>13</sup>, Jennifer Zaspel<sup>1,2</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Milwaukee Public Museum, Milwaukee, WI, USA.<br />
 			<sup>2</sup>Marquette University, Milwaukee, WI, USA.<br />
 			<sup>3</sup>Biodiversity Outreach Network, USA.<br />
@@ -617,7 +618,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ##### Funding Program
 
-The project was funded with National Science Foundation award DBI-1901932 to JZ.<br />
+The project was funded with National Science Foundation award DBI-1901932 to JZ.<br />&nbsp;
 
 ------
 
@@ -626,7 +627,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/tir-321.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/tir-321.png" style="float: right; width: 250px;"></a>
     Jessica Tir <a href="https://orcid.org/0000-0002-6446-7713">ORCID iD</a>, Allie Tir
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Charles R. Conner Museum, Washington State University, Pullman, WA, USA.<br />
       &nbsp;
     </div>
@@ -647,7 +648,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/trimble-390.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/trimble-390.png" style="float: right; width: 250px;"></a>
     Jennifer Trimble <a href="https://orcid.org/0000-0002-7480-3645">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       MCZ, Harvard, Cambridge, MA, USA.<br />
       &nbsp;
     </div>
@@ -666,7 +667,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 <div>
 	<a href="https://static.tdwg.org/conferences/2024/posters/uchifune-228.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/uchifune-228.png" style="float: right; width: 250px;"></a>
   Toshiki Uchifune
-	<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+	<div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
 		Yokosuka City Museum, Yokosuka, Kanagawa, Japan.<br />
     &nbsp;
   </div>
@@ -680,7 +681,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
 ##### Funding program
 
-This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
+This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />&nbsp;
 
 ------
 
@@ -689,7 +690,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/utrup-344.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/utrup-344.png" style="float: right; width: 250px;"></a>
     Jessica Utrup <a href="https://orcid.org/0000-0001-5201-8235">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Yale Peabody Museum, New Haven, CT, USA.<br />
       &nbsp;
     </div>
@@ -701,7 +702,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
     <p>While the Yale Peabody Museum itself did not exist as an entity until 1866, the collections that are its core have been on campus much longer. Yale College had a cabinet of natural wonders dating back to the American Revolution. This &#x201C;Cabinet of Yale College&#x201D; had been housed in multiple places around campus prior to the construction of the Peabody Museum. Some of the earliest collections came from exchanges between Benjamin Silliman and Gideon Mantell. It wasn&#x2019;t until 1876 when the first Peabody Museum building opened that the museum had both its own identity and space. The appointment of Charles Beecher in 1888 gave the invertebrate paleontology collection its first dedicated staff member. Under Beecher the collections continued to grow with multiple accessions from Syria, Lebanon, and Palestine. By the late 1860s, fossils from the American West were being shipped back to Yale by train. Marsh&#x2019;s dinosaurs are the most well-known, but the invertebrate paleontology division received extensive collections of Western Interior Seaway specimens. Charles Schuchert took over the division in 1904, bringing with him an extensive collection of brachiopods that he continued to expand over his lifetime. Graduate student dissertation collections significantly grew the collections throughout the twentieth century. Significant additions in the last quarter century include the Samuel J. Ciurca Eurypterid collection, an Early Ordovician Fezouata Formation lagerst&#xE4;tte collection, the CLIMAP collection of foraminifera slides and vials, and an incredibly diverse collection of Green River Formation insects. Many fossils are on display in the newly renovated Yale Peabody Museum which reopened in April of 2024.</p>
   </div>
 
-##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.139893)<br />
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.139893)<br />&nbsp;
 
 ------
 
@@ -710,7 +711,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/watkinson-245.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/watkinson-245.png" style="float: right; width: 250px;"></a>
     Lucy Watkinson  
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Natural History Museum, London, United Kingdom.<br />
       &nbsp;
     </div>
@@ -730,7 +731,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/wolodkin-217.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/wolodkin-217.png" style="float: right; width: 250px;"></a>
     Alexander Wolodkin <a href="https://orcid.org/0000-0003-1556-8750">ORCID iD</a>, Claus Weiland <a href="https://orcid.org/0000-0003-0351-6523">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Senckenberg – Leibniz Institution for Biodiversity and Earth System Research, Frankfurt am Main, Hessen, Germany.<br />
       &nbsp;
     </div>
@@ -748,7 +749,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
 
 ##### Funding Program
 
-Funded by DFG (German Research Foundation). DFG project number 508107981.<br />
+Funded by DFG (German Research Foundation). DFG project number 508107981.<br />&nbsp;
 
 ------
 
@@ -757,7 +758,7 @@ Funded by DFG (German Research Foundation). DFG project number 508107981.<br />
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/yoon-85.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/yoon-85.png" style="float: right; width: 250px;"></a>
     Sungsoo Yoon <a href="https://orcid.org/0000-0003-4712-8004">ORCID iD</a>, Yongsu Kwon <a href="https://orcid.org/0000-0002-2573-5922">ORCID iD</a>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+    <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       National Institute of Ecology, Seocheon-gun, Chungcheongnam-do, Republic of Korea.<br />
       &nbsp;
     </div>
