@@ -75,7 +75,7 @@ toc: false
     <p>Arctos is a web-based collection management system and data portal serving global data on&#xA0;over 5.2 million biodiversity, geodiversity, and cultural object records and more than 1 million media (images, audio, CT scans, documents) from 333 collections.&#xA0;Premised on the core principles of standardization, flexibility, interdisciplinarity, and connectivity, Arctos provides an effective solution for managing physical and digital collections, and was developed as a collaborative model to harmonize complex information and dynamically link these data in a richly annotated digital ecosystem.&#xA0;Securely hosted at the Texas Advanced Computing Center, the portal (<a href="http://arctos.database.museum/">arctos.database.museum</a>) includes numerous tools and services for managing and making accessible museum data. A web interface supports data entry and editing, with integrated tools for transaction and permit management, geocoding, mapping, documenting citations, object tracking, and automated IPT publishing. Arctos strives for superior data quality through its highly-normalized model, controlled vocabularies, and authorities. Shared standardized data has led to collective data improvements and innovative ways of relating objects within or between collections (e.g., predator-prey, host-parasite relationships), promoting data exploration and interdisciplinary research. Arctos also leverages external services to extend capabilities and generate reciprocal links with collaborators, including Barcode of Life, GBIF, GenBank, Global Biotic Interactions, Global Genome Biodiversity Network, Global Names, iDigBio, IsoBank, iNaturalist, MorphoSource, World Register of Marine Species, and VertNet. Furthermore, Arctos is an active community of museum professionals who collaborate on best practices and work together to improve data structure and system functionality, directly driving developments through participation in the Arctos Working Group (<a href="http://arctosdb.org">arctosdb.org</a>).&#xA0;By connecting natural and cultural history collections and integrating novel information types within a shared architecture that promotes high-quality data accessibility, Arctos empowers&#xA0;research, education, and conservation to ultimately address pressing global challenges.</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (2023) and the following awards from the National Science Foundation for development and sustainability: DBI-9630909, DBI-9876837, DEB-9981915, DBI-2034593, DBI-2034568, DBI-2034577.
 
@@ -150,6 +150,8 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
     <p>We hope that the JAMSTEC initiative will become a revitalizing model for sample-based research.</p>
   </div>
 
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135638)<br />
+
 ------
 
 ### [Professional development offerings from the iDigBio Digitization Academy](https://static.tdwg.org/conferences/2024/posters/jakymec-377.pdf)
@@ -170,7 +172,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
     <p>iDigBio (the US National Science Foundation&#x2019;s National Resource for Advancing Digitization of Biodiversity Collections) is working towards a sustainable Digitization Academy that offers a set of complementary professional development courses on topics relevant to the digitization of biodiversity observations and specimens. The offerings began in 2021 with two 4-day courses: (i) Introduction to Biodiversity Specimen Digitization and (ii) Public Participation in Digitization of Biodiversity Collections. In 2022 and 2023, three additional courses were developed: (i) Digital Imaging for Biodiversity Collections, (ii) Introduction to Photogrammetry for Biodiversity Specimen Collectors, and (iii) Introduction to Immersive Media for Biodiversity Collections. With this poster, we will introduce the 2024 course offerings and other Digitization Academy resources for the community. Stop by to meet iDigBio&#x2019;s Workforce Development Manager, Kalina Jakymec.</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2011-2018), DBI-1547229 (2016-2022), &amp; DBI-2027654 (2021-2026)].
 
@@ -256,7 +258,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
 This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, JP16K01193.
 
-##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)<br />
 
 ------
 
@@ -344,7 +346,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
     <p><span style="font-size:12pt;font-weight:400;font-style:normal;vertical-align:baseline">Phenotypic, especially morphological, data are highly useful in systematics, taxonomy, and phylogenetics. Despite the increased use of genetic information available, phenotypic data are necessary when researching the fossil record and remain useful for living taxa by providing independent evidence for testing molecular clades. MorphoBank is a FAIR database providing open biodiversity data as&#xA0;morphological characters, a similar concept to GenBank for open access sequencing data. MorphoBank enables scientists to share morphological character data associated with their peer-reviewed publications in the form of phylogenetic matrices as TNT or NEXUS files with the associated 2D and 3D images, taxonomic names, and specimen information. These data can be downloaded by the public, researchers, and students in the scientific community, and reused for research. MorphoBank encourages scientists to add content in numerous ways throughout the research process, including while actively working on a morphological matrix or in conjunction with publishing a paper has a morphological matrix. MorphoBank curators add content post-publication and since</span><span style="font-size:12pt;font-weight:400;font-style:normal;vertical-align:baseline">&#xA0;the majority of the da</span><span style="font-size:12pt;font-weight:400;font-style:normal;vertical-align:baseline">ta is in journals that require a subscription, MorphoBank makes these data freely available. Data standards for morphological character matrices include scored taxa, full taxonomic names, and complete character names with state descriptions.&#xA0;</span>To help ensure complete datasets are uploaded,&#xA0;MorphoBank has partnered with journals to ensure&#xA0;authors upload data matrices to MorphoBank as part of publication requirements. MorphoBank has also developed and implemented an internship program for undergraduate biology students focused on training in phylogenetic data, and is actively training volunteer curators to increase community engagement and increase data availability. MorphoBank is overhauling the website codebase for software longevity and stability as well as adding capabilities based on Artificial Intelligence to increase efficiency by automating the process of extraction of character name and state data from published articles and integrating them into the Nexus files.</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membership fees from academic institutions and museums around the world.
 
@@ -394,9 +396,11 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
     <p>Problems will occur because everyone can make and share 3D models simply, easily, and inexpensively. Several issues of rights such as copyrights will possibly arise from these models because digital data can move over policies of museums and institutions. In the future, we need to make rules for these rights internationally.</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 This work was supported by JSPS KAKENHI Grant Number JP22K01021.
+
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135060)<br />
 
 ------
 
@@ -416,6 +420,8 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
     <p>As 3D technology becomes more widespread, there is an increasing interest in using 3D scanning techniques in the field of conservation and restoration. Many are already using it for digitization and research purposes, or 3D reproductions of objects. 3D scanning does have some challenges when it comes to objects with shiny, transparent, bright, or dark surfaces. To make these objects more visible to the scanner, one can use various methods for making them more mat or opaque. AESUB sublimating scanning sprays are often used, and like other sprays of their kind, are useful tools when dealing with these kinds of surfaces. The fact that they sublimate and disappear on their own makes them attractive tools for conservators, who are hesitant to add material to objects that can potentially hinder future research, or in the worst cases pose a danger to the longevity and preservation of an object. But do the AESUB sublimating scanning sprays disappear completely, as implied by the manufacturer, or does something remain once the matting effect has subsided? In this thesis we tested three types of AESUB sublimating scanning sprays, and the experimental results clearly suggests that AESUB sublimating scanning sprays indeed does leave a residue, in the form of some type of hydrocarbon, on the surface of an object, even long after it has visibly disappeared. What this residue is, if such residues are left by other scanning sprays, or how the residue can potentially affect an object in the long term has yet to be determined. However, this is something we must keep in mind and be aware of if we apply these types of sprays to objects.</p>
   </div>
+
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135234)<br />
 
 ------
 
@@ -463,6 +469,8 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
     <p>Digital Museums using Geographical Information Systems (DMGIS): in addition to distribution maps of specimens and survey data, maps from the past to the present can be superimposed to enable an understanding of changes in the habitats of living organisms.</p>
     <p>&#xA0;The 3D models developed by DMVI can be rotated, enlarged, and reduced, providing a new experience of holding valuable objects in one's hands. The DMVI project is also working towards the development of electronic illustrated books limited to the organisms found in Shiga Prefecture. Meanwhile, the easy-to-use illustrated search system DMGIS is promoting information on bird distributions and cross-disciplinary mapping. For example, specimens and observation data can be plotted and viewed on current maps, and changes in the distribution of birds can be followed along a time axis. This content is intended for use in environmental education and nature conservation. By building an easy-to-use web platform, the aim is to develop as a &#x2018;digital museum&#x2019;.</p>
   </div>
+
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135710)<br />
 
 ------
 
@@ -531,7 +539,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
     <p><a href="https://www.skills4eosc.eu/">https://www.skills4eosc.eu/</a></p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 101058527).
 
@@ -607,7 +615,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
     <p>Mobilizing data from millions of arthropod specimens in collections across the United States greatly enhanced the available data for research on terrestrial ectoparasitic groups, but our work also generated products that are useful to the entire biodiversity data community. The Terrestrial Parasite Tracker Thematic Collections Network project developed a workflow for gathering expert-verified taxonomic names across all available sources, aligning those sources, and publishing a single resource that provides a model for future endeavors to standardize digital specimen identification data. The process involved gathering expert-verified nomenclature lists representing the full taxonomic scope of terrestrial arthropod parasites, documenting issues experienced, and finding potential solutions for reconciliation of taxonomic resources against large data publishers. &#xA0;In addition to reconciling taxonomies, characterizing biotic interaction data also required dedicated teams to standardize ontologies and provide data entry support for many platforms. At the end of the project period, which had the primary goal of digitizing specimen data from natural history collections, we highlight the other tools created to facilitate rapid digitization and integration of data. Here, we demonstrate a mechanism for the delivery and continued maintenance of these resources, while highlighting the applicability to digitization and biodiversity data managers globally. &#xA0;&#xA0;</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
@@ -670,7 +678,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 		<p>In order for a local museum to exhibit natural history in a limited space, the following items should be prioritized in its animals and plants collection: 1) animals and plants in each natural environment characteristic of the local area, 2) fossils and remains excavated in the local area, and 3) animals and plants that have changed with the urbanization of the present day. The presenter's museum is planning a major renewal of its exhibits in the near future, and one of its tasks is to integrate natural history exhibits with historical and folklore exhibits, which have been separated from natural history exhibits, in a comprehensive and historical manner. While many of the animal and plant materials mentioned in 2) above can be placed in various parts of the general history exhibits from geohistory to history, it is difficult to solve the same problem for insect materials because the number of insect remains is extremely small compared to the number of species that can be observed close at hand. "Familiar insects" are a set of species of the current insect fauna of an area that can be followed by many people, and are an important component of the earliest remembered scenery for children. The presenter is conducting a survey of "familiar insects" in various areas where the present and future climate, topography, and land use patterns that define the insect fauna of each period, from prehistory to modern times and into the future, in the museum's field are assumed or predicted to match today. The collection and information accumulated through this survey will greatly extend the time period covered in 3) above, and will enable the placement of insect collections at various locations throughout the historical exhibition of the region's past and future.</p>
 </div>
 
-#### Funding program
+##### Funding program
 
 This project was supported by JSPS KAKENHI Grant Number JP21K01011.
 
@@ -736,7 +744,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.
     <p>The use of terminologies improves FAIRness. Mobilizing collection data is a part of the process of gathering new experience to create blueprints that will later be used to connect other Earth System Science repositories to the BITS Terminology Service.</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 Funded by DFG (German Research Foundation). DFG project number 508107981.
 
@@ -759,6 +767,9 @@ Funded by DFG (German Research Foundation). DFG project number 508107981.
     <p>EcoBank plays a crucial role in collecting, standardizing and disseminating biodiversity information in South Korea. Initially established to integrate and share ecological survey data at a national level, EcoBank has expanded its data acquisition beyond national borders and through citizen science-based biodiversity surveys. One of the central missions of Ecobank is to commit to the ecological data standardization to facilitate efficient data sharing and utilization. Adhering to Common Standard Words and Terms approved by the Ministry of Interior and Safety of South Korea, and the structure of relational database management system, EcoBank continually seeks to embrace internationally recognized biodiversity-related data and metadata standards. This effort not only ensures compatibility and interoperability with ecological data from various sources but also highlights the necessity of examining gaps, opportunities, limitations and future directions in the current standardization initiatives of EcoBank. This study reviews data and metadata standards applied to similar biodiversity data platforms and conducts a SWOT analysis to assess EcoBank's technological assets, human resources, regulatory frameworks, along with internal and external requirements. This analysis will identify strengths, such as EcoBank's extensive network and data collection capabilities, weaknesses such as potential gaps in data standardization practices, opportunities for integration with international data initiatives, and threats including technological lags and institutional constraints. The findings are intended to guide strategic planning of ecological data standardization, enhancing EcoBank's contributions to both national and international biodiversity information communities.</p>
   </div>
 
-#### Funding Program
+##### Funding Program
 
 National Institute of Ecology (NIE), grant number: NIE-B-2024-01.
+
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.135208)<br />
+
