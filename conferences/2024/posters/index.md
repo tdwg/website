@@ -11,6 +11,47 @@ toc: false
 
 # Posters
 
+## Table of Contents
+
+| Author | Poster Title |
+| :--- | :--- |
+| Abarca &amp; Russack | [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](#188) |
+| Berniker et al. | [A History of Marine Exploration: Expeditions and Contributors to the Marine Invertebrate Collections at the American Museum of Natural History](#354) |
+| Braker et al. | [Arctos: A Community-Driven Collection Management Solution](#266) |
+| Drew | [Increasing Discoverability: A Challenge in Managing Microfossil Bulk Collections](#300) |
+| Filippova et al. | [First usage of open data for the revision of the regional Red List in Northwestern Siberia](#244) |
+| Iseto et al.| [Integrated collection and publication of sample metadata in JAMSTEC: a system maximizing the sample values and assisting the sample management.](#62) |
+| Jakymec &amp; Mast | [Professional development offerings from the iDigBio Digitization Academy](#377) |
+| Jerve et al. | [An open-source OCR workflow for digitizing legacy card catalogs](#169) |
+| Kamei | [Herpetology at the Field Museum of Natural History, Chicago](#365) |
+| Kelly | [Temporary Tacky Cushioning Dots – A “Gem” of an idea   A Creative Conservation Solution to a tiny Display Challenge](#76) |
+| Kobayashi | [Bird specimens transferred from overseas museums to national museums of Japan in the 1800s: the Tokyo Imperial Household Museum collection](#248) |
+| Koch | [Combining taxonomic keys and computer vision](#268) |
+| Lane | [Imaging a Fungarium](#372) |
+| Little et al. | [Improving the discoverability of taphonomy collections through collaborative development and systems](#341) |
+| Long-Fox et al. | [Addressing Global Biodiversity through Scaling MorphoBank for Long-Term Sustainability](#198) |
+| Bengtson et al. (Malm) | [From panic to confidence: how we restored a mouldy herbarium](#253) |
+| Maruyama et al. | [Possibility of 3D model Collections in paleontology simply, easily, and inexpensively using portable devices equipped with LiDAR-From on-hand to room-](#26) |
+| Nielsen et al. | [The potential problems of AESUB sublimating scanning sprays for 3D scanning in conservation.](#247) |
+| Noda et al. | [An eDNA survey shows relatively higher diversity of coral genera in the Kerama Islands than Okinawa Island](#368) |
+| Ohtsuki et al. | [Developing the digital museum using various images and geographic information systems](#220) |
+| Phelan | [Fighting Fraud in the Forest - World Forest ID at Kew; a georeferenced collection of wood and forest risk commodities.](#352) |
+| Read et al. | [A selection of tricks, thrifty tips and thingamajigs from the conservation team at The Natural History Museum in London](#100) |
+| Gänsdorfer et al. (Rainer) | [Policy-making Support through Open Scientific Collections from the Natural History Domain](#363) |
+| Romero-Mayén &amp; Alvarado-Ortega | [On the history of a Mexican Paleontological collection](#157) |
+| Santoyo-Brito | [Fishes, amphibians, and reptiles in the Illinois Natural History Survey Biological Collections.](#308) |
+| Sullivan et al. | [Downstream Tools and Contributions to Biodiversity Data Standards within the Terrestrial Parasite Tracker Thematic Collections Network](#135) |
+| Tir &amp; Tir | [A museum display showing real-time bird vocal activity using BirdWeather/BirdNET](#321) |
+| Trimble | [Object location tracking in the Malacology Collection at the Museum of Comparative Zoology](#390) |
+| Uchifune | [Significance of Extraregional Surveys - Contribution to Comprehensive Historical Exhibition of the Regional Museum through Interregional Comparisons of "Familiar Insects"](#228) |
+| Utrup | [History of the Yale Peabody Museum Invertebrate Paleontology Collection](#344) |
+| Watkinson | [Salvage Planning and Training in the Natural History Museum Galleries](#245) |
+| Wolodkin &amp; Weiland| [Earth system’s biology Data FAIRification: Mobilizing SGN Collection Data for the BITS terminology service in Earth System Science](#217) |
+| Yoon &amp; Kwon | [EcoBank: Pioneering Standards for Ecological Data Sharing and Utilization in South Korea](#85) |
+
+## Abstracts
+
+{:id="188"}
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 <div>
   <a href="https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/abarca-188.png" style="float: right; width: 250px;"></a>
@@ -30,6 +71,7 @@ toc: false
 
 ------
 
+{:id="354"}
 ### [A History of Marine Exploration: Expeditions and Contributors to the Marine Invertebrate Collections at the American Museum of Natural History](https://static.tdwg.org/conferences/2024/posters/berniker-354.pdf)
 
   <div>
@@ -50,6 +92,7 @@ toc: false
 
 ------
 
+{:id="266"}
 ### [Arctos: A Community-Driven Collection Management Solution](https://static.tdwg.org/conferences/2024/posters/braker-266.pdf)
 
   <div>
@@ -81,6 +124,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ------
 
+{:id="300"}
 ### [Increasing Discoverability: A Challenge in Managing Microfossil Bulk Collections](https://static.tdwg.org/conferences/2024/posters/drew-300.pdf)
 
   <div>
@@ -101,6 +145,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ------
 
+{:id="244"}
 ### [First usage of open data for the revision of the regional Red List in Northwestern Siberia](https://static.tdwg.org/conferences/2024/posters/filippova-244.pdf)
 
 <div>
@@ -128,6 +173,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ------
 
+{:id="62"}
 ### [Integrated collection and publication of sample metadata in JAMSTEC: a system maximizing the sample values and assisting the sample management.](https://static.tdwg.org/conferences/2024/posters/iseto-62.pdf)
 
   <div>
@@ -154,6 +200,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ------
 
+{:id="377"}
 ### [Professional development offerings from the iDigBio Digitization Academy](https://static.tdwg.org/conferences/2024/posters/jakymec-377.pdf)
 
   <div>
@@ -178,6 +225,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
 ------
 
+{:id="169"}
 ### [An open-source OCR workflow for digitizing legacy card catalogs](https://static.tdwg.org/conferences/2024/posters/jerve-169.pdf)
 
   <div>
@@ -197,6 +245,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
 ------
 
+{:id="365"}
 ### [Herpetology at the Field Museum of Natural History, Chicago](https://static.tdwg.org/conferences/2024/posters/kamei-365.pdf)
 
   <div>
@@ -238,11 +287,12 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
 ------
 
+{:id="248"}
 ### [Bird specimens transferred from overseas museums to national museums of Japan in the 1800s: the Tokyo Imperial Household Museum collection](https://static.tdwg.org/conferences/2024/posters/kobayashi-248.pdf)
 
 <div>
 	<a href="https://static.tdwg.org/conferences/2024/posters/kobayashi-248.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kobayashi-248.png" style="float: right; width: 250px;"></a>
-	Sayaka kobayashi
+	Sayaka Kobayashi
 		<div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
 			Yamashina Institute for Ornithology, Abiko, Chiba, Japan
 		</div>
@@ -262,6 +312,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
 ------
 
+{:id="268"}
 ### [Combining taxonomic keys and computer vision](https://static.tdwg.org/conferences/2024/posters/koch-268.pdf)
 
   <div>
@@ -286,6 +337,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
 ------
 
+{:id="372"}
 ### [Imaging a Fungarium](https://static.tdwg.org/conferences/2024/posters/lane-372.pdf)
 
   <div>
@@ -305,6 +357,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
 ------
 
+{:id="341"}
 ### [Improving the discoverability of taphonomy collections through collaborative development and systems](https://static.tdwg.org/conferences/2024/posters/little-341.pdf)
 
   <div>
@@ -326,6 +379,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
 ------
 
+{:id="198"}
 ### [Addressing Global Biodiversity through Scaling MorphoBank for Long-Term Sustainability](https://static.tdwg.org/conferences/2024/posters/long-fox-198.pdf)
 
   <div>
@@ -352,6 +406,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 
 ------
 
+{:id="253"}
 ### [From panic to confidence: how we restored a mouldy herbarium](https://static.tdwg.org/conferences/2024/posters/malm-253.pdf)
 
   <div>
@@ -373,6 +428,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 
 ------
 
+{:id="26"}
 ### [Possibility of 3D model Collections in paleontology simply, easily, and inexpensively using portable devices equipped with LiDAR-From on-hand to room-](https://static.tdwg.org/conferences/2024/posters/maruyama-26.pdf)
 
   <div>
@@ -404,6 +460,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+{:id="247"}
 ### [The potential problems of AESUB sublimating scanning sprays for 3D scanning in conservation.](https://static.tdwg.org/conferences/2024/posters/nielsen-247.pdf)
 
   <div>
@@ -425,6 +482,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+{:id="368"}
 ### [An eDNA survey shows relatively higher diversity of coral genera in the Kerama Islands than Okinawa Island](https://static.tdwg.org/conferences/2024/posters/noda-368.pdf)
 
   <div>
@@ -449,6 +507,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+{:id="220"}
 ### [Developing the digital museum using various images and geographic information systems](https://static.tdwg.org/conferences/2024/posters/ohtsuki-220.pdf)
 
   <div>
@@ -474,6 +533,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+{:id="352"}
 ### [Fighting Fraud in the Forest - World Forest ID at Kew; a georeferenced collection of wood and forest risk commodities.](https://static.tdwg.org/conferences/2024/posters/phelan-352.pdf)
 
   <div>
@@ -494,6 +554,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+{:id="100"}
 ### [A selection of tricks, thrifty tips and thingamajigs from the conservation team at The Natural History Museum in London](https://static.tdwg.org/conferences/2024/posters/read-100.pdf)
 
   <div>
@@ -514,6 +575,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+{:id="363"}
 ### [Policy-making Support through Open Scientific Collections from the Natural History Domain](https://static.tdwg.org/conferences/2024/posters/rainer-363.pdf)
 
   <div>
@@ -546,6 +608,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ------
 
+{:id="157"}
 ### [On the history of a Mexican Paleontological collection](https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.pdf)
 
   <div>
@@ -567,11 +630,12 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ------
 
+{:id="308"}
 ### [Fishes, amphibians, and reptiles in the Illinois Natural History Survey Biological Collections.](https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.pdf)
 
   <div>
 		<a href="https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.png" style="float: right; width: 250px;"></a>
-    Enrique Santoyo Brito <a href="https://orcid.org/0000-0003-3997-3232">ORCID iD</a>
+    Enrique Santoyo-Brito <a href="https://orcid.org/0000-0003-3997-3232">ORCID iD</a>
     <div style="font-size: 0.9em; margin-left: 10px; padding-top: 10px">
       Illinois Natural History Survey, Champaign, Illinois, USA.<br />
       &nbsp;
@@ -586,6 +650,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ------
 
+{:id="135"}
 ### [Downstream Tools and Contributions to Biodiversity Data Standards within the Terrestrial Parasite Tracker Thematic Collections Network](https://static.tdwg.org/conferences/2024/posters/sullivan-135.pdf)
 
   <div>
@@ -622,6 +687,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
 ------
 
+{:id="321"}
 ### [A museum display showing real-time bird vocal activity using BirdWeather/BirdNET](https://static.tdwg.org/conferences/2024/posters/tir-321.pdf)
 
   <div>
@@ -643,6 +709,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
 ------
 
+{:id="390"}
 ### [Object location tracking in the Malacology Collection at the Museum of Comparative Zoology](https://static.tdwg.org/conferences/2024/posters/trimble-390.pdf)
 
   <div>
@@ -662,6 +729,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
 ------
 
+{:id="228"}
 ### [Significance of Extraregional Surveys - Contribution to Comprehensive Historical Exhibition of the Regional Museum through Interregional Comparisons of "Familiar Insects"](https://static.tdwg.org/conferences/2024/posters/uchifune-228.pdf)
 
 <div>
@@ -685,6 +753,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />&nbsp;
 
 ------
 
+{:id="344"}
 ### [History of the Yale Peabody Museum Invertebrate Paleontology Collection](https://static.tdwg.org/conferences/2024/posters/utrup-344.pdf)
 
   <div>
@@ -706,6 +775,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />&nbsp;
 
 ------
 
+{:id="245"}
 ### [Salvage Planning and Training in the Natural History Museum Galleries](https://static.tdwg.org/conferences/2024/posters/watkinson-245.pdf)
 
   <div>
@@ -726,6 +796,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />&nbsp;
 
 ------
 
+{:id="217"}
 ### [Earth system’s biology Data FAIRification: Mobilizing SGN Collection Data for the BITS terminology service in Earth System Science](https://static.tdwg.org/conferences/2024/posters/wolodkin-217.pdf)
 
   <div>
