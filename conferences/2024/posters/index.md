@@ -11,9 +11,6 @@ toc: false
 
 # Posters
 
-
-
-
 ### [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf)
 <div>
   <a href="https://static.tdwg.org/conferences/2024/posters/abarca-188.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/abarca-188.png" style="float: right; width: 250px;"></a>
@@ -56,6 +53,7 @@ toc: false
 ### [Arctos: A Community-Driven Collection Management Solution](https://static.tdwg.org/conferences/2024/posters/braker-266.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/braker-266.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/braker-266.png" style="float: right; width: 250px;"></a>
     Emily Braker <a href="https://orcid.org/0000-0002-8359-5884">ORCID iD</a><sup>1</sup>, Mariel Campbell <a href="https://orcid.org/0000-0003-0536-5044">ORCID iD</a><sup>2</sup>, Carla Cicero <a href="https://orcid.org/0000-0002-6282-2339">ORCID iD</a><sup>3</sup>, Andrew Doll <a href="https://orcid.org/0000-0002-1038-1690">ORCID iD</a><sup>4</sup>, Lindsey Frederick<sup>5</sup>, Michelle S. Koo <a href="https://orcid.org/0000-0003-0410-722X">ORCID iD</a><sup>3</sup>, Angela Linn <a href="https://orcid.org/0000-0003-4016-0837">ORCID iD</a><sup>6</sup>, Teresa J. Mayfield-Meyer <a href="https://orcid.org/0000-0002-1970-7044">ORCID iD</a><sup>7</sup>, Dusty McDonald <a href="https://orcid.org/0000-0002-4848-5938">ORCID iD</a><sup>8</sup>, Elizabeth A. Wommack <a href="https://orcid.org/0000-0002-9172-0120">ORCID iD</a><sup>9</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>University of Colorado Museum of Natural History, Boulder, Colorado, USA.<br />
@@ -86,6 +84,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 ### [Increasing Discoverability: A Challenge in Managing Microfossil Bulk Collections](https://static.tdwg.org/conferences/2024/posters/drew-300.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/drew-300.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/drew-300.png" style="float: right; width: 250px;"></a>
     Nicholas Drew  
 		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Smithsonian Institution - National Musem of Natural History, Washington, DC, USA.<br />
@@ -102,9 +101,37 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ------
 
-### [Integrated collection and publication of sample metadata in JAMSTEC: a system maximizing the sample values and assisting the sample management.](https://static.tdwg.org/conferences/2024/posters/iseto-062.pdf)
+### [First usage of open data for the revision of the regional Red List in Northwestern Siberia](https://static.tdwg.org/conferences/2024/posters/filippova-244.pdf)
+
+<div>
+	<a href="https://static.tdwg.org/conferences/2024/posters/filippova-244.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/filippova-244.png" style="float: right; width: 250px;"></a>
+	Nina Filippova <a href="https://orcid.org/0000-0002-9506-0991">ORCID iD</a><sup>1</sup>, Sergei Bolshakov <a href="https://orcid.org/0000-0002-6208-7792">ORCID iD</a><sup>2,1</sup>, Elena Zvyagina <a href="https://orcid.org/0000-0003-2063-4847">ORCID iD</a><sup>3,1</sup>
+		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+			<sup>1</sup>Yugra State University, Khanty-Mansiysk, Russian Federation.<br />
+			<sup>2</sup>Komarov Botanical Institute of the Russian Academy of Sciences, Saint-Petersburg, Russian Federation.<br />
+			<sup>3</sup>Moscow State University, Moscow, Russian Federation.<br />
+			&nbsp;
+		</div>
+</div>
+
+#### Abstract
+
+<p>Regional Red List is an official document protecting biodiversity at the local scale, where it is crucial to use up-to-date information on species occurrences obtained locally. Poorly populated and studied territories in Northwestern Siberia experience a deficit of such data. Biodiversity data portals for these regions are just beginning to emerge.</p>
+
+<p>The assessment of Red Lists in Khanty-Mansi Autonomous Okrug-Yugra for the past editions (2003, 2013) was based primarily on expert opinion. As part of the regional biodiversity data mobilization initiative, lots of data was released for fundamental and applied purposes. Mobilization of fungal records included several sources: 1) regional biological collections, 2) regional literature data, and 3) revision of citizen science observations on the iNaturalist.org platform. </p>
+
+<p>Approximately 60K fungal occurrences have been mobilized as a result. We used these open data to assess the status and compile annotations for protected species during the next edition of the Red List of the Yugra region (2024).</p>
+
+<p>From the obtained about 60K records, species already included in protected lists of various statuses were filtered out: IUCN Red List, National Red List (2023), previous edition of the regional Red List (2013), and were further revised to assess its status for the new edition. Additionally, rare indicator species were assessed and proposed in various statuses in the new edition.</p>
+
+<p>As a result of the revision of accumulated occurrences, a dataset was published in GBIF, including about 1.5K records of 62 species protected by the regional Red List of Khanty-Mansi Autonomous Okrug-Yugra (2024). The number of findings of individual species varied from one to several hundred. The dataset includes information on taxonomic names, coordinates, dates of the finding, source of information, conservation status, and others.</p>
+
+------
+
+### [Integrated collection and publication of sample metadata in JAMSTEC: a system maximizing the sample values and assisting the sample management.](https://static.tdwg.org/conferences/2024/posters/iseto-62.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/iseto-62.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/iseto-62.png" style="float: right; width: 250px;"></a>
     Tohru Iseto <a href="https://orcid.org/0000-0001-6290-7001">ORCID iD</a><sup>1</sup>, Marika Ichiyanagi<sup>2</sup>, Masatomo Hisazumi<sup>2</sup>, Yoshihiko Tamura <a href="https://orcid.org/0000-0002-3705-7815">ORCID iD</a><sup>1</sup>, Yoshihiro Takatsu<sup>1</sup>, Kazuyo Fukuda <a href="https://orcid.org/0000-0001-9837-4307">ORCID iD</a><sup>1</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Kanagawa, Japan.<br />
@@ -128,6 +155,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 ### [Professional development offerings from the iDigBio Digitization Academy](https://static.tdwg.org/conferences/2024/posters/jakymec-377.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/jakymec-377.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/jakymec-377.png" style="float: right; width: 250px;"></a>
     Kalina Jakymec<sup>1</sup>, Austin Mast<sup>2,1</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Institute for Digital Information &amp; Scientific Communication, Florida State University, Tallahassee, Florida, USA.<br />
@@ -151,6 +179,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 ### [An open-source OCR workflow for digitizing legacy card catalogs](https://static.tdwg.org/conferences/2024/posters/jerve-169.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/jerve-169.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/jerve-169.png" style="float: right; width: 250px;"></a>
     Anna Jerve <a href="https://orcid.org/0000-0002-9276-1346">ORCID iD</a>, Chloe Cheng <a href="https://orcid.org/0009-0005-2205-1284">ORCID iD</a>, Christine Garcia <a href="https://orcid.org/0000-0002-9728-3670">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Stanford University, Stanford, CA, USA.<br />
@@ -169,6 +198,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 ### [Herpetology at the Field Museum of Natural History, Chicago](https://static.tdwg.org/conferences/2024/posters/kamei-365.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/kamei-365.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kamei-365.png" style="float: right; width: 250px;"></a>
     Rachunliu Kamei <a href="https://orcid.org/0000-0003-3054-9785">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Field Museum of Natural History, Chicago, Illinois, USA.<br />
@@ -184,9 +214,10 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
 ------
 
-### [Temporary Tacky Cushioning Dots – A “Gem” of an idea   A Creative Conservation Solution to a tiny Display Challenge](https://static.tdwg.org/conferences/2024/posters/kelly-076.pdf)
+### [Temporary Tacky Cushioning Dots – A “Gem” of an idea   A Creative Conservation Solution to a tiny Display Challenge](https://static.tdwg.org/conferences/2024/posters/kelly-76.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/kelly-76.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kelly-76.png" style="float: right; width: 250px;"></a>
     Claire Kelly  
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Natural History Museum, London, United Kingdom.<br />
@@ -205,36 +236,32 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
 ------
 
-### [Harnessing and harmonising controlled vocabularies to drive data discoverability in the Australian Reference Genome Atlas](https://static.tdwg.org/conferences/2024/posters/kobayashi-108.pdf)
+### [Bird specimens transferred from overseas museums to national museums of Japan in the 1800s: the Tokyo Imperial Household Museum collection](https://static.tdwg.org/conferences/2024/posters/kobayashi-248.pdf)
 
-  <div>
-    Keeva Connolly <a href="https://orcid.org/0009-0004-1409-4041">ORCID iD</a><sup>1</sup>, Peter Brenton<sup>2</sup>, Simon Checksfield<sup>2</sup>, Christopher Mangion<sup>1</sup>, Winnie Mok<sup>1</sup>, Caitlin Ramsay<sup>2</sup>, Sarah Richmond<sup>3</sup>, Goran Sterjov<sup>2</sup>, Nigel Ward<sup>1</sup>, Kathryn Hall<sup>2</sup>
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
-      <sup>1</sup>Australian BioCommons, Australia.<br />
-			<sup>2</sup>Atlas of Living Australia, Australia.<br />
-			<sup>3</sup>Bioplatforms Australia, Australia.<br />
-      &nbsp;
-    </div>
-  </div>
-
+<div>
+	<a href="https://static.tdwg.org/conferences/2024/posters/kobayashi-248.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/kobayashi-248.png" style="float: right; width: 250px;"></a>
+	Sayaka kobayashi
+		<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+			Yamashina Institute for Ornithology, Abiko, Chiba, Japan
+		</div>
+</div>
+	
 #### Abstract
 
-  <div>
-    <p>The implementation of controlled vocabularies in online databases and repositories serves as a basis for describing data accurately and consistently, and facilitates unambiguous interpretation and reuse. In the Australian Reference Genome Atlas (ARGA), a platform indexing existing repositories to aggregate information about genomic data availability, controlled vocabularies are key to enhancing data discoverability for its users.</p>
-    <p>The repeated use of a controlled vocabulary across multiple data sources enables disparate data to be aggregated and characterised using a common terminology. For example, the NCBI BioSample repository asks submitters to describe the &#x2018;broad-scale environmental context&#x2019; of a sample using the ENVO biome subclasses [ENVO:00000428]; these terms are also used in the Bioplatforms Australia Data Portal. In ARGA, a user would be able to use ENVO biome terms to find relevant data from both repositories in one search. However, the majority of controlled vocabularies are rarely used across more than one or two repositories, due to their highly specialised and taxon- or domain-specific nature. For ARGA to process data described using these vocabularies, the data must be harmonised to facilitate their discovery while retaining their original meaning. To achieve this, we focussed on a data mapping strategy where terms could be semantically mapped to higher-level categorisations within a unifying hierarchical data schema. These higher-level terms can apply to a broader range of data, and can be used for data categorisation, filtering, and searching. For controlled vocabularies organised as ontologies, we can leverage existing hierarchical structures to determine an appropriate higher-level term. For ontologies built on similar structural foundations and sharing the same upper-level ontologies, these shared higher-level terms may already exist within their ontologies.&#xA0;</p>
-    <p>Here, we describe ARGA&#x2019;s data harmonisation strategy for aggregated data described using multiple controlled and uncontrolled vocabularies, and how this model is used to drive data discoverability.</p>
-  </div>
+<div>
+	<p>The Tokyo Imperial Household Museum inherited bird specimens that had been acquired by two national museums between 1872–1923, including specimens of foreign species nonnative to Japan. Today, the Yamashina Institute for Ornithology holds most of this collection. I examined various archive records (e.g., catalogues, invoices, letters) associated with those museums involved to clarify details of its transfer history. The collection included specimens sent from, among others, the United States National Museum at the Smithsonian Institution, the Australian Museum, and the Muséum National d’Histoire Naturelle, Paris, in the 1800s. It also included type specimens, which are academically important. Here, I review the history of the Tokyo Imperial Household Museum bird collection and the specimens transfer process originated from the three institutions abroad.</p>
+</div>
 
-#### Funding Program
-
-ARGA receives funding from the National Collaborative Research Infrastructure Strategy through the Atlas of Living Australia, Bioplatforms Australia and Australian BioCommons, with additional investment from the Australian Research Data Commons
+Funding program
+This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, JP16K01193.
 
 ------
 
 ### [Combining taxonomic keys and computer vision](https://static.tdwg.org/conferences/2024/posters/koch-268.pdf)
 
   <div>
-    Wouter Koch <a href="https://orcid.org/0000-0001-9025-9486">ORCID iD</a>
+    <a href="https://static.tdwg.org/conferences/2024/posters/koch-268.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/koch-268.png" style="float: right; width: 250px;"></a>
+		Wouter Koch <a href="https://orcid.org/0000-0001-9025-9486">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Norwegian Biodiversity Information Centre, Trondheim, Norway.<br />
       &nbsp;
@@ -257,6 +284,7 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 ### [Imaging a Fungarium](https://static.tdwg.org/conferences/2024/posters/lane-372.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/lane-372.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/lane-372.png" style="float: right; width: 250px;"></a>
     Jessica Lane  
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Botanical Research Institute of Texas, Fort Worth, Texas, USA.<br />
@@ -275,6 +303,7 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 ### [Improving the discoverability of taphonomy collections through collaborative development and systems](https://static.tdwg.org/conferences/2024/posters/little-341.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/little-341.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/little-341.png" style="float: right; width: 250px;"></a>
     Holly Little <a href="https://orcid.org/0000-0001-7909-4166">ORCID iD</a><sup>1</sup>, Kay Behrensmeyer <a href="https://orcid.org/0000-0001-6857-368X">ORCID iD</a><sup>1</sup>, Jarod Hutson<sup>1</sup>, Stephen Maikweki<sup>2</sup>, Briana Pobiner <a href="https://orcid.org/0000-0001-5051-9175">ORCID iD</a><sup>1</sup>, Lindsay Walker <a href="https://orcid.org/0000-0002-2162-6593">ORCID iD</a><sup>3</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Smithsonian National Museum of Natural History, Washington, DC, USA.<br />
@@ -295,7 +324,8 @@ ARGA receives funding from the National Collaborative Research Infrastructure St
 ### [Addressing Global Biodiversity through Scaling MorphoBank for Long-Term Sustainability](https://static.tdwg.org/conferences/2024/posters/long-fox-198.pdf)
 
   <div>
-   Brooke Long-Fox   <a href="https://orcid.org/0000-0002-2718-647X">ORCID iD</a><sup>1</sup>, Ana Andruchow-Colombo <a href="https://orcid.org/0000-0003-2942-5603">ORCID iD</a><sup>2</sup>, Shreya Jariwala <a href="https://orcid.org/0009-0008-3198-4547">ORCID iD</a><sup>3</sup>, Maureen O’Leary <a href="https://orcid.org/0000-0001-7837-5708">ORCID iD</a><sup>4</sup>, Tanya Berardini <a href="https://orcid.org/0000-0002-3837-8864">ORCID iD</a><sup>1</sup>
+		<a href="https://static.tdwg.org/conferences/2024/posters/long-fox-198.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/long-fox-198.png" style="float: right; width: 250px;"></a>
+		Brooke Long-Fox <a href="https://orcid.org/0000-0002-2718-647X">ORCID iD</a><sup>1</sup>, Ana Andruchow-Colombo <a href="https://orcid.org/0000-0003-2942-5603">ORCID iD</a><sup>2</sup>, Shreya Jariwala <a href="https://orcid.org/0009-0008-3198-4547">ORCID iD</a><sup>3</sup>, Maureen O’Leary <a href="https://orcid.org/0000-0001-7837-5708">ORCID iD</a><sup>4</sup>, Tanya Berardini <a href="https://orcid.org/0000-0002-3837-8864">ORCID iD</a><sup>1</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Phoenix Bioinformatics, Newark, CA, USA.<br />
   		<sup>2</sup>University of Kansas, Lawrence, KS, USA.<br />
@@ -320,7 +350,8 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 ### [From panic to confidence: how we restored a mouldy herbarium](https://static.tdwg.org/conferences/2024/posters/malm-253.pdf)
 
   <div>
-    Annika Bengtson<sup>1</sup>, Johannes Lundberg<sup>2</sup>, <span class="mdc-typography--body1" style="text-align: left; font-weight: 500; text-decoration: underline">Tobias Malm</span><sup>2</sup>, Andrea Hennyey<sup>2</sup>, Sara Danielsson<sup>2</sup>, Veronika Johansson<sup>2</sup>, Dennis Strid<sup>2</sup>, Dan Holtstam<sup>2</sup>, Cecilia Larsson<sup>2</sup>
+		<a href="https://static.tdwg.org/conferences/2024/posters/malm-253.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/malm-253.png" style="float: right; width: 250px;"></a>
+    Annika Bengtson<sup>1</sup>, Johannes Lundberg<sup>2</sup>, <span style="text-decoration: underline">Tobias Malm</span><sup>2</sup>, Andrea Hennyey<sup>2</sup>, Sara Danielsson<sup>2</sup>, Veronika Johansson<sup>2</sup>, Dennis Strid<sup>2</sup>, Dan Holtstam<sup>2</sup>, Cecilia Larsson<sup>2</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Swedish Museum of natural History, Stockholm, Sweden.<br />
 			<sup>2</sup>Swedish Museum of Natural History, Stockholm, Sweden.<br />
@@ -337,9 +368,10 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 
 ------
 
-### [Possibility of 3D model Collections in paleontology simply, easily, and inexpensively using portable devices equipped with LiDAR-From on-hand to room-](https://static.tdwg.org/conferences/2024/posters/maruyama-026.pdf)
+### [Possibility of 3D model Collections in paleontology simply, easily, and inexpensively using portable devices equipped with LiDAR-From on-hand to room-](https://static.tdwg.org/conferences/2024/posters/maruyama-26.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/maruyama-26.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/maruyama-26.png" style="float: right; width: 250px;"></a>
     Satoshi Maruyama<sup>1</sup>, Shinya Miyata<sup>2</sup>, Hiromi Kurosu<sup>3</sup>, Hiroshige Matsuoka<sup>4</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Natural History Museum and Institute, Chiba., Chiba, Chiba, Japan.<br />
@@ -353,10 +385,10 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
 #### Abstract
 
   <div>
-    <p>&#xA0; &#xA0;Until several years ago, it was difficult for the general public to acquire 3D data. Recently, portable devices have been equipped with LiDAR (Light Detection And Ranging). LiDAR is a method for determining ranges by targeting an object or the surface with a laser and measuring the time for the reflected light to return to the receiver. It is easy to acquire 3D data by LiDAR at low cost, so making 3D digital specimens and using 3D databases have become more popular. This study aims to consider the possibility of 3D digital model collections in paleontology simply, easily, and inexpensively using portable devices equipped with LiDAR.</p>
-    <p>&#xA0; &#xA0;Two iPad Pro (3rd and 4th generation) and an iPhone 15 Pro equipped with LiDAR are used with the Scaniverse application. The scanning range of Scaniverse is from 0.3 m to 5.0 m for 3D. Targets of paleontological 3D models in our study range from the size of on-hand specimens to meter-scale exhibition rooms and outcrops, including a 5 cm ammonite, an about 3 m full body replica of Naumann&#x2019;s elephant <em>Palaeoloxodon naumanni</em>, and so on.</p>
-    <p>&#xA0; &#xA0;In this case, under 10 cm specimens, it is difficult to make 3D models in shape. On the other hand, 3D models from over 10 cm specimens to over 5 m rooms and outcrops are reasonably built. These 3D model collections can be used as exhibits and for education by making 3D printings and VR models.</p>
-    <p>&#xA0; &#xA0;Problems will occur because everyone can make and share 3D models simply, easily, and inexpensively. Several issues of rights such as copyrights will possibly arise from these models because digital data can move over policies of museums and institutions. In the future, we need to make rules for these rights internationally.</p>
+    <p>Until several years ago, it was difficult for the general public to acquire 3D data. Recently, portable devices have been equipped with LiDAR (Light Detection And Ranging). LiDAR is a method for determining ranges by targeting an object or the surface with a laser and measuring the time for the reflected light to return to the receiver. It is easy to acquire 3D data by LiDAR at low cost, so making 3D digital specimens and using 3D databases have become more popular. This study aims to consider the possibility of 3D digital model collections in paleontology simply, easily, and inexpensively using portable devices equipped with LiDAR.</p>
+    <p>Two iPad Pro (3rd and 4th generation) and an iPhone 15 Pro equipped with LiDAR are used with the Scaniverse application. The scanning range of Scaniverse is from 0.3 m to 5.0 m for 3D. Targets of paleontological 3D models in our study range from the size of on-hand specimens to meter-scale exhibition rooms and outcrops, including a 5 cm ammonite, an about 3 m full body replica of Naumann&#x2019;s elephant <em>Palaeoloxodon naumanni</em>, and so on.</p>
+    <p>In this case, under 10 cm specimens, it is difficult to make 3D models in shape. On the other hand, 3D models from over 10 cm specimens to over 5 m rooms and outcrops are reasonably built. These 3D model collections can be used as exhibits and for education by making 3D printings and VR models.</p>
+    <p>Problems will occur because everyone can make and share 3D models simply, easily, and inexpensively. Several issues of rights such as copyrights will possibly arise from these models because digital data can move over policies of museums and institutions. In the future, we need to make rules for these rights internationally.</p>
   </div>
 
 #### Funding Program
@@ -368,6 +400,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 ### [The potential problems of AESUB sublimating scanning sprays for 3D scanning in conservation.](https://static.tdwg.org/conferences/2024/posters/nielsen-247.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/nielsen-247.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/nielsen-247.png" style="float: right; width: 250px;"></a>
     Bjørk Bach Nielsen, Kristian Murphy Gregersen
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       The Royal Danish Academy, Copenhagen, Denmark.<br />
@@ -385,7 +418,8 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ### [An eDNA survey shows relatively higher diversity of coral genera in the Kerama Islands than Okinawa Island](https://static.tdwg.org/conferences/2024/posters/noda-368.pdf)
 
-<div>
+  <div>
+	  <a href="https://static.tdwg.org/conferences/2024/posters/noda-368.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/noda-368.png" style="float: right; width: 250px;"></a>
     Takeshi Noda <a href="https://orcid.org/0000-0003-2213-0626">ORCID iD</a><sup>1</sup>, Mikihiko Higa<sup>2</sup>, Kanako Hisata<sup>1</sup>, Haruhi Narisoko<sup>1</sup>, Mayuki Suwa<sup>1</sup>, Aya Koseki<sup>1</sup>, Hiroki Taniguchi<sup>3</sup>, Koki Nishitsuji <a href="https://orcid.org/0000-0002-4015-7139">ORCID iD</a><sup>4</sup>, Tomofumi Nagata<sup>5</sup>, Megumi Kanai<sup>5</sup>, Chuya Shinzato <a href="https://orcid.org/0000-0001-7843-3381">ORCID iD</a><sup>6</sup>, Noriyuki Satoh <a href="https://orcid.org/0000-0002-4480-3572">ORCID iD</a><sup>1</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Okinawa institute of science and technology, Onna, Okinawa, Japan.<br />
@@ -406,9 +440,10 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
-<filename>ohtsuki-220.pdf</filename>### Developing the digital museum using various images and geographic information systems
+### [Developing the digital museum using various images and geographic information systems](https://static.tdwg.org/conferences/2024/posters/ohtsuki-220.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/ohtsuki-220.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/ohtsuki-220.png" style="float: right; width: 250px;"></a>
     Tatsuo Ohtsuki <a href="https://orcid.org/0000-0003-1667-9161">ORCID iD</a>, Taisuke Ohtsuka <a href="https://orcid.org/0000-0003-0811-5382">ORCID iD</a>, Kayoko O. Kameda
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       LAKE BIWA MUSEUM, KUSATSU, SHIGA, Japan.<br />
@@ -431,6 +466,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 ### [Fighting Fraud in the Forest - World Forest ID at Kew; a georeferenced collection of wood and forest risk commodities.](https://static.tdwg.org/conferences/2024/posters/phelan-352.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/phelan-352.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/phelan-352.png" style="float: right; width: 250px;"></a>
     Lauren Phelan  
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Royal Botanic Gardens, Kew, London, United Kingdom.<br />
@@ -447,10 +483,31 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
 
 ------
 
+### [A selection of tricks, thrifty tips and thingamajigs from the conservation team at The Natural History Museum in London](https://static.tdwg.org/conferences/2024/posters/read-100.pdf)
+
+  <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/read-100.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/read-100.png" style="float: right; width: 250px;"></a>
+    Erica Read, Arianna Bernucci, Armando Mendez, Lu Allington-Jones, Lauren Burleson, Fabiana Portoni
+    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
+      Natural History Museum, London, United Kingdom.<br />
+      &nbsp;
+    </div>
+  </div>
+
+#### Abstract
+
+  <div>
+    <p>We would like to share some of the handy materials, modified tools and innovations we have found over the years that can help make the care and conservation of natural history collections &#xA0; easier, cheaper and more environmentally friendly.</p>
+    <p>An assortment of little things that can make a big difference.</p>
+  </div>
+
+------
+
 ### [Policy-making Support through Open Scientific Collections from the Natural History Domain](https://static.tdwg.org/conferences/2024/posters/rainer-363.pdf)
 
   <div>
-    Nikos Gänsdorfer <a href="https://orcid.org/0000-0001-6973-1475">ORCID iD</a><sup>1</sup>, Heimo Rainer <a href="https://orcid.org/0000-0002-5963-349X">ORCID iD</a><sup>2</sup>, Clara Lines Diaz <a href="https://orcid.org/0000-0003-3437-5145">ORCID iD</a><sup>3</sup>, Angus Whyte <a href="https://orcid.org/0000-0002-5198-0833">ORCID iD</a><sup>3</sup>
+		<a href="https://static.tdwg.org/conferences/2024/posters/rainer-363.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/rainer-363.png" style="float: right; width: 250px;"></a>
+    Nikos Gänsdorfer <a href="https://orcid.org/0000-0001-6973-1475">ORCID iD</a><sup>1</sup>, <span style="text-decoration: underline">Heimo Rainer</span> <a href="https://orcid.org/0000-0002-5963-349X">ORCID iD</a><sup>2</sup>, Clara Lines Diaz <a href="https://orcid.org/0000-0003-3437-5145">ORCID iD</a><sup>3</sup>, Angus Whyte <a href="https://orcid.org/0000-0002-5198-0833">ORCID iD</a><sup>3</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>NHM Vienna, VIenna, Austria.<br />
 			<sup>2</sup>NHM Vienna, Vienna, Austria.<br />
@@ -477,28 +534,10 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ------
 
-### [A selection of tricks, thrifty tips and thingamajigs from the conservation team at The Natural History Museum in London](https://static.tdwg.org/conferences/2024/posters/read-100.pdf)
-
-  <div>
-    Erica Read, Arianna Bernucci, Armando Mendez, Lu Allington-Jones, Lauren Burleson, Fabiana Portoni
-    <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
-      Natural History Museum, London, United Kingdom.<br />
-      &nbsp;
-    </div>
-  </div>
-
-#### Abstract
-
-  <div>
-    <p>We would like to share some of the handy materials, modified tools and innovations we have found over the years that can help make the care and conservation of natural history collections &#xA0; easier, cheaper and more environmentally friendly.</p>
-    <p>An assortment of little things that can make a big difference.</p>
-  </div>
-
-------
-
 ### [On the history of a Mexican Paleontological collection](https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/romero-mayen-157.png" style="float: right; width: 250px;"></a>
     Violeta A. Romero-Mayén <a href="https://orcid.org/0000-0001-5098-5299">ORCID iD</a>, Jesús Alvarado-Ortega <a href="https://orcid.org/0000-0001-8458-7205">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Colección Nacional de Paleontología, Instituto de Geología, Universidad Nacional Autónoma de México, Mexico City, Mexico.<br />
@@ -519,6 +558,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 ### [Fishes, amphibians, and reptiles in the Illinois Natural History Survey Biological Collections.](https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/santoyo-brito-308.png" style="float: right; width: 250px;"></a>
     Enrique Santoyo Brito <a href="https://orcid.org/0000-0003-3997-3232">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Illinois Natural History Survey, Champaign, Illinois, USA.<br />
@@ -537,6 +577,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 ### [Downstream Tools and Contributions to Biodiversity Data Standards within the Terrestrial Parasite Tracker Thematic Collections Network](https://static.tdwg.org/conferences/2024/posters/sullivan-135.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/sullivan-135.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/sullivan-135.png" style="float: right; width: 250px;"></a>
     Kathryn Sullivan <a href="https://orcid.org/0000-0003-3792-2538">ORCID iD</a><sup>1,2</sup>, Erika Tucker <a href="https://orcid.org/0000-0002-8822-2315">ORCID iD</a><sup>1,3</sup>, Nicolas Dowdy<sup>1</sup>, Julie Allen<sup>4</sup>, Vijay Barve<sup>5</sup>, Sarah Bush<sup>6</sup>, Neal Evenhuis<sup>7</sup>, Michael Hastriter<sup>8</sup>, Jessica Light<sup>9</sup>, Teresa Mayfield-Meyer<sup>10</sup>, Barry OConnor<sup>11</sup>, Jorrit Poelen<sup>12,13</sup>, Gabor Racz<sup>14</sup>, Katja Seltmann<sup>13</sup>, Jennifer Zaspel<sup>1,2</sup>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       <sup>1</sup>Milwaukee Public Museum, Milwaukee, WI, USA.<br />
@@ -572,6 +613,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 ### [A museum display showing real-time bird vocal activity using BirdWeather/BirdNET](https://static.tdwg.org/conferences/2024/posters/tir-321.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/tir-321.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/tir-321.png" style="float: right; width: 250px;"></a>
     Jessica Tir <a href="https://orcid.org/0000-0002-6446-7713">ORCID iD</a>, Allie Tir
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Charles R. Conner Museum, Washington State University, Pullman, WA, USA.<br />
@@ -592,6 +634,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 ### [Object location tracking in the Malacology Collection at the Museum of Comparative Zoology](https://static.tdwg.org/conferences/2024/posters/trimble-390.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/trimble-390.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/trimble-390.png" style="float: right; width: 250px;"></a>
     Jennifer Trimble <a href="https://orcid.org/0000-0002-7480-3645">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       MCZ, Harvard, Cambridge, MA, USA.<br />
@@ -610,7 +653,8 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 ### [Significance of Extraregional Surveys - Contribution to Comprehensive Historical Exhibition of the Regional Museum through Interregional Comparisons of "Familiar Insects"](https://static.tdwg.org/conferences/2024/posters/uchifune-228.pdf)
 
 <div>
-Toshiki Uchifune
+	<a href="https://static.tdwg.org/conferences/2024/posters/uchifune-228.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/uchifune-228.png" style="float: right; width: 250px;"></a>
+  Toshiki Uchifune
 	<div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
 		Yokosuka City Museum, Yokosuka, Kanagawa, Japan.<br />
     &nbsp;
@@ -625,13 +669,14 @@ Toshiki Uchifune
 
 #### Funding program
 
-This project was supported by JSPS KAKENHI Grant Number JP21K01011
+This project was supported by JSPS KAKENHI Grant Number JP21K01011.
 
 ------
 
 ### [History of the Yale Peabody Museum Invertebrate Paleontology Collection](https://static.tdwg.org/conferences/2024/posters/utrup-344.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/utrup-344.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/utrup-344.png" style="float: right; width: 250px;"></a>
     Jessica Utrup <a href="https://orcid.org/0000-0001-5201-8235">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Yale Peabody Museum, New Haven, CT, USA.<br />
@@ -650,6 +695,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011
 ### [Salvage Planning and Training in the Natural History Museum Galleries](https://static.tdwg.org/conferences/2024/posters/watkinson-245.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/watkinson-245.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/watkinson-245.png" style="float: right; width: 250px;"></a>
     Lucy Watkinson  
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Natural History Museum, London, United Kingdom.<br />
@@ -669,6 +715,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011
 ### [Earth system’s biology Data FAIRification: Mobilizing SGN Collection Data for the BITS terminology service in Earth System Science](https://static.tdwg.org/conferences/2024/posters/wolodkin-217.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/wolodkin-217.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/wolodkin-217.png" style="float: right; width: 250px;"></a>
     Alexander Wolodkin <a href="https://orcid.org/0000-0003-1556-8750">ORCID iD</a>, Claus Weiland <a href="https://orcid.org/0000-0003-0351-6523">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       Senckenberg – Leibniz Institution for Biodiversity and Earth System Research, Frankfurt am Main, Hessen, Germany.<br />
@@ -695,6 +742,7 @@ Funded by DFG (German Research Foundation). DFG project number 508107981.
 ### [EcoBank: Pioneering Standards for Ecological Data Sharing and Utilization in South Korea](https://static.tdwg.org/conferences/2024/posters/yoon-85.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/yoon-85.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/yoon-85.png" style="float: right; width: 250px;"></a>
     Sungsoo Yoon <a href="https://orcid.org/0000-0003-4712-8004">ORCID iD</a>, Yongsu Kwon <a href="https://orcid.org/0000-0002-2573-5922">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       National Institute of Ecology, Seocheon-gun, Chungcheongnam-do, Republic of Korea.<br />
@@ -710,4 +758,4 @@ Funded by DFG (German Research Foundation). DFG project number 508107981.
 
 #### Funding Program
 
-National Institute of Ecology (NIE), grant number: NIE-B-2024-01
+National Institute of Ecology (NIE), grant number: NIE-B-2024-01.
