@@ -3,9 +3,9 @@ title: Posters
 description: >
   Posters presented at SPNHC-TDWG 2024
 background:
-  img: https://images.unsplash.com/photo-1621866486780-78be8fd22b97
-  by: Georg Eiermann
-  href: https://unsplash.com/photos/eWiTil2CAvA 
+  img: https://images.unsplash.com/photo-1493972741200-51d407e0ee33
+  by: Manolo Chrétien
+  href: https://unsplash.com/photos/scattered-magazines-RpC-9e0ORNM
 toc: false
 ---
 
