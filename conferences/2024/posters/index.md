@@ -26,7 +26,7 @@ toc: false
 
 <p>Although publications alone are not a comprehensive measure of the impact of biodiversity collections, they provide a valuable starting point for formulating impact metrics due to the accessible and standardized nature of publication metadata. The ubiquity of attributes such as DOIs, author affiliation, and the increasing adoption of author identifiers such as ORCIDS facilitate automated collection and analysis of publication data. One useful and emerging area of publication metadata is the assignment of UN Sustainable Development Goals, which offer a direct linkage between collections based research and solutions to climate change and sustainability initiatives.</p>
 <p>At the California Academy of Sciences (CAS), the tracking of institutional publications was initially a manual process, conducted as needed using spreadsheets and documents. Recognizing the inefficiencies and potential for errors in this method, CAS aimed to develop an automated, reliable tracking system. The integration of publications from diverse sources posed a challenge, yet it was successfully addressed using the OpenAlex API, an open-source repository of publication data. Querying the API using affiliation metadata alone resulted in a significant improvement in publication tracking, and further refinement was achieved by incorporating ORCID-based searches and filters. In the calendar year 2022, while staff manually tracked 66 publications for reporting purposes, the API system successfully identified 198 publications authored by museum staff and affiliates during the same period. The API is also equipped to retrieve datasets published through platforms like Zenodo, Figshare, and other DataCite affiliates. It returned 22 CAS datasets, a metric that was previously untracked.&#xA0;</p>
-<p>Components of the publication tracking application include a MySQL database of publications and institutionally affiliated authors, as well as an automated email reporting system for tables and visualizations of publication data. Examples of these reports, including visualizations related to Sustainable Development assignments can be found at <a href="https://github.com/calacademy-research/publications_finder">https://github.com/calacademy-research/publications_finder</a>.</p>
+<p>Components of the publication tracking application include a MySQL database of publications and institutionally affiliated authors, as well as an automated email reporting system for tables and visualizations of publication data. Examples of these reports, including visualizations related to Sustainable Development assignments can be found at <a href="https://github.com/calacademy-research/publications_finder">https://github.com/calacademy-research/publications_finder</a>.</p><br />
 
 ------
 
@@ -46,7 +46,7 @@ toc: false
 <p>The marine invertebrate collections within the Division of Invertebrate Zoology at the American Museum of Natural History (AMNH) house an estimated 5-7 million specimens and encompass more than 25 animal phyla. &#xA0;</p>
 <p>Cataloging material in these collections has been in practice since the museum&#x2019;s beginning more than 150 years ago. However, only in the past few decades has there been a concerted effort to catalog records and their associated data in digital format, and only in the past few years has this digital data been available online.&#xA0;</p>
 <p>Since the fall of 2020, The Division of Invertebrate Zoology has been participating in Documenting Marine Biodiversity Through Digitization of Invertebrate Collections (DigIn), a National Science Foundation (NSF)-funded Thematic Collections Network (TCN). &#xA0;The AMNH&#x2019;s objectives under this grant are to digitize the majority of the non-mollusk, fluid-preserved marine invertebrate holdings, georeference the collection localities and make available publicly thousands of specimen images. Through the efforts of this grant, the history of the collection, including major expeditions and major donors, has come into focus. With digital catalog, expedition, locality and donor records, it is now easier than ever to examine the history of these collections.</p>
-<p>Here we present an overview of the non-molluscan marine invertebrate collections and highlight a few of the expeditions and donors that have contributed to the collection&#x2019;s growth over the past 150 years.</p>
+<p>Here we present an overview of the non-molluscan marine invertebrate collections and highlight a few of the expeditions and donors that have contributed to the collection&#x2019;s growth over the past 150 years.</p><br />
 
 ------
 
@@ -77,7 +77,7 @@ toc: false
 
 ##### Funding Program
 
-Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (2023) and the following awards from the National Science Foundation for development and sustainability: DBI-9630909, DBI-9876837, DEB-9981915, DBI-2034593, DBI-2034568, DBI-2034577.
+Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (2023) and the following awards from the National Science Foundation for development and sustainability: DBI-9630909, DBI-9876837, DEB-9981915, DBI-2034593, DBI-2034568, DBI-2034577.<br />
 
 ------
 
@@ -97,7 +97,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
   <div>
     <p>Microfossil collections include the remains and associated material of single-celled or otherwise extremely small organisms and are valuable in their use for biostratigraphy and ancient climate analysis. In recent years, we have leveraged a long history of work to document these collections, particularly focused on the bulk sample material, to create the first attempt to mobilize and enable digital access to this important material from the National Fossil Collection. However, processing the bulk samples found in Microfossil collections presents many challenges for both physical and digital organization. Bulk material can include cores, large quantities of unprocessed sediments, and material that has been processed through various sized sieves. In addition, this material is managed alongside collections of type, taxonomic, and faunal slides of picked specimens that were processed from the bulk material. The data held within bulk collections are an underutilized resource of thousands of localities across the world providing a snapshot of geological time often undiscoverable by the microfossil research community.</p>
     <p>Getting this data into an online accessible database allows greater access for the research community, encouraging increased use of the collections and improved discoverability. It also enhances the ability to properly curate the material and to digitally reunite parts of the collection that have been processed into other parts of our collection or separated between multiple institutions during acquisition. In addition, the nature of this material aligns well with the concept of the extended specimen and the complexity of connecting data across multiple occurrences, a critical detail for unlocking the value of these collections that are often overlooked. Here we show an overview of the work to standardize and combine existing data sources, fill in gaps in the data, outline the data structure necessary to properly describe these collections, and connect the data to the physical specimens.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -124,7 +124,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 <p>From the obtained about 60K records, species already included in protected lists of various statuses were filtered out: IUCN Red List, National Red List (2023), previous edition of the regional Red List (2013), and were further revised to assess its status for the new edition. Additionally, rare indicator species were assessed and proposed in various statuses in the new edition.</p>
 
-<p>As a result of the revision of accumulated occurrences, a dataset was published in GBIF, including about 1.5K records of 62 species protected by the regional Red List of Khanty-Mansi Autonomous Okrug-Yugra (2024). The number of findings of individual species varied from one to several hundred. The dataset includes information on taxonomic names, coordinates, dates of the finding, source of information, conservation status, and others.</p>
+<p>As a result of the revision of accumulated occurrences, a dataset was published in GBIF, including about 1.5K records of 62 species protected by the regional Red List of Khanty-Mansi Autonomous Okrug-Yugra (2024). The number of findings of individual species varied from one to several hundred. The dataset includes information on taxonomic names, coordinates, dates of the finding, source of information, conservation status, and others.</p><br />
 
 ------
 
@@ -174,7 +174,7 @@ Arctos received a Robert &amp; Patricia Switzer Foundation Leadership Grant (202
 
 ##### Funding Program
 
-iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2011-2018), DBI-1547229 (2016-2022), &amp; DBI-2027654 (2021-2026)].
+iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2011-2018), DBI-1547229 (2016-2022), &amp; DBI-2027654 (2021-2026)].<br />
 
 ------
 
@@ -193,7 +193,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
   <div>
     <p>Stanford University&#x2019;s mineral collection was established in the late 19th century by John Casper Branner (1850 - 1922), Stanford&#x2019;s first professor, first Chair of the Geology Department and co-founder of the Stanford Geological Survey (1895 - 1995). The collection grew into a significant resource for research and teaching through Branner&#x2019;s fieldwork and the work of his contemporaries and subsequent workers, including many notable Stanford students. Despite its significance, a lack of dedicated management over several decades has resulted in a collection in need of modernization. Renewed interest and recognition of the importance of the collection has spurred dedicated efforts to better steward and share them more broadly. As a first step, we launched a project to digitize, OCR, and database the mineral collection&#x2019;s original typed card catalog of roughly 17,500 specimen cards. Because a majority of the cards follow a standardized format, it was possible to develop a custom Python script to OCR the scanned images, convert the output into tabular data and rename the image files to include the specimen catalog number. About 60 hours were spent on script development and testing. Once developed, it took 24 hours to process the scans utilizing the script.&#xA0;Many cards had specimen labels stapled to them, which had to be removed before being fed through the scanner, which took 60 hours. Next steps include data cleaning in OpenRefine, as well as refinement and testing of the Python script to increase accuracy. Once cleaned, the resulting dataset will serve as the backbone of our mineral database. Improvements made to the Python script will, moreover, be useful in adapting the script for processing the other card catalogs in Stanford&#x2019;s collections, and may serve as a valuable open-source tool for the broader collections community.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -212,7 +212,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 
   <div>
     <p>The collections of extant amphibians and reptiles of the Field Museum of Natural History (FMNH) is among the top dozens largest collections in the world, with over 300,000 cataloged specimens. Our regional strength is Southeast Asia and the US Midwest. Given that this is SPNCH&#x2019;s first time meeting in Asia, the poster will highlight the collections&#x2019; coverage (taxonomic and geographic) with the aim for increased access to our collections for research purposes, facilitating broader scientific inquiry and collaborations. The poster will show the research outputs by FMNH-based users (staff, postdocs, research associates, PhD students, our efforts in public engagements, and collections use.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -234,7 +234,7 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
     <p>I was given the challenge of finding a suitable methodology to semi adhere specimens to a flat base using a material that would pass Oddy testing for permanent display and be suitable to be in direct contact with the gemstone surface. As well as cushioning and semi adhering, the support also needed to be removable and transparent.</p>
     <p>This would require the ability to use extremely small amounts of conservation grade adhesives or materials to sit beneath the smallest gemstones without having a visible impact on the display or detract from the specimen yet provide cushioning and stability. As the surface of the gemstones was reasonably robust without signs of delamination, powdering or flaking, I was able to investigate the possible use of adhesives. After carrying out tests with a range of adhesives, I decided to test Lascaux 303, a conservation grade adhesive that is transparent with permanent tackiness.</p>
     <p>The Lascaux 303 was mixed in varying solutions with deionised water, the most suitable for this project being a solution of 70% Lascaux 303 to 30% deionised water. &#xA0;The dot needed to have a flattened dome without any peaks. Using a pipette to produce droplets of varying sizes, the mixture was dropped carefully onto silicone release paper. These were then allowed to air dry naturally. To maintain their tackiness, a scalpel and tweezers were used to move the dots into position. Once positioned correctly in the cases the specimens could then be placed gently on the top of the dot.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -282,7 +282,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
     <p>This approach provides several benefits. Primarily, identifications become more reliable than with AI alone, and broadening the key's taxon filtering beyond the AI predictions provides further quality control. Conversely, as each identification key user input is a potential for error, the reliability of this method relative to using only a key is reduced by restricting it to fewer outcomes.</p>
     <p>Beside the identifications themselves, education is another important outcome of user tools for taxon identification. Our method teaches users relevant characteristics, without overwhelming them with full identification keys. Already prior to presenting keys, their domain knowledge may be used to describe conspicuous shared characteristics of AI predictions. E.g. "all candidates are butterflies with blue wings" is valuable information, immediately alerting users to potential recognition problems.</p>
     <p>Finally, this workflow can store user-reported characteristics, AI predictions and pictures of observations together. Combining these, identifications can be vetted, and used to improve AI models and identification keys.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -301,7 +301,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
   <div>
     <p>Imaging adds value to digital records by displaying materials available to researchers, and it plays a role in preservation by recording the condition of a specimen. &#xA0;At the Philecology Herbarium, our primary focus is on our vascular plant collection. &#xA0;When we began imaging the mycology collection, we had to adjust our existing imaging methods to create a new protocol for fungi. &#xA0;Since fungi specimens are typically smaller than vascular plants, the camera was lowered for a smaller image area. &#xA0;The camera aperture and shutter speed were adjusted to account for the change, and to achieve a better depth of field for three-dimensional specimens. &#xA0;We used a metal cooking tray to lay out fungi specimen materials and labels, along with a scale bar and color card. &#xA0;Small magnets keep labels flat against the tray and in focus, without obstructing data. &#xA0;For specimens with a single fruiting body, multiple images are taken to view all surfaces of the specimen. &#xA0;A hand-pump dust cleaner clears the imaging surface between each specimen to avoid cross-contamination. &#xA0;With these methods, we&#x2019;ve begun imaging our fungi collection.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -322,7 +322,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
   <div>
     <p>Fossil and modern bones and bone assemblages representing a variety of taphonomic processes are used as comparative materials to help paleobiologists, anthropologists, archaeologists, ecologists, and forensic scientists interpret evidence of taphonomic processes. However, current information systems used for managing and sharing specimen data often lack the necessary structures for clearly documenting the associated taphonomic information. In addition, the vocabulary used to describe taphonomic features can be variable between reference textbooks, datasets, researchers, and institutions. Here we share a project that aims to address these issues through the development of an International Taphonomic Reference Collection Portal utilizing a Symbiota-based portal. Due to the collaborative nature of Symbiota communities, creation of the portal can also help to promote shared stewardship of related taphonomy collections, with a current focus on those maintained by the Smithsonian National Museum of Natural History (NMNH) and the National Museum of Kenya (NMK). Through user testing to assess an improved data model, evaluation of current structures for documenting traits, and reviews of existing vocabularies, this effort defines infrastructure updates necessary to facilitate the discovery of and broader access to critical taphonomic information needed for reference and study. &#xA0;</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -348,7 +348,7 @@ This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, J
 
 ##### Funding Program
 
-MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membership fees from academic institutions and museums around the world.
+MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membership fees from academic institutions and museums around the world.<br />
 
 ------
 
@@ -369,7 +369,7 @@ MorphoBank is currently supported by NSF-DBI-2049965, NSF-EAR-2148768, and membe
   <div>
     <p>During the renovation of the herbarium of the Swedish Museum of Natural History (S) the collections were stored in a remote warehouse. Unfortunately, water leakage in the warehouse led to several boxes of herbarium specimens being severely damaged. When discovered the specimens were wet and covered in actively growing mould. Efforts to try to save the affected specimens immediately began by stabilizing, killing and removing the mould, and restoring the specimens.</p>
     <p>Specimens were frozen in -20 C to hinder further mould growth, and then dried in a closed area with enhanced ventilation. The slow process of trying to restore the specimens then began, including handling dislocated and damaged labels, remounting specimens and carefully removing the mould from the plants by hand. The process of restoring the specimens is presented, including what we learned about handling them without causing further damage, and how to deal with old damaged labels, but also how to work with an active mould infestation without health risks and the importance of having protocols and plans for various disasters in place before they occur.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -490,7 +490,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
     <p>The World Forest ID consortium is building the world&#x2019;s largest georeferenced collection of wood and forest risk commodity samples. Why? Because one of the biggest problems in the identification of traded timber and forest risk commodities (soy, coffee, cocoa, oil palm) is scientifically proving provenance when prosecuting cases of illegal logging and deforestation. Illegal logging is the most lucrative environmental crime and end products are part of complex supply chains, which are open to fraud.&#xA0;</p>
     <p>Learn how samples are collected by World Forest ID and stored at Royal Botanic Gardens, Kew, and other consortium members where they are identified using anatomical and morphological techniques and chemical analyses to further confirm identity as well as determining provenance of the samples. Data derived from the physical samples is analysed and used to train and produce AI origin models that are available for enforcement agencies and other end users around the world to use as scientific proof to support or refute origin or species of traded commodities. &#xA0;</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -510,7 +510,7 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
   <div>
     <p>We would like to share some of the handy materials, modified tools and innovations we have found over the years that can help make the care and conservation of natural history collections &#xA0; easier, cheaper and more environmentally friendly.</p>
     <p>An assortment of little things that can make a big difference.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -535,13 +535,13 @@ This work was supported by JSPS KAKENHI Grant Number JP22K01021.
     <p>(2) &#x2018;Minimum Viable Skillset&#x2019; (MVS) for Digital Collections Managers. Since digital transformation of museum collections also requires different ways of working and new skills, we are developing a job profile based on this MVS, and piloting training materials to help people acquire the essential skills to make collections more open for research. &#xA0;The MVS are one of the key outputs of the project and cover a variety of career profiles related to open science, such as researchers, policy-makers, knowledge brokers, and data stewards. To assist trainers of people in these roles, &#xA0;the project is developing learning paths and training resources based on the MVS.</p>
     <p>(3) We are establishing a professional network of data curators in museums and collections, both nationally and internationally to facilitate the exchange of best practices around open science and digital museum collections.</p>
     <p>At TDWG2024, we are looking forward to engaging with other initiatives working towards open scientific collections and discovering cases of scientific collections supporting biodiversity policy goals. If you work with natural history collections and any aspect of our work aligns with your interests let&#x2019;s talk!</p>
-    <p><a href="https://cordis.europa.eu/project/id/101058527">https://cordis.europa.eu/project/id/101058527</a></p>
-    <p><a href="https://www.skills4eosc.eu/">https://www.skills4eosc.eu/</a></p>
+    <p><a href="https://cordis.europa.eu/project/id/101058527">https://cordis.europa.eu/project/id/101058527</a><br />
+    <a href="https://www.skills4eosc.eu/">https://www.skills4eosc.eu/</a></p>
   </div>
 
 ##### Funding Program
 
-SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 101058527).
+SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 101058527).<br />
 
 ------
 
@@ -562,7 +562,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
     <p>In 1888, under the government of Porfirio D&#xED;az, the Mexican State took a firm step to recognize and take advantage of the geological resources of its territory. This is how the Instituto Geol&#xF3;gico was born. In 1929 this institution was incorporated into the Universidad Nacional Aut&#xF3;noma de M&#xE9;xico. From its origin, institute researchers made great efforts to create and maintain a paleontological collection. Yet, the functionality and structure of this fossil repository were precarious.&#xA0;</p>
     <p>Twenty years ago, in January 2004, the national character of this collection was recognized renaming the collection &#x201C;Colecci&#xF3;n Nacional de Paleontolog&#xED;a&#x201D;. This act resulted after 35 years of hard work of Dr. Perrilliat Montoya as the first Collection Coordinator. She led the reorganization of collections, formalized the curation procedures, and established the criteria and policies that govern the functions and services provided by this collection.&#xA0;</p>
     <p>Today, this emblematic collection is at a dangerous critical point. A growing number of specimens requires more space and material resources. New tasks, like photography, 3D digitization, and additive manufacturing, involve renovating spaces. Also, we need to re-adequate our policies to solve the repeated bad practices detected in old and new users because of the gaps in current guidelines. Here, we present our status as the main Mexican fossil collection, thoughtfully analyzing our needs and limitations.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -581,7 +581,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
   <div>
     <p>Founded in 1858, the Illinois Natural History Survey (INHS) is one of the oldest biological surveys in the United States. The INHS is housed in the Prairie Research Institute of the University of Illinois at Urbana-Champaign. The INHS Fish and Herpetology Collections hold thousands of voucher specimens collected through early state surveys, scientific research projects, and recent assessments conducted by INHS scientists and external researchers. These voucher specimens and associated metadata provide baseline information to study the diversity, life histories, and ecology of species of Ichthyofauna and Herpetofauna in Illinois. Therefore, the specimens are a crucial part of the biological memory and natural heritage of the state. However, the importance and reputation of the INHS Fish and Herpetology Collections extends beyond Illinois' geographical and political boundaries. Together, the collections keep about 1.3 million vouchers of fishes, amphibians, and reptiles. These specimens are reference material to 203 families, 987 genera, and 2,950 species of fishes, and 91 families, 670 genera, and 2506 species of amphibians and reptiles found in over 50 countries around the world. These vouchers are the raw material for potential novel discoveries and provide crucial information for tracking life history changes and geographical distributions as human interactions continue to modify habitats globally. Moreover, they provide important taxonomic, evolutionary, ecological, genetic, behavioral, and physiological information to address a wide range of scientific questions worldwide. Both the Fish and Herpetology Collections have continued to grow at steady rates over the past ten years with specimens being deposited from Illinois and other national and international localities. The INHS is committed to making all voucher specimens, and extended specimen data, accessible to the science community worldwide. The associated data of both world-class collections are fully digitized and can be accessed through the INHS Biological Collections website.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -617,7 +617,7 @@ SKILLS4EOSC is funded by the European Commission Horizon Europe programme (GA 10
 
 ##### Funding Program
 
-The project was funded with National Science Foundation award DBI-1901932 to JZ.
+The project was funded with National Science Foundation award DBI-1901932 to JZ.<br />
 
 ------
 
@@ -638,7 +638,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
     <p>We designed a dynamic museum display that shows a live feed of local birds&#x2019; vocal activity with AI-powered species identifications. To do this, we deployed BirdWeather PUCs (Portable Universe Codecs) in the field to continuously collect and report real-time vocal and environmental data. The vocal data are interpreted by BirdWeather via the BirdNET artificial neural network which returns species identifications. We designed a custom interface using Flutter to create visualizations of the bird occurrences and environmental data. Visitors can interact with the display to generate and explore questions about how call frequency and species composition can be influenced by environmental variables. This display prompts visitors to think like bioacousticians and connects them to the animals in their local ecosystems.</p>
     <p>&#xA0;</p>
     <p>The code and setup instructions will be available in a GitHub repository to allow other groups to reproduce this display in their own galleries using their own local birds.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -657,7 +657,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
   <div>
     <p>How do museums keep track of the things that we have? A report based on the 78 largest museums and herbaria worldwide estimates that they house over 1.1 billion objects. Museum collections are an important repository for historical and current research specimens. Therefore, the tools used to store, track, and document object movement, have long-lasting implications. The Malacology Collection at Harvard University's MCZ has digitized just under 400,000 cataloged lots on MCZbase, a museumwide online database, and estimates that another 300,000 uncataloged lots, including dry and fluid material, microscope slides, and bulk samples remain. With ongoing digitization, physical rearrangement, and loans, object containers allow for specimen tracking and bulk inventories. The MCZ utilizes several methods of specimen/lot tracking, including specimen object containers, physical placeholders, and barcodes. With the development of robust collection databases, and bulk object tracking, best practices continue to be developed. The ability to locate objects within a museum collection is paramount in keeping order when curating large collections and will continue to evolve with the addition of new technologies.</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -680,7 +680,7 @@ The project was funded with National Science Foundation award DBI-1901932 to JZ.
 
 ##### Funding program
 
-This project was supported by JSPS KAKENHI Grant Number JP21K01011.
+This project was supported by JSPS KAKENHI Grant Number JP21K01011.<br />
 
 ------
 
@@ -701,6 +701,8 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.
     <p>While the Yale Peabody Museum itself did not exist as an entity until 1866, the collections that are its core have been on campus much longer. Yale College had a cabinet of natural wonders dating back to the American Revolution. This &#x201C;Cabinet of Yale College&#x201D; had been housed in multiple places around campus prior to the construction of the Peabody Museum. Some of the earliest collections came from exchanges between Benjamin Silliman and Gideon Mantell. It wasn&#x2019;t until 1876 when the first Peabody Museum building opened that the museum had both its own identity and space. The appointment of Charles Beecher in 1888 gave the invertebrate paleontology collection its first dedicated staff member. Under Beecher the collections continued to grow with multiple accessions from Syria, Lebanon, and Palestine. By the late 1860s, fossils from the American West were being shipped back to Yale by train. Marsh&#x2019;s dinosaurs are the most well-known, but the invertebrate paleontology division received extensive collections of Western Interior Seaway specimens. Charles Schuchert took over the division in 1904, bringing with him an extensive collection of brachiopods that he continued to expand over his lifetime. Graduate student dissertation collections significantly grew the collections throughout the twentieth century. Significant additions in the last quarter century include the Samuel J. Ciurca Eurypterid collection, an Early Ordovician Fezouata Formation lagerst&#xE4;tte collection, the CLIMAP collection of foraminifera slides and vials, and an incredibly diverse collection of Green River Formation insects. Many fossils are on display in the newly renovated Yale Peabody Museum which reopened in April of 2024.</p>
   </div>
 
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.139893)<br />
+
 ------
 
 ### [Salvage Planning and Training in the Natural History Museum Galleries](https://static.tdwg.org/conferences/2024/posters/watkinson-245.pdf)
@@ -719,7 +721,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.
   <div>
     <p>The Natural History Museum is home to over 80 million specimens across sites in London and Tring in Hertfordshire, UK. Only a fraction of these specimens are displayed at any one time, however, displays include some of the Museums most iconic and important specimens. Parts of the building in South Kensington, designed by Alfred Waterhouse in the 19<sup>th</sup> century, are also of considerable architectural significance.&#xA0;</p>
     <p>Although it is impossible to plan for every eventuality, it is useful to consider salvage of specimens across a number of possible scenarios and ensure that staff are confident in applying their training to real situations. This presentation will examine the risks to collections on display, the importance of effective emergency planning, selection of priority specimens, in-situ protection, recovery and staff training opportunities. Engaging staff with clear and robust training is essential in mitigating potential damage or loss including minimising of risk to both collections and staff.&#xA0;</p>
-  </div>
+  </div><br />
 
 ------
 
@@ -746,7 +748,7 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.
 
 ##### Funding Program
 
-Funded by DFG (German Research Foundation). DFG project number 508107981.
+Funded by DFG (German Research Foundation). DFG project number 508107981.<br />
 
 ------
 
