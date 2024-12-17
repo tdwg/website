@@ -36,6 +36,7 @@ toc: false
 ### [A History of Marine Exploration: Expeditions and Contributors to the Marine Invertebrate Collections at the American Museum of Natural History](https://static.tdwg.org/conferences/2024/posters/berniker-354.pdf)
 
   <div>
+		<a href="https://static.tdwg.org/conferences/2024/posters/berniker-354.pdf"><img src="https://static.tdwg.org/conferences/2024/posters/berniker-354.png" style="float: right; width: 250px;"></a>
     Lily Berniker <a href="https://orcid.org/0000-0001-7790-3011">ORCID iD</a>, Estefania Rodriguez <a href="https://orcid.org/0000-0002-5590-6606">ORCID iD</a>, Christine Johnson <a href="https://orcid.org/0000-0002-8173-4027">ORCID iD</a>
     <div style="font-size: 0.8em; margin-left: 10px; padding-top: 10px">
       American Museum of Natural History, New York, NY, USA.<br />
