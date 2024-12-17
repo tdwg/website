@@ -252,8 +252,11 @@ iDigBio is funded by grants from the National Science Foundation [DBI-1115210 (2
 	<p>The Tokyo Imperial Household Museum inherited bird specimens that had been acquired by two national museums between 1872–1923, including specimens of foreign species nonnative to Japan. Today, the Yamashina Institute for Ornithology holds most of this collection. I examined various archive records (e.g., catalogues, invoices, letters) associated with those museums involved to clarify details of its transfer history. The collection included specimens sent from, among others, the United States National Museum at the Smithsonian Institution, the Australian Museum, and the Muséum National d’Histoire Naturelle, Paris, in the 1800s. It also included type specimens, which are academically important. Here, I review the history of the Tokyo Imperial Household Museum bird collection and the specimens transfer process originated from the three institutions abroad.</p>
 </div>
 
-Funding program
+##### Funding program
+
 This work was supported by JSPS KAKENHI Grant Numbers JP 21K01005, JP24700937, JP16K01193.
+
+##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)
 
 ------
 
@@ -689,15 +692,6 @@ This project was supported by JSPS KAKENHI Grant Number JP21K01011.
   <div>
     <p>While the Yale Peabody Museum itself did not exist as an entity until 1866, the collections that are its core have been on campus much longer. Yale College had a cabinet of natural wonders dating back to the American Revolution. This &#x201C;Cabinet of Yale College&#x201D; had been housed in multiple places around campus prior to the construction of the Peabody Museum. Some of the earliest collections came from exchanges between Benjamin Silliman and Gideon Mantell. It wasn&#x2019;t until 1876 when the first Peabody Museum building opened that the museum had both its own identity and space. The appointment of Charles Beecher in 1888 gave the invertebrate paleontology collection its first dedicated staff member. Under Beecher the collections continued to grow with multiple accessions from Syria, Lebanon, and Palestine. By the late 1860s, fossils from the American West were being shipped back to Yale by train. Marsh&#x2019;s dinosaurs are the most well-known, but the invertebrate paleontology division received extensive collections of Western Interior Seaway specimens. Charles Schuchert took over the division in 1904, bringing with him an extensive collection of brachiopods that he continued to expand over his lifetime. Graduate student dissertation collections significantly grew the collections throughout the twentieth century. Significant additions in the last quarter century include the Samuel J. Ciurca Eurypterid collection, an Early Ordovician Fezouata Formation lagerst&#xE4;tte collection, the CLIMAP collection of foraminifera slides and vials, and an incredibly diverse collection of Green River Formation insects. Many fossils are on display in the newly renovated Yale Peabody Museum which reopened in April of 2024.</p>
   </div>
-
-**[Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)**
-
-_[Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)_
-
-##### _[Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)_
-
-##### [Extended abstract in Biodiversity Information Science and Standards (BISS)](https://doi.org/10.3897/biss.8.134958)
-
 
 ------
 
