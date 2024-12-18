@@ -13,7 +13,7 @@ toc: false
 
 ## Table of Contents
 
-| Author | Poster Title |
+| Authors | Poster Title |
 | :--- | :--- |
 | Abarca &amp; Russack | [From Manual to Automated: Enhancing Publication Tracking at the California Academy of Sciences Using the OpenAlex API](#188) |
 | Berniker et al. | [A History of Marine Exploration: Expeditions and Contributors to the Marine Invertebrate Collections at the American Museum of Natural History](#354) |
