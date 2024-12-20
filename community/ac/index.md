@@ -20,6 +20,8 @@ list:
 
 ## Core members
 
+- Vijay Barve - Natural History Museum of Los Angeles, CA, USA
+- Steve Baskauf - Vanderbilt University Heard Libraries (retired), Nashville, TN, USA
 - Douglas Boyer - Department of Evolutionary Anthropology, Duke University, NC, USA
 - Niels Klazenga - Royal Botanic Gardens Victoria, Australia
 - Rebecca Snyder - Smithsonian Institution, National Museum of Natural History, Washington DC, USA
