@@ -51,7 +51,7 @@ Functional Subcommittee | Name | Affiliation | Term of office
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
 Africa | TBA |  | 2025-2026
-Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Kuala Lumpur, Malaysia | 2025-2026
+Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
 Europe | [Laurence Livermore](./backgrounds/#europe-representative) [&#128231;](mailto:laurence.livermore@nhm.ac.uk) | Natural History Museum, London, England | 2025-2026
 Latin America | Juan Miguel Saez Hidalgo  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
 North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:chandra.earl@asu.edu) | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
