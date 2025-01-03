@@ -10,28 +10,9 @@ toc: true
 
 ## Chair
 
-[**Elycia Wallis**](https://orcid.org/0000-0001-6017-0894) - Atlas of Living Australia, CSIRO, Melbourne, Australia
-
-<a href="https://orcid.org/0000-0001-6017-0894"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6017-0894</a>
-
-**Background**
-
-My original background was in neurophysiology of crustaceans, studying fascinating critters in Australia and Canada. Crustaceans, but not neurophysiology, led me to a role as Collection Manager at Museums Victoria in Melbourne, Australia, where I continued to work for over 20 years. During those years I discovered interests in collection management, database management, libraries and public information, and online collections. I broadened my knowledge from natural sciences to social history and material culture. I discovered passions in open access, digitisation, and openly sharing collections and research information. I led projects including the development of Museum Victoria’s Collections Online website https://collections.museumvictoria.com.au/ and the Field Guide apps for Australia https://museumsvictoria.com.au/apps/.
-
-I have now joined the Atlas of Living Australia team https://www.ala.org.au/ as the Collections Community Engagement Manager and leader of the Projects team. As Engagement Manager, I work with the Museums and Herbaria around Australia and New Zealand to share knowledge and work to continuously improve data standards, data pipelines, and data quality.
-
-My other passion is for the Biodiversity Heritage Library https://www.biodiversitylibrary.org/ and I led the Australian project for a number of years. The Australian BHL has always been proud of the amount it has achieved with a small staff and a number of fabulous volunteers and continues to go from strength to strength.
-
-**Vision**
-
-The advantages of technology are many, but one that we haven’t yet fully overcome is the challenge of timezones and distance. I am often amazed at being able to talk with – and see – colleagues on the other side of the world and think that we are all the richer for being able to communicate in a way that would have been unthinkable just a few years ago. Timezones being what they are that communication does come at a price – which is usually a very early morning for some, and a late night for others. My initial focus will be on communication within the Oceania region; and I will work hard to ensure that the work of TDWG is disseminated widely and that I can represent the interests of the region back to the TDWG Executive.
-
-
-## Deputy Chair
-
 **David Bloom** - VertNet, Berkeley, CA 
 
-<a href="https://orcid.org/0000-0003-1273-1807"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-1273-1807</a>
+<a href="https://orcid.org/0000-0003-1273-1807"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-1273-1807</a>
 
 **Background**
 
@@ -41,31 +22,39 @@ I have been the VertNet project manager since 2010, with 15 years of prior exper
 
 As a professional (and a not-so professional) I have devoted my time and effort to the discovery, development, and implementation of tools, services, and solutions to make the lives of people who work with, and learn about, biodiversity data more productive and efficient. As Deputy Chair of TDWG I intend to continue these efforts and to focus my activities on TDWG’s on-going initiatives. I am keen to understand and apply the lessons learned about participation in and collaboration through TDWG during the Covid years. In particular, I want to focus on the ways in which TDWG engages with the community to share knowledge and get work done. I want to retain and expand the participation of people online while respecting the time and money of those people able to participate in person so that we can make the most of both of these communities. I am especially interested to find ways to help TDWG value the efforts of those individuals and groups that do the work to develop, maintain and expand the standards that bring us all together. Finally, I believe it is in the interest of the TDWG community to find ways to engage with traditional, indigenous and local knowledge holders and to find ways to further integrate their perspectives, needs, and experiences into TDWG workflows and products.
 
+## Deputy Chair
+
+**TBA** 
 
 ## Secretary
 
-**Visotheary Ung** - Muséum National d'Histoire Naturelle, Paris, France
+**Visotheary Ung** - _Muséum National d'Histoire Naturelle, Paris, France_
 
-<a href="https://orcid.org/0000-0002-4049-0820"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-4049-0820</a>
+<a href="https://orcid.org/0000-0002-4049-0820"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-4049-0820</a>
 
 **Background**
-
-I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
-
-I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
+: I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
+: I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
 
 **Vision**
-
-My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
-
-I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
-
-I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
-
+: My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
+: I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
+: I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
 
 ## Treasurer
 
-To Be Appointed.  David Bloom, Acting Treasurer.  (See Deputy Chair above.) 
+**Chandra Earl** - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
+
+<a href="https://orcid.org/0000-0001-9850-882X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-9850-882X</a>
+
+**Background**
+: I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
+: I received my graduate degree in [Genetics & Genomics](http://ufgi.ufl.edu/) from the University of Florida, where my dissertation research focused on building tools for “big data” biodiversity analyses, specifically genomics, machine learning and diversification metrices. Due to this, I maintain an ongoing Research Affiliation with the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/).
+: The theme of my personal research is focused on large-scale biodiversity data and analyses using natural history collections and as such I have broad experiences with developing pipelines for phylogenetics, bioinformatics, machine learning, geographic modelling, and digitized specimen mobilization. I enjoy research collaboration and have contributed to various biodiversity initiatives spanning across taxonomic scales, including insects, mollusks, plants, mammals and fish. One day I’ll get to birds and herps….maybe.
+
+**Vision**
+: Although I’m an acting member of a handful of professional societies, biodiversity information is ‘home’. As Treasurer of TDWG, I aim to use my experience within TDWG and connections with other societies to establish a transparent, efficient, and sustainable financial framework that ensures TDWG’s long-term success. I am keen on seeing TDWG evolve into an organization with solid financial health through strategic partnerships, grants, and fundraising, ensuring that we can continue to grow and support all members of the community.
+
 
 ## Subcommittee chairs
 
@@ -74,7 +63,7 @@ To Be Appointed.  David Bloom, Acting Treasurer.  (See Deputy Chair above.)
 
 **Ben Norton** - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
 
-<a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-5819-9134</a>
+<a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5819-9134</a>
 
 **Background**
 
@@ -97,9 +86,9 @@ I envision a more significant and strategic support role for TAG with a prioriti
 
 ### Fundraising and Partnerships
 
-**Patricia Mergen** - Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium
+**Patricia Mergen** - _Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium_
 
-<a href="https://orcid.org/0000-0003-2848-8231"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-2848-8231</a>
+<a href="https://orcid.org/0000-0003-2848-8231"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-2848-8231</a>
 
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
@@ -107,9 +96,9 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 ### Infrastructure
 
-**Tim Robertson** - Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark
+**Tim Robertson** - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
-<a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-6215-3617</a>
+<a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-6215-3617</a>
 
 **Background**
 
@@ -125,27 +114,43 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Outreach and Communications
 
-**Mareike Petersen** - Museum für Naturkunde, Berlin
+**Nicky Nicolson** - _Royal Botanic Gardens, Kew_ 
 
-<a href="https://orcid.org/0000-0001-8666-1931"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-8666-1931</a>
+<a href="https://orcid.org/0000-0003-3700-4884"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-3700-4884</a>
 
 **Background**
-
-For the past six years, I have been involved in various national and international research projects to improve access to and use of natural science collections. I am interested in advancing data linkage mechanisms and optimizing the management of research and collection data and its open access. I am a biologist by training with a scientific background in herpetology (amphibian ecology and taxonomy). At the Museum für Naturkunde Berlin (MfN), I work on the mobilization of content to subject-specific and cross-domain portals (e.g. GBIF or Europeana), open access to research data, and on the application and further development of data standards (e.g. in the context of TDWG). Recently, I am strongly involved in the multifaceted information management linked to the digitization project of MfNs’ collections and in the development and establishment of the European research infrastructure DiSSCo (e.g. leading Work package and tasks in DiSSCo Prepare, contributing to Synthesys+).
-
-In order to open up information from research processes and information about objects in research collections, to enrich it semantically, and to make it accessible for further use, I bridge the gap between the requirements of research, management of research collections, and the technical implementation by developers. Solving these tasks in an interdisciplinary team is often challenging, but at the same time, it enriches my daily work.
+: I worked for about fifteen years in a variety of software development roles at the Royal Botanic Gardens, Kew [1] helping researchers and curators manage and mobilise scientific information. Effectively this was a research software engineer role [2], it just predated the term. Ten years ago I switched from the technical track into research, where I completed a doctorate in machine learning, applying density based clustering to our digitised specimen data to identify collectors, expeditions and related specimens gathered from a shared collecting event [3]. I took software development practices with me - things like revision control, dependency management, build automation and continuous integration - to help manage the research process. My work was applied in the Global Biodiversity Information Facility (GBIF) data portal where it helps users navigate between related records [4]. Now I'm senior research leader in digital collections at Kew. We are nearing the end of our specimen digitisation project [5], and I'm interested in how we can use our digitised specimen data to build the "digital extended specimen", and how we do this in an open and inclusive way. I am developing a toolkit called "echinopscis: an extensible notebook for open science on specimens" [6], which was partly supported by Open Seeds [7], an open science mentoring and skills development programme.
+: I've been involved in TDWG throughout my career, and none of my work would have been possible without the data standards and the community of practice that TDWG has fostered.
 
 **Vision**
+: In the past couple of years I have started to work much more closely with the open science community. One crucial distinction that they emphasise is between initiatives which are "open by default" vs those which are "open by design" [8]. As the latter is more intentional, it ensures that participation information is made explicit via resources like roadmaps, contribution guidelines and codes of conduct, all of which help new people to become involved. I see these practices as small steps which we can encourage in TDWG affiliated projects to help grow the community and make it more inclusive.
 
-I am enthusiastic about TDWG complexity and member several Interest and Task Groups. Some of them are regularly crossing the border of biodiversity informatics and reach out to the managers and users of natural science collections. Outreach and communication thus being usual tasks for my work in TDWG.
+: I would like to help us build better links between our community and those who are working on software sustainability. In the UK, the software sustainability institute [9] was instrumental in getting the research software engineer job title recognised by funders; today there are RSE networks worldwide [10]. Many in the TDWG community perform RSE-like roles and integrating with these networks can help raise visibility for these roles with our funders. A similar effort is underway to ensure that roles which are focussed on data curation are recognised [11]. Building these links will help develop skills, build new collaborations and grow the community.
 
-As a chair of the subcommittee ‘Communications and Outreach’, I will work on a better visibility of TDWG, its standards and their application, importantly also beyond the biodiversity informatics and natural science domain. Together with the whole subcommittee, I will prepare new communication material and use innovative tools to transport TDWGs’ key messages and achievements to stakeholders and potential new user groups around the world. This will help us to reach out to new members, even in in current times, where travelling and meetings in person are limited or impossible at all.
+: Communication: Keeping in touch with TDWG members and reaching out to new ones is important, and social media has been a key communication tool. This is an evolving landscape, particularly as many step back from Twitter. I would like us to first refresh our LinkedIn profile [12], as many more people are using this platform, and then review potential use of other microblogging platforms like mastodon, bluesky and threads. We should use these channels to share details of relevant events and outputs throughout the year, as well as to promote our annual meeting. I would also encourage TDWG members to complete github profile pages [13] so that the full extent of our community is visible. As more of us are starting to work with artificial intelligence and machine learning, I'd also like to build a TDWG profile on HuggingFace [14], the community hub for sharing models, datasets and application prototypes.
+
+**References**
+1. Kew science: [https://www.kew.org/science](https://www.kew.org/science)  
+2. Are you a research software engineer? [https://society-rse.org/what-is-an-rse/](https://society-rse.org/what-is-an-rse/)  
+3. Automating the construction of higher order data representations from heterogeneous biodiversity datasets [https://bura.brunel.ac.uk/handle/2438/19620](https://bura.brunel.ac.uk/handle/2438/19620)  
+4. New data-clustering feature aims to improve data quality and reveal cross-dataset connections [https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections](https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections)  
+5. Kew specimen digitisation [https://www.kew.org/science/digitising-kews-collections](https://www.kew.org/science/digitising-kews-collections)  
+6. echinopscis: an extensible notebook for open science on specimens [https://echinopscis.github.io/](https://echinopscis.github.io/)  
+7. Open seeds: [https://we-are-ols.org/openseeds/](https://we-are-ols.org/openseeds/)  
+8. Mozilla open leaders initiative participant review (includes section on open by default vs open by design) [https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/](https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/)  
+9. Software Sustainability Institute: [https://www.software.ac.uk/](https://www.software.ac.uk/)  
+10. International RSE communities: [https://society-rse.org/international-rse-organisations/](https://society-rse.org/international-rse-organisations/)  
+11. People in Data: [https://www.turing.ac.uk/research/research-projects/people-data](https://www.turing.ac.uk/research/research-projects/people-data)  
+12. TDWG (LinkedIn): [https://www.linkedin.com/groups/993557/](https://www.linkedin.com/groups/993557/)  
+13. Managing your profile README: [https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)  
+14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
+
 
 ### Time and Place
 
 **Kristen "Kit" Lewers** - Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA.
 
-<a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-0526-4075</a>
+<a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-0526-4075</a>
 
 **Background**
 
@@ -165,48 +170,27 @@ My passion is interdisciplinary work and strong networks of collaboration to cre
 
 ### Africa Representative
 
-**Ian Englebrecht** - Natural Science Collections Facility, South Africa
-
-**Background**
-
-I am currently employed with the Natural Science Collections Facility (nscf.org.za) in a capacity to coordinate digitization of museum and herbarium collections in South Africa, as well as driving skills development for biodiversity informatics within this community. My primary training is as a conservation biologist and arachnologist. I have a special interest in taxonomy of scorpions and mygalomorph spiders, and completed my PhD in 2015 through the University of Pretoria. I have a long standing interest in information systems and how they support decision making and knowledge management, and studied programming part time early in my career. I have worked in museum institutions, government conservation agencies, and the private sector. I currently participate in the TDWG Technical Advisory Committee (TAC) meetings with an interest in APIs and identifiers. I especially enjoy developing software tools and utilities to aid with data management tasks, and teaching others to do the same.
-
-**Vision**
-
-My vision is a vibrant African specimen collections digitization and biodiversity informatics community that shares and publishes data willingly and openly. Skills and capacity development are in my view the most important priorities for achieving this vision. I see participation in TDWG events, as well as others such as the iDigBio events, as an essential part of this capacity development process, and would value the opportunity to play a role in broadening participation and interest in TDWG activities within the wider African community. I also hope that my experience and technical background would bring some value to the TDWG Executive Committee in achieving its goals and objectives.
+**TBA**
 
 ### Asia Representative 
-_(A single seat on the Executive Committee is shared by Barve and Nakazato.)_
 
-**Vijay Barve** - Natural History Museum of Los Angeles County, CA, USA
+**Daphne Z. Hoh** - _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
 
-<a href="https://orcid.org/0000-0002-4852-2567"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-4852-2567</a>
-
-**Background**
-
-I work as Digitization Project Manager for DigIn (Documenting Marine Biodiversity through Digitization of Invertebrate Collections). I got my master degree in Computer science from India and joined a non profit organization, contributing in Medicinal Plants Documentation and Conservation Issues. I developed interest in Biodiversity Informatics and joined a PhD program in Geography at University of Kansas. My doctoral research focused on Citizen’s contribution to Biodiversity data generation. After receiving my PhD, I worked with the Florida Museum of Natural History and Purdue University as a postdoctoral researcher, and continued to work on Biodiversity Informatics. My research interest is Citizen Science in Biodiversity and has several research publications on that theme. I have been coordinating several Citizen Science initiatives in India in the field of Biodiversity. I am recipient of the GBIF Young Researcher award during his doctoral research and two times member of the team receiving the GBIF Ebbe Nielsen Award. I have been training participants from several countries in Africa, Asia and the Americas in Biodiversity Informatics and have been mentoring students for Google Summer of Code. I have been part of the GBIF regional support team for Asia and have worked with several teams of biodiversity researchers to help publish data on GBIF. I am a contributor to Audubon Core Data standard and a member of the Program Committee for TDWG 2021 and 2022.
-
-**Vision**
-
-Biodiversity Informatics use and users in Asia are growing. GBIF data usage statistics shows Asian countries in the top ten, but the engagement of these researchers in the TDWG community is minimal. To fill this gap, we need to reach out to the community through appropriate forums and raise awareness regarding the data standards and practices TDWG is developing and promoting. I am working with several institutions and researchers in Asia and Africa already. Serving as Asia Representative would give me more opportunities to reach out to the community and engage them with TDWG. I would continue to help organize Asia and Global south focused symposia in upcoming TDWG conferences. 
-
-**Takeru Nakazato** - Database Center for Life Science, Mishima, Japan
-
-<a href="https://orcid.org/0000-0002-0706-2867"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-0706-2867</a>
+<a href="https://orcid.org/0000-0002-7810-1034"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-7810-1034</a>
 
 **Background**
-
-I work as a researcher at the Database Center for Life Science (DBCLS) in Japan. DBCLS is a sister institute of DNA Data Bank of Japan (DDBJ), the International Nucleotide Sequence Database Collaboration (INSDC) member. The mission of DBCLS is to increase the accessibility of data related to DNA sequences. We develop web services using Semantic Web techonology, create tutorial movies, and organize an annual hackathon. I am involved in the development of a search engine for public next-generation sequencing (NGS) data collected by INSDC. These data related to DNA sequences are becoming important in biodiversity, such as DNA barcoding and genome sequence, and I will contribute to the TDWG to the collaboration with these data. My original background was molecular biology. I earned my master's degree by studying physiology and molecular mechanisms of fishes that can live in both freshwater and seawater. I also obtained my Ph.D. in information science with the development of methods for interpreting a large amount of gene expression data from biological aspects. And I am also a citizen scientist. I collect, raise, and mount butterflies and beetles on my own. I am also deeply involved in the community to promote biodiversity informatics in Japan, working with researchers in bioinformatics and natural history museums.
+: I have been trained as a marine scientist since completing my BSc and PhD studies. My research focused on sea turtle conservation, with a specific emphasis on fungal infections in sea turtle eggs and sea turtle’s foraging ecology. My research has spanned various aspects of this issue, including pathogen genomics and pathogenicity, utilising high-throughput sequencing and bioinformatics methods. I co-founded TurtleSpot Taiwan, a citizen science initiative that collects sea turtle sightings to support local involvement in science. Recognising the significance of generating extensive primary biodiversity data through my work, this experience sparks my interest in biodiversity informatics. I have since then actively engaged in TDWG activities, serving as a Program Committee member for associated conferences and contributing as an open data ambassador, mentor, and trainer. For the past years, I have been a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), where my work focuses on evaluating biodiversity data gaps, mobilizing data, and building capacity for data use. Additionally, I contributed to translating critical materials on biodiversity data standards, such as Darwin Core terms and vocabularies, GBIF’s DNA publishing guidelines, and related course materials, from English to Chinese, making these resources more accessible to Chinese-speaking audiences.
 
 **Vision**
+: In some Asian countries, especially Taiwan, communities are making notable progress in biodiversity informatics. However, they often lack visibility and engagement at the international level, primarily due to language barriers. I see this challenge echoed across other Asian countries, where biodiversity informatics efforts are advancing locally but remain isolated from the global network of biodiversity information standards and practices. I believe that fostering connections and collaborations between the Asian community and the international community will stimulate new developments and ultimately enhance biodiversity informatics and conservation efforts on a global scale.
+: With broad collaboration experience in biodiversity research, data management, and capacity building, I am committed to bridging this gap. As a multilingual researcher, I have worked alongside national and international partners to promote biodiversity data standards and have seen firsthand the impact of shared resources and strong networks. As I prepare to transition from East Asia to Southeast Asia in the near future, I hope to connect communities across linguistic and regional boundaries, facilitating discussions and knowledge sharing within the TDWG community.
 
-The activities of TDWG are open to the world. Unfortunately, however, only a small number of participants from Asia attended the annual meeting in recent years. As TDWG Asia Representative, I will increase the number of people in Asia who are interested in TDWG's activities and enhance the presence of Asia's rich biodiversity. Currently, I specialize in bioinformatics and work to improve the accessibility of data related to DNA sequences. Bioinformatics and biodiversity informatics face the same challenges of standardization of data but have tried to solve them individually. By acting as a bridge between these, I will contribute to making it easier for researchers to approach life science data from various aspects. 
 
 ### Europe Representative
 
 **Laurence Livermore** - The Natural History Museum, London
 
-<a href="https://orcid.org/0000-0002-7341-1842"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0002-7341-1842</a>
+<a href="https://orcid.org/0000-0002-7341-1842"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-7341-1842</a>
 
 **Background**
 
@@ -226,31 +210,36 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### Latin America Representative
 
-(To Be Appointed.)
+**Juan Manuel Saez Hidalgo** - _Instituto de Ecologia y Biodiversidad (IEB), Chile_
+
+<a href="https://orcid.org/0000-0001-7991-0864"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7991-0864</a>
+
+**Background**
+: I am a Computer Science researcher at Chile's Institute of Ecology and Biodiversity (IEB). I manage and develop the Digital Herbarium, supporting biodiversity research by ensuring its digital assets are organized, accessible, and up-to-date. Additionally, I lead data analysis for various projects, utilizing my expertise to support decision-making in research grants and tenders.
+: The IEB aspires to be a world-class institute that conducts groundbreaking scientific research to support sustainable development in Chile. As part of this mission, the IEB operates as a training center, providing advanced education for undergraduate and postgraduate students and mentoring young researchers. While not all research can be published in scientific journals, the IEB remains committed to connecting science with the challenges facing the country's production industries and with public institutions responsible for environmental and biodiversity care.
+: I hold a Master's in Computer Science from the University of Chile, have two years of experience in ecology, and aspire to pursue a doctoral degree in Statistics at the Pontificia Universidad Católica de Chile. This doctorate aligns with my strong interest in data science and its application to biodiversity research.
+
+**Vision**
+: My vision is to serve as a representative within the Taxonomic Databases Working Group (TDWG), advocating for the inclusion of Latin America in TDWG’s global initiatives. I aim to contribute to a more inclusive and comprehensive approach to global biodiversity research and conservation by bridging regional expertise with international biodiversity data standards.
 
 ### North America Representative
 
-**Chandra Earl** - NEON Biorepository, Biodiversity Knowledge Integration Center, Arizona State University (residing in Honolulu, Hawaii)
+#### Erica Krimmel - _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
 
-<a href="https://orcid.org/0000-0001-9850-882X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-9850-882X</a>
+<a href="https://orcid.org/0000-0003-3192-0080"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-3192-0080</a>
 
 **Background**
-
-I currently work as the primary software developer and biodiversity informatician for the [NEON Biorepository](https://biorepo.neonscience.org/portal/), ensuring implementation of FAIR principles in data management, quality, integration and access of NEON sample data. I also hold a consultancy contract with UNESCO and OBIS as an eDNA scientific officer working on a citizen-science project which aims to determine the richness of fish species across 25 World Heritage Sites using a metabarcoding approach. Previously, I held the Joshua M. Copus Memorial Fellowship at the Bernice Pauahi Bishop Museum in Honolulu, Hawai‘i, where I worked closely with informaticians, collection managers, researchers and students across six major research museums to digitize, enhance, and mobilize specimen information for endangered Hawaiian species.
-
-I recieved my graduate degree in Genetics & Genomics from the Univerity of Florida, where my dissertation research focused on building tools for "big data" biodiversity analyses, specifically genomics, machine learning and diversification metrices. Part of this work was in collaboration with the Data Science Lab at the Smithsonian. Due to this, I maintain an ongoing Research Affiliation with the Florida Museum of Natural History.
-
-The theme of my personal research is focused on large-scale biodiversity data and analyses using natural history collections and as such I have broad experiences with developing pipelines for phylogenetics, bioinformatics, machine learning, geographic modelling, and digitized specimen mobilization. I enjoy collaborating with others on their personal research projects and have contributed to various biodiversity initiatives spanning across taxonomic scales, including insects, mollusks, plants, mammals and fish. One day I'll get to birds and herps...maybe. 
+: I am an information scientist (MLIS) whose expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data. Since 2006, I have worked in and around natural history collections–during my undergraduate education, at a research field station, at nonprofit museums, in the context of a national resource (iDigBio), and now as a freelance consultant. My driving goal is to make biodiversity data of all scales FAIR and fit-for-use in applied contexts from academic research to public policy. I have been a member of the TDWG community since 2017, when I began helping produce the Darwin Core Hour series. Since then, I regularly attend and present at annual meetings, participate in standards development processes, and benefit from the essential framework that TDWG provides for biodiversity data mobilization.
 
 **Vision**
+: In order to succeed, TDWG needs individual buy-in on data standards from many, many people with diverse experience and priorities. My technical background in information architecture, data management, data standards, and data processing is complemented by a human-centered design perspective. As the Regional Representative for North America, I would bring this perspective to my work with TDWG and hope to promote TDWG in ways that make it easy for people to adopt and implement standards. Beyond standards, TDWG provides a unique interdisciplinary space for community knowledge sharing and coordination. I want to be a part of cultivating this space and lowering barriers to participation.
 
-I aim to continue advancing my expertise at the intersection of biodiversity, data science and genetics by engaging in collaborative and interdisciplinary research. This involves both utilizing and developing computational methods and tools to explore, integrate and visualize collections data to help address biological hypotheses. Additionally, I aspire to play an active role in shaping the future of biological data science by mentoring students and advocating for FAIR data practices across TDWG and the biodiversity informatics community.
 
 ### Oceania Representative
 
 **Shelley James** - Western Australian Herbarium, Perth, Australia
 
-<a href="https://orcid.org/0000-0003-1105-1850"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0003-1105-1850</a>
+<a href="https://orcid.org/0000-0003-1105-1850"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-1105-1850</a>
 
 **Background**
 
