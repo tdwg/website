@@ -53,7 +53,7 @@ Region | Name | Affiliation | Term of office
 Africa | TBA |  | 2025-2026
 Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
 Europe | [Laurence Livermore](./backgrounds/#europe-representative) [&#128231;](mailto:laurence.livermore@nhm.ac.uk) | Natural History Museum, London, England | 2025-2026
-Latin America | Juan Miguel Saez Hidalgo  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
+Latin America | [Juan Miguel Saez Hidalgo](https://www.tdwg.org/about/executive/backgrounds/#latin-america-representative)  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
 North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:chandra.earl@asu.edu) | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
 Oceania | [Shelley James](./backgrounds/#oceania-representative) [&#128231;](mailto:shelley.james@dbca.wa.gov.au) | Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions | 2024-2025
 
