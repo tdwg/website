@@ -1,7 +1,7 @@
 ---
-title: Executive Committee 2023
+title: Executive Committee 2024
 description: >
-  Members of the TDWG [Executive Committee](/about/executive/) for the 2023 calendar year.
+  Members of the TDWG [Executive Committee](/about/executive/) for the 2024 calendar year.
 background:
   img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
   by: Tim Graf
