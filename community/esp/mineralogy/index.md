@@ -6,6 +6,7 @@ background:
   img: https://images.unsplash.com/photo-1628977605568-c3fe759c655c
   by: Brian Wangenheim
   href: https://unsplash.com/photos/v0oOFQ6M7j8
+github: https://github.com/tdwg/mineralogy
 toc: true
 ---
 
@@ -93,3 +94,4 @@ To extend the scope of the TDWG community beyond biology and biological-related 
 - Strunz, H. Nickel, E.H. (2001) Strunz mineralogical tables: Chemical structural mineral classification system. 9th Edition. Stuttgart: Schweizerbart.
 - Petersen, M., Glöckler, F., Kiessling, W., Döring, M., Fichtmüller, D., Laphakorn, L., Baltruschat, B. & Hoffmann, J. (2018). History and development of ABCDEFG: a data standard for geosciences. Fossil Record, 21(1), 47-53. <https://doi.org/10.5194/fr-21-47-2018>
 - SKOS Simple Knowledge Organization System Reference. <https://www.w3.org/TR/skos-reference/> W3C Recommendation 18 August 2009.
+- [GitHub repository](https://github.com/tdwg/mineralogy)
