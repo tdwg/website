@@ -4,6 +4,7 @@ background:
   img: https://images.unsplash.com/photo-1580407196238-dac33f57c410
   by: Wolfgang Hasselman
   href: https://unsplash.com/photos/6JZJyHXQ-p0
+github: https://github.com/tdwg/mids
 toc: true
 ---
 
@@ -95,3 +96,4 @@ Biodiversity Data Quality: (BDQ IG): MIDS recognises the importance of both qual
 - Hardisty, A., Addink, W., Dillen, M., Groom, Q., Haston, E., et al. [(*Draft*) Minimum Information about a Digital Specimen (MIDS) v0.11, July 2020](https://github.com/tdwg/mids/blob/working-draft/old-drafts/MIDS-definition-v0.11-21July2020.md). _Draft text of a specification._
 - Borsch, T., Stevens, A.-D., Häffner, E., Güntsch, A., Berendsohn, W.G., et al. (2020): A complete digitization of German herbaria is possible, sensible and should be started now. [Research Ideas and Outcomes 6: e50675](https://doi.org/10.3897/rio.6.e50675).
 - MISC 2012. iDigBio MISC Data Element Catalog ([Phase 1, V0, rev. 15 December 2012](https://www.idigbio.org/wiki/images/c/c9/Phase\_I\_Report.pdf)).
+- [MIDS GitHub repository](https://github.com/tdwg/mids)
