@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    TDWG to meet in 2025 with GEO BON, GBIF, and OBIS, in Bogotá. Propose a session. Deadline 12 Feb. 
+    TDWG will meet 21-24 October 2025 in Bogotá in a joint conference with GEO-BON, GBIF, and OBIS. Propose a session! Deadline 12 Feb. 
   href: https://www.livingdata2025.com/calls.html
   img: https://static.tdwg.org/conferences/2025/living-data-call-for-sessions.png
 ---
