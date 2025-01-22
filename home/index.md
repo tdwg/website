@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Call for Executive Committee nominations closes 15 November.
-  href: /news/2024/call-for-nominations/
-  img: https://c2.staticflickr.com/4/3910/14751852622_79ee28fae7_b.jpg
+    TDWG to meet in 2025 with GEO BON, GBIF, and OBIS, in Bogotá. Propose a session. Deadline 12 Feb. 
+  href: https://www.livingdata2025.com/calls.html
+  img: https://static.tdwg.org/conferences/2025/living-data-call-for-sessions.png
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
