@@ -10,7 +10,7 @@ toc: true
 
 ## Chair
 
-**David Bloom** - VertNet, Berkeley, CA 
+**David Bloom** - _VertNet, Berkeley, CA, USA_
 
 <a href="https://orcid.org/0000-0003-1273-1807"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-1273-1807</a>
 
@@ -61,7 +61,7 @@ As a professional (and a not-so professional) I have devoted my time and effort 
 {:id="tag"}
 ### Technical Architecture Group
 
-**Ben Norton** - Ecosystem, Planning, and Restoration; Raleigh, NC, USA
+**Ben Norton** - _Ecosystem, Planning, and Restoration; Raleigh, NC, USA_
 
 <a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5819-9134</a>
 
@@ -114,7 +114,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Outreach and Communications
 
-**Nicky Nicolson** - _Royal Botanic Gardens, Kew_ 
+**Nicky Nicolson** - _Royal Botanic Gardens, Kew, Richmond, UK_ 
 
 <a href="https://orcid.org/0000-0003-3700-4884"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-3700-4884</a>
 
@@ -148,7 +148,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Time and Place
 
-**Kristen "Kit" Lewers** - Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA.
+**Kristen "Kit" Lewers** - _Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA_
 
 <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-0526-4075</a>
 
@@ -188,7 +188,7 @@ My passion is interdisciplinary work and strong networks of collaboration to cre
 
 ### Europe Representative
 
-**Laurence Livermore** - The Natural History Museum, London
+**Laurence Livermore** - _The Natural History Museum, London, UK_
 
 <a href="https://orcid.org/0000-0002-7341-1842"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-7341-1842</a>
 
@@ -224,7 +224,7 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### North America Representative
 
-#### Erica Krimmel - _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
+**Erica Krimmel** - _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
 
 <a href="https://orcid.org/0000-0003-3192-0080"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-3192-0080</a>
 
@@ -237,12 +237,11 @@ I am keen to promote wider participation in SPNHC and will ensure TDWG's work is
 
 ### Oceania Representative
 
-**Shelley James** - Western Australian Herbarium, Perth, Australia
+**Shelley James** - _Western Australian Herbarium, Perth, Australia_
 
 <a href="https://orcid.org/0000-0003-1105-1850"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-1105-1850</a>
 
 **Background**
 
 Dr. Shelley James is the Collections Manager of the Western Australian Herbarium, based in Kensington, Western Australia. She has been acting as the Regional Representative for Oceania for the past six months, and is part of the TDWG 2021 Program Committee. Shelley has been assisting with the planning for the TDWG 2024 meeting in her position as Member at Large on the Society for the Preservation of Natural History Collections (SPNHC) Council, and looks forward to continuing to help with planning. Shelley has been an active participant and member of TDWG for more than 10 years. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities. With her experience working in Australasia, Melanesia and the Pacific, she is well placed to communicate the biodiversity data standards activities being undertaken across the globe as the TDWG Oceania Regional Representative.
-
 
