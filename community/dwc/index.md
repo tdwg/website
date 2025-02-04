@@ -11,9 +11,11 @@ github: https://github.com/tdwg/dwc
 toc: true
 list:
 - label: TG
-  href: /community/dwc/phenology/
+  href: /community/dwc/invasive-species/
 - label: TG
-  href: /community/dwc/sensitive-species/
+  href: /community/dwc/invasive-species/
+- label: TG
+  href: /community/dwc/phenology/
 ---
 
 ## Convener
