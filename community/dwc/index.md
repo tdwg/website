@@ -13,9 +13,11 @@ list:
 - label: TG
   href: /community/dwc/invasive-species/
 - label: TG
-  href: /community/dwc/invasive-species/
-- label: TG
   href: /community/dwc/phenology/
+- label: TG
+  href: /community/dwc/sensitive-species/
+- label: TG
+  href: /community/dwc/realm-and-biome/
 ---
 
 ## Convener
