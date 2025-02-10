@@ -55,11 +55,13 @@ list:
   href: /community/dwc/
   menu:
   - label: TG
+    href: /community/dwc/invasive-species/
+  - label: TG
     href: /community/dwc/phenology/
   - label: TG
-    href: /community/dwc/sensitive-species/
+    href: /community/dwc/realm-and-biome/
   - label: TG
-    href: /community/dwc/invasive-species/
+    href: /community/dwc/sensitive-species/
 - label: IG
   href: /community/esp/
   menu:
