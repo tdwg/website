@@ -1,4 +1,5 @@
 ---
+layout: list
 title: Geographical Schemes
 description: >
   This interest group is coordinating the development of a geographical scheme, including standard names, abbreviations, and boundaries, that is practically useful for managing occurrence data and species distributions.
