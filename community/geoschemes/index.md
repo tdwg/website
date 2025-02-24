@@ -110,3 +110,5 @@ Interest group members should also “watch” the [new] repository in GitHub. (
 - Hollis, S. & R.K. Brummitt. 1992. World Geographical Scheme for Recording Plant Distributions. TDWG Standard no2. Pittsburgh (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University.
 
 ## Task Groups
+
+<!-- list will be inserted below content -->
