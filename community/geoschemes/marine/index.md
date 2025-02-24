@@ -3,8 +3,9 @@ title: Marine Geo Schemes Task Group
 description: >
   This interest group is coordinating the development of a geoscheme for marine regions, including standard names, abbreviations, and boundaries, that is practically useful for managing occurrence data and species distributions.
 background:
-  img: https://plus.unsplash.com/premium_photo-1712509212206-ab4e7b3bb593
-  by: Unsplash Community
+  img: https://plus.unsplash.com/premium_photo-1712328581821-96e73fbf6733
+  by: Hartono Creative Studio
+  href: https://unsplash.com/photos/rhrfVj74Asc
 github: https://github.com/tdwg/geoschemes
 toc: true
 ---
