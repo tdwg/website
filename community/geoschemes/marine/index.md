@@ -32,11 +32,12 @@ Therefore, like for the terrestrial system, we believe that a set of marine geou
 
 ## Strategy
 
-Within the sphere of the GeoSchemes interest group, a proposal for a worldwide coverage of the World Ocean has been produced for level 4 and is ready to be presented for feedback on [https://github.com/tdwg/geoschemes/tree/main/marine](https://github.com/tdwg/geoschemes/tree/main/terrestrial). Shapefiles are available for all proposed units and were derived from the Flanders Marine Institute (2019). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 11, available online at https://www.marineregions.org/. https://doi.org/10.14284/386. The expected chronogram includes having this proposal subject to feedback from any interested parties during at least one year, before being formally submitted.   
-   
-Goals, Outputs and Outcomes   
+Within the sphere of the GeoSchemes interest group, a proposal for a worldwide coverage of the World Ocean has been produced for level 4 and is ready to be presented for feedback on [https://github.com/tdwg/geoschemes/tree/main/marine](https://github.com/tdwg/geoschemes/tree/main/terrestrial). Shapefiles are available for all proposed units and were derived from the Flanders Marine Institute (2019). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 11, available online at https://www.marineregions.org/  (https://doi.org/10.14284/386). The expected chronogram includes having this proposal subject to feedback from any interested parties during at least one year, before being formally submitted.   
 
-The final proposal should be submitted as a standard documentation in SDS form, as TDWG procedure requires. Standard abbreviations for proposed geounits are to be produced. In addition to the GitHub repository, the complete set of geounits should be hosted on the Marine Regions website and thereby provide the needed tool for display of distributions in the World Register of Marine Species \< https://www.marinespecies.org/\>  
+## Goals, Outputs and Outcomes   
+
+The final proposal should be submitted as a standard documentation in SDS form, as TDWG procedure requires. Standard abbreviations for proposed geounits are to be produced. In addition to the GitHub repository, the complete set of geounits should be hosted on the Marine Regions website and thereby provide the needed tool for display of distributions in the [World Register of Marine Species](https://www.marinespecies.org/).
+
 It is also planned to provide ancillary materials supporting the proposal, including shapefiles and kml files (which are not to be part of the proposed standard) and relevant literature.  
  
 
@@ -49,6 +50,5 @@ The task group intends to conduct written exchanges via the TDWG workspace in Sl
 
 * Brummitt, R.K., Pando, F., Hollis, S., Brummitt, N.A. (2001). World geographical scheme for recording plant distributions. Edit. 2\. TDWG Standard no2. Pittsburg (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University. [https://web.archive.org/web/20160125135239/http://www.nhm.ac.uk/hosted\_sites/tdwg/TDWG\_geo2.pdf](https://web.archive.org/web/20160125135239/http://www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf)  
 * Hollis, S. & R.K. Brummitt. 1992\. World Geographical Scheme for Recording Plant Distributions. TDWG Standard no2. Pittsburgh (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University.  
-* Spalding, M. D., Fox, H. E., Allen, G. R., Davidson, N., Ferdaña, Z. A., Finlayson, M. A. X., ... Robertson, J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience, 57, 573-583. Available from \<https://doi.org/10.1641/B570707\>  
-* Watling, L., Guinotte, J., Clark, M. R., & Smith, C. R. (2013). A proposed biogeography of the deep ocean floor. Progress in Oceanography, 111:, 91-112. Available from \<[https://doi.org/10.1016/j.pocean.2012.11.003](https://doi.org/10.1016/j.pocean.2012.11.003)\>
-
+* Spalding, M. D., Fox, H. E., Allen, G. R., Davidson, N., Ferdaña, Z. A., Finlayson, M. A. X., ... Robertson, J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience, 57, 573-583. Available from https://doi.org/10.1641/B570707  
+* Watling, L., Guinotte, J., Clark, M. R., & Smith, C. R. (2013). A proposed biogeography of the deep ocean floor. Progress in Oceanography, 111:, 91-112. Available from [https://doi.org/10.1016/j.pocean.2012.11.003](https://doi.org/10.1016/j.pocean.2012.11.003)
