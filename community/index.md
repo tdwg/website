@@ -80,6 +80,10 @@ list:
     href: /community/gbwg/mixs/
 - label: IG
   href: /community/geoschemes/
+  - label: TG
+    href: /community/geoschemes/marine/
+  - label: TG
+    hreg: /community/geoschemes/terrestrial/
 - label: IG
   href: /community/mobs/
 - label: IG
