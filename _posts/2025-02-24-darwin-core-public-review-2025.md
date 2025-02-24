@@ -7,10 +7,11 @@ background:
   by: Fernando Venzano
   href: https://unsplash.com/photos/VMpIew0mHlo
 tags: [standards, public review, Darwin Core]
-toc: true
 ---
 
-The members of the Darwin Core Maintenance Group would like to announce the opening of a minimum 30-day period for public review for the accumulated set of proposed changes to Darwin Core.
+## Call for comments on proposed changes (maintenance) to [Darwin Core](https://dwc.tdwg.org)
+
+The members of the [Darwin Core Maintenance Group](/community/dwc/) would like to announce the opening of a minimum 30-day period for public review for the accumulated set of proposed changes to Darwin Core.
 
 Please refer to the documentation we have provided on the review process and the maintenance of the Darwin Core standard in general at [https://github.com/tdwg/dwc/wiki/Darwin-Core-Maintenance-Frequently-Asked-Questions](https://github.com/tdwg/dwc/wiki/Darwin-Core-Maintenance-Frequently-Asked-Questions).
 
@@ -21,6 +22,8 @@ Your comments are welcome and important for the evolution of the Darwin Core sta
 Thank you,
 
 The Darwin Core Maintenance Team
+
+## Pending proposals to add, modify, or deprecate Darwin Core terms
 
 | Category | Term | Issue | Action | Nature |
 | :---- | :---- | :---- | :---- | :---- |
