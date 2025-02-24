@@ -8,6 +8,11 @@ background:
   href: https://unsplash.com/photos/rXj2M7xtdB8
 github: https://github.com/tdwg/geoschemes
 toc: true
+list:
+- label: TG
+  href: /community/geoschemes/marine/
+- label: TG
+  href: /community/geoschemes/terrestrial/
 ---
 
 ## Convenors
@@ -103,3 +108,5 @@ Interest group members should also “watch” the [new] repository in GitHub. (
 
 - Brummitt, R.K., Pando, F., Hollis, S., Brummitt, N.A. (2001). World geographical scheme for recording plant distributions. Edit. 2. TDWG Standard no2. Pittsburg (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University. <https://web.archive.org/web/20160125135239/http://www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf>
 - Hollis, S. & R.K. Brummitt. 1992. World Geographical Scheme for Recording Plant Distributions. TDWG Standard no2. Pittsburgh (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University.
+
+## Task Groups
