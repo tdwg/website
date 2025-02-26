@@ -12,7 +12,7 @@ featured: # description, href, img
   description: >
     Public review of proposed changes to Darwin Core now open until at least 25 March.
   href: /news/2025/darwin-core-public-review-2025/
-  img: https://unsplash.com/photos/VMpIew0mHlo
+  img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
