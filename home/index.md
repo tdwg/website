@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    TDWG will meet 21-24 October 2025 in Bogotá in a joint conference with GEO-BON, GBIF, and OBIS. The call for abstracts will come in early April. 
-  href: https://www.livingdata2025.com/index.html
-  img: https://static.tdwg.org/conferences/2025/ld-2025-logo.png
+    Public review of proposed changes to Darwin Core now open until at least 25 March.
+  href: /news/2025/darwin-core-public-review-2025/
+  img: https://unsplash.com/photos/VMpIew0mHlo
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
