@@ -16,7 +16,6 @@ toc: true
 * Nicolas Bailly \- FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver, Canada  
 * Serge Gofas \- Universidad de Málaga, Málaga, Spain  
 * Britt Lonneville \- Marine Regions, Flanders Marine Institute, Oostende, Belgium  
-* Lennert Schepers \- Marine Regions, Flanders Marine Institute, Oostende, Belgium
 
 
 ## Core members
