@@ -11,6 +11,10 @@ tags: [standards, public review, Darwin Core]
 
 ## When: Tuesday, March 11th from 3:00pm - 4:00pm Eastern
 
+See time in [your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?p1=1440&iso=20250311T19&msg=Community%20help%20desk%20for%20Darwin%20Core%20public%20review&ah=1&sort=1).
+
+[Add to calendar](https://www.timeanddate.com/scripts/ics.php?type=utc&p1=1440&iso=20250311T19&ah=1&msg=Community%20help%20desk%20for%20Darwin%20Core%20public%20review).
+
 ## What: Community help desk for Darwin Core public review
 
 Are you curious about the current Darwin Core public review period but not sure how to engage? Meaning to think about it but need time on the calendar to make it happen? Not certain how to interpret all of the documentation and discussion? Join us for an informal help desk session dedicated to orienting new participants and answering questions. We will begin with a 10-minute overview of the TDWG public review process, followed by open discussion and Q&A. Discover what changes are being suggested, what new terms are being proposed, and how you can share your thoughts!
