@@ -6,7 +6,7 @@ background:
   img: https://images.unsplash.com/photo-1580380853761-76b20197ef99
   by: USGS
   href: https://unsplash.com/photos/rXj2M7xtdB8
-github: 
+github: https://github.com/tdwg/dwc-realm-biome-tg
 toc: true
 ---
 
@@ -49,7 +49,7 @@ The main goal of the task group will be to propose another new term, *realm*, to
 
 ## Strategy
 
-The task group deliverables will be maintained in a GitHub repository and communication will be conducted via email. The task group will work closely with the Darwin Core Maintenance Group and the Genomics Standards Consortium to coordinate changes that may affect both standards.  
+The task group deliverables will be maintained in a [GitHub repository](https://github.com/tdwg/dwc-realm-biome-tg) and communication will be conducted via [email](https://lists.tdwg.org/postorius/lists/dwc-realm-biome.lists.tdwg.org/). The task group will work closely with the Darwin Core Maintenance Group and the Genomics Standards Consortium to coordinate changes that may affect both standards.  
 
 ## Becoming Involved
 
@@ -58,9 +58,9 @@ Motivated individuals with the following skills and knowledge are encouraged to 
   - Data users who can help scope the need for specific values in the proposed terms - Specialists with an ecology background 
   - Individuals with knowledge of potential resources that can support the development of a controlled vocabulary for the terms 
 
-Individuals interested in contributing to the task group should contact the convenor and are invited to participate in the GitHub repository for the task group. 
+Individuals interested in contributing to the task group should contact the convenor and are invited to participate in the [GitHub repository](https://github.com/tdwg/dwc-realm-biome-tg) for the task group. 
 
-Please join the mailing list to contact the group \[link to mail list\]. 
+Please join the [mailing list](https://lists.tdwg.org/postorius/lists/dwc-realm-biome.lists.tdwg.org/) to receive news about the task group work. 
 
 ## History/Context
 
