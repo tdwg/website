@@ -9,9 +9,9 @@ background:
 tags: [standards, public review, Darwin Core]
 ---
 
-## When: Tuesday, March 11th from 3:00pm - 4:00pm Eastern
+## When: Tuesday, March 11th from 3:00pm - 4:00pm EST (UTC-4)
 
-[**Recorded presentation**](https://youtu.be/--4mmMxpCAM?si=3ebRn0cb74GkBYX0) and first few comments (13 mins). 
+This event has already happened.  Watch the [**recorded presentation**](https://youtu.be/--4mmMxpCAM?si=3ebRn0cb74GkBYX0) and first few comments (13 mins). 
 
 _\[Most of the discussion was not recorded to encourage anyone new to TDWG to ask questions.\]_
 
