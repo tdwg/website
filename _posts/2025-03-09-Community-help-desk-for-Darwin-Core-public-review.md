@@ -19,9 +19,7 @@ _\[Most of the discussion was not recorded to encourage anyone new to TDWG to as
 
 Are you curious about the current Darwin Core public review period but not sure how to engage? Meaning to think about it but need time on the calendar to make it happen? Not certain how to interpret all of the documentation and discussion? Join us for an informal help desk session dedicated to orienting new participants and answering questions. We will begin with a 10-minute overview of the TDWG public review process, followed by open discussion and Q&A. Discover what changes are being suggested, what new terms are being proposed, and how you can share your thoughts!
 
-## How: [Register here](https://us06web.zoom.us/meeting/register/GYBJUs8MTFqxfTHOs6Wabw)—in advance or last minute—to receive a Zoom link. Feel free to drop in/out during the hour.
-
-This event will be hosted by: 
+## This event was hosted by: 
 
 + @Erica Krimmel - TDWG Regional Representative for North America and 
 + @Deb Paul - Biodiversity Informatics Liaison/Species File Group, past TDWG Chair 2021-2022.
