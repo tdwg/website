@@ -13,15 +13,15 @@ toc: true
 A Task Group of [Technical Architecture Group (TAG)](/about/committees/tag/)
 
 ## 1. Convenor
-* David Fichtmueller (d.fichtmueller@bgbm.org)
+* [David Fichtmueller](mailto:d.fichtmueller@bgbm.org)
+* [Holly Little](mailto:littleh@si.edu)
+* [Ben Norton](mailto:michaelnorton.ben@gmail.com)
 
 
 ## 2. Core Members
 
-* Holly Little
 * Jutta Buschbom
 * Jason Best
-* Ben Norton
 * Kit Lewers
 * Stan Blum
 * Sam Leeflang
