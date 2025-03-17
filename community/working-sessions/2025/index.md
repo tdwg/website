@@ -1,0 +1,34 @@
+---
+title: Working Sessions 2025
+background:
+  img: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
+  by: Helloquence
+  href: https://unsplash.com/photos/5fNmWej4tAA
+toc: false
+---
+
+## Working sessions for interest, task, and maintenance groups in 2025
+
+
+
+| Interest/Task Group | East/West | Date | Time (UTC) | Local Time |
+| ------------------- | --------- | ---- | ---- | ---------- |
+| ABCD |  | 2025-04-17 | 17:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ABCD&iso=20250417T1730) |
+| Data Quality TG 2 |  | 2025-04-14 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data%20Quality%20TG%202&iso=20250414T2100) |
+| Darwin Core MG |  | 2025-04-15 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin%20Core%20MG&iso=20250415T1500) |
+| Earth Sciences Paleo IG |  | 2025-04-22 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Earth%20Sciences%20Paleo%20IG&iso=20250422T1500) |
+| Geoschemes TG |  | 2025-04-17 | 20:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Geoschemes%20TG&iso=20250417T2000) |
+| Invasive Alien Species | West | 2025-04-14 | 20:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive%20Alien%20Species&iso=20250414T2000) |
+| Invasive Alien Species | East | 2025-04-15 | 7:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive%20Alien%20Species&iso=20250415T700) |
+| Latimer Core | East | 2025-04-25 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T1400) |
+| Latimer Core | West | 2025-04-25 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T2100) |
+| Machine Obs IG |  | 2025-04-16 | 11:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Machine%20Obs%20IG&iso=20250416T1130) |
+| Mineralogy Ext | East | 2025-04-22 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T1300) |
+| Mineralogy Ext | West | 2025-04-22 | 22:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T2200) |
+| Minimum Infor Dig Specimens (MIDS) |  | 2025-04-17 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum%20Infor%20Dig%20Specimens%20%28MIDS%29&iso=20250417T1500) |
+| Modelling Research Expeditions TG |  | 2025-04-24 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Modelling%20Research%20Expeditions%20TG&iso=20250424T1500) |
+| Standards Mapping TG |  | 2025-04-22 | 16:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Standards%20Mapping%20TG&iso=20250422T1630) |
+| Taxon Concept Standard | East | 2025-04-16 | 10:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon%20Concept%20Standard&iso=20250416T1000) |
+| Taxon Concept Standard | West | 2025-04-17 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon%20Concept%20Standard&iso=20250417T2100) |
+| Technical Architecture Group | East | 2025-04-16 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Technical%20Architecture%20Group&iso=20250416T1500) |
+| Technical Architecture Group | West | 2025-04-16 | 22:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Technical%20Architecture%20Group&iso=20250416T2200) |
