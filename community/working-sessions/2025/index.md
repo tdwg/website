@@ -19,10 +19,10 @@ toc: false
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://static.tdwg.org/images/sessions/2025/week-1.png" target="_blank">
-    <img src="https://static.tdwg.org/images/sessions/2025/week-1-thm.png" alt="Working Sessions week 1" width="500">
+    <img src="https://static.tdwg.org/images/sessions/2025/week-1-thm.png" alt="Working Sessions week 1" width="500" style="padding: 3px">
   </a>
   <a href="https://static.tdwg.org/images/sessions/2025/week-2.png" target="_blank">
-    <img src="https://static.tdwg.org/images/sessions/2025/week-2-thm.png" alt="Working Sessions week 2" width="500">
+    <img src="https://static.tdwg.org/images/sessions/2025/week-2-thm.png" alt="Working Sessions week 2" width="500" style="padding: 3px">
   </a>
 </p>
 
