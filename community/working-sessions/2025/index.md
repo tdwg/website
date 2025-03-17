@@ -7,7 +7,22 @@ background:
 toc: false
 ---
 
-## Working sessions for interest, task, and maintenance groups in 2025
+## Virtual working sessions for interest, task, and maintenance groups
+
+Interest and task groups are the driving force in developing and maintaining TDWG standards for biodiversity data.  The TDWG community is dynamic; every year new people become aware of TDWG's work, while others move on.  Our virtual working sessions will be held on Zoom and are an opportunity to:
+
+- inform the wider TDWG community about the group's work;
+- review progress to date;
+- engage new contributors; and
+- set the agenda for this year's work.
+
+The TDWG community spans the globe, so it's difficult to reach everyone at a reasonable hour.  Some groups have opted to hold their session twice to reach the East or West hemispheres at a convenient time. We hope all sessions to be recorded and posted on the TDWG's YouTube channel.
+
+## Schedule and registration
+
+Click the images below to see the an overview of our schedule of sessions.  Then see the list below to verify the date and time of any session in your local time.
+
+Links to **register** for indvidual Zoom sessions will be posted soon.
 
 
 <table style="width:100%">
@@ -36,9 +51,9 @@ toc: false
 | Earth Sciences Paleo IG |  | 2025-04-22 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Earth%20Sciences%20Paleo%20IG&iso=20250422T1500) |
 | Geoschemes TG |  | 2025-04-17 | 20:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Geoschemes%20TG&iso=20250417T2000) |
 | Invasive Alien Species | West | 2025-04-14 | 20:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive%20Alien%20Species&iso=20250414T2000) |
-| Invasive Alien Species | East | 2025-04-15 | 7:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive%20Alien%20Species&iso=20250415T700) |
+|  | East | 2025-04-15 | 7:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive%20Alien%20Species&iso=20250415T700) |
 | Latimer Core | East | 2025-04-25 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T1400) |
-| Latimer Core | West | 2025-04-25 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T2100) |
+|  | West | 2025-04-25 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T2100) |
 | Machine Obs IG |  | 2025-04-16 | 11:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Machine%20Obs%20IG&iso=20250416T1130) |
 | Mineralogy Ext | East | 2025-04-22 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T1300) |
 | Mineralogy Ext | West | 2025-04-22 | 22:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T2200) |
