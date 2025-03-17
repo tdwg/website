@@ -10,7 +10,7 @@ toc: false
 ## Working sessions for interest, task, and maintenance groups in 2025
 
 
-<table width="100%">
+<table style="width:100%">
   <tr>
     <td align="center">Week 1, Apr 14-17</td>
     <td align="center">Week 2, Apr 22-25</td>
