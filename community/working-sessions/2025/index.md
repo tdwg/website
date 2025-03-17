@@ -10,7 +10,12 @@ toc: false
 ## Working sessions for interest, task, and maintenance groups in 2025
 
 
-
+<table width="100%">
+  <tr>
+    <td align="center">Week 1, Apr 14-17</td>
+    <td align="center">Week 2, Apr 22-25</td>
+  </tr>
+</table>
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://static.tdwg.org/images/sessions/2025/week-1.png" target="_blank">
