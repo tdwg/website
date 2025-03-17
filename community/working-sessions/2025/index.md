@@ -11,6 +11,18 @@ toc: false
 
 
 
+
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://static.tdwg.org/images/sessions/2025/week-1.png" target="_blank">
+    <img src="https://static.tdwg.org/images/sessions/2025/week-1-thm.png" alt="Working Sessions week 1" width="500">
+  </a>
+  <a href="https://static.tdwg.org/images/sessions/2025/week-2.png" target="_blank">
+    <img src="https://static.tdwg.org/images/sessions/2025/week-2-thm.png" alt="Working Sessions week 2" width="500">
+  </a>
+</p>
+
+
+
 | Interest/Task Group | East/West | Date | Time (UTC) | Local Time |
 | ------------------- | --------- | ---- | ---- | ---------- |
 | ABCD |  | 2025-04-17 | 17:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ABCD&iso=20250417T1730) |
