@@ -12,22 +12,24 @@ list:
 
 ## Convener
 
-- Niels Klazenga – Royal Botanic Gardens Victoria / Atlas of Living Australia
+- Niels Klazenga – Royal Botanic Gardens Victoria / Atlas of Living Australia, Australia
 
 ## Core members
 
-- Steve Baskauf – Vanderbilt University Heard Libraries
-- Stan Blum – TDWG
-- Markus Döring – GBIF
-- Nico Franz – Arizona State University
-- Anne Fuchs – Centre for Australian National Biodiversity Research
-- Jeff Gerbracht – Cornell Laboratory of Ornithology
-- Johan Liljeblad – SLU Swedish Species Information Centre
-- Richard Pyle – Bishop Museum
-- Jonathan Rees – independent
-- William Ulate – Missouri Botanical Garden
-- Campbell Webb – University of Alaska Museum of the North
-- Greg Whitbread – Taxamatics
+- Vijay Barve - Natural History Museum, Los Angeles County, USA
+- Steve Baskauf – Vanderbilt University Heard Libraries, USA
+- Stan Blum – TDWG, USA
+- Thierry Bourgoin - Muséum national de l'Histoire naturelle, France
+- Markus Döring – Global Biodiversity Information Facility, Germany
+- Nico Franz – Arizona State University, USA
+- Anne Fuchs – Centre for Australian National Biodiversity Research, Australia
+- Johan Liljeblad – SLU Swedish Species Information Centre, Sweden
+- Carlos Martínez Muñoz - Senckenberg Gesellschaft für Naturforschung, Germany
+- Richard Pyle – Bishop Museum, USA
+- Jonathan Rees – independent, USA
+- Mieke Strong = Gaia Resources, Australia
+- Campbell Webb – University of Alaska Museum of the North, USA
+- Greg Whitbread – Taxamatics, Australia
 
 ## Motivation and scope
 
