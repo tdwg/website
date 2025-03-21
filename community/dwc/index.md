@@ -2,7 +2,7 @@
 layout: list
 title: Darwin Core
 description: >
-  The Darwin Core Maintenance Group is responsible for maintaining the various components of the Darwin Core Standard, which includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. Maintenance Group members have a strong interest in ensuring the stability, interoperability, and evolution of the vocabulary.
+  The Darwin Core Maintenance Group oversees the ongoing development and stewardship of the Darwin Core Standard. This includes evaluating proposed additions and changes, offering usage guidelines and examples, and safeguarding the consistency and longevity of metadata associated with the standard’s components. Members of the Maintenance Group are deeply committed to maintaining the stability, interoperability, and continued evolution of Darwin Core to meet the needs of the biodiversity informatics community.
 background:
   img: https://images.unsplash.com/photo-1492031215329-791748ee1253
   by: Alex Guillaume
@@ -22,17 +22,22 @@ list:
 
 ## Convener
 
-- [John Wieczorek](mailto:gtuco.btuco@gmail.com) - VertNet, USA
+- [John Wieczorek](mailto:gtuco.btuco@gmail.com) - Rauthiflor LLC; USA, Argentina
 
 ## Core members
 
-- Peter Desmet - Research Institute for Nature and Forest (INBO), Belgium
-- Markus Döring - Global Biodiversity Information Facility (GBIF), Denmark
-- Tim Robertson - Global Biodiversity Information Facility (GBIF), Denmark
-- [Steven Baskauf](mailto:steve.baskauf@vanderbilt.edu) - Vanderbilt University Heard Libraries, USA
-- Paula Zermoglio - VertNet, USA
-- Kate Ingenloff - Global Biodiversity Information Facility (GBIF), Denmark
-- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden, Belgium
+- [Steven Baskauf](mailto:steve.baskauf@gmail.com) - Vanderbilt University Heard Libraries (retired); USA
+- Peter Desmet - Research Institute for Nature and Forest (INBO); Belgium
+- Markus Döring - Global Biodiversity Information Facility (GBIF); Denmark
+- [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden; Belgium
+- Jörg Holetschek - Botanic Garden and Botanical Museum Berlin; Germany
+- Pieter Huybrechts - Research Institute for Nature and Forest (INBO), Belgium
+- Kate Ingenloff - Global Biodiversity Information Facility (GBIF); Denmark
+- Kristen "Kit" Lewers - Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida; USA
+- Ben Norton - Ecosystem, Planning, and Restoration; USA
+- Tim Robertson - Global Biodiversity Information Facility (GBIF); Denmark
+- Cecilie Svenningsen - Global Biodiversity Information Facility (GBIF); Denmark
+- Paula Zermoglio - Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN); Argentina
 
 ## Motivation
 
@@ -40,11 +45,11 @@ This interest group is established to meet the requirements in [Section 2.1](htt
 
 ## Becoming involved
 
-The task group welcomes the participation of individuals who have a vested interest in maintaining the stability and interoperability of Darwin Core. We need people with interest and experience in vocabulary creation, people who are well versed in best practices for metadata documentation, and people with technical data management skills. If you are interested in participating in the group, please contact the convener or a core member.
+The task group welcomes the participation of individuals who have a vested interest in maintaining the stability and interoperability of Darwin Core and can commit to one or more maintenance responsibilities. If you are interested in participating in the group, please contact the convener or a core member.
 
 ## History and context
 
-The Darwin Core vocabulary has existed in various forms since 1998 and was ratified as a TDWG Standard in 2009. Its terms are widely used in biodiversity metadata transfer and storage. The Darwin Core vocabulary can be used to describe biodiversity resources through fielded text, XML, and RDF. For more information, see [Wieczorek et al. 2012](https://doi.org/10.1371/journal.pone.0029715).
+The Darwin Core vocabulary has existed in various forms since 1998 and was ratified as a TDWG Standard in 2009. Its terms are widely used in biodiversity data transfer and storage. The Darwin Core vocabulary can be used to describe biodiversity resources through fielded text, XML, and RDF. For more information, see [Wieczorek et al. 2012](https://doi.org/10.1371/journal.pone.0029715).
 
 ## Task groups
 
