@@ -34,7 +34,7 @@ list:
 - Pieter Huybrechts - Research Institute for Nature and Forest (INBO), Belgium
 - Kate Ingenloff - Global Biodiversity Information Facility (GBIF); Denmark
 - Kristen "Kit" Lewers - Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida; USA
-- Ben Norton - Ecosystem, Planning, and Restoration; USA
+- Ben Norton -Independent; USA
 - Tim Robertson - Global Biodiversity Information Facility (GBIF); Denmark
 - Cecilie Svenningsen - Global Biodiversity Information Facility (GBIF); Denmark
 - Paula Zermoglio - Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN); Argentina
