@@ -22,7 +22,7 @@ The TDWG community spans the globe, so it's difficult to reach everyone at a rea
 
 Click the images below to see the an overview of our schedule of sessions.  Then see the list below to verify the date and time of any session in your local time.
 
-To **register** for for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
+To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
 
 
 <table style="width:100%">
