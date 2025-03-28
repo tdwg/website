@@ -16,13 +16,13 @@ Interest and task groups are the driving force for developing and maintaining TD
 - engage new contributors; and
 - set the agenda for this year's work.
 
-The TDWG community spans the globe, so it's difficult to reach everyone at a reasonable hour.  Some groups have opted to hold their session twice to reach the East or West hemispheres at a convenient time. We hope all sessions to be recorded and posted on the TDWG's YouTube channel.
+The TDWG community spans the globe, so it's difficult to reach everyone at a reasonable hour.  Some groups have opted to hold their session twice to reach the East or West hemispheres at a convenient time. We plan to record sessions and post the videos on the TDWG's YouTube channel.
 
 ## Schedule and registration
 
-Click the images below to see the an overview of our schedule of sessions.  Then see the list below to verify the date and time of any session in your local time.
+Click the images below to see the an overview of our schedule of sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time.
 
-To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
+Zoom links for all sessions will be provided via registration.  To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
 
 
 <table style="width:100%">
