@@ -4,7 +4,7 @@ background:
   img: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
   by: Helloquence
   href: https://unsplash.com/photos/5fNmWej4tAA
-toc: false
+tags: [standards, working sessions]
 ---
 
 ## Virtual sessions for interest, task, and maintenance groups
@@ -23,7 +23,6 @@ The TDWG community spans the globe, so it's difficult to reach everyone at a rea
 Click the images below to see the an overview of our schedule of sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time.
 
 Zoom links for all sessions will be provided via registration.  To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
-
 
 <table style="width:100%">
   <tr>
