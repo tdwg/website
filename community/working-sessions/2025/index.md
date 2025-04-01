@@ -9,14 +9,14 @@ toc: false
 
 ## Virtual sessions for interest, task, and maintenance groups
 
-Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards the authority of open science.  Our community is growing, so every year we hold virtual working sessions to:
+Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards the authority of open science.  The biodiverisity informatics community is growing, so every year we hold virtual working sessions to:
 
 - inform the wider biodiversity information community about the on-going work to develop and maintain standards;
 - review progress to date;
 - engage new contributors; and
 - set the agenda for this year's work.
 
-The TDWG community spans the globe, so scheduling real-time interaction is inevitably inconvenient for some people.  Some of our groups will solve this problem by holding their "session" twice, to reach the East or West hemispheres at a convenient time. The other way we solve this problem, at least partially, is to record sessions. So we will be recording all sessions, and posting the videos as quicly as possible on TDWG's YouTube channel.
+The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people.  Some groups will solve this problem by holding their "session" twice to reach the East or West hemispheres at a more convenient time. We will also  record each session and post the videos as quickly as possible on TDWG's YouTube channel.
 
 ## Schedule and registration
 
