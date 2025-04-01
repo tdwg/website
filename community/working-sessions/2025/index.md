@@ -9,18 +9,18 @@ toc: false
 
 ## Virtual sessions for interest, task, and maintenance groups
 
-Interest and task groups are the driving force for developing and maintaining TDWG standards.  The TDWG community is dynamic, however, so every year we hold virtual working sessions to:
+Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards the authority of open science.  Our community is growing, so every year we hold virtual working sessions to:
 
-- inform the wider TDWG community about the group's work;
+- inform the wider biodiversity information community about the on-going work to develop and maintain standards;
 - review progress to date;
 - engage new contributors; and
 - set the agenda for this year's work.
 
-The TDWG community spans the globe, so it's difficult to reach everyone at a reasonable hour.  Some groups have opted to hold their session twice to reach the East or West hemispheres at a convenient time. We plan to record sessions and post the videos on the TDWG's YouTube channel.
+The TDWG community spans the globe, so scheduling real-time interaction is inevitably inconvenient for some people.  Some of our groups will solve this problem by holding their "session" twice, to reach the East or West hemispheres at a convenient time. The other way we solve this problem, at least partially, is to record sessions. So we will be recording all sessions, and posting the videos as quicly as possible on TDWG's YouTube channel.
 
 ## Schedule and registration
 
-Click the images below to see the an overview of our schedule of sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time.
+Click the images below to see the an overview of our schedule of sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time zone.
 
 Zoom links for all sessions will be provided via registration.  To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
 
