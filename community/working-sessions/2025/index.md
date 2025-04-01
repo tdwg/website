@@ -9,20 +9,22 @@ toc: false
 
 ## Virtual sessions for interest, task, and maintenance groups
 
-Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards the authority of open science.  The biodiverisity informatics community is growing, so every year we hold virtual working sessions to:
+Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards authority in open science.  As the biodiversity informatics community grows every year, we hold virtual introductory working sessions to:
 
 - inform the wider biodiversity information community about the on-going work to develop and maintain standards;
 - review progress to date;
 - engage new contributors; and
 - set the agenda for this year's work.
 
-The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people.  Some groups will solve this problem by holding their "session" twice to reach the East or West hemispheres at a more convenient time. We will also  record each session and post the videos as quickly as possible on TDWG's YouTube channel.
-
 ## Schedule and registration
+
+The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people. Some groups will solve this problem by holding their “session” twice -- once for each hemisphere (East/West) -- increasing the likelihood that one will be less inconvenient. We will also record each session and post the videos as quickly as possible on TDWG’s YouTube channel.
+
+All sessions will be held in the two weeks between 14 - 25 April. Registration is free, but you must register to receive the Zoom link.
 
 Click the images below to see the an overview of our schedule of sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time zone.
 
-Zoom links for all sessions will be provided via registration.  To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
+To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
 
 <table style="width:100%">
   <tr>
