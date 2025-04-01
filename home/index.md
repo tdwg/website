@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Virtual working sessions for TDWG interest and task groups, 14-25 April. Working sessions are open to all!
+    Learn about TDWG's on-going standards development by participating in our virtual working sessions, 14-25 April. Working sessions for TDWG interest and task groups are open to all!
   href: /community/working-sessions/2025/
   img: https://images.unsplash.com/photo-1569406125624-98ee19b01d4a
 ---
