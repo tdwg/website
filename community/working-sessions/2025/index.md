@@ -40,7 +40,7 @@ Zoom links for all sessions will be provided via registration.  To **register** 
   </a>
 </p>
 
-
+### Session details
 
 | Interest/Task Group | East/West | Date | Time (UTC) | Local Time | Register |
 | ------------------- | --------- | ---- | ---- | ---------- | :---: |
