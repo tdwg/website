@@ -28,8 +28,8 @@ See the [**detailed schedule**](/community/working-sessions/2025/) for the time 
 
 ### Week 1, 14-17 April
 
-[![14-17 April](https://static.tdwg.org/images/sessions/2025/week-1-900.png)](/community/working-sessions/2025/##schedule-and-registration)
+[![14-17 April](https://static.tdwg.org/images/sessions/2025/week-1-900.png)](/community/working-sessions/2025/#session-details)
 
 ### Week 2, 22-25 April
 
-[![22-25 April](https://static.tdwg.org/images/sessions/2025/week-2-900.png)](/community/working-sessions/2025/##schedule-and-registration)
+[![22-25 April](https://static.tdwg.org/images/sessions/2025/week-2-900.png)](/community/working-sessions/2025/#session-details)
