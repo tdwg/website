@@ -13,6 +13,10 @@ toc: true
 
 [_Patricia Mergen_](mailto:mergen.patricia@gmail.com) - Royal Museum for Central Africa and Botanic Garden Meise, Belgium
 
+## Co-Chair
+
+[Elie Saliba](mailto:elie.saliba@mnhn.fr) - Institut de Systématique, Évolution, Biodiversité, MNHN and Sorbonne University, Paris, France
+
 ## Mission
 
 The purpose of the Fundraising and Partnerships Functional Subcommittee is to work with the TDWG Executive Committee as well as TDWG task and interest groups to submit and implement competitive funding bids and improve the position of TDWG in the international landscape through strategic partnerships at international, regional, or national level.
