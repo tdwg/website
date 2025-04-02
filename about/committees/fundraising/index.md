@@ -49,9 +49,9 @@ On behalf of the TDWG Executive Committee the Functional Subcommittee will under
 
 ## Organization
 
-### Charter
+### Revising the charter
 
-According to TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organization. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
+In accordance with TDWG Constitution, the charter may be revised by the the TDWG Executive Committee according to the strategic priorities of the organization. Changes to the charter will be put up for open membership comment for at least 30 days prior to action, and approved or rejected by consensus reached in comments.
 
 ### Membership and meetings
 
