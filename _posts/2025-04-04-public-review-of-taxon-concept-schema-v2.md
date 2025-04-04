@@ -1,7 +1,7 @@
 ---
 title: Call for comments on Taxonomic Concept Schema V2
 description: >
-  
+  The new version of TCS is a vocabulary standard, expressed in RDF rather than XML schema, and covers terms for both taxonomic concpets and taxonomic nomenclature.
 background:
   img: https://images.unsplash.com/photo-1664526937033-fe2c11f1be25
   by: GuerrillaBuzz
