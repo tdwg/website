@@ -15,7 +15,7 @@ toc: true
 
 ## Co-Chair
 
-[Elie Saliba](mailto:elie.saliba@mnhn.fr) - Institut de Systématique, Évolution, Biodiversité, MNHN and Sorbonne University, Paris, France
+[Elie Saliba](mailto:elie.saliba@mnhn.fr) - PatriNat, centre d’expertise et de données sur la nature, GBIF France, Muséum National d'Histoire Naturelle, Paris, France
 
 ## Mission
 
