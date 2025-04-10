@@ -11,20 +11,20 @@ toc: false
 
 Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards authority in open science.  As the biodiversity informatics community grows every year, we hold virtual introductory working sessions to:
 
-- inform the wider biodiversity information community about the on-going work to develop and maintain standards;
-- review progress to date;
-- engage new contributors; and
-- set the agenda for this year's work.
+- Inform the wider biodiversity information community about the ongoing work to develop and maintain standards;
+- Review progress to date;
+- Engage new contributors; and
+- Set the agenda for this year's work.
 
 ## Schedule and registration
 
-The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people. Some groups will solve this problem by holding their “session” twice -- once for each hemisphere (East/West) -- increasing the likelihood that one will be less inconvenient. We will also record each session and post the videos as quickly as possible on TDWG’s YouTube channel.
+The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people. Some groups will solve this problem by holding their “session” twice- once for each hemisphere (East/West)- increasing the likelihood that one will be less inconvenient. We will also record each session and post the videos as quickly as possible on TDWG’s YouTube channel.
 
-All sessions will be held in the two weeks between 14 - 25 April. Registration is free, but you must register to receive the Zoom link.
+All sessions will be held between 14 and 25 April. Registration is free, but you must register to receive the Zoom link.
 
-Click the images below to see the an overview of our schedule of sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time zone.
+Click the images below to see an overview of our scheduled sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time zone.
 
-To **register** for a session, please click the "▶️" in the list below. Note that each session has a separate registration.
+To register for a session, please click the "▶️" in the list below. Note that each session requires a separate registration.
 
 <table style="width:100%">
   <tr>
@@ -58,8 +58,8 @@ To **register** for a session, please click the "▶️" in the list below. Note
 | [Latimer Core](/community/cd/) | East | 2025-04-25 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T1400) | [▶️](https://us06web.zoom.us/meeting/register/t-PKEg1rQiqaHns5Il6rPw) |
 | [Latimer Core](/community/cd/) | West | 2025-04-25 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T2100) | [▶️](https://us06web.zoom.us/meeting/register/nBLGkmk6QqCd8G_nEuEmkA) |
 | [Machine Observations IG](/community/mobs/) |  | 2025-04-16 | 11:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Machine%20Observations%20IG&iso=20250416T1130) | [▶️](https://us06web.zoom.us/meeting/register/vPi45e5xTWmtm4fNfNHGLw) |
-| [Mineralogy Ext](/community/esp/mineralogy/) | East | 2025-04-22 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T1300) | [▶️](https://us06web.zoom.us/meeting/register/FdFfqRUnQneOURaB38E6vQ) |
-| [Mineralogy Ext](/community/mineralogy/) | West | 2025-04-22 | 22:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T2200) | [▶️](https://us06web.zoom.us/meeting/register/TbLTWjcdSbqfzkh7ZGPTCQ) |
+| [Mineralogy Extension](/community/esp/mineralogy/) | East | 2025-04-22 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T1300) | [▶️](https://us06web.zoom.us/meeting/register/FdFfqRUnQneOURaB38E6vQ) |
+| [Mineralogy Extension](/community/mineralogy/) | West | 2025-04-22 | 22:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T2200) | [▶️](https://us06web.zoom.us/meeting/register/TbLTWjcdSbqfzkh7ZGPTCQ) |
 | [Minimum Infor Dig Specimens (MIDS)](/community/cd/mids/) |  | 2025-04-17 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum%20Infor%20Dig%20Specimens%20%28MIDS%29&iso=20250417T1400) | [▶️](https://us06web.zoom.us/meeting/register/lHx6CcFVTveu-VbzJHSdcA) |
 | [Modelling Research Expeditions TG](/community/cd/expeditions/) |  | 2025-04-24 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Modelling%20Research%20Expeditions%20TG&iso=20250424T1500) | [▶️](https://us06web.zoom.us/meeting/register/gwSP31fQStqPlAeGynIc1Q) |
 | [Sensitive Species Data Extension](/community/dwc/sensitive-species/) |  | 2025-04-15 | 11:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive%20Species%20Data%20Extension&iso=20250415T1100) | [▶️](https://us06web.zoom.us/meeting/register/PPBEZpYbRmSH7RpU0vdsew) |
