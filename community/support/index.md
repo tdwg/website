@@ -1,17 +1,17 @@
 ---
-title: Community support
+title: Community Support Fund
 background:
   img: https://images.unsplash.com/photo-1513149739851-50f01dfcbd9a
   by: Marion Michele
   href: https://unsplash.com/photos/jqTSl68betY
 toc: true
 ---
-Last modified: 12 June 2024
+_Last modified: 14 April 2025_
 
 ## What is the TDWG Community Support Fund?
 
-TDWG Interest (IG) and Task (TG) Groups undertake the core business of our organization: developing and maintaining standards and guidelines that facilitate the integration of biodiversity information. TDWG is committed to supporting its Interest and Task Groups by contributing to the costs of conducting working meetings. Support is provided through a fund dedicated to this purpose, the TDWG Community Support Fund (CSF). The size of the Fund is adjusted yearly by decision of the TDWG Executive Committee.
 
+TDWG interest, task, and maintenance groups undertake the core business of our organization: developing and maintaining standards and guidelines that facilitate the integration of biodiversity information. TDWG is committed to supporting its interest/task/maintenance groups by contributing to the costs of conducting working meetings. Support is provided through a fund dedicated to this purpose, the TDWG Community Support Fund (CSF). The size of the fund is adjusted yearly by decision of the TDWG Executive Committee.
 ## What does the TDWG CSF cover?
 
 1. Travel and subsistence support for participation in IG/TG working meetings.
@@ -30,13 +30,13 @@ Provided that sufficient resources are available, a call for applications will b
 
 ## Evaluation criteria
 
-1. Previous activity of the Group, proven through annual reports submitted to the TDWG Executive Committee or other public reports and products (not applicable to new Groups*)
+1. Previous activity of the group, proven through annual reports submitted to the TDWG Executive Committee or other public reports and products (not applicable to new groups*)
 1. Overall impact, timeliness and cost efficiency
 1. Inclusiveness of the participation model (e.g., percentage of new members participating and geographic coverage)
 1. Expected progress on development of new or revision of current TDWG standards
 1. Availability of matching funds from other sources (as percentage of total costs)
 
-\* _New Groups are those established (first charter approved) within the the last year (i.e., less than 365 days before the application deadline)._
+\* _New groups are those established (first charter approved) within the the last year (i.e., less than 365 days before the application deadline)._
 
 **Additional information and restrictions**
 
