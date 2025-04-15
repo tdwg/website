@@ -26,6 +26,9 @@ Click the images below to see an overview of our scheduled sessions.  Then see t
 
 To register for a session, please click the "▶️" in the list below. Note that each session requires a separate registration.
 
+Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378eb082e54a4d962266579878d4c3[…]53142b0d717603%40group.calendar.google.com/public/basic.ics) to add all events to your calendar. Note, this only puts all event in your calendar (your time zone), but it does NOT register you for the session.
+
+
 <table style="width:100%">
   <tr>
     <td align="center">Week 1, Apr 14-17</td>
