@@ -7,6 +7,8 @@ background:
 toc: false
 ---
 
+_Last updated: 2025-04-17_
+
 ## Virtual sessions for interest, task, and maintenance groups
 
 Interest and task groups are the driving force for developing and maintaining TDWG standards, and participation is the essential factor that gives TDWG standards authority in open science.  As the biodiversity informatics community grows every year, we hold virtual introductory working sessions to:
@@ -62,7 +64,7 @@ Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378
 | [Latimer Core](/community/cd/) | West | 2025-04-25 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer%20Core&iso=20250425T2100) | [▶️](https://us06web.zoom.us/meeting/register/nBLGkmk6QqCd8G_nEuEmkA) |
 | [Machine Observations IG](/community/mobs/) |  | 2025-04-16 | 11:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Machine%20Observations%20IG&iso=20250416T1130) | [▶️](https://us06web.zoom.us/meeting/register/vPi45e5xTWmtm4fNfNHGLw) |
 | [Mineralogy Extension](/community/esp/mineralogy/) | East | 2025-04-22 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T1300) | [▶️](https://us06web.zoom.us/meeting/register/FdFfqRUnQneOURaB38E6vQ) |
-| [Mineralogy Extension](/community/mineralogy/) | West | 2025-04-22 | 22:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T2200) | [▶️](https://us06web.zoom.us/meeting/register/TbLTWjcdSbqfzkh7ZGPTCQ) |
+| [Mineralogy Extension](/community/mineralogy/) | West | 2025-04-22 | 20:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy%20Ext&iso=20250422T2000) | [▶️](https://us06web.zoom.us/meeting/register/TbLTWjcdSbqfzkh7ZGPTCQ) |
 | [Minimum Infor Dig Specimens (MIDS)](/community/cd/mids/) |  | 2025-04-17 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum%20Infor%20Dig%20Specimens%20%28MIDS%29&iso=20250417T1400) | [▶️](https://us06web.zoom.us/meeting/register/lHx6CcFVTveu-VbzJHSdcA) |
 | [Modelling Research Expeditions TG](/community/cd/expeditions/) |  | 2025-04-24 | 15:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Modelling%20Research%20Expeditions%20TG&iso=20250424T1500) | [▶️](https://us06web.zoom.us/meeting/register/gwSP31fQStqPlAeGynIc1Q) |
 | [Sensitive Species Data Extension](/community/dwc/sensitive-species/) |  | 2025-04-15 | 11:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive%20Species%20Data%20Extension&iso=20250415T1100) | [▶️](https://us06web.zoom.us/meeting/register/PPBEZpYbRmSH7RpU0vdsew) |
