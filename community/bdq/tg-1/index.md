@@ -59,5 +59,5 @@ Allan Koch Veiga
 - Chapman, AD (2005a). Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p. <http://www.gbif.org/document/80528>
 - Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p. <https://doi.org/10.15468/doc.jrgg-a190>
 - Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. <https://doi.org/10.1371/journal.pone.0055144>
-- <http://community.gbif.org/pg/groups/21292/gbiftdwg-biodiversity-data-quality-interest-group/>
+- <https://tdwg.github.io/bdq/tg1/site/resources.html>
 - <https://github.com/tdwg/infrastructure/issues/48>
