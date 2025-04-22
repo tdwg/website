@@ -33,11 +33,11 @@ Allan Koch Veiga
 
 ## Strategy
 
-- Join, organize and formalize ideas and concepts concerning DQ in a Conceptual Framework.
+- Join, organize, and formalize ideas and concepts concerning DQ in a Conceptual Framework.
 - Evaluate the proposed Framework with a case study.
 - Propose a method for using/applying the Framework for the Assessment and Management of fitness for use.
-- Support Biodiversity Informatics community with guidelines and training about the Framework.
-- Support and follow the application of the Framework for the Assessment and Management in some Biodiversity Informatics organizations.
+- Support the Biodiversity Informatics community with guidelines and training about the Framework.
+- Support and follow the application of the Framework for Assessment and Management in some Biodiversity Informatics organizations.
 - Evaluate and enhance the Framework and its vocabulary by promoting discussions and forums with the DQ Interest Groups members.
 
 ## Becoming involved
@@ -49,9 +49,9 @@ Allan Koch Veiga
 
 - Veiga, AK, Saraiva, AM, Chapman, AD, Morris, PJ, Gendreau, C, Schiegel, D, Robertson, TJ (2017). A conceptual framework for quality assessment and management of biodiversity data. PLOS ONE 12(6): e0178731. <https://doi.org/10.1371/journal.pone.0178731>
 - Veiga, AK., Cartolano Jr., EA, Saraiva, AM (2014). Data Quality Control in Biodiversity Informatics: The Case of Species Occurrence Data. IEEE Latin America Transactions. ISSN: 1548-0992. Volume: 12, Issue: 4. Available: <http://www.ewh.ieee.org/reg/9/etrans/ieee/issues/vol12/vol12issue4June2014/20KochVeiga.htm>
-- Veiga, AK., Saraiva, AM (2012). A Guideline for Dealing with Data Quality. In proceedings of Biodiversity Information Standards (TDWG) 2012 Annual Conference. Beijing, China. <https://static.tdwg.org/conferences/2012/presentations/AllanKochVeigaTDWG.pdf>
+- Veiga, AK., Saraiva, AM (2012). A Guideline for Dealing with Data Quality. In Proceedings of Biodiversity Information Standards (TDWG) 2012 Annual Conference. Beijing, China. <https://static.tdwg.org/conferences/2012/presentations/AllanKochVeigaTDWG.pdf>
 - Veiga, AK, Saraiva, AM, Cartolano, EA (2012). Data Quality Concepts and Methods Applied to Biological Species Occurrence Data. In book: ICT for Agriculture, rural development and environment – Where we are? Where we will go? Czech Centre for Science and Society Wirelessinfo.
-- Wang R, Reddy M, Kon H (1995). Toward quality data: An attribute- based approach. Journal of Decision Support Systems.vol. 13, no. 3-4. pp. 349-372. <https://doi.org/10.1016/0167-9236(93)E0050-N>
+- Wang R, Reddy M, Kon H (1995). Toward quality data: An attribute-based approach. Journal of Decision Support Systems. vol. 13, no. 3-4. pp. 349-372. <https://doi.org/10.1016/0167-9236(93)E0050-N>
 - Strong DM, Lee Y, Wang RY (1997). Data Quality in Context. Communications of the ACM. pp. 103-110.
 - Wang RY, Strong DM (1996). Beyond accuracy: What data quality means to data consumers. Journal of Management Information Systems. vol.12, no. 4, pp. 5–33. <http://mitiq.mit.edu/Documents/Publications/TDQMpub/14_Beyond_Accuracy.pdf>
 - Ge M, Helfert M (2007). A review of information quality research - develop a research agenda. ICIQ, page 76-91. MIT.
@@ -59,5 +59,5 @@ Allan Koch Veiga
 - Chapman, AD (2005a). Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 75p. <http://www.gbif.org/document/80528>
 - Chapman, AD (2005b). Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 61p. <https://doi.org/10.15468/doc.jrgg-a190>
 - Otegui J, Ariño AH, Encinas MA, Pando F (2013) Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). PLoS ONE 8(1): e55144. <https://doi.org/10.1371/journal.pone.0055144>
-- <http://community.gbif.org/pg/groups/21292/gbiftdwg-biodiversity-data-quality-interest-group/>
+- <https://tdwg.github.io/bdq/tg1/site/resources.html>
 - <https://github.com/tdwg/infrastructure/issues/48>
