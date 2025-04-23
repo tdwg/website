@@ -15,16 +15,16 @@ TDWG interest, task, and maintenance groups undertake the core business of our o
 ## What does the TDWG CSF cover?
 
 1. Travel and subsistence support for participation in IG/TG/MG working meetings.
-1. Costs directly related to the organization of IG/TG working meetings, including venue hire.
+1. Costs directly related to the organization of IG/TG/MG working meetings, including venue hire.
 1. Costs related to the dissemination of the workshop/meeting results and engagement of stakeholders.
 
 ## Who can apply?
 
-TDWG IG/TG conveners may apply for funds to (co-)organize IG/TG working meetings.
+TDWG IG/TG/MG conveners may apply for funds to (co-)organize IG/TG/MG working meetings.
 
 The CSF can be used to support any phase of work that an IG/TG/MG undertakes, from a kick-off meeting that gets stakeholders fully engaged with the proposed methodology and work plan (potentially a large meeting), to the final phase of writing and polishing needed to get a specification ready for review or publication (typically a smaller and longer meeting).
 
-Please be aware that proposals from Groups that have a current annual report will be given preference. A [guide to reporting](/community/management/guide-to-reporting) and a template for IG/TG annual reports (as [GoogleDoc](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) or in [Markdown](https://github.com/tdwg/website/blob/master/assets/documents/annual-report-template.md)). See [Responsibilities of conveners](/community/management/) for a more comprehensive description of responsibilities.
+Please be aware that proposals from Groups that have a current annual report will be given preference. A [guide to reporting](/community/management/guide-to-reporting) and a template for IG/TG/MG annual reports (as [GoogleDoc](http://drive.google.com/open?id=1VYHouWmgh94zUibFgDlTW_6cwCTsYbl6Kq9vsczFPjA) or in [Markdown](https://github.com/tdwg/website/blob/master/assets/documents/annual-report-template.md)). See [Responsibilities of conveners](/community/management/) for a more comprehensive description of responsibilities.
 
 ## Call frequency
 
