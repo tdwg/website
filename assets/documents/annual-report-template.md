@@ -1,4 +1,4 @@
-_Text formatted as code block, i.e., between and including three back-ticks (\`\`\`), is for guidance and should be replaced with your content or deleted. Also see: Guide to Interest/Task Group Annual Reporting_
+_Text formatted as code block, i.e., between and including three back-ticks (\`\`\`), is for guidance and should be replaced with your content or deleted. Also see: [Guide to Interest/Task Group Annual Reporting](/community/management/guide-to-reporting/)_
 
 <!-- **COPY THE TEXT BELOW THIS COMMENT**; then paste it into a new file in your repository with a name like "GRP_ABBREV-YEAR-annual-report.md" -->
 
