@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Learn about TDWG's on-going standards development by participating in our virtual working sessions, 14-25 April. Working sessions for TDWG interest and task groups are open to all!
-  href: /community/working-sessions/2025/
-  img: https://images.unsplash.com/photo-1569406125624-98ee19b01d4a
+    The call for presentation abstracts at LivingData2025 in Bogotá is open! Submission deadline 20 May 2025!
+  href: https://livingdata2025.com/sessions.html
+  img: https://static.tdwg.org/conferences/2025/living-data-call-for-abstracts-crop.png
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
