@@ -4,9 +4,9 @@ _Text formatted as code block, i.e., between and including three back-ticks (\`\
 
 # ```Group Name```
 
-## ```[Interest | Maintenance | Task]``` Group Annual Report
+## ```[Interest | Task | Maintenance ]``` Group Annual Report
 
-### Website
+### Website and/or GitHub repository
 
 ```Enter URL```
  
