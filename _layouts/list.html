@@ -14,6 +14,7 @@ description: Template for pages with a list to navigate to other pages.
         {% assign item_text = site.pages | where: 'url', item.href | map: 'title' | first %}
       {% endif %}
       <li class="list-group-item">
+        
         {% if item.label %}
            {% if item.button_bg %}
             <span class="badge {{ item.button_bg }} rounded-pill me-1">{{ item.label }}</span>   
@@ -26,6 +27,8 @@ description: Template for pages with a list to navigate to other pages.
           {% else %}
             <a href="{{ item.href | relative_url }}">{{ item_text }}</a>
           {% endif %}
+
+        
         {% if item.menu %}
           <ul class="list-unstyled ps-4">
             {% for subitem in item.menu %}
