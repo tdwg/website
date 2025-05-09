@@ -123,7 +123,7 @@ TDWG interest (IG) and task (TG) groups undertake one of TDWG’s core functions
 
 ## Collaboration methods
 
-In the past, members of an interest or task group collaborated through face-to-face meetings and email discussion lists. Technologies have improved, and most groups now collaborate through teleconferences and collaboration platforms, such as GitHub and/or Google Docs. Nevertheless, face-to-face working meetings are still a meaningful way to get work done, particularly when the wider consensus building has been done and a small number of experts can be convened to do a few days of very focused work. Accordingly, TDWG has established the Community Support Fund (CSF) to support critical working meetings, as funds allow.
+Previously, members of an interest or task group collaborated through face-to-face meetings and email discussion lists. Technologies have improved, and most groups now collaborate through teleconferences and collaboration platforms, such as GitHub and/or Google Docs. Nevertheless, face-to-face working meetings are still a meaningful way to get work done, particularly when the wider consensus building has been done and a small number of experts can be convened to do a few days of very focused work. Accordingly, TDWG has established the Community Support Fund (CSF) to support critical working meetings, as funds allow.
 
 ### [Working sessions 2025](/community/working-sessions/2025/)
 
