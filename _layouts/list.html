@@ -15,9 +15,17 @@ description: Template for pages with a list to navigate to other pages.
       {% endif %}
       <li class="list-group-item">
         {% if item.label %}
-          <span class="badge bg-secondary rounded-pill me-1">{{ item.label }}</span>
+           {% if item.button_bg %}
+            <span class="badge {{ subitem.button_bg }} rounded-pill me-1">{{ item.label }}</span>   
+          {% else %}
+            <span class="badge bg-primary rounded-pill me-1">{{ item.label }}</span>
+          {% endif %}
         {% endif %}
-        <a href="{{ item.href | relative_url }}">{{ item_text }}</a>  
+        {% if subitem.link_label %}
+           <a href="{{ item.href | relative_url }}">{{ item.link_label }}</a>
+          {% else %}
+            <a href="{{ item.href | relative_url }}">{{ item_text }}</a>
+          {% endif %}
         {% if item.menu %}
           <ul class="list-unstyled ps-4">
             {% for subitem in item.menu %}
