@@ -16,7 +16,7 @@ description: Template for pages with a list to navigate to other pages.
       <li class="list-group-item">
         {% if item.label %}
            {% if item.button_bg %}
-            <span class="badge {{ subitem.button_bg }} rounded-pill me-1">{{ item.label }}</span>   
+            <span class="badge {{ item.button_bg }} rounded-pill me-1">{{ item.label }}</span>   
           {% else %}
             <span class="badge bg-primary rounded-pill me-1">{{ item.label }}</span>
           {% endif %}
