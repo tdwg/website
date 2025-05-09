@@ -49,7 +49,7 @@ list:
   menu:
   - label: MG
     link_label: "Latimer Core"
-    button_bg: bg-primary
+    button_bg: bg-secondary
     href: https://ltc.tdwg.org/
   - label: TG
     href: /community/cd/mids/
