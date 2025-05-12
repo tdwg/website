@@ -7,7 +7,7 @@ background:
 toc: false
 ---
 
-_Last updated: 2025-04-17_
+_Last updated: 2025-05-12_
 
 ## Virtual sessions for interest, task, and maintenance groups
 
@@ -20,13 +20,13 @@ Interest and task groups are the driving force for developing and maintaining TD
 
 ## Schedule and registration
 
-The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people. Some groups will solve this problem by holding their “session” twice- once for each hemisphere (East/West)- increasing the likelihood that one will be less inconvenient. We will also record each session and post the videos as quickly as possible on TDWG’s YouTube channel.
+The TDWG community spans the globe, which makes scheduling any single real-time event inconvenient for some people. Some groups solved this problem by holding their “session” twice- once for each hemisphere (East/West)- increasing the likelihood that one will be less inconvenient. We recorded most sessions and have posted the videos on TDWG’s [YouTube channel](https://www.youtube.com/@tdwg), in playlist of [2025 Working Session Videos](https://www.youtube.com/playlist?list=PLD9-DRLWVl0nnq4606GODxTfNaPj_sunQ).
 
-All sessions will be held between 14 and 25 April. Registration is free, but you must register to receive the Zoom link.
+All sessions were held between 14 and 25 April. Registration was free, but required to get the Zoom link.
 
-Click the images below to see an overview of our scheduled sessions.  Then see the alphabetical session list below to verify the date and time of any session in your local time zone.
+Then see the alphabetical session list below to see which session have videos and then click the "▶️" to view the session's video.
 
-To register for a session, please click the "▶️" in the list below. Note that each session requires a separate registration.
+<!-- **BEGIN COMMENT** 
 
 Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378eb082e54a4d962266579878d4c3[…]53142b0d717603%40group.calendar.google.com/public/basic.ics) to add all events to your calendar. Note, this only puts all event in your calendar (your time zone), but it does NOT register you for the session.
 
@@ -46,10 +46,11 @@ Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378
     <img src="https://static.tdwg.org/images/sessions/2025/week-2-thm.png" alt="Working Sessions week 2" width="500" style="padding: 3px">
   </a>
 </p>
+-- **END COMMENT** -->
 
 ### Session details
 
-| Interest/Task Group | East/West | Date | Time (UTC) | Local Time | Recording |
+| Interest/Task/Maintenance Group | East/West | Date | Time (UTC) | Local Time | Go to video |
 | ------------------- | --------- | ---- | ---- | ---------- | :---: |
 | [ABCD](/community/abcd/) |  | 2025-04-17 | 17:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ABCD&iso=20250417T1730) | [▶️](https://youtu.be/rh00sVO-bRI) |
 | [Audiovisual Core MG](/community/ac/) |  | 2025-04-16 | 17:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Audiovisual%20Core%20MG&iso=20250416T1700) | [▶️](https://youtu.be/oNWzpeRZwXg) |
