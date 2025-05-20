@@ -16,22 +16,22 @@ list:
 
 ## Members
 
-Ben Norton (Chair) - Independent [michaelnorton.ben@gmail.com](mailto:michaelnorton.ben@gmail.com)  
-Wouter Addink - Naturalis [wouter.addink@naturalis.nl](mailto:wouter.addink@naturalis.nl)
-Steve Baskauf (chair emeritus) - Vanderbilt University Heard Libraries. [steve.baskauf@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)  
-David Bloom - VertNET, TDWG Chair [dbloom@vertnet.org](dbloom@vertnet.org)  
-David Fichtmueller - Botanic Garden and Botanical Museum (BGBM) Berlin. [D.Fichtmueller@bgbm.org](mailto:D.Fichtmueller@bgbm.org)  
-Erica Krimmel - Independent [ekrimmel@gmail.com](ekrimmel@gmail.com)  
-John Kunze - [jakkbl@gmail.com](jakkbl@gmail.com)  
-Kristen (Kit) Lewers - University of Colorado. [kristen.lewers@colorado.edu](mailto:kristen.lewers@colorado.edu)  
-James Macklin - Agriculture and Agri-Food Canada. [james.macklin@agr.gc.ca](mailto:james.macklin@agr.gc.ca)  
-Raïssa Meyer -  Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research. GBWG [raissa.meyer@awi.de](mailto:raissa.meyer@awi.de)  
-Nicky Nicolson - [n.nicolson@kew.org](n.nicolson@kew.org)  
-Tim Robertson - Global Biodiversity Information Facility (GBIF) [trobertson@gbif.org](mailto:trobertson@gbif.org)  
-David Shorthouse - [davidpshorthouse@gmail.com](mailto:davidpshorthouse@gmail.com)  
-Cecilie Svenningsen - Global Biodiversity Information Facility (GBIF) [csvenningsen@gbif.org](csvenningsen@gbif.org)  
-Greg Whitbread - [whitbread.greg@gmail.com](whitbread.greg@gmail.com)  
-John Wieczorek - Global Biodiversity Information Facility (GBIF). Rauthiflor LLC. [gtuco.btuco@gmail.com](mailto:gtuco.btuco@gmail.com)  
+- Ben Norton (Chair) - Independent <michaelnorton.ben@gmail.com>
+- Wouter Addink - Naturalis <wouter.addink@naturalis.nl>
+- Steve Baskauf (chair emeritus) - Vanderbilt University Heard Libraries <steve.baskauf@vanderbilt.edu>
+- David Bloom - VertNET, TDWG Chair <dbloom@vertnet.org>
+- David Fichtmueller - Botanic Garden and Botanical Museum (BGBM) Berlin <D.Fichtmueller@bgbm.org>
+- Erica Krimmel - Independent <ekrimmel@gmail.com>
+- John Kunze - <jakkbl@gmail.com>
+- Kristen (Kit) Lewers - University of Colorado <kristen.lewers@colorado.edu>
+- James Macklin - Agriculture and Agri-Food Canada <james.macklin@agr.gc.ca>
+- Raïssa Meyer -  Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research. GBWG <raissa.meyer@awi.de>
+- Nicky Nicolson - <n.nicolson@kew.org>
+- Tim Robertson - Global Biodiversity Information Facility (GBIF) <trobertson@gbif.org>
+- David Shorthouse - <davidpshorthouse@gmail.com>
+- Cecilie Svenningsen - Global Biodiversity Information Facility (GBIF) <csvenningsen@gbif.org>
+- Greg Whitbread - <whitbread.greg@gmail.com>
+- John Wieczorek - Global Biodiversity Information Facility (GBIF). Rauthiflor LLC. <gtuco.btuco@gmail.com>
 
 ## Mission
 
