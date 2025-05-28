@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    The call for presentation abstracts at LivingData2025 in Bogotá is open! Submission deadline 20 May 2025!
-  href: https://livingdata2025.com/sessions.html
-  img: https://static.tdwg.org/conferences/2025/living-data-call-for-abstracts-crop.png
+    Public review for new and changed terms of the Audiovisual Core will remain open until at least 17 June.
+  href: https://www.tdwg.org/news/2025/audiovisual-core-public-review/
+  img: https://static.tdwg.org/images/articles/2023/ac-vcv-abdomen-posterior.jpg
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
