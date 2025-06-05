@@ -32,7 +32,7 @@ Detection and monitoring of organisms and biodiversity via environmental DNA (eD
 ## History and context
   * This group has been established to develop a data standard and usage guidelines for sharing environmental DNA protocols and data. 
   * We will build on existing works by various organisations and initiatives (e.g., TDWG, GSC, GBIF, OBIS, ENA, FAIR eDNA (FAIRe), eDNAqua-Plan). 
-  * Members of the eDNA Task Group co-lead the [MIxS-eDNA project](https://www.gensc.org/pages/projects/eDNA-project.html) under the GSC, coordinating efforts across initiatives. 
+  * Members of the eDNA Task Group co-lead the [MIxS-eDNA project](https://www.gensc.org/pages/projects/eDNA-project.html) under the GSC, coordinating efforts across initiatives and fulfilling the [MoU between TDWG and the GSC](https://github.com/tdwg/gbwg/blob/main/dwc-mixs/MoU/MemorandumOfUnderstanding_TDWG-GSC.md). 
 
 ## Challenges
   * Complex relationships within and between samples 
