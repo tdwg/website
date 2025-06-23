@@ -23,6 +23,7 @@ list:
 - David Fichtmueller - Botanic Garden and Botanical Museum (BGBM) Berlin <D.Fichtmueller@bgbm.org>
 - Erica Krimmel - Independent <ekrimmel@gmail.com>
 - John Kunze - <jakkbl@gmail.com>
+- Sam Leeflang - Naturalis <sam.leeflang@naturalis.nl>
 - Kristen (Kit) Lewers - University of Colorado <kristen.lewers@colorado.edu>
 - James Macklin - Agriculture and Agri-Food Canada <james.macklin@agr.gc.ca>
 - Raïssa Meyer -  Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research. GBWG <raissa.meyer@awi.de>
@@ -30,6 +31,7 @@ list:
 - Tim Robertson - Global Biodiversity Information Facility (GBIF) <trobertson@gbif.org>
 - David Shorthouse - <davidpshorthouse@gmail.com>
 - Cecilie Svenningsen - Global Biodiversity Information Facility (GBIF) <csvenningsen@gbif.org>
+- Kate Webbink - Field Museum <kwebbink@fieldmuseum.org>
 - Greg Whitbread - <whitbread.greg@gmail.com>
 - John Wieczorek - Global Biodiversity Information Facility (GBIF). Rauthiflor LLC. <gtuco.btuco@gmail.com>
 
@@ -39,7 +41,7 @@ The purpose of the Technical Architecture Group (TAG) is to guide the ongoing de
 
 ## Responsibilities
 
-TAG responsibilities will be limited to technical aspects of the TDWG architecture.
+TAG responsibilities will be limited to the technical aspects of the TDWG architecture.
 
 On behalf of the executive, maintain oversight and report on:
 
@@ -59,19 +61,19 @@ Working with the membership to advance a common standards framework:
 
 ### Charter
 
-According to the TDWG Constitution, the charter may be revised by the TDWG Executive Committee according to the organization's strategic priorities. Changes to the charter will be put up for open membership consultation for 30 days prior to approval.
+According to the TDWG Constitution, the charter may be revised by the TDWG Executive Committee in accordance with the organization's strategic priorities. Changes to the charter will be put up for open membership consultation for 30 days before approval.
 
 ### Membership
 
-The chair shall be elected by the TDWG membership. The chair is responsible for appointing sub-committee members and a deputy chair. The TAG will ideally include representation from core, standards maintenance interest groups and major implementors. The TAG may call on external expert assistance as required.
+The TDWG membership shall elect the chair. The chair is responsible for appointing subcommittee members and a deputy chair. The TAG will ideally include representation from core, standards maintenance interest groups, and major implementors. The TAG may seek external expert assistance as needed.
 
 ### Meetings, documentation, and reporting
 
 The TAG reports to the TDWG executive.
 
-The TAG will maintain a public GitHub repository for all TAG documentation and issue and request management.
+The TAG will maintain a public GitHub repository for all TAG documentation, issues, and request management.
 
-The TAG will formally convene at least twice each year. Meetings will be conducted using internet technologies, and members may participate online. The agenda for formal meetings will be prepared by the chair and distributed to members in advance of the meeting. In circumstances where a vote is necessary, responses by the voting deadline of at least half of the members will be required in order for the vote to be considered valid.
+The TAG will formally convene at least twice each year. Meetings will be conducted using internet technologies, and members may participate online. The agenda for formal meetings will be prepared by the chair and distributed to members in advance of the meeting. In circumstances where a vote is necessary, responses by at least half of the members by the voting deadline will be required for the vote to be considered valid.
 
 Because the TAG may receive time-sensitive Executive Requests for advice or response at any time, a combination of issue tracker, e-mail, and internet technologies will be used to conduct TAG business online and to convene extraordinary meetings at short notice, as required.
 
