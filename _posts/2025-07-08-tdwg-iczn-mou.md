@@ -1,5 +1,5 @@
 ---
-title: 
+title: TDWG - ICZN Sign MOU
 description: >
   TDWG and the International Commission on Zoological Nomenclature sign an MOU
 background:
