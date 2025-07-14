@@ -57,22 +57,22 @@ A Task Group is created within an Interest Group to develop a particular product
 
 The charter for any new Task Group must be submitted to the Executive Committee by the Convener of the parent Interest Group. The Task Group Charter must include a schedule of milestones and products. The Executive Committee should seek external review as appropriate and render a decision to the Interest and Task Group Conveners within 30 days of receipt.
 
-If the charter is approved, the Executive Committee announces the formation of the Task Group to TDWG members and authorises the establishment of the Task Group's collaboration facilities.
+If the charter is approved, the Executive Committee will announce the formation of the Task Group to TDWG members and authorize the establishment of the Task Group's collaboration facilities.
 
 #### Maintaining a Task Group
 
-The Task Group Convener must submit an annual status report against its charter to the Executive Committee for review. The Executive Committee must notify the Task Group and associated Interest Group Conveners of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:
+The Task Group Convener must submit an annual status report, in accordance with its charter, to the Executive Committee for review. The Executive Committee must notify the Task Group and associated Interest Group Conveners of approval or rejection of the annual report within 30 days of receipt. A report can be rejected for two reasons:
 
 - The report is not up to the standard required or
 - The Task Group is not fulfilling the requirements of its charter.
 
 In the former case, the report should be edited and re-submitted. In the later case, the Executive Committee may reorganise or disband the Task Group.
 
-A Task Group charter can be revised at any time and submitted to the Secretary as a draft. A draft revision may reflect minor corrections or clarification, or may reflect a change in operation or purpose. The Secretary may approve minor changes, but must distribute any substantive revision to the Executive Committee for review and approval before it replaces a prior charter.
+A Task Group charter can be revised at any time and submitted to the Secretary as a draft. A draft revision may reflect minor corrections or clarification, or may reflect a change in operation or purpose. The Secretary may approve minor changes but must distribute any substantive revisions to the Executive Committee for review and approval before replacing a prior charter.
 
 #### Composition
 
-The only formal position required of a Task Group is a Convener. The Convener may appoint other positions as required. Members of the Task Group are defined by joining the group's communications system and meeting any other requirements specified in the charter. By definition, a member of a Task Group is also a member of the Interest Group that created it.
+The only formal position required of a Task Group is a Convener. The Convener may appoint other positions as needed. Members of the Task Group are defined by joining the group's communications system and meeting any other requirements specified in the charter. By definition, a member of a Task Group is also a member of the Interest Group that created it.
 
 {:id="ratification-of-standards"}
 ## Ratification of standards
