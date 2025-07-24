@@ -1,6 +1,6 @@
 ---
 title: Call for extended abstracts
-description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at SPNHC-TDWG 2024 in Okinawa, Japan, 2–6 September.
+description: Soliciting submission of extended abstracts to _Biodiversity Information Science and Standards_ of presentations at Living Data 2025 in Bogotà, Colombia, 21–24 October.
 background:
   img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
   by: Sammy Wong
