@@ -1,15 +1,14 @@
 ---
 title: Why submit an extended abstract in BISS?
-description: I already submitted my abstract to Oxford Abstracts (OA). Why should I expand and publish it as part of the Living Data 2025 conference proceedings in _Biodiversity Information Science and Standards (BISS)_?
+description: My abstract was already accepted for the conference, why should I expand and publish it as part of the Living Data 2025 conference proceedings in _Biodiversity Information Science and Standards (BISS)_?
 background:
   img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
   by: Sammy Wong
   href: https://unsplash.com/photos/v3iCc0K6Kfo
 toc: false
 ---
-# **Why submit an extended abstract in BISS?**
 
-My abstract was already accepted for the conference. Why should I expand and publish it as part of the Living Data 2025 conference proceedings in *Biodiversity Information Science and Standards (BISS)*?
+*Last updated 24 July 2025*
 
 Each extended abstract published in [*BISS*](https://biss.pensoft.net/) is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. *It is not a verbatim repetition of the abstract submitted to the conference platform.* Using Pensoft’s [ARPHA writing tool](https://arpha.pensoft.net/), you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation may also be added to the abstract’s media tab after the conference, to build a well-rounded presentation of your work. Each published abstract can link to your [ORCID](https://orcid.org/), will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work.
 
@@ -34,5 +33,3 @@ See the [Call for Extended Abstracts](https://www.tdwg.org/conferences/2025/biss
 * Easy to promote your presentation by sharing your abstract on Bluesky, X (formerly Twitter), Facebook, Telegram, Mendeley, Reddit, or via email with a single click, thanks to share buttons.
 
 \* VAT is applicable only for VAT NON-registered customers based within the European Union. To avoid being charged VAT, the EU companies or persons should provide their VAT registration numbers validated with the EU taxation database ([https://ec.europa.eu/taxation_customs/vies/](https://ec.europa.eu/taxation_customs/vies/)).
-
-*Last updated 24 July 2025*
