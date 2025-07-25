@@ -5,10 +5,10 @@ background:
   img: https://images.unsplash.com/photo-1625465809518-56046973ecbf
   by: Sammy Wong
   href: https://unsplash.com/photos/v3iCc0K6Kfo
-toc: true
+toc: false
 ---
 
-_Last updated 23 July 2025_ 
+_Last updated 25 July 2025_ 
 
 # **Call for extended abstracts**
 
