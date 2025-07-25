@@ -279,7 +279,7 @@ Lots of times it’s something small (e.g., a comma). Use the Next and Previous 
 {:id="no-access"}
 ### I see feedback and corrections to make in my abstract, but I don’t have access. Did I do something wrong?
 
-Don’t worry–you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to [How do I know the status of my abstract](../#abstract-status)) and should be sent back to you soon. If you have further questions or issues (e.g., you’re going to be out of touch soon for a period of time), email editor@tdwg.org so they know to expedite providing feedback once reviews are completed.
+Don’t worry–you did nothing wrong. Your abstract is still undergoing review (status should be in pre-submission review; see below to [How do I know the status of my abstract](../biss-abstract-submission/#abstract-status)) and should be sent back to you soon. If you have further questions or issues (e.g., you’re going to be out of touch soon for a period of time), email editor@tdwg.org so they know to expedite providing feedback once reviews are completed.
 
 {:id="state-province"}
 ### Where do I enter the state or province under address as an author?
