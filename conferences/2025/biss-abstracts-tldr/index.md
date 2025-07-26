@@ -1,7 +1,7 @@
 ---
-title: Instructions for extended abstract submission to BISS
+title: TL;DR for BISS extended abstracts
 description: >
-  Complete instructions for submitting an extended abstract in [Biodiversity Information Science and Standards](https://biss.pensoft.net/) for Living Data 2025.
+  Summary for those already familiar with abstract submission to Biodiversity Information Science & Standards (BISS) for SPNHC-TDWG 2024.
 background:
   img: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
   by: Dave Hoefler
@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-*Last updated 24 July 2025*
+*Last updated 26 July 2025*
 
 The complete instructions for submitting 2025 extended abstracts may be found [here](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). This high level summary provides relevant links to that document.
 
