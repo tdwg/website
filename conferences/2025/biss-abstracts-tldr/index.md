@@ -1,7 +1,7 @@
 ---
 title: TL;DR for BISS extended abstracts
 description: >
-  Summary for those already familiar with abstract submission to Biodiversity Information Science & Standards (BISS) for SPNHC-TDWG 2024.
+  Summary for those already familiar with abstract submission to Biodiversity Information Science & Standards (BISS) for Living Data 2025.
 background:
   img: https://images.unsplash.com/photo-1579873542903-b9064ba3c9ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
   by: Dave Hoefler
