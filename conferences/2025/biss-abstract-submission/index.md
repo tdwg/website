@@ -9,11 +9,11 @@ background:
 toc: true
 ---
 
-*Last updated 24 July 2025*
+*Last updated 11 August 2025*
 
 ## Latest news\!
 
-**Submission deadline.** 3 September 2025 is the deadline for submitting a NEW extended abstract to ARPHA for publication in [*Biodiversity Information Science and Standards (BISS)*](https://biss.pensoft.net/collections/).
+**Submission deadline.** 1 October 2025 is the deadline for submitting a NEW extended abstract to ARPHA for publication in [*Biodiversity Information Science and Standards (BISS)*](https://biss.pensoft.net/collections/).
 
 **Are you an old hand at ARPHA** and just need a summary version of these instructions? See the [TL;DR](https://www.tdwg.org/conferences/2025/biss-abstracts-tldr/) (too long; didn’t read) version.
 
