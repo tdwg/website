@@ -8,7 +8,7 @@ background:
 toc: false
 ---
 
-_Last updated 25 July 2025_ 
+_Last updated 11 August 2025_ 
 
 # **Call for extended abstracts**
 
@@ -16,7 +16,7 @@ Soliciting submission of extended abstracts to *Biodiversity Information Science
 
 We are pleased to announce the call for extended abstracts (mini-papers) for Living Data 2025 to be published in [*Biodiversity Information Science and Standards (BISS)*](https://biss.pensoft.net/).
 
-**Deadline** for extended abstract submission is **3 September 2025**
+**Deadline** for extended abstract submission is **1 October 2025**
 
 **Why?** Wondering why you might want to submit an extended abstract when your original abstract was already accepted for presentation at the conference? See all the [reasons why here](https://www.tdwg.org/conferences/2025/why-extended-abstract/).
 
@@ -28,6 +28,6 @@ We are pleased to announce the call for extended abstracts (mini-papers) for Liv
 
 Please direct any questions about extended abstracts to editor@tdwg.org.
 
-We look forward to receiving your extended abstract submissions by **3 September 2025**.
+We look forward to receiving your extended abstract submissions by **1 October 2025**.
 
 \* VAT is applicable only for VAT NON-registered customers based within the European Union. To avoid being charged VAT, the EU companies or persons should provide their VAT registration numbers validated with the EU taxation database ([https://ec.europa.eu/taxation_customs/vies/](https://ec.europa.eu/taxation_customs/vies/)).  
