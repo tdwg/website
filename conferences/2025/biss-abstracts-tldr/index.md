@@ -10,20 +10,20 @@ toc: true
 ---
 
 
-*Last updated 26 July 2025*
+*Last updated 11 August 2025*
 
 The complete instructions for submitting 2025 extended abstracts may be found [here](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). This high level summary provides relevant links to that document.
 
 ## Deadline
 
-The deadline for the submission of extended abstracts is **3 September 2025**. Abstracts in draft after 3 September and never submitted for review will not be considered for publication.
+The deadline for the submission of extended abstracts is **1 October 2025**. Abstracts in draft after 1 October and never submitted for review will not be considered for publication.
 
 ## Getting started
 
-1. [Register](https://livingdata2025.com/registration.html) for Living Data 2025\. **Presenters must register by 31 July**.  
+1. [Register](https://livingdata2025.com/registration.html) for Living Data 2025\. **Presenters should have registered by 31 July**.  
 2. You must have an abstract accepted for an in-person, virtual, or on-demand presentation to be eligible to submit an extended abstract for publication.  
 3. See “[Why submit an extended abstract in BISS](https://www.tdwg.org/conferences/2025/why-extended-abstract/)”  
-4. Extended abstracts will appear in the 2025 collection  
+4. Extended abstracts will appear in the [2025 collection](https://biss.pensoft.net/collection/516/) 
    1. [log-in](https://biss.pensoft.net/login.php?redirurl=%2F) or [register](https://pensoft.net/register.php?register=1&gotourl=biss.pensoft.net%2F) for an account with Pensoft  
    2. whitelist communications from pensoft.net  
 5. Begin a new abstract using the `Start Living Data 2025 Conference Abstract` button on [BISS homepage](https://biss.pensoft.net/)  
@@ -34,7 +34,7 @@ The deadline for the submission of extended abstracts is **3 September 2025**. A
 1. [Collection](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#collection) \- essential that this field be filled in once you start a new abstract; it should match the [session](https://livingdata2025.com/sessions.html) where the abstract is presented  
 2. [Title](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#title) \- title case \- select [MLA as style guide](https://titlecaseconverter.com/)  
 3. [Author(s)](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#authors) \- distinctions between [submitting](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#submitting-author) and [corresponding author](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#corresponding-author)(s)  
-4. [Abstract](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#abstract) \- English or Spanish; expand acronyms at first use (see new policy on acronyms and abbreviations); [URL use](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#hyperlinks-and-endnotes); [editorial help](https://www.tdwg.org/conferences/2024/biss-abstract-submission/#editorial-help)  
+4. [Abstract](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#abstract) \- English or Spanish; expand acronyms at first use (see [new policy on acronyms and abbreviations](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#acronyms-and-abbreviations)); [URL use](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#hyperlinks-and-endnotes); [editorial help](https://www.tdwg.org/conferences/2024/biss-abstract-submission/#editorial-help)  
 5. [Keywords](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#keywords) \- separate with comma and space; capitalize only proper nouns  
 6. [Presenting author](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#presenting-author) \- just the name as it appears as an author  
 7. [Presented at](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#presented-at) \- `Living Data 2025` (no more, no less)  
