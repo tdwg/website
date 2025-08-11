@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-*Last updated 25 July 2025*
+*Last updated 11 August 2025*
 
 ## Role of reviewers
 
@@ -17,7 +17,7 @@ Thank you for volunteering to review and/or edit the extended abstracts submitte
 
 ### Process
 
-Reviews will be conducted in Pensoft’s [ARPHA](https://arpha.pensoft.net/) writing platform for publication in the journal *Biodiversity Information Science and Standards* ([BISS](https://biss.pensoft.net/)) as [Proceedings of Living Data 2025](https://biss.pensoft.net/collections). Only an abstract accepted for presentation at Living Data 2025 qualifies for submission as an extended abstract. *Qualification will be verified by volume editors.*
+Reviews will be conducted in Pensoft’s [ARPHA](https://arpha.pensoft.net/) writing platform for publication in the journal *Biodiversity Information Science and Standards* ([BISS](https://biss.pensoft.net/)) as [Proceedings of Living Data 2025](https://biss.pensoft.net/collection/516/). Only an abstract accepted for presentation at Living Data 2025 qualifies for submission as an extended abstract. *Qualification will be verified by volume editors.*
 
 Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author's text and Comments to ask questions and make suggestions about content or wording. Session editors will use flags to indicate status and actions to be taken regarding the abstract but will not send feedback to (communicate directly with) authors in ARPHA. Only volume editors will send feedback to authors. *There is no separate narrative review; all comments/questions/changes should appear on the abstract.*
 
