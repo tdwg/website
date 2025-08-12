@@ -9,9 +9,11 @@ background:
 toc: true
 ---
 
-*Last updated 25 July 2025*
+*Last updated 12 August 2025*
 
-The complete instructions for reviewing/editing 2025 extended abstracts may be found [here](https://www.tdwg.org/conferences/2025/biss-editing/). This high level summary provides relevant links to that document. *Note that only those volunteering to review will have access to unpublished abstracts in the system.*
+The complete instructions for reviewing/editing 2025 extended abstracts may be found [here](https://www.tdwg.org/conferences/2025/biss-editing/). This high level summary provides relevant links to that document. 
+
+TL;DR, or "too long; didn't read" is an example of slang or jargon, which we've told authors not to use. Your job is to make sure that they do what we say, not what we do!
 
 ## Getting started
 
