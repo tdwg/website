@@ -1,0 +1,22 @@
+- text: "Living Data 2025"
+  href: /conferences/2025/
+- text: "Main Conference Website"
+  href: https://www.livingdata2025.com/index.html
+- text: "Extended Abstracts in BISS"
+  - text: "Call for Extended Abstracts"
+  - text: "Why Submit an Extended Abstract"
+    href: /conferences/2025/why-extended-abstract/
+  - text: "Call for Extended Abstracts"
+    href: /conferences/2025/biss-extended-abstract-call/
+  - text: "---"
+  - text: "Instructions for Authors"
+  - text: "Detailed Instructions for Submitting an Extended Abstract"
+    href: /conferences/2025/biss-abstract-submission/
+  - text: "Quick Instructions for Submitting an Extended Abstract"
+    href: /conferences/2025/biss-abstracts-tldr/
+  - text: "---"   
+  - text: "Instructions for Reviewers/Editors"
+  - text: "Detailed Instructions"
+    href: /conferences/2025/biss-editing/
+  - text: "Quick Instructions"
+    href: /conferences/2025/biss-editing-tldr/
