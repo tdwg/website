@@ -3,6 +3,7 @@
 - text: "Main Conference Website"
   href: https://www.livingdata2025.com/index.html
 - text: "Extended Abstracts in BISS"
+  menu:
   - text: "CALL FOR ABSTRACTS"
   - text: "Why Submit an Extended Abstract to BISS"
     href: /conferences/2025/why-extended-abstract/
