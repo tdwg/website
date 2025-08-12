@@ -9,11 +9,11 @@ background:
 toc: true
 ---
 
-*Last updated 11 August 2025*
+*Last updated 12 August 2025*
 
 ## Role of reviewers
 
-Thank you for volunteering to review and/or edit the extended abstracts submitted to the Proceedings of Living Data 2025\. Even if you have participated in this reviewing process before, please read through these instructions carefully. A summary version of these instructions appears [here](https://www.tdwg.org/conferences/2025/biss-editing-tldr/) for veteran reviewers of extended abstracts in BISS. To help you understand the ARPHA workflow from the author’s point of view, please also review the 2025 [Instructions for BISS abstract submission](https://www.tdwg.org/conferences/2025/biss-abstract-submission/).
+Thank you for volunteering to review and/or edit the extended abstracts submitted to the Proceedings of Living Data 2025\. Even if you have participated in this reviewing process before, please read through these instructions carefully. A [quick summary version](https://www.tdwg.org/conferences/2025/biss-editing-tldr/) of these instructions (or TL;DR "too long; didn't read") may be useful for veteran reviewers of extended abstracts in BISS. To help you understand the ARPHA workflow from the author’s point of view, please also review the 2025 [Instructions for BISS abstract submission](https://www.tdwg.org/conferences/2025/biss-abstract-submission/).
 
 ### Process
 
