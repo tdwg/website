@@ -10,9 +10,11 @@ toc: true
 ---
 
 
-*Last updated 11 August 2025*
+*Last updated 12 August 2025*
 
-The complete instructions for submitting 2025 extended abstracts may be found [here](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). This high level summary provides relevant links to that document.
+For those already familiar with extended abstract submission in BISS, this high level summary provides relevant links to the [complete instructions for submitting 2025 extended abstracts](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). 
+
+TL;DR, or "too long; didn't read" is an example of slang or jargon, which we've told you not to use. Do what we say, not what we do!
 
 ## Deadline
 
