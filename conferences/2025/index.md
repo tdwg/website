@@ -15,9 +15,11 @@ _Last updated 12 August 2025_
 
 ## Join GEO BON, GBIF, OBIS and TDWG in Bogotá Colombia, 21-24 October 2025
 
-In 2025 TDWG will meet with [GEO BON](https://geobon.org/), [GBIF](https://www.gbif.org), and [OBIS](https://obis.org) in a jointly organized conference, "[Living Data 2025](https://www.livingdata2025.com/index.html)."  Please visit the main conference website for information about participating, presenting, registration, travel, accommodation, etc.
+In 2025 TDWG will meet with [GEO BON](https://geobon.org/), [GBIF](https://www.gbif.org), and [OBIS](https://obis.org) in a jointly organized conference, "[Living Data 2025](https://www.livingdata2025.com/index.html)."  Please visit the main conference website for information about presenting, registration, the venue, travel, accommodation, etc.
 
 Please find in the links below (and the menu above) information about submitting and reviewing/editing extended abstracts that will be published in [Biodiversity Information Science and Standards (BISS)](https://biss.pensoft.net/).
+
+## Publishing extended abstracts in BISS
 
 ### For authors
   - [Why and extended abstract?](/conferences/2025/why-extended-abstract/)
