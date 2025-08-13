@@ -8,11 +8,9 @@ background:
 toc: false
 ---
 
-_Last updated 11 August 2025_ 
+_Last updated 13 August 2025_ 
 
 # **Call for extended abstracts**
-
-Soliciting submission of extended abstracts to *Biodiversity Information Science and Standards* of presentations at Living Data 2025 in Bogotà, Colombia
 
 We are pleased to announce the call for extended abstracts (mini-papers) for Living Data 2025 to be published in TDWG's Pensoft journal, [*Biodiversity Information Science and Standards (BISS)*](https://biss.pensoft.net/). [Pensoft Publishers](https://pensoft.net/) is a valued sponsor of Living Data 2025.
 
