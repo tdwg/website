@@ -8,13 +8,15 @@ background:
 toc: false
 ---
 
-*Last updated 11 August 2025*
+*Last updated 14 August 2025*
 
 Each extended abstract published in [*BISS*](https://biss.pensoft.net/) is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. *It is not a verbatim repetition of the abstract submitted to the conference platform.* Using Pensoft’s [ARPHA writing tool](https://arpha.pensoft.net/), you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation may also be added to the abstract’s media tab after the conference, to build a well-rounded presentation of your work. Each published abstract can link to your [ORCID](https://orcid.org/), will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work.
 
 Abstracts submitted to the conference platform were purposefully kept succinct (≤300 words) to facilitate prompt review for the purposes of programming the conference. 
 
-TDWG has had a successful partnership since 2017 with Pensoft Publishing to publish the [Proceedings](https://biss.pensoft.net/collections) of its conferences, including those of [Biodiversity\_Next 2019](https://biss.pensoft.net/collection/115/). [Pensoft Publishers](https://pensoft.net/) is a valued sponsor of Living Data 2025. We now offer the opportunity to have your abstract included in the open access [Proceedings of Living Data 2025](https://biss.pensoft.net/collection/516/). This is a benefit of your registration for the conference and acceptance of your presentation. 
+Since 2017, TDWG has been partnering with Pensoft to provide a convenient and technologically advanced scholarly platform for participants at the annual TDWG events to make their conference contributions permanently and efficiently discoverable. On the [BISS website](https://biss.pensoft.net/collections), organised by conference, but also by symposium, you can find nine collections, including the annual TDWG events since 2017, the [2019 Biodiversity_Next](https://biss.pensoft.net/collection/115/), and the joint conferences with the Society for the Preservation of Natural History Collections (SPNHC) in 2018 and [2024](https://biss.pensoft.net/collection/438/).
+
+In 2025, together, we extend the opportunity to have your abstract included in the open access [Living Data 2025](https://biss.pensoft.net/collection/516/) collection. This is a benefit of your registration for the conference and acceptance of your presentation. 
 
 If the presenter or submitting author is a [TDWG member in good standing](https://www.tdwg.org/about/membership/#membership-durationschedule) for 2025 and registered for the conference, there is no additional cost to publishing an extended abstract. Non-TDWG members will be charged a nominal fee of €50 (plus VAT, if applicable\*). A limited number of discounts for non-TDWG member authors/presenters, who registered for the conference as students or from [countries with discounted registration fees](https://livingdata2025.com/registration.html), may be granted upon request. Please contact editor@tdwg.org. 
 
