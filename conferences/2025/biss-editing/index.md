@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-*Last updated 12 August 2025*
+*Last updated 25 August 2025*
 
 ## Role of reviewers
 
@@ -88,6 +88,8 @@ If both flags are set in ARPHA, this should be scored as both on ATS.
 ### Editorial review process
 
 Please begin the editorial review process as soon as an abstract is submitted for review. You should receive an email from awt@pensoft.net when an abstract has been assigned to you for review. Alternatively, the [Collection editor tab in your ARPHA dashboard](https://arpha.pensoft.net/dashboard?showall=1&state_type=23) (when logged in) will show abstracts ready to be reviewed (they will be marked “in pre-submission review”).
+
+**Note:** You may receive notification of a submission to a session ([collection](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#collection)) you are reviewing and then find that it has disappeared from your queue. This may happen when an extended abstract was submitted to the wrong collection (e.g., moved in the program from what the author originally thought), and was changed by a volume editor.
 
 Keep in mind that the same notification is sent to all technical editors, and ARPHA does not allow simultaneous editing of a document. Only one person can work on an abstract at a time. If you are not actively working on a manuscript, please close the window to give others a chance to contribute. Note: the dashboard may give misleading indications that someone is editing the manuscript. You can verify if this is true by clicking on the manuscript title.
 
