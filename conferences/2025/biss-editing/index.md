@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-*Last updated 25 August 2025*
+*Last updated 1 September 2025*
 
 ## Role of reviewers
 
@@ -19,13 +19,15 @@ Thank you for volunteering to review and/or edit the extended abstracts submitte
 
 Reviews will be conducted in Pensoft’s [ARPHA](https://arpha.pensoft.net/) writing platform for publication in the journal *Biodiversity Information Science and Standards* ([BISS](https://biss.pensoft.net/)) as [Proceedings of Living Data 2025](https://biss.pensoft.net/collection/516/). Only an abstract accepted for presentation at Living Data 2025 qualifies for submission as an extended abstract. *Qualification will be verified by volume editors.*
 
-Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author's text and Comments to ask questions and make suggestions about content or wording. Session editors will use flags to indicate status and actions to be taken regarding the abstract but will not send feedback to (communicate directly with) authors in ARPHA. Only volume editors will send feedback to authors. *There is no separate narrative review; all comments/questions/changes should appear on the abstract.*
+Editing will consist of using Track Changes (to correct spelling, grammar, and style) to make suggested changes to author's text and Comments to ask questions and make suggestions about content or wording. *There is no separate narrative review; all comments/questions/changes should appear on the abstract.* 
+
+Session editors will use [flags](https://www.tdwg.org/conferences/2025/biss-editing/#understanding-flags) in ARPHA to indicate status and actions to be taken regarding the abstract, and will record their progress in the 2025 Abstract Tracking by Session (ATS) spreadsheet (link distributed separately). Session editors *will not send feedback to (communicate directly with) authors* in ARPHA. Only volume editors will send feedback to authors. 
 
 ### Responsibilities
 
 It is your responsibility as reviewers/editors to ensure the acceptance of only high quality, well-written abstracts that will enhance the session and the reputation of our organizations, the conference, and this journal.
 
-It is intended that all accepted extended abstracts should be published before the start of the conference but this relies on the responsiveness of both editors and authors. Your efforts will be credited as an editor of any collection on which you work.
+Each accepted extended abstract will be published after submission to the journal for publication. The speed of this process relies on the responsiveness of both editors and authors. Your efforts will be credited as an editor of any collection on which you work.
 
 If you feel unable to do this task, would like additional guidance or help, please contact the volume editors at editor@tdwg.org.
 
@@ -43,24 +45,24 @@ The terms “reviewer” and “editor” may be used interchangeably in these i
   * Using these tools on the abstract itself is a way that we can track what has been suggested and its resolution by authors.  
   * If you have a general question or comment, highlight a small piece of text and attach a comment to it  
   * Use Track Changes to correct grammar, spelling, or style. The author can then accept or reject these changes as appropriate.  
-* Use [flags](https://www.tdwg.org/conferences/2025/biss-editing/#understanding-flags) in ARPHA to mark editing/reviewing progress  
+* Use [flags](https://www.tdwg.org/conferences/2025/biss-editing/#understanding-flags) in ARPHA to mark editing/reviewing progress
+* Record reviewing/editing progress for each abstract in the 2025 Abstract Tracking by Session (ATS) spreadsheet (link distributed separately)
 * DO NOT use the Send feedback button despite what the email from Pensoft may indicate.  
 * Address editing tasks promptly to enable maximum time and flexibility for dealing with authors.  
-* At least two people will review each abstract, addressing both language and content reviews. Session editors may be chosen from among session organizers or may be filled by members of the Program Committee.
-
+* At least two people will review each abstract, addressing both language and content reviews.
+  
 ### Volume editors
 
 * Provide a link to the abstract tracking spreadsheet (ATS) to all session editors for tracking progress of the review.  
 * Responsible for communicating with authors (via Send feedback button) about required revisions (after the abstract has been flagged with revise).  
 * Have access to all abstracts in the volume, should questions arise.  
 * Work with session editors to ensure that deadlines are met.  
-* Provide feedback in ATS to session editors of registration status of presenters.  
 * Responsible for final review and approval for submission of all abstracts.  
 * May be reached at any time via [editor@tdwg.org](mailto:editor@tdwg.org); please cite ARPHA (or BISS) ID in the subject line of all communications.
 
 ## Understanding flags
 
-ARPHA provides flags to editors to track the progress of an abstract during the review process. Editors have access to setting flags only when they have control over the abstract in the “in pre-submission review” stage. Be sure you understand the difference between using flags (a series of checkboxes) and clicking buttons with similarly sounding names (and greater consequences if used in error). Flags that have been set by reviewers appear with each listed abstract on your ARPHA dashboard (under Collection editor), but authors cannot see these flags.
+ARPHA provides flags to editors to track the progress of an abstract during the review process. Editors have access to setting flags only when they have control over the abstract in the “in pre-submission review” stage. Be sure you understand the difference between using flags (a series of checkboxes) and clicking buttons with similarly sounding names (and greater consequences if used in error). Flags that have been set by reviewers appear with each listed abstract on your ARPHA dashboard (under Collection editor), but *authors cannot see these flags.*
 
 ### Editorial review *status* flags
 
