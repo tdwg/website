@@ -31,10 +31,10 @@ Term of office shown as span of calendar years, inclusive.
 
 Role | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [David Bloom](./backgrounds/#chair)  [&#128231;](mailto:dbloom@vertnet.org) | VertNet, Berkeley, CA, USA | 2025-2026
+[Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [David Bloom](./backgrounds/#chair)  [&#128231;](mailto:chair@tdwg.org) | VertNet, Berkeley, CA, USA | 2025-2026
 [Deputy Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | TBA | 
 [Secretary](/about/constitution/#63-secretary) | [Visotheary Ung](./backgrounds/#secretary)  [](mailto:secretary@tdwg.org) | Muséum National d'Histoire Naturelle, Paris, France | 2025-2026
-[Treasurer](/about/constitution/#64-treasurer) | [Chandra Earl](./backgrounds/#treasurer)  [&#128231;](mailto:chandra.earl@asu.edu) | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
+[Treasurer](/about/constitution/#64-treasurer) | [Chandra Earl](./backgrounds/#treasurer)  [&#128231;](mailto:treasurer@tdwg.org) | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
 
 ### Subcommittee chairs
 
