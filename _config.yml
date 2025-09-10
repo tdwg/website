@@ -5,9 +5,10 @@ repository: tdwg/website
 # SOCIAL PROFILES
 social:
   email: secretary@tdwg.org
-  twitter: tdwg
+  bluesky: tdwg.org
+  linkedin: https://www.linkedin.com/company/tdwg/
+  facebook: https://www.facebook.com/groups/326780777736/
   github: tdwg
-  facebook: https://www.facebook.com/groups/326780777736
 
 # THEME SETTINGS
 theme: minima
