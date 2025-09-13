@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-*Last updated 11 August 2025*
+*Last updated 12 September 2025*
 
 ## Latest news\!
 
@@ -21,11 +21,11 @@ toc: true
 
 ### Register for Living Data 2025
 
-An abstract must be accepted for an in-person, virtual, or on-demand presentation at Living Data 2025 to be eligible as an extended abstract submitted for publication in *BISS*. [Registration](https://livingdata2025.com/registration.html) for the conference is required (at minimum) by the author who is the presenter. 
+An abstract must be accepted for an in-person, virtual, or on-demand presentation at Living Data 2025 to be eligible as an extended abstract submitted for publication in *BISS*. This abstract must be an _expanded version_ of what was submitted and accepted for presentation at Living Data 2025. [Registration](https://livingdata2025.com/registration.html) for the conference is required (at minimum) by the author who is the presenter. 
 
 ### Introduction
 
-Extended abstracts may be submitted based on oral presentations (including lightning talks) and posters accepted for presentation at the conference. Abstracts should be written for a general audience, provide context for your presentation and avoid unexplained jargon. You may submit in English or Spanish, however the template for submission is in English. Your abstract may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples. Abstract submissions are limited to 6,000 characters (including spaces of all document content; supplemental materials are excluded from this count). Abstracts will be published in TDWG’s journal, [*Biodiversity Information Science and Standards*](https://biss.pensoft.net) *(BISS)*. Publishing to BISS is an opportunity for you to add value to your conference registration, generate a citable snapshot of your work and enhance your abstract to better reflect your work ([see more](https://www.tdwg.org/conferences/2025/why-extended-abstract/)). 
+Extended abstracts may be submitted based on oral presentations (including lightning talks) and posters accepted for presentation at the conference. Abstracts should be written for a general audience, provide context for your presentation and avoid unexplained jargon. You may submit in English or Spanish, however the template for submission is in English. Your abstract may include references, figures, tables, even supplemental material. See [abstracts from past conferences](https://biss.pensoft.net/collections) for examples. Abstract submissions are limited to 6,000 characters (including spaces of all document content; supplemental materials are excluded from this count) but are _not_ a repeat of your original 300-word abstract. Abstracts will be published in TDWG’s journal, [*Biodiversity Information Science and Standards*](https://biss.pensoft.net) *(BISS)*. Publishing to BISS is an opportunity for you to add value to your conference registration, generate a citable snapshot of your work and enhance your abstract to better reflect your work ([see more](https://www.tdwg.org/conferences/2025/why-extended-abstract/)). 
 
 #### Cost
 
@@ -78,7 +78,7 @@ Regarding `Conflicts of interest` (conflicto de intereses), you will be asked to
 {:id="collection"}
 ## Collection \[Colección\]
 
-Each `Collection` (in ARPHA) represents an [organized session](https://livingdata2025.com/sessions.html) accepted for Living Data 2025, including posters, contributed orals and virtual On-Demand presentations. Please select the session to which your abstract has been assigned in the program.
+Each `Collection` (in ARPHA) represents an [organized session](https://livingdata2025.com/sessions.html) accepted for Living Data 2025, including posters, contributed orals and virtual On-Demand presentations. Please select the session to which your abstract has been [assigned in the program](https://livingdata2025.com/program.html). Note that the current placement of your presentation in the program may differ from the session to which you originally submitted it. Please use the collection corresponding to its final placement. On-demand presentations are considered part of 6960773 Contributed Oral presentations.
 
 Click `Collections` on the top navigation bar of your manuscript (top right of figure below) for a drop-down list of sessions, organized by ID number. Choose the appropriate collection for your abstract. *Designating a Collection is critical, as your abstract cannot be directed to the proper editors without this assignment.* Note that both authors and editors have the ability to [designate a collection](https://arpha.pensoft.net/tips/Add-to-Article-Collections).
 
