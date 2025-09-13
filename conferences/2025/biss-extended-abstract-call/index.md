@@ -8,7 +8,7 @@ background:
 toc: true
 ---
 
-_Last updated 26 August 2025: Clarified Cost section for TDWG members_ 
+_Last updated 12 September 2025: updated eligibility; update 26 August: clarified Cost section for TDWG members_ 
 
 # **Call for extended abstracts**
 
@@ -24,7 +24,7 @@ Wondering why you might want to submit an extended abstract when your original a
 
 ## Eligibility 
 
-Only an abstract approved for presentation, whose presenter is registered for the conference, is eligible for submission as an extended abstract. *The person submitting the extended abstract to BISS may be a different co-author from the one who submitted the original abstract to Living Data 2025\.* It is important that the submitting author be available to handle reviews in a timely manner.
+This abstract must be an _expanded version_ of what was submitted, accepted, and presented by a registered participant at Living Data 2025. *The person submitting the extended abstract to BISS may be a different co-author from the one who submitted the original abstract to Living Data 2025\.* It is important that the submitting author be available to handle reviews in a timely manner.
 
 ## Cost
 
