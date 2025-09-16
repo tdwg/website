@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-*Last updated 1 September 2025*
+*Last updated 15 September 2025*
 
 ## Role of reviewers
 
@@ -47,6 +47,7 @@ The terms “reviewer” and “editor” may be used interchangeably in these i
   * Use Track Changes to correct grammar, spelling, or style. The author can then accept or reject these changes as appropriate.  
 * Use [flags](https://www.tdwg.org/conferences/2025/biss-editing/#understanding-flags) in ARPHA to mark editing/reviewing progress
 * Record reviewing/editing progress for each abstract in the 2025 Abstract Tracking by Session (ATS) spreadsheet (link distributed separately)
+* **It is very important to both use flags in ARPHA and to record their status in the ATS with your initials**
 * DO NOT use the Send feedback button despite what the email from Pensoft may indicate.  
 * Address editing tasks promptly to enable maximum time and flexibility for dealing with authors.  
 * At least two people will review each abstract, addressing both language and content reviews.
@@ -66,7 +67,7 @@ ARPHA provides flags to editors to track the progress of an abstract during the 
 
 ### Editorial review *status* flags
 
-If both flags are set in ARPHA, this should be scored as both on ATS.
+**It is very important to both use flags in ARPHA and to record their status in the ATS with your initials**
 
 * **Language reviewed** \-   
   * Abstracts are written in English, but what flavor? British or American or Canadian or ? Whatever the flavor, the style, grammar, and spelling should be consistent (e.g., organisation OR organization NOT both) and above all, be comprehensible (no unexplained slang, unexpanded acronyms, or jargon) by general readers. If the language review is extensive and is a barrier to assessing content, notify the editor@tdwg.org about sending feedback to authors before the content is reviewed.  
