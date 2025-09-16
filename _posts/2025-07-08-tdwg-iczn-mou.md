@@ -19,7 +19,7 @@ We look forward to working together with ICZN to strengthen the foundation of bi
 
 <p class="d-flex justify-content-around align-items-center">
 
-  <a href="https://https://static.tdwg.org/documents/iczn-tdwg-mou.pdf">
+  <a href="https://static.tdwg.org/documents/iczn-tdwg-mou.pdf">
     <img src="https://static.tdwg.org/images/articles/iczn-tdwg-mou-img.png" alt="MOU thumbnail"><br />
     View PDF
   </a>
