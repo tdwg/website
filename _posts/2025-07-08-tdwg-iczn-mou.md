@@ -17,6 +17,12 @@ The partnership underscores our shared commitment to advancing open science, ens
 
 We look forward to working together with ICZN to strengthen the foundation of biodiversity data worldwide.
 
+<p class="d-flex justify-content-around align-items-center">
+
+  [![View PDF](https://static.tdwg.org/images/articles/iczn-tdwg-mou-img.png)](https://static.tdwg.org/documents/iczn-tdwg-mou.pdf)
+
+</p>
+
 ### Remarks
 
 *“Scientific nomenclature aims to bring clear and unambiguous data-sharing and communication about species, and strengthening the ICZN-TDWG axis would seem a win-win situation in a time where ‘big data initiatives’ are increasingly important for safeguarding and managing our ecosystems.”*  (**Thomas Pape, President, ICZN**)
