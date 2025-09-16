@@ -17,10 +17,10 @@ The partnership underscores our shared commitment to advancing open science, ens
 
 We look forward to working together with ICZN to strengthen the foundation of biodiversity data worldwide.
 
-<p class="d-flex align-items-center">
+<p style="text-align: center;">
   <a href="https://static.tdwg.org/documents/iczn-tdwg-mou.pdf">
     <img src="https://static.tdwg.org/images/articles/iczn-tdwg-mou-img.png" alt="MOU thumbnail">
-  </a>
+  </a><br />
   <a href="https://static.tdwg.org/documents/iczn-tdwg-mou.pdf">
     <span style="text-align: center;">View PDF</span>
   </a>
