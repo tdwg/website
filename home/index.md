@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Public review for new conceptual model and Data Package Guide for Darwin Core in now in progress and will remain open until 16 December.
+    Public review for new Darwin Core conceptual model and Data Package Guide is now in progress, and will remain open until at least 16 December.
   href: https://www.tdwg.org/news/2025/public-review-of-conceptual-model-and-dp-guide-for-darwin-core/
   img: https://images.unsplash.com/photo-1664526937033-fe2c11f1be25
 ---
