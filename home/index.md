@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Public review for new and changed terms of the Audiovisual Core will remain open until at least 17 June.
-  href: https://www.tdwg.org/news/2025/audiovisual-core-public-review/
-  img: https://static.tdwg.org/images/articles/2023/ac-vcv-abdomen-posterior.jpg
+    Public review for new conceptual model and Data Package Guide for Darwin Core in now in progress and will remain open until 16 December.
+  href: https://www.tdwg.org/news/2025/public-review-of-conceptual-model-and-dp-guide-for-darwin-core/
+  img: https://unsplash.com/photos/diagram-7hA2wqBcSF8
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
