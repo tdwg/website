@@ -8,7 +8,7 @@ background:
 toc: true
 ---
 
-_Last updated 12 September 2025: updated eligibility; update 26 August: clarified Cost section for TDWG members_ 
+_Last updated 25 September 2025: submission deadline extended to 1 November; update 12 September: update eligibility; update 26 August: clarified Cost section for TDWG members_ 
 
 # **Call for extended abstracts**
 
@@ -16,7 +16,7 @@ We are pleased to announce the call for extended abstracts (mini-papers) for Liv
 
 [Pensoft Publishers](https://pensoft.net/) is a valued sponsor of Living Data 2025. Please join them in Bogotá at booth #8 to find out more about their open-access peer-reviewed [journal portfolio](https://pensoft.net/browse-journals) and attend their symposium [6788879 - Long Live Biodiversity Data: Knowledge Transfer and Continuity across Research Projects](https://www.livingdata2025.com/sessions.html?session=6788879).
 
-**Deadline** for extended abstract submission is **1 October 2025**
+**NEW Deadline** for extended abstract submission is ~~1 October 2025~~ **1 November 2025**
 
 ## Why submit?
 
@@ -42,5 +42,5 @@ Please direct any questions about extended abstracts to editor@tdwg.org. Make su
 
 ## Deadline
 
-We look forward to receiving your extended abstract submissions by **1 October 2025**.
+We look forward to receiving your extended abstract submissions by ~~1 October 2025~~ **1 November 2025**.
 
