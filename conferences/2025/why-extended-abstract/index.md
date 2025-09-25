@@ -8,7 +8,7 @@ background:
 toc: false
 ---
 
-*Last updated 14 August 2025*
+*Last updated 25 September: extended submission deadline*
 
 Each extended abstract published in [*BISS*](https://biss.pensoft.net/) is a peer-reviewed mini-paper designed to provide you with a value-added, easily citable snapshot of your work. *It is not a verbatim repetition of the abstract submitted to the conference platform.* Using Pensoft’s [ARPHA writing tool](https://arpha.pensoft.net/), you can enhance and lengthen your abstract, so that it includes figures, keywords, references, even supplementary materials. Slides, posters, and a link to the video of your presentation may also be added to the abstract’s media tab after the conference, to build a well-rounded presentation of your work. Each published abstract can link to your [ORCID](https://orcid.org/), will have a DOI assigned (see below), and provides metrics about views, downloads, citations, or even online mentions of your work.
 
@@ -20,7 +20,7 @@ In 2025, together, we extend the opportunity to have your abstract included in t
 
 If the presenter or submitting author is a [TDWG member in good standing](https://www.tdwg.org/about/membership/#membership-durationschedule) for 2025 and registered for the conference, there is no additional cost to publishing an extended abstract. Non-TDWG members will be charged a nominal fee of €50 (plus VAT, if applicable\*). A limited number of discounts for non-TDWG member authors/presenters, who registered for the conference as students or from [countries with discounted registration fees](https://livingdata2025.com/registration.html), may be granted upon request. Please contact editor@tdwg.org. 
 
-See the [Call for Extended Abstracts](https://www.tdwg.org/conferences/2025/biss-extended-abstract-call/) for how to get started \- Deadline for Submission: **1 October 2025\.**
+See the [Call for Extended Abstracts](https://www.tdwg.org/conferences/2025/biss-extended-abstract-call/) for how to get started \- **NEW** Deadline for Submission: ~~1 October 2025~~ **1 November 2025**.
 
 ### Additional benefits of publishing an extended abstract include:
 
