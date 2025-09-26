@@ -14,7 +14,7 @@ _Last updated 25 September 2025: **NEW deadline 1 November 2025**_
 
 For those already familiar with extended abstract submission in BISS, this high level summary provides relevant links to the [complete instructions for submitting 2025 extended abstracts](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). 
 
-TL;DR, or "too long; didn't read" is an example of slang or jargon, which we've told you not to use. Do what we say, not what we do!
+TL;DR, or "too long; didn't read" is an example of slang or jargon, which we've told you not to use. Do what we say, not what we do! 
 
 ## Deadline
 
