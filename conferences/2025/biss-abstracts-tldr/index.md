@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-*Last updated 12 August 2025*
+_Last updated 25 September 2025: **NEW deadline 1 November 2025**_
 
 For those already familiar with extended abstract submission in BISS, this high level summary provides relevant links to the [complete instructions for submitting 2025 extended abstracts](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). 
 
@@ -18,7 +18,7 @@ TL;DR, or "too long; didn't read" is an example of slang or jargon, which we've 
 
 ## Deadline
 
-The deadline for the submission of extended abstracts is **1 October 2025**. Abstracts in draft after 1 October and never submitted for review will not be considered for publication.
+The **NEW** deadline for the submission of extended abstracts is ~~1 October 2025~~ **1 November 2025**. Abstracts in draft after 1 October and never submitted for review will not be considered for publication.
 
 ## Getting started
 
