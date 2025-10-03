@@ -83,7 +83,6 @@ Institution name | City
 [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/) | Saint Louis, MO
 [Museu de Ciències Naturals de Barcelona](https://museuciencies.cat/en/) | Barcelona
 [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en) | Berlin
-[Museum National d'Histoire Naturelle](https://www.mnhn.fr/fr) | Paris
 [Museum Victoria](https://museumsvictoria.com.au/) | Melbourne
 [National Museum / Národní muzeum](https://www.nm.cz/en) | Prague
 [National Museum of Natural History](https://naturalhistory.si.edu/) | Washington, DC
