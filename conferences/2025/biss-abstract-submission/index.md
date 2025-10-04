@@ -9,7 +9,9 @@ background:
 toc: true
 ---
 
-*Last updated 25 September 2025*
+*Last updated 4 October 2025*
+  - *update 4 October: added cost information to [finalizing instructions](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#finalize-and-submit-to-journal)*
+  - *update 25 September: new submission deadline*
 
 ## Latest news\!
 
@@ -235,6 +237,8 @@ Your manuscript may require more than one cycle of revision so please address co
 ## Finalize and submit to journal
 
 Once the submitting author receives notification that their abstract has been approved, they must now go through the process to finalize and submit the abstract to the journal for publication.
+
+NOTE: [Assessment of costs](https://www.tdwg.org/conferences/2025/biss-extended-abstract-call/#cost) for inclusion in the [Living Data 2025](https://biss.pensoft.net/collection/516/) collection are determined by [treasurer@tdwg.org](mailto:treasurer@tdwg.org) and communicated to the publishers. Please direct any questions or disputes (e.g., you think you are part of an [institutional delegation](https://www.tdwg.org/about/membership/#institutional-members-2025)) to the TDWG Treasurer BEFORE hitting the `Submit to the journal` button. 
 
 ### Verify in ARPHA
 
