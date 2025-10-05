@@ -10,7 +10,9 @@ toc: true
 ---
 
 
-_Last updated 25 September 2025: **NEW deadline 1 November 2025**_
+_Last updated_ 
+  - 4 October: added information about cost to finalizing your abstract
+  - 25 September 2025: **NEW deadline 1 November 2025** 
 
 For those already familiar with extended abstract submission in BISS, this high level summary provides relevant links to the [complete instructions for submitting 2025 extended abstracts](https://www.tdwg.org/conferences/2025/biss-abstract-submission/). 
 
@@ -71,12 +73,14 @@ The **NEW** deadline for the submission of extended abstracts is ~~1 October 202
 
 1. Email announces that editors have approved your abstract for submission  
 2. Verify that all information is correct, including name of presenting author  
-3. Click the `Validate` button \- no lingering issues; number of characters should not exceed 6000  
-4. The `Submit to the journal` button initiates a *long* checklist of submission steps (only the [submitting author](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#submitting-author) sees this button). This checklist will include payment details for non-TDWG members.  
-5. Should receive email confirming successful submission; if none, check dashboard to see if abstract status is “[incomplete](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#incomplete-submission)” and resolve.  
-6. At publication, receive another email
+3. Click the `Validate` button \- no lingering issues; number of characters should not exceed 6000
+4. Settle any dispute about [cost of publication](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#finalize-and-submit-to-journal) BEFORE hitting `Submit to the journal` button. 
+5. The `Submit to the journal` button initiates a *long* checklist of submission steps (only the [submitting author](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#submitting-author) sees this button). This checklist will include payment details for non-TDWG members.  
+6. Should receive email confirming successful submission; if none, check dashboard to see if abstract status is “[incomplete](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#incomplete-submission)” and resolve.  
+7. At publication, receive another email
 
 ## Help and other FAQ
 
 1. Before contacting editor@tdwg.org or journals@pensoft.net with questions, be sure to read [full documentation](https://www.tdwg.org/conferences/2025/biss-abstract-submission/)  
-2. list of [ARPHA-related FAQ](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#arpha-related-faqs)
+2. List of [ARPHA-related FAQ](https://www.tdwg.org/conferences/2025/biss-abstract-submission/#arpha-related-faqs)
+3. Direct all questions about cost/charges to treasurer@tdwg.org
