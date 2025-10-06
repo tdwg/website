@@ -33,6 +33,7 @@ list:
 - Jörg Holetschek - Botanic Garden and Botanical Museum Berlin; Germany
 - Pieter Huybrechts - Research Institute for Nature and Forest (INBO), Belgium
 - Kate Ingenloff - Global Biodiversity Information Facility (GBIF); Denmark
+- Erica Krimmel - Independent; USA
 - Kristen "Kit" Lewers - Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida; USA
 - Ben Norton -Independent; USA
 - Tim Robertson - Global Biodiversity Information Facility (GBIF); Denmark
