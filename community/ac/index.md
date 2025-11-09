@@ -26,6 +26,7 @@ list:
 - Niels Klazenga - Royal Botanic Gardens Victoria, Australia
 - Rebecca Snyder - Smithsonian Institution, National Museum of Natural History, Washington DC, USA
 - Dan Stowell - Tilburg University and Naturalis Biodiversity Centre, Netherlands
+- Jocelyn Triplett - Duke University, MorphoSource.org
 - Kate Webbink - Field Museum of Natural History, Chicago, IL, USA
 
 ## Motivation
