@@ -1,5 +1,5 @@
 ---
-title: Community help desk for Darwin Core public review
+title: Community help desk for Darwin Core public review PAST
 description: >
   Please join us for a community help desk session for the Darwin Core public review!
 background:
