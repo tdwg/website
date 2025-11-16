@@ -50,9 +50,9 @@ Functional Subcommittee | Name | Affiliation | Term of office
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Africa | TBA |  | 2025-2026
+Africa | Brice Djiofack | [&#128231;](mailto:bdjiofack@gmail.com) | Cameroon | 2025-2027
 Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
-Europe | [Laurence Livermore](./backgrounds/#europe-representative) [&#128231;](mailto:laurence.livermore@nhm.ac.uk) | Natural History Museum, London, UK | 2025-2026
+Europe | Wouter Addink [&#128231;](mailto:wouter.addink@naturalis.nl) | Naturalis, Leiden | 2025-2026
 Latin America | [Juan Miguel Saez Hidalgo](https://www.tdwg.org/about/executive/backgrounds/#latin-america-representative)  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
 North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:ekrimmel@gmail.com) | Independent Biodiversity Information Scientist, Sacramento, CA | 2025-2026
 Oceania | [Shelley James](./backgrounds/#oceania-representative) [&#128231;](mailto:shelley.james@dbca.wa.gov.au) | Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions | 2024-2025
