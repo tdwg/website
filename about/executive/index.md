@@ -50,7 +50,7 @@ Functional Subcommittee | Name | Affiliation | Term of office
 
 Region | Name | Affiliation | Term of office
 --- | --- | --- | ---
-Africa | Brice Djiofack [&#128231;](mailto:bdjiofack@gmail.com) | Cameroon | 2025-2027
+Africa | Brice Djiofack [&#128231;](mailto:bdjiofack@gmail.com) | Cameroon | 2025
 Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
 Europe | Wouter Addink [&#128231;](mailto:wouter.addink@naturalis.nl) | Naturalis, Leiden | 2025-2026
 Latin America | [Juan Miguel Saez Hidalgo](https://www.tdwg.org/about/executive/backgrounds/#latin-america-representative)  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
