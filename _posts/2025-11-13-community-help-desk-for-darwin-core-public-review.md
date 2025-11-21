@@ -19,7 +19,7 @@ Multiple sessions are being offered to accommodate different time zones and sche
 
 - Thursday, 20 Nov, 19:00 - 20:00 UTC
 - Monday, 1 Dec, 13:00 - 14:00 UTC
-- Monday, 1 Dec, 23:00 - 0:00 UTC
+- Monday, 1 Dec, 23:00 - 0:00 UTC (focused on media-related aspects of the current review)
 - Monday, 8 Dec, 13:00 - 14:00 UTC (hosted by the Earth Science and Paleobiology Interest Group, with a focus on the needs of this domain)
 - Tuesday, 9 Dec, 00:00 - 1:00 UTC (hosted by the Earth Science and Paleobiology Interest Group, with a focus on the needs of this domain)
 - Thursday, 11 Dec, 14:00 - 15:00 UTC
