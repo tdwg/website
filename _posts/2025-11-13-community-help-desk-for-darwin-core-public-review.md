@@ -26,6 +26,8 @@ Multiple sessions are being offered to accommodate different time zones and sche
 
 See the schedule in your local time zone on the [Zoom registration page](https://us06web.zoom.us/meeting/register/oMq0_vtLTJOKLhCSEQID-w).
 
+See a video of the [introduction from the first session](https://www.youtube.com/watch?v=giY8hzHZ2MU).
+
 ### What
 
 Are you curious about the current Darwin Core public review period but not sure how to engage? Meaning to think about it, but need time on the calendar to make it happen? Not sure how to interpret all of the documentation and discussion? Join us for an informal help desk session to orient new participants and answer questions. We will begin with a 10-minute overview of the TDWG public review process (to be recorded), followed by open discussion and Q&A (not recorded). Discover what changes are being suggested, what new terms are being proposed, and how you can share your thoughts!
