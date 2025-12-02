@@ -40,14 +40,14 @@ The nominations received until now (1 Dec) are listed below under the respective
 
 Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
 
-[**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/0000-0002-7842-1230"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
+[**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/0000-0002-7842-1230"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
 
 _Statement Pending_
 
 <!--
 ### [Secretary](/about/executive/responsibilities/#secretary)
 
-[**Visotheary Ung**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d’Histoire Naturelle, Paris_
+[**Visotheary Ung**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d’Histoire Naturelle, Paris_
 
 **Background**
 : I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
@@ -61,7 +61,7 @@ _Statement Pending_
 <!--
 ### [Treasurer](/about/executive/responsibilities/#treasurer)
 
-[**Chandra Earl**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
+[**Chandra Earl**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
 
 **Background**
 : I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
@@ -75,7 +75,7 @@ _Statement Pending_
 {:id="tag"}
 ### [Technical Architecture Group, Chair](/about/committees/tag/#responsibilities)
 
-[**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
+[**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
 
 **Background**
 
@@ -99,7 +99,7 @@ I envision a more significant and strategic support role for TAG with a prioriti
 {:id="infrastructure"}
 ### [Infrastructure, Chair](/about/committees/infrastructure/#responsibilities)
 
-[**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
+[**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
 **Background**
 
@@ -169,7 +169,7 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 {:id="tardis"}
 ### [Time and Place, Chair](/about/committees/tardis/#responsibilities)
 
-[**Kristen "Kit" Lewers**](mailto:) <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
+[**Kristen "Kit" Lewers**](mailto:) <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
 
 **Background**
 
@@ -200,7 +200,7 @@ TDWG meetings are more than events, they are pillars of our community. My goal i
 {:id="rep-africa"}
 #### Regional Representative for Africa 
 
-[**Brice Djiofack**](mailto:bdjiofack@gmail.com) <a href="https://orcid.org/0000-0002-3520-800X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Independent, Brussels, Belgium
+[**Brice Djiofack**](mailto:bdjiofack@gmail.com) <a href="https://orcid.org/0000-0002-3520-800X"><img style="float: right; margin: 5px 0px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Independent, Brussels, Belgium
 
 **Background**
 
