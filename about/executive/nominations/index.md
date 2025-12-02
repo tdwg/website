@@ -182,28 +182,34 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 ### Time and Place, Chair (serving: 2026-2027)
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
-**Kristen "Kit" Lewers** - _Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA_
+**Kristen "Kit" Lewers** - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
 
 <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-0526-4075</a>
 
 **Background**
 
-TLDR: Kit likes aviation, software engineering, biodiversity, data, and remote sensing.
+My path into biodiversity informatics began during my undergraduate research in Yellowstone National Park, where I first saw how ecological understanding depends not only on fieldwork but also on the coordinated efforts of many people and institutions. This realization shaped my career around the intersection of biodiversity science, technology, and collaborative infrastructure.
 
-My background in biodiversity began during undergrad, when I spent a transformative summer in Yellowstone National Park researching the social and environmental impacts of trophic cascade disruption, with a focus on the re-introduction of gray wolves (_Canis lupus_). That summer turned into three years of living in one of the most intact—and intriguingly imbalanced—ecosystems in the United States, inspiring me to further my education and career in biodiversity informatics.
+I am now a PhD candidate in Information Science and Interdisciplinary Quantitative Biology at the University of Colorado Boulder and a NASA FINESST fellow working mainly with NASA GSFC (Goddard Space Flight Center) and collaborating with NASA JPL (Jet Propulsion Lab) for work on *Advancing Earth Science and Biodiversity Informatics through Event-Driven, Modular Workflows*. My scholarship is deeply sociotechnical: I study how communities manage information overload, how standards and infrastructures evolve, and how organizations cooperate while maintaining autonomy. My work blends HCI (human–computer interaction), governance, software engineering, and image spectroscopy to understand how data systems and the people behind them work together across institutions and scales.
 
-I am pursuing my PhD at the University of Colorado Boulder in Information Science and Interdisciplinary Quantitative Biology. I am currently funded by NASA’s Goddard Space Flight Center to work on GLiHT (Goddard LiDAR, Hyperspectral, and Thermal) multisensor platform and build the technical infrastructure needed to support their use, in preparation for the Biodiversity Center initiatives as well as the SBG (Surface Biology and Geology) satellite mission. This mission focuses on integrating biodiversity data with full spectrum hyperspectral imagery, marking a significant step forward in remote sensing applications for biodiversity. I previously worked on the NASA BioSCape (Biodiversity Survey of the Cape) to create software packages and processing pipelines for AVIRIS-NG hyperspectral data and LVIS LiDAR data.
-
-At my core, I am an information scientist, my focus includes sociotechnical scholarship that blends software engineering, human-computer interaction, and technical infrastructure applications to social systems of collaboration—primarily through the lens of microservice architecture. To support my efforts at NASA, my dissertation research investigates how information overload impacts institutions grounded in big data, especially regarding the interoperability of biodiversity data and remotely sensed data. This allows me to bridge the gap between technology and the collaborative networks that drive scientific innovation.
-
-Additionally, I work with NEON (National Ecological Observatory Network) AOP (Airborne Observation Platform) as an ambassador under the Director of Flight Operations and channel my passion for aviation as the drone program manager for the United States Air Force Auxiliary Boulder Composite Squadron. 
-
-Past projects include developing analysis software to detect structural variants in the human genome from high-throughput sequencing data, harmonizing GBIF and iDigBio records for drone-based remote sensing, creating “Computational Genomics for Everyone” coursework with the BioFrontiers Institute, implementing AI-mediated interventions to prevent information overload, and modeling complex systems with Colorado Firefly Monitoring.
+In parallel, I serve as a NEON Airborne Observation Platform ambassador, work in the commercial space industry, and manage a drone program with the U.S. Air Force Auxiliary, roles that reinforce my commitment to building bridges between technical systems and the collaborative networks that sustain them. Across all of my work, I focus on strengthening the human and institutional relationships that make data-driven science possible.
 
 **Vision**
 
-My passion lies in fostering interdisciplinary collaboration and building robust networks within the biodiversity informatics community. As the Time and Place Committee Chair for TDWG, I am dedicated to embedding our vibrant culture into other research communities and making data-driven decisions about conference locations to enhance accessibility, visibility, and involvement. I love to chat about all things biodiversity and technology, so feel free to reach out!
+Over the past two years as Time and Place Committee Chair, my focus has been on relationship-building, strategic planning, and ensuring that TDWG meetings reflect our values of accessibility, global representation, and community cohesion. Working closely with our partners in Norway to prepare for TDWG 2026, and with colleagues across GBIF, GEO BON, and OBIS during the Living Data 2025 joint conference development, I’ve seen firsthand how thoughtful collaboration and early, trusted partnerships can elevate TDWG’s impact and visibility.
 
+My vision for the next term is to build on these foundations and expand TDWG’s presence in a way that better serves our global community. I aim to:
+
+  1) Strengthen international partnerships for future conferences. 
+	TDWG thrives when we co-create with host institutions. I am committed to cultivating strong relationships with governments, research organizations, biodiversity networks, and any other necessary parties to support long-term planning and impactful conference programming.
+  2) Explore a regional “hub-and-spoke” meeting model.
+	As TDWG continues to grow, we have an opportunity to experiment with distributed regional meetings that complement the annual global conference. This model can increase accessibility, support local capacity building, and bring TDWG’s standards conversations closer to underrepresented communities.
+  3) Continue enhancing accessibility, equity, and sustainability in conference planning. 
+	Through data-driven site selection, hybrid participation models, and strong local partnerships, we can ensure that TDWG events remain welcoming, feasible, and globally inclusive.
+  4) Further integrate TDWG’s culture into international research communities.
+	One of the most rewarding aspects of Time & Place work has been representing TDWG externally and bringing our collaborative ethos into new spaces. I will continue championing TDWG as a vibrant, trusted community within the global biodiversity informatics landscape.
+
+TDWG meetings are more than events, they are pillars of our community. My goal is to continue building conference environments where connection, collaboration, and shared purpose can thrive for years to come.
 ### Regional Representatives
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
