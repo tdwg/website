@@ -200,14 +200,14 @@ Over the past two years as Time and Place Committee Chair, my focus has been on 
 
 My vision for the next term is to build on these foundations and expand TDWG’s presence in a way that better serves our global community. I aim to:
 
-  1) Strengthen international partnerships for future conferences. 
-	TDWG thrives when we co-create with host institutions. I am committed to cultivating strong relationships with governments, research organizations, biodiversity networks, and any other necessary parties to support long-term planning and impactful conference programming.
-  2) Explore a regional “hub-and-spoke” meeting model.
-	As TDWG continues to grow, we have an opportunity to experiment with distributed regional meetings that complement the annual global conference. This model can increase accessibility, support local capacity building, and bring TDWG’s standards conversations closer to underrepresented communities.
-  3) Continue enhancing accessibility, equity, and sustainability in conference planning. 
-	Through data-driven site selection, hybrid participation models, and strong local partnerships, we can ensure that TDWG events remain welcoming, feasible, and globally inclusive.
-  4) Further integrate TDWG’s culture into international research communities.
-	One of the most rewarding aspects of Time & Place work has been representing TDWG externally and bringing our collaborative ethos into new spaces. I will continue championing TDWG as a vibrant, trusted community within the global biodiversity informatics landscape.
+  - 1) **Strengthen international partnerships for future conferences.** <br />
+TDWG thrives when we co-create with host institutions. I am committed to cultivating strong relationships with governments, research organizations, biodiversity networks, and any other necessary parties to support long-term planning and impactful conference programming.
+  - 2) **Explore a regional “hub-and-spoke” meeting model.** <br />
+As TDWG continues to grow, we have an opportunity to experiment with distributed regional meetings that complement the annual global conference. This model can increase accessibility, support local capacity building, and bring TDWG’s standards conversations closer to underrepresented communities.
+  - 3) **Continue enhancing accessibility, equity, and sustainability in conference planning.** <br />
+Through data-driven site selection, hybrid participation models, and strong local partnerships, we can ensure that TDWG events remain welcoming, feasible, and globally inclusive.
+  - 4) **Further integrate TDWG’s culture into international research communities.** <br />
+One of the most rewarding aspects of Time & Place work has been representing TDWG externally and bringing our collaborative ethos into new spaces. I will continue championing TDWG as a vibrant, trusted community within the global biodiversity informatics landscape.
 
 TDWG meetings are more than events, they are pillars of our community. My goal is to continue building conference environments where connection, collaboration, and shared purpose can thrive for years to come.
 ### Regional Representatives
