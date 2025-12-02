@@ -19,7 +19,7 @@ Positions on the executive are staggered two-year terms, such that no more than 
 
 ## Nomination procedure
 
-To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office. Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary (<secretary@tdwg.org>). Self nominations are accepted. All nominations must be complete and received before **15 November 2024**.
+To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office. Then work with the nominee to send a brief statement of the nominee’s background and vision (approximately 400 words) to the [TDWG Secretary](mailto:secretary@tdwg.org). Self nominations are accepted. All nominations must be complete and received before **6 December 2025**.
 
 ## Election procedure
 
@@ -37,8 +37,9 @@ All officers elected this year will serve a term of two calendar years, 2026-202
 
 [Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2027-2028)
 
-_No nomination received._
+_Two nominations pending._
 
+<!--
 ### Secretary
 
 [Responsibilities](/about/executive/responsibilities/#secretary)
@@ -54,7 +55,8 @@ _Muséum National d’Histoire Naturelle, Paris_
 : My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
 : I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
 : I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
-
+-->
+<!--
 ### Treasurer
 
 [Responsibilities](/about/executive/responsibilities/#treasurer)
@@ -69,25 +71,73 @@ _National Ecological Observatory Network (NEON), Arizona State University, USA (
 
 **Vision**
 : Although I’m an acting member of a handful of professional societies, biodiversity information is ‘home’. As Treasurer of TDWG, I aim to use my experience within TDWG and connections with other societies to establish a transparent, efficient, and sustainable financial framework that ensures TDWG’s long-term success. I am keen on seeing TDWG evolve into an organization with solid financial health through strategic partnerships, grants, and fundraising, ensuring that we can continue to grow and support all members of the community.
+-->
 
-serving 2026-2027
-### Technical Architecture Group, Convener
+### Technical Architecture Group, Chair (serving 2026-2027)
 [Responsibilities](/about/committees/tag/#responsibilities)
 
-serving 2026-2027
-### Infrastructure, Chair
+**Ben Norton** - _Independent; Raleigh, NC, USA_
+
+<a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5819-9134</a>
+
+**Background**
+
+As a dedicated, mission-driven, and determined individual, leading efforts that turn ideas into realities through technology has been a central theme of my career since the very beginning. The Technical Architecture Group chair position is at the apex of this endeavor. The TAG is an engine of progress, ingenuity, and support that impacts activities across the TDWG organization. The opportunities to extend this pivotal role are immense. 
+
+Over the past 15 years, I have chartered an Interdisciplinary and multi-functional career path at the intersection of science and technology. Today, this pathway has materialized into an extensive technical skill set with domain expertise in several scientific fields in both an academic and professional capacity. I’ve built dozens of data-driven, web-based technologies across numerous scientific disciplines, including online search portals, data publishing platforms, and small and large-scale collections management systems. 
+
+In 2020, I became an active member of TDWG. Three years later, I’m the current deputy chair of the Technical Architecture Group, co-convener of the Mineralogy Extension Task Group, review manager of Latimer Core, and contributor to Minimum Information about a Digital Specimen (MIDS) and Camtrap DP. I’ve had the honor of publishing best practices guides, presenting and hosting symposiums at annual conferences, and providing technical guidance to efforts across the organization. In collaboration with the current TAG chair, I’m developing tools to streamline the publication of standards documentation in tandem with the existing RDF TDWG workflow. This effort has immense potential to improve the organization's operations for years.
+
+**Vision**
+
+I envision a more significant and strategic support role for TAG with a prioritization of the following ongoing efforts:
+
+1.  Assure that the work initiated and led by the current chair continues and, where possible, see the activity through to completion.
+2.  Expand the TDWG Technical Recommendations, beginning with two best practice guides that address the use of complex values and SKOS mappings in data standards.
+3.  Deploy an automated tool for generating web-based standards documentation that operates in tandem with the current RDF workflow.
+4.  Develop a strategy to provide targeted support to individual Task and Interest Groups within the current confines of TAG member obligations.
+5.  Complete the reorganization of current and past data standards under the stewardship of TDWG.
+6.  Continue to broaden and diversify TDWG membership, focusing on underrepresented populations and gaps in domain expertise.
+
+### Infrastructure, Chair (serving 2026-2027)
 [Responsibilities](/about/committees/infrastructure/#responsibilities)
 
-<!--
+**Tim Robertson** - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
+
+<a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-6215-3617</a>
+
+**Background**
+
+I currently act as the chair for the Subcommittee for Infrastructure and – along with the members of the group – wrote the current mission and responsibilities of the group which I believe are still relevant.
+
+During my time leading this group we have reworked the TDWG website and assisted TDWG in reorganizing its activities to make maximum use of GitHub.
+
+I am Deputy Director and Head of Informatics at the GBIF Secretariat, and we accommodate TDWG needs within the role of our team which includes the operation and updating of mailing lists, websites etc.
+
+**A (deliberately modest) vision** 
+
+The TDWG community require a stable and simple infrastructure that is intuitive to use. The recent adoption of GitHub for the working groups and website content, along with the mailing lists, tools for conference registration and our journal partnership are – in my opinion – the correct level of infrastructure for TDWG to operate effectively. I see the current role of the committee to continue ensuring the existing processes operate smoothly and be ready to explore emerging needs, but do not see it necessary to make significant changes at this point.
+
 ### Fundraising and Partnerships, Chair
 [Responsibilities](/about/committees/fundraising/#responsibilities)
--->
+
+**Background** 
+
+I have been involved with TDWG since 2002 and acted in the past as representative for Europe, as Secretary, and later on as chair of the Time and Place Committee.
+
+In my respective institutions I work as liaison officer with main tasks being fundraising, project management and networking in the domain of biodiversity information, collections, and data management.
+
+**Vision**
+
+I will bring in members from the different continents with similar roles into the functional subcommittee committee and liaise closely with the regional representatives as well as with the subcommittee on Communication and Outreach and with the TDWG interest groups and task groups.
+
+We will identify the needs of TDWG in terms of funding and collect suggestions for engaging in more formal partnerships agreements with other associations with also an influence on the membership of TDWG or associations TDWG could be a member of.
+
+We will identify funding bodies and opportunities and perform some lobbying and negotiations to attract sponsoring, grants or to be part of funded projects. I will bring in more specifically my long term experience on EU funding opportunities and funding opportunities with African granting bodies such as JRS Biodiversity or the cooperation and development funds of the countries and the EU. We will work in close collaboration with the regional representative and members from the other continents as well to identify funding opportunities worldwide. 
 
 <!--
-### Outreach and Communications, Chair <!-- to serve 2025-2026 -->
-
+### Outreach and Communications, Chair to serve 2025-2026
 [Responsibilities](/about/committees/outreach/#responsibilities)
--->
 
 #### Nicky Nicolson
 _Royal Botanic Gardens, Kew, Richmond, UK_
@@ -118,36 +168,48 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 12. TDWG (LinkedIn): [https://www.linkedin.com/groups/993557/](https://www.linkedin.com/groups/993557/)  
 13. Managing your profile README: [https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)  
 14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
+-->
 
-Term: 2026-2027
-### Time and Place, Chair
+### Time and Place, Chair (serving: 2026-2027)
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
+**Kristen "Kit" Lewers** - _Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA_
 
-### Regional Representatives, Term: 2026-2027 
+<a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-0526-4075</a>
+
+**Background**
+
+TLDR: Kit likes aviation, software engineering, biodiversity, data, and remote sensing.
+
+My background in biodiversity began during undergrad, when I spent a transformative summer in Yellowstone National Park researching the social and environmental impacts of trophic cascade disruption, with a focus on the re-introduction of gray wolves (_Canis lupus_). That summer turned into three years of living in one of the most intact—and intriguingly imbalanced—ecosystems in the United States, inspiring me to further my education and career in biodiversity informatics.
+
+I am pursuing my PhD at the University of Colorado Boulder in Information Science and Interdisciplinary Quantitative Biology. I am currently funded by NASA’s Goddard Space Flight Center to work on GLiHT (Goddard LiDAR, Hyperspectral, and Thermal) multisensor platform and build the technical infrastructure needed to support their use, in preparation for the Biodiversity Center initiatives as well as the SBG (Surface Biology and Geology) satellite mission. This mission focuses on integrating biodiversity data with full spectrum hyperspectral imagery, marking a significant step forward in remote sensing applications for biodiversity. I previously worked on the NASA BioSCape (Biodiversity Survey of the Cape) to create software packages and processing pipelines for AVIRIS-NG hyperspectral data and LVIS LiDAR data.
+
+At my core, I am an information scientist, my focus includes sociotechnical scholarship that blends software engineering, human-computer interaction, and technical infrastructure applications to social systems of collaboration—primarily through the lens of microservice architecture. To support my efforts at NASA, my dissertation research investigates how information overload impacts institutions grounded in big data, especially regarding the interoperability of biodiversity data and remotely sensed data. This allows me to bridge the gap between technology and the collaborative networks that drive scientific innovation.
+
+Additionally, I work with NEON (National Ecological Observatory Network) AOP (Airborne Observation Platform) as an ambassador under the Director of Flight Operations and channel my passion for aviation as the drone program manager for the United States Air Force Auxiliary Boulder Composite Squadron. 
+
+Past projects include developing analysis software to detect structural variants in the human genome from high-throughput sequencing data, harmonizing GBIF and iDigBio records for drone-based remote sensing, creating “Computational Genomics for Everyone” coursework with the BioFrontiers Institute, implementing AI-mediated interventions to prevent information overload, and modeling complex systems with Colorado Firefly Monitoring.
+
+**Vision**
+
+My passion lies in fostering interdisciplinary collaboration and building robust networks within the biodiversity informatics community. As the Time and Place Committee Chair for TDWG, I am dedicated to embedding our vibrant culture into other research communities and making data-driven decisions about conference locations to enhance accessibility, visibility, and involvement. I love to chat about all things biodiversity and technology, so feel free to reach out!
+
+### Regional Representatives
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
-### Rep for Africa: 
+### Rep for Africa (serving 2026-2027): 
 
-Brice Djiofack
+#### Brice Djiofack
 
-### Rep for Asia
+_Background and Vision pending_
 
-#### Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034)
-_Taiwan Biodiversity Information Facility, Taipei, Taiwan_
+<!-- 
+### Representiative for Europe
 
-**Background**
-: I have been trained as a marine scientist since completing my BSc and PhD studies. My research focused on sea turtle conservation, with a specific emphasis on fungal infections in sea turtle eggs and sea turtle’s foraging ecology. My research has spanned various aspects of this issue, including pathogen genomics and pathogenicity, utilising high-throughput sequencing and bioinformatics methods. I co-founded TurtleSpot Taiwan, a citizen science initiative that collects sea turtle sightings to support local involvement in science. Recognising the significance of generating extensive primary biodiversity data through my work, this experience sparks my interest in biodiversity informatics. I have since then actively engaged in TDWG activities, serving as a Program Committee member for associated conferences and contributing as an open data ambassador, mentor, and trainer. For the past years, I have been a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), where my work focuses on evaluating biodiversity data gaps, mobilizing data, and building capacity for data use. Additionally, I contributed to translating critical materials on biodiversity data standards, such as Darwin Core terms and vocabularies, GBIF’s DNA publishing guidelines, and related course materials, from English to Chinese, making these resources more accessible to Chinese-speaking audiences.
-
-**Vision**
-: In some Asian countries, especially Taiwan, communities are making notable progress in biodiversity informatics. However, they often lack visibility and engagement at the international level, primarily due to language barriers. I see this challenge echoed across other Asian countries, where biodiversity informatics efforts are advancing locally but remain isolated from the global network of biodiversity information standards and practices. I believe that fostering connections and collaborations between the Asian community and the international community will stimulate new developments and ultimately enhance biodiversity informatics and conservation efforts on a global scale.
-: With broad collaboration experience in biodiversity research, data management, and capacity building, I am committed to bridging this gap. As a multilingual researcher, I have worked alongside national and international partners to promote biodiversity data standards and have seen firsthand the impact of shared resources and strong networks. As I prepare to transition from East Asia to Southeast Asia in the near future, I hope to connect communities across linguistic and regional boundaries, facilitating discussions and knowledge sharing within the TDWG community.
-
-### Rep for Europe
-
-#### Laurence Livermore 
-_The Natural History Museum, London_
+#### Wouter Addink <!-- wouter.addink@naturalis.nl  -->
+_Naturalis, Leiden_
 
 **Background**
 : I am passionate about open data and increasing collaboration and community building to enable better data mobilisation from natural history collections. I have been working on community projects in Europe for over ten years, including two iterations of the EC-funded SYNTHESYS projects, ICEDIG, DiSSCo Prepare and Mobilise projects. Recently, this has included the proposal writing and leading the collaborative development of [Specimen Data Refinery platform](https://github.com/DiSSCo/SDR) in SYNTHESYS+ and the managing the creation of Digitisation Guides for [DiSSCo Prepare](https://dissco.github.io/).
@@ -158,31 +220,7 @@ _The Natural History Museum, London_
 : There are multiple exciting initiatives across Europe which will benefit from global connectivity, including the continued development of DiSSCo and the establishment of national DiSSCo nodes.
 : As Regional Representative for Europe, I would maintain and strengthen connections between the other Regional Representatives and promote TDWG's role in developing and promoting the use of biodiversity data standards. DiSSCo, and related initiatives around the world (e.g., GBIFs regional programmes, iDigBio, and ALA), are more effective and efficient when they collaborate and share approaches. Our community still has more to gain from establishing more shared practices, protocols, and training programmes. I would like to promote the co-development of more regional initiatives, or at least help connect people and initiatives that have the potential to benefit by working together.
 : I am keen to promote wider participation in SPNHC and will ensure TDWG's work is brought to CETAF's Digitisation Working Group and Information Science and Technology Committee. Over the next two years I will be working to develop the DiSSCo-UK node and want to ensure that our work benefits the wider community, that we implement TDWG standards, and encourage wider participation in TDWG activities.
-
-### Rep for Latin America
-
-#### Juan Manuel Saez Hidalgo 
-_Instituto de Ecologia y Biodiversidad (IEB), Chile_
-
-**Background**
-: I am a Computer Science researcher at Chile's Institute of Ecology and Biodiversity (IEB). I manage and develop the Digital Herbarium, supporting biodiversity research by ensuring its digital assets are organized, accessible, and up-to-date. Additionally, I lead data analysis for various projects, utilizing my expertise to support decision-making in research grants and tenders.
-: The IEB aspires to be a world-class institute that conducts groundbreaking scientific research to support sustainable development in Chile. As part of this mission, the IEB operates as a training center, providing advanced education for undergraduate and postgraduate students and mentoring young researchers. While not all research can be published in scientific journals, the IEB remains committed to connecting science with the challenges facing the country's production industries and with public institutions responsible for environmental and biodiversity care.
-: I hold a Master's in Computer Science from the University of Chile, have two years of experience in ecology, and aspire to pursue a doctoral degree in Statistics at the Pontificia Universidad Católica de Chile. This doctorate aligns with my strong interest in data science and its application to biodiversity research.
-
-**Vision**
-: My vision is to serve as a representative within the Taxonomic Databases Working Group (TDWG), advocating for the inclusion of Latin America in TDWG’s global initiatives. I aim to contribute to a more inclusive and comprehensive approach to global biodiversity research and conservation by bridging regional expertise with international biodiversity data standards.
-
-### Rep for North America
-
-#### Erica Krimmel - [ORCID](https://orcid.org/0000-0003-3192-0080)
-_Independent Biodiversity Information Scientist, Sacramento, CA, USA_
-
-**Background**
-: I am an information scientist (MLIS) whose expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data. Since 2006, I have worked in and around natural history collections–during my undergraduate education, at a research field station, at nonprofit museums, in the context of a national resource (iDigBio), and now as a freelance consultant. My driving goal is to make biodiversity data of all scales FAIR and fit-for-use in applied contexts from academic research to public policy. I have been a member of the TDWG community since 2017, when I began helping produce the Darwin Core Hour series. Since then, I regularly attend and present at annual meetings, participate in standards development processes, and benefit from the essential framework that TDWG provides for biodiversity data mobilization.
-
-**Vision**
-: In order to succeed, TDWG needs individual buy-in on data standards from many, many people with diverse experience and priorities. My technical background in information architecture, data management, data standards, and data processing is complemented by a human-centered design perspective. As the Regional Representative for North America, I would bring this perspective to my work with TDWG and hope to promote TDWG in ways that make it easy for people to adopt and implement standards. Beyond standards, TDWG provides a unique interdisciplinary space for community knowledge sharing and coordination. I want to be a part of cultivating this space and lowering barriers to participation.
-
-<!-- 2026-2027
-### Regional Representative for Oceania
 -->
+
+### Regional Representative for Oceania (serving 2026-2027):
+
