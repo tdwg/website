@@ -40,8 +40,8 @@ The nominations received until now (1 Dec) are listed below under the respective
 
 Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
 
-[**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
-https://orcid.org/0000-0002-7842-1230
+[**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/0000-0002-7842-1230"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
+
 _Statement Pending_
 
 <!--
