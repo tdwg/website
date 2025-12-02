@@ -33,6 +33,8 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 All officers elected this year will serve a term of two calendar years, 2026-2027, except the Deputy Chair, who will serve an additional two years as Chair.
 
+The nominations received until now (1 Dec) are listed below under the respective role. **The nominating period does not close until 6 December.**
+
 {:id="deputy-chair"}
 ### Deputy Chair
 
