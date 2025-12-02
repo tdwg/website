@@ -209,7 +209,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
 {:id="rep-africa"}
-### Rep for Africa (serving 2026-2027): 
+### Regional Representative for Africa (serving 2026-2027): 
 
 #### Brice Djiofack
 
