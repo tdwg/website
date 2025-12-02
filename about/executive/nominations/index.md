@@ -218,7 +218,7 @@ _Background and Vision pending_
 <!-- 
 ### Representiative for Europe
 
-#### Wouter Addink <!-- wouter.addink@naturalis.nl  -->
+#### Wouter Addink <!-- wouter.addink@naturalis.nl
 _Naturalis, Leiden_
 
 **Background**
