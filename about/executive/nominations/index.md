@@ -1,7 +1,7 @@
 ---
-title: Executive Committee Nominations for 2025-2026
+title: Executive Committee Nominations for 2026-2027
 description: >
-  Listed below are the nominees for open positions on the TDWG Executive Committee for terms spanning 2025-2026.
+  Listed below are the nominees for open positions on the TDWG Executive Committee for terms spanning 2026-2027.
 background:
   img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
   by: Tim Graf
@@ -15,7 +15,7 @@ This is an opportunity to lead the development of biodiversity informatics and w
 
 TDWG is an international organization that promotes the digitization, integration, and sharing of information about the world’s biodiversity. TDWG provides a forum where individuals, projects, and institutions who manage biodiversity data can come together to share expertise and promote interoperability by promulgating standards and best practices. TDWG also publishes the Biodiversity Information Science and Standards (BISS) journal where papers on issues related to information technology and biodiversity science can be published. The TDWG Executive Committee oversees the work of TDWG. It coordinates TDWG's Interest and Task Groups, manages the review and ratification of standards, manages the organization’s journal, and organizes the annual meeting. These responsibilities are set forth in the [Constitution](/about/constitution/) and detailed further in a [supplementary document](/about/executive/responsibilities/).
 
-Positions on the executive are staggered two-year terms, such that no more than half of the Committee will be new each year. Towards the end of every calendar year, TDWG holds elections for terms that are expiring and need to be filled for the coming year. Officers elected this year will serve terms in the caledar years 2025 and 2026. The the schedule and procedures for nominations and the election are detailed below, followed by open positions, their responsibilities, and nominees.
+Positions on the executive are staggered two-year terms, such that no more than half of the Committee will be new each year. Towards the end of every calendar year, TDWG holds elections for terms that are expiring and need to be filled for the coming year. Officers elected this year will serve terms in the caledar years 2026 and 2027. The the schedule and procedures for nominations and the election are detailed below, followed by open positions, their responsibilities, and nominees.
 
 ## Nomination procedure
 
