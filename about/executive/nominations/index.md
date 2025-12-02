@@ -33,6 +33,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 All officers elected this year will serve a term of two calendar years, 2026-2027, except the Deputy Chair, who will serve an additional two years as Chair.
 
+{:id="deputy-chair"}
 ### Deputy Chair
 
 [Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2027-2028)
@@ -73,6 +74,7 @@ _National Ecological Observatory Network (NEON), Arizona State University, USA (
 : Although I’m an acting member of a handful of professional societies, biodiversity information is ‘home’. As Treasurer of TDWG, I aim to use my experience within TDWG and connections with other societies to establish a transparent, efficient, and sustainable financial framework that ensures TDWG’s long-term success. I am keen on seeing TDWG evolve into an organization with solid financial health through strategic partnerships, grants, and fundraising, ensuring that we can continue to grow and support all members of the community.
 -->
 
+{:id="tag"}
 ### Technical Architecture Group, Chair (serving 2026-2027)
 [Responsibilities](/about/committees/tag/#responsibilities)
 
@@ -99,6 +101,7 @@ I envision a more significant and strategic support role for TAG with a prioriti
 5.  Complete the reorganization of current and past data standards under the stewardship of TDWG.
 6.  Continue to broaden and diversify TDWG membership, focusing on underrepresented populations and gaps in domain expertise.
 
+{:id="infrastructure"}
 ### Infrastructure, Chair (serving 2026-2027)
 [Responsibilities](/about/committees/infrastructure/#responsibilities)
 
@@ -118,8 +121,11 @@ I am Deputy Director and Head of Informatics at the GBIF Secretariat, and we acc
 
 The TDWG community require a stable and simple infrastructure that is intuitive to use. The recent adoption of GitHub for the working groups and website content, along with the mailing lists, tools for conference registration and our journal partnership are – in my opinion – the correct level of infrastructure for TDWG to operate effectively. I see the current role of the committee to continue ensuring the existing processes operate smoothly and be ready to explore emerging needs, but do not see it necessary to make significant changes at this point.
 
-### Fundraising and Partnerships, Chair
+{:id="fundraising"}
+### Fundraising and Partnerships, Chair (serving 2026-2027)
 [Responsibilities](/about/committees/fundraising/#responsibilities)
+
+**Patricia Mergen** - _Botanical Garden, Meise, Belgium_ 
 
 **Background** 
 
@@ -170,6 +176,7 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
 -->
 
+{:id="tardis"}
 ### Time and Place, Chair (serving: 2026-2027)
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
@@ -199,6 +206,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
+{:id="rep-africa"}
 ### Rep for Africa (serving 2026-2027): 
 
 #### Brice Djiofack
@@ -222,5 +230,6 @@ _Naturalis, Leiden_
 : I am keen to promote wider participation in SPNHC and will ensure TDWG's work is brought to CETAF's Digitisation Working Group and Information Science and Technology Committee. Over the next two years I will be working to develop the DiSSCo-UK node and want to ensure that our work benefits the wider community, that we implement TDWG standards, and encourage wider participation in TDWG activities.
 -->
 
+{:id="rep-oceania"}
 ### Regional Representative for Oceania (serving 2026-2027):
 
