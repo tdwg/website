@@ -10,7 +10,7 @@ toc: true
 {:id="chair"}
 ## Chair
 
-[**David Bloom**](mailto:chair@tdwg.org) <a href="https://orcid.org/0000-0003-1273-1807"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _VertNet, Berkeley, CA, USA_
+[**David Bloom**](mailto:chair@tdwg.org) <a href="https://orcid.org/0000-0003-1273-1807"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _VertNet, Berkeley, CA, USA_
 
 **Background**
 
@@ -28,7 +28,7 @@ As a professional (and a not-so professional) I have devoted my time and effort 
 {:id="secretary"}
 ## Secretary
 
-[**Visotheary Ung**](mailto:secretary@tdwg.org) <a href="https://orcid.org/0000-0002-4049-0820"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d'Histoire Naturelle, Paris, France_
+[**Visotheary Ung**](mailto:secretary@tdwg.org) <a href="https://orcid.org/0000-0002-4049-0820"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d'Histoire Naturelle, Paris, France_
 
 **Background**
 : I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
@@ -42,7 +42,7 @@ As a professional (and a not-so professional) I have devoted my time and effort 
 {:id="treasurer"}
 ## Treasurer
 
-[**Chandra Earl**](mailto:treasurer@tdwg.org) <a href="https://orcid.org/0000-0001-9850-882X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
+[**Chandra Earl**](mailto:treasurer@tdwg.org) <a href="https://orcid.org/0000-0001-9850-882X"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
 
 **Background**
 : I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
@@ -58,7 +58,7 @@ As a professional (and a not-so professional) I have devoted my time and effort 
 {:id="tag"}
 ### Technical Architecture Group
 
-[**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
+[**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
 
 **Background**
 
@@ -81,7 +81,7 @@ I envision a more significant and strategic support role for TAG with a prioriti
 
 ### Fundraising and Partnerships
 
-[**Patricia Mergen**](mailto:patricia.mergen@plantentuinmeise.be) <a href="https://orcid.org/0000-0003-2848-8231"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium_
+[**Patricia Mergen**](mailto:patricia.mergen@plantentuinmeise.be) <a href="https://orcid.org/0000-0003-2848-8231"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Botanical Garden, Meise; Royal Museum of Central Africa, Tervuren, Belgium_
 
 As a member of the Association of International Associations based in Belgium and many contacts with the "Meet in" or "visit" or "Tourism" (town, country) I am happy to have TDWG continue to benefit from those connections to find support for venues. Additionally the contacts with the local scientific, technical potential hosts is very important within our network.
 
@@ -89,7 +89,7 @@ If elected, I would continue to act as a relay between potential hosts and TDWG 
 
 ### Infrastructure
 
-[**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
+[**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
 **Background**
 
@@ -105,7 +105,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Outreach and Communications
 
-[**Nicky Nicolson**](mailto:n.nicolson@kew.org) <a href="https://orcid.org/0000-0003-3700-4884"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Royal Botanic Gardens, Kew, Richmond, UK_ 
+[**Nicky Nicolson**](mailto:n.nicolson@kew.org) <a href="https://orcid.org/0000-0003-3700-4884"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Royal Botanic Gardens, Kew, Richmond, UK_ 
 
 **Background**
 : I worked for about fifteen years in a variety of software development roles at the Royal Botanic Gardens, Kew [1] helping researchers and curators manage and mobilise scientific information. Effectively this was a research software engineer role [2], it just predated the term. Ten years ago I switched from the technical track into research, where I completed a doctorate in machine learning, applying density based clustering to our digitised specimen data to identify collectors, expeditions and related specimens gathered from a shared collecting event [3]. I took software development practices with me - things like revision control, dependency management, build automation and continuous integration - to help manage the research process. My work was applied in the Global Biodiversity Information Facility (GBIF) data portal where it helps users navigate between related records [4]. Now I'm senior research leader in digital collections at Kew. We are nearing the end of our specimen digitisation project [5], and I'm interested in how we can use our digitised specimen data to build the "digital extended specimen", and how we do this in an open and inclusive way. I am developing a toolkit called "echinopscis: an extensible notebook for open science on specimens" [6], which was partly supported by Open Seeds [7], an open science mentoring and skills development programme.
@@ -137,7 +137,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 ### Time and Place
 
-[**Kristen "Kit" Lewers**](mailto:krle4401@colorado.edu) <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA_
+[**Kristen "Kit" Lewers**](mailto:krle4401@colorado.edu) <a href="https://orcid.org/0000-0003-0526-4075"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA_
 
 **Background**
 
@@ -166,7 +166,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 
 ### Asia Representative 
 
-[**Daphne Z. Hoh**](mailto:daphnehohzhiwei@gmail.com) <a href="https://orcid.org/0000-0002-7810-1034"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
+[**Daphne Z. Hoh**](mailto:daphnehohzhiwei@gmail.com) <a href="https://orcid.org/0000-0002-7810-1034"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
 
 **Background**
 : I have been trained as a marine scientist since completing my BSc and PhD studies. My research focused on sea turtle conservation, with a specific emphasis on fungal infections in sea turtle eggs and sea turtle’s foraging ecology. My research has spanned various aspects of this issue, including pathogen genomics and pathogenicity, utilising high-throughput sequencing and bioinformatics methods. I co-founded TurtleSpot Taiwan, a citizen science initiative that collects sea turtle sightings to support local involvement in science. Recognising the significance of generating extensive primary biodiversity data through my work, this experience sparks my interest in biodiversity informatics. I have since then actively engaged in TDWG activities, serving as a Program Committee member for associated conferences and contributing as an open data ambassador, mentor, and trainer. For the past years, I have been a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), where my work focuses on evaluating biodiversity data gaps, mobilizing data, and building capacity for data use. Additionally, I contributed to translating critical materials on biodiversity data standards, such as Darwin Core terms and vocabularies, GBIF’s DNA publishing guidelines, and related course materials, from English to Chinese, making these resources more accessible to Chinese-speaking audiences.
@@ -178,7 +178,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 
 ### Europe Representative
 
-[**Wouter Addink**](mailto:wouter.addink@naturalis.nl) <a href="https://orcid.org/0000-0002-3090-1761"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _naturalis, Leiden, The Netherlands_
+[**Wouter Addink**](mailto:wouter.addink@naturalis.nl) <a href="https://orcid.org/0000-0002-3090-1761"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _naturalis, Leiden, The Netherlands_
 
 **Background**
 : I am passionate about open data and increasing collaboration and community building to enable better data mobilisation from natural history collections. I have been working on community projects in Europe for over ten years, including two iterations of the EC-funded SYNTHESYS projects, ICEDIG, DiSSCo Prepare and Mobilise projects. Recently, this has included the proposal writing and leading the collaborative development of [Specimen Data Refinery platform](https://github.com/DiSSCo/SDR) in SYNTHESYS+ and the managing the creation of Digitisation Guides for [DiSSCo Prepare](https://dissco.github.io/).
@@ -192,7 +192,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 
 ### Latin America Representative
 
-[**Juan Manuel Saez Hidalgo**](mailto:jmsaez@ieb-chile.cl) <a href="https://orcid.org/0000-0001-7991-0864"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Instituto de Ecologia y Biodiversidad (IEB), Chile_
+[**Juan Manuel Saez Hidalgo**](mailto:jmsaez@ieb-chile.cl) <a href="https://orcid.org/0000-0001-7991-0864"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Instituto de Ecologia y Biodiversidad (IEB), Chile_
 
 **Background**
 : I am a Computer Science researcher at Chile's Institute of Ecology and Biodiversity (IEB). I manage and develop the Digital Herbarium, supporting biodiversity research by ensuring its digital assets are organized, accessible, and up-to-date. Additionally, I lead data analysis for various projects, utilizing my expertise to support decision-making in research grants and tenders.
@@ -204,7 +204,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 
 ### North America Representative
 
-[**Erica Krimmel**]() <a href="https://orcid.org/0000-0003-3192-0080"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
+[**Erica Krimmel**]() <a href="https://orcid.org/0000-0003-3192-0080"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
 
 **Background**
 : I am an information scientist (MLIS) whose expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data. Since 2006, I have worked in and around natural history collections–during my undergraduate education, at a research field station, at nonprofit museums, in the context of a national resource (iDigBio), and now as a freelance consultant. My driving goal is to make biodiversity data of all scales FAIR and fit-for-use in applied contexts from academic research to public policy. I have been a member of the TDWG community since 2017, when I began helping produce the Darwin Core Hour series. Since then, I regularly attend and present at annual meetings, participate in standards development processes, and benefit from the essential framework that TDWG provides for biodiversity data mobilization.
@@ -214,7 +214,7 @@ My passion lies in fostering interdisciplinary collaboration and building robust
 
 ### Oceania Representative
 
-[**Shelley James**](mailto:shelley.james@dbca.wa.gov.au) <a href="https://orcid.org/0000-0003-1105-1850"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Western Australian Herbarium, Perth, Australia_
+[**Shelley James**](mailto:shelley.james@dbca.wa.gov.au) <a href="https://orcid.org/0000-0003-1105-1850"><img style="margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Western Australian Herbarium, Perth, Australia_
 
 **Background**
 
