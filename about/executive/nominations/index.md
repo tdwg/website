@@ -38,9 +38,9 @@ The nominations received until now (1 Dec) are listed below under the respective
 {:id="deputy-chair"}
 ### Deputy Chair
 
-[Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2027-2028)
+[Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2028-2029)
 
-_Two nominations pending._
+_Statement Pending_
 
 <!--
 ### Secretary
@@ -77,8 +77,8 @@ _National Ecological Observatory Network (NEON), Arizona State University, USA (
 -->
 
 {:id="tag"}
-### Technical Architecture Group, Chair (serving 2026-2027)
-[Responsibilities](/about/committees/tag/#responsibilities)
+### Technical Architecture Group, Chair
+[Responsibilities](/about/committees/tag/#responsibilities) (serving 2026-2027)
 
 **Ben Norton** - _Independent; Raleigh, NC, USA_
 
@@ -104,8 +104,8 @@ I envision a more significant and strategic support role for TAG with a prioriti
 6.  Continue to broaden and diversify TDWG membership, focusing on underrepresented populations and gaps in domain expertise.
 
 {:id="infrastructure"}
-### Infrastructure, Chair (serving 2026-2027)
-[Responsibilities](/about/committees/infrastructure/#responsibilities)
+### Infrastructure, Chair
+[Responsibilities](/about/committees/infrastructure/#responsibilities)  (serving 2026-2027)
 
 **Tim Robertson** - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
@@ -124,8 +124,8 @@ I am Deputy Director and Head of Informatics at the GBIF Secretariat, and we acc
 The TDWG community require a stable and simple infrastructure that is intuitive to use. The recent adoption of GitHub for the working groups and website content, along with the mailing lists, tools for conference registration and our journal partnership are – in my opinion – the correct level of infrastructure for TDWG to operate effectively. I see the current role of the committee to continue ensuring the existing processes operate smoothly and be ready to explore emerging needs, but do not see it necessary to make significant changes at this point.
 
 {:id="fundraising"}
-### Fundraising and Partnerships, Chair (serving 2026-2027)
-[Responsibilities](/about/committees/fundraising/#responsibilities)
+### Fundraising and Partnerships, Chair
+[Responsibilities](/about/committees/fundraising/#responsibilities) (serving 2026-2027)
 
 **Patricia Mergen** - _Botanical Garden, Meise, Belgium_ 
 
@@ -144,8 +144,8 @@ We will identify the needs of TDWG in terms of funding and collect suggestions f
 We will identify funding bodies and opportunities and perform some lobbying and negotiations to attract sponsoring, grants or to be part of funded projects. I will bring in more specifically my long term experience on EU funding opportunities and funding opportunities with African granting bodies such as JRS Biodiversity or the cooperation and development funds of the countries and the EU. We will work in close collaboration with the regional representative and members from the other continents as well to identify funding opportunities worldwide. 
 
 <!--
-### Outreach and Communications, Chair to serve 2025-2026
-[Responsibilities](/about/committees/outreach/#responsibilities)
+### Outreach and Communications, Chair
+[Responsibilities](/about/committees/outreach/#responsibilities)  (serving 2025-2026)
 
 #### Nicky Nicolson
 _Royal Botanic Gardens, Kew, Richmond, UK_
@@ -200,13 +200,13 @@ Over the past two years as Time and Place Committee Chair, my focus has been on 
 
 My vision for the next term is to build on these foundations and expand TDWG’s presence in a way that better serves our global community. I aim to:
 
-  - 1) **Strengthen international partnerships for future conferences.** <br />
+1. **Strengthen international partnerships for future conferences.** <br />
 TDWG thrives when we co-create with host institutions. I am committed to cultivating strong relationships with governments, research organizations, biodiversity networks, and any other necessary parties to support long-term planning and impactful conference programming.
-  - 2) **Explore a regional “hub-and-spoke” meeting model.** <br />
+2. **Explore a regional “hub-and-spoke” meeting model.** <br />
 As TDWG continues to grow, we have an opportunity to experiment with distributed regional meetings that complement the annual global conference. This model can increase accessibility, support local capacity building, and bring TDWG’s standards conversations closer to underrepresented communities.
-  - 3) **Continue enhancing accessibility, equity, and sustainability in conference planning.** <br />
+3. **Continue enhancing accessibility, equity, and sustainability in conference planning.** <br />
 Through data-driven site selection, hybrid participation models, and strong local partnerships, we can ensure that TDWG events remain welcoming, feasible, and globally inclusive.
-  - 4) **Further integrate TDWG’s culture into international research communities.** <br />
+4. **Further integrate TDWG’s culture into international research communities.** <br />
 One of the most rewarding aspects of Time & Place work has been representing TDWG externally and bringing our collaborative ethos into new spaces. I will continue championing TDWG as a vibrant, trusted community within the global biodiversity informatics landscape.
 
 TDWG meetings are more than events, they are pillars of our community. My goal is to continue building conference environments where connection, collaboration, and shared purpose can thrive for years to come.
