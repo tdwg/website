@@ -36,18 +36,16 @@ All officers elected this year will serve a term of two calendar years, 2026-202
 The nominations received until now (1 Dec) are listed below under the respective role. **The nominating period does not close until 6 December.**
 
 {:id="deputy-chair"}
-### Deputy Chair
+### [Deputy Chair](/about/executive/responsibilities/#deputy-chair) 
 
-[Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2028-2029)
+Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
 
 [**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
 https://orcid.org/0000-0002-7842-1230
 _Statement Pending_
 
 <!--
-### Secretary
-
-[Responsibilities](/about/executive/responsibilities/#secretary)
+### [Secretary](/about/executive/responsibilities/#secretary)
 
 [**Visotheary Ung**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d’Histoire Naturelle, Paris_
 
@@ -61,9 +59,7 @@ _Statement Pending_
 : I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
 -->
 <!--
-### Treasurer
-
-[Responsibilities](/about/executive/responsibilities/#treasurer)
+### [Treasurer](/about/executive/responsibilities/#treasurer)
 
 [**Chandra Earl**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
 
@@ -77,8 +73,7 @@ _Statement Pending_
 -->
 
 {:id="tag"}
-### Technical Architecture Group, Chair
-[Responsibilities](/about/committees/tag/#responsibilities) (serving 2026-2027)
+### [Technical Architecture Group, Chair](/about/committees/tag/#responsibilities)
 
 [**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
 
@@ -102,8 +97,7 @@ I envision a more significant and strategic support role for TAG with a prioriti
 6.  Continue to broaden and diversify TDWG membership, focusing on underrepresented populations and gaps in domain expertise.
 
 {:id="infrastructure"}
-### Infrastructure, Chair
-[Responsibilities](/about/committees/infrastructure/#responsibilities)  (serving 2026-2027)
+### [Infrastructure, Chair](/about/committees/infrastructure/#responsibilities)
 
 [**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
@@ -120,10 +114,9 @@ I am Deputy Director and Head of Informatics at the GBIF Secretariat, and we acc
 The TDWG community require a stable and simple infrastructure that is intuitive to use. The recent adoption of GitHub for the working groups and website content, along with the mailing lists, tools for conference registration and our journal partnership are – in my opinion – the correct level of infrastructure for TDWG to operate effectively. I see the current role of the committee to continue ensuring the existing processes operate smoothly and be ready to explore emerging needs, but do not see it necessary to make significant changes at this point.
 
 {:id="fundraising"}
-### Fundraising and Partnerships, Chair
-[Responsibilities](/about/committees/fundraising/#responsibilities) (serving 2026-2027)
+### [Fundraising and Partnerships, Chair](/about/committees/fundraising/#responsibilities)
 
-[**Patricia Mergen**](mailto:) - _Botanical Garden, Meise, Belgium_ 
+[**Patricia Mergen**](mailto:patricia.mergen@plantentuinmeise.be) - _Botanical Garden, Meise, Belgium_ 
 
 **Background** 
 
@@ -140,8 +133,7 @@ We will identify the needs of TDWG in terms of funding and collect suggestions f
 We will identify funding bodies and opportunities and perform some lobbying and negotiations to attract sponsoring, grants or to be part of funded projects. I will bring in more specifically my long term experience on EU funding opportunities and funding opportunities with African granting bodies such as JRS Biodiversity or the cooperation and development funds of the countries and the EU. We will work in close collaboration with the regional representative and members from the other continents as well to identify funding opportunities worldwide. 
 
 <!--
-### Outreach and Communications, Chair
-[Responsibilities](/about/committees/outreach/#responsibilities)  (serving 2025-2026)
+### Outreach and Communications, Chair](/about/committees/outreach/#responsibilities)
 
 #### Nicky Nicolson
 _Royal Botanic Gardens, Kew, Richmond, UK_
@@ -175,8 +167,7 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 -->
 
 {:id="tardis"}
-### Time and Place, Chair (serving: 2026-2027)
-[Responsibilities](/about/committees/tardis/#responsibilities)
+### [Time and Place, Chair](/about/committees/tardis/#responsibilities)
 
 [**Kristen "Kit" Lewers**](mailto:) <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
 
@@ -204,12 +195,10 @@ Through data-driven site selection, hybrid participation models, and strong loca
 One of the most rewarding aspects of Time & Place work has been representing TDWG externally and bringing our collaborative ethos into new spaces. I will continue championing TDWG as a vibrant, trusted community within the global biodiversity informatics landscape.
 
 TDWG meetings are more than events, they are pillars of our community. My goal is to continue building conference environments where connection, collaboration, and shared purpose can thrive for years to come.
-### Regional Representatives
-
-[Responsibilities](/about/executive/responsibilities/#regional-representatives)
+### [Regional Representatives](/about/executive/responsibilities/#regional-representatives)
 
 {:id="rep-africa"}
-### Regional Representative for Africa (serving 2026-2027): 
+#### Regional Representative for Africa 
 
 [**Brice Djiofack**](mailto:bdjiofack@gmail.com) <a href="https://orcid.org/0000-0002-3520-800X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Independent, Brussels, Belgium
 
