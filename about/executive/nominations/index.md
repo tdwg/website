@@ -40,6 +40,8 @@ The nominations received until now (1 Dec) are listed below under the respective
 
 [Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2028-2029)
 
+[**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
+https://orcid.org/0000-0002-7842-1230
 _Statement Pending_
 
 <!--
@@ -47,8 +49,7 @@ _Statement Pending_
 
 [Responsibilities](/about/executive/responsibilities/#secretary)
 
-#### Visotheary Ung 
-_Muséum National d’Histoire Naturelle, Paris_
+[**Visotheary Ung**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d’Histoire Naturelle, Paris_
 
 **Background**
 : I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
@@ -64,8 +65,7 @@ _Muséum National d’Histoire Naturelle, Paris_
 
 [Responsibilities](/about/executive/responsibilities/#treasurer)
 
-#### Chandra Earl
-_National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
+[**Chandra Earl**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
 
 **Background**
 : I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
@@ -80,9 +80,7 @@ _National Ecological Observatory Network (NEON), Arizona State University, USA (
 ### Technical Architecture Group, Chair
 [Responsibilities](/about/committees/tag/#responsibilities) (serving 2026-2027)
 
-**Ben Norton** - _Independent; Raleigh, NC, USA_
-
-<a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-5819-9134</a>
+[**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
 
 **Background**
 
@@ -107,9 +105,7 @@ I envision a more significant and strategic support role for TAG with a prioriti
 ### Infrastructure, Chair
 [Responsibilities](/about/committees/infrastructure/#responsibilities)  (serving 2026-2027)
 
-**Tim Robertson** - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
-
-<a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-6215-3617</a>
+[**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
 **Background**
 
@@ -127,7 +123,7 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 ### Fundraising and Partnerships, Chair
 [Responsibilities](/about/committees/fundraising/#responsibilities) (serving 2026-2027)
 
-**Patricia Mergen** - _Botanical Garden, Meise, Belgium_ 
+[**Patricia Mergen**](mailto:) - _Botanical Garden, Meise, Belgium_ 
 
 **Background** 
 
@@ -182,9 +178,7 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 ### Time and Place, Chair (serving: 2026-2027)
 [Responsibilities](/about/committees/tardis/#responsibilities)
 
-**Kristen "Kit" Lewers** - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
-
-<a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0003-0526-4075</a>
+[**Kristen "Kit" Lewers**](mailto:) <a href="https://orcid.org/0000-0003-0526-4075"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
 
 **Background**
 
@@ -217,9 +211,31 @@ TDWG meetings are more than events, they are pillars of our community. My goal i
 {:id="rep-africa"}
 ### Regional Representative for Africa (serving 2026-2027): 
 
-#### Brice Djiofack
+[**Brice Djiofack**](mailto:bdjiofack@gmail.com) <a href="https://orcid.org/0000-0002-3520-800X"><img style="float: left; margin: 0px 5px 0px 0px;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Independent, Brussels, Belgium
 
-_Background and Vision pending_
+**Background**
+
+I was born and raised in Cameroon, where I obtained an MSc in Plant Ecology from the
+University of Dschang in 2014. I then pursued a second MSc in Bioscience Engineering at
+the Université catholique de Louvain (Belgium), where my research focused on the growth
+performance of Pericopsis elata, an iconic timber species of Central and West Africa, in a
+historical research experiment in Yangambi (DR Congo). After graduating in 2018, I worked
+for over three years as a junior expert in local development, providing technical support to
+partners and community-based organizations, conducting forest research, and delivering
+capacity-building services in Yangambi/Kisangani (DR Congo) as part of the FORETS
+project. In July 2021, I began a PhD at Ghent University within the PilotMAB project,
+coordinated by the Service of wood biology of the Royal Museum for Central Africa (RMCA). (PhD completed in May 2025.)
+My research focuses on defining and implementing forest management and restoration
+strategies that enable forests to absorb atmospheric CO 2 at levels higher than those
+observed in natural forests in central Africa.
+
+**Vision**
+
+My vision for the next term is to deepen my understanding of TDWG and to explore how
+these resources can benefit the African community. Thus, I envision identifying opportunities
+in which the TDWG’s tools and knowledge can strengthen local bioversity initiatives, support
+data sharing among institutions, and enhance capacity building, thereby contributing to more
+inclusive and impactful conservation efforts across the continent.
 
 <!-- 
 ### Representiative for Europe
