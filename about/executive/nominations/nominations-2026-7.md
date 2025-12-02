@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Nominations are open for positions on the [Executive Committee](/about/executive/) of Biodiversity Information Standards (TDWG) for terms spanning 2025-2026.
+Nominations are open for positions on the [Executive Committee](/about/executive/) of Biodiversity Information Standards (TDWG) for terms spanning 2026-2027.
 
 This is an opportunity to lead the development of biodiversity informatics and work with an enthusiastic team to improve the quality and interoperability of biodiversity data.
 
@@ -31,11 +31,11 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 ## Offices open for election
 
-All officers elected this year will serve a term of two calendar years, 2025-2026, except the Deputy Chair, who will serve an additional two years as Chair.
+All officers elected this year will serve a term of two calendar years, 2026-2027, except the Deputy Chair, who will serve an additional two years as Chair.
 
 ### Deputy Chair
 
-[Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2025-2026, then as Chair 2027-2028)
+[Responsibilities](/about/executive/responsibilities/#deputy-chair) (serves as Deputy Chair 2026-2027, then as Chair 2027-2028)
 
 _No nomination received._
 
@@ -70,22 +70,24 @@ _National Ecological Observatory Network (NEON), Arizona State University, USA (
 **Vision**
 : Although I’m an acting member of a handful of professional societies, biodiversity information is ‘home’. As Treasurer of TDWG, I aim to use my experience within TDWG and connections with other societies to establish a transparent, efficient, and sustainable financial framework that ensures TDWG’s long-term success. I am keen on seeing TDWG evolve into an organization with solid financial health through strategic partnerships, grants, and fundraising, ensuring that we can continue to grow and support all members of the community.
 
-<!-- serving 2024-2025
+serving 2026-2027
 ### Technical Architecture Group, Convener
 [Responsibilities](/about/committees/tag/#responsibilities)
--->
-<!-- serving 2022-2023
+
+serving 2026-2027
 ### Infrastructure, Chair
 [Responsibilities](/about/committees/infrastructure/#responsibilities)
--->
+
 <!--
 ### Fundraising and Partnerships, Chair
 [Responsibilities](/about/committees/fundraising/#responsibilities)
 -->
 
+<!--
 ### Outreach and Communications, Chair <!-- to serve 2025-2026 -->
 
 [Responsibilities](/about/committees/outreach/#responsibilities)
+-->
 
 #### Nicky Nicolson
 _Royal Botanic Gardens, Kew, Richmond, UK_
@@ -117,18 +119,18 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 13. Managing your profile README: [https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)  
 14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
 
-<!-- Term: 2022-23
+Term: 2026-2027
 ### Time and Place, Chair
 [Responsibilities](/about/committees/tardis/#responsibilities)
--->
 
-### Regional Representatives <!-- Term: 2023-2024 -->
+
+### Regional Representatives, Term: 2026-2027 
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
 ### Rep for Africa: 
 
-_No nomination received._
+Brice Djiofack
 
 ### Rep for Asia
 
