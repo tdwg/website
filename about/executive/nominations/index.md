@@ -40,6 +40,8 @@ The nominations received until now (1 Dec) are listed below under the respective
 
 Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
 
+**One nomination:**
+
 [**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/0000-0002-7842-1230"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
 
 _Statement Pending_
@@ -75,6 +77,8 @@ _Statement Pending_
 {:id="tag"}
 ### [Technical Architecture Group, Chair](/about/committees/tag/#responsibilities)
 
+**One nomination:**
+
 [**Ben Norton**](mailto:michaelnorton.ben@gmail.com ) <a href="https://orcid.org/0000-0002-5819-9134"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Independent; Raleigh, NC, USA_
 
 **Background**
@@ -99,6 +103,8 @@ I envision a more significant and strategic support role for TAG with a prioriti
 {:id="infrastructure"}
 ### [Infrastructure, Chair](/about/committees/infrastructure/#responsibilities)
 
+**One nomination:**
+
 [**Tim Robertson**](mailto:trobertson@gbif.org) <a href="https://orcid.org/0000-0001-6215-3617"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Global Biodiversity Information Facility Secretariat, Copenhagen, Denmark_
 
 **Background**
@@ -115,6 +121,8 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 {:id="fundraising"}
 ### [Fundraising and Partnerships, Chair](/about/committees/fundraising/#responsibilities)
+
+**One nomination:**
 
 [**Patricia Mergen**](mailto:patricia.mergen@plantentuinmeise.be) - _Botanical Garden, Meise, Belgium_ 
 
@@ -169,6 +177,8 @@ _Royal Botanic Gardens, Kew, Richmond, UK_
 {:id="tardis"}
 ### [Time and Place, Chair](/about/committees/tardis/#responsibilities)
 
+**One nomination:**
+
 [**Kristen "Kit" Lewers**](mailto:) <a href="https://orcid.org/0000-0003-0526-4075"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
 
 **Background**
@@ -199,6 +209,8 @@ TDWG meetings are more than events, they are pillars of our community. My goal i
 
 {:id="rep-africa"}
 #### Regional Representative for Africa 
+
+**One nomination:**
 
 [**Brice Djiofack**](mailto:bdjiofack@gmail.com) <a href="https://orcid.org/0000-0002-3520-800X"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Independent, Brussels, Belgium
 
@@ -245,4 +257,6 @@ _Naturalis, Leiden_
 
 {:id="rep-oceania"}
 ### Regional Representative for Oceania (serving 2026-2027):
+
+**One nomination _pending_**
 
