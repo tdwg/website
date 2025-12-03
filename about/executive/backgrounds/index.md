@@ -10,7 +10,7 @@ toc: true
 {:id="chair"}
 ## Chair
 
-[**David Bloom**](mailto:chair@tdwg.org) <a href="https://orcid.org/0000-0003-1273-1807"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _VertNet, Berkeley, CA, USA_
+[**David Bloom**](mailto:chair@tdwg.org) <a href="https://orcid.org/0000-0003-1273-1807"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _VertNet, Berkeley, CA, USA_
 
 **Background**
 
