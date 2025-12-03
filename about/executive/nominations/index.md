@@ -44,7 +44,19 @@ Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
 
 [**Elie Saliba**](mailto:elie.saliba@mnhn.fr) <a href="https://orcid.org/0000-0002-7842-1230"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - Beirut, Lebanon
 
-_Statement Pending_
+**Background**
+
+I am a Lebanese-French systematic biologist and taxonomist specializing in biodiversity informatics, with a particular focus on the integration, management, and interoperability of taxonomic and nomenclatural information. My work centers on improving how biodiversity data systems represent, link, and validate scientific names, taxa, and related entities, ultimately enabling researchers and institutions to work with cleaner, more consistent, and more actionable data.
+
+I completed my Ph.D. at Sorbonne Université and the Muséum National d’Histoire Naturelle in Paris, where my thesis examined how zoological nomenclature processes can be modeled and computerized. I discovered the BIS-TDWG community during my first year as a PhD student and never left. After my doctorate, I joined the national [e-COL+](https://ecolplus.fr/) project as a postdoctoral researcher, working at the intersection of natural history collections and artificial intelligence to explore how machine-based approaches can support the digitization and interpretation of collection data. I also worked as a communication officer at GBIF France and participated in the ongoing alignment of [GRSciColl](https://scientific-collections.gbif.org/) and the French National Natural Collections infrastructure.
+
+I am the current Co-Chair of the TDWG [Partnership & Funding Subcommittee](https://www.tdwg.org/about/committees/fundraising/), and a member of the [Latimer Core Maintenance Group](https://ltc.tdwg.org/). I participated in the [French-Spanish Plinian Core pollinator CESP](https://www.gbif.org/project/CESP2023-011/plinian-core-for-plant-pollinator-interactions). I'm also responsible for the recent translations of Latimer Core and most of Darwin Core into French. I’ve been regularly teaching biodiversity informatics, database management, and zoological nomenclature in France and internationally, including talking about TDWG standards and their applications for several years. 
+
+**Vision**
+
+I am committed to advancing a more open, FAIR, connected, and globally inclusive biodiversity informatics landscape. My priorities cover two key areas. First, I want to increase the visibility and adoption of TDWG standards by addressing language barriers and promoting biodiversity informatics in underrepresented regions—particularly the Middle East and North Africa. Second, I believe TDWG should better recognize and support the volunteers whose dedication sustains our community while also streamlining the processes for ratifying and updating standards in ways that respect everyone's volunteer capacity.
+
+TDWG has provided me with a warm and welcoming environment as an early-career researcher, where more experienced colleagues generously share their knowledge and insight. I want to help preserve and strengthen this culture of mentorship and collaboration, as I believe it is fundamental to TDWG's strength and long-term success.
 
 <!--
 ### [Secretary](/about/executive/responsibilities/#secretary)
