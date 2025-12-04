@@ -36,13 +36,13 @@ The aim of this group is to create a list of properties that can be used for ima
 
    **Timeline:**
 
-<table style="border-collapse: collapse; width: 100%; height: 126px;" border="1">
+<table style="border-collapse: collapse; border: 1px solid black; width: 100%; height: 126px;">
 <tbody>
-<tr style="height: 18px;" border="1">
-<td style="width: 40%; height: 18px;" border="1">Phase</td>
-<td style="width: 20%; text-align: center; height: 18px;" colspan="4" border="1">Year 1</td>
-<td style="width: 20%; text-align: center; height: 18px;" colspan="4" border="1">Year 2</td>
-<td style="width: 20%; text-align: center; height: 18px;" colspan="4" border="1">Year 3</td>
+<tr style="height: 18px;">
+<td style="width: 40%; height: 18px;">Phase</td>
+<td style="width: 20%; text-align: center; height: 18px;" colspan="4">Year 1</td>
+<td style="width: 20%; text-align: center; height: 18px;" colspan="4">Year 2</td>
+<td style="width: 20%; text-align: center; height: 18px;" colspan="4">Year 3</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 40%; height: 18px;"><span style="font-weight: 400;">FishAIR AI-Readiness metadata</span></td>
