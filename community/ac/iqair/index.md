@@ -45,98 +45,98 @@ The aim of this group is to create a list of properties that can be used for ima
 <td style="width: 20%; text-align: center; height: 18px; border: 1px solid black;" colspan="4">Year 3</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 40%; height: 18px;"><span style="font-weight: 400;">FishAIR AI-Readiness metadata</span></td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ffff99;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ffff99;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
+<td style="width: 40%; height: 18px; border: 1px solid black;"><span style="font-weight: 400;">FishAIR AI-Readiness metadata</span></td>
+<td style="width: 5%; height: 18px; text-align: center; background-color: #ffff99; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; background-color: #ffff99; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 40%; height: 18px;"><span style="font-weight: 400;">FishAIR Image Quality metadata</span></td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ccffcc;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ccffcc;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
+<td style="width: 40%; height: 18px; border: 1px solid black;"><span style="font-weight: 400;">FishAIR Image Quality metadata</span></td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ccffcc;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ccffcc;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 40%; height: 18px;"><span style="font-weight: 400;">FishAIR Feature extraction metadata</span></td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #99ccff;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #99ccff;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
+<td style="width: 40%; height: 18px; border: 1px solid black;"><span style="font-weight: 400;">FishAIR Feature extraction metadata</span></td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #99ccff;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #99ccff;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 40%; height: 18px;"><span style="font-weight: 400;">Drexel MRC Automated metadata</span></td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ff99cc;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ff99cc;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ff99cc;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
+<td style="width: 40%; height: 18px; border: 1px solid black;"><span style="font-weight: 400;">Drexel MRC Automated metadata</span></td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ff99cc;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ff99cc;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ff99cc;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 40%; height: 18px;"><span style="font-weight: 400;">Metadata from other sources</span></td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; background-color: #ffcc99; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; background-color: #ffcc99; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ffcc99;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ffcc99;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center; background-color: #ffcc99;">&nbsp;</td>
+<td style="width: 40%; height: 18px; border: 1px solid black;"><span style="font-weight: 400;">Metadata from other sources</span></td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; background-color: #ffcc99; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; background-color: #ffcc99; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ffcc99;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ffcc99;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black; background-color: #ffcc99;">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 40%; height: 18px;"><span style="font-weight: 400;">Usage Statistics &amp; Reporting</span></td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; background-color: #cccccc; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; background-color: #cccccc; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 5%; height: 18px; background-color: #cccccc; text-align: center;">&nbsp;</td>
+<td style="width: 40%; height: 18px; border: 1px solid black;"><span style="font-weight: 400;">Usage Statistics &amp; Reporting</span></td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; background-color: #cccccc; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; background-color: #cccccc; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; text-align: center; border: 1px solid black;">&nbsp;</td>
+<td style="width: 5%; height: 18px; background-color: #cccccc; text-align: center; border: 1px solid black;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-
+<br />
 
 The group will meet once a month and discuss the published FishAIR terms (\~70 terms) in the first year, and unpublished terms (\~90 terms) in the second year and first part of third year. The additional terms that will possibly be generated from other studies during these years will be added to the unpublished list as well and will be discussed in the third year. 
 
