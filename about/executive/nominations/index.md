@@ -9,6 +9,8 @@ background:
 toc: true
 ---
 
+## Why join the TDWG Executive Committee?
+
 Nominations are open for positions on the [Executive Committee](/about/executive/) of Biodiversity Information Standards (TDWG) for terms spanning 2026-2027.
 
 This is an opportunity to lead the development of biodiversity informatics and work with an enthusiastic team to improve the quality and interoperability of biodiversity data.
@@ -59,31 +61,31 @@ I am committed to advancing a more open, FAIR, connected, and globally inclusive
 TDWG has provided me with a warm and welcoming environment as an early-career researcher, where more experienced colleagues generously share their knowledge and insight. I want to help preserve and strengthen this culture of mentorship and collaboration, as I believe it is fundamental to TDWG's strength and long-term success.
 
 <!--
-### [Secretary](/about/executive/responsibilities/#secretary)
-
-[**Visotheary Ung**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d’Histoire Naturelle, Paris_
-
-**Background**
-: I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
-: I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
-
-**Vision**
-: My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
-: I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
-: I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
+  ### [Secretary](/about/executive/responsibilities/#secretary)
+  
+  [**Visotheary Ung**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Muséum National d’Histoire Naturelle, Paris_
+  
+  **Background**
+  : I am a biologist by training, I have a masters degree in population genetics but started my professional career at the CNRS (French national center of scientific research) working as a network and systems administrator for 7 years. In 2007, I came back to my first love in science: Systematics, and in 2008 started to attend TDWG meetings as the scientific communication officer for the Xper research group in Paris. In that role, I had the chance to be involved in European projects (EDIT and ViBRANT) which showed me that collaborative work is the key to success. At the same time, I started a PhD on Southeast Asian biogeography and methodology for comparative biogeography which I defended in 2013. I am now a biodiversity informatics project manager and biogeographer based at the Muséum National d’Histoire Naturelle in Paris.
+  : I am French and grew up in Paris, but was born in Phnom-Penh (Cambodia). I am very proud of my dual culture, which I see as a richness and I am convinced of its good influence on me. Being part of two different cultures, two different worlds has taught me that it is always possible to build bridges, to bring people together. This is exactly what TDWG is about: to bring together biologists, scientists and developers with the purpose of providing the whole community with standards, best practices and tools.
+  
+  **Vision**
+  : My first TDWG meeting was in 2008 in Fremantle and I have not missed one ever since. I am thrilled to be more involved in TDWG activities. As Secretary, I will focus on maintaining good communications within our community: among the Executive Committee, members of TDWG Interest and Task Groups and users of TDWG standards.
+  : I see my role as a connecting hub between everyone, providing clear communication about our processes (creation and use of TDWG standards) and documentation. I have a will to support all members of the Executive Committee, especially our chair and hope to be a good proxy.
+  : I strongly believe that standards are essential to improve biodiversity data sharing and implementing interoperability of software and systems. TDWG standards have been key to my own research and I will continue pushing forward their use within my research community, locally at the Muséum d’Histoire Naturelle and on a larger scale to the French scientific community.
 -->
 <!--
-### [Treasurer](/about/executive/responsibilities/#treasurer)
-
-[**Chandra Earl**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
-
-**Background**
-: I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
-: I received my graduate degree in [Genetics & Genomics](http://ufgi.ufl.edu/) from the University of Florida, where my dissertation research focused on building tools for “big data” biodiversity analyses, specifically genomics, machine learning and diversification metrices. Due to this, I maintain an ongoing Research Affiliation with the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/).
-: The theme of my personal research is focused on large-scale biodiversity data and analyses using natural history collections and as such I have broad experiences with developing pipelines for phylogenetics, bioinformatics, machine learning, geographic modelling, and digitized specimen mobilization. I enjoy research collaboration and have contributed to various biodiversity initiatives spanning across taxonomic scales, including insects, mollusks, plants, mammals and fish. One day I’ll get to birds and herps….maybe.
-
-**Vision**
-: Although I’m an acting member of a handful of professional societies, biodiversity information is ‘home’. As Treasurer of TDWG, I aim to use my experience within TDWG and connections with other societies to establish a transparent, efficient, and sustainable financial framework that ensures TDWG’s long-term success. I am keen on seeing TDWG evolve into an organization with solid financial health through strategic partnerships, grants, and fundraising, ensuring that we can continue to grow and support all members of the community.
+  ### [Treasurer](/about/executive/responsibilities/#treasurer)
+  
+  [**Chandra Earl**](mailto:) <a href="https://orcid.org/9999-9999-9999-9999"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
+  
+  **Background**
+  : I currently work as a biodiversity informatician for the [U.S. National Ecological Observatory Network (NEON)](https://www.neonscience.org/) and primary software developer for the [NEON Biorepository](https://biorepo.neonscience.org/) portal, ensuring implementation of FAIR principles in data management, quality, integration and access of NEON biodiversity and sample data. In previous lives, I’ve held a consultancy contract with [OBIS](https://obis.org/) as an eDNA scientific officer and held the Joshua M. Copus Memorial Fellowship at the [Bernice Pauahi Bishop Museum](https://www.bishopmuseum.org/) in Honolulu, Hawai‘i.
+  : I received my graduate degree in [Genetics & Genomics](http://ufgi.ufl.edu/) from the University of Florida, where my dissertation research focused on building tools for “big data” biodiversity analyses, specifically genomics, machine learning and diversification metrices. Due to this, I maintain an ongoing Research Affiliation with the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/).
+  : The theme of my personal research is focused on large-scale biodiversity data and analyses using natural history collections and as such I have broad experiences with developing pipelines for phylogenetics, bioinformatics, machine learning, geographic modelling, and digitized specimen mobilization. I enjoy research collaboration and have contributed to various biodiversity initiatives spanning across taxonomic scales, including insects, mollusks, plants, mammals and fish. One day I’ll get to birds and herps….maybe.
+  
+  **Vision**
+  : Although I’m an acting member of a handful of professional societies, biodiversity information is ‘home’. As Treasurer of TDWG, I aim to use my experience within TDWG and connections with other societies to establish a transparent, efficient, and sustainable financial framework that ensures TDWG’s long-term success. I am keen on seeing TDWG evolve into an organization with solid financial health through strategic partnerships, grants, and fundraising, ensuring that we can continue to grow and support all members of the community.
 -->
 
 {:id="tag"}
@@ -153,37 +155,37 @@ We will identify the needs of TDWG in terms of funding and collect suggestions f
 We will identify funding bodies and opportunities and perform some lobbying and negotiations to attract sponsoring, grants or to be part of funded projects. I will bring in more specifically my long term experience on EU funding opportunities and funding opportunities with African granting bodies such as JRS Biodiversity or the cooperation and development funds of the countries and the EU. We will work in close collaboration with the regional representative and members from the other continents as well to identify funding opportunities worldwide. 
 
 <!--
-### Outreach and Communications, Chair](/about/committees/outreach/#responsibilities)
-
-#### Nicky Nicolson
-_Royal Botanic Gardens, Kew, Richmond, UK_
-
-**Background**
-: I worked for about fifteen years in a variety of software development roles at the Royal Botanic Gardens, Kew [1] helping researchers and curators manage and mobilise scientific information. Effectively this was a research software engineer role [2], it just predated the term. Ten years ago I switched from the technical track into research, where I completed a doctorate in machine learning, applying density based clustering to our digitised specimen data to identify collectors, expeditions and related specimens gathered from a shared collecting event [3]. I took software development practices with me - things like revision control, dependency management, build automation and continuous integration - to help manage the research process. My work was applied in the Global Biodiversity Information Facility (GBIF) data portal where it helps users navigate between related records [4]. Now I'm senior research leader in digital collections at Kew. We are nearing the end of our specimen digitisation project [5], and I'm interested in how we can use our digitised specimen data to build the "digital extended specimen", and how we do this in an open and inclusive way. I am developing a toolkit called "echinopscis: an extensible notebook for open science on specimens" [6], which was partly supported by Open Seeds [7], an open science mentoring and skills development programme.
-: I've been involved in TDWG throughout my career, and none of my work would have been possible without the data standards and the community of practice that TDWG has fostered.
-
-**Vision**
-: In the past couple of years I have started to work much more closely with the open science community. One crucial distinction that they emphasise is between initiatives which are "open by default" vs those which are "open by design" [8]. As the latter is more intentional, it ensures that participation information is made explicit via resources like roadmaps, contribution guidelines and codes of conduct, all of which help new people to become involved. I see these practices as small steps which we can encourage in TDWG affiliated projects to help grow the community and make it more inclusive.
-
-: I would like to help us build better links between our community and those who are working on software sustainability. In the UK, the software sustainability institute [9] was instrumental in getting the research software engineer job title recognised by funders; today there are RSE networks worldwide [10]. Many in the TDWG community perform RSE-like roles and integrating with these networks can help raise visibility for these roles with our funders. A similar effort is underway to ensure that roles which are focussed on data curation are recognised [11]. Building these links will help develop skills, build new collaborations and grow the community.
-
-: Communication: Keeping in touch with TDWG members and reaching out to new ones is important, and social media has been a key communication tool. This is an evolving landscape, particularly as many step back from Twitter. I would like us to first refresh our LinkedIn profile [12], as many more people are using this platform, and then review potential use of other microblogging platforms like mastodon, bluesky and threads. We should use these channels to share details of relevant events and outputs throughout the year, as well as to promote our annual meeting. I would also encourage TDWG members to complete github profile pages [13] so that the full extent of our community is visible. As more of us are starting to work with artificial intelligence and machine learning, I'd also like to build a TDWG profile on HuggingFace [14], the community hub for sharing models, datasets and application prototypes.
-
-**References**
-1. Kew science: [https://www.kew.org/science](https://www.kew.org/science)  
-2. Are you a research software engineer? [https://society-rse.org/what-is-an-rse/](https://society-rse.org/what-is-an-rse/)  
-3. Automating the construction of higher order data representations from heterogeneous biodiversity datasets [https://bura.brunel.ac.uk/handle/2438/19620](https://bura.brunel.ac.uk/handle/2438/19620)  
-4. New data-clustering feature aims to improve data quality and reveal cross-dataset connections [https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections](https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections)  
-5. Kew specimen digitisation [https://www.kew.org/science/digitising-kews-collections](https://www.kew.org/science/digitising-kews-collections)  
-6. echinopscis: an extensible notebook for open science on specimens [https://echinopscis.github.io/](https://echinopscis.github.io/)  
-7. Open seeds: [https://we-are-ols.org/openseeds/](https://we-are-ols.org/openseeds/)  
-8. Mozilla open leaders initiative participant review (includes section on open by default vs open by design) [https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/](https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/)  
-9. Software Sustainability Institute: [https://www.software.ac.uk/](https://www.software.ac.uk/)  
-10. International RSE communities: [https://society-rse.org/international-rse-organisations/](https://society-rse.org/international-rse-organisations/)  
-11. People in Data: [https://www.turing.ac.uk/research/research-projects/people-data](https://www.turing.ac.uk/research/research-projects/people-data)  
-12. TDWG (LinkedIn): [https://www.linkedin.com/groups/993557/](https://www.linkedin.com/groups/993557/)  
-13. Managing your profile README: [https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)  
-14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
+  ### Outreach and Communications, Chair](/about/committees/outreach/#responsibilities)
+  
+  #### Nicky Nicolson
+  _Royal Botanic Gardens, Kew, Richmond, UK_
+  
+  **Background**
+  : I worked for about fifteen years in a variety of software development roles at the Royal Botanic Gardens, Kew [1] helping researchers and curators manage and mobilise scientific information. Effectively this was a research software engineer role [2], it just predated the term. Ten years ago I switched from the technical track into research, where I completed a doctorate in machine learning, applying density based clustering to our digitised specimen data to identify collectors, expeditions and related specimens gathered from a shared collecting event [3]. I took software development practices with me - things like revision control, dependency management, build automation and continuous integration - to help manage the research process. My work was applied in the Global Biodiversity Information Facility (GBIF) data portal where it helps users navigate between related records [4]. Now I'm senior research leader in digital collections at Kew. We are nearing the end of our specimen digitisation project [5], and I'm interested in how we can use our digitised specimen data to build the "digital extended specimen", and how we do this in an open and inclusive way. I am developing a toolkit called "echinopscis: an extensible notebook for open science on specimens" [6], which was partly supported by Open Seeds [7], an open science mentoring and skills development programme.
+  : I've been involved in TDWG throughout my career, and none of my work would have been possible without the data standards and the community of practice that TDWG has fostered.
+  
+  **Vision**
+  : In the past couple of years I have started to work much more closely with the open science community. One crucial distinction that they emphasise is between initiatives which are "open by default" vs those which are "open by design" [8]. As the latter is more intentional, it ensures that participation information is made explicit via resources like roadmaps, contribution guidelines and codes of conduct, all of which help new people to become involved. I see these practices as small steps which we can encourage in TDWG affiliated projects to help grow the community and make it more inclusive.
+  
+  : I would like to help us build better links between our community and those who are working on software sustainability. In the UK, the software sustainability institute [9] was instrumental in getting the research software engineer job title recognised by funders; today there are RSE networks worldwide [10]. Many in the TDWG community perform RSE-like roles and integrating with these networks can help raise visibility for these roles with our funders. A similar effort is underway to ensure that roles which are focussed on data curation are recognised [11]. Building these links will help develop skills, build new collaborations and grow the community.
+  
+  : Communication: Keeping in touch with TDWG members and reaching out to new ones is important, and social media has been a key communication tool. This is an evolving landscape, particularly as many step back from Twitter. I would like us to first refresh our LinkedIn profile [12], as many more people are using this platform, and then review potential use of other microblogging platforms like mastodon, bluesky and threads. We should use these channels to share details of relevant events and outputs throughout the year, as well as to promote our annual meeting. I would also encourage TDWG members to complete github profile pages [13] so that the full extent of our community is visible. As more of us are starting to work with artificial intelligence and machine learning, I'd also like to build a TDWG profile on HuggingFace [14], the community hub for sharing models, datasets and application prototypes.
+  
+  **References**
+  1. Kew science: [https://www.kew.org/science](https://www.kew.org/science)  
+  2. Are you a research software engineer? [https://society-rse.org/what-is-an-rse/](https://society-rse.org/what-is-an-rse/)  
+  3. Automating the construction of higher order data representations from heterogeneous biodiversity datasets [https://bura.brunel.ac.uk/handle/2438/19620](https://bura.brunel.ac.uk/handle/2438/19620)  
+  4. New data-clustering feature aims to improve data quality and reveal cross-dataset connections [https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections](https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections)  
+  5. Kew specimen digitisation [https://www.kew.org/science/digitising-kews-collections](https://www.kew.org/science/digitising-kews-collections)  
+  6. echinopscis: an extensible notebook for open science on specimens [https://echinopscis.github.io/](https://echinopscis.github.io/)  
+  7. Open seeds: [https://we-are-ols.org/openseeds/](https://we-are-ols.org/openseeds/)  
+  8. Mozilla open leaders initiative participant review (includes section on open by default vs open by design) [https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/](https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/)  
+  9. Software Sustainability Institute: [https://www.software.ac.uk/](https://www.software.ac.uk/)  
+  10. International RSE communities: [https://society-rse.org/international-rse-organisations/](https://society-rse.org/international-rse-organisations/)  
+  11. People in Data: [https://www.turing.ac.uk/research/research-projects/people-data](https://www.turing.ac.uk/research/research-projects/people-data)  
+  12. TDWG (LinkedIn): [https://www.linkedin.com/groups/993557/](https://www.linkedin.com/groups/993557/)  
+  13. Managing your profile README: [https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)  
+  14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
 -->
 
 {:id="tardis"}
@@ -251,25 +253,26 @@ data sharing among institutions, and enhance capacity building, thereby contribu
 inclusive and impactful conservation efforts across the continent.
 
 <!-- 
-### Representiative for Europe
-
-#### Wouter Addink <!-- wouter.addink@naturalis.nl
-_Naturalis, Leiden_
-
-**Background**
-: I am passionate about open data and increasing collaboration and community building to enable better data mobilisation from natural history collections. I have been working on community projects in Europe for over ten years, including two iterations of the EC-funded SYNTHESYS projects, ICEDIG, DiSSCo Prepare and Mobilise projects. Recently, this has included the proposal writing and leading the collaborative development of [Specimen Data Refinery platform](https://github.com/DiSSCo/SDR) in SYNTHESYS+ and the managing the creation of Digitisation Guides for [DiSSCo Prepare](https://dissco.github.io/).
-: I am an active participant in SPNHC and CETAF (especially the Digitisation Working Group), and intend to remain active during my potential tenure. I have extensive experience of collaboration outside of Europe, including delivering e-taxonomy training in four continents, delivering a GBIF BID workshop in Jamaica, and digitisation of Malaysian collections as part of national digitisation initiative. I attended my first TDWG conference in 2014 ([slides](https://doi.org/10.6084/m9.figshare.1219251.v1)), and have attended all in-person European conferences since ([2019](https://doi.org/10.6084/m9.figshare.10024715.v1) and [2022](https://doi.org/10.6084/m9.figshare.21312345.v1)). Both myself and my digitisation team use TDWG standards on a day-to-day basis in our projects and are keen to give more user feedback on implementation and use.
-: I am an experienced editor of formal publications (Zootaxa, [ZooKeys](https://zookeys.pensoft.net/browse_journal_groups.php?journal_id=2&role_id=3&user_letter=L), [BDJ](https://bdj.pensoft.net/board/)) and for [special collections](https://riojournal.com/topical_collection/84). For examples of community presentations and outreach see my [Figshare profile](https://figshare.com/authors/Laurence_Livermore/100501).
-
-**Vision**
-: There are multiple exciting initiatives across Europe which will benefit from global connectivity, including the continued development of DiSSCo and the establishment of national DiSSCo nodes.
-: As Regional Representative for Europe, I would maintain and strengthen connections between the other Regional Representatives and promote TDWG's role in developing and promoting the use of biodiversity data standards. DiSSCo, and related initiatives around the world (e.g., GBIFs regional programmes, iDigBio, and ALA), are more effective and efficient when they collaborate and share approaches. Our community still has more to gain from establishing more shared practices, protocols, and training programmes. I would like to promote the co-development of more regional initiatives, or at least help connect people and initiatives that have the potential to benefit by working together.
-: I am keen to promote wider participation in SPNHC and will ensure TDWG's work is brought to CETAF's Digitisation Working Group and Information Science and Technology Committee. Over the next two years I will be working to develop the DiSSCo-UK node and want to ensure that our work benefits the wider community, that we implement TDWG standards, and encourage wider participation in TDWG activities.
+  ### Representiative for Europe
+  
+  #### Wouter Addink <!-- wouter.addink@naturalis.nl
+  _Naturalis, Leiden_
+  
+  **Background**
+  : I am passionate about open data and increasing collaboration and community building to enable better data mobilisation from natural history collections. I have been working on community projects in Europe for over ten years, including two iterations of the EC-funded SYNTHESYS projects, ICEDIG, DiSSCo Prepare and Mobilise projects. Recently, this has included the proposal writing and leading the collaborative development of [Specimen Data Refinery platform](https://github.com/DiSSCo/SDR) in SYNTHESYS+ and the managing the creation of Digitisation Guides for [DiSSCo Prepare](https://dissco.github.io/).
+  : I am an active participant in SPNHC and CETAF (especially the Digitisation Working Group), and intend to remain active during my potential tenure. I have extensive experience of collaboration outside of Europe, including delivering e-taxonomy training in four continents, delivering a GBIF BID workshop in Jamaica, and digitisation of Malaysian collections as part of national digitisation initiative. I attended my first TDWG conference in 2014 ([slides](https://doi.org/10.6084/m9.figshare.1219251.v1)), and have attended all in-person European conferences since ([2019](https://doi.org/10.6084/m9.figshare.10024715.v1) and [2022](https://doi.org/10.6084/m9.figshare.21312345.v1)). Both myself and my digitisation team use TDWG standards on a day-to-day basis in our projects and are keen to give more user feedback on implementation and use.
+  : I am an experienced editor of formal publications (Zootaxa, [ZooKeys](https://zookeys.pensoft.net/browse_journal_groups.php?journal_id=2&role_id=3&user_letter=L), [BDJ](https://bdj.pensoft.net/board/)) and for [special collections](https://riojournal.com/topical_collection/84). For examples of community presentations and outreach see my [Figshare profile](https://figshare.com/authors/Laurence_Livermore/100501).
+  
+  **Vision**
+  : There are multiple exciting initiatives across Europe which will benefit from global connectivity, including the continued development of DiSSCo and the establishment of national DiSSCo nodes.
+  : As Regional Representative for Europe, I would maintain and strengthen connections between the other Regional Representatives and promote TDWG's role in developing and promoting the use of biodiversity data standards. DiSSCo, and related initiatives around the world (e.g., GBIFs regional programmes, iDigBio, and ALA), are more effective and efficient when they collaborate and share approaches. Our community still has more to gain from establishing more shared practices, protocols, and training programmes. I would like to promote the co-development of more regional initiatives, or at least help connect people and initiatives that have the potential to benefit by working together.
+  : I am keen to promote wider participation in SPNHC and will ensure TDWG's work is brought to CETAF's Digitisation Working Group and Information Science and Technology Committee. Over the next two years I will be working to develop the DiSSCo-UK node and want to ensure that our work benefits the wider community, that we implement TDWG standards, and encourage wider participation in TDWG activities.
 -->
 
 {:id="rep-oceania"}
-### Regional Representative for Oceania (serving 2026-2027):
+#### Regional Representative for Oceania
 
+**One nomination:**
 
 [**Corinna Paeper**](mailto:corinna.paeper@csiro.au) - _National Research Collections Australia, National Collections & Marine Infrastructure, CSIRO, Canberra, Australia_
 
