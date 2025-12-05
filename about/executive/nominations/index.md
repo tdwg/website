@@ -270,5 +270,24 @@ _Naturalis, Leiden_
 {:id="rep-oceania"}
 ### Regional Representative for Oceania (serving 2026-2027):
 
-**One nomination _pending_**
+
+[**Corinna Paeper**](mailto:corinna.paeper@csiro.au) - _National Research Collections Australia, National Collections & Marine Infrastructure, CSIRO, Canberra, Australia_
+
+**Background**
+
+With a PhD in Plant Science from the Australian National University and over 15 years of experience across government, higher education, and research sectors, I've developed expertise in biodiversity informatics and data management, driving digital transformation initiatives that make biodiversity data more accessible and impactful. My foundation in molecular biology provided deep understanding of biological system complexities and the critical importance of robust data management in scientific research.
+
+As Group Leader for Digital, Data & Informatics at CSIRO's National Research Collections Australia, I provide strategic oversight for Australia's most comprehensive specimen-based biodiversity record - over 15 million specimens. Leading digital strategy, I advance specimen data management, operationalise collection digitisation, and lead development of AI/ML methods for biological information integration. This includes diagnostic tools, automated trait extraction from specimen images, and large-scale analyses integrating multiple data layers.
+
+My track record includes managing the migration of over 2 million records from four national collections whilst building comprehensive support frameworks that empowered collection managers across institutions. In my previous role at the Atlas of Living Australia, I developed impact reporting frameworks and data integration approaches that enhanced how researchers and policy-makers access and utilise biodiversity information.
+
+Through representing CSIRO at forums including the Australian Faunal Collections Informatics Group, I've developed strong collaborative networks across Australia's biodiversity informatics community and gained comprehensive understanding of both technical challenges and strategic opportunities in standards development.
+
+**Vision**
+
+As Oceania Representative, I will leverage my strategic leadership experience to elevate our region's collective influence in global biodiversity standards development whilst fostering inclusive participation across our diverse institutional landscape. Oceania encompasses remarkable biodiversity across Australia, New Zealand, and the Pacific Islands, with institutions operating at different scales and with varying resources - all deserving representation in international biodiversity informatics discussions.
+
+My focus centres on bridging cutting-edge technologies with practical implementation needs through collaborative approaches. My experience leading large-scale digital transformations positions me to advocate for standards that support both advanced applications and the diverse needs of institutions across our region, ensuring TDWG standards evolve to accommodate emerging technologies whilst remaining accessible across different contexts and capabilities.
+
+I'm committed to building stronger collaborative networks, facilitating knowledge exchange, and ensuring Oceania's innovations and unique perspectives contribute strategically and meaningfully to global biodiversity informatics advancement.
 
