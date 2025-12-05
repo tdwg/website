@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-## Why join the TDWG Executive Committee?
+## Joining the TDWG Executive Committee
 
 Nominations are open for positions on the [Executive Committee](/about/executive/) of Biodiversity Information Standards (TDWG) for terms spanning 2026-2027.
 
@@ -142,17 +142,11 @@ The TDWG community require a stable and simple infrastructure that is intuitive 
 
 **Background** 
 
-I have been involved with TDWG since 2002 and acted in the past as representative for Europe, as Secretary, and later on as chair of the Time and Place Committee.
-
-In my respective institutions I work as liaison officer with main tasks being fundraising, project management and networking in the domain of biodiversity information, collections, and data management.
+I have been involved with TDWG since 2002 and familiar with biodiversity data since working on my PHD, notably via Fishbase. I would be honored to continue my role as Chair of the Partnership and Fundraising committee. I have been appointed as temporary Head of Delegation representing Belgium in GBIF in 2025, and part of the TDWG delegation to GBIF. In GBIF, I am part of the GBIF trainers and mentors network, and the translator group for French, where training on TDWG standards is a prominent part. I have been involved in many TDWG and GBIF related activities encouraging data provision to GBIF and contribution to standards development, including updates of my own institutions, and also in the networks where I represent them, or for Belgium internationally, such as the Research Infrastructure DiSSCo (Distributed System of Scientific collection), the CETAF (Consortium of European Taxonomy Facilities), BHL (Biodiversity Heritage Library) and EOSC (European Open Science Cloud). I also have extensive experience participating in externally funded research projects (e.g., EU Cooperation and Development, and JRS Biodiversity Foundation). and have participated in several projects where TDWG and GBIF are partners or contributors, such as BICIKL, SYNTHESYS, and DiSSCo-related projects. Finally, I have worked with African partners in GBIF BID projects where TDWG standards are used. 
 
 **Vision**
 
-I will bring in members from the different continents with similar roles into the functional subcommittee committee and liaise closely with the regional representatives as well as with the subcommittee on Communication and Outreach and with the TDWG interest groups and task groups.
-
-We will identify the needs of TDWG in terms of funding and collect suggestions for engaging in more formal partnerships agreements with other associations with also an influence on the membership of TDWG or associations TDWG could be a member of.
-
-We will identify funding bodies and opportunities and perform some lobbying and negotiations to attract sponsoring, grants or to be part of funded projects. I will bring in more specifically my long term experience on EU funding opportunities and funding opportunities with African granting bodies such as JRS Biodiversity or the cooperation and development funds of the countries and the EU. We will work in close collaboration with the regional representative and members from the other continents as well to identify funding opportunities worldwide. 
+Growing from this international experience, my vision for TDWG is to sign more cooperation agreements with important TDWG stakeholders following this year’s MoU with the International Commission on Zoological Nomenclature (ICZN). With my experience in fundraising and opportunity seeking, I will seek funding for TDWG in projects to support TDWG standards development and usage. Important other funding needs are mobility grants for participation in our events and support the organization of the conferences. To have good geographic coverage at our conferences, collaboration with the TDWG’s regional representatives is essential. 
 
 <!--
   ### Outreach and Communications, Chair](/about/committees/outreach/#responsibilities)
