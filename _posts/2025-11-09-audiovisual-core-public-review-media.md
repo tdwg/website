@@ -11,7 +11,7 @@ tags: [standards, public review, Audiovisual Core]
 
 The Audiovisual Core Maintenance Group has approved a proposal to create a class for media items. This proposal is intended to complement the Darwin Core Data Packages proposal, in addition to serving as a class whose members are the subject of most of the existing terms in Audiovisual Core.
 
-To view the proposal's full details and make comments, visit https://github.com/tdwg/ac/issues/277. The comment period will run for at least 30 days, starting on November 10 and ending no earlier than December 10. 
+To view the proposal's full details and make comments, visit [https://github.com/tdwg/ac/issues/277]. The comment period will run for at least 30 days, starting on November 10 and ending no earlier than December 10. 
 
 If you have any questions, please contact [Ed Baker](mailto:edward.baker@nhm.ac.uk), Audiovisual Core Maintenance Group convener.
 
