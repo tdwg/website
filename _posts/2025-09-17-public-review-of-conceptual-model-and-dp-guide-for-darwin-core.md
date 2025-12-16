@@ -28,11 +28,12 @@ If you have any questions about the review, please contact [Steve Baskauf](mailt
 Steve Baskauf
 
 Convener, on behalf of the Darwin Core Maintenance Group
+<b />
 
-### Other resources
+## Other resources
 
-[Community help desk sessions for Darwin Core public review: 14:00 mins](https://www.youtube.com/watch?v=giY8hzHZ2MU&t=35s).
+[Community help desk session: introduction to the Darwin Core public review: 14:00 mins](https://www.youtube.com/watch?v=giY8hzHZ2MU&t=35s).
 
-Sessions on the new Darwin Core model and data-package proposals from the last TDWG conference, Living Data 2025:
+Session videos on the new Darwin Core model and data-package proposals from [Living Data 2025](https://www.livingdata2025.com/program.html):
 - [Session 1](https://youtu.be/RH05GIF0xWk?si=kn6y8qCbToNEMhH3)
 - [Session 2](https://youtu.be/sPsR0X69PsM?si=OxXESB-wWuIOGDyH)
