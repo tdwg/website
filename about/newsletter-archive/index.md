@@ -9,6 +9,8 @@ background:
 toc: false
 ---
 
+![TDWG NewsLetter Header](https://static.tdwg.org/documents/archive/newsletter/tdwg-newsletter-header.jpg)
+
 ## TDWG Newsletter Archive
 
 - [TDWG Newsletter 01 (1988)](https://static.tdwg.org/documents/archive/newsletter/TDWG-newsletter-01-1988.pdf)
