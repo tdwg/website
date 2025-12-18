@@ -1,5 +1,5 @@
 ---
-title: Newsletter Archive
+title: TDWG Newsletter Archive
 description: >
   TDWG Newsletters, 1988-92, 1999-2001
 background:
