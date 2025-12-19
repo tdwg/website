@@ -6,7 +6,7 @@ This repository contains the source files for the [TDWG website](https://www.tdw
 
 ## Usage
 
-This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `master` will automatically trigger a new build by [Jenkins](https://builds.gbif.org/job/tdwg-website/)** (maintained by GBIF) and update the website. There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
+This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `master` will automatically trigger a new build by [Jenkins](https://builds.gbif.org/job/tdwg-website/)** (maintained by GBIF) and update the website. There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.  Commits to `dev` will trigger a build to `https://dev.tdwg.org/`.
 
 Found a typo, have a question? See our [contributing guide](https://www.tdwg.org/about/website-faq/).
 
