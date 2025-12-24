@@ -10,7 +10,7 @@ toc: true
 ---
 
 {:.float-end .ms-5}
-![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-300.png)
+![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
 
 _Last updated 23 December 2026_
 
@@ -18,7 +18,7 @@ _Last updated 23 December 2026_
 
 Dates:  2026-09-21 to 25
 
-# Conference program (DRAFT)
+## Conference program (DRAFT)
 
 | Sunday<br />09-20 | Monday<br />09-21 | Tuesday<br />09-22 | Wednesday<br />09-23 | Thursday<br />09-24 | Friday<br />09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
