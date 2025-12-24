@@ -34,7 +34,10 @@ _Last updated 23 December 2026_
 | Bioblitz | Afternoon side-events | Conference program | Bioblitz and excursions | Conference program | Conference program |
 | Reception and registration | Welcome reception [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) at 17:00, finger food, sparkling wine, and soft drinks | Evening side events? | Conference dinner | Evening side events? | Closing of the conference Maybe open to UiO staff (?)  Maybe a final session with invited bioblitz winners from among the Oslo citizens (?) |
 
-### Venue locations ([Google map](https://maps.app.goo.gl/JrjnVtes6YTa13Za8))
+### Venue locations
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d16000.132588121383!2d10.720932548999029!3d59.91527228784897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1766543636300!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 [![][image1]](https://maps.app.goo.gl/JrjnVtes6YTa13Za8)  
 **Oslo City Hall (opening on Monday, 21/9)**  
