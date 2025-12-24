@@ -14,9 +14,9 @@ toc: true
 
 _Last updated 23 December 2026_
 
-## TDWG 2026 in Oslo
+## Join us for TDWG 2026 in Oslo
 
-### Dates:  2026-09-21 to 25
+**Save the dates!  2026-09-21 to 25**
 
 ### Hosted by:
 - University of Oslo Natural History Museum
@@ -25,7 +25,7 @@ _Last updated 23 December 2026_
 
 <p style="clear: both;">&nbsp;</p>
 
-## Conference program (DRAFT)
+## Conference program (DRAFT!)
 
 | Sunday<br />09-20 | Monday<br />09-21 | Tuesday<br />09-22 | Wednesday<br />09-23 | Thursday<br />09-24 | Friday<br />09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -33,4 +33,32 @@ _Last updated 23 December 2026_
 | Launch a public city bioblitz | Public keynotes [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/) [UiO Professorsboligen](https://www.uio.no/english/about/getting-around/areas/city-centre/se04/) [UiO campus downtown](https://www.uio.no/english/about/getting-around/areas/city-centre/) | Conference program | Bioblitz and excursions | Conference program | Conference program |
 | Bioblitz | Afternoon side-events | Conference program | Bioblitz and excursions | Conference program | Conference program |
 | Reception and registration | Welcome reception [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) at 17:00, finger food, sparkling wine, and soft drinks | Evening side events? | Conference dinner | Evening side events? | Closing of the conference Maybe open to UiO staff (?)  Maybe a final session with invited bioblitz winners from among the Oslo citizens (?) |
+
+### Venue locations ([Google map](https://maps.app.goo.gl/JrjnVtes6YTa13Za8))
+
+[![][image1]](https://maps.app.goo.gl/JrjnVtes6YTa13Za8)  
+**Oslo City Hall (opening on Monday, 21/9)**  
+[Oslo City Hall](https://maps.app.goo.gl/dTxaDSJyd2TrPuCy6) (suggested for an opening ceremony) \- [400 meters from the University Aula](https://maps.app.goo.gl/ABrekvTSn2aTuNty6)  
+TODO: Contact the City Hall (Dag)
+
+**UiO University Aula (downtown)** ([MazeMap](https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.735700,59.915609&zoom=18.2&sharepoitype=poi&sharepoi=1000985534)) ([Gmap](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76))  
+[UiO University Aula](https://maps.app.goo.gl/iiUmSXBQfqfF6YD37) (approximately 600 people, selected for the conference opening)  
+The UiO Aula can be [booked](https://www.uio.no/om/regelverk/eiendom/leie-lokaler/universitetets-aula/index.html) by university staff at the earliest two years ahead of the event (thus from September/October 2024\) → Status: [booking reservation](https://tp.educloud.no/uio/timeplan/?type=room&area%5B%5D=SE&building%5B%5D=SE01&id%5B%5D=exchangeSE01165&stop=1&week=40&ar=2024) completed.  
+More information: [UiO venues downtown](https://www.uio.no/english/about/getting-around/areas/city-centre/se01/), [Wikipedia](https://no.wikipedia.org/wiki/Universitetets_aula), [VisitOslo](https://www.visitoslo.com/en/product/?tlp=2987093&name=The-University-Aula)  
+UiO [renting costs](https://www.uio.no/om/aktuelt/universitetsplassen/aulaen/utleie/) and [conditions](https://www.uio.no/om/regelverk/eiendom/leie-lokaler/universitetets-aula/)
+
+**UiO Professorboligen (downtown)**  
+[UiO Professorboligen](https://maps.app.goo.gl/7MouyAMFB1CZmKXS6) (main hall 80 people) [home page](https://www.uio.no/om/regelverk/eiendom/leie-lokaler/professorboligen/)  
+[https://www.uio.no/om/regelverk/eiendom/leie-lokaler/professorboligen/](https://www.uio.no/om/regelverk/eiendom/leie-lokaler/professorboligen/)   
+[https://www.uio.no/english/about/getting-around/areas/city-centre/se04/](https://www.uio.no/english/about/getting-around/areas/city-centre/se04/) 
+
+**UiO Natural History Museum (campus Tøyen) ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46))**  
+[UiO campus Tøyen](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46) is located [1.6 km, 23 minutes walk](https://maps.app.goo.gl/8rPJe4LFqdTx3J8G8) from the [Oslo Congress Centre](https://maps.app.goo.gl/t1pa6trrS8mbBEZt9).  
+We can explore the banquet in the museum library.   
+We can explore task group meetings at the museum.
+
+**UiO Blindern main campus**  
+[UiO main campus Blindern](https://maps.app.goo.gl/KP6Vc22tqB651uS49) (possible to book task group meeting rooms, etc)  
+UiO room booking: [https://tp.educloud.no/uio/app/rombestilling/](https://tp.educloud.no/uio/app/rombestilling/)   
+[https://www.uio.no/for-ansatte/arbeidsstotte/arrangementsstotte/lokaler/](https://www.uio.no/for-ansatte/arbeidsstotte/arrangementsstotte/lokaler/) 
 
