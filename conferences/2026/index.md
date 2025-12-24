@@ -16,7 +16,9 @@ _Last updated 23 December 2026_
 
 ## TDWG 2026 in Oslo
 
-<p style="clear: both;">Dates:  2026-09-21 to 25</p>
+Dates:  2026-09-21 to 25
+
+<p style="clear: both;">&nbsp;</p>
 
 ## Conference program (DRAFT)
 
