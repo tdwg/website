@@ -36,7 +36,7 @@ _Last updated 23 December 2026_
 
 ### Venue locations
 
-[![GoogleMap][image1]](https://maps.app.goo.gl/JrjnVtes6YTa13Za8)  
+[Google Map with relevant locations listed.](https://maps.app.goo.gl/JrjnVtes6YTa13Za8)  
 
 **Oslo City Hall (opening on Monday, 21/9)**  
 [Oslo City Hall](https://maps.app.goo.gl/dTxaDSJyd2TrPuCy6) (suggested for an opening ceremony) \- [400 meters from the University Aula](https://maps.app.goo.gl/ABrekvTSn2aTuNty6)  
