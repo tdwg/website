@@ -16,7 +16,12 @@ _Last updated 23 December 2026_
 
 ## TDWG 2026 in Oslo
 
-Dates:  2026-09-21 to 25
+### Dates:  2026-09-21 to 25
+
+### Hosted by:
+- University of Oslo Natural History Museum
+- GBIF Norway
+- Norwegian Biodiversity Information Centre
 
 <p style="clear: both;">&nbsp;</p>
 
