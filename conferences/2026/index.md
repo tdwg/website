@@ -25,7 +25,7 @@ _Last updated 27 December 2026_
 
 <p style="clear: both;">&nbsp;</p>
 
-## DRAFT Conference overview
+## DRAFT conference overview
 
 | Sunday<br />09-20 | Monday<br />09-21 | Tuesday<br />09-22 | Wednesday<br />09-23 | Thursday<br />09-24 | Friday<br />09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
