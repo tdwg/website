@@ -18,10 +18,10 @@ _Last updated 27 December 2026_
 
 ### Save the dates!  2026-09-21 to 25
 
-### Hosted by:
+**Hosted by:**
 - University of Oslo Natural History Museum
 - GBIF Norway
-- Norwegian Biodiversity Information Center<br />
+- Norwegian Biodiversity Information Center<br />&nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
