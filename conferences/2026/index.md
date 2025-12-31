@@ -21,7 +21,7 @@ _Last updated 27 December 2026_
 ### Hosted by:
 - University of Oslo Natural History Museum
 - GBIF Norway
-- Norwegian Biodiversity Information Center
+- Norwegian Biodiversity Information Center<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ _Last updated 27 December 2026_
   - Ferry to Oscarsborg Fortress (Drøbak) - approx 1 hour one way
   - can take the bus or ferry
 - Fredrikstad? (cultural), 1 hr on the train (no guide, just a place to go)
-- Birding at [Nordre Øyern bird station](https://maps.app.goo.gl/y3L91XzkBVynDNEN7)
+- Birding at [Nordre Øyern bird station](https://maps.app.goo.gl/y3L91XzkBVynDNEN7){:target="_blank"}
 
 **Half day excursions** 
 - Island hopping
@@ -64,4 +64,4 @@ _Last updated 27 December 2026_
 - Ferry to Bygdøy to visit the museums (Folk museum, Viking museum) and hike around Oslo fjord
 
 ### Before and after conference excursions
-- [Tours offered by Discover Hadeland](https://static.tdwg.org/conferences/2026/pre-post-excursions.pdf)
+- [Tours offered by Discover Hadeland](https://static.tdwg.org/conferences/2026/pre-post-excursions.pdf){:target="_blank"}
