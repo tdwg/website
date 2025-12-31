@@ -27,7 +27,7 @@ _Last updated 27 December 2026_
 
 ## DRAFT conference overview
 
-| Sunday<br />09-20 | Monday<br />09-21 | Tuesday<br />09-22 | Wednesday<br />09-23 | Thursday<br />09-24 | Friday<br />09-25 |
+| Sunday<br />2026-09-20 | Monday<br />2026-09-21 | Tuesday<br />2026-09-22 | Wednesday<br />2026-09-23 | Thursday<br />2026-09-24 | Friday<br />2026-09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 |  | Tours & presentations at  [University of Oslo (UiO)](https://en.wikipedia.org/wiki/University_of_Oslo) [UiO campus Blindern](https://www.uio.no/english/about/getting-around/areas/blindern/) | Conference venue, [Oslo Congress Centre](https://www.oslokongressenter.no/information-in-english/) | Bioblitz and excursions | Conference venue, [Oslo Congress Centre](https://www.oslokongressenter.no/information-in-english/) | Conference venue, [Oslo Congress Centre](https://www.oslokongressenter.no/information-in-english/) |
 | Launch a public city bioblitz | Public keynotes [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/) [UiO Professorsboligen](https://www.uio.no/english/about/getting-around/areas/city-centre/se04/) [UiO campus downtown](https://www.uio.no/english/about/getting-around/areas/city-centre/) | Conference program | Bioblitz and excursions | Conference program | Conference program |
