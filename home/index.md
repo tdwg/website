@@ -10,9 +10,9 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Public review of new conceptual model and Data Package Guide for Darwin Core extended until at least 16 January 2026.
-  href: https://www.tdwg.org/news/2025/public-review-of-conceptual-model-and-dp-guide-for-darwin-core/
-  img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8
+    Join us for TDWG 2026, 21-25 September, in Oslo, Norway. Conference structure and excursions posted. Call for session proposals coming soon!
+  href: https://www.tdwg.org/conferences/2026/
+  img: https://plus.unsplash.com/premium_photo-1697729977121-26f13fd5434c
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
