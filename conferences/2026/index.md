@@ -1,7 +1,7 @@
 ---
 title: TDWG 2026
 description: >
-  TDWG Annual Conference - A hybrid conference in Oslo, Norway 21-25 September
+  TDWG Annual Conference - A hybrid conference in Oslo, Norway, 21-25 September
 background:
   img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
   by: Visit Norway / Field Productions
@@ -16,6 +16,8 @@ _Last updated 1 January 2026_
 
 ## Join us for TDWG 2026 in Oslo
 
+_"Research and Robot-ready Biodiversity Data Standards"_
+
 ### Save the dates!  2026-09-21 to 25
 
 **Hosted by:**
@@ -25,13 +27,12 @@ _Last updated 1 January 2026_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## DRAFT conference overview
+## Conference event schedule
 
 | Sunday<br />2026-09-20 | Monday<br />2026-09-21 | Tuesday<br />2026-09-22 | Wednesday<br />2026-09-23 | Thursday<br />2026-09-24 | Friday<br />2026-09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-|  | Conference venue, [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/), Public keynotes | Conference venue, [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) | Bioblitz and excursions | Conference venue, [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) | Conference venue, [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) |
-|  | Conference program, public keynotes | Conference program | Bioblitz and excursions | Conference program | Closing the conference |
-| Welcome reception and registration at UiO Natural History Museum | Welcome reception [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) at 17:00 | Evening side events | Conference dinner | Evening side events |  |
+|  | [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/)<br />Public keynotes and conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/)<br />Conference program | Bioblitz and excursions | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/)<br />Conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/)<br />Conference program |
+| [UiO Natural History Museum](https://www.nhm.uio.no/english/)<br /> Welcome reception and registration  | [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall)<br />Welcome reception @17:00 | Evening side events | Conference dinner | Evening side events |  |
 
 ### Venue locations
 
