@@ -12,7 +12,7 @@ toc: true
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
 
-_Last updated 31 December 2025_
+_Last updated 1 January 2026_
 
 ## Join us for TDWG 2026 in Oslo
 
