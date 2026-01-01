@@ -35,24 +35,22 @@ _Last updated 31 December 2025_
 
 ### Venue locations
 
-**[Oslo Congress Center](https://www.oslokongressenter.no/) Main conference venue (Tue-Fri),** ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"}) 
+Reception and early registration (Sun): UiO Natural History Museum (campus Tøyen), ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46){:target="_blank"})
 
-**UiO University Aula (downtown), Conference opening day (Mon)** ([Goggle Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"}) 
+Conference opening day (Mon): UiO University Aula (downtown), ([Goggle Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"}) 
 
-**UiO Natural History Museum (campus Tøyen), Reception and early registration (Sun),** ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46){:target="_blank"})
-
+Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongressenter.no/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"}) 
 
 ## Excursions
 
 ### Wednesday Excursions
 
 **Full day excursions (outside Oslo)**
-- Visting Tønsberg
-  - 1-2 hr tour plus looking around
-- UiO Marine Field Station in Drøbak
-  - Ferry to Oscarsborg Fortress (Drøbak) - approx 1 hour one way
-  - can take the bus or ferry
-- Fredrikstad? (cultural), 1 hr on the train (no guide, just a place to go)
+
+- [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} (ancient forest) ([map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"})
+- [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} (modern art) ([map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"})
+- [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} (Norwegian food) ([map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"})
+
 - Birding at [Nordre Øyern bird station](https://maps.app.goo.gl/y3L91XzkBVynDNEN7){:target="_blank"}
 
 **Half day excursions** 
@@ -64,4 +62,8 @@ _Last updated 31 December 2025_
 - Ferry to Bygdøy to visit the museums (Folk museum, Viking museum) and hike around Oslo fjord
 
 ### Before and after conference excursions
-- [Tours offered by Discover Hadeland](https://static.tdwg.org/conferences/2026/pre-post-excursions.pdf){:target="_blank"}
+[Tours offered by Discover Hadeland](https://static.tdwg.org/conferences/2026/pre-post-excursions.pdf){:target="_blank"}
+
+- [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
+- [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
+
