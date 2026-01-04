@@ -10,7 +10,7 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Public review of new conceptual model and Data Package Guide for Darwin Core extended until at least 16 January 2026.
+    Testing dev branch
   href: https://www.tdwg.org/news/2025/public-review-of-conceptual-model-and-dp-guide-for-darwin-core/
   img: https://images.unsplash.com/photo-1655809577184-2fb7085a7fd8
 ---
