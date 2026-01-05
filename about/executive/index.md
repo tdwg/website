@@ -30,12 +30,12 @@ Term of office shown as span of calendar years, inclusive.
 
 ### Managing officers
 
-Role | Name                                                                             | Affiliation | Term of office
---- |----------------------------------------------------------------------------------| --- | ---
-[Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [David Bloom](./backgrounds/#chair)  [&#128231;](mailto:chair@tdwg.org)          | VertNet, Berkeley, CA, USA | 2025-2027
-[Deputy Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [Elie Saliba](./backgrounds/#deputy-chair [&#128231;](mailto:elie.saliba@mnhn.fr)           | Beirut, Lebanon | Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
-[Secretary](/about/constitution/#63-secretary) | [Visotheary Ung](./backgrounds/#secretary)  [](mailto:secretary@tdwg.org)        | Muséum National d'Histoire Naturelle, Paris, France | 2025-2026
-[Treasurer](/about/constitution/#64-treasurer) | [Chandra Earl](./backgrounds/#treasurer)  [&#128231;](mailto:treasurer@tdwg.org) | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
+Role | Name                                                                               | Affiliation | Term of office
+--- |------------------------------------------------------------------------------------| --- | ---
+[Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [David Bloom](./backgrounds/#chair)  [&#128231;](mailto:chair@tdwg.org)            | VertNet, Berkeley, CA, USA | 2025-2027
+[Deputy Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [Elie Saliba](./backgrounds/#deputy-chair) [&#128231;](mailto:elie.saliba@mnhn.fr) | Beirut, Lebanon | Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
+[Secretary](/about/constitution/#63-secretary) | [Visotheary Ung](./backgrounds/#secretary)  [&#128231;](mailto:secretary@tdwg.org)          | Muséum National d'Histoire Naturelle, Paris, France | 2025-2026
+[Treasurer](/about/constitution/#64-treasurer) | [Chandra Earl](./backgrounds/#treasurer)  [&#128231;](mailto:treasurer@tdwg.org)   | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
 
 ### Subcommittee chairs
 
@@ -53,7 +53,7 @@ Region | Name                                                                   
 --- |-----------------------------------------------------------------------------------------------------------------------------------------------------| --- | ---
 Africa | [Brice Djiofack](./backgrounds/#africa-representative) [&#128231;](mailto:bdjiofack@gmail.com)                                                      | Independent, Brussels, Belgium | 2026-2027
 Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com)                                                      | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
-Europe | Wouter Addink [&#128231;](mailto:wouter.addink@naturalis.nl)                                                                                        | Naturalis, Leiden | 2025-2026
+Europe | [Wouter Addink](./backgrounds/#europe-representative) [&#128231;](mailto:wouter.addink@naturalis.nl)                                                | Naturalis, Leiden | 2025-2026
 Latin America | [Juan Miguel Saez Hidalgo](https://www.tdwg.org/about/executive/backgrounds/#latin-america-representative)  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
 North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:ekrimmel@gmail.com)                                                 | Independent Biodiversity Information Scientist, Sacramento, CA | 2025-2026
 Oceania | [Corinna Paeper](./backgrounds/#oceania-representative) [&#128231;](mailto:corinna.paeper@csiro.au)                                                 | National Research Collections Australia, National Collections & Marine Infrastructure, CSIRO, Canberra, Australia | 2026-2027

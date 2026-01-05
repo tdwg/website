@@ -1,7 +1,7 @@
 ---
 title: Executive Committee 2025
 description: >
-  TDWG is led by an Executive Committee composed of officers elected by TDWG members. The Executive Committee is responsible for strategic direction, the high-level management and coordination of standards efforts, and the oversight of day-to-day operations. This page shows the currently elected members of the Executive Committee, see the bottom of the page for previous compositions.
+  Members of the TDWG Executive Committee] for the 2025 calendar year.
 background:
   img: https://images.unsplash.com/photo-1490698900541-76d9b74bdcac
   by: Tim Graf
