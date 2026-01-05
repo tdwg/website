@@ -5,3 +5,5 @@ _site/
 
 # Mac OS
 .DS_Store
+
+.idea

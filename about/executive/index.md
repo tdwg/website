@@ -9,6 +9,7 @@ background:
   href: https://unsplash.com/photos/ErO0E8wZaTA
 toc: true
 list:
+- href: /about/executive/2025/
 - href: /about/executive/2024/
 - href: /about/executive/2023/
 - href: /about/executive/2022/
@@ -23,39 +24,39 @@ TDWG is led by an Executive Committee composed of officers elected by TDWG membe
 
 The term of office for all roles is normally two calendar years, with terms staggered such that only half of the Executive Committee is replaced or re-elected in a given year. Elections of officers are usually held in the 3rd or 4th Quarter of the year. Nominations are typically opened a month before the annual meeting and closed near the end of the meeting. Ballots are then distributed to members by email and voting is closed in approximately 30 days. (Scheduling the annual conference late in the year requires this typical schedule to be altered so that elections are completed before the end of year.) 
 
-## Executive Committee 2025
+## Executive Committee 2026
 
 Term of office shown as span of calendar years, inclusive.
 
 ### Managing officers
 
-Role | Name | Affiliation | Term of office
---- | --- | --- | ---
-[Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [David Bloom](./backgrounds/#chair)  [&#128231;](mailto:chair@tdwg.org) | VertNet, Berkeley, CA, USA | 2025-2026
-[Deputy Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | TBA | 
-[Secretary](/about/constitution/#63-secretary) | [Visotheary Ung](./backgrounds/#secretary)  [](mailto:secretary@tdwg.org) | Muséum National d'Histoire Naturelle, Paris, France | 2025-2026
-[Treasurer](/about/constitution/#64-treasurer) | [Chandra Earl](./backgrounds/#treasurer)  [&#128231;](mailto:treasurer@tdwg.org) | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
+Role | Name                                                                               | Affiliation | Term of office
+--- |------------------------------------------------------------------------------------| --- | ---
+[Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [David Bloom](./backgrounds/#chair)  [&#128231;](mailto:chair@tdwg.org)            | VertNet, Berkeley, CA, USA | 2025-2027
+[Deputy Chair](/about/constitution/#62-executive-committee-chair-and-deputy-chair) | [Elie Saliba](./backgrounds/#deputy-chair) [&#128231;](mailto:elie.saliba@mnhn.fr) | Beirut, Lebanon | Serves as Deputy Chair 2026-2027, then as Chair 2028-2029
+[Secretary](/about/constitution/#63-secretary) | [Visotheary Ung](./backgrounds/#secretary)  [&#128231;](mailto:secretary@tdwg.org)          | Muséum National d'Histoire Naturelle, Paris, France | 2025-2026
+[Treasurer](/about/constitution/#64-treasurer) | [Chandra Earl](./backgrounds/#treasurer)  [&#128231;](mailto:treasurer@tdwg.org)   | NEON Biorepository, Arizona State University, Tempe, AZ | 2025-2026
 
 ### Subcommittee chairs
 
 Functional Subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | Raleigh, NC, USA | 2024-2025
-[Fundraising and Partnerships](/about/committees/fundraising/) | [Patricia Mergen](./backgrounds/#fundraising-and-partnerships)  [&#128231;](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2024-2025
-[Infrastructure](/about/committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure) [&#128231;](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2024-2025
+[Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | Raleigh, NC, USA | 2026-2027
+[Fundraising and Partnerships](/about/committees/fundraising/) | [Patricia Mergen](./backgrounds/#fundraising-and-partnerships)  [&#128231;](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2026-2027
+[Infrastructure](/about/committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure) [&#128231;](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2026-2027
 [Outreach and Communications](/about/committees/outreach/) | [Nicky Nicolson](./backgrounds/#outreach-and-communications) [&#128231;](mailto:n.nicolson@kew.org) | Royal Botanic Gardens, Kew, UK | 2025-2026
-[Time and Place](/about/committees/tardis/) | [Kristen "Kit" Lewers](./backgrounds/#time-and-place) [&#128231;](mailto:tardis@tdwg.org) | Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA | 2024-2025
+[Time and Place](/about/committees/tardis/) | [Kristen "Kit" Lewers](./backgrounds/#time-and-place) [&#128231;](mailto:tardis@tdwg.org) | Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA | 2026-2027
 
 ### Regional Representatives
 
-Region | Name | Affiliation | Term of office
---- | --- | --- | ---
-Africa | Brice Djiofack [&#128231;](mailto:bdjiofack@gmail.com) | Cameroon | 2025
-Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
-Europe | Wouter Addink [&#128231;](mailto:wouter.addink@naturalis.nl) | Naturalis, Leiden | 2025-2026
+Region | Name                                                                                                                                                | Affiliation | Term of office
+--- |-----------------------------------------------------------------------------------------------------------------------------------------------------| --- | ---
+Africa | [Brice Djiofack](./backgrounds/#africa-representative) [&#128231;](mailto:bdjiofack@gmail.com)                                                      | Independent, Brussels, Belgium | 2026-2027
+Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com)                                                      | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
+Europe | [Wouter Addink](./backgrounds/#europe-representative) [&#128231;](mailto:wouter.addink@naturalis.nl)                                                | Naturalis, Leiden | 2025-2026
 Latin America | [Juan Miguel Saez Hidalgo](https://www.tdwg.org/about/executive/backgrounds/#latin-america-representative)  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
-North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:ekrimmel@gmail.com) | Independent Biodiversity Information Scientist, Sacramento, CA | 2025-2026
-Oceania | [Shelley James](./backgrounds/#oceania-representative) [&#128231;](mailto:shelley.james@dbca.wa.gov.au) | Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions | 2024-2025
+North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:ekrimmel@gmail.com)                                                 | Independent Biodiversity Information Scientist, Sacramento, CA | 2025-2026
+Oceania | [Corinna Paeper](./backgrounds/#oceania-representative) [&#128231;](mailto:corinna.paeper@csiro.au)                                                 | National Research Collections Australia, National Collections & Marine Infrastructure, CSIRO, Canberra, Australia | 2026-2027
 
 ### Regularly invited participants (non-voting)
 
