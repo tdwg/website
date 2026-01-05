@@ -47,8 +47,3 @@ Conference Program Committee Co-Chair | Gail Kampmeier [&#128231;](mailto:gkamp@
 Administrator, TDWG Secretariat | Stan Blum [&#128231;](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
 Past Chair (2023-2024) | Elycia (Ely) Wallis [&#128231;](mailto:ely.wallis@csiro.au) | CSIRO, Melbourne, Australia 
 Past Chair (2021-2022) | Deb Paul [&#128231;](mailto:dlpaul@illinois.edu) | Urbana-Champaign, IL, USA 
-
-
-## Previous Executive Committees
-
-<!-- list will be inserted below content -->
