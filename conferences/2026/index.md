@@ -58,7 +58,7 @@ Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongress
 - Island hopping
 - Museum collection tours, including Økern
 - Also, plan evening collection tours for those that don’t go on Wednesday
-- Nordmarka forest (Erik?)
+- Nordmarka forest
 - Museums downtown (National Museum, Nobel Peace)
 - Ferry to Bygdøy to visit the museums (Folk museum, Viking museum) and hike around Oslo fjord
 
