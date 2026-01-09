@@ -1,4 +1,6 @@
 - text: "TDWG 2026"
   href: /conferences/2026/
-- text: "Call for Sessions"
-  href: /conferences/2026/call-for-sessions/
+- text: "Submissions"
+  menu:
+  - text: "Call for Sessions"
+    href: /conferences/2026/call-for-sessions/
