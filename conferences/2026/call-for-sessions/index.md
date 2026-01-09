@@ -25,7 +25,7 @@ Session organisers are also responsible for reviewing, approving and ordering ab
 
 Provisional acceptance of your session proposal at this stage does not guarantee that your session will run. Final decisions about which sessions will or won't run are not made until after the abstract submission and review period has passed.
 
-Calls for abstracts will be announced in mid March, 2026.
+Calls for abstracts will be announced in mid-March, 2026.
 
 **Submission deadline: 25 February 2026 (close of business in your time zone)**
 
