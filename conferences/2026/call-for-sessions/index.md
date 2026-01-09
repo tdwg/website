@@ -6,7 +6,7 @@ background:
   img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
   by: Visit Norway / Field Productions
   href: https://www.visitnorway.com/listings/vigeland-sculpture-park/2799/
-toc: true
+toc: false
 ---
 
 _Last updated 8 January 2026_
