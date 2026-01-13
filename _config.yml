@@ -67,3 +67,7 @@ defaults:
       path: conferences/2025
     values:
       navigation: tdwg-2025-navigation
+  - scope:
+      path: conferences/2026
+    values:
+      navigation: tdwg-2026-navigation
