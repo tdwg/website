@@ -27,6 +27,8 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## [Call for sessions](/conferences/2026/call-for-sessions/)
+
 ## Conference event schedule
 
 | Sunday<br />2026-09-20 | Monday<br />2026-09-21 | Tuesday<br />2026-09-22 | Wednesday<br />2026-09-23 | Thursday<br />2026-09-24 | Friday<br />2026-09-25 |
