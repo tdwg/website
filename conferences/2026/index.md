@@ -27,7 +27,9 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Call for sessions](/conferences/2026/call-for-sessions/)
+## [Call for sessions!](/conferences/2026/call-for-sessions/)
+
+### [Instructions for session organizers](/conferences/2026/session-instructions/)
 
 ## Conference event schedule
 
@@ -68,4 +70,6 @@ Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongress
 
 - [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
 - [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
+
+## [Code of Conduct](conferences/2026/code-of-conduct/)
 
