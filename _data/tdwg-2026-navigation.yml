@@ -4,3 +4,7 @@
   menu:
   - text: "Call for Sessions"
     href: /conferences/2026/call-for-sessions/
+  - text: "Instructions for Session Proposals"
+    href: /conferences/2026/session-instructions/
+- text: "Code of Conduct"
+  href: /conferences/2026/code-of-conduct/
