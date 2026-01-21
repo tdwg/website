@@ -42,7 +42,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 Reception and early registration (Sun): UiO Natural History Museum (campus Tøyen), ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46){:target="_blank"})
 
-Conference opening day (Mon): UiO University Aula (downtown), ([Goggle Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"}) 
+Conference opening day (Mon): UiO University Aula (downtown), ([Google Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"}) 
 
 Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongressenter.no/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"}) 
 
