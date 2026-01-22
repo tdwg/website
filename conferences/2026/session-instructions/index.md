@@ -17,7 +17,7 @@ _Last modified date: 2026-01-16_
 
 In 2026, the TDWG conference will use the Whova platform. Session proposals will be submitted on the platform. You can access the submission system through the [TDWG website conference page](https://www.tdwg.org/conferences/2026/call-for-sessions/).
 
-## Session information required
+## Session information required 
 
 ### Submission tracks
 
