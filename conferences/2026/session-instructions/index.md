@@ -41,7 +41,7 @@ If you select a Workshop, you will also be asked to specify a preferred duration
 
 #### Discussion sessions
 
-Discussion sessions can take various forms, including an invited panel, a fireside chat format, presentations as pre-recorded videos, followed by an open discussion. We will accept abstracts for presentations that can be pre-recorded and viewed in advance of the discussion session. Discussion sessions can also be used to bring together two or more sessions with similar themes to engage in a conversation about that theme more broadly.
+Discussion sessions can take various forms, including an invited panel, a fireside chat format, or presentations as pre-recorded videos, followed by an open discussion. We will accept abstracts for presentations that can be pre-recorded and viewed in advance of the discussion session. Discussion sessions can also be used to bring together two or more sessions with similar themes to engage in a conversation about that theme more broadly.
 
 Please specify in the session description what sort of discussion session format you propose.
 
