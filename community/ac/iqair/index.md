@@ -9,10 +9,6 @@ background:
 toc: true
 ---
 
-
-**Image Quality and AI-Readiness Task Group Charter**  
-**A Task Group of Audiovisual Core Maintenance Group**
-
 ## **Convenor**
 
   [Yasin Bakış](mailto:ybakis@tulane.edu), Tulane University 
@@ -105,7 +101,7 @@ This Task Group follows the TDWG model for open participation.
   * Membership is not limited to contributors from any single project or funding source.  
   * Community input is actively encouraged throughout the Task Group’s activities.
 
-10. ## **Strategy** 
+## **Strategy** 
 
 **The Task Group will:**
 
