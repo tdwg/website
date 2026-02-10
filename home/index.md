@@ -10,8 +10,8 @@ background:
 permalink: /
 featured: # description, href, img
   description: >
-    Join us for TDWG 2026, 21-25 September, in Oslo, Norway. Conference structure and excursions posted. Call for session proposals coming soon!
-  href: /conferences/2026/
+    You're invited to submit a proposal for an organized session at TDWG 2026 in #Oslo, Norway. See details! Dealine: 26 Feb 2026, 10:59 UTC +1
+  href: /conferences/2026/call-for-sessions/
   img: https://plus.unsplash.com/premium_photo-1697729977121-26f13fd5434c
 ---
 
