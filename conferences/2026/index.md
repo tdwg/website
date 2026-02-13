@@ -71,5 +71,5 @@ Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongress
 - [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
 - [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
 
-## [Code of Conduct](conferences/2026/code-of-conduct/)
+## [Code of Conduct](/conferences/2026/code-of-conduct/)
 
