@@ -30,16 +30,14 @@ The revised bylaws are intended to improve the speed and efficiency of standards
 
 The existing TDWG process were written before the Internet had become such a large part of scientific information management and interchange. As Internet technologies become an ever deeper part of science infrastructure, the demand for biodiversity information interchange becomes ever greater. TDWG must attract and engage more participants, become more efficient in developing high-quality and consistent standards, and improve its capacity to communicate its purposes, methods, and products to biodiversity information managers. Some of TDWG’s scaling and efficiency problems can be corrected by appropriate communication technologies, but other solutions must rely on social practice. We are revising the bylaws in order to make the desired social practices more uniform across working groups and independent of the particular person fulfilling a role.
 
-This project to revise the TDWG process is being undertaken as part of a larger project to strengthen TDWG as a standards development organization. Several documents have been drafted to provide background for the larger effort, some of which are intended to provide background for revising the process. These documents analyze the existing process and describe the standards development processes used in larger, more modern organizations. These documents are currently at:
-
-<http://www.tdwg.gbif.org/subgroups/tip/tip-document-archive/>
+This effort to revise the TDWG process was undertaken as part of a larger project to strengthen TDWG as a standards development organization. Several documents were drafted to provide background for the larger effort, some of which were intended to provide background for revising the process. These documents analyzed the existing process and described the standards development processes used in larger, more modern organizations. 
 
 The most important to read are:
 
-- TDWG_Existing_Processes.doc
-- TDWG_Best_Current_Practice.doc
-- TDWG_Documentation_Strategy.doc
-- TDWG_Documentation_Priorities_2006.doc
+- [TDWG Existing Processes](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Existing_Processes.docx)
+- [TDWG Best Current Practice](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Best_Current_Practice.docx)
+- [TDWG Documentation Strategy](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Documentation_Strategy.docx)
+- [TDWG Documentation Priorities (2006)](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Documentation_Priorities_2006.docx)
 
 ## Scope
 
