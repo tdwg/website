@@ -11,7 +11,7 @@ tags: [standards, public review, Darwin Core]
 
 ## Public review of new conceptual model and Data Package Guide for Darwin Core
 
-After an extensive period of community feedback and testing, the [Darwin Core Maintenance Group](https://www.tdwg.org/community/dwc/) has approved moving the proposal for a [conceptual model and Data Package guide](https://gbif.github.io/dwc-dp/) forward to a period of public comment. The public comment period will begin on Wednesday, 17 September 2025 and will stay open until ~~at least 16 December (90 days)~~ **16 January, 2026** (recently extended another month). 
+After an extensive period of community feedback and testing, the [Darwin Core Maintenance Group](https://www.tdwg.org/community/dwc/) has approved moving the proposal for a [conceptual model and Data Package guide](https://gbif.github.io/dwc-dp/) forward to a period of public comment. The public comment period will begin on Wednesday, 17 September 2025 and will stay open until ~~at least 16 December (90 days)~~ **13 March, 2026** (recently extended another month). 
 
 ------
 
