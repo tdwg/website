@@ -34,10 +34,10 @@ This effort to revise the TDWG process was undertaken as part of a larger projec
 
 The most important to read are:
 
-- [TDWG Existing Processes](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Existing_Processes.docx)
-- [TDWG Best Current Practice](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Best_Current_Practice.docx)
-- [TDWG Documentation Strategy](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Documentation_Strategy.docx)
-- [TDWG Documentation Priorities (2006)](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Documentation_Priorities_2006.docx)
+- [TDWG Existing Processes](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Existing_Processes.pdf)
+- [TDWG Best Current Practice](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Best_Current_Practice.pdf)
+- [TDWG Documentation Strategy](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Documentation_Strategy.pdf)
+- [TDWG Documentation Priorities (2006)](https://static.tdwg.org/documents/archive/infrastructure-project/TDWG_Documentation_Priorities_2006.pdf)
 
 ## Scope
 
