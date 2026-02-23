@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-![Call for volunteers](https://static.tdwg.org/conferences/2026/images/Call-for-volunteers-TDWG-2026.png){: width="75%"}{: height="75%"}
+![Call for volunteers](https://static.tdwg.org/conferences/2026/images/Call-for-volunteers-TDWG-2026.png){: width="90%"}{: height="90%"}
 
 We are seeking volunteers to join the Program Committee for our upcoming TDWG 2026 Conference in Oslo, Norway. If this is you, please continue reading.
 
