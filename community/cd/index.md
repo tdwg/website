@@ -10,7 +10,7 @@ toc: true
 list:
 - label: MG
   link_label: "Latimer Core"
-  href: https://ltc.tdwg.org/
+  href: /community/cd/ltc/
 - label: TG
   href: /community/cd/expeditions/
 - label: TG
