@@ -1,5 +1,5 @@
 ---
-title: Latimer Core Maintenance Group
+title: Latimer Core
 description: >
   The Latimer Core (LtC) schema, named after Marjorie Courtenay-Latimer, is a standard designed to support the representation and discovery of natural science collections by structuring data about the groups of objects that those collections and their subcomponents encompass.
 background:
@@ -10,11 +10,11 @@ github: https://github.com/tdwg/ltc
 toc: true
 ---
 
-# DRAFT Latimer Core Maintenance Group Charter
+## DRAFT Latimer Core Maintenance Group Charter
 
 Last modified: 2026-02-24
 
-## Convener
+## Conveners
 - [Sharon Grant](mailto:sgrant@fieldmuseum.org) - Field Museum, Chicago, IL, USA
 - [Janeen Jones](mailto:jjones@fieldmuseum.org) - Field Museum, Chicago, IL, USA
 - [Kate Webbink](mailto:kwebbink@fieldmuseum.org) - Field Museum, Chicago, IL, USA
