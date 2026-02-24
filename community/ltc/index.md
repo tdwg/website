@@ -10,11 +10,11 @@ github: https://github.com/tdwg/ltc
 toc: true
 ---
 
-# DRAFT Latimer Core Maintenance Group Charter
+## DRAFT Latimer Core Maintenance Group Charter
 
 Last modified: 2026-02-24
 
-## Convener
+## Conveners
 - [Sharon Grant](mailto:sgrant@fieldmuseum.org) - Field Museum, Chicago, IL, USA
 - [Janeen Jones](mailto:jjones@fieldmuseum.org) - Field Museum, Chicago, IL, USA
 - [Kate Webbink](mailto:kwebbink@fieldmuseum.org) - Field Museum, Chicago, IL, USA
