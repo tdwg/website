@@ -8,9 +8,6 @@ background:
 github: https://github.com/tdwg/cd/
 toc: true
 list:
-- label: MG
-  link_label: "Latimer Core"
-  href: /community/cd/ltc/
 - label: TG
   href: /community/cd/expeditions/
 - label: TG
