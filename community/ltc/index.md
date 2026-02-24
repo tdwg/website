@@ -1,5 +1,5 @@
 ---
-title: Latimer Core Maintenance Group
+title: Latimer Core
 description: >
   The Latimer Core (LtC) schema, named after Marjorie Courtenay-Latimer, is a standard designed to support the representation and discovery of natural science collections by structuring data about the groups of objects that those collections and their subcomponents encompass.
 background:
