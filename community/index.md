@@ -88,7 +88,6 @@ list:
   - label: TG
     href: /community/geoschemes/terrestrial/
 - label: MG
-  link_label: "Latimer Core"
   href: /community/ltc/
 - label: IG
   href: /community/mobs/
