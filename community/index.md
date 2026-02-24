@@ -49,10 +49,6 @@ list:
 - label: IG
   href: /community/cd/
   menu:
-  - label: MG
-    link_label: "Latimer Core"
-    button_bg: bg-secondary
-    href: https://ltc.tdwg.org/
   - label: TG
     href: /community/cd/mids/
   - label: TG
@@ -91,6 +87,9 @@ list:
     href: /community/geoschemes/marine/
   - label: TG
     href: /community/geoschemes/terrestrial/
+- label: MG
+  link_label: "Latimer Core"
+  href: https://ltc.tdwg.org/
 - label: IG
   href: /community/mobs/
 - label: IG
