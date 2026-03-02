@@ -16,7 +16,7 @@ list:
 
 ## Members
 
-- Ben Norton (Chair) - Independent <michaelnorton.ben@gmail.com>
+- Ben Norton (Chair) - Yale University <ben.norton@yale.edu>
 - Wouter Addink - Naturalis <wouter.addink@naturalis.nl>
 - Steve Baskauf (chair emeritus) - Vanderbilt University Heard Libraries <steve.baskauf@vanderbilt.edu>
 - David Bloom - VertNET, TDWG Chair <dbloom@vertnet.org>
