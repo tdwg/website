@@ -1,5 +1,5 @@
 ---
-title: TDWG 2026 - Call for Sessions
+title: TDWG 2026 - Call for Sessions (Closed)
 description: >
   Call for organized sessions at TDWG 2026 in Oslo, Norway
 background:
@@ -9,7 +9,13 @@ background:
 toc: false
 ---
 
-_Last updated 8 January 2026_
+_Last updated 4 March 2026_
+
+
+{:.alert .alert-info}
+Session submissions have now closed.
+Keep an eye on the [conference website](/conferences/2026/) for updates.
+
 
 <div>
     <div title="Whova event and conference app" id="whova-cfs-widget">

@@ -8,11 +8,7 @@ background:
   by: Jennifer Latuperisa-Andresen
   href: https://unsplash.com/photos/Pg6dgmTaqtM
 permalink: /
-featured: # description, href, img
-  description: >
-    You're invited to submit a proposal for an organized session at TDWG 2026 in #Oslo, Norway. See details! Dealine: 26 Feb 2026, 10:59 UTC +1
-  href: /conferences/2026/call-for-sessions/
-  img: https://plus.unsplash.com/premium_photo-1697729977121-26f13fd5434c
+
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
