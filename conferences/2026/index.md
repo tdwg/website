@@ -15,11 +15,10 @@ toc: true
 
 # Test the feature widget
 featured: # description, href, img
-    title: Time is running out  
+    title: Stay tuned!  
     description: >
-        You're invited to submit a proposal for an organized session at TDWG 2026 in #Oslo, Norway. See details! Dealine: 26 Feb 2026, 10:59 UTC +1
-    href: /conferences/2026/call-for-sessions/
-    img: https://plus.unsplash.com/premium_photo-1697729977121-26f13fd5434c
+      Review of session proposals is underway. Watch for the call for abstracts, coming soon! 
+    img: https://plus.unsplash.com/premium_photo-1668017178993-4c8fc9f59872?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 
 ---
 
