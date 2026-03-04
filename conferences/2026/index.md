@@ -2,17 +2,30 @@
 title: TDWG 2026
 description: >
   TDWG Annual Conference - A hybrid conference in Oslo, Norway, 21-25 September
+  Research and Robot-ready Biodiversity Data Standards
+
 background:
   img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
   by: Visit Norway / Field Productions
   href: https://www.visitnorway.com/listings/vigeland-sculpture-park/2799/
+
+layout: home_alt
+
 toc: true
+
+# Test the feature widget
+featured: # description, href, img
+    title: Stay tuned!  
+    description: >
+      Review of session proposals is underway. Watch for the call for abstracts, coming soon! 
+    img: https://plus.unsplash.com/premium_photo-1668017178993-4c8fc9f59872?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
 ---
 
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
 
-_Last updated 1 January 2026_
+_Last updated 4 March 2026_
 
 ## Join us for TDWG 2026 in Oslo
 
@@ -36,11 +49,11 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 ### Venue locations
 
-Reception and early registration (Sun): UiO Natural History Museum (campus Tøyen), ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46){:target="_blank"})
+1. Reception and early registration (Sun): UiO Natural History Museum (campus Tøyen), ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46){:target="_blank"})
+2. Conference opening day (Mon): UiO University Aula (downtown), ([Google Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"}) 
+3. Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongressenter.no/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"}) 
 
-Conference opening day (Mon): UiO University Aula (downtown), ([Google Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"}) 
-
-Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongressenter.no/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"}) 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## Excursions
 
@@ -67,5 +80,6 @@ Main conference venue (Tue-Fri): [Oslo Congress Center](https://www.oslokongress
 - [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
 - [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
 
-## [Code of Conduct](/conferences/2026/code-of-conduct/)
+## Code of Conduct
+By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity, in-person or online, related to the TDWG 2026 Conference, you agree to abide by this [Code of Conduct](./code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.
 
