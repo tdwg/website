@@ -2,11 +2,28 @@
 title: TDWG 2026
 description: >
   TDWG Annual Conference - A hybrid conference in Oslo, Norway, 21-25 September
-background:
-  img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
-  by: Visit Norway / Field Productions
-  href: https://www.visitnorway.com/listings/vigeland-sculpture-park/2799/
+  Research and Robot-ready Biodiversity Data Standards
+
+layout: home_alt
+
 toc: true
+
+featured: # description, href, img
+    title: Time is running out  
+    description: >
+        You're invited to submit a proposal for an organized session at TDWG 2026 in #Oslo, Norway. See details! Dealine: 26 Feb 2026, 10:59 UTC +1
+    href: /conferences/2026/call-for-sessions/
+    img: https://plus.unsplash.com/premium_photo-1697729977121-26f13fd5434c
+
+
+logo: https://static.tdwg.org/conferences/2026/images/logos/tdwg_2026_logo.png
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#617E3E"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"
+
+social:
+  email: conf-organizers@tdwg.org
 ---
 
 {:.float-end .ms-5}
