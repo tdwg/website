@@ -12,6 +12,7 @@ background:
 layout: home_alt
 
 toc: true
+
 # Test the feature widget
 featured: # description, href, img
     title: Time is running out  
