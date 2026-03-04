@@ -14,7 +14,7 @@ _Last updated 4 March 2026_
 
 {:.alert .alert-info}
 Session submissions have now closed.
-keep an eye on the [conference website](/conferences/2026/) for updates.
+Keep an eye on the [conference website](/conferences/2026/) for updates.
 
 
 <div>
