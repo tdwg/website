@@ -83,3 +83,8 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 ## Code of Conduct
 By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity, in-person or online, related to the TDWG 2026 Conference, you agree to abide by this [Code of Conduct](./code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.
 
+## Contact us
+
+Do you have questions or need help?
+
+Please email the [conference organizers](mailto:conf-organizers@tdwg.org).
