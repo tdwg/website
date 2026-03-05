@@ -16,7 +16,7 @@ _Last updated 4 March 2026_
 Session submissions have now closed.
 Keep an eye on the [conference website](/conferences/2026/) for updates.
 
-
+<!--  The code to embed the Whova call for sessions page is below, but commented out:
 <div>
     <div title="Whova event and conference app" id="whova-cfs-widget">
         <p id="whova-loading">Loading...</p>
@@ -36,3 +36,4 @@ Keep an eye on the [conference website](/conferences/2026/) for updates.
         </div>
     </div>
 </div>
+-->
