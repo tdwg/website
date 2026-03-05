@@ -87,4 +87,4 @@ By registering for and/or participating in conference sessions, workshops, panel
 
 Do you have questions or need help?
 
-Please email the [conference organizers](mailto:conf-organizers@tdwg.org).
+Please email the conference organizers ([conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)).
