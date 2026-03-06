@@ -76,7 +76,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 - [Ruter route maps](https://ruter.no/en/journey/route-maps/){:target="_blank"} for metro, buses, trams, and ferries.
 
-<img src="https://static.tdwg.org/conferences/2026/images/t-banen-linjekart.png" alt="Oslo metro map" width="420">
+<img src="https://www.gbif.no/events/2026/2026-09-tdwg/t-banen-linjekart.png" alt="Oslo metro map" width="420">
 
 ## Hotels in Oslo
 
@@ -86,9 +86,9 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 | Hotel | Photo | Rooms | Location details |
 | :---- | :---- | :---- | :---- |
-| [Clarion Hotel Oslo](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-oslo/){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/clarion_hotel_oslo.png" alt="Clarion Hotel Oslo" width="220"> | 255 | [500 m from Central Station](https://maps.app.goo.gl/KK8Y1U9yWzJcasHXA){:target="_blank"}, [1.2 km to the venue](https://maps.app.goo.gl/PyMgtR1EzmBfsfAo7){:target="_blank"} |
-| [Clarion Hotel The Hub](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
-| [Home Hotel Folketeateret](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
+| [Clarion Hotel Oslo](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-oslo/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_oslo.png" alt="Clarion Hotel Oslo" width="220"> | 255 | [500 m from Central Station](https://maps.app.goo.gl/KK8Y1U9yWzJcasHXA){:target="_blank"}, [1.2 km to the venue](https://maps.app.goo.gl/PyMgtR1EzmBfsfAo7){:target="_blank"} |
+| [Clarion Hotel The Hub](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
+| [Home Hotel Folketeateret](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
 
 ## Excursions
 
