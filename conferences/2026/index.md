@@ -42,6 +42,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 ### Quick links
 
+- [Local organiser homepage (GBIF Norway)](https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html){:target="_blank"}
 - [Call for Sessions](./call-for-sessions/)
 - [Instructions for Session Proposals](./session-instructions/)
 - [Conference event schedule](#conference-event-schedule)
