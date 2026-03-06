@@ -115,10 +115,10 @@ Excursions and bioblitz activities are planned in collaboration with Visit Oslo 
 
 [Tours offered by Discover Hadeland (PDF)](https://static.tdwg.org/conferences/2026/pre-post-excursions.pdf){:target="_blank"}
 
-Please book directly with the tour organizer for discounted prices (by email: [martine@nddm.no](mailto:martine@nddm.no)). <br />See tour descriptions in the PDF above.  **Note booking deadlines below!**.
+Please book directly with the tour organizer for discounted prices (by email: [martine@nddm.no](mailto:martine@nddm.no)). <br />See tour descriptions in the PDF above.  **Note booking deadline: 2026-05-10!**
 
-- Norwegian Coastal Express, Kirkenes to Bergen (6 days). _Book before 2026-05-10_
-- Signature Voyage - North Cape Line, Oslo to Tromsø (7 days). _Book before 2026-05-10_
+- Norwegian Coastal Express, Kirkenes to Bergen (6 days).
+- Signature Voyage - North Cape Line, Oslo to Tromsø (7 days).
 
 ## Suggestions for places to see in Oslo
 
