@@ -119,8 +119,6 @@ Please book directly with the tour organizer for discounted prices (by email: [m
 
 - Norwegian Coastal Express, Kirkenes to Bergen (6 days). _Book before 2026-05-10_
 - Signature Voyage - North Cape Line, Oslo to Tromsø (7 days). _Book before 2026-05-10_
-- Kistefos Museum, world-class art in stunning natural surroundings; Wed 23/9 (6 hours). _Book before 2026-09-15_
-- Taste of Hadeland, a field trip into Norwegian food and farm life; Wed 23/9 (8 hours). _Book before 2026-09-15_
 
 ## Suggestions for places to see in Oslo
 
