@@ -139,12 +139,6 @@ Please book directly with the tour organizer for discounted prices (by email: [m
 - Saunas at the Opera House
 - [Events happening in Oslo](https://www.visitoslo.com/en/whats-on/events/?CategoryIds=505552%2C506042%2C519862%2C506032%2C513572%2C505792%2C500602%2C508172%2C508182%2C502032%2C507222%2C509172%2C507212%2C507232%2C502693%2C506922%2C506802){:target="_blank"}
 
-## Conference branding
-
-<img src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 conference logo" width="240">
-<img src="https://www.gbif.no/events/2026/tdwg2026/tdwg_2026_troll_isolated.png" alt="TDWG 2026 mascot, Gymimir Standardsen" width="240">
-<a href="/about/logos/"><img src="https://static.tdwg.org/logo/Colour/PNG/TDWG-Logo_horizontal.png" alt="TDWG logo" width="240"></a>
-
 ## Code of Conduct
 
 By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity, in-person or online, related to the TDWG 2026 Conference, you agree to abide by this [Code of Conduct](./code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.
