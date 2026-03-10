@@ -44,29 +44,27 @@ Functional Subcommittee | Name | Affiliation | Term of office
 [Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | Raleigh, NC, USA | 2026-2027
 [Fundraising and Partnerships](/about/committees/fundraising/) | [Patricia Mergen](./backgrounds/#fundraising-and-partnerships)  [&#128231;](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2026-2027
 [Infrastructure](/about/committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure) [&#128231;](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2026-2027
-[Outreach and Communications](/about/committees/outreach/) | [Nicky Nicolson](./backgrounds/#outreach-and-communications) [&#128231;](mailto:n.nicolson@kew.org) | Royal Botanic Gardens, Kew, UK | 2025-2026
-[Time and Place](/about/committees/tardis/) | [Kristen "Kit" Lewers](./backgrounds/#time-and-place) [&#128231;](mailto:tardis@tdwg.org) | Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA | 2026-2027
+[Outreach and Communications](/about/committees/outreach/) | [Javier Molina](./backgrounds/#outreach) [&#128231;](mailto:Javier.Molina@csiro.au) | CSIRO, Melbourne, Australia | 2025-2026
+[Time and Place](/about/committees/tardis/) | [Kristen "Kit" Lewers](./backgrounds/#tardis) [&#128231;](mailto:tardis@tdwg.org) | Information Science and BioFrontiers Institute, University of Colorado Boulder, and iDigBio, University of Florida, USA | 2026-2027
 
 ### Regional Representatives
 
 Region | Name                                                                                                                                                | Affiliation | Term of office
 --- |-----------------------------------------------------------------------------------------------------------------------------------------------------| --- | ---
-Africa | [Brice Djiofack](./backgrounds/#africa-representative) [&#128231;](mailto:bdjiofack@gmail.com)                                                      | Independent, Brussels, Belgium | 2026-2027
-Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com)                                                      | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
-Europe | [Wouter Addink](./backgrounds/#europe-representative) [&#128231;](mailto:wouter.addink@naturalis.nl)                                                | Naturalis, Leiden | 2025-2026
+Africa | [Brice Djiofack](./backgrounds/#africa-representative) [&#128231;](mailto:bdjiofack@gmail.com) | Independent, Brussels, Belgium | 2026-2027
+Asia | [Daphne Hoh](./backgrounds/#asia-representative) [&#128231;](mailto:daphnehohzhiwei@gmail.com) | Taiwan Biodiversity Information Facility, Taipei, Taiwan | 2025-2026
+Europe | [Wouter Addink](./backgrounds/#europe-representative) [&#128231;](mailto:wouter.addink@naturalis.nl) | Naturalis, Leiden | 2025-2026
 Latin America | [Juan Miguel Saez Hidalgo](https://www.tdwg.org/about/executive/backgrounds/#latin-america-representative)  [&#128231;](mailto:jmsaez@ieb-chile.cl) | Institute of Ecology and Biodiversity (IEB), Santiago, Chile | 2025-2026
-North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:ekrimmel@gmail.com)                                                 | Independent Biodiversity Information Scientist, Sacramento, CA | 2025-2026
-Oceania | [Corinna Paeper](./backgrounds/#oceania-representative) [&#128231;](mailto:corinna.paeper@csiro.au)                                                 | National Research Collections Australia, National Collections & Marine Infrastructure, CSIRO, Canberra, Australia | 2026-2027
+North America | [Erica Krimmel](./backgrounds/#north-america-representative) [&#128231;](mailto:ekrimmel@gmail.com) | Independent Biodiversity Information Scientist, Sacramento, CA | 2025-2026
+Oceania | [Corinna Paeper](./backgrounds/#oceania-representative) [&#128231;](mailto:corinna.paeper@csiro.au) | National Research Collections Australia, National Collections & Marine Infrastructure, CSIRO, Canberra, Australia | 2026-2027
 
 ### Regularly invited participants (non-voting)
 
 Role | Name | Affiliation
 --- | --- | ---
-Conference Program Committee Co-Chair | Gail Kampmeier [&#128231;](mailto:gkamp@illinois.edu) | Urbana-Champaign, IL, USA
-Administrator, TDWG Secretariat | Stan Blum [&#128231;](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
 Past Chair (2023-2024) | Elycia (Ely) Wallis [&#128231;](mailto:ely.wallis@csiro.au) | CSIRO, Melbourne, Australia 
 Past Chair (2021-2022) | Deb Paul [&#128231;](mailto:dlpaul@illinois.edu) | Urbana-Champaign, IL, USA 
-
+Administrator, TDWG Secretariat | Stan Blum [&#128231;](mailto:secretariat@tdwg.org) | San Francisco, CA, USA
 
 ## Previous Executive Committees
 <!-- list will be inserted below content -->

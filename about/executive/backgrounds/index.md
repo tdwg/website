@@ -94,6 +94,7 @@ I envision a more significant and strategic support role for TAG with a prioriti
 5.  Complete the reorganization of current and past data standards under the stewardship of TDWG.
 6.  Continue to broaden and diversify TDWG membership, focusing on underrepresented populations and gaps in domain expertise.
 
+{:id="partnerships"}
 ### Fundraising and Partnerships
 
 [**Patricia Mergen**](mailto:patricia.mergen@plantentuinmeise.be) - _Botanical Garden, Meise, Belgium_
@@ -123,38 +124,30 @@ I am Deputy Director and Head of Informatics at the GBIF Secretariat, and we acc
 The TDWG community require a stable and simple infrastructure that is intuitive to use. The recent adoption of GitHub for the working groups and website content, along with the mailing lists, tools for conference registration and our journal partnership are – in my opinion – the correct level of infrastructure for TDWG to operate effectively. I see the current role of the committee to continue ensuring the existing processes operate smoothly and be ready to explore emerging needs, but do not see it necessary to make significant changes at this point.
 
 
+{:id="outreach"}
 ### Outreach and Communications
 
-[**Nicky Nicolson**](mailto:n.nicolson@kew.org) <a href="https://orcid.org/0000-0003-3700-4884"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _Royal Botanic Gardens, Kew, Richmond, UK_ 
+[**Javier Molina**](mailto:javier.molina@csiro.au) - _CSIRO, Melbourne, Australia_ 
 
 **Background**
-: I worked for about fifteen years in a variety of software development roles at the Royal Botanic Gardens, Kew [1] helping researchers and curators manage and mobilise scientific information. Effectively this was a research software engineer role [2], it just predated the term. Ten years ago I switched from the technical track into research, where I completed a doctorate in machine learning, applying density based clustering to our digitised specimen data to identify collectors, expeditions and related specimens gathered from a shared collecting event [3]. I took software development practices with me - things like revision control, dependency management, build automation and continuous integration - to help manage the research process. My work was applied in the Global Biodiversity Information Facility (GBIF) data portal where it helps users navigate between related records [4]. Now I'm senior research leader in digital collections at Kew. We are nearing the end of our specimen digitisation project [5], and I'm interested in how we can use our digitised specimen data to build the "digital extended specimen", and how we do this in an open and inclusive way. I am developing a toolkit called "echinopscis: an extensible notebook for open science on specimens" [6], which was partly supported by Open Seeds [7], an open science mentoring and skills development programme.
-: I've been involved in TDWG throughout my career, and none of my work would have been possible without the data standards and the community of practice that TDWG has fostered.
+
+I’m a Senior Project Manager at the Atlas of Living Australia who enjoys working at the intersection of technology, business objectives and value to users. I have spent most of my career working in IT for different industries. I have been working in Biodiversity Informatics for over 10 years. During much of that time, I have been working with international collaborators such as GBIF, the Living Atlases community and TDWG to further the mission to provide open access to biodiversity data and the technologies that support it.
+
+I have always been passionate about understanding the end game, that is, what impact my work has both as an individual and as part of an organization. This is probably the reason I feel enthusiastic about taking a position whose objective is to articulate impact to external audiences.
+
+Outside my day-to-day work, I enjoy outdoor activities, hiking, motorsports, and I’m a self-proclaimed tourist guide whenever the opportunity arises.
 
 **Vision**
-: In the past couple of years I have started to work much more closely with the open science community. One crucial distinction that they emphasise is between initiatives which are "open by default" vs those which are "open by design" [8]. As the latter is more intentional, it ensures that participation information is made explicit via resources like roadmaps, contribution guidelines and codes of conduct, all of which help new people to become involved. I see these practices as small steps which we can encourage in TDWG affiliated projects to help grow the community and make it more inclusive.
 
-: I would like to help us build better links between our community and those who are working on software sustainability. In the UK, the software sustainability institute [9] was instrumental in getting the research software engineer job title recognised by funders; today there are RSE networks worldwide [10]. Many in the TDWG community perform RSE-like roles and integrating with these networks can help raise visibility for these roles with our funders. A similar effort is underway to ensure that roles which are focussed on data curation are recognised [11]. Building these links will help develop skills, build new collaborations and grow the community.
+My vision chairing the Outreach and Communications subcommittee is humble as I want to be realistic on what’s possible during the year.
 
-: Communication: Keeping in touch with TDWG members and reaching out to new ones is important, and social media has been a key communication tool. This is an evolving landscape, particularly as many step back from Twitter. I would like us to first refresh our LinkedIn profile [12], as many more people are using this platform, and then review potential use of other microblogging platforms like mastodon, bluesky and threads. We should use these channels to share details of relevant events and outputs throughout the year, as well as to promote our annual meeting. I would also encourage TDWG members to complete github profile pages [13] so that the full extent of our community is visible. As more of us are starting to work with artificial intelligence and machine learning, I'd also like to build a TDWG profile on HuggingFace [14], the community hub for sharing models, datasets and application prototypes.
+My priority is to rebuild the TDWG online presence, so the organization’s mission and activities are front and center in the mind of our community.  I want TDWG to produce regular communications, and our audience to rely on them. I want to target communications around core activities such as working sessions, conference organization activities and milestones, and Executive Committee reporting.
 
-**References**
-1. Kew science: [https://www.kew.org/science](https://www.kew.org/science)  
-2. Are you a research software engineer? [https://society-rse.org/what-is-an-rse/](https://society-rse.org/what-is-an-rse/)  
-3. Automating the construction of higher order data representations from heterogeneous biodiversity datasets [https://bura.brunel.ac.uk/handle/2438/19620](https://bura.brunel.ac.uk/handle/2438/19620)  
-4. New data-clustering feature aims to improve data quality and reveal cross-dataset connections [https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections](https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections)  
-5. Kew specimen digitisation [https://www.kew.org/science/digitising-kews-collections](https://www.kew.org/science/digitising-kews-collections)  
-6. echinopscis: an extensible notebook for open science on specimens [https://echinopscis.github.io/](https://echinopscis.github.io/)  
-7. Open seeds: [https://we-are-ols.org/openseeds/](https://we-are-ols.org/openseeds/)  
-8. Mozilla open leaders initiative participant review (includes section on open by default vs open by design) [https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/](https://heatherburns.tech/2019/05/01/what-i-learned-in-the-mozilla-open-leaders-initiative/)  
-9. Software Sustainability Institute: [https://www.software.ac.uk/](https://www.software.ac.uk/)  
-10. International RSE communities: [https://society-rse.org/international-rse-organisations/](https://society-rse.org/international-rse-organisations/)  
-11. People in Data: [https://www.turing.ac.uk/research/research-projects/people-data](https://www.turing.ac.uk/research/research-projects/people-data)  
-12. TDWG (LinkedIn): [https://www.linkedin.com/groups/993557/](https://www.linkedin.com/groups/993557/)  
-13. Managing your profile README: [https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)  
-14. HuggingFace: [https://huggingface.co/](https://huggingface.co/)
+I see a way to further TDWG’s reach is by establishing working relationships with other organizations and networks in the Biodiversity Informatics space so we can collaborate with each other to promote our messages.
 
+One area of opportunity is to work with regional representatives and working groups in outreach activities to share stories about the use of TDWG standards.
 
+{:id="tardis"}
 ### Time and Place
 
 [**Kristen "Kit" Lewers**](mailto:krle4401@colorado.edu) <a href="https://orcid.org/0000-0003-0526-4075"><img style="display: inline;" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> - _University of Colorado Boulder and NASA Goddard Space Flight Center, USA_
