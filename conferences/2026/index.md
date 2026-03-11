@@ -102,8 +102,6 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 3. **Tuesday to Friday, 22-25 September (main conference venue)**: [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"})
 4. **Wednesday, 23 September (excursion day)**: Excursions and bioblitz activities for conference participants.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
-
 <img src="https://static.tdwg.org/conferences/2026/images/google-map-tdwg-2026-locations.png" alt="TDWG 2026 conference venues and locations map" width="100%">
 
 ## Local transport in Oslo
