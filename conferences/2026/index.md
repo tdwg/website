@@ -69,7 +69,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
     events: {
       onReady: function(e) {
         e.target.mute();
-        e.target.setPlaybackRate(0.7)
+        e.target.setPlaybackRate(1.0)
       }
     }
   });
