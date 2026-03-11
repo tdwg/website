@@ -2,8 +2,6 @@
 title: TDWG 2026
 description: >
   TDWG Annual Conference - A hybrid conference in Oslo, Norway, 21-25 September
-  Research and Robot-ready Biodiversity Data Standards
-
 background:
   img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
   by: Visit Norway / Field Productions
@@ -33,25 +31,61 @@ quicklinks:
 
 ---
 
+_Last updated 11 March 2026_
+
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
 
-_Last updated 6 March 2026_
+{:.lead}
+Join us for TDWG 2026 in Oslo from 21 to 25 September
 
-## Join us for TDWG 2026 in Oslo
+This year's conference theme is:
 
+{:.display-6}
 _"Research and Robot-ready Biodiversity Data Standards"_
 
-### Save the dates! 2026-09-21 to 25
+<div id="muteYouTubeVideoPlayer"></div>
+<script async src="https://www.youtube.com/iframe_api"></script>
+<script>
+ function onYouTubeIframeAPIReady() {
+  var player;
+  player = new YT.Player('muteYouTubeVideoPlayer', {
+    videoId: 'KXXbhqD2W58', // YouTube Video ID
+    width: 560,               // Player width (in px)
+    height: 316,              // Player height (in px)
+    playerVars: {
+      autoplay: 1,        // Auto-play the video on load
+      controls: 1,        // Show pause/play buttons in player
+      showinfo: 0,        // Hide the video title
+      modestbranding: 1,  // Hide the Youtube Logo
+      loop: 1,            // Run the video in a loop
+      playlist: 'KXXbhqD2W58', // Same as videoId
+      fs: 1,              // Hide the full screen button
+      cc_load_policy: 0, // Hide closed captions
+      iv_load_policy: 3,  // Hide the Video Annotations
+      autohide: 1,         // Hide video controls when playing
+      rel:0                // Only show related videos from the same channel
+    },
+    events: {
+      onReady: function(e) {
+        e.target.mute();
+        e.target.setPlaybackRate(0.7)
+      }
+    }
+  });
+ }
+// Written by @labnol
+// See https://stackoverflow.com/questions/35044594/youtube-how-to-present-embed-video-with-sound-muted/41045251#41045251
+</script>
 
 **Hosted by:**
 - University of Oslo Natural History Museum
 - GBIF Norway
 - Norwegian Biodiversity Information Center<br />&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/KXXbhqD2W58?si=BVqrkAiQJPjFL1wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
-### Quick links
+## Quick links
 
 - [Local organiser homepage (GBIF Norway)](https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html){:target="_blank"}
 - [Call for Sessions](./call-for-sessions/)
