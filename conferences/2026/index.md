@@ -20,6 +20,17 @@ featured: # description, href, img
       Review of session proposals is underway. Watch for the call for abstracts, coming soon!
     img: https://plus.unsplash.com/premium_photo-1668017178993-4c8fc9f59872?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 
+quicklinks:
+#   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
+#     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
+#     new_window: true
+   - text: Conference event schedule
+     href: '#conference-event-schedule'
+   - text: Excursions
+     href: '#excursions'
+   - text: Code of Conduct
+     href: ./code-of-conduct/
+
 ---
 
 {:.float-end .ms-5}
