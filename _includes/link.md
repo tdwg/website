@@ -1,0 +1,1 @@
+[{{ include.text }}]({{include.href }}){:rel="noopener noreferrer" {% if include.new_window %} :target="_blank" {% endif %}}
