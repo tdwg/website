@@ -139,8 +139,8 @@ Excursions and bioblitz activities are planned in collaboration with Visit Oslo 
 - Island hopping
 - Museum collection tours, including Økern
 - Nordmarka forest
-- Museums downtown (National Museum, Nobel Peace)
-- Ferry to Bygdøy to visit the museums (Folk museum, Viking museum) and hike around the Oslofjord
+- Museums downtown (National Museum, Munch Museum, Nobel Peace Center)
+- Ferry to Bygdøy to visit the museums (Folk Museum, Viking Museum) and hike around the Oslofjord
 
 ### Before and after conference excursions
 
