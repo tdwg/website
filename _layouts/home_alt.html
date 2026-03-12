@@ -13,7 +13,7 @@ description: Default template for pages and posts, with contained width.
         {{ page.featured.title | default: "Featured"}}
       </div>
       {% if page.featured.img %}
-      <img class="card-img-top" style="border-radius: 0px;" src="{{ page.featured.img }}" alt="Background image">
+      <img class="img-fluid" style="border-radius: 0px;" src="{{ page.featured.img }}" alt="Background image">
       {% endif %}
       <div class="card-body">
         <div class="card-text">

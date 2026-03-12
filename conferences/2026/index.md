@@ -31,7 +31,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 11 March 2026_
+_Last updated 12 March 2026_
 
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
