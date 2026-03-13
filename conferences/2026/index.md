@@ -16,7 +16,7 @@ featured: # description, href, img
     title: Stay tuned!
     description: >
       Review of session proposals is underway. Watch for the call for abstracts, coming soon!
-    img: https://plus.unsplash.com/premium_photo-1668017178993-4c8fc9f59872?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    img: https://static.tdwg.org/conferences/2026/images/stay-tuned.png
 
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -31,7 +31,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 11 March 2026_
+_Last updated 12 March 2026_
 
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
@@ -133,24 +133,21 @@ Excursions and bioblitz activities are planned in collaboration with Visit Oslo 
 - [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} (ancient forest) ([map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"})
 - [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} (modern art) ([map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"})
 - [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} (Norwegian food) ([map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"})
-- Birding at [Nordre Øyern bird station](https://maps.app.goo.gl/y3L91XzkBVynDNEN7){:target="_blank"}
 
 **Half day excursions**
 
 - Island hopping
 - Museum collection tours, including Økern
 - Nordmarka forest
-- Museums downtown (National Museum, Nobel Peace)
-- Ferry to Bygdøy to visit the museums (Folk museum, Viking museum) and hike around Oslo fjord
+- Museums downtown (National Museum, Munch Museum, Nobel Peace Center)
+- Ferry to Bygdøy to visit the museums (Folk Museum, Viking Museum) and hike around the Oslofjord
 
 ### Before and after conference excursions
 
-[Tours offered by Discover Hadeland (PDF)](https://static.tdwg.org/conferences/2026/pre-post-excursions.pdf){:target="_blank"}
+Please book directly with the tour organizer for discounted prices (by email: [martine@nddm.no](mailto:martine@nddm.no)). **Note booking deadline: 2026-05-10!**
 
-Please book directly with the tour organizer for discounted prices (by email: [martine@nddm.no](mailto:martine@nddm.no)). <br />See tour descriptions in the PDF above.  **Note booking deadline: 2026-05-10!**
-
-- Norwegian Coastal Express, Kirkenes to Bergen (6 days).
-- Signature Voyage - North Cape Line, Oslo to Tromsø (7 days).
+- Pre-conference (15 Sept - 20 Sept): [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
+- Post-conference (26 Sept - 2 October): [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
 
 ## Suggestions for places to see in Oslo
 
