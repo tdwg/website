@@ -5,9 +5,9 @@ title: Program Committee
 description: >
   Program Committee for TDWG hybrid conference 2026.
 background:
-  img: https://www.visitnorway.com/listings/national-tourist-route-aurlandsfjellet/233676/
-  by: Håvard Nesbø
-  href: http://Visitnorway.com 
+  img: https://www.nasjonaleturistveger.no/siteassets/turistvegene/14-aurlandsfjellet/1-toppbilde-strekning-16x9/toppbilde_therer_012782.jpg?mode=crop&width=1440&height=480
+  by: Therese Rudd, Norwegian Public Roads Administration.
+  href: https://www.nasjonaleturistveger.no/no/turistvegene/aurlandsfjellet
 toc: false
 ---
 
