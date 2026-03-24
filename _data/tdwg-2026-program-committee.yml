@@ -1,0 +1,170 @@
+- name: "David Bloom"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/images/pc/bloom-david.jpg
+  description: >
+    _University of North Carolina, Greensboro, USA._ Ranges Project Manager; TDWG Deputy Chair. David manages both the Ranges Digitization Project and VertNet. He is engaged with the GBIF community as the North American Regional Representative, and has served as an Open-Data Ambassador, mentor, and trainer. David works with data publishers and biodiversity scientists around the world to help organise, clean, and publish their data. He currently spends an inordinate amount of time herding cats and other vertebrates and sighing audibly when confronted with social media.
+  orcid: 0000-0003-1273-1807
+  twitter: VertNetOrg
+
+- name: "Jillian Goodwin"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/images/pc/goodwin-jillian.jpg
+  description: >
+    _iDigBio, Florida Museum of Natural History, Gainesville, FL, USA._ Jillian has worked with iDigBio since 2015 and currently serves as iDigBio’s Conference Manager. She coordinates iDigBio’s annual conferences including the Digital Data in Biodiversity Research Conference and BioDigiCon. She also works with the natural history collections community to develop workshops to support US digitization efforts through collaborations, promotional efforts, and development of best practices. Jillian also helped establish the DigiCoordNet effort. She believes in the importance of building and maintaining positive internal relationships as well as relationships with outside stakeholders through effective communication and organizational practices.
+
+- name: "Gregory Watkins-Colwell"
+  role: "Co-chair"
+  image: https://static.tdwg.org/conferences/2024/images/pc/watkins-colwell-greg.jpg
+  description: >
+    _Yale Peabody Museum, New Haven, CT, USA._ Greg is a Senior Collection Manager of Vertebrate Zoology (Ichthyology and Herpetology). He is active in SPNHC as well as several Ichthyology and Herpetology organisations and BCONN. He’s a founding partner in the ZooMu initiative to bridge the gap between zoos and natural history museums. He maintains a life list of birds and concerts and is always interested in adding to either. He has been known to catch lizards.
+  orcid: 0000-0002-7789-9806
+  twitter: cylon_gecko
+
+- name: "Vijay Barve"
+  image: https://static.tdwg.org/conferences/2024/images/pc/barve-vijay.jpg
+  description: >
+    _Bangalore, India._ Vijay started working in Biodiversity Information Management in 1995 on Medicinal Plants in India. He continued to follow his research interests of Biodiversity Informatics and Citizen Science through a Ph.D. program at the University Kansas. He has been involved with the [Audubon Core Standard](/standards/ac/) since its inception.
+  orcid: 0000-0002-4852-2567
+  twitter: vijaybarve
+
+- name: "Stan Blum"
+  image: https://static.tdwg.org/conferences/2024/images/pc/blum-stan.jpg
+  description: >
+    _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (Specify), and the California Academy of Sciences. He has helped develop data standards for natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and Biodiversity Information Standards (TDWG). The main theme in his work has been integrating biodiversity information across organizations and disciplines. Retired since 2015, he now volunteers as Administrator of the TDWG Secretariat in San Francisco.
+  orcid: 0000-0002-4419-6960
+
+- name: "Jutta Buschbom"
+  image: https://static.tdwg.org/conferences/2024/images/pc/buschbom-jutta.jpg
+  description: >
+    _Natural History Museum London, UK._ Jutta works as data architect in the RECODE team that is developing and implementing the upcoming collection management system for the NHM in collaboration with a large industry partner. By training she is an evolutionary biologist with a focus on population genetic theory, biodiversity conservation genomic applications and their statistics, globally integrated, collaborative data infrastructures for Digital Extended Specimens and FAIR Digital Objects, science-policy advocacy mainly at the UN level and governance for the digital commons. She is an independent scientist and consultant ([professional website](https://statistical-genetics.com))located close to Hamburg, DE and has been active in SPNHC since 2020 and TDWG since 2021. She was co-chair of the SPNHC Biodiversity Crisis Response Committee (2021-2023) and is active as the society’s liaison to CETAF and its representative to the UN Convention for Biological Diversity. In TDWG she is engaged in several work streams and member of the Latimer Core maintenance group. 
+  orcid: 0000-0002-7697-9214
+
+- name: "Christina Byrd"
+  image: https://static.tdwg.org/conferences/2024/images/pc/byrd-christina.jpg
+  description: >
+    _Museum of Comparative Zoology, Cambridge, MA, USA._ Christina is the Curatorial Associate of Vertebrate Paleontology at Harvard University’s Museum of Comparative Zoology. Her collections expertise is in digitization, specifically 2D specimen photography and document digitization. Her focus in recent years has been on studying object conservation skills and how they can be applied in fossil conservation treatments. She has been a member of SPNHC since 2015, a member of the SPNHC Best Practices Committee since 2018, and is a first time member of the Program Committee.
+  ORCID: 0000-0001-7963-6092
+  twitter: christinabyrd88
+
+- name: "Julian Carter"
+  image: https://static.tdwg.org/conferences/2024/images/pc/carter-julian.jpg
+  description: >
+    _Amgeuddfa Cymru - National Museum Wales, UK._ Julian works as the Principal Conservator Natural Sciences covering the care and conservation across the natural science collection disciplines with extensive experience in a wide range of collections from fluid preserved to Blaschka glass models. In addition he has an extensive background in exhibitions and other outreach work, particularly enjoying facilitating using collections beyond the Museum and working in SciArt crossover projects. He has been a member of SPNHC since the mid 1990s and has previously been a Member-at-Large, Conference Chair, and is currently the President of the Society. When not in the Museum he can usually be found exploring the underground world.
+  orcid: 0000-0002-7058-3382
+  twitter: NatHistConserve
+
+- name: "Robert Cubey"
+  image: https://static.tdwg.org/conferences/2024/images/pc/cubey-robert.jpg
+  description: >
+    _Plant Records Officer, Royal Botanic Garden, Edinburgh, Scotland_. The Plant Records Officer of the RBGE, handling the data management for both the Living and Herbarium collections. This includes the provision of data to the RBGE online catalogues as well as providing data to numerous external data partners I map the Living Collections of the RBGE, across all four of its sites and I am developing tools for the RBGE staff to use this data.  I am interested in how technology can be used to improve the visitor experience to RBGE, and how it can improve productivity in the horticultural department. I also work on information workflows within the RBGE herbarium, particularly how software and hardware can help make the information held within the 3 million herbarium sheets more accessible. 
+  orcid: 0000-0001-7902-3843
+  twitter: RBGE_Plant_Rec
+
+- name: "Nicole Fuller"
+  image: https://static.tdwg.org/conferences/2024/images/pc/fuller-nicole.jpg
+  description: >
+    _Environmental Archaeology Program, Florida Museum of Natural History, Gainesville, Florida, USA._ Nicole has been the Collection Manager for Environmental Archaeology since 2018. Her research interests are in the zooarchaeology of the Southeastern United States focusing on mound-building and seasonality using sclerochronology. She is a new member of SPNHC and in her role as collection manager, has interests in connecting archaeological faunal data to biodiversity data networks.
+  orcid: 0000-0002-1447-1466
+
+- name: "Daphne Hoh"
+  image: https://static.tdwg.org/conferences/2024/images/pc/hoh-daphne.jpg
+  description: >
+    _Taiwan Biodiversity Information Facility, Taipei, Taiwan._ Daphne has been trained as a marine biologist since completing her BSc and PhD studies. Her PhD research focused on fungal infection in sea turtle eggs, encompassing various aspects including analyzing pathogen genomics and assessing pathogenicity using high-throughput sequencing and bioinformatics approaches. She co-founded TurtleSpot Taiwan - a citizen science project dedicated to collecting sea turtle sightings for research. Recognizing the potential for generating large volumes of primary biodiversity data through her research, she became intrigued by Biodiversity Informatics and actively engaged herself in this field. She currently works as a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), focusing on evaluating national-level biodiversity data gaps.
+  orcid: 0000-0002-7810-1034
+
+- name: "Shelley James"
+  image: https://static.tdwg.org/conferences/2024/images/pc/james-shelley.jpg
+  description: >
+    _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ A botanical research scientist for more than two decades, Dr Shelley serves as Representative for Oceania with TDWG. Her recent work is focused on the expansion and improvement of herbarium collections and biodiversity data and ways to best analyze, contribute to, understand, and better our conservation efforts in Western Australia, Australia and around the world. She collaborates nationally and internationally with collections, research, cyberinfrastructure, and education communities.
+  orcid: 0000-0003-1105-1850
+
+- name: "Mariko Kageyama"
+  image: https://static.tdwg.org/conferences/2024/images/pc/kageyama-mariko.jpg
+  description: >
+    _Independent, Seattle, Washington, USA._ Mariko has been actively involved with SPNHC since 2002, including the time having served as a Member at Large on the SPNHC Council in 2011-2014. A Japanese native, Mariko has found her niche in volunteering as a bilingual facilitator connecting the SPNHC-TDWG 2024 Organizing Committee to local collaborators and resources in Okinawa. She currently practises law at an international law firm as a zoology collections manager-turned-lawyer, while in her spare time she has been passionate about exploring complex legal and ethical issues pertaining to science, technology, museums, and cultural heritage domains.
+  orcid: 0000-0002-1121-4800
+
+- name: "Martin R. Kalfatovic"
+  image: https://static.tdwg.org/conferences/2024/images/pc/kalfatovic-martin.jpg
+  description: >
+    _Smithsonian Libraries and Archives / Biodiversity Heritage Library, Washington, DC, USA._ Martin R. Kalfatovic is the Associate Director, Digital Initiatives and Scholarly Communications at Smithsonian Libraries and Archives (SLA). He also serves as Program Director of the Biodiversity Heritage Library (BHL). At SLA he is involved with scholarly communications, mass digitization, and research analytics and metadata. As the Program Director for the BHL, a global consortium of forty-two natural history, research, and botanical garden libraries (including five ARL members), he participates in the national and global coordination around issues of collection aggregation, technical development, and research applications of the digital library. A regular contributor to popular and scholarly publications. He can be found on select social platforms as @udcmrk and has an inordinate fondness for dodos.
+  orcid: 0000-0002-4563-4627
+
+- name: "Gail Kampmeier"
+  image: https://static.tdwg.org/conferences/2024/images/pc/kampmeier-gail.jpg
+  description: >
+    _University of Illinois at Urbana-Champaign, Prairie Research Institute, Illinois Natural History Survey (Affiliate), Champaign, IL USA._ As an entomologist, Gail was one of the first zoologists to join TDWG in 1996. An active member of TDWG program committees since the 2013 conference in Florence, Italy, she first became involved with editing conference abstracts in the five years prior. She is leading the Abstracts Task Group on the Program Committee. As Editor-in-Chief of the Pensoft Journal Biodiversity Information Science and Standards she helps oversee the abstract submission process and encourages submission of full articles to the journal. Elected as North American representative (2008-2013) to the TDWG Exec, she has since served as an invited (non-voting) member.
+  orcid: 0000-0002-5178-4170
+  twitter: gkampmeier
+
+- name: "Erica Krimmel"
+  image: https://static.tdwg.org/conferences/2024/images/pc/krimmel-erica.jpg
+  description: >
+    _Sacramento, CA, USA._ Erica is a biodiversity information scientist who has been involved as a member of SPNHC since 2015 and TDWG since 2019. She has worked in several natural history collections, as well as for iDigBio, and her expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data.
+  orcid: 0000-0003-3192-0080 
+
+- name: "Katey Leard"
+  image: https://static.tdwg.org/conferences/2024/images/pc/leard-katey.jpg
+  description: >
+    _de Young Museum / Legion of Honor, Conservation Department, San Francisco, CA, USA._ Katey works as the Collections Care Assistant for the de Young Museum and Legion of Honor. Her position carries out both museum’s Integrated Pest Management (IPM) plan, environmental monitoring system, gallery maintenance, and collections rehousing. Katey has been a member of SPNHC since 2015. She is passionate about the bridging of art and science within museum conservation and collections care.
+
+- name: "Kristen “Kit” Lewers"
+  image: https://static.tdwg.org/conferences/2024/images/pc/lewers-kit.jpg
+  description: >
+    _Information Science and BioFrontiers Institute, University of Colorado Boulder, USA._ Kit is an interdisciplinary PhD student studying HCI (Human Computer Interaction) and IQ Bio (Interdisciplinary Quantitative Biology). She is also a member of the TAG (Technical Architecture Group) since 2022 where she works on projects related to standards and their lifecycle. For her HCI research, she focuses on how information overload impacts institutions grounded in big data (specifically looking at natural history and biocollections) mainly employing ethnographic(traditional + digital) and network science methods advised by Stephen Voida. Under the guidance of Orit Peleg in the BioFrontiers Institute, she studies North American firefly biodiversity, flash signals, and complex system science. She bridges her two interests through complex systems research, information ecosystem modeling, and biologically inspired information theory.
+  orcid: 0000-0003-0526-4075
+
+- name: "Julia Percy-Bower"
+  image: https://static.tdwg.org/conferences/2024/images/pc/percy-bower-julia.jpg
+  description: >
+    _Western Australian Herbarium, Department of Biodiversity, Conservation & Attractions, Perth, Australia._ Julia is the Database Management Officer at the Western Australian Herbarium. She holds a BEnvSc from Murdoch University and has always had a passion for the natural world. Her current role involves specimen digitisation, data management of herbarium collections and taxon names, as well as specimen curation. This is Julia’s first year serving as a member of the TDWG program committee; she is also a member of SPNHC and the Australian Systematic Botany Society.
+  orcid: 0000-0002-6041-2774
+
+- name: "Arjan Basu Roy"
+  image: https://static.tdwg.org/conferences/2024/images/pc/roy-arjan-basu.jpg
+  description: >
+    _Secretary, Nature Mates, Kolkata._  Arjan co-founded the group with school friends in the early 90s (originally a WWF India Nature Club). Passionate about nature, particularly butterflies & birds, he pursues wildlife research & citizen science despite no formal training. Urban biodiversity & creating green spaces are his other core interests. Authored field guides for birds & butterflies.
+  orcid: 0000-0001-9872-3562
+  twitter: Arjan_NMNC
+
+- name: "Young Ha Suh"
+  image: https://static.tdwg.org/conferences/2024/images/pc/suh-young-ha.jpg
+  description: >
+    _Natural History Museum of Los Angeles County, Los Angeles, CA, USA._ Young Ha is the Collections Manager of Ornithology and has been active in SPNHC since 2022. During her PhD in Ecology and Evolutionary Biology, she worked extensively on field data collection and database management, allowing her to understand research needs in collections. Her current interest has been making Ornithology collections data more standardized and accessible to people outside of the collections field using applications such as shiny to create dynamic tables and figures. She is passionate about FAIR data practices and open access. 
+  orcid: 0000-0001-5569-5127
+
+- name: "Harlan Svoboda"
+  image: https://static.tdwg.org/conferences/2024/images/pc/svoboda-harlan.jpg
+  description: >
+    _United States National Arboretum, U.S. Department of Agriculture, Washington, D.C., USA._ Harlan is a botanist and taxonomist with the USDA and the Curator of the herbarium collections. He is also the administrator of the ARS Biocollections portal, Data Steward for the federal government’s scientific collections registry, and is a leader in digitization efforts across the government. On the research front, Harlan is a specialist in the systematics and taxonomy of passionflowers (Passiflora) and a proponent of collections-based investigations across a multitude of fields. In addition to being an active member of SPNHC, Harlan also serves the natural history community through roles in several systematics- and collections-oriented societies.
+  orcid: 0000-0001-9081-5980
+
+- name: "Barbara Thiers"
+  image: https://static.tdwg.org/conferences/2024/images/pc/thiers-barbara.jpg
+  description: >
+    _New York Botanical Garden and Denver Botanic Gardens._ Barbara is the Director Emerita of the New York Botanical Garden’s Steere Herbarium and continues as editor of Index Herbariorum.  She has been a member of SPNHC since 2010, and is a past president of SPNHC (2018–2020).  As President-Elect of SPNHC in 2017, she served on the program committee for the joint SPNHC-TDWG conference in Dunedin, NZ.  She is a member of the advisory committees for the Biodiversity Collections Network (BCoN), the Natural Science Collections Committeemember since 2010.  She is currently a Research Adjunct at the Denver Botanic Gardens.
+  orcid: 0000-0002-8613-7133
+
+- name: "Jennifer Trimble"
+  image: https://static.tdwg.org/conferences/2024/images/pc/trimble-jennifer.jpg
+  description: >
+    _Museum of Comparative Zoology, Harvard University, Cambridge, MA, USA._ Jennifer is the Curatorial Associate in Malacology at Harvard's Museum of Comparative Zoology in Cambridge, MA, USA. Since 2013, she has been an engaged member of SPNHC and presently holds the role of Member-at-Large on the SPNHC Council. Her areas of interest include the digitization of collections, and fostering synergy between historical and digital record-keeping practices. With a master's degree in Sustainability and Environmental Management, Jennifer endeavours to integrate elements of climate science awareness, and educational outreach into her work within museum collections.
+  orcid: 0000-0002-7480-3645
+
+- name: "Visotheary “Theary” Ung"
+  image: https://static.tdwg.org/conferences/2024/images/pc/ung-theary.jpg
+  description: >
+    _Institut de Systématique, Evolution, Biodiversité (ISYEB), CNRS-MNHN-SU-EPHE-PSL-UA, Paris, France._ Theary is a biodiversity informatics project manager and biogeographer at the french National Center for Scientific Research (CNRS) and the Muséum National d’Histoire Naturelle (MNHN) in Paris. Her research focuses on comparative biogeography, especially in the Southeast Asia region. She develops methods and informatic tools for biogeographical analysis including an ontology for biogeographic areas. She is also a member of the Equity and Inclusion group at the faculty of Sciences and Engineering of Sorbonne University in Paris where she participates in different actions toward students and the scientific community to promote equity and inclusion in Sciences. She has been involved in TDWG activities over the last 15 years, and she serves now as the secretary since 2021.
+  orcid: 0000-0002-4049-0820
+
+- name: "Flávia Virginio"
+  image: https://static.tdwg.org/conferences/2024/images/pc/virginio-flavia.jpg
+  description: >
+    _Scientific Researcher and Curator of Entomological Collection,  Professor and Accredited Advisor in the Specialization Program in Animals of Interest in Health: Animal Biology, and Coordinator of extension courses at the Butantan Institute/Foundation. Co-founder and part of the Executive Committee (voluntary vice-president) of the Brazilian Chapter of the International Organization Women in Global Health; part of Executive Committee (voluntary treasurer) of the "Organization for Women in Science for the Developing World"; part of the Equity, Diversity and Inclusion Committee of "International Society for Biocuration". São Paulo, Brazil._ Flávia Virginio is a biologist and PhD in Sciences. Her main lines of research, education and extension are: Biodiversity and One Health, emphasing on the impact of anthropogeny and climate changes on the diversity and ecology of medical important insects, as well as the dynamics of diseases and accidents related to them. She also has experience in vector control and resistance, creation and maintenance of relational databases and scientific dissemination. In addition, her research group also develops studies on Entomological Collection Curation, Diversity and Inclusion in Science and Scientific Dissemination and Communication.  See her profiles on [ResearchGate](https://www.researchgate.net/profile/Flavia-Virginio), [LinkedIn](https://www.linkedin.com/in/flaviavirginio/), and [CV Lattes](http://lattes.cnpq.br/933949183850206).
+  orcid: 0000-0003-1803-114X
+
+- name: "Elycia Wallis"
+  image: https://static.tdwg.org/conferences/2024/images/pc/wallis-ely.jpg
+  description: >
+    _Atlas of Living Australia, Melbourne, Australia._ Elycia (Ely) Wallis is the current Chair of the TDWG Executive (2023-2024) and has been an active member of the conference organising team for a number of years. Ely works with the Atlas of Living Australia where she is the Team Lead for the Engagement Team. The Engagement team works with an outward focus across biosecurity; citizen science; Indigenous science, and industry. Ely’s particular interest and responsibility is to liaise with the collections sector concentrating on museums and herbaria. Prior to joining the ALA, Ely worked at Museums Victoria in roles that encompassed collections management, library and archives, collections databases, and collections online. Her collections online role encompassed web publishing, apps and in-gallery multimedia and spanned sciences and social history. Ely has an abiding interest in literature and founded the Biodiversity Heritage Library in Australia. Ely is working to learn more about Indigenous data sovereignty. She has a passion for free access and open sharing. 
+  orcid: 0000-0001-6017-0894
