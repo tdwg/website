@@ -108,7 +108,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 - [Ruter route maps](https://ruter.no/en/journey/route-maps/){:target="_blank"} for metro, buses, trams, and ferries.
 
-<img src="https://www.gbif.no/events/2026/2026-09-tdwg/t-banen-linjekart.png" alt="Oslo metro map" width="420">
+<img src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="420">
 
 ## Hotels in Oslo
 
