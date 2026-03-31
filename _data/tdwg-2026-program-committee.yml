@@ -1,43 +1,55 @@
+- name: "Elie M. Saliba"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/elie_meise.jpg
+  description: >
+    _Independent, Lebanon._ Elie is a systematic biologist with a strong interest in zoological nomenclature and biodiversity informatics. He is actively involved in the development of tools and methodologies to integrate nomenclature within biodiversity data infrastructures.
+  orcid: 0000-0001-9591-5016
+  role: "Chair"
+
 - name: "David Bloom"
   image: https://static.tdwg.org/conferences/2026/images/organizing-committee/bloom-david.jpg
   description: >
     _TDWG, UNG Greensboro, VertNet, USA._ David is the current TDWG Chair, Project Magician for the [Ranges Network](https://ranges-network.org/), [perpetual thorn in the side of GBIF](https://www.gbif.org/contact-us/directory?personId=2808) and forever steward of [VertNet](https://www.vertnet.org/). David has a penchant for odd jobs. In fact, he seems to revel in the absurdity of (under)employment. You’re just as likely to catch him explaining electricity to Tibetan monks as hand carrying thousands of pinned insects across a Boulder hillside. Dave now spends an inordinate amount of time herding cats and other vertebrates and sighing audibly when confronted with social media.
   orcid: 0000-0003-1273-1807
+  role: "Co-chair"
   
-- name: "Elie M. Saliba"
-  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/Elie_Meise.jpg
+- name: "Dag Endresen"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/dag-endresen.jpg
   description: >
-    _Independent, Lebanon._ Elie is a systematic biologist with a strong interest in zoological nomenclature and biodiversity informatics. He is actively involved in the development of tools and methodologies to integrate nomenclature within biodiversity data infrastructures.
-  orcid: 0000-0001-9591-5016
+    _GBIF Norway, University of Oslo Natural History Museum, Norway._ [Dag](https://www.nhm.uio.no/english/about/organization/research-collections/people/dtendres/) represents the local organizer for the 2026 conference in Oslo. He is the [GBIF Node Manager for Norway](https://www.gbif.no/) and the representative for the GBIF nodes in Europe and Central Asia. Dag has been an active contributor to TDWG since 2004 with the agrobiodiversity [germplasm extension for Darwin Core](https://github.com/dagendresen/darwincore-germplasm), principles for integration of Knowledge Organization Systems, including contributions as review manager for the Vocabulary Maintenance Standard ([VMS](http://www.tdwg.org/standards/642)), the Standards Documentation Standard ([SDS](http://www.tdwg.org/standards/147)), and currently for the proposed Biodiversity Data Quality ([BDQ](https://www.tdwg.org/community/bdq/)). He is the co-convener for the [Modelling Research Expeditions](https://www.tdwg.org/community/cd/expeditions/) task group.
+  orcid: 0000-0002-2352-5497
+  role: "Local Committee"
 
-- name: "Javier Molina"
-  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/Javi-Work-Profile-Headshot-24-26-compressed.jpg 
-  description: >
-    _Atlas of Living Australia, CSIRO, Australia._ Javier is a Senior Project Manager at the Atlas of Living Australia who enjoys working at the intersection of technology, business objectives and value to users. I have spent most of my career working in IT for different industries. I have been working in Biodiversity Informatics for over 10 years. During much of that time, I have been working with international collaborators such as GBIF, the Living Atlases community and TDWG to further our mission to provide open access to biodiversity data and the technologies that support it. I have always been passionate about understanding the end game, that is, what impact my work has both as an individual and as part of an organization. This is why I want to make our troll mascot for the conference to look at his best in our socials and other communication campaigns. Outside my day-to-day work, I enjoy outdoor activities, hiking, motorsports, and I’m a self-proclaimed tourist guide whenever the opportunity arises.
-  orcid: 0000-0003-3563-900X
-  
 - name: "Rukaya Johaadien"
   image: https://static.tdwg.org/conferences/2026/images/organizing-committee/rukaya-photo-compressed.jpg
   description: >
     _GBIF Norway, Natural History Museum, University of Oslo, Norway._ Rukaya is a developer working as a senior engineer for GBIF Norway. She builds and designs data publication pipelines and provides technical support for Norwegian researchers and students wishing to publish data.
   orcid: 0000-0002-2857-2276
-  
-- name: "Dag Endresen"
-  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/Dag-Endresen.jpg
-  description: >
-    _GBIF Norway, University of Oslo Natural History Museum, Norway._ [Dag](https://www.nhm.uio.no/english/about/organization/research-collections/people/dtendres/) represents the local organizer for the 2026 conference in Oslo. He is the [GBIF Node Manager for Norway](https://www.gbif.no/) and the representative for the GBIF nodes in Europe and Central Asia. Dag has been an active contributor to TDWG since 2004 with the agrobiodiversity [germplasm extension for Darwin Core](https://github.com/dagendresen/darwincore-germplasm), principles for integration of Knowledge Organization Systems, including contributions as review manager for the Vocabulary Maintenance Standard ([VMS](http://www.tdwg.org/standards/642)), the Standards Documentation Standard ([SDS](http://www.tdwg.org/standards/147)), and currently for the proposed Biodiversity Data Quality ([BDQ](https://www.tdwg.org/community/bdq/)). He is the co-convener for the [Modelling Research Expeditions](https://www.tdwg.org/community/cd/expeditions/) task group.
-  orcid: 0000-0002-2352-5497
-
-- name: "Ely Wallis"
-  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/Ely-Wallis-square-500.jpg 
-  description: >
-    _Atlas of Living Australia, CSIRO, Australia._ Dr Elycia Wallis leads the Engagement team for the Atlas of Living Australia. The team works actively with museums and herbaria; and with external partners on taxonomy, citizen science, restricted access species, and the Indigenous Ecological Knowledge program. Originally trained as a zoologist, Ely previously worked with Museums Victoria in Melbourne, Australia, commencing in collection management and finishing as Manager of Online Collections – publishing websites, apps and in gallery multimedia experiences. Ely founded the Biodiversity Heritage Library in Australia and is a past Chair of the TDWG Executive.  
-  orcid: 0000-0001-6017-0894
+  role: "Local Committee"
 
 - name: "Meghan Balk"
   image: https://static.tdwg.org/conferences/2026/images/organizing-committee/meghan_photo.jpg
   description: >
     _Natural History Museum, University of Oslo, Norway._ Meghan is a (paleo)ecologist interested in the drivers of trait evolution and their ecological consequences at the population, clade, and community level. She helped build a trait database, FuTRES, that spans paleobiological, zooarchaeological, and modern time periods. She is involved in trait and museum metadata standards and semantics as a way to support her research.
   orcid: 0000-0001-6017-0894
+  role: "Local Committee"
 
-    
+- name: "Javier Molina"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/javi-work-profile-headshot-24-26-compressed.jpg
+  description: >
+    _Atlas of Living Australia, CSIRO, Australia._ Javier is a Senior Project Manager at the Atlas of Living Australia who enjoys working at the intersection of technology, business objectives and value to users. I have spent most of my career working in IT for different industries. I have been working in Biodiversity Informatics for over 10 years. During much of that time, I have been working with international collaborators such as GBIF, the Living Atlases community and TDWG to further our mission to provide open access to biodiversity data and the technologies that support it. I have always been passionate about understanding the end game, that is, what impact my work has both as an individual and as part of an organization. This is why I want to make our troll mascot for the conference to look at his best in our socials and other communication campaigns. Outside my day-to-day work, I enjoy outdoor activities, hiking, motorsports, and I’m a self-proclaimed tourist guide whenever the opportunity arises.
+  orcid: 0000-0003-3563-900X
+  role: "Communications Manager"
+
+- name: "Ely Wallis"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/ely-wallis-square-500.jpg
+  description: >
+    _Atlas of Living Australia, CSIRO, Australia._ Dr Elycia Wallis leads the Engagement team for the Atlas of Living Australia. The team works actively with museums and herbaria; and with external partners on taxonomy, citizen science, restricted access species, and the Indigenous Ecological Knowledge program. Originally trained as a zoologist, Ely previously worked with Museums Victoria in Melbourne, Australia, commencing in collection management and finishing as Manager of Online Collections – publishing websites, apps and in gallery multimedia experiences. Ely founded the Biodiversity Heritage Library in Australia and is a past Chair of the TDWG Executive.  
+  orcid: 0000-0001-6017-0894
+  role: "Program and Publication"
+
+- name: "Stan Blum"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/blum-stan-300.jpg
+  description: >
+    _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a  contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (Specify), and the California Academy of Sciences. He has developed data standards that support data integration across natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and the Biodiversity Information Standards (TDWG). The main theme in his work has been the integration of information across organizations and disciplines for use in biodiversity science. Retired since 2015, he now volunteers as Administrator of the TDWG Secretariat in San Francisco.
+  orcid: 0000-0002-4419-6960
+

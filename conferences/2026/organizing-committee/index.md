@@ -11,9 +11,16 @@ background:
 toc: false
 ---
 
-{:.alert .alert-warning}
-Under construction
 
-The program committee meets regularly to develop the structure and content of our 2026 conference.  Their responsibilities include setting the theme for the conference, issuing the calls for organized sessions and abstracts, guiding submissions through the publishing process, and selecting our keynote speakers.
+The organizing committee meets regularly to develop the structure and content of our 2026 conference as well as organizing access to a venue and the logistics to meet both in person and online.  
+Their responsibilities include, but are not limited to: 
+- setting the theme for the conference, 
+- issuing the calls for organized sessions and abstracts, 
+- guiding submissions through the publishing process,
+- selecting our keynote speakers,
+- securing the venue(s) for the conference,
+- ensuring a smooth access to the conference for both in-person and online attendees.   
 
-<!-- For members see _data/spnhc-tdwg-2024-program-committee -->
+## Members
+
+<!-- For members see _data/spnhc-tdwg-2026-program-committee -->
