@@ -9,9 +9,10 @@
     href: /conferences/2026/session-instructions/
 - text: "About"
   menu:
-  - text: "Code of Conduct"
-    href: /conferences/2026/code-of-conduct/
   - text: "Organizing Committee"
     href: /conferences/2026/organizing-committee
+  - text: "---"
+  - text: "Code of Conduct"
+    href: /conferences/2026/code-of-conduct/
   - text: "Conference logos"
     href: /conferences/2026/logos/
