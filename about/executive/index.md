@@ -41,7 +41,7 @@ Role | Name                                                                     
 
 Functional Subcommittee | Name | Affiliation | Term of office
 --- | --- | --- | ---
-[Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | Raleigh, NC, USA | 2026-2027
+[Technical Architecture Group](/about/committees/tag/) | [Ben Norton](/about/executive/backgrounds/#tag)  [&#128231;](mailto:michaelnorton.ben@gmail.com) | Yale University, USA | 2026-2027
 [Fundraising and Partnerships](/about/committees/fundraising/) | [Patricia Mergen](./backgrounds/#fundraising-and-partnerships)  [&#128231;](mailto:mergen.patricia@gmail.com) | Royal Museum for Central Africa and Botanic Garden Meise, Belgium | 2026-2027
 [Infrastructure](/about/committees/infrastructure/) | [Tim Robertson](./backgrounds/#infrastructure) [&#128231;](mailto:trobertson@gbif.org) | Global Biodiversity Information Facility, Copenhagen, Denmark | 2026-2027
 [Outreach and Communications](/about/committees/outreach/) | [Javier Molina](./backgrounds/#outreach) [&#128231;](mailto:Javier.Molina@csiro.au) | CSIRO, Melbourne, Australia | 2025-2026

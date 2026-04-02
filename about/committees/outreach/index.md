@@ -11,7 +11,7 @@ toc: true
 
 ## Chair
 
-- [Mareike Petersen](mailto:Mareike.Petersen@mfn.berlin) (elected term: 2021-2022) - Museum für Naturkunde, Berlin, Germany
+- [Javier Molina](mailto:Javier.molina@csiro.au) (appointed: 2026) - Atlas of Living Australia, CSIRO, Melbourne, Australia
 
 ## Mission
 

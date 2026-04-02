@@ -21,7 +21,7 @@ Previous convenors: [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk)
 - Mathias Dillen - Meise Botanic Garden, BE
 - Quentin Groom - Meise Botanic Garden, BE
 - Falko Glöckler - Museum für Naturkunde Berlin, DE
-- Ben Norton - US
+- Ben Norton - Yale University, US
 - Deborah Paul - iDigBio, USA
 - Mareike Petersen - Museum für Naturkunde Berlin, DE
 - Hannu Saarenmaa - Bioshare Digitization, FI
@@ -31,11 +31,11 @@ Previous convenors: [Alex Hardisty](mailto:HardistyAR@cardiff.ac.uk)
 
 In its most general sense, digitization in natural sciences is the process of converting analog information about physical specimens to digital form, which includes electronic text, images and other representations.
 
-However, the term 'digitization' is understood diversely. It can mean, for example: creating database records (of various extents); making images of collections containers, specimens and/or their label(s); a level of data capture (transcription, excluding or including interpretation of data); and more recently, semantic enrichment of data, and notions of 'born digital'/'digital by default'. From one digitization initiative to another, the outputs can vary widely because aims, practices and procedures vary across different collection types and institutions. Thus, when a curator, collections manager or scientist talks of something being digitized it is not apparent in an objective way what is meant. Nor is it apparent what 'sufficient digitization' means and when (if at all) digitization is complete.
+However, the term 'digitization' is understood in diverse ways. It can mean, for example: creating database records (of various extents); making images of collections containers, specimens and/or their label(s); a level of data capture (transcription, excluding or including interpretation of data); and more recently, semantic enrichment of data, and notions of 'born digital'/'digital by default'. From one digitization initiative to another, the outputs can vary widely because aims, practices, and procedures vary across different collection types and institutions. Thus, when a curator, collections manager or scientist talks of something being digitized it is not apparent in an objective way what is meant. Nor is it apparent what 'sufficient digitization' means and when (if at all) digitization is complete.
 
-Furthermore, most collections need to report on the progress of digitization to the management and/or funding agencies and therefore, agreed measures are needed.
+Furthermore, most collections need to report on the progress of digitization to the management and/or funding agencies, and therefore, agreed measures are needed.
 
-A harmonizing framework captured as a TDWG standard can help clarify levels (depth) of digitization and the minimum information captured and published at each level. This would help to ensure that enough data are captured, curated and published against specific requirements so they are useful for the widest range of possible purposes; as well as making it easier to consistently measure the extent of digitization achieved over time and to set priorities for remaining work. Such a framework would also be beneficial for 'born digital' specimens where digital data is captured from the outset, beginning with the gathering event.
+A harmonizing framework captured as a TDWG standard can help clarify levels (depth) of digitization and the minimum information captured and published at each level. This would help to ensure that enough data are captured, curated, and published against specific requirements so they are useful for the widest range of possible purposes; as well as making it easier to measure the extent of digitization achieved over time consistently and to set priorities for remaining work. Such a framework would also be beneficial for 'born digital' specimens where digital data is captured from the outset, beginning with the gathering event.
 
 Inspired by the idea of 'minimum information standards' adopted in other areas of biology we name this proposed TDWG standard as 'Minimum Information about a Digital Specimen' (MIDS) - the topic of the present task group. This harmonizing framework _includes making the data publicly available_ because open access policies in countries around the world require that digital data should be findable and accessible, even at the lowest level of available digitized information.
 
