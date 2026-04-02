@@ -33,13 +33,6 @@
   orcid: 0000-0001-6017-0894
   role: "Local Committee"
 
-- name: "Javier Molina"
-  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/javi-work-profile-headshot-24-26-compressed.jpg
-  description: >
-    _Atlas of Living Australia, CSIRO, Australia._ Javier is a Senior Project Manager at the Atlas of Living Australia who enjoys working at the intersection of technology, business objectives and value to users. I have spent most of my career working in IT for different industries. I have been working in Biodiversity Informatics for over 10 years. During much of that time, I have been working with international collaborators such as GBIF, the Living Atlases community and TDWG to further our mission to provide open access to biodiversity data and the technologies that support it. I have always been passionate about understanding the end game, that is, what impact my work has both as an individual and as part of an organization. This is why I want to make our troll mascot for the conference to look at his best in our socials and other communication campaigns. Outside my day-to-day work, I enjoy outdoor activities, hiking, motorsports, and I’m a self-proclaimed tourist guide whenever the opportunity arises.
-  orcid: 0000-0003-3563-900X
-  role: "Communications Manager"
-
 - name: "Ely Wallis"
   image: https://static.tdwg.org/conferences/2026/images/organizing-committee/ely-wallis-square-500.jpg
   description: >
@@ -52,4 +45,19 @@
   description: >
     _TDWG Secretariat, San Francisco, CA._ Stan Blum has been a  contributor or principal analyst in the design of scientific databases for the National Museum of Natural History (Smithsonian), Museum of Vertebrate Zoology (UC Berkeley), University of Kansas (Specify), and the California Academy of Sciences. He has developed data standards that support data integration across natural history disciplines and organizations since 1990, including The Society of Vertebrate Paleontology, the Association of Systematics Collections (now Natural Science Collections Alliance), and the Biodiversity Information Standards (TDWG). The main theme in his work has been the integration of information across organizations and disciplines for use in biodiversity science. Retired since 2015, he now volunteers as Administrator of the TDWG Secretariat in San Francisco.
   orcid: 0000-0002-4419-6960
+  role: Technical Support
 
+- name: "Javier Molina"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/javi-work-profile-headshot-24-26-compressed.jpg
+  description: >
+    _Atlas of Living Australia, CSIRO, Australia._ Javier is a Senior Project Manager at the Atlas of Living Australia who enjoys working at the intersection of technology, business objectives and value to users. I have spent most of my career working in IT for different industries. I have been working in Biodiversity Informatics for over 10 years. During much of that time, I have been working with international collaborators such as GBIF, the Living Atlases community and TDWG to further our mission to provide open access to biodiversity data and the technologies that support it. I have always been passionate about understanding the end game, that is, what impact my work has both as an individual and as part of an organization. This is why I want to make our troll mascot for the conference to look at his best in our socials and other communication campaigns. Outside my day-to-day work, I enjoy outdoor activities, hiking, motorsports, and I’m a self-proclaimed tourist guide whenever the opportunity arises.
+  orcid: 0000-0003-3563-900X
+  role: "Communications Manager"
+
+- name: "Roesyvette V. Hernandez"
+  image: https://static.tdwg.org/conferences/2026/images/organizing-committee/roesyvette-hernandez.jpeg
+  description: >
+    _ASEAN Centre for Biodiversity University of the Philippines Open University, Philippines._ Roesy is a systematic biologist and the Knowledge Management Associate at the ASEAN Centre for Biodiversity (ACB). Her background in biodiversity informatics includes georeferencing specimen records for the DiGIN (Digitizing Marine Invertebrates) project, alongside her work with FishBase and SeaLifeBase. She currently serves as a volunteer mentor for the Global Biodiversity Information Facility (GBIF) and is a graduate student at the University of the Philippines Open University (UPOU). As for hobbies, Roesy has a deep passion for the arts and enjoys exploring various creative pursuits.
+
+  orcid: 0009-0001-7809-6167
+  role: "Communications & Design"

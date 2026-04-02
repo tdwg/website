@@ -1,13 +1,13 @@
 ---
 layout: team
 team: tdwg-2026-program-committee
-title: Program Committee
+title: Organizing Committee
 description: >
-  Program Committee for TDWG hybrid conference 2026.
+  Organizing Committee for TDWG Conference 2026
 background:
-  img: https://www.nasjonaleturistveger.no/siteassets/turistvegene/14-aurlandsfjellet/1-toppbilde-strekning-16x9/toppbilde_therer_012782.jpg?mode=crop&width=1440&height=480
-  by: Therese Rudd, Norwegian Public Roads Administration.
-  href: https://www.nasjonaleturistveger.no/no/turistvegene/aurlandsfjellet
+  img: https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=1534&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  by: Thomas Lipke, Unsplash
+  href: https://unsplash.com/photos/scenery-of-aurora-oIuDXlOJSiE
 toc: false
 ---
 
