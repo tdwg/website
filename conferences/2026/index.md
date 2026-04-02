@@ -13,10 +13,11 @@ toc: true
 
 # Test the feature widget
 featured: # description, href, img
-    title: Stay tuned!
+    title: Organizing Committee
     description: >
-      Review of session proposals is underway. Watch for the call for abstracts, coming soon!
-    img: https://static.tdwg.org/conferences/2026/images/stay-tuned.png
+       Meet this year's Conference Organizing Committee
+    img: https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=1534&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    href: ./about/organizing-committee
 
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -108,7 +109,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 - [Ruter route maps](https://ruter.no/en/journey/route-maps/){:target="_blank"} for metro, buses, trams, and ferries.
 
-<img src="https://www.gbif.no/events/2026/2026-09-tdwg/t-banen-linjekart.png" alt="Oslo metro map" width="420">
+<img src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="420">
 
 ## Hotels in Oslo
 
