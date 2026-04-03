@@ -52,17 +52,18 @@ Here below is the list of working sessions for this year, including links to the
 
 | Interest/Task/Maintenance Group | East/West | Date | Time (UTC) | Local Time | Register |
 | ------------------- | --------- | ---- | ---- | ---------- | :---: |
-| [Darwin Core MG](/community/dwc/) |  | 2026-05-18 | 12:30 | [See in your time-zone]() | [▶️]() |
-| [Data Quality TG 2](/community/bdq/tg-2/) | East | 2026-05-12 | 21:00 | [See in your time-zone]() | [▶️]() |
-| [Data Quality TG 2](/community/bdq/tg-2/) | West | 2026-05-19 | 14:00 | [See in your time-zone]() | [▶️]() |
+| [Darwin Core MG](/community/dwc/) |  | 2026-05-18 | 12:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core+MG&iso=20260518T1230&p1=1440&ah=1) | [▶️]() |
+| [Data Quality TG 2](/community/bdq/tg-2/) | East | 2026-05-19 | 21:00 | [See in your time-zone]() | [▶️]() |
+| [Data Quality TG 2](/community/bdq/tg-2/) | West | 2026-05-19 | 14:00 | [See in your time-zone]() | [▶️]()|
 | [Earth Sciences Paleo IG](/community/esp/) |  |  |  | [See in your time-zone]() | [▶️]() |
-| [eDNA TG](/community/gbwg/enviro/) |  | 2026-05-12 | 13:00 | [See in your time-zone]() | [▶️]() |
-| [Invasive Species TG](/community/dwc/invasive-species) |  | 2026-05-14 | 11:00 | [See in your time-zone]() | [▶️]() |
-| [Latimer Core MG](/community/cd/) |  | 2026-05-15 | 13:00 | [See in your time-zone]() | [▶️]() |
-| [Mineralogy Extension TG](/community/esp/mineralogy/) | East | 2026-05-18 | 14:00 | [See in your time-zone]() | [▶️]() |
-| [Mineralogy Extension TG](/community/esp/mineralogy/) | West | 2026-05-18 | 23:00 | [See in your time-zone]() | [▶️]() |
-| [Minimum Info Dig Specimens (MIDS)](/community/cd/mids/) |  | 2026-05-13 | 16:00 | [See in your time-zone]() | [▶️]() |
-| [Taxon Concept Standard](/community/tnc/tcs2/) |  | 2026-05-20 | 12:30 | [See in your time-zone]() | [▶️]() |
-| [Fundraising and Partnerships Subcommittee](/about/committees/fundraising/) | East | 2026-05-13 | 7:00 | [See in your time-zone]() | [▶️]() |
-| [Technical Architecture Group](/about/committees/tag/) | East | 2026-05-11 | 12:00 | [See in your time-zone]() | [▶️]() |
-| [Technical Architecture Group](/about/committees/tag/) | West | 2026-05-12 | 0:00 | [See in your time-zone]() | [▶️]() |
+| [Environmental Samples and eDNA TG](/community/gbwg/enviro/) |  | 2026-05-12 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Environmental+Samples+and+eDNA+TG&iso=20260512T13&p1=1440&ah=1) | [▶️]() |
+| [Invasive Species TG](/community/dwc/invasive-species) |  | 2026-05-14 | 11:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive+Species+TG&iso=20260514T11&p1=1440&ah=1)) | [▶️]( |
+| [Latimer Core MG](/community/cd/) |  | 2026-05-15 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer+Core+MG&iso=20260515T13&p1=1440&ah=1) | [▶️]() |
+| [Mineralogy Extension TG](/community/esp/mineralogy/) | East | 2026-05-18 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy+Extension+TG+-+East&iso=20260518T14&p1=1440&ah=1) | [▶️]() |
+| [Mineralogy Extension TG](/community/esp/mineralogy/) | West | 2026-05-18 | 23:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy+Extension+TG+-+West&iso=20260518T23&p1=1440&ah=1) | [▶️]() |
+| [Minimum Information Digital Specimen TG](/community/cd/mids/) |  | 2026-05-13 | 16:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum+Information+Digital+Specimen+TG&iso=20260513T16&p1=1440&ah=1) | [▶️]() |
+| [Taxon Concept Standard MG](/community/tnc/) |  | 2026-05-20 | 12:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon+Concept+Standard+MG&iso=20260520T1230&p1=1440&ah=1&am=30) | [▶️]() |
+| [Fundraising and Partnerships Subcommittee](/about/committees/fundraising/) | East | 2026-05-13 | 7:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fundraising+and+Partnerships+Subcommittee+-+East&iso=20260513T07&p1=1440&ah=1&am=30) | [▶️]() |
+| [Fundraising and Partnerships Subcommittee](/about/committees/fundraising/) | West | 2026-05-13 | 17:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fundraising+and+Partnerships+Subcommittee+-+West&iso=20260513T1730&p1=1440&ah=1&am=30) | [▶️]() |
+| [Technical Architecture Group](/about/committees/tag/) | East | 2026-05-11 | 12:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Technical+Architecture+Group+-+East&iso=20260511T12&p1=1440&ah=1) | [▶️]() |
+| [Technical Architecture Group](/about/committees/tag/) | West | 2026-05-12 | 0:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Technical+Architecture+Group+-+West&iso=20260512T00&p1=1440&ah=1) | [▶️]() |
