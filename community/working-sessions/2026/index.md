@@ -53,11 +53,11 @@ Here below is the list of working sessions for this year, including links to the
 | Interest/Task/Maintenance Group | East/West | Date | Time (UTC) | Local Time | Register |
 | ------------------- | --------- | ---- | ---- | ---------- | :---: |
 | [Darwin Core MG](/community/dwc/) |  | 2026-05-18 | 12:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core+MG&iso=20260518T1230&p1=1440&ah=1) | [▶️]() |
-| [Data Quality TG 2](/community/bdq/tg-2/) | East | 2026-05-19 | 21:00 | [See in your time-zone]() | [▶️]() |
-| [Data Quality TG 2](/community/bdq/tg-2/) | West | 2026-05-19 | 14:00 | [See in your time-zone]() | [▶️]()|
+| [Data Quality TG 2](/community/bdq/tg-2/) | East | 2026-05-19 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Quality+TG+2+-+East&iso=20260519T14&p1=1440&ah=1) | [▶️]() |
+| [Data Quality TG 2](/community/bdq/tg-2/) | West | 2026-05-12 | 21:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Quality+TG+2+-+West&iso=20260512T21&p1=1440&ah=1) | [▶️]()|
 | [Earth Sciences Paleo IG](/community/esp/) |  |  |  | [See in your time-zone]() | [▶️]() |
 | [Environmental Samples and eDNA TG](/community/gbwg/enviro/) |  | 2026-05-12 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Environmental+Samples+and+eDNA+TG&iso=20260512T13&p1=1440&ah=1) | [▶️]() |
-| [Invasive Species TG](/community/dwc/invasive-species) |  | 2026-05-14 | 11:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive+Species+TG&iso=20260514T11&p1=1440&ah=1)) | [▶️]( |
+| [Invasive Species TG](/community/dwc/invasive-species) |  | 2026-05-14 | 11:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invasive+Species+TG&iso=20260514T11&p1=1440&ah=1) | [▶️]() |
 | [Latimer Core MG](/community/cd/) |  | 2026-05-15 | 13:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Latimer+Core+MG&iso=20260515T13&p1=1440&ah=1) | [▶️]() |
 | [Mineralogy Extension TG](/community/esp/mineralogy/) | East | 2026-05-18 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy+Extension+TG+-+East&iso=20260518T14&p1=1440&ah=1) | [▶️]() |
 | [Mineralogy Extension TG](/community/esp/mineralogy/) | West | 2026-05-18 | 23:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy+Extension+TG+-+West&iso=20260518T23&p1=1440&ah=1) | [▶️]() |
