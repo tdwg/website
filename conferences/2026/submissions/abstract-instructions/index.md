@@ -1,5 +1,5 @@
 ---
-title: Instructions for abstract submission
+title: Instructions for Abstract Submission
 description: >
   Call for abstracts to be presented at TDWG 2026 
 background:
