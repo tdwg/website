@@ -1,12 +1,22 @@
 - text: "TDWG 2026"
   href: /conferences/2026/
+- text: "Program"
+  menu:
+  - text: "List of Sessions"
+    href: /conferences/2026/program/sessions-list/
 - text: "Submissions"
   menu:
+  - text: "Abstracts"
+  - text: "Call for Abstracts"
+    href: /conferences/2026/submissions/call-for-abstracts/
+  - text: "Instructions for abstract submission"
+    href: /conferences/2026/submissions/abstract-instructions/
+  - text: "---"
   - text: "Already closed"
   - text: "Call for Sessions"
-    href: /conferences/2026/call-for-sessions/
+    href: /conferences/2026//submissions/call-for-sessions/
   - text: "Instructions for Session Proposals"
-    href: /conferences/2026/session-instructions/
+    href: /conferences/2026//submissions/session-instructions/
 - text: "About"
   menu:
   - text: "Organizing Committee"
