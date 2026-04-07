@@ -3,13 +3,13 @@ title: Instructions for Abstract Submission
 description: >
   Call for abstracts to be presented at TDWG 2026 
 background:
-  img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
-  by: Visit Norway / Field Productions
-  href: https://www.visitnorway.com/listings/vigeland-sculpture-park/2799/
+  img: https://static.tdwg.org/conferences/2026/images/kayak-igardsbrevatnet.jpeg
+  by: Kayak Nigardsbrevatnet Falkeblikk AS visitnorway.com
+  href: https://www.visitnorway.com/listings/kayaking-on-nigardsbrevatnet-and-hike-on-nigards-glacier/237509/
 toc: true
 ---
 
-_Last modified date: 2 Apr 2026_
+_Last modified date: 7 Apr 2026_
 
 ## Call for Abstracts
 
@@ -17,7 +17,7 @@ We invite you to [submit an abstract](/conferences/2026/submissions/call-for-abs
 
 We strongly encourage you to consider the conference theme: ***Research and Robot-ready Biodiversity Data Standards.***
 
-**Deadline for abstract submissions is [13 May 2025 UTC-12](https://tdwg.link/deadline-call-for-abstracts).**
+**Deadline for abstract submissions is [20 May 2025 UTC-12](https://tdwg.link/deadline-call-for-abstracts).**
 
 ## About the Program
 
@@ -37,7 +37,7 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 ### Key dates
 
 * Abstract submission opens: 10 Apr 2026
-* Submission deadline: 13 May 2026
+* Submission deadline: 20 May 2026
 * Notification to submitter: By 17 June 2026
 * Registration opens: to be announced
 * Registration deadline for authors: Late August 2026
