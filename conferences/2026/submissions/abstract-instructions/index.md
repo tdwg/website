@@ -27,9 +27,9 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 
 * Submissions include oral presentations (15 min. is standard but other durations may be chosen), lightning talks (5 min.), and poster presentations.
 * Submissions from virtual attendees for oral presentations must be pre-recorded and uploaded before the conference. In-person attendees can optionally pre-record their content. All posters must be submitted as a digital version and uploaded before the conference. Instructions for  presentations will be added separately, later on.
-* Selection of abstracts is done by a competitive review process. Not all submissions will be accepted due to time and space constraints. The authors of abstracts not accepted for in person presentation may still be offered the opportunity to upload a video recording of their presentation for on demand access.
+* Selection of abstracts is done by a competitive review process. Not all submissions will be accepted due to time and space constraints. The authors of abstracts not accepted for in person presentation may still be offered the opportunity to upload a video recording of their presentation for on-demand access.
 * Accepted abstracts will be published on the conference platform and in the conference program.
-* TDWG publishes formal conference Proceedings through the journal Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections/)). Authors with either an oral presentation or a poster must also submit an extended abstract to the [BISS](https://biss.pensoft.net/collections/) journal via Pensoft’s ARPHA platform (more details to come at a later date).
+* TDWG publishes formal conference Proceedings through the journal Biodiversity Information Science and Standards ([BISS](https://biss.pensoft.net/collections/)). Authors with either an oral presentation or a poster must also submit an extended abstract to the [BISS](https://biss.pensoft.net/collections/) journal via Pensoft’s ARPHA platform. Instructions will be provided to abstract authors after acceptance.
 * Accepted abstracts for oral presentations and posters will not be included in the conference schedule until conference registration fees have been paid by the presenter.
 * By participating in TDWG 2026, **you agree to abide by the [Code of Conduct](/conferences/2026/code-of-conduct/)**
 * When you are ready to start your abstract, we recommend compiling your title, authors, author affiliations, and abstract text offline, before starting your submission online.
@@ -38,8 +38,8 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 
 * Abstract submission opens: 10 Apr 2026
 * Submission deadline: 20 May 2026
-* Notification to submitter: By 17 June 2026
-* Registration opens: to be announced
+* Notification to submitter: Late June 2026
+* Registration opens: To Be Announced
 * Registration deadline for authors: Late August 2026
 
 ## Abstract Submission Instructions
@@ -127,5 +127,5 @@ Please direct questions about abstract submission to [editor@tdwg.org](mailto:ed
 
 To contribute an abstract to a closed session without a prior invitation, first [contact the session organizer](/conferences/2026/program/sessions-list) for permission.
 
-For  general questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org).
+For  general questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or visit the [conference web site](/conferences/2026/).
 
