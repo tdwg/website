@@ -46,15 +46,15 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 
 In 2026, the TDWG conference will use the Whova platform. You can access the submission system through the [Call for abstracts](../call-for-abstracts) conference page.
 
-{:.alert .alert-info}
-*If this is your first time using Whova, you will need to register.*
-*Note that event organizers will use the email address you use to register  to communicate with you about the conference and your abstract submission. Please make sure you check your email regularly. Please **do not** register with one email but put in an abstract with a different one \- it causes problems every year.*
+{:.alert .alert-warning}
+If this is your first time using Whova, you will need to register.
+Note that event organizers will use the email address you use to register  to communicate with you about the conference and your abstract submission. Please make sure you check your email regularly. Please **do not** register with one email but put in an abstract with a different one \- it causes problems every year.
 
 As the submitter, you will be asked to fill out the following form fields. Your submission will appear in the final program. Required fields are indicated by (\*). Do not use all uppercase text for any part of the form. Be sure to italicize as appropriate.
 
 
-{:.alert .alert-info}
-*Please proofread your abstract carefully as reviewers cannot edit your abstract.*
+{:.alert .alert-warning}
+Please proofread your abstract carefully as reviewers cannot edit your abstract.
 
 * **Title\***
     * Enter the full title of your submission (20 word limit).
@@ -63,11 +63,13 @@ As the submitter, you will be asked to fill out the following form fields. Your 
     * Choose either Oral or Poster.
     * Oral presentations can be submitted to symposia, discussions, keynotes and some workshops.
 * **Session\***
-    * Choose the session to which you will be submitting this abstract. See the full [list of sessions](/conferences/2026/program/sessions-list) with all their details.
-    * Sessions listed as \[CLOSED\] require an invitation from the session organizers to submit an abstract and have it considered for presentation during that session. All other sessions are open for abstract submissions.   
-      
+  * Choose the session to which you will be submitting this abstract. See the full [list of sessions](/conferences/2026/program/sessions-list) with all their details.
+  * Sessions listed as **\(CLOSED\)** require an invitation from the session organizers to submit an abstract and have it considered for presentation during that session. All other sessions are open for abstract submissions.   
+
   {:.alert .alert-info}
-  *Restrictions apply only to abstract submission. Everybody is welcome to attend the session.*
+  **Everybody is welcome to attend any session!** Restrictions apply only to abstract submission.
+
+
     * Keynote sessions are reserved for invited keynote speakers only.
     * If none of the sessions seem to fit your topic, submit it in a contributed session or as a (virtual) poster.
 * **Authors and affiliations\***
@@ -127,5 +129,5 @@ Please direct questions about abstract submission to [editor@tdwg.org](mailto:ed
 
 To contribute an abstract to a closed session without a prior invitation, first [contact the session organizer](/conferences/2026/program/sessions-list) for permission.
 
-For  general questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or visit the [conference web site](/conferences/2026/).
+For  general questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or go to the [conference homepage](/conferences/2026/).
 
