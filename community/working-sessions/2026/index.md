@@ -24,6 +24,12 @@ The TDWG community spans the globe, which makes scheduling any single real-time 
 
 All sessions will be held in the two weeks between 11 to 22 May. Everybody is welcome, and registration is free but **you must register** to receive the Zoom link.
 
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://static.tdwg.org/images/sessions/2025/working-sessions-2026.png" target="_blank">
+    <img src="https://static.tdwg.org/images/sessions/2026/working-sessions-2026-w600.png" alt="Working Sessions week 1" width="600" style="padding: 3px">
+  </a>
+</p>
+
 <!-- **BEGIN COMMENT** 
 
 Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378eb082e54a4d962266579878d4c3[…]53142b0d717603%40group.calendar.google.com/public/basic.ics) to add all events to your calendar. Note, this only puts all event in your calendar (your time zone), but it does NOT register you for the session.
