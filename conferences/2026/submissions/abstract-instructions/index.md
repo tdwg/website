@@ -34,6 +34,7 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 * Accepted abstracts for oral presentations and posters will not be included in the conference schedule until conference registration fees have been paid by the presenter.
 * By participating in TDWG 2026, **you agree to abide by the [Code of Conduct](/conferences/2026/code-of-conduct/)**
 * When you are ready to start your abstract, we recommend compiling your title, authors, author affiliations, and abstract text offline, before starting your submission online.
+* Make sure you have read the descriptions of the sessions prior to starting to submit your abstract. You will need to know which session you want to submit your abstract to. See [list of sessions](/conferences/2026/program/sessions-list/).
 
 ### Key dates
 

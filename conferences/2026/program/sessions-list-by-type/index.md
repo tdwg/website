@@ -400,7 +400,7 @@ Freshwaters are among the least comprehensively documented habitats, despite sho
 The session will focus on operationalising freshwater taxonomy through standards, sustainable infrastructures, and linking taxonomic backbones with trait, occurrence, and monitoring databases and conservation status information from the IUCN Red List of Threatened Species. We also invite discussion on community-driven approaches, including regional networks, e.g. the Freshwater Biodiversity Information System (FBIS), governance models, and long-term sustainability, aiming to advance a coherent, FAIR, and globally integrated freshwater biodiversity data ecosystem.
 
 {:id="sym38"}
-### SYM38 Sustaining the Geo- Over the past several decades, geo- and biodiversity sciences have been reshaped by digitization, daBiodiversity Data Ecosystem: Standards-Driven Approaches to Long-Term Resilience
+### SYM38 Sustaining the Geo-Biodiversity Data Ecosystem: Standards-Driven Approaches to Long-Term Resilience
 
 Session type
 : Symposium (Closed)
@@ -505,7 +505,7 @@ We encourage case studies demonstrating how LLM-based tools can support biodiver
 
 The goal of the session is to examine how large language models may reshape biodiversity data access and curation while identifying opportunities and limitations for their responsible use.
 
-## Session of Lightning Talkss
+## Session of Lightning Talks
 
 {:id="lt09"}
 ### LT09 Advancing Environmental Safeguard Practices through Robot-Ready Data Standards
@@ -719,7 +719,7 @@ community paper and future standards work within the TDWG community.
 ### WKS10 Geological Collections with Darwin Core: Compound Specimen Model and Mineralogy Extension
 
 Session type
-: Workshop (Open)
+: Workshop (Closed)
 
 Organizers
 : [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America
@@ -823,7 +823,7 @@ To unlock and transform it into FAIR, AI-ready, interlinked objects, the communi
 This workshop will complement the proposed Libroscope symposium. As a starter, the participants will be introduced to the stakes and methods of literature FAIR-isation with a strong focus on data cleaning and linking. Then, the main course will have the participants explore new opportunities offered by the Libroscope using human interfaces as well as APIs to retrieve liberated AI-ready data.
 
 {:id="wks34"}
-### WKS34 Deliberating Data from Historical Biodiversity Literature with The Unified Corpus Explorer (UCE)
+### WKS34 Liberating Data from Historical Biodiversity Literature with The Unified Corpus Explorer (UCE)
 
 Session type
 : Workshop (Closed)
@@ -876,7 +876,7 @@ Organizers
 Data aggregators like GBIF have increased access to large volumes of multimodal biological data, for which increased computing power can be leveraged to enable large-scale biodiversity analyses. These data, however, often lack details and context needed to confidently include them in ecological analyses. Planned, detailed, plot-level or transect surveys conducted by researchers have been much less widely mobilized to data aggregators like GBIF and are therefore under-utilized in these computing-enabled, timely analyses. This session will explore current efforts and challenges in data standard harmonization among data providers, aggregators, and users that promote accessibility and interoperability via the new DarwinCore (DwC) data package. Participants will 1) learn to apply the DwC standard and relevant extensions (e.g., Humboldt) to in situ survey data, 2) explore how DwC can (or cannot) provide necessary details for reuse, including application-specific fitness-for-use and credit attribution throughout the data lifecycle, and 3) increase the interoperability of their data with complementary data streams, including long-term studies, climate datasets, and remote sensing products. With increased computing power and advances in AI, improved ecological models and understanding are on the horizon. However, without high-quality in situ data, we cannot fully leverage this opportunity to answer questions about the past, present, and future of Earth’s ecosystems and biodiversity.
 
 {:id="wks43"}
-### WKS43 How Literature Services can Support & Benefit from Biodiversity Publication and Data Standards ?
+### WKS43 How Literature Services can Support & Benefit from Biodiversity Publication and Data Standards?
 
 Session type
 : Workshop (Closed)

@@ -387,7 +387,7 @@ To unlock and transform it into FAIR, AI-ready, interlinked objects, the communi
 This workshop will complement the proposed Libroscope symposium. As a starter, the participants will be introduced to the stakes and methods of literature FAIR-isation with a strong focus on data cleaning and linking. Then, the main course will have the participants explore new opportunities offered by the Libroscope using human interfaces as well as APIs to retrieve liberated AI-ready data.
 
 {:id="wks34"}
-### WKS34 Deliberating Data from Historical Biodiversity Literature with The Unified Corpus Explorer (UCE)
+### WKS34 Liberating Data from Historical Biodiversity Literature with The Unified Corpus Explorer (UCE)
 
 Session type
 : Workshop (Closed)
@@ -410,7 +410,7 @@ Participants will explore how UCE enables interactive access to richly annotated
 The workshop is aimed at researchers, interested in unlocking biodiversity knowledge from literature and embedding it into scalable, standards-oriented data ecosystems.
 
 {:id="wks43"}
-### WKS43 How Literature Services can Support & Benefit from Biodiversity Publication and Data Standards ?
+### WKS43 How Literature Services can Support & Benefit from Biodiversity Publication and Data Standards?
 
 Session type
 : Workshop (Closed)
@@ -803,7 +803,7 @@ We welcome contributions on:
 - Lessons learned from building institutional knowledge spaces
 
 {:id="sym38"}
-### SYM38 Sustaining the Geo- Over the past several decades, geo- and biodiversity sciences have been reshaped by digitization, daBiodiversity Data Ecosystem: Standards-Driven Approaches to Long-Term Resilience
+### SYM38 Sustaining the Geo-Biodiversity Data Ecosystem: Standards-Driven Approaches to Long-Term Resilience
 
 Session type
 : Symposium (Closed)
@@ -908,7 +908,7 @@ Presentations will address practical implementation challenges, conceptual model
 ### WKS10 Geological Collections with Darwin Core: Compound Specimen Model and Mineralogy Extension
 
 Session type
-: Workshop (Open)
+: Workshop (Closed)
 
 Organizers
 : [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America
