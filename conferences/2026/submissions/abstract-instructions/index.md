@@ -17,7 +17,8 @@ We invite you to [submit an abstract](/conferences/2026/submissions/call-for-abs
 
 We strongly encourage you to consider the conference theme: ***Research and Robot-ready Biodiversity Data Standards.***
 
-**Deadline for abstract submissions is [20 May 2025 UTC-12](https://tdwg.link/deadline-call-for-abstracts).**
+{:.alert .alert-info}
+**Deadline for abstract submissions is [20 May 2025 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts).**
 
 ## About the Program
 
@@ -39,8 +40,8 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 * Abstract submission opens: 10 Apr 2026
 * Submission deadline: 20 May 2026
 * Notification to submitter: Late June 2026
-* Registration opens: To Be Announced
-* Registration deadline for authors: Late August 2026
+* Registration opens: Early May 2026
+* Registration deadline for presenters: Late August 2026
 
 ## Abstract Submission Instructions
 
@@ -103,7 +104,7 @@ Please proofread your abstract carefully as reviewers cannot edit your abstract.
     * Submission confirmation emails from the system about your abstract not only do not flag that this choice has not been made, but they will tell you your submission is complete.
     * Please confirm that you have chosen to amend your abstract by attaching it to a session.
 
-**Modification of submission**. You will be able to modify your abstract after submission up until the deadline of [13 May 2026 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). Review of submissions will begin after that date.
+**Modification of submission**. You will be able to modify your abstract after submission up until the deadline of [20 May 2026 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). Review of submissions will begin after that date.
 
 **Multiple submissions**. If you wish to submit more than one abstract, please complete a separate form for each. Presenters may be limited in the number of oral presentations that may be accommodated due to scheduling.
 
@@ -113,13 +114,13 @@ Please proofread your abstract carefully as reviewers cannot edit your abstract.
 
 Each submission will be reviewed by a panel selected by the Program Committee, including at least one organizer from the session to which you attached your submission. *Abstracts that are incomplete (i.e., not all \* mandatory questions have been answered) at the time of assignment to reviewers will not be considered for presentation at the conference.*
 
-Reviews will take place between 14 May and 11 June 2026.
+Reviews will take place between May and June 2026.
 
 While reviewers are not editors, they may elect to suggest minor changes to abstracts as required. *They are unable to make any direct changes to your abstract, so please proofread your abstract carefully.*
 
-The submitter will be notified by email regarding the outcome of their submission by **Wednesday 17 June 2026**.
+The submitter will be notified by email regarding the outcome of their submission by **late June 2026**.
 
-If your abstract is accepted, the presenter will need to register for the conference (deadline for registration to be announced). Instructions for presentations, uploading of slides, posters, and pre-recorded videos will be announced after the deadline for submission of abstracts.
+If your abstract is accepted, the presenter will need to register for the conference (deadline for presenters registration is in late August 2026). Instructions for presentations, uploading of slides, posters, and pre-recorded videos will be announced after the deadline for submission of abstracts.
 
 **Publishing in BISS**. Authors of Whova abstracts accepted for presentation at the conference must publish an extended abstract in TDWG’s Pensoft publication, *Biodiversity Information Science and Standards [(BISS)](https://biss.pensoft.net/collections)*. Instructions for publication will be provided in June.
 
