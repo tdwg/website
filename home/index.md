@@ -10,10 +10,11 @@ background:
 permalink: /
 
 featured: # description, href, img
-  title: Save the date!
+  title: Call for abstracts
   description: >
-    2026 TDWG Working Sessions are coming from 11 to 22 May. More details coming shortly!
-  img: https://images.unsplash.com/photo-1641907083047-d3cfb1582f5a?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    Call for abstracts for TDWG 2026 Conference has now opened!
+  img: https://static.tdwg.org/conferences/2026/images/kayak-igardsbrevatnet.jpeg
+  href: /conferences/2026/submissions/abstract-instructions
 
 ---
 

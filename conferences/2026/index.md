@@ -11,13 +11,12 @@ layout: home_alt
 
 toc: true
 
-# Test the feature widget
 featured: # description, href, img
-    title: Organizing Committee
+    title: Call for abstracts
     description: >
-       Meet this year's Conference Organizing Committee
-    img: https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?q=80&w=1534&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    href: ./about/organizing-committee
+       Call for abstracts has now opened!
+    img: https://static.tdwg.org/conferences/2026/images/kayak-igardsbrevatnet.jpeg
+    href: ./submissions/abstract-instructions
 
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
