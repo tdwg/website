@@ -628,7 +628,7 @@ The session combines short scene-setting inputs with open discussion focused on 
 ### DS31 Panel Discussion: Critically Assessing the Role of AI in Biodiversity Research
 
 Session type
-: Discussion session (Closed by definition: session is a workshop, panel or unconference)
+: Discussion session (Closed)
 
 Organizers
 : [David Williamson](mailto:david.williamson@ntnu.no), Norwegian University of Science and Technology (NTNU), Norway; [Wouter Koch](mailto:wouter.koch@artsdatabanken.no), Artsdatabanken, Norway; [Rukaya Johaadien](mailto:r.s.johaadien@nhm.uio.no), University of Oslo, Norway; [Michal Torma](mailto:michal.torma@nhm.uio.no), University of Oslo, Norway; [Arianna Salili-James](mailto:arianna.salili-james@nhm.ac.uk), Natural History Museum London, UK; [Sanson Poon](mailto:sanson.poon@nhm.ac.uk), Natural History Museum London, UK; [Maarten Trekels](mailto:maarten.trekels@planentuinmeise.be), Meise Botanic Gardens, Belgium; [Kit Lewers](mailto:kit.lewers@colorado.edu), University of Colorado Boulder, USA
@@ -757,7 +757,7 @@ The workshop is designed as an interactive forum, providing ample space for open
 ### WKS14 New approaches and tools to maximise the value of the Biodiversity Heritage Library
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Roderic Page](mailto:rdmpage@gmail.com), University of Glasgow, United Kingdom; [Nicole Kearney](mailto:nkearney@museum.vic.gov.au), Melbourne Museums, Australia
@@ -788,7 +788,7 @@ We think that the chance for people to explore new tools, and discuss those with
 ### WKS24 Mobilizing Botanical Checklists and Red Lists to GBIF
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Lycka Kamoen](mailto:l.kamoen@hortus.leidenuniv.nl), Leiden University | Naturalis Biodiversity Center, Netherlands; [Niels Raes](mailto:niels.raes@naturalis.nl), Naturalis Biodiversity Center, Netherlands
@@ -807,7 +807,7 @@ To address this gap, the MPC project has developed a practical manual that guide
 ### WKS33 Liberating and providing AI-ready data from the Natural History Literature
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Chris Le Coquet](mailto:chris.le-coquet-le-roux@mnhn.fr), Muséum national d'Histoire naturelle, France; [Laurence Bénichou](mailto:laurence.benichou@mnhn.fr), Muséum national d'Histoire naturelle, France; [Donat Agosti](mailto:agosti@plazi.org), Plazi, Switzerland; [Patrick Ruch](mailto:patrick.ruch@hesge.ch), Swiss Institute of Bioinformatics, Switzerland; [Rainer Krug](mailto:rainer.krug@sib.swiss), Swiss Institute of Bioinformatics, Switzerland
@@ -826,7 +826,7 @@ This workshop will complement the proposed Libroscope symposium. As a starter, t
 ### WKS34 Deliberating Data from Historical Biodiversity Literature with The Unified Corpus Explorer (UCE)
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Marius Böyng](mailto:m.boeyng@ub.uni-frankfurt.de), University Library J. C. Senckenberg, Goethe-University, Germany; [Gerwin Kasperek](mailto:g.kasperek@ub.uni-frankfurt.de), University Library J. C. Senckenberg, Goethe-University, Germany; [Katrin Peikert](mailto:k.peikert@ub.uni-frankfurt.de), University Library J. C. Senckenberg, Goethe-University, Germany; [Mevlüt Bagci](mailto:bagci@em.uni-frankfurt.de), Text Technology Lab, Goethe-University, Germany; [Jana Hoffmann](mailto:jana.hoffmann@senckenberg.de), Senckenberg Nature Research, Germany
@@ -849,7 +849,7 @@ The workshop is aimed at researchers, interested in unlocking biodiversity knowl
 ### WKS35 From Skeletal to Scientific: A Hands-on Workshop for Measuring Digitization Depth with the MIDS Standard
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Mathias Dillen](mailto:mathias.dillen@plantentuinmeise.be), Meise Botanic Garden, Belgium; [Elspeth Haston](mailto:EHaston@rbge.org.uk), Royal Botanic Garden Edinburgh, United Kingdom; [Caitlin Chapman](mailto:cchapman@floridamuseum.ufl.edu), iDigBio / Florida Museum of Natural History, United States
@@ -868,7 +868,7 @@ Participants should bring a laptop and should install a local version of the MID
 ### WKS39 Using the new DarwinCore Data Package to promote FAIR data principles in ecological research
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Kelsey Huelsman](mailto:kelsey.s.huelsman@gmail.com), ERT, NASA Goddard Space Flight Center, United States; [Eric Sokol](mailto:esokol@battelleecology.org), NEON, Battelle, United States; [Dhruva Kathuria](mailto:dhruva.kathuria@nasa.gov), UMBC/NASA GSFC, United States; [Robert Guralnick](mailto:rguralnick@flmnh.ufl.edu), University of Florida, United States
@@ -879,7 +879,7 @@ Data aggregators like GBIF have increased access to large volumes of multimodal 
 ### WKS43 How Literature Services can Support & Benefit from Biodiversity Publication and Data Standards ?
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Emilie Pasche](mailto:emilie.pasche@hesge.ch), Switzerland
@@ -906,7 +906,7 @@ The session also fosters discussion on feedback loops between publishers and lit
 ### WKS50 Living Atlases around ALA: From Deployment to Contribution and Future Technical Directions
 
 Session type
-: Workshop (Closed by definition: session is a workshop, panel or unconference)
+: Workshop (Closed)
 
 Organizers
 : [Javier Molina](mailto:javier.molina@csiro.au), Atlas of Living Australia / CSIRO, Australia; [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC, Spain; [Vicente José Ruiz Jurado](mailto:vjrj@gbif.es), GBIF.ES - Consejo Superior De Investigaciones Científicas (CSIC), Spain
@@ -971,7 +971,7 @@ Please choose this session type if you wish to present a poster rather than give
 ### TDWG 2026 Unconference
 
 Session type
-: Unconference (Closed by definition: session is a workshop, panel or unconference)
+: Unconference (Closed)
 
 Organizers
 : [Javier Molina](mailto:javier.molina@csiro.au), Atlas of Living Australia / CSIRO, Australia; [Deborah Paul](mailto:dlpaul@illinois.edu), Species File Group, Prairie Research Institute, University of Illinois, USA; [Chandra Earl](mailto:cearl4@asu.edu), Neon Biorepository, Arizona State University, USA; [Shelley James](mailto:shelley.james@dbca.wa.gov.au), Department of Biodiversity, Conservation & Attractions. Western Australian Herbarium, Australia; [Esteban Marentes Herrera](mailto:emarentes@humboldt.org.co), SiB Colombia, Colombia; [Nicky Nicolson](mailto:n.nicolson@kew.org), RBG Kew, UK
