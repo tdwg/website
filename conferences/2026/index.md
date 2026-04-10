@@ -11,7 +11,6 @@ layout: home_alt
 
 toc: true
 
-# Test the feature widget
 featured: # description, href, img
     title: Call for abstracts
     description: >
