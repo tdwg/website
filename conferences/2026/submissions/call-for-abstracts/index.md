@@ -9,13 +9,7 @@ background:
 toc: false
 ---
 
-_Last updated 7 April 2026_
-
-
-{:.alert .alert-info}
-Abstract submissions content is under development
-Keep an eye on the [conference website](/conferences/2026/) for updates.
-
+_Last updated 10 April 2026_
 
 <div>
     <div title="Whova event and conference app" id="whova-cfs-widget">
