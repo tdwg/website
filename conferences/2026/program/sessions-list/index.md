@@ -15,7 +15,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 9 April 2026_
+_Last updated 10 April 2026_
 
 This is the list of proposed sessions for TDWG 2026 Conference organized by tracks to facilitate searching the most suitable session if you are submitting an abstract. Alternatively you can browse the list of sessions organized [by session type](../sessions-list-by-type). 
 
