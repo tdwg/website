@@ -56,16 +56,20 @@ As the submitter, you will be asked to fill out the following form fields. Your 
 
 
 {:.alert .alert-warning}
-Please proofread your abstract carefully as reviewers cannot edit your abstract.
+Please proofread your abstract carefully, as the Program Committee administrators cannot edit your abstract.
 
 * **Title\***
-    * Enter the full title of your submission (20 word limit).
+    * Enter the full title of your submission (200 character limit).
     * Do not use all upper case or use terminal punctuation (that is, do not put a period or full stop at the end of the title).
 * **Presentation type\***
-    * Choose either Oral or Poster.
+    * Choose Oral presentation (standard length), Lightning talk (5 minutes) or Poster.
     * Oral presentations can be submitted to symposia, discussions, keynotes and some workshops.
+* **Track \***
+  * There are many sessions to choose from. We have done an initial sort into Tracks. Choose one of the conference tracks you think your abstract relates to, having read all of the session descriptions.
 * **Session\***
+  * Select the session type from the choices: Lightning talk session, Symposium, Discussion session, Workshops and working meeting, Contributed Oral Session or Poster.
   * Choose the session to which you will be submitting this abstract. See the full [list of sessions](/conferences/2026/program/sessions-list) with all their details.
+  * If none of the sessions seem to fit your topic, submit it in a contributed session or as a (virtual) poster.
   * Sessions listed as **\(CLOSED\)** require an invitation from the session organizers to submit an abstract and have it considered for presentation during that session. All other sessions are open for abstract submissions.   
 
   {:.alert .alert-info}
@@ -73,15 +77,19 @@ Please proofread your abstract carefully as reviewers cannot edit your abstract.
 
 
     * Keynote sessions are reserved for invited keynote speakers only.
-    * If none of the sessions seem to fit your topic, submit it in a contributed session or as a (virtual) poster.
 * **Authors and affiliations\***
-    * Enter the names of all authors in the order in which they should appear in the program.
-    * The system only allows one author to be designated as the presenter.
-    * Optional fields within this category include: ORCID ID, Institution, City, and State.
-    * You may include multiple affiliations for any author. Please make sure that affiliations from the same institution for multiple authors are entered in an identical manner.
-    * Confirm that the presenter will register for the conference
+  * Enter the names of all authors in the order in which they should appear in the program.
+    * The system allows up to 10 co-authors to be named. Whova calls them Co-speakers in a setting we can’t change. We assume that only one person will be the speaker. Who that person is will be designated at a later time.
+    * Whova requires that the submitter and co-speakers all provide an Affiliation. If you do not have one, please use a term such as “independent”, “unaffiliated” etc.
+    * We have included a field for Country. Whova does not give a picklist, please type the country name carefully.
+    * Optional fields within this category include: ORCID ID
+
 * **Abstract\***
-    * There is a 300-word limit on abstracts.
+    * There is a 1,800 character limit on abstract text.
+   
+  {:.alert .alert-info}
+  Note that when the extended abstract is resubmitted to BISS there will be a 6,000 character limit
+
 * **Use of Generative AI**
     * Indicate what, if any, generative AI technologies (e.g., ChatGPT, DeepL, DeepSeek, LLaMA) were used in the creation of this abstract.
     * Adding a short description of why/how you chose to use this technology allows us to understand and consider adjusting requirements for future conferences.
@@ -91,19 +99,11 @@ Please proofread your abstract carefully as reviewers cannot edit your abstract.
     * If applicable, a short statement (30 word limit) may be entered about how your project was funded.
 * **All author approval\***
     * Confirm that the submitting author has provided the contents of the submission to all listed authors and that they approve of its submission for presentation at TDWG 2026\.
+* **Is this a student presentation? \***
+  * Each year we award student prizes. Please indicate if the talk or poster is the work of a student and should be included in the student prize judging.
 * **Permission to publish\***
     * You give permission to the organizers of TDWG 2026 to publish this abstract on electronic media and in hardcopy, including the  (i.e., in the abstract book, program, Biodiversity Information Science and Standards (BISS) Journal and poster gallery) if it is accepted for presentation.
     * If your abstract is accepted then you agree to submit an extended version for  TDWG BISS Journal. Instructions for extended abstracts will be made available at a later stage.
-
-{:.alert .alert-warning}
-**Press SUBMIT.** You may pause in the completion of this form at any time but MUST press the submit button to save and be able to return to it before the deadline. Pressing submit will do two things:
-
-{:.alert .alert-warning}
-* Generate an email about the status of your abstract submission, including a link to access it for revisions.
-* Provide a list of sessions (see [https://www.tdwg.org/conferences/2024/sessions/](https://www.tdwg.org/conferences/2024/sessions/)) for you to ATTACH your presentation (after which you must press AMEND)
-    * Although the system allows you to submit your abstract without choosing to amend your abstract by attaching your presentation to a session, *this is in fact a choice that we require that you make.*
-    * Submission confirmation emails from the system about your abstract not only do not flag that this choice has not been made, but they will tell you your submission is complete.
-    * Please confirm that you have chosen to amend your abstract by attaching it to a session.
 
 **Modification of submission**. You will be able to modify your abstract after submission up until the deadline of [20 May 2026 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). Review of submissions will begin after that date.
 
