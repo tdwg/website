@@ -253,7 +253,7 @@ Session type
 : Symposium (Open)
 
 Organizers
-: [Kumiko Totsu](mailto:totsu.kumiko@nies.go.jp), National Institute for Environmental Studies, Japan
+: [Kumiko Totsu](mailto:totsu.kumiko@nies.go.jp), National Institute for Environmental Studies, Japan; [Christian Elloran](mailto:cbelloran@aseanbiodiversity.org), ASEAN Centre for Biodiversity, Philippines
 
 Across Asia, biodiversity observation networks generate large volumes of primary data through research and long-term monitoring. While international biodiversity data standards are well established, connecting locally managed observation data to global infrastructures such as GBIF can involve practical challenges.
 
