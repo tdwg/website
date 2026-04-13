@@ -1,12 +1,18 @@
 ---
-layout: list
+layout: list_alt
 title: Community
 description: >
   The TDWG community is organized in **Interest Groups**. These can have dedicated **Task Groups** to work on a standard or recommendation. Ratified standards are maintained by **Standard Maintenance Groups**.
 background:
   img: https://c1.staticflickr.com/1/489/30668600364_4695fef168_b.jpg
   by: Denisse Vargas
-  href: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/
+  href: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/  
+featured: # description, href, img
+  title: Working Sessions 2026
+  description: >
+    TDWG 2026 Working Sessions are coming up 11 to 22 May. Register now!
+  img: https://images.unsplash.com/photo-1641907083047-d3cfb1582f5a
+  href: ./working-sessions/2026
 toc: true
 list:
 - label: MG
@@ -125,9 +131,7 @@ TDWG interest (IG) and task (TG) groups undertake one of TDWG’s core functions
 
 ## Community support fund
 
-In the past, members of an interest or task group collaborated through face-to-face meetings and email discussion lists. Technologies have improved, and most groups now collaborate through teleconferences and collaboration platforms, such as GitHub and/or Google Docs. Nevertheless, face-to-face meetings are still a meaningful way to get work done, particularly when the wider consensus building has been done and a small number of experts can be convened to do a few days of very focused work. Accordingly, TDWG has established the Community Support Fund (CSF) to support critical working meetings. The size of the fund is adjusted annually by decision of the TDWG Executive Committee. Applications are usually solicited early in the calendar year through an announcement to I/TG conveners. This year (2025), however, we are using an "open call," and responding to applications as they are received. [Read more](/community/support).  
-
-### [Working sessions 2026](/community/working-sessions/2026/)
+In the past, members of an interest or task group collaborated through face-to-face meetings and email discussion lists. Technologies have improved, and most groups now collaborate through teleconferences and collaboration platforms, such as GitHub and/or Google Docs. Nevertheless, face-to-face meetings are still a meaningful way to get work done, particularly when the wider consensus building has been done and a small number of experts can be convened to do a few days of very focused work. Accordingly, TDWG has established the Community Support Fund (CSF) to support critical working meetings. The size of the fund is adjusted annually by decision of the TDWG Executive Committee. Applications are usually solicited early in the calendar year through an announcement to I/TG conveners. This year (2025), however, we are using an "open call," and responding to applications as they are received. [Read more](/community/support).
 
 ## Interest and Task Groups
 
