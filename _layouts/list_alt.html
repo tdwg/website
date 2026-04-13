@@ -1,0 +1,121 @@
+---
+layout: base
+description: Default template for pages and posts, with contained width.
+---
+
+<div class="row">
+  {% if page.toc  or page.featured %}
+  <div class="col-md-10 col-lg-3 mx-auto">
+
+    {% if page.featured %}
+    <div class="card position-relative">
+      <div class="card-header bg-secondary text-light">
+        {{ page.featured.title | default: "Featured"}}
+      </div>
+      {% if page.featured.img %}
+      <img class="card-img-top" style="border-radius: 0px;" src="{{ page.featured.img }}" alt="Background image">
+      {% endif %}
+      <div class="card-body">
+        <div class="card-text">
+          {{ page.featured.description | markdownify }}
+          {% if page.featured.href %}
+          <a class="btn btn-primary stretched-link" href="{{ page.featured.href }}">Read more</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% if page.quicklinks or page.toc%}
+      <div class="toc">
+        {% if page.quicklinks %}
+          <div class="">
+            <h6>Quick links</h6>
+            <ul>
+              {% for item in page.quicklinks %}
+                <li>
+                  <!-- Is there an easier way to access Markdown link processing in liquid than this hack?  -->
+                  {% capture link_include %}{% include link.md href=item.href new_window=item.new_window text=item.text %}{% endcapture %}
+                  {{ link_include | markdownify | remove: '<p>' | remove: '</p>' }}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="d-grid gap-1"><p></p></div>
+        {% endif %}
+        {% if page.toc %}
+          <div class="">
+            <h6>On this page</h6>
+            {% include toc.html
+              html=content
+              sanitize=true
+              h_min=2
+              h_max=3
+            %}
+          </div>
+        {% endif %}
+      </div>
+    {% endif %}
+  </div>
+
+
+  {% endif %}
+  <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
+
+    {{ content }}
+
+    {% if page.list %}
+    <ul class="list-group list-group-flush mb-3">
+      {% for item in page.list %}
+      {% if item.text contains '' %}
+      {% assign item_text = item.text %}
+      {% else %}
+      {% assign item_text = site.pages | where: 'url', item.href | map: 'title' | first %}
+      {% endif %}
+      <li class="list-group-item">
+
+        {% if item.label %}
+        {% if item.button_bg %}
+        <span class="badge {{ item.button_bg }} rounded-pill me-1">{{ item.label }}</span>
+        {% else %}
+        <span class="badge bg-secondary rounded-pill me-1">{{ item.label }}</span>
+        {% endif %}
+        {% endif %}
+        {% if subitem.link_label %}
+        <a href="{{ item.href | relative_url }}">{{ item.link_label }}</a>
+        {% else %}
+        <a href="{{ item.href | relative_url }}">{{ item_text }}</a>
+        {% endif %}
+
+
+        {% if item.menu %}
+        <ul class="list-unstyled ps-4">
+          {% for subitem in item.menu %}
+          {% if subitem.text contains '' %}
+          {% assign subitem_text = subitem.text %}
+          {% else %}
+          {% assign subitem_text = site.pages | where: 'url', subitem.href | map: 'title' | first %}
+          {% endif %}
+          <li>
+            {% if subitem.label %}
+            {% if subitem.button_bg %}
+            <span class="badge {{ subitem.button_bg }} rounded-pill me-1" alt="Task Group">{{ subitem.label }}</span>
+            {% else %}
+            <span class="badge bg-primary rounded-pill me-1" alt="Task Group">{{ subitem.label }}</span>
+            {% endif %}
+            {% endif %}
+            {% if subitem.link_label %}
+            <a href="{{ subitem.href | relative_url }}">{{ subitem.link_label }}</a>
+            {% else %}
+            <a href="{{ subitem.href | relative_url }}">{{ subitem_text }}</a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+  </div>
+</div>

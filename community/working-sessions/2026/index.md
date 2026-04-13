@@ -1,10 +1,12 @@
 ---
 title: Working Sessions 2026
+description: Working sessions are virtual and open to all.  Join to learn about our standards work in progress.
+
 background:
-  img: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
-  by: Helloquence
-  href: https://unsplash.com/photos/5fNmWej4tAA
-toc: false
+  img: https://images.unsplash.com/photo-1641907083047-d3cfb1582f5a
+  by: Christian Holzinger. Unsplash.com
+  href: https://unsplash.com/photos/a-group-of-small-green-plants-sprouting-out-of-the-ground-NK06SbuCbio
+
 ---
 
 _Last updated: 2026-04-10_
@@ -22,10 +24,10 @@ Interest, Task, and Maintenance Groups are the driving force for developing and 
 
 The TDWG community spans the globe, which makes scheduling any single real-time event challenging for some people. Some groups will solve this problem by holding their “session” twice -- once for each hemisphere (East/West) -- increasing the likelihood for participants to join. We will also record each session and post the videos promptly on [TDWG’s YouTube channel](https://www.youtube.com/@tdwg).
 
-All sessions will be held in the two weeks between 11 to 22 May. Everybody is welcome, and registration is free but **you must register** to receive the Zoom link.
+All sessions will be held in the two weeks between 11 and 22 May. Everybody is welcome, and registration is free but **you must register** to receive the Zoom link.
 
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://static.tdwg.org/images/sessions/2025/working-sessions-2026.png" target="_blank">
+  <a href="https://static.tdwg.org/images/sessions/2026/working-sessions-2026.png" target="_blank">
     <img src="https://static.tdwg.org/images/sessions/2026/working-sessions-2026-w600.png" alt="Working Sessions week 1" width="600" style="padding: 3px">
   </a>
 </p>
