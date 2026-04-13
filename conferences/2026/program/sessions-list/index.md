@@ -508,25 +508,6 @@ Participants should bring a laptop and should install a local version of the MID
 
 ## Community Science, Regional Networks & GBIF Connectivity
 
-{:id="sym27"}
-### SYM27 The ASEAN Biodiversity Dashboard as a GBIF-Hosted Portal for Monitoring Species Occurrence and Biodiversity Trends
-
-Session type
-: Symposium (Open)
-
-Organizers
-: [Christian Elloran](mailto:cbelloran@aseanbiodiversity.org), ASEAN Centre for Biodiversity, Philippines
-
-Effective management of ASEAN Heritage Parks (AHPs) and other protected areas is essential for conserving Southeast Asia’s biodiversity and sustaining vital ecosystem services. To support this goal, the ASEAN Biodiversity Dashboard was established as a regional, open-access platform to monitor biodiversity trends and species occurrences across ASEAN Region.
-
-
-
-Developed within a GBIF-hosted portal framework and built on the infrastructure of the Global Biodiversity Information Facility (GBIF), the Dashboard enables standardized data publication, integration, and visualization using interoperable biodiversity data standards. By consolidating datasets from ASEAN Member States and global partners, it strengthens evidence-based policymaking, spatial analysis, and digital decision-support tools for conservation planning.
-
-
-
-The platform allows users to assess species distributions, identify data gaps, and support reporting under global biodiversity commitments, including the Kunming-Montreal Global Biodiversity Framework. By linking regional data to the global knowledge network, the ASEAN Biodiversity Dashboard enhances transparency, collaboration, and coordinated action for biodiversity conservation across Southeast Asia.
-
 {:id="sym28"}
 ### SYM28 From Standards to Implementation: Connecting Observation Data in Asia to GBIF Infrastructure
 
