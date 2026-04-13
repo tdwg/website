@@ -7,7 +7,7 @@ background:
 toc: false
 ---
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-13_
 
 ## What are the TDWG Working Sessions?
 
@@ -58,8 +58,7 @@ Here below is the list of working sessions for this year, including links to the
 
 | Interest/Task/Maintenance Group | East/West | Date | Time (UTC) | Local Time | Register |
 | ------------------- | --------- | ---- | ---- | ---------- | :---: |
-| [Audiovisual Core MG](/community/ac/) | East | TBD | TBD | [See in your time-zone]() | [▶️]() |
-| [Audiovisual Core MG](/community/ac/) | West | TBD | TBD | [See in your time-zone]() | [▶️]() |
+| [Audiovisual Core MG](/community/ac/) |  | 2026-05-20 | 17:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Audiovisual+Core+MG&iso=20260520T17&p1=1440&ah=1) | [▶️](https://us06web.zoom.us/meeting/register/WouJXzZkQ8yJteV4y3hk3Q) |
 | [Darwin Core MG](/community/dwc/) | East | 2026-05-18 | 12:30 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core+MG+-+East&iso=20260518T1230&p1=1440&ah=1) | [▶️](https://us06web.zoom.us/meeting/register/26np83d2QAqqkjLWKoRuHg) |
 | [Darwin Core MG](/community/dwc/) | West | 2026-05-19 | 00:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Darwin+Core+MG+-+West&iso=20260519T00&p1=1440&ah=1) | [▶️](https://us06web.zoom.us/meeting/register/VAWXqcVxQDeud8Bo_t90zA) |
 | [Data Quality TG 2](/community/bdq/tg-2/) | East | 2026-05-19 | 14:00 | [See in your time-zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Quality+TG+2+-+East&iso=20260519T14&p1=1440&ah=1) | [▶️](https://us06web.zoom.us/meeting/register/B6ogjde9QY-IQ70AzQfyOQ) |
