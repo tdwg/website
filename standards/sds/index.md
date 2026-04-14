@@ -46,7 +46,7 @@ Title
 : Standards Documentation Specification
 
 Permanent IRI
-: [http://rs.tdwg.org/sds/doc/specification/](https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md)
+: [http://rs.tdwg.org/sds/doc/specification/](https://rs.tdwg.org/sds/doc/specification/)
 
 Created
 : 2007-11-05
