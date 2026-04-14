@@ -54,7 +54,7 @@ Title
 : Vocabulary Maintenance Specification
 
 Permanent IRI
-: [http://rs.tdwg.org/vms/doc/specification/](https://github.com/tdwg/vocab/blob/master/vms/maintenance-specification.md)
+: [http://rs.tdwg.org/vms/doc/specification/](https://rs.tdwg.org/vms/doc/specification/)
 
 Created
 : 2017-04-25
