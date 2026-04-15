@@ -24,4 +24,4 @@ To achieve its goals, TDWG:
 - Develops, ratifies and promotes standards and guidelines for the recording and exchange of data about organisms
 - Acts as a forum for discussing all aspects of biodiversity information management through meetings, online discussions, and publications
 
-See the [About](/about/) section to learn how TDWG operates and how you can participate. Active Interest Groups are described under [Community](/community/).
+See the [About](/about/) section to learn how TDWG operates and how you can participate. Active Interest Groups are described under [Community](/community/). 
