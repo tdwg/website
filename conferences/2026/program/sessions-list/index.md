@@ -588,7 +588,7 @@ Session type
 : Workshop (Closed)
 
 Organizers
-: [Lycka Kamoen](mailto:l.kamoen@hortus.leidenuniv.nl), Leiden University | Naturalis Biodiversity Center, Netherlands; [Niels Raes](mailto:niels.raes@naturalis.nl), Naturalis Biodiversity Center, Netherlands
+: [Lycka Kamoen](mailto:l.kamoen@hortus.leidenuniv.nl), Leiden University, Naturalis Biodiversity Center, Netherlands; [Niels Raes](mailto:niels.raes@naturalis.nl), Naturalis Biodiversity Center, Netherlands
 
 The MetaPlantCode (MPC) project develops harmonized best practices for collecting, analyzing, and publishing plant metabarcoding data, with a strong focus on making these data findable, accessible, interoperable, and reusable through GBIF.
 
