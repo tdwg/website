@@ -234,7 +234,7 @@ Session type
 : Symposium (Open)
 
 Organizers
-: [Paco Pando](mailto:pando@rjb.csic.es), CSIC / GBIF.ES, Spain; [Serge Gofas](mailto:sgofas@uma.es), Departamento de Biología Animal, Universidad de Málaga, 29071 Spain, Spain; [Pierre Bonnet](mailto:pierre.bonnet@cirad.fr), AMAP, University of Montpellier, CIRAD, CNRS, INRAE, IRD, France; [Alexandre Monro](mailto:a.monro@kew.org), Royal Botanic Gardens, Kew, United Kingdom; [Britt Lonneville](mailto:britt.lonneville@vliz.be), Flanders Marine Institute (VLIZ), Belgium
+: [Paco Pando](mailto:pando@rjb.csic.es), CSIC / GBIF.ES, Spain; [Serge Gofas](mailto:sgofas@uma.es), Departamento de Biología Animal, Universidad de Málaga, 29071 Spain, Spain; [Pierre Bonnet](mailto:pierre.bonnet@cirad.fr), AMAP, University of Montpellier, CIRAD, CNRS, INRAE, IRD, France; [Alexandre Monro](mailto:a.monro@kew.org), Royal Botanic Gardens, Kew, United Kingdom; [Britt Lonneville](mailto:britt.lonneville@vliz.be), Flanders Marine Institute (VLIZ), Belgium; [Visotheary Ung](mailto:visotheary.ung@mnhn.fr), Institut de Systématique, Evolution, Biodiversité, CNRS, MNHN, SU, EPHE-PSL, UA, Paris, France
 
 The TDWG GeoSchemes task groups are finalising an updated World Geographic Scheme for Recording Species Distributions (WGSRPD). The new version expands the scope of the original standard to cover all taxonomic groups, not only plants, and to include the marine domain. GeoSchemes will provide a versioned, and citable framework for representing biogeographic areas following  political boundaries.
 
