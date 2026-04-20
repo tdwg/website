@@ -81,4 +81,5 @@ Here below is the list of working sessions for this year, including links to the
 | [Sensitive Species TG - East](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 10:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive+Species+TG+-+East&iso=20260513T10&p1=1440&ah=1) | Register[]() |
 | [Sensitive Species TG - West](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 22:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive+Species+TG+-+West&iso=20260513T22&p1=1440&ah=1) | Register[]() |
 | [Taxon Concept Schema MG](/community/tnc/) | 2026-05-20 | 12:30 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon+Concept+Schema+MG&iso=20260520T1230&p1=1440&ah=1&am=30) | [Register](https://us06web.zoom.us/meeting/register/jgEpiOYXRI-iDuT8s8zRig){:.btn .btn-primary}{:target="_blank"} |
+
  
