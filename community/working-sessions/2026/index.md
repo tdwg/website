@@ -28,7 +28,7 @@ All sessions will be held in the two weeks between 11 and 22 May. Everybody is w
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://static.tdwg.org/images/sessions/2026/working-sessions-2026.png" target="_blank">
-    <img src="https://static.tdwg.org/images/sessions/2026/working-sessions-2026-w60.png" alt="Working Sessions week 1" width="600" style="padding: 3px">
+    <img src="https://static.tdwg.org/images/sessions/2026/working-sessions-2026-w600.png" alt="Working Sessions week 1" width="600" style="padding: 3px">
   </a>
 </p>
 
