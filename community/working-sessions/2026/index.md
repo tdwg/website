@@ -28,7 +28,7 @@ All sessions will be held in the two weeks between 11 and 22 May. Everybody is w
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://static.tdwg.org/images/sessions/2026/working-sessions-2026.png" target="_blank">
-    <img src="https://static.tdwg.org/images/sessions/2026/working-sessions-2026-w600.png" alt="Working Sessions week 1" width="600" style="padding: 3px">
+    <img src="https://static.tdwg.org/images/sessions/2026/working-sessions-2026-w800.png" alt="Working Sessions week 1" width="800" style="padding: 3px">
   </a>
 </p>
 
@@ -76,9 +76,11 @@ Here below is the list of working sessions for this year, including links to the
 | [Mineralogy Extension TG - East](/community/esp/mineralogy/) | 2026-05-18 | 14:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy+Extension+TG+-+East&iso=20260518T14&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/ZqKfWR9aQt2gdA6hlS48IQ){:.btn .btn-primary}{:target="_blank"} |
 | [Mineralogy Extension TG - West](/community/esp/mineralogy/) | 2026-05-18 | 23:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mineralogy+Extension+TG+-+West&iso=20260518T23&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/6lH7ZU2iQIicLP_FZSRVrQ){:.btn .btn-primary}{:target="_blank"} |
 | [Minimum Information Digital Specimen TG](/community/cd/mids/) | 2026-05-13 | 16:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum+Information+Digital+Specimen+TG&iso=20260513T16&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/gjvBrrGIRLuaFfmGSe4J7g){:.btn .btn-primary}{:target="_blank"} |
+| [Realm and Biome](https://dev.tdwg.org/community/dwc/realm-and-biome/) | 2026-05-18 | 09:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Realm+and+Biome+TG&iso=20260518T09&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/0p-xJHHnSG-3Pu-qfjjokA){:.btn .btn-primary}{:target="_blank"} |
 | [Standards Mapping TG - East](/about/committees/tag/standards-mapping/) | 2026-05-12 | 8:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Standards+Mapping+TG+-+East&iso=20260512T08&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/1hy6qwXKQfe5aiG9_ShZBA){:.btn .btn-primary}{:target="_blank"} |
 | [Standards Mapping TG - West](/about/committees/tag/standards-mapping/) | 2026-05-12 | 18:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Standards+Mapping+TG+-+West&iso=20260512T18&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/UWlhgh2eS3Osjeur6JBSlA){:.btn .btn-primary}{:target="_blank"} |
-| [Sensitive Species TG - East](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 10:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive+Species+TG+-+East&iso=20260513T10&p1=1440&ah=1) | Register[]() |
-| [Sensitive Species TG - West](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 22:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive+Species+TG+-+West&iso=20260513T22&p1=1440&ah=1) | Register[]() |
+| [Sensitive Species TG - East](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 10:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive+Species+TG+-+East&iso=20260513T10&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/AmQ63-ygRB-stAlOM7A5Zw){:.btn .btn-primary}{:target="_blank"} |
+| [Sensitive Species TG - West](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 22:00 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Sensitive+Species+TG+-+West&iso=20260513T22&p1=1440&ah=1) | [Register](https://us06web.zoom.us/meeting/register/_KmAbFJOR62i-Aqthbmg5Q){:.btn .btn-primary}{:target="_blank"} |
 | [Taxon Concept Schema MG](/community/tnc/) | 2026-05-20 | 12:30 | [Check local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon+Concept+Schema+MG&iso=20260520T1230&p1=1440&ah=1&am=30) | [Register](https://us06web.zoom.us/meeting/register/jgEpiOYXRI-iDuT8s8zRig){:.btn .btn-primary}{:target="_blank"} |
+
  
