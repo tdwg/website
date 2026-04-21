@@ -656,43 +656,13 @@ Session type
 Organizers
 : [Henry Bart](mailto:hbartjr@tulane.edu), Tulane University, United States; [Yasin Bakis](mailto:ybakis@tulane.edu), Tulane University, United States
 
-This discussion session will examine what technical and infrastructural conditions are
+This discussion session will examine what technical and infrastructural conditions are required for biodiversity data to become “robot-ready” usable by automated systems and AI pipelines without manual intervention.
 
-required for biodiversity data to become “robot-ready” usable by automated systems
+Despite the scale of global biodiversity repositories, many datasets remain difficult for automated systems to interpret because key metadata fields are incomplete, data quality indicators are rarely available, and existing standards lack terminology designed for AI workflows. As a result, researchers and data scientists often spend significant effort preparing data before it can be used in computational pipelines.
 
-and AI pipelines without manual intervention.
+The session will begin with short invited perspectives from biodiversity data infrastructure providers, standards developers, and AI researchers. These perspectives will highlight gaps in metadata completeness, missing data quality metrics, and the lack of machine-actionable descriptors needed for automated analysis. The discussion will then focus on identifying a community framework for robot-ready biodiversity data, including: 1) essential metadata fields, 2) standardized data quality metrics, 3) terminology for AI and machine-generated annotations, and 4) priorities for extending existing standards.
 
-Despite the scale of global biodiversity repositories, many datasets remain difficult for
-
-automated systems to interpret because key metadata fields are incomplete, data
-
-quality indicators are rarely available, and existing standards lack terminology designed
-
-for AI workflows. As a result, researchers and data scientists often spend significant
-
-effort preparing data before it can be used in computational pipelines.
-
-The session will begin with short invited perspectives from biodiversity data
-
-infrastructure providers, standards developers, and AI researchers. These perspectives
-
-will highlight gaps in metadata completeness, missing data quality metrics, and the lack
-
-of machine-actionable descriptors needed for automated analysis.
-
-The discussion will then focus on identifying a community framework for robot-ready
-
-biodiversity data, including: 1) essential metadata fields, 2) standardized data quality
-
-metrics, 3) terminology for AI and machine-generated annotations, and 4) priorities for
-
-extending existing standards.
-
-The goal of the session is to identify community priorities and outline a roadmap toward
-
-robot-ready biodiversity data standards. Outcomes will inform a collaborative
-
-community paper and future standards work within the TDWG community.
+The goal of the session is to identify community priorities and outline a roadmap toward robot-ready biodiversity data standards. Outcomes will inform a collaborative community paper and future standards work within the TDWG community.
 
 ## Workshops
 
