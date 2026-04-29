@@ -130,11 +130,12 @@ Excursions and bioblitz activities are planned in collaboration with Visit Oslo 
 
 **Full day excursions (outside Oslo)**
 
-- [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} (ancient forest) ([map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"})
-- [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} (modern art) ([map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"})
-- [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} (Norwegian food) ([map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"})
+- [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} (ancient forest) ([map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"}) [registration with the tour organizer](https://www.discoverhadeland.no/tdwg/)
+- [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} (modern art) ([map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"}) [registration with the tour organizer](https://www.discoverhadeland.no/tdwg/)
+- [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} (Norwegian food) ([map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"}) [registration with the tour organizer](https://www.discoverhadeland.no/tdwg/)
+- Local excursions in Oslo are under preparation, and will be added here later...
 
-**Half day excursions**
+**Half-day excursions**
 
 - Island hopping
 - Museum collection tours, including Økern
@@ -144,7 +145,7 @@ Excursions and bioblitz activities are planned in collaboration with Visit Oslo 
 
 ### Before and after conference excursions
 
-Please book directly with the tour organizer for discounted prices (by email: [martine@nddm.no](mailto:martine@nddm.no)). **Note booking deadline: 2026-05-10!**
+Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/) for discounted prices. (Contact email: [martine@nddm.no](mailto:martine@nddm.no)). **Note booking deadline: 2026-05-10!**
 
 - Pre-conference (15 Sept - 20 Sept): [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
 - Post-conference (26 Sept - 2 October): [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
