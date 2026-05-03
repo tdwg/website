@@ -24,7 +24,7 @@ If you are being harassed or witnessed something inappropriate, would like to fi
 
 ## Additional considerations
 
-**Authors and Presenters** should conform to the highest standards of scientific attribution and citation in their abstracts and presentations (see TDWG's [Terms of Use](/about/terms-of-use/). All authors connected to a presentation and its associated abstract must be aware of and agree with the information presented. Obtaining consent from all authors associated with the presentation is the responsibility of the lead author. The presenter of a submitted abstract must have the intention of attending and participating in the conference and must be fully registered before the final acceptance of their abstract for publication and scheduling in the program.
+**Authors and Presenters** should conform to the highest standards of scientific attribution and citation in their abstracts and presentations (see TDWG's [Terms of Use](/about/terms-of-use/)). All authors connected to a presentation and its associated abstract must be aware of and agree with the information presented. Obtaining consent from all authors associated with the presentation is the responsibility of the lead author. The presenter of a submitted abstract must have the intention of attending and participating in the conference and must be fully registered before the final acceptance of their abstract for publication and scheduling in the program.
 
 Authors are solely responsible for using original images/graphics that they own or otherwise have permission to use. If your slides or poster require either a license (e.g., from [Creative Commons](https://creativecommons.org/about/cclicenses/)) or are unable to be shared, these warnings must be displayed on affected media.
 
