@@ -24,7 +24,7 @@ Interest, Task, and Maintenance Groups are the driving force for developing and 
 
 The TDWG community spans the globe, which makes scheduling any single real-time event challenging for some people. Some groups will solve this problem by holding their “session” twice -- once for each hemisphere (East/West) -- increasing the likelihood for participants to join. We will also record each session and post the videos promptly on [TDWG’s YouTube channel](https://www.youtube.com/@tdwg).
 
-All sessions will be held in the two weeks between 11 and 22 May. Everybody is welcome, and registration is free but **you must register** to receive the Zoom link.
+All sessions will be held in the two weeks between 11 and 22 May. Everybody is welcome, and registration is free but **you must register** to receive the Zoom link. 
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://static.tdwg.org/images/sessions/2026/working-sessions-2026.png" target="_blank">
