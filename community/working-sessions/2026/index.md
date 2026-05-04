@@ -54,7 +54,7 @@ Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378
 </p>
 -- **END COMMENT** -->
 
-**Right click this link to download the [Working Sessions schedule](2026-tdwg-working-sessions.ics) as an ics file that you can import into your calendar.**
+**Right click this link to download the [Working Sessions schedule](2026-tdwg-working-sessions.ics) as an ics file that you can import into your calendar.**  Please note, downloading the schedule does NOT register you for the session. You must click the Zoom register link in each event separately, or click the button-links in the table below.
 
 ### Sessions
 
