@@ -9,7 +9,7 @@ background:
 
 ---
 
-_Last updated: 2026-04-13_
+_Last updated: 2026-05-04_
 
 ## What are the TDWG Working Sessions?
 
