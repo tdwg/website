@@ -54,6 +54,8 @@ Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378
 </p>
 -- **END COMMENT** -->
 
+**Right click this link to download the [Working Sessions schedule](2026-tdwg-working-sessions.ics) as an ics file that you can import into your calendar.**
+
 ### Sessions
 
 Here below is the list of working sessions for this year, including links to the group charters and session times in your local time zone. Click on the link(s) to register for the session(s) you want to attend.
