@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TDWG//2026 Working Sessions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 TDWG Working Sessions
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:2c559ce8-e8b0-4b36-b526-057610767fcb@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260512T080000Z
+DTEND:20260512T090000Z
+SUMMARY:TDWG WS: Standards Mapping TG - East
+URL:https://us06web.zoom.us/meeting/register/1hy6qwXKQfe5aiG9_ShZBA
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/1hy6qwXKQfe5aiG9_ShZBA
+END:VEVENT
+BEGIN:VEVENT
+UID:245d6318-383e-4494-ae2f-1d38e32cebf7@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260512T130000Z
+DTEND:20260512T140000Z
+SUMMARY:TDWG WS: Environmental Samples and eDNA TG
+URL:https://us06web.zoom.us/meeting/register/GE4asMwkRtyVbwrtYzaiNA
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/GE4asMwkRtyVbwrtYzaiNA
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef1cb40-5564-42d9-afc6-49828c6fca92@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260512T180000Z
+DTEND:20260512T190000Z
+SUMMARY:TDWG WS: Standards Mapping TG - West
+URL:https://us06web.zoom.us/meeting/register/UWlhgh2eS3Osjeur6JBSlA
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/UWlhgh2eS3Osjeur6JBSlA
+END:VEVENT
+BEGIN:VEVENT
+UID:054ccfa6-e0f2-4d17-aafe-6ac0188a7998@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260512T210000Z
+DTEND:20260512T220000Z
+SUMMARY:TDWG WS: Data Quality TG 2 - West
+URL:https://us06web.zoom.us/meeting/register/-Nm57Xt5T6a8JLH-eVmkUQ
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/-Nm57Xt5T6a8JLH-eVmkUQ
+END:VEVENT
+BEGIN:VEVENT
+UID:6141387f-86b1-4630-8251-75967d81088e@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260513T100000Z
+DTEND:20260513T110000Z
+SUMMARY:TDWG WS: Sensitive Species TG - East
+URL:https://us06web.zoom.us/meeting/register/AmQ63-ygRB-stAlOM7A5Zw
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/AmQ63-ygRB-stAlOM7A5Zw
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7c9b57-13c1-4934-ae69-e586a05e39b7@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260513T160000Z
+DTEND:20260513T170000Z
+SUMMARY:TDWG WS: Minimum Information Digital Specimen TG
+URL:https://us06web.zoom.us/meeting/register/gjvBrrGIRLuaFfmGSe4J7g
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/gjvBrrGIRLuaFfmGSe4J7g
+END:VEVENT
+BEGIN:VEVENT
+UID:073049b1-9243-4a85-a12e-920ee98ce8b9@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260513T173000Z
+DTEND:20260513T190000Z
+SUMMARY:TDWG WS: Fundraising and Partnerships Subcommittee - West
+URL:https://us06web.zoom.us/meeting/register/oOfm-zn5QM6wdfIvHB4Vog
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/oOfm-zn5QM6wdfIvHB4Vog
+END:VEVENT
+BEGIN:VEVENT
+UID:bb288301-6ec8-4859-a938-c0bd04843700@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260513T210000Z
+DTEND:20260513T220000Z
+SUMMARY:TDWG WS: Earth Sciences and Paleobiology IG - West
+URL:https://us06web.zoom.us/meeting/register/ELOkUO9oTQ2uw6FpdTXTKw
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/ELOkUO9oTQ2uw6FpdTXTKw
+END:VEVENT
+BEGIN:VEVENT
+UID:4213b547-a5f9-4ec4-8a19-324d3c0fab56@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260513T220000Z
+DTEND:20260513T230000Z
+SUMMARY:TDWG WS: Sensitive Species TG - West
+URL:https://us06web.zoom.us/meeting/register/_KmAbFJOR62i-Aqthbmg5Q
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/_KmAbFJOR62i-Aqthbmg5Q
+END:VEVENT
+BEGIN:VEVENT
+UID:bbff9d4e-c505-4ea0-b687-88b370425f80@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260514T110000Z
+DTEND:20260514T120000Z
+SUMMARY:TDWG WS: Invasive Species TG
+URL:https://us06web.zoom.us/meeting/register/-cIW2fvvTP6GCDPrF4S6Uw
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/-cIW2fvvTP6GCDPrF4S6Uw
+END:VEVENT
+BEGIN:VEVENT
+UID:8e25922e-d560-48ed-a05c-86efdb8c8838@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260514T130000Z
+DTEND:20260514T140000Z
+SUMMARY:TDWG WS: Earth Sciences and Paleobiology IG - East
+URL:https://us06web.zoom.us/meeting/register/YqhxRC3XSkqVDLzhiba0PA
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/YqhxRC3XSkqVDLzhiba0PA
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e07336-596f-4904-a607-e5b11bbb371e@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260515T130000Z
+DTEND:20260515T140000Z
+SUMMARY:TDWG WS: Latimer Core MG
+URL:https://us06web.zoom.us/meeting/register/K0_boPduR0-bfDX44aReWg
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/K0_boPduR0-bfDX44aReWg
+END:VEVENT
+BEGIN:VEVENT
+UID:fdfec61c-35f8-4525-b693-7af66d9ce6bb@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260518T090000Z
+DTEND:20260518T100000Z
+SUMMARY:TDWG WS: Realm and Biome TG
+URL:https://us06web.zoom.us/meeting/register/0p-xJHHnSG-3Pu-qfjjokA
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/0p-xJHHnSG-3Pu-qfjjokA
+END:VEVENT
+BEGIN:VEVENT
+UID:6b144e65-5d50-4730-a501-3bef72cca5c9@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260518T123000Z
+DTEND:20260518T133000Z
+SUMMARY:TDWG WS: Darwin Core MG - East
+URL:https://us06web.zoom.us/meeting/register/26np83d2QAqqkjLWKoRuHg
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/26np83d2QAqqkjLWKoRuHg
+END:VEVENT
+BEGIN:VEVENT
+UID:9c4b8f01-0f3f-4755-bf9d-a63227755bd0@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260518T140000Z
+DTEND:20260518T150000Z
+SUMMARY:TDWG WS: Mineralogy Extension TG - East
+URL:https://us06web.zoom.us/meeting/register/ZqKfWR9aQt2gdA6hlS48IQ
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/ZqKfWR9aQt2gdA6hlS48IQ
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b3a4e6-6dcb-4a35-87f7-dc05027d2b6e@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260518T230000Z
+DTEND:20260519T000000Z
+SUMMARY:TDWG WS: Mineralogy Extension TG - West
+URL:https://us06web.zoom.us/meeting/register/6lH7ZU2iQIicLP_FZSRVrQ
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/6lH7ZU2iQIicLP_FZSRVrQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b20ea9-71ae-4a70-9333-afd3b4b31b06@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260519T000000Z
+DTEND:20260519T010000Z
+SUMMARY:TDWG WS: Darwin Core MG - West
+URL:https://us06web.zoom.us/meeting/register/VAWXqcVxQDeud8Bo_t90zA
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/VAWXqcVxQDeud8Bo_t90zA
+END:VEVENT
+BEGIN:VEVENT
+UID:8e5c2fd5-a953-43d9-bd94-01b0c4cdd3c6@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260519T140000Z
+DTEND:20260519T150000Z
+SUMMARY:TDWG WS: Data Quality TG 2 - East
+URL:https://us06web.zoom.us/meeting/register/B6ogjde9QY-IQ70AzQfyOQ
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/B6ogjde9QY-IQ70AzQfyOQ
+END:VEVENT
+BEGIN:VEVENT
+UID:a28a6ffe-9c19-4b0e-8601-2c0366d90359@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260520T123000Z
+DTEND:20260520T140000Z
+SUMMARY:TDWG WS: Taxon Concept Schema MG
+URL:https://us06web.zoom.us/meeting/register/jgEpiOYXRI-iDuT8s8zRig
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/jgEpiOYXRI-iDuT8s8zRig
+END:VEVENT
+BEGIN:VEVENT
+UID:1c26b708-efbd-48b0-bbb4-7722bdcb0d37@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260520T150000Z
+DTEND:20260520T160000Z
+SUMMARY:TDWG WS: Image Quality and AI-Readiness TG
+URL:https://us06web.zoom.us/meeting/register/VIIIcAKfTPGkkOSYPUuMpw
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/VIIIcAKfTPGkkOSYPUuMpw
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e2e122-fdb1-4313-969a-55b497ed601f@tdwg.org
+DTSTAMP:20260501T183758Z
+DTSTART:20260520T170000Z
+DTEND:20260520T180000Z
+SUMMARY:TDWG WS: Audiovisual Core MG
+URL:https://us06web.zoom.us/meeting/register/WouJXzZkQ8yJteV4y3hk3Q
+DESCRIPTION:Zoom Registration: https://us06web.zoom.us/meeting/register/WouJXzZkQ8yJteV4y3hk3Q
+END:VEVENT
+END:VCALENDAR
