@@ -52,9 +52,11 @@ Use this [ICAL link](https://calendar.google.com/calendar/ical/0ffc3f474b4a46378
     <img src="https://static.tdwg.org/images/sessions/2025/week-2-thm.png" alt="Working Sessions week 2" width="500" style="padding: 3px">
   </a>
 </p>
--- **END COMMENT** -->
+
 
 **Right click this link to download the [Working Sessions schedule](2026-tdwg-working-sessions.ics) as an ics file that you can import into your calendar.**  _Please note, importing the schedule into your calendar does NOT register you for the session. You must click the Zoom register link in each event separately, or click the button-links in the table below._
+
+-- **END COMMENT** -->
 
 ### Sessions
 
