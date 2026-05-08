@@ -14,18 +14,18 @@ _Last updated: 2026-0-08_
 
 ## Registration links
 
-### In-person
+**In-person**
 
-<a style="text-decoration:none;border-radius:3px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2dacee;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">Register to participate in-person</a>
+<a style="text-decoration:none;border-radius:3px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">In-person</a>
 
 
-### Virtual participants
+**Virtual participants**
 
-<a style="text-decoration:none;border-radius:3px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/86kgamwy" data-reactroot="">Register to participate virtually</a>
+<a style="text-decoration:none;border-radius:3px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/86kgamwy" data-reactroot="">Virtual</a>
 
-### Daily passes
+**Daily passes**
 
-<a style="text-decoration:none;border-radius:3px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/avka5u27" data-reactroot="">Register for daily passes</a>
+<a style="text-decoration:none;border-radius:3px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/avka5u27" data-reactroot="">Daily</a>
 
 ## Terms and Conditions
 
