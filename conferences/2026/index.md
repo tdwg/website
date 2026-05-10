@@ -126,7 +126,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 ### Wednesday excursions
 
-Excursions and bioblitz activities are planned in collaboration with Visit Oslo and Visit Hadeland.
+Excursions and bioblitz activities are planned in collaboration with Visit Oslo and Discover Hadeland.
 
 **Full day excursions (outside Oslo)**
 
@@ -145,10 +145,10 @@ Excursions and bioblitz activities are planned in collaboration with Visit Oslo 
 
 ### Before and after conference excursions
 
-Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/) for discounted prices. (Contact email: [martine@nddm.no](mailto:martine@nddm.no)). **Note booking deadline: 2026-05-10!**
+Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/) for discounted prices. (Contact email: [martine@nddm.no](mailto:martine@nddm.no)). **Booking deadline: 2026-06-10! (extended)**
 
-- Pre-conference (15 Sept - 20 Sept): [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days). _Book before 2026-05-10_
-- Post-conference (26 Sept - 2 October): [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days). _Book before 2026-05-10_
+- Pre-conference (15 Sept - 20 Sept): [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days).
+- Post-conference (26 Sept - 2 October): [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days).
 
 ## Suggestions for places to see in Oslo
 
