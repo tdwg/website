@@ -22,7 +22,11 @@ We expect to have abstracts reviewed and acceptances communicated to authors by 
 
 Please send any questions to the **[conference organizers](mailto:conf-organizers@tdwg.or)**.
 
-**In-person** registration covers:
+### In-person
+
+<a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">In-person</a>
+
+In-person registration covers:
 
 - Access to the conference program 
 - Social events (ice-breaker Sunday evening, welcome reception Monday evening, and a social sauna Wednesday evening)
@@ -31,24 +35,27 @@ Please send any questions to the **[conference organizers](mailto:conf-organizer
 - For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 - Early access to session videos
 
-<a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">In-person</a>
+### Virtual
 
-**Virtual** registration covers:
+<a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/86kgamwy" data-reactroot="">Virtual</a>
+
+Virtual registration covers:
 
 - Access to the conference program 
 - Links to the live session stream (via Zoom)
 - Early access to session videos (posted for 4-12 hours after the end of a session)
 - For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 
-<a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/86kgamwy" data-reactroot="">Virtual</a>
+### Daily
 
-**Daily** registration covers:
+Daily registration covers:
+
+<a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/avka5u27" data-reactroot="">Daily</a>
 
 - Access to the conference program for the day of registration
 - Box lunch for that day
 - For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 
-<a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/avka5u27" data-reactroot="">Daily</a>
 
 ## Terms and Conditions
 
