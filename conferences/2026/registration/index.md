@@ -10,18 +10,25 @@ layout: home_alt
 toc: true
 ---
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-13_
 
 ## Registration links
 
-**In-person**  <a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">In-person</a>
+Registration for TDWG 2026 is now open! If you are submitting an abstract for a presentation or poster, please use the same email address in your abstract submission and your registration. (All presenting authors must be registered and your email address is what links your abstract to your registration.) 
 
+We expect to have abstracts reviewed and acceptances communicated to authors by the end of June.  Early bird registration will end 14 July.
+
+Please send any questions to the **[conference organizers](mailto:conf-organizers@tdwg.or)**.
+
+**In-person**  <a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">In-person</a>
 
 **Virtual participants**  <a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/86kgamwy" data-reactroot="">Virtual</a>
 
 **Daily passes**  <a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/avka5u27" data-reactroot="">Daily</a>
 
 ## Terms and Conditions
+
+All conference participants must agree to _Terms and Conditions_ below.
 
 ### Code of Conduct
 
