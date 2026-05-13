@@ -27,9 +27,11 @@ _Last updated: 2026-0-08_
 
 I agree to abide by the TDWG [Code of Conduct](https://www.tdwg.org/conferences/2026/code-of-conduct/) and interact with other participants in a respectful manner. I understand that if I violate the Code of Conduct I can be removed and barred from the conference and will not be issued a refund of my registration fees or other expenses.
 
-### Consent to appear in published videos
+### Consent to appear in published videos and images
 
 I acknowledge that if I make a presentation, it will become publicly accessible on the TDWG YouTube channel, unless I communicate my objection to the conference organizers prior to 2026-05-31 and we agree that an accommodation can be made. If an accommodation is not agreed, my presentation will either be converted to a poster or withdrawn/removed from the program.
+
+I also acknowledge and consent that if I attend the conference in person, I might appear in the session videos that will eventually become publicly viewable on the TDWG YouTube channel or in images that appear on the TDWG website or in social media posts to promote the conference.
 
 ### Refunds
 
