@@ -41,12 +41,12 @@ Cancellations received before 2026-09-07 will receive a 90% refund. After that d
 
 Member discount codes have been emailed to current (2026) individual and institutional TDWG members. Each discount code is unqiue and provides a $75 USD discount on full professional registration for individual members up to five affiliates from an institutional member. If your institution is a [TDWG member](/about/membership/#institutional-members-2026), please coordinate use of discount codes with your institution's primary contact.
 
-TDWG subsidises paticipation for individuals who are 
- - student
- - post-doc or retired
+TDWG subsidises paticipation for individuals who are a:
+ - student,
+ - post-doc or retired,
  - from a country the UN/World Bank categorizes as having a [Low or Lower-middle income economy](https://data360.worldbank.org/en/economies#by-incomegroup).
 
-The registration fees for these categories are well below the distributed per-person cost of the conference and lower any combination discounts afforded to full professional participants.
+The registration fees for these categories are well below the per-person cost of the conference and lower than any combination of discounts afforded to full professional participants.
 
 
 
