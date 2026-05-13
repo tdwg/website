@@ -10,7 +10,7 @@ layout: home_alt
 toc: true
 ---
 
-_Last updated: 2026-0-08_
+_Last updated: 2026-05-12_
 
 ## Registration links
 
