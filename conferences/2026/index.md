@@ -31,7 +31,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 12 March 2026_
+_Last updated 13 May 2026_
 
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
@@ -82,6 +82,8 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 - University of Oslo Natural History Museum
 - GBIF Norway
 - Norwegian Biodiversity Information Center<br />&nbsp;
+
+## [Registration is now open!](/conferences/2026/registration/)
 
 ## Conference event schedule
 
