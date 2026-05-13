@@ -47,7 +47,3 @@ TDWG subsidises paticipation for individuals who are a:
  - from a country the UN/World Bank categorizes as having a [Low or Lower-middle income economy](https://data360.worldbank.org/en/economies#by-incomegroup).
 
 The registration fees for these categories are well below the per-person cost of the conference and lower than any combination of discounts afforded to full professional participants.
-
-
-
-
