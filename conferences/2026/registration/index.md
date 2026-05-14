@@ -10,7 +10,7 @@ layout: home_alt
 toc: true
 ---
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-14_
 
 
 **Registration for TDWG 2026 is now open!**
