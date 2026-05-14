@@ -12,15 +12,25 @@ toc: true
 
 _Last updated: 2026-05-13_
 
-## Registration links
 
 Registration for TDWG 2026 is now open! 
+
+Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 24 September.
+Special registration rates are available for TDWG members, post-docs, and students. Heavily discounted pricing is also offered for participants from low and lower-middle income countries. Not able to attend in person? A virtual conference registration option is available.
+
+{:.alert .alert-info}
+Early bird discount available until Tuesday 14 July 9:59am UTC-12
+
+### Presenting authors
+All content contributors (presenting authors) must be registered for at least virtual participation to remain in the program.
 
 If you are submitting an abstract for a presentation or poster, please use the same email address in your abstract submission and your registration. (All presenting authors must be registered and your email address is what links your abstract to your registration.) 
 
 We expect to have abstracts reviewed and acceptances communicated to authors by the end of June.  Early bird registration will end 14 July.
 
 Please send any questions to the **[conference organizers](mailto:conf-organizers@tdwg.or)**.
+
+## Registration options
 
 ### In-person
 
@@ -56,6 +66,19 @@ Daily registration covers:
 - Box lunch for that day
 - For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 
+## About the conference
+
+The program for TDWG 2026 will be composed of keynote presentations, symposia, discussion sessions, working meetings, workshops, and posters. There will be up to five sessions running concurrently each day.
+
+The conference will run over 4 days from 21 to 24 September with excursions planned before and after the conference plus a full day of excursions on Wednesday 23. You need to book excursions separately. 
+
+## Keynote speakers
+
+This year we will have three keynote speakers:
+
+- Professor Tanha Berger-Wolf, Ohio State University, USA
+- Dr. Susanna Raghild, Andersdatter Siri, UiT The Arctic University of Norway
+- Dr. Ramona Walls, Critical Path Institute, Tucson, Arizona, USA
 
 ## Terms and Conditions
 
