@@ -12,16 +12,23 @@ layout: home_alt
 toc: true
 
 featured: # description, href, img
-    title: Call for abstracts
+    title: Registration is now open!
     description: >
-       Call for abstracts has now opened!
-    img: https://static.tdwg.org/conferences/2026/images/kayak-igardsbrevatnet.jpeg
-    href: ./submissions/abstract-instructions
+       * Registration for **[TDWG 2026 is now open](./registration)**. Early bird ends on 14 July 9:59am UTC-12.
+       
+       * Also a reminder that the [call for abstracts](./submissions/call-for-abstracts) closes **next week on 20 May 2026, 23:59 UTC-12**
+       
+    img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
+    href: ./registration
 
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
 #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
 #     new_window: true
+   - text: Registration
+     href: './registration'
+   - text: Submit your abstract
+     href: './submissions/call-for-abstracts'
    - text: Conference event schedule
      href: '#conference-event-schedule'
    - text: Excursions
@@ -31,7 +38,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 13 May 2026_
+_Last updated 14 May 2026_
 
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
@@ -82,8 +89,6 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 - University of Oslo Natural History Museum
 - GBIF Norway
 - Norwegian Biodiversity Information Center<br />&nbsp;
-
-## [Registration is now open!](/conferences/2026/registration/)
 
 ## Conference event schedule
 
