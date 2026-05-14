@@ -13,7 +13,7 @@ toc: true
 _Last updated: 2026-05-13_
 
 
-Registration for TDWG 2026 is now open! 
+**Registration for TDWG 2026 is now open!**
 
 Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 24 September.
 Special registration rates are available for TDWG members, post-docs, and students. Heavily discounted pricing is also offered for participants from low and lower-middle income countries. Not able to attend in person? A virtual conference registration option is available.
@@ -70,7 +70,7 @@ Daily registration covers:
 
 The program for TDWG 2026 will be composed of keynote presentations, symposia, discussion sessions, working meetings, workshops, and posters. There will be up to five sessions running concurrently each day.
 
-The conference will run over 4 days from 21 to 24 September with excursions planned before and after the conference plus a full day of excursions on Wednesday 23. You need to book excursions separately. 
+The conference will run over 4 days from 21 to 24 September with excursions planned before and after the conference, plus a full day of excursions on Wednesday 23. You will need to book excursions separately. 
 
 ## Keynote speakers
 
