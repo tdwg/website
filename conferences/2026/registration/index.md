@@ -9,11 +9,10 @@ background:
 layout: home_alt
 toc: true
 ---
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-15_
 
 ## Registration for TDWG 2026
-
-Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 24 September.
+Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 25 September.
 
 Special registration rates are available for TDWG members, post-docs, and students. Heavily discounted pricing is also offered for participants from [low and lower-middle income countries](https://data360.worldbank.org/en/economies#by-incomegroup). Not able to attend in person? A virtual conference registration option is available.
 
@@ -31,17 +30,17 @@ We expect to have abstracts reviewed and acceptances communicated to authors by 
 ## Registration options
 
 ### In-person
-
 <a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/" data-reactroot="">In-person</a>
 
 In-person registration covers:
 
-- Access to the conference program 
-- Social events (ice-breaker Sunday evening, welcome reception Monday evening, and a social sauna Wednesday evening)
-- Four (4) days of conference sessions
-- Box lunches on Monday, Tuesday, Thursday, and Friday
-- For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
-- Early access to session videos
+* Access to the conference program
+* Social events (ice-breaker Sunday evening, welcome reception Monday evening, and a social sauna Wednesday evening)
+* Four (4) days of conference sessions, and one excursion day (some excursions have an additional registration cost)
+* Box lunches on Monday, Tuesday, Thursday, and Friday
+* For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
+* Early access to session videos
+
 
 ### Virtual
 
@@ -49,20 +48,20 @@ In-person registration covers:
 
 Virtual registration covers:
 
-- Access to the conference program 
-- Links to the live session stream (via Zoom)
-- Early access to session videos (posted for 4-12 hours after the end of a session)
-- For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
+* Access to the conference program
+* Links to the live session stream (via Zoom)
+* Early access to session videos (posted for 4-12 hours after the end of a session)
+* For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 
 ### Daily
 
-Daily registration covers:
-
 <a style="text-decoration:none;border-radius:6px;padding:10px;width:200px;font-family:Helvetica;line-height:1.6;font-weight:400;font-size:16px;display:block;text-align:center;background-color:#2069bc;color:#FFFFFF" target="_blank" rel="noreferrer" href="https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/avka5u27" data-reactroot="">Daily</a>
 
-- Access to the conference program for the day of registration
-- Box lunch for that day
-- For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
+Daily registration covers:
+
+* Access to the conference program for the day of registration
+* Lunch for that day (box lunch on the first day, and sit-down lunch the other three days)
+* For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 
 ### Discounts
 
@@ -77,28 +76,28 @@ TDWG subsidises participation for individuals who are:
 The registration fees for these categories are well below the per-person cost of the conference and lower than any combination of discounts afforded to full professional participants.
 
 ## About the Conference
+
 The program for TDWG 2026 will be composed of keynote presentations, symposia, discussion sessions, working meetings, workshops, and posters. There will be up to five sessions running concurrently each day.
 
-The conference will run over 4 days from 21 to 24 September with excursions planned before and after the conference plus a full day of excursions on Wednesday 23\. You need to [book excursions separately](/conferences/2026/#excursions).
+The conference will run over 4 days from 21 to 25 September with a full day of excursions on Wednesday 23, and tours planned before and after the conference . You need to [book excursions and tours separately](https://www.tdwg.org/conferences/2026/#excursions).
 
 ## Keynote speakers
 
-This year we will count with three key speakers
-
+This year we will have three keynote speakers
 || Professor Tanya Berger-Wolf <br/> Ohio State University, USA | Dr Susanna Raghild Andersdatter Siri <br/> UiT The Arctic University of Norway, Norway   | Dr Ramona Walls <br/> Critical Path Institute, USA ||
 
 
 ## Terms and Conditions
 
-To register, all conference participants must agree to Terms and Conditions below.
+To register, all conference participants must agree to the Terms and Conditions below.
 
 ### Code of Conduct
 
-I agree to abide by the TDWG [Code of Conduct](/conferences/2026/code-of-conduct/) and interact with other participants in a respectful manner. I understand that if I violate the Code of Conduct I can be removed and barred from the conference and will not be issued a refund of my registration fees or other expenses.
+I agree to abide by the TDWG [Code of Conduct](/conferences/2026/code-of-conduct/) and interact with other participants in a respectful manner. I understand that if I violate the Code of Conduct, I can be removed and barred from the conference and will not be issued a refund of my registration fees or other expenses.
 
 ### Consent to appear in published videos and images
 
-I acknowledge that if I make a presentation, it will become publicly accessible on the TDWG YouTube channel, unless I communicate my objection to the conference organizers prior to 2026-05-31 and we agree that an accommodation can be made. If accommodation is not agreed, my presentation will either be converted to a poster or withdrawn/removed from the program.  
+I acknowledge that if I make a presentation, it will become publicly accessible on the TDWG YouTube channel, unless I communicate my objection to the conference organizers prior to 2026-05-31 and we agree that an accommodation can be made. If an accommodation is not agreed, my presentation will either be converted to a poster or withdrawn/removed from the program.  
 I also acknowledge and consent that if I attend the conference in person, I might appear in the session videos that will eventually become publicly viewable on the TDWG YouTube channel or in images that appear on the TDWG website or in social media posts to promote the conference.
 
 ### Content contributors
