@@ -85,7 +85,7 @@ The conference will run over 4 days from 21 to 25 September with a full day of e
 
 This year we will have three keynote speakers:
 
-<table style="width: 100%; border="0px"">
+<table style="width: 100%; border: 0px">
 <tbody>
 <tr>
 <td style="width: 33%;">Professor Tanya Berger-Wolf <br/> Ohio State University, USA </td>
