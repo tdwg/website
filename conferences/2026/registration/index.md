@@ -88,9 +88,9 @@ This year we will have three keynote speakers:
 <table style="width: 100%; border: 0px">
 <tbody>
 <tr>
-<td style="width: 33%;">Professor Tanya Berger-Wolf <br/> Ohio State University, USA </td>
-<td style="width: 33%;">Dr Susanna Raghild Andersdatter Siri <br/> UiT The Arctic University of Norway, Norway </td>
-<td>Dr Ramona Walls <br/> Critical Path Institute, USA</td>
+<td style="vertical-align: top;">Professor Tanya Berger-Wolf <br/> Ohio State University, USA </td>
+<td style="vertical-align: top;">Dr Susanna Raghild Andersdatter Siri <br/> UiT The Arctic University of Norway, Norway </td>
+<td style="vertical-align: top;">Dr Ramona Walls <br/> Critical Path Institute, USA</td>
 </tr>
 </tbody>
 </table>
