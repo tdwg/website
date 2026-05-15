@@ -84,7 +84,9 @@ The conference will run over 4 days from 21 to 25 September with a full day of e
 ## Keynote speakers
 
 This year we will have three keynote speakers
-|| Professor Tanya Berger-Wolf <br/> Ohio State University, USA | Dr Susanna Raghild Andersdatter Siri <br/> UiT The Arctic University of Norway, Norway   | Dr Ramona Walls <br/> Critical Path Institute, USA ||
+
+| :--- | :--- | :--- |
+| Professor Tanya Berger-Wolf <br/> Ohio State University, USA | Dr Susanna Raghild Andersdatter Siri <br/> UiT The Arctic University of Norway, Norway   | Dr Ramona Walls <br/> Critical Path Institute, USA |
 
 
 ## Terms and Conditions
