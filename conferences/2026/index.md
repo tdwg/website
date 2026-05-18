@@ -12,14 +12,14 @@ layout: home_alt
 toc: true
 
 featured: # description, href, img
-    title: Registration is now open!
+    title: Last call. Submit your abstract now! 
     description: >
+       * We have extended the [TDWG2026 Call for Abstracts](/conferences/2026/submissions/abstract-instructions/) deadline to **[26 May 2026, 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). This is the final call, submit your abstract now!**
+       
        * Registration for **[TDWG 2026 is now open](./registration)**. Early bird ends on 14 July 9:59am UTC-12.
        
-       * Also a reminder that the [call for abstracts](./submissions/call-for-abstracts) closes **next week on 20 May 2026, 23:59 UTC-12**
-       
-    img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
-    href: ./registration
+    img: https://static.tdwg.org/conferences/2026/images/kayak-igardsbrevatnet.jpeg
+
 
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
