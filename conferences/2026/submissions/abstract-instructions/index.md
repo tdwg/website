@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-_Last modified date: 7 Apr 2026_
+_Last modified date: 18 May 2026_
 
 ## Call for Abstracts
 
@@ -18,7 +18,7 @@ We invite you to [submit an abstract](/conferences/2026/submissions/call-for-abs
 We strongly encourage you to consider the conference theme: ***Research and Robot-ready Biodiversity Data Standards.***
 
 {:.alert .alert-info}
-**Deadline for abstract submissions is [20 May 2025 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts).**
+**New deadline** for abstract submissions is [26 May 2025 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts).
 
 ## About the Program
 
@@ -38,11 +38,11 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 
 ### Key dates
 
-* Abstract submission opens: 10 Apr 2026
-* Submission deadline: 20 May 2026
+* Submission deadline: 26 May 2026
 * Notification to submitter: Late June 2026
-* Registration opens: Early May 2026
+* Early bird registration closes: 14 Jul 2026
 * Registration deadline for presenters: Late August 2026
+
 
 ## Abstract Submission Instructions
 
@@ -105,7 +105,7 @@ Please proofread your abstract carefully, as the Program Committee administrator
     * You give permission to the organizers of TDWG 2026 to publish this abstract on electronic media and in hardcopy, including the  (i.e., in the abstract book, program, Biodiversity Information Science and Standards (BISS) Journal and poster gallery) if it is accepted for presentation.
     * If your abstract is accepted then you agree to submit an extended version for  TDWG BISS Journal. Instructions for extended abstracts will be made available at a later stage.
 
-**Modification of submission**. You will be able to modify your abstract after submission up until the deadline of [20 May 2026 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). Review of submissions will begin after that date.
+**Modification of submission**. You will be able to modify your abstract after submission up until the deadline of [26 May 2026 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). Review of submissions will begin after that date.
 
 **Multiple submissions**. If you wish to submit more than one abstract, please complete a separate form for each. Presenters may be limited in the number of oral presentations that may be accommodated due to scheduling.
 
