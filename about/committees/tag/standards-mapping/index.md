@@ -14,9 +14,7 @@ A Task Group of [Technical Architecture Group (TAG)](/about/committees/tag/)
 
 ## 1. Convenor
 * [David Fichtmueller](mailto:d.fichtmueller@bgbm.org)
-* [Holly Little](mailto:littleh@si.edu)
-* [Ben Norton](mailto:michaelnorton.ben@gmail.com)
-
+* [Ben Norton](mailto:ben.norton@yale.edu)
 
 ## 2. Core Members
 
@@ -27,16 +25,17 @@ A Task Group of [Technical Architecture Group (TAG)](/about/committees/tag/)
 * Sam Leeflang
 * Ana Niño
 * Hanna Koivula
-
+* Holly Little
+  
 ## 3. Motivation
 
-TDWG offers a large variety of standards, covering many aspects of geo- and biodiversity sciences. Each standard has its own purpose and area of focus, but there are always conceptual overlaps between them. Being able to systematically express and document those overlaps in the form of mappings is important for their interoperability, e.g., when merging data from different sources given in different standards. Mappings also help people who are familiar with one standard to better understand other standards with which they are less accustomed.
+TDWG offers a large variety of standards, covering many aspects of geo- and biodiversity sciences. Each standard has its own purpose and focus, but there are always conceptual overlaps among them. Being able to systematically express and document those overlaps as mappings is important for interoperability, e.g., when merging data from different sources adhering to different standards. Mappings also help people familiar with one standard better understand other standards they are less accustomed to.
 
-However additional efforts are needed to better integrate mappings into the TDWG process and to provide a more comprehensive view of the relationships between the standards. Many standards lack mappings despite a conceptual overlap with others or the mappings that do exist are incomplete, inconsistently specified, and hard to find.
+However, additional efforts are needed to better integrate mappings into the TDWG process and to provide a more comprehensive view of the relationships between the standards. Many standards lack mappings despite a conceptual overlap with others, or the mappings that do exist are incomplete, inconsistently specified, and hard to find.
 
 ## 4. Goals, Outputs, and Outcomes
 
-The tasks of this task group can be grouped into three steps that correspond to the envisioned mappings process. At first mappings are created by the standard creators, then they are expressed in a common format and based on this they can be documented on the TDWG website. The order of the tasks and deliverables described here does not follow these three steps in order, as we consider the decision on a unified way to express mappings as the first and most important step, as both the task relating to the mapping creation and the mapping documentation depend on that outcome. 
+The tasks of this task group can be grouped into three steps that correspond to the envisioned mappings process. At first, mappings are created by the standard creators, then they are expressed in a common format, and based on this, they can be documented on the TDWG website. The order of the tasks and deliverables described here does not follow these three steps in order, as we consider the decision on a unified way to express mappings as the first and most important step, as both the task relating to the mapping creation and the mapping documentation depend on that outcome. 
 
 ![](https://raw.githubusercontent.com/tdwg/standards-mappings/main/media/mapping-process.png)
 
