@@ -19,8 +19,6 @@ A Task Group of the Collections Description Interest Group
 * [Sabine von Mering](mailto:sabine.vonmering@mfn.berlin), Museum für Naturkunde Berlin, DE
 * [Siobhan Leachman](mailto:siobhan.leachman@gmail.com), Wikimedia Aotearoa New Zealand, NZ
 * [Dag Endresen](mailto:dag.endresen@nhm.uio.no), University of Oslo, NO
-* [Ben Norton](michaelnorton.ben@gmail.com), TDWG-TAG Chair, North Carolina, USA
-
 
 ## Core Members
 
@@ -30,11 +28,12 @@ A Task Group of the Collections Description Interest Group
 * Elspeth Haston, Royal Botanic Garden Edinburgh, UK
 * Robert Cubey, Royal Botanic Garden Edinburgh, UK
 * Paul Braun, National Museum of Natural History, Luxembourg, LU
+* Ben Norton, Yale University, North Carolina, USA
 
 
 ## Summary
 
-The Research Expeditions Task Group focuses on creating a model (schema) for a structured and linked open data (LOD) set for research expeditions within the Biodiversity Information Standards. The goal includes finding stable identifier solutions for research expeditions, developing guidelines for describing expeditions in Wikidata, and linking expeditions to various entities like museum objects, participants, and publications. We use Wikidata as it is a collaborative and multilingual platform. It facilitates linking research expeditions to and from collection management systems and data aggregators. By proposing a Wikidata schema, providing guiding examples, and recommending best practices, the task group aims to enhance the accessibility and understanding of data related to expeditions. Stakeholders involved in this initiative range from developers to domain experts, including collection managers and data managers. The strategy involves regular virtual working sessions, GitHub for coordination, collaborative events with the biodiversity informatics community, and reporting progress to the TDWG community. Ultimately, the project seeks to create a dynamic dataset of research expeditions that can answer research questions, allow historical contextualization, and provide insights into the provenance and impacts of collected objects. The task group contributes to the FAIR (Findable, Accessible, Interoperable, Reusable) principles in data management within the natural history and biodiversity research domain.
+The Research Expeditions Task Group focuses on creating a model (schema) for a structured and linked open data (LOD) set for research expeditions within the Biodiversity Information Standards. The goal includes identifying stable identifiers for research expeditions, developing guidelines for describing expeditions in Wikidata, and linking expeditions to entities such as museum objects, participants, and publications. We use Wikidata because it is a collaborative, multilingual platform. It facilitates linking research expeditions to and from collection management systems and data aggregators. By proposing a Wikidata schema, providing guiding examples, and recommending best practices, the task group aims to enhance the accessibility and understanding of expedition-related data—stakeholders involved in this initiative range from developers to domain experts, including collection managers and data managers. The strategy involves regular virtual working sessions, GitHub for coordination, collaborative events with the biodiversity informatics community, and reporting progress to the TDWG community. Ultimately, the project seeks to create a dynamic dataset of research expeditions that can answer research questions, provide historical context, and offer insights into the provenance and impacts of collected objects. The task group contributes to the FAIR (Findable, Accessible, Interoperable, Reusable) principles in data management within the natural history and biodiversity research domain.
 
 
 ## Motivation
