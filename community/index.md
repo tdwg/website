@@ -8,7 +8,7 @@ background:
   by: Denisse Vargas
   href: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/  
 featured: # description, href, img
-  title: Recording of Working Sessions 2026
+  title: Recordings of Working Sessions 2026
   description: >
     TDWG 2026 Working Sessions recordings are now available
   img: https://images.unsplash.com/photo-1641907083047-d3cfb1582f5a
