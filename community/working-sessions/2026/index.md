@@ -81,3 +81,4 @@ Here below is the list of working sessions for this year, including links to the
 | [Sensitive Species TG - West](https://www.tdwg.org/community/dwc/sensitive-species/) | 2026-05-13 | 22:00 |[Watch Video](https://youtu.be/-4g2InjyuD0?si=QraNou5lFlCH2e3v){:.btn .btn-primary}{:target="_blank"} |
 | [Standards Mapping TG - East](/about/committees/tag/standards-mapping/) | 2026-05-12 | 8:00 |[Watch Video](https://youtu.be/9TySO2BriM0?si=V0f0Cz0sXgH1d7JV){:.btn .btn-primary}{:target="_blank"} |
 | [Taxon Concept Schema MG](/community/tnc/) | 2026-05-20 | 12:30 |[Watch Video](https://youtu.be/bL85ZeggBsw?si=PSVC_-HxVx-XGLH7){:.btn .btn-primary}{:target="_blank"} |
+ 
