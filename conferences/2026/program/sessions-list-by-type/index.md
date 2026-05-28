@@ -15,7 +15,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 10 April 2026_
+_Last updated 28 May 2026_
 
 This is the list of proposed sessions for TDWG 2026 Conference and is organized by session type. You can alternatively browse the list of sessions [by track](../sessions-list) which is the preferred way if you want to search for the most suitable session to submit your abstract to. 
 
@@ -37,7 +37,7 @@ Session type
 : Symposium (Open)
 
 Organizers
-: [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America; [Rachel Walcott](mailto:r.walcott@nms.ac.uk), National Museums Scotland
+: [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America; [Rachel Walcott](mailto:r.walcott@nms.ac.uk), National Museums Scotland, Edinburgh; [Gary Motz](mailto:gary.motz@yale.edu), Yale University, United States of America
 
 Natural history collections extend well beyond biological specimens to encompass minerals, rocks, meteorites, fossils, and other geological materials fundamental to understanding Earth systems. Yet data standards development has historically prioritized biodiversity, leaving geological collections underserved and often isolated from broader aggregation and discovery infrastructures.
 
