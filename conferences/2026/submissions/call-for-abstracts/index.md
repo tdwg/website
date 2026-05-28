@@ -9,7 +9,11 @@ background:
 toc: false
 ---
 
-_Last updated 10 April 2026_
+_Last updated 28 May 2026_
+
+{:.alert .alert-info}
+Call for abstracts have now closed.
+Keep an eye in your mailbox for updates on your submission.
 
 <div>
     <div title="Whova event and conference app" id="whova-cfs-widget">
