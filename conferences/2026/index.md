@@ -12,13 +12,13 @@ layout: home_alt
 toc: true
 
 featured: # description, href, img
-    title: Last call. Submit your abstract now! 
+    title: Visa information added! 
     description: >
-       * We have extended the [TDWG2026 Call for Abstracts](/conferences/2026/submissions/abstract-instructions/) deadline to **[26 May 2026, 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts). This is the final call, submit your abstract now!**
+       * Are you attending in person? Please check our new **[Visa information page](/conferences/2026/visa-information)** and start preparing. 
        
-       * Registration for **[TDWG 2026 is now open](./registration)**. Early bird ends on 14 July 9:59am UTC-12.
+       * And don't forget registration for [TDWG 2026 is now open](/conferences/2026/registration). Early bird ends on [Tuesday 14 July 9:59am UTC-12](https://tdwg.link/early-bird-ends).
        
-    img: https://static.tdwg.org/conferences/2026/images/kayak-igardsbrevatnet.jpeg
+    img: https://static.tdwg.org/conferences/2026/images/victoria-terrasse-14-09-02-oslo-ralfr-147.jpg
 
 
 quicklinks: #text, href, new_window
@@ -26,9 +26,9 @@ quicklinks: #text, href, new_window
 #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
 #     new_window: true
    - text: Registration
-     href: './registration'
-   - text: Submit your abstract
-     href: './submissions/call-for-abstracts'
+     href: ./registration
+   - text: "Visa information"
+     href: ./visa-information
    - text: Conference event schedule
      href: '#conference-event-schedule'
    - text: Excursions
