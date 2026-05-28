@@ -8,11 +8,11 @@ background:
   by: Denisse Vargas
   href: https://www.flickr.com/photos/cyanocorax/30668600364/in/pool-tdwg16/  
 featured: # description, href, img
-  title: Working Sessions 2026
+  title: Recording of Working Sessions 2026
   description: >
-    TDWG 2026 Working Sessions are coming up 11 to 22 May. Register now!
+    TDWG 2026 Working Sessions recordings are now available
   img: https://images.unsplash.com/photo-1641907083047-d3cfb1582f5a
-  href: ./working-sessions/2026
+  href: /news/2026/working-sessions-recordings
 toc: true
 list:
 - label: MG
