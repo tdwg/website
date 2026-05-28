@@ -57,7 +57,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
  function onYouTubeIframeAPIReady() {
   var player;
   player = new YT.Player('muteYouTubeVideoPlayer', {
-    videoId: 'KXXbhqD2W58', // YouTube Video ID
+    videoId: 'KXXbhqD2W58',    // YouTube Video ID
     width: 560,               // Player width (in px)
     height: 316,              // Player height (in px)
     playerVars: {
