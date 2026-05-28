@@ -843,7 +843,7 @@ Session type
 : Symposium (Open)
 
 Organizers
-: [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America
+: [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America; [Rachel Walcott](mailto:r.walcott@nms.ac.uk), National Museums Scotland
 
 Natural history collections extend well beyond biological specimens to encompass minerals, rocks, meteorites, fossils, and other geological materials fundamental to understanding Earth systems. Yet data standards development has historically prioritized biodiversity, leaving geological collections underserved and often isolated from broader aggregation and discovery infrastructures.
 
