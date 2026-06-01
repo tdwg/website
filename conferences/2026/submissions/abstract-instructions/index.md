@@ -126,10 +126,7 @@ If your abstract is accepted, the presenter will need to register for the confer
 **Publishing in BISS**. Authors of Whova abstracts accepted for presentation at the conference must publish an extended abstract in TDWG’s Pensoft publication, *Biodiversity Information Science and Standards [(BISS)](https://biss.pensoft.net/collections)*. Instructions for publication will be provided in June.
 
 ## Questions
-Do you have questions or need help?  
-Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org).
-
+Do you have questions or need help?
 To contribute an abstract to a closed session without a prior invitation, first [contact the session organizer](/conferences/2026/program/sessions-list) for permission.
 
-For  general questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or go to the [conference homepage](/conferences/2026/).
-
+For questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or go to the [conference homepage](/conferences/2026/).
