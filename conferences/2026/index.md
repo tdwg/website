@@ -27,7 +27,7 @@ quicklinks: #text, href, new_window
 #     new_window: true
    - text: Registration
      href: ./registration
-   - text: "Visa information"
+   - text: "**New:** Visa information"
      href: ./visa-information
    - text: Conference event schedule
      href: '#conference-event-schedule'
@@ -38,7 +38,7 @@ quicklinks: #text, href, new_window
 
 ---
 
-_Last updated 14 May 2026_
+_Last updated 1 Jun 2026_
 
 {:.float-end .ms-5}
 ![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)

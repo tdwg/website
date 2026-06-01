@@ -9,16 +9,16 @@ background:
 toc: true
 ---
 
-_Last modified date: 18 May 2026_
+_Last modified date: 1 Jun 2026_
 
+{:.alert .alert-info}
+Call for abstracts have now closed.
+Keep an eye in your mailbox for updates on your submission.
 ## Call for Abstracts
 
 We invite you to [submit an abstract](/conferences/2026/submissions/call-for-abstracts/) for a presentation or poster at TDWG 2026 in Oslo, Norway, 21-25 September. Submissions should reflect the work that TDWG does and the ways that data standards and biodiversity informatics contribute to our understanding and documentation of biodiversity.
 
 We strongly encourage you to consider the conference theme: ***Research and Robot-ready Biodiversity Data Standards.***
-
-{:.alert .alert-info}
-**New deadline** for abstract submissions is [26 May 2025 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts).
 
 ## About the Program
 
