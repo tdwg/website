@@ -9,16 +9,16 @@ background:
 toc: true
 ---
 
-_Last modified date: 18 May 2026_
+_Last modified date: 1 Jun 2026_
 
+{:.alert .alert-info}
+Call for abstracts have now closed.
+Keep an eye in your mailbox for updates on your submission.
 ## Call for Abstracts
 
 We invite you to [submit an abstract](/conferences/2026/submissions/call-for-abstracts/) for a presentation or poster at TDWG 2026 in Oslo, Norway, 21-25 September. Submissions should reflect the work that TDWG does and the ways that data standards and biodiversity informatics contribute to our understanding and documentation of biodiversity.
 
 We strongly encourage you to consider the conference theme: ***Research and Robot-ready Biodiversity Data Standards.***
-
-{:.alert .alert-info}
-**New deadline** for abstract submissions is [26 May 2025 23:59 UTC-12](https://tdwg.link/deadline-call-for-abstracts).
 
 ## About the Program
 
@@ -126,10 +126,7 @@ If your abstract is accepted, the presenter will need to register for the confer
 **Publishing in BISS**. Authors of Whova abstracts accepted for presentation at the conference must publish an extended abstract in TDWG’s Pensoft publication, *Biodiversity Information Science and Standards [(BISS)](https://biss.pensoft.net/collections)*. Instructions for publication will be provided in June.
 
 ## Questions
-Do you have questions or need help?  
-Please direct questions about abstract submission to [editor@tdwg.org](mailto:editor@tdwg.org).
-
+Do you have questions or need help?
 To contribute an abstract to a closed session without a prior invitation, first [contact the session organizer](/conferences/2026/program/sessions-list) for permission.
 
-For  general questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or go to the [conference homepage](/conferences/2026/).
-
+For questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or go to the [conference homepage](/conferences/2026/).

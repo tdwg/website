@@ -33,6 +33,3 @@ If you need an [invitation letter](https://www.udi.no/en/word-definitions/invita
 The [Norwegian Ministry of Foreign Affairs](https://www.norway.no/){:target="_blank"} website provides a list of Norwegian Embassies by country.
 
 Should you need further assistance, the [International Staff Mobility Office](https://www.uio.no/english/about/vacancies/ismo/services/){:target="_blank"} (ISMO) at the University of Oslo may be able to help. Please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) if you want to use this service. Most attendees in need of a visa won’t need this service.
-
-{:.alert .alert-warning}
-Do not contact ISMO directly. The Organizing Committee needs to start that process on your behalf.

@@ -910,7 +910,7 @@ Session type
 : Poster (Open)
 
 Organizers
-: [Javier Molina](mailto:javier.molina@csiro.au), Atlas of Living Australia / CSIRO, Australia; [Elie Mario Saliba](mailto:elie.saliba@mnhn.fr), Lebanon; [Meghan Balk](mailto:meghan.balk@gmail.com), Natural History Museum, University of Oslo, Norway
+: [Elie Mario Saliba](mailto:elie.saliba@mnhn.fr), Lebanon; [Meghan Balk](mailto:meghan.balk@gmail.com), Natural History Museum, University of Oslo, Norway
 
 All those submitting poster abstracts will be required to create a virtual poster and will have the option to upload a short video to accompany it. 
 
