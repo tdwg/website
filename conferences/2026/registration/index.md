@@ -79,7 +79,7 @@ The registration fees for these categories are well below the per-person cost of
 
 The program for TDWG 2026 will be composed of keynote presentations, symposia, discussion sessions, working meetings, workshops, and posters. There will be up to five sessions running concurrently each day.
 
-The conference will run over 4 days from 21 to 25 September with a full day of excursions on Wednesday 23, and tours planned before and after the conference . You need to [book excursions and tours separately](https://www.tdwg.org/conferences/2026/#excursions).
+The conference will run over 4 days from 21 to 25 September with a full day of excursions on Wednesday 23, and tours planned before and after the conference. You need to [book excursions and tours separately](/conferences/2026/excursions/).
 
 ## Keynote speakers
 

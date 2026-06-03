@@ -12,13 +12,15 @@ layout: home_alt
 toc: true
 
 featured: # description, href, img
-    title: Visa information added! 
+    title: Excursions and Visa information added
     description: >
-       * Are you attending in person? Please check our new **[Visa information page](/conferences/2026/visa-information)** and start preparing. 
+       * Planning your Wednesday? Please check our new **[Excursions page](/conferences/2026/excursions)** for full-day tours, half-day Oslo options, and suggested places to visit.
        
-       * And don't forget registration for [TDWG 2026 is now open](/conferences/2026/registration). Early bird ends on [Tuesday 14 July 9:59am UTC-12](https://tdwg.link/early-bird-ends).
+       * Are you attending in person? Please also review the **[Visa information page](/conferences/2026/visa-information)** and start preparing.
        
-    img: https://static.tdwg.org/conferences/2026/images/victoria-terrasse-14-09-02-oslo-ralfr-147.jpg
+       * Registration for [TDWG 2026 is now open](/conferences/2026/registration). Early bird ends on [Tuesday 14 July 9:59am UTC-12](https://tdwg.link/early-bird-ends).
+
+    img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
 
 
 quicklinks: #text, href, new_window
@@ -29,28 +31,58 @@ quicklinks: #text, href, new_window
      href: ./registration
    - text: "**New:** Visa information"
      href: ./visa-information
-   - text: Conference event schedule
-     href: '#conference-event-schedule'
-   - text: Excursions
-     href: '#excursions'
-   - text: Code of Conduct
-     href: ./code-of-conduct/
+   - text: "**New:** Excursions"
+     href: ./excursions
 
 ---
 
 _Last updated 1 Jun 2026_
 
-{:.float-end .ms-5}
-![TDWG 2026 Logo](https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png)
+<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175">
 
 {:.lead}
 Join us for TDWG 2026 in Oslo from 21 to 25 September
 
 This year's conference theme is:
 
-{:.display-6}
+{:.lead}
 _"Research and Robot-ready Biodiversity Data Standards"_
 
+<style>
+  #muteYouTubeVideoPlayer {
+    max-width: 100%;
+  }
+
+  .tdwg-2026-host-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem 1.25rem;
+    align-items: center;
+    margin: 1.75rem 0 1.25rem;
+  }
+
+  .tdwg-2026-host-logos a {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 72px;
+  }
+
+  .tdwg-2026-host-logos img {
+    max-height: 62px;
+    max-width: 190px;
+    object-fit: contain;
+    width: 100%;
+  }
+
+  .tdwg-2026-actions {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+    margin: 1rem 0 2rem;
+  }
+</style>
 <div id="muteYouTubeVideoPlayer"></div>
 <script async src="https://www.youtube.com/iframe_api"></script>
 <script>
@@ -85,10 +117,18 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 // See https://stackoverflow.com/questions/35044594/youtube-how-to-present-embed-video-with-sound-muted/41045251#41045251
 </script>
 
-**Hosted by:**
-- University of Oslo Natural History Museum
-- GBIF Norway
-- Norwegian Biodiversity Information Center<br />&nbsp;
+<div class="tdwg-2026-host-logos" aria-label="TDWG 2026 host institutions">
+  <a href="https://www.uio.no/english/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/uio-logo.png" alt="University of Oslo"></a>
+  <a href="https://www.nhm.uio.no/english/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/nhm-oslo-logo.png" alt="Natural History Museum, University of Oslo"></a>
+  <a href="https://www.gbif.no/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/gbif-norway-logo.png" alt="GBIF Norway"></a>
+  <a href="https://artsdatabanken.no/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/artsdatabanken-logo.png" alt="Norwegian Biodiversity Information Centre"></a>
+</div>
+
+<div class="tdwg-2026-actions">
+  <a class="btn btn-primary btn-lg" href="./registration">Register now</a>
+  <a class="btn btn-outline-secondary" href="./visa-information">Visa information</a>
+  <a class="btn btn-outline-secondary" href="./excursions">Excursions information</a>
+</div>
 
 ## Conference event schedule
 
@@ -109,13 +149,25 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 3. **Tuesday to Friday, 22-25 September (main conference venue)**: [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"})
 4. **Wednesday, 23 September (excursion day)**: Excursions and bioblitz activities for conference participants.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width: 100%;"></iframe>
 
-## Local transport in Oslo
+## Getting around Oslo
 
-- [Ruter route maps](https://ruter.no/en/journey/route-maps/){:target="_blank"} for metro, buses, trams, and ferries.
+### Public transport
 
-<img src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="420">
+Ruter operates public transport in Oslo, including metro, bus, tram, train, and ferry services.
+
+- Use [Ruter's journey planner](https://reise.ruter.no/){:target="_blank"} for routes and times.
+- [Ruter route maps](https://ruter.no/en/journey/route-maps/){:target="_blank"} show metro, bus, tram, and ferry networks.
+- Tickets can be bought in the Ruter app, at Oslo S, from Ruter customer service, or from selected kiosks such as Joker and Narvesen.
+- Most recommended Oslo excursions are in Zone 1. Travel from Oslo Airport to the city centre is Zone 4N.
+- If you buy a ticket in the app without creating a profile, keep a screenshot of the ticket as proof of purchase.
+
+### Oslo Pass
+
+The [Oslo Pass](https://www.visitoslo.com/en/activities-and-attractions/oslo-pass/){:target="_blank"} can be useful if you plan to visit several museums or attractions. Conference attendees are eligible for a 20% discount. Please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) to request the discount code. See [what is included in the Oslo Pass](https://www.visitoslo.com/en/activities-and-attractions/oslo-pass/whats-included/){:target="_blank"}.
+
+<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="420">
 
 ## Hotels in Oslo
 
@@ -128,53 +180,6 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 | [Clarion Hotel Oslo](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-oslo/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_oslo.png" alt="Clarion Hotel Oslo" width="220"> | 255 | [500 m from Central Station](https://maps.app.goo.gl/KK8Y1U9yWzJcasHXA){:target="_blank"}, [1.2 km to the venue](https://maps.app.goo.gl/PyMgtR1EzmBfsfAo7){:target="_blank"} |
 | [Clarion Hotel The Hub](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
 | [Home Hotel Folketeateret](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
-
-## Excursions
-
-### Wednesday excursions
-
-Excursions and bioblitz activities are planned in collaboration with Visit Oslo and Discover Hadeland.
-
-**Full day excursions (outside Oslo)**
-
-- [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} (ancient forest) ([map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"}) [registration with the tour organizer](https://www.discoverhadeland.no/tdwg/)
-- [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} (modern art) ([map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"}) [registration with the tour organizer](https://www.discoverhadeland.no/tdwg/)
-- [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} (Norwegian food) ([map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"}) [registration with the tour organizer](https://www.discoverhadeland.no/tdwg/)
-- Local excursions in Oslo are under preparation, and will be added here later...
-
-**Half-day excursions**
-
-- Island hopping
-- Museum collection tours, including Økern
-- Nordmarka forest
-- Museums downtown (National Museum, Munch Museum, Nobel Peace Center)
-- Ferry to Bygdøy to visit the museums (Folk Museum, Viking Museum) and hike around the Oslofjord
-
-### Before and after conference excursions
-
-Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/) for discounted prices. (Contact email: [martine@nddm.no](mailto:martine@nddm.no)). **Booking deadline: 2026-06-10! (extended)**
-
-- Pre-conference (15 Sept - 20 Sept): [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf), Kirkenes to Bergen (6 days).
-- Post-conference (26 Sept - 2 October): [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf), Oslo to Tromsø (7 days).
-
-## Suggestions for places to see in Oslo
-
-- [Google map of places to see](https://maps.app.goo.gl/YwHAZ2HrRVg5ZFpRA){:target="_blank"}
-- [UiO History Museum](https://www.historiskmuseum.no/english/){:target="_blank"} ([map](https://maps.app.goo.gl/DHNExDybLi217y598){:target="_blank"})
-- [UiO Natural History Museum](https://www.nhm.uio.no/english/index.html){:target="_blank"} ([map](https://maps.app.goo.gl/GPHaEV2NTj3xa4cL6){:target="_blank"})
-- [UiO Botanical Garden](https://www.nhm.uio.no/english/exhibitions/botanical-garden/){:target="_blank"} ([map](https://maps.app.goo.gl/kfTpfy7HLqRrd8GUA){:target="_blank"})
-- Tøyen Park walk ([map](https://maps.app.goo.gl/w2uE1u4wRrMpnLkt6){:target="_blank"})
-- Deichman Library ([map](https://maps.app.goo.gl/HJNNx9F8HG7nKjvD9){:target="_blank"})
-- Opera House ([map](https://maps.app.goo.gl/fGRdVk1sXKoZYup19){:target="_blank"})
-- Palace gardens ([map](https://maps.app.goo.gl/xEiiL83pCDzWXdFM6){:target="_blank"})
-- Karl Johans gate ([map](https://maps.app.goo.gl/5ahHFKyGoZPSEVPz9){:target="_blank"}) and Torggata ([map](https://maps.app.goo.gl/Q73hDkkUnZmmwvMYA){:target="_blank"})
-- Akerselva river walk ([map](https://maps.app.goo.gl/pXn1BfLgKvKuxuu47){:target="_blank"})
-- Telthusbakken old houses ([map](https://maps.app.goo.gl/nEMUqPvzv33P9scG9){:target="_blank"})
-- Vigeland Sculpture Park ([map](https://maps.app.goo.gl/wZsb1ZFrDzCv6Uxd9){:target="_blank"})
-- Ekeberg Sculpture Park ([map](https://maps.app.goo.gl/pNFPJNZpE8SQLuuj6){:target="_blank"})
-- Folkemuseet, Bygdøy ([map](https://maps.app.goo.gl/EezNXeDiGxDciVud8){:target="_blank"})
-- Saunas at the Opera House
-- [Events happening in Oslo](https://www.visitoslo.com/en/whats-on/events/?CategoryIds=505552%2C506042%2C519862%2C506032%2C513572%2C505792%2C500602%2C508172%2C508182%2C502032%2C507222%2C509172%2C507212%2C507232%2C502693%2C506922%2C506802){:target="_blank"}
 
 ## Code of Conduct
 
