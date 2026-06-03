@@ -18,16 +18,6 @@ Wednesday, 23 September is excursion day at TDWG 2026. Full-day excursions outsi
 {:.alert .alert-info}
 Some excursions require separate booking or on-site coordination. Please check the details below before making plans.
 
-## Full-day excursions
-
-These excursions take place outside Oslo. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"}.
-
-| Excursion | Focus | Details |
-| :---- | :---- | :---- |
-| [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} | Ancient forest | [Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"} |
-| [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} | Modern art | [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"} |
-| [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} | Norwegian food | [Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"} |
-
 ## Before and after the conference
 
 Discounted longer tours are also available before and after TDWG 2026. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"} or contact [martine@nddm.no](mailto:martine@nddm.no).
@@ -40,10 +30,22 @@ Booking deadline: **2026-06-10**.
 | [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf){:target="_blank"} | 15-20 September | Kirkenes to Bergen, 6 days |
 | [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf){:target="_blank"} | 26 September-2 October | Oslo to Tromsø, 7 days |
 
+## Full-day excursions
+
+These excursions take place outside Oslo. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"}.
+
+| Excursion | Focus | Details |
+| :---- | :---- | :---- |
+| [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} | Ancient forest | [Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"} |
+| [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} | Modern art | [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"} |
+| [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} | Norwegian food | [Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"} |
+
 ## Half-day excursions in Oslo
 
 <div class="alert alert-info" markdown="1">
-Please [sign up for half-day Oslo option excursions](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"} so we can estimate interest and coordinate group activities.
+Please sign up for half-day Oslo option excursions so we can estimate interest and coordinate group activities.
+
+<a class="btn btn-outline-secondary btn-sm mt-2" href="https://forms.gle/4cvZuktoK9aRJPvz6" target="_blank" rel="noopener noreferrer">Sign up</a>
 </div>
 
 <div class="row g-3" markdown="1">
@@ -172,8 +174,6 @@ BirdLife Oslo and Akershus may help coordinate a birding excursion. Details will
 
 **Good for:** birding, local nature, guided observation  
 **Duration:** to be confirmed
-
-[Sign up for half-day Oslo options](https://forms.gle/4cvZuktoK9aRJPvz6){:.btn .btn-secondary}{:target="_blank"}
 
 </div>
 </div>
