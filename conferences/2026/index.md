@@ -118,10 +118,10 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 </script>
 
 <div class="tdwg-2026-host-logos" aria-label="TDWG 2026 host institutions">
-  <a href="https://www.uio.no/english/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/conferences/2026/uio-logo.png" alt="University of Oslo"></a>
-  <a href="https://www.nhm.uio.no/english/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/conferences/2026/nhm-oslo-logo.png" alt="Natural History Museum, University of Oslo"></a>
-  <a href="https://www.gbif.no/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/conferences/2026/gbif-norway-logo.png" alt="GBIF Norway"></a>
-  <a href="https://artsdatabanken.no/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/conferences/2026/artsdatabanken-logo.png" alt="Norwegian Biodiversity Information Centre"></a>
+  <a href="https://www.uio.no/english/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/uio-logo.png" alt="University of Oslo"></a>
+  <a href="https://www.nhm.uio.no/english/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/nhm-oslo-logo.png" alt="Natural History Museum, University of Oslo"></a>
+  <a href="https://www.gbif.no/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/gbif-norway-logo.png" alt="GBIF Norway"></a>
+  <a href="https://artsdatabanken.no/" target="_blank" rel="noopener noreferrer"><img src="https://static.tdwg.org/conferences/2026/images/excursions/artsdatabanken-logo.png" alt="Norwegian Biodiversity Information Centre"></a>
 </div>
 
 <div class="tdwg-2026-actions">
