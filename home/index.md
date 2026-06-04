@@ -12,11 +12,13 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
+    * Planning your Wednesday or your activities before and after TDWG 2026 conference? Please check our new **[Excursions page](/conferences/2026/excursions)** for tours, excursions, and suggested places to visit.
+    
     * Are you attending TDWG 2026 in person? Please check our new **[Visa information page](/conferences/2026/visa-information)** and start preparing. 
 
     * And don't forget registration for [TDWG 2026 is now open](/conferences/2026/registration). Early bird ends on [Tuesday 14 July 9:59am UTC-12](https://tdwg.link/early-bird-ends).
 
-  img: https://static.tdwg.org/conferences/2026/images/victoria-terrasse-14-09-02-oslo-ralfr-147.jpg
+  img: https://static.tdwg.org/conferences/2026/images/the-twist-kistefos-arvid-hoidahl-visit-oslo.jpg
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.

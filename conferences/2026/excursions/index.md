@@ -3,30 +3,30 @@ title: Excursions
 description: >
   Excursions, tours, and suggested places to visit during TDWG 2026 in Oslo
 background:
-  img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
-  by: Visit Norway / Field Productions
-  href: https://www.visitnorway.com/listings/vigeland-sculpture-park/2799/
+  img: https://static.tdwg.org/conferences/2026/images/the-twist-kistefos-arvid-hoidahl-visit-oslo.jpg
+  by: Arvid Høydal - Visit Oslo
+  href: https://www.visitoslo.com/en/product/?tlp=3467443&name=Kistefos-Museum-and-Sculpture-Park
 layout: home_alt
 toc: true
+
+quicklinks: #text, href, new_window
+  #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
+  #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
+  #     new_window: true
+  - text: Getting around Oslo
+    href: /conferences/2026/#getting-around-oslo
 ---
-_Last updated: 2026-06-02_
+_Last updated: 2026-06-04_
 
 ## Excursions at TDWG 2026
+This year's excursions are organized as multiple-day before and after the conference and, full-day and half-day excursions on Wednesday, 23 September. 
 
-Wednesday, 23 September is excursion day at TDWG 2026. Full-day excursions outside Oslo are arranged with Discover Hadeland, while half-day options in Oslo highlight museums, the fjord, parks, collections, and city walks. For public transport, ticketing, and Oslo Pass information, see [Getting around Oslo](/conferences/2026/#getting-around-oslo).
+Multiple-day and full-day excursions outside Oslo are arranged with Discover Hadeland, while half-day options in Oslo highlight museums, the fjord, parks, collections, and city walks organized by the local committee. 
 
-{:.alert .alert-info}
-Some excursions require separate booking or on-site coordination. Please check the details below before making plans.
+For public transport, ticketing, and Oslo Pass information, see [Getting around Oslo](/conferences/2026/#getting-around-oslo).
 
-## Full-day excursions
-
-These excursions take place outside Oslo. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"}.
-
-| Excursion | Focus | Details |
-| :---- | :---- | :---- |
-| [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} | Ancient forest | [Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"} |
-| [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} | Modern art | [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"} |
-| [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} | Norwegian food | [Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"} |
+{:.alert .alert-warning}
+Some excursions require separate booking or on-site coordination. Please review carefully the information below before making any plans.
 
 ## Before and after the conference
 
@@ -40,11 +40,24 @@ Booking deadline: **2026-06-10**.
 | [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf){:target="_blank"} | 15-20 September | Kirkenes to Bergen, 6 days |
 | [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf){:target="_blank"} | 26 September-2 October | Oslo to Tromsø, 7 days |
 
+
+## On Wednesday 23 September
+## Full-day excursions
+These excursions take place outside Oslo. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"}.
+
+| Excursion | Focus | Details |
+| :---- | :---- | :---- |
+| [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} | Ancient forest | [Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"} |
+| [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} | Modern art | [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"} |
+| [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} | Norwegian food | [Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"} |
+
 ## Half-day excursions in Oslo
 
-<div class="alert alert-info" markdown="1">
-Please [sign up for half-day Oslo option excursions](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"} so we can estimate interest and coordinate group activities.
-</div>
+{:.alert .alert-info}
+Please sign up for half-day Oslo option excursions so we can estimate interest and coordinate group activities.
+
+<br/>
+[Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
 
 <div class="row g-3" markdown="1">
 <div class="col-md-6" markdown="1">
@@ -173,16 +186,16 @@ BirdLife Oslo and Akershus may help coordinate a birding excursion. Details will
 **Good for:** birding, local nature, guided observation  
 **Duration:** to be confirmed
 
-[Sign up for half-day Oslo options](https://forms.gle/4cvZuktoK9aRJPvz6){:.btn .btn-secondary}{:target="_blank"}
-
 </div>
 </div>
 </div>
 </div>
 
-## Suggestions for places to see in Oslo
+<br/>
+[Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
 
-- [Google map of places to see](https://maps.app.goo.gl/YwHAZ2HrRVg5ZFpRA){:target="_blank"}
+## Suggestions for things to do and see in Oslo
+
 - [UiO History Museum](https://www.historiskmuseum.no/english/){:target="_blank"} ([map](https://maps.app.goo.gl/DHNExDybLi217y598){:target="_blank"})
 - [UiO Natural History Museum](https://www.nhm.uio.no/english/index.html){:target="_blank"} ([map](https://maps.app.goo.gl/GPHaEV2NTj3xa4cL6){:target="_blank"})
 - [UiO Botanical Garden](https://www.nhm.uio.no/english/exhibitions/botanical-garden/){:target="_blank"} ([map](https://maps.app.goo.gl/kfTpfy7HLqRrd8GUA){:target="_blank"})
@@ -198,3 +211,7 @@ BirdLife Oslo and Akershus may help coordinate a birding excursion. Details will
 - Folkemuseet, Bygdøy ([map](https://maps.app.goo.gl/EezNXeDiGxDciVud8){:target="_blank"})
 - Saunas at the Opera House
 - [Events happening in Oslo](https://www.visitoslo.com/en/whats-on/events/?CategoryIds=505552%2C506042%2C519862%2C506032%2C513572%2C505792%2C500602%2C508172%2C508182%2C502032%2C507222%2C509172%2C507212%2C507232%2C502693%2C506922%2C506802){:target="_blank"}
+
+<a href="https://maps.app.goo.gl/YwHAZ2HrRVg5ZFpRA" target="_blank">
+    <img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/suggestions-for-places-to-see-in-oslo.png" alt="Google map of places to see" width="640">
+</a>

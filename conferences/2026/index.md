@@ -14,13 +14,13 @@ toc: true
 featured: # description, href, img
     title: Excursions and Visa information added
     description: >
-       * Planning your Wednesday? Please check our new **[Excursions page](/conferences/2026/excursions)** for full-day tours, half-day Oslo options, and suggested places to visit.
+       * Planning your Wednesday or your activities before and after the conference? Please check our new **[Excursions page](/conferences/2026/excursions)** for tours, excursions, and suggested places to visit. 
        
        * Are you attending in person? Please also review the **[Visa information page](/conferences/2026/visa-information)** and start preparing.
        
        * Registration for [TDWG 2026 is now open](/conferences/2026/registration). Early bird ends on [Tuesday 14 July 9:59am UTC-12](https://tdwg.link/early-bird-ends).
 
-    img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
+    img: https://static.tdwg.org/conferences/2026/images/the-twist-kistefos-arvid-hoidahl-visit-oslo.jpg
 
 
 quicklinks: #text, href, new_window
@@ -29,10 +29,12 @@ quicklinks: #text, href, new_window
 #     new_window: true
    - text: Registration
      href: ./registration
-   - text: "**New:** Visa information"
+   - text: "Visa information"
      href: ./visa-information
    - text: "**New:** Excursions"
      href: ./excursions
+   - text: "**Updated:** Getting around Oslo"
+     href: ./#getting-around-oslo  
 
 ---
 
@@ -46,7 +48,7 @@ Join us for TDWG 2026 in Oslo from 21 to 25 September
 This year's conference theme is:
 
 {:.lead}
-_"Research and Robot-ready Biodiversity Data Standards"_
+**_"Research and Robot-ready Biodiversity Data Standards"_**
 
 <style>
   #muteYouTubeVideoPlayer {
@@ -149,7 +151,7 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 3. **Tuesday to Friday, 22-25 September (main conference venue)**: [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"})
 4. **Wednesday, 23 September (excursion day)**: Excursions and bioblitz activities for conference participants.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width: 100%;"></iframe>
+<iframe class="d-block mx-auto" src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width: 100%;"></iframe>
 
 ## Getting around Oslo
 
@@ -157,17 +159,22 @@ _"Research and Robot-ready Biodiversity Data Standards"_
 
 Ruter operates public transport in Oslo, including metro, bus, tram, train, and ferry services.
 
-- Use [Ruter's journey planner](https://reise.ruter.no/){:target="_blank"} for routes and times.
-- [Ruter route maps](https://ruter.no/en/journey/route-maps/){:target="_blank"} show metro, bus, tram, and ferry networks.
-- Tickets can be bought in the Ruter app, at Oslo S, from Ruter customer service, or from selected kiosks such as Joker and Narvesen.
-- Most recommended Oslo excursions are in Zone 1. Travel from Oslo Airport to the city centre is Zone 4N.
-- If you buy a ticket in the app without creating a profile, keep a screenshot of the ticket as proof of purchase.
+- Use [Ruter# journey planner](https://reise.ruter.no/en){:target="_blank"} to plan and move around Oslo.
+- [Ruter route maps](https://ruter.no/en/plan-journey/timetables-and-route-maps){:target="_blank"} show metro, bus, tram, and ferry networks.
+- Tickets can be bought in the [Ruter app](https://ruter.no/en/plan-journey/the-ruter-app){:target="_blank"}, at Oslo S, from Ruter customer service, or from selected kiosks such as Joker and Narvesen.
+- Most recommended [Oslo excursions](/2026/excursions/#half-day-excursions-in-oslo) are in Zone 1. Travel from Oslo Airport to the city centre is Zone 4N.
+
+{:.alert .alert-warning}
+**Important:** Non-Norwegian residents should not create a profile in the app. For these cases you MUST take a screenshot of the ticket, that will be the only proof that you purchased it.
+
+<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="600">
 
 ### Oslo Pass
 
-The [Oslo Pass](https://www.visitoslo.com/en/activities-and-attractions/oslo-pass/){:target="_blank"} can be useful if you plan to visit several museums or attractions. Conference attendees are eligible for a 20% discount. Please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) to request the discount code. See [what is included in the Oslo Pass](https://www.visitoslo.com/en/activities-and-attractions/oslo-pass/whats-included/){:target="_blank"}.
+The [Oslo Pass](https://www.visitoslo.com/en/activities-and-attractions/oslo-pass/){:target="_blank"} can be useful if you plan to visit several museums or attractions. See [what is included in the Oslo Pass](https://www.visitoslo.com/en/activities-and-attractions/oslo-pass/whats-included/){:target="_blank"}. 
 
-<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="420">
+{:.alert .alert-info}
+Conference attendees are eligible for a **20% discount**. Please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) to request the discount code.
 
 ## Hotels in Oslo
 
