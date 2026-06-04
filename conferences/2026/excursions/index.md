@@ -107,6 +107,11 @@ You can visit independently or as a group. A student guide may be arranged if th
 
 The Botanical Garden at Tøyen is Oslo's largest botanical garden, with greenhouses, themed gardens, and peaceful walking paths close to the city centre. The Natural History Museum showcases Norway's geology, minerals, fossils, dinosaurs, and biodiversity.
 
+The tour of the Botanical Garden is scheduled for 13:00 on Wednesday. Maximum 30 people.
+
+The tour of the Museum is scheduled after lunch, with the time to be confirmed later. Maximum 20 people.
+
+
 **Good for:** biodiversity, gardens, museum collections  
 **Duration:** 1-2 hours for a garden or museum tour; 2-3 hours for behind-the-scenes collections if arranged
 
