@@ -26,7 +26,7 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 
 ## What you need to know
 
-* Submissions include oral presentations (15 min. is standard but other durations may be chosen), lightning talks (5 min.), and poster presentations.
+* Submissions include oral presentations (ranging from 7 to 15 min), lightning talks (5 min.), and poster presentations.
 * Submissions from virtual attendees for oral presentations must be pre-recorded and uploaded before the conference. In-person attendees can optionally pre-record their content. All posters must be submitted as a digital version and uploaded before the conference. Instructions for  presentations will be added separately, later on.
 * Selection of abstracts is done by a competitive review process. Not all submissions will be accepted due to time and space constraints. The authors of abstracts not accepted for in person presentation may still be offered the opportunity to upload a video recording of their presentation for on-demand access.
 * Accepted abstracts will be published on the conference platform and in the conference program.
@@ -127,6 +127,7 @@ If your abstract is accepted, the presenter will need to register for the confer
 
 ## Questions
 Do you have questions or need help?
+
 To contribute an abstract to a closed session without a prior invitation, first [contact the session organizer](/conferences/2026/program/sessions-list) for permission.
 
 For questions about the conference please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) or go to the [conference homepage](/conferences/2026/).
