@@ -11,6 +11,28 @@ toc: true
 ---
 _Last updated: 2026-06-02_
 
+<style>
+.excursion-card {
+  overflow: hidden;
+}
+
+.excursion-card > p {
+  margin: 0;
+}
+
+.excursion-card img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  width: 100%;
+}
+
+.excursion-meta {
+  color: #6c757d;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+}
+</style>
+
 ## Excursions at TDWG 2026
 
 Wednesday, 23 September is excursion day at TDWG 2026. Full-day excursions outside Oslo are arranged with Discover Hadeland, while half-day options in Oslo highlight museums, the fjord, parks, collections, and city walks. For public transport, ticketing, and Oslo Pass information, see [Getting around Oslo](/conferences/2026/#getting-around-oslo).
@@ -25,20 +47,91 @@ Discounted longer tours are also available before and after TDWG 2026. Please [b
 {:.alert .alert-warning}
 Booking deadline: **2026-06-10**.
 
-| Tour | Dates | Route |
-| :---- | :---- | :---- |
-| [Norwegian Coastal Express](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf){:target="_blank"} | 15-20 September | Kirkenes to Bergen, 6 days |
-| [Signature Voyage - North Cape Line](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf){:target="_blank"} | 26 September-2 October | Oslo to Tromsø, 7 days |
+<div class="row g-3 mb-4" markdown="1">
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Norwegian Coastal Express](https://static.tdwg.org/conferences/2026/images/excursions/norwegian-coastal-express.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Norwegian Coastal Express
+
+<div class="excursion-meta">15-20 September · Kirkenes to Bergen · 6 days</div>
+
+[Tour details](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf){:.btn .btn-secondary}{:target="_blank"}
+
+</div>
+</div>
+</div>
+
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Signature Voyage - North Cape Line](https://static.tdwg.org/conferences/2026/images/excursions/north-cape-line.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Signature Voyage - North Cape Line
+
+<div class="excursion-meta">26 September-2 October · Oslo to Tromsø · 7 days</div>
+
+[Tour details](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf){:.btn .btn-secondary}{:target="_blank"}
+
+</div>
+</div>
+</div>
+</div>
 
 ## Full-day excursions
 
 These excursions take place outside Oslo. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"}.
 
-| Excursion | Focus | Details |
-| :---- | :---- | :---- |
-| [Dokka delta](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:target="_blank"} | Ancient forest | [Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:target="_blank"} |
-| [Kistefos Museum](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:target="_blank"} | Modern art | [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:target="_blank"} |
-| [Taste of Hadeland](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:target="_blank"} | Norwegian food | [Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:target="_blank"} |
+<div class="row g-3 mb-4" markdown="1">
+<div class="col-md-4" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Dokka delta](https://static.tdwg.org/conferences/2026/images/excursions/dokka-delta.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Dokka delta
+
+<div class="excursion-meta">Focus: ancient forest</div>
+
+[Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
+[Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
+
+</div>
+</div>
+</div>
+
+<div class="col-md-4" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Kistefos Museum](https://static.tdwg.org/conferences/2026/images/excursions/kistefos-museum.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Kistefos Museum
+
+<div class="excursion-meta">Focus: modern art</div>
+
+[Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
+[Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
+
+</div>
+</div>
+</div>
+
+<div class="col-md-4" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Taste of Hadeland](https://static.tdwg.org/conferences/2026/images/excursions/taste-of-hadeland.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Taste of Hadeland
+
+<div class="excursion-meta">Focus: Norwegian food</div>
+
+[Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
+[Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
+
+</div>
+</div>
+</div>
+</div>
 
 ## Half-day excursions in Oslo
 
@@ -50,7 +143,8 @@ Please sign up for half-day Oslo option excursions so we can estimate interest a
 
 <div class="row g-3" markdown="1">
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![MUNCH museum in Oslo](https://static.tdwg.org/conferences/2026/images/excursions/museums-of-oslo.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Museums of Oslo
@@ -70,7 +164,8 @@ Most major museums are in or near the city centre and can be reached from confer
 </div>
 
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Vigeland Sculpture Park](https://static.tdwg.org/conferences/2026/images/excursions/vigeland-sculpture-park.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Vigeland Sculpture Park
@@ -89,7 +184,8 @@ You can visit independently or as a group. A student guide may be arranged if th
 </div>
 
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Botanical Garden and Natural History Museum](https://static.tdwg.org/conferences/2026/images/excursions/botanical-garden-natural-history-museum.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Botanical Garden and Natural History Museum
@@ -112,7 +208,8 @@ Behind-the-scenes collection visits are still to be arranged.
 </div>
 
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Island hopping in the Oslofjord](https://static.tdwg.org/conferences/2026/images/excursions/oslofjord-island-hopping.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Island Hopping in the Oslofjord
@@ -132,7 +229,8 @@ Line B1 runs year-round from Rådhusbrygge 4 and serves Hovedøya, Bleikøya, Gr
 </div>
 
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Kon-Tiki Museum on Bygdøy](https://static.tdwg.org/conferences/2026/images/excursions/bygdoy-museums.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Bygdøy Museums
@@ -151,7 +249,8 @@ Consider the Kon-Tiki Museum, Norwegian Maritime Museum, Fram Museum, Norwegian 
 </div>
 
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Ekeberg walking route in Oslo](https://static.tdwg.org/conferences/2026/images/excursions/ekeberg-walk.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Walking Tours
@@ -169,7 +268,8 @@ If there is enough interest, local guides may be arranged for selected walks.
 </div>
 
 <div class="col-md-6" markdown="1">
-<div class="card h-100" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Birding excursion](https://static.tdwg.org/conferences/2026/images/excursions/birding.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
 ### Bird trip
