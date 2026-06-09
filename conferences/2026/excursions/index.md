@@ -16,7 +16,7 @@ quicklinks: #text, href, new_window
   - text: Getting around Oslo
     href: /conferences/2026/#getting-around-oslo
 ---
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-09_
 
 <style>
 .excursion-card {
@@ -205,7 +205,7 @@ The Botanical Garden at Tøyen is Oslo's largest botanical garden, with greenhou
 
 The tour of the Botanical Garden is scheduled for 13:00 on Wednesday. Maximum 30 people.
 
-The tour of the Museum is scheduled after lunch, with the time to be confirmed later. Maximum 20 people.
+The tour of the Museum is scheduled after lunch, with the time to be confirmed later. Maximum 20 people. A herbarium tour will be led by Carmen Celine Tyndale Dalseng.
 
 
 **Good for:** biodiversity, gardens, museum collections  
@@ -226,7 +226,7 @@ Behind-the-scenes collection visits are still to be arranged.
 
 ### Island Hopping in the Oslofjord
 
-Explore the inner Oslofjord by ferry with stops at small islands close to the city centre. There may also be an opportunity to run a bioblitz using iNaturalist.
+Explore the inner Oslofjord by ferry with stops at small islands close to the city centre. The tour will be guided by Kristina Bjureke, who has kindly offered to share her knowledge of the Oslofjord islands. There may also be an opportunity to run a bioblitz using iNaturalist.
 
 **Good for:** fjord views, nature, bioblitz activity  
 **Duration:** 4-6 hours; bring lunch
@@ -286,10 +286,12 @@ If there is enough interest, local guides may be arranged for selected walks.
 
 ### Bird trip
 
-BirdLife Oslo and Akershus may help coordinate a birding excursion. Details will be updated when available.
+BirdLife Oslo and Akershus will coordinate a three-hour birding excursion to Østensjøvannet. The trip can take up to 40 participants with two English-speaking guides, split into two groups of 20. A total of 25 binoculars and 4 telescopes will be available for participants.
 
 **Good for:** birding, local nature, guided observation  
-**Duration:** to be confirmed
+**Duration:** 3 hours
+
+The exact start time will be decided later. In September, the guides advise that it is not essential to go very early.
 
 </div>
 </div>
