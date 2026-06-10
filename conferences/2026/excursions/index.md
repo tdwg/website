@@ -322,3 +322,4 @@ The exact start time will be decided later. In September, the guides advise that
 <a href="https://maps.app.goo.gl/YwHAZ2HrRVg5ZFpRA" target="_blank">
     <img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/suggestions-for-places-to-see-in-oslo.png" alt="Google map of places to see" width="640">
 </a>
+ 
