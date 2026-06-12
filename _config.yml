@@ -13,7 +13,7 @@ social:
 # THEME SETTINGS
 theme: minima
 remote_theme: tdwg/petridish
-posts_on_home: false
+posts_on_home: 2
 tweets_on_home: false
 archive_permalink: /news/
 github_edit: master
