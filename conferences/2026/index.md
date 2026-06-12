@@ -12,17 +12,12 @@ layout: home_alt
 toc: true
 
 featured: # description, href, img
-    title: Excursions and Visa information added
+    title: Keep up to date!
     description: >
-       * Planning your Wednesday or your activities before and after the conference? Please check our new **[Excursions page](/conferences/2026/excursions)** for tours, excursions, and suggested places to visit. 
+       * Sponsors and supporters section added to the [conference page](./#sponsors-and-supporters).
        
        * Are you attending in person? Please also review the **[Visa information page](/conferences/2026/visa-information)** and start preparing.
        
-       * Registration for [TDWG 2026 is now open](/conferences/2026/registration). Early bird ends on [Tuesday 14 July 9:59am UTC-12](https://tdwg.link/early-bird-ends).
-
-    img: https://static.tdwg.org/conferences/2026/images/the-twist-kistefos-arvid-hoidahl-visit-oslo.jpg
-
-
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
 #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
@@ -31,9 +26,9 @@ quicklinks: #text, href, new_window
      href: ./registration
    - text: "Visa information"
      href: ./visa-information
-   - text: "**New:** Excursions"
+   - text: "Excursions"
      href: ./excursions
-   - text: "**Updated:** Getting around Oslo"
+   - text: "Getting around Oslo"
      href: ./#getting-around-oslo  
 
 ---
@@ -132,6 +127,33 @@ This year's conference theme is:
   <a class="btn btn-outline-secondary" href="./excursions">Excursions information</a>
 </div>
 
+## Sponsors and supporters
+
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://gbif.org" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="320">
+  </a>
+  <a href="https://picturae.com" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/logo-picturae.png" alt="Picturae" width="190">
+  </a>
+</p>
+<p class="d-flex justify-content-around align-items-center"></p>
+<p class="d-flex justify-content-around align-items-center">
+  <a class="" href="https://www.ala.org.au" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/ala-logo-stacked-rgb.png" alt="Atlas of Living Australia" width="140">
+  </a>
+  <a href="https://pensoft.net" target="_blank">
+    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="140">
+  </a>
+</p>
+
+<p/>
+We have opportunities for exhibitors including table-top exhibition space and two chairs for $1000 per day.
+
+Are you an organization or individual that want to sponsor a student registration, you can do so. We have two options $300 for in person or $100 for virtual.
+
+Please reach out to our TDWG Chair at [chair@tdwg.org](chair@tdwg.org) for more details.
+
 ## Conference event schedule
 
 | Sunday<br />2026-09-20 | Monday<br />2026-09-21 | Tuesday<br />2026-09-22 | Wednesday<br />2026-09-23 | Thursday<br />2026-09-24 | Friday<br />2026-09-25 |
@@ -187,6 +209,10 @@ Conference attendees are eligible for a **20% discount**. Please email [conf-org
 | [Clarion Hotel Oslo](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-oslo/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_oslo.png" alt="Clarion Hotel Oslo" width="220"> | 255 | [500 m from Central Station](https://maps.app.goo.gl/KK8Y1U9yWzJcasHXA){:target="_blank"}, [1.2 km to the venue](https://maps.app.goo.gl/PyMgtR1EzmBfsfAo7){:target="_blank"} |
 | [Clarion Hotel The Hub](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
 | [Home Hotel Folketeateret](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
+
+
+## Excursions
+Planning your Wednesday or your activities before and after the conference? Please check our [Excursions page](/conferences/2026/excursions) for tours, excursions, and suggested places to visit.
 
 ## Code of Conduct
 
