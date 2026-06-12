@@ -13,7 +13,7 @@ _Last updated: 2026-06-11_
 
 ## Conference T-Shirt
 
-Conference T-shirts, with our awesome "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased for $25 USD by anyone attending the conference in-person, as an add-on to registration. Your T-shirt will be available at the registration desk. 
+Conference T-shirts, with our awesome "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased for $25 USD by anyone attending the conference in-person, as an add-on to registration. Your T-shirt order can be picked up at the registration desk. 
 
 **Orders must be placed before 1 September, 2026.**
 
