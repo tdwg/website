@@ -13,7 +13,7 @@ _Last updated: 2026-06-11_
 
 ## Conference T-Shirt
 
-<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tshirt/bottle-green.png" alt="Bottle green T-shirt" width="325">Conference T-shirts, with our troll "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased as an add-on to registration, for $25 USD, by anyone attending the conference in-person. Your T-shirt order can be picked up at the registration desk. 
+<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tshirt/bottle%20green.png" alt="Bottle green T-shirt" width="325">Conference T-shirts, with our troll "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased as an add-on to registration, for $25 USD, by anyone attending the conference in-person. Your T-shirt order can be picked up at the registration desk. 
 
 **Orders must be placed before 1 September, 2026.**
 
