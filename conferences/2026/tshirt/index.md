@@ -13,11 +13,17 @@ _Last updated: 2026-06-11_
 
 ## Conference T-Shirt
 
-Conference T-shirts bearing the TDWG 2026 logo are available in two styles (below) and two colors, bottle green and white.  They can be purchased for $25 USD, as a registration add-on, by anyone attending the conference in-person. Different credit/debit cards can be used to purchase tickets and T-shirts. Your order will be available at the registration desk. 
+Conference T-shirts bearing the TDWG 2026 logo are available in two styles (below) and two colors, bottle green and white.  They can be purchased for $25 USD, as a registration add-on, by anyone attending the conference in-person. Your order will be available at the registration desk. 
 
 **Orders must be placed before 1 September, 2026.**
 
-When you know the style, color and size of your t-shirt(s), [revisit your registration](https://whova.com/portal/registration/5@O35M00sixkPpz3T0N4/){:target="_blank"} and add a T-shirt to your registration order. 
+If you need to purchase your ticket and T-shirt with separate cards, purchase your ticket first and then revisit your registration to add your T-shirt(s).  
+
+If you have already registered, find the email with the subject "Your tickets for TDWG 2026 Conference", and click the button labeled "Add to your order."
+
+If you have not registered yet, visit the [registration page](/conferences/2026/registration/) to find your registration category and the right link to register.
+
+As always, please contact [Conference Organizers](mailto:conf-organizers@tdwg.org] with any questions.
 
 ### The Basic-T (unisex) size chart
 
