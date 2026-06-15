@@ -25,7 +25,7 @@ If you have already registered, find the email with the subject "Your tickets fo
 
 If you have not registered yet, visit the [registration page](/conferences/2026/registration/) to find your registration category and the right link to register.
 
-As always, please contact [Conference Organizers](mailto:conf-organizers@tdwg.org] with any questions.
+As always, please contact [Conference Organizers](mailto:conf-organizers@tdwg.org) with any questions.
 
 ### The Basic-T (unisex) size chart
 
