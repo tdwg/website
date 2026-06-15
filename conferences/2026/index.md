@@ -14,9 +14,12 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * Sponsors and supporters section added to the [conference page](./#sponsors-and-supporters).
+       * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
+       
+       * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
        
        * Are you attending in person? Please also review the **[Visa information page](/conferences/2026/visa-information)** and start preparing.
+    img: https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -130,7 +133,7 @@ This year's conference theme is:
 ## Sponsors and supporters
 
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://gbif.org" target="_blank">
+  <a href="https://gbif.link/25" target="_blank">
     <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="320">
   </a>
   <a href="https://picturae.com" target="_blank">
@@ -148,11 +151,14 @@ This year's conference theme is:
 </p>
 
 <p/>
-We have opportunities for exhibitors including table-top exhibition space and two chairs for $1000 per day.
 
-Are you an organization or individual that want to sponsor a student registration, you can do so. We have two options $300 for in person or $100 for virtual.
+TDWG welcomes your support for the TDWG 2026 meeting in Oslo, Norway. If you would like to support the TDWG community and become an event sponsor or exhibitor, please contact the [TDWG Chair, David Bloom](mailto:chair@tdwg.org).
 
-Please reach out to our TDWG Chair at [chair@tdwg.org](chair@tdwg.org) for more details.
+### Student Sponsorships
+
+Are you interested to support student participation during the meeting in Oslo? Then sponsor a student! Your sponsorship will cover the registration fee for one or more students to attend our meeting in person. There are options for both in-person and virtual participation.
+
+To sponsor a student, simply select the Sponsor a Student option when registering yourself for the meeting or contact the [TDWG Chair](mailto:chair@tdwg.org)  for more information.
 
 ## Conference event schedule
 

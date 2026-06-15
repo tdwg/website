@@ -8,6 +8,14 @@ background:
   href: https://www.visitnorway.com/listings//viewpoint-snohetta/181162/
 layout: home_alt
 toc: true
+
+quicklinks: #text, href, new_window
+  #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
+  #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
+  #     new_window: true
+  - text: Order conference t-shirt
+    href: /conferences/2026/tshirt
+
 ---
 _Last updated: 2026-05-15_
 
@@ -41,6 +49,8 @@ In-person registration covers:
 * For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 * Early access to session videos
 
+{:.alert .alert-info}
+You can now order the conference t-shirt! See [options available and how to order yours](/conferences/2026/tshirt).
 
 ### Virtual
 
