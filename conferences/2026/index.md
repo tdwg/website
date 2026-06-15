@@ -14,9 +14,12 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * Sponsors and supporters section added to the [conference page](./#sponsors-and-supporters).
+       * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
+       
+       * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
        
        * Are you attending in person? Please also review the **[Visa information page](/conferences/2026/visa-information)** and start preparing.
+    img: https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
