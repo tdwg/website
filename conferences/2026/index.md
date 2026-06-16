@@ -14,6 +14,8 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
+       * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/)."
+  
        * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
        
        * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
@@ -27,13 +29,12 @@ quicklinks: #text, href, new_window
 #     new_window: true
    - text: Registration
      href: ./registration
+   - text: "**New:** T-shirt"
+     href: ./tshirt
    - text: "Visa information"
      href: ./visa-information
    - text: "Excursions"
      href: ./excursions
-   - text: "Getting around Oslo"
-     href: ./#getting-around-oslo  
-
 ---
 
 _Last updated 1 Jun 2026_
