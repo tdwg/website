@@ -52,7 +52,7 @@ In-person registration covers:
 <div class="container">
   <div class="row">
     <div class="col-9">
-        <div class="alert alert-info">You can now order the conference t-shirt! See <a href="/conferences/2026/tshirt"> options available and how to order yours</a>.</div>
+        <div class="alert alert-info">You can now order the conference t-shirt! See the <a href="/conferences/2026/tshirt">options available</a>.</div>
     </div>
     <div class="col-2">
         <img class="float-end  img-fluid" src="https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png" alt="Gymimir Standardsen wearing TDWG 2026 T-shirt" width="175"/>
@@ -93,6 +93,14 @@ TDWG subsidises participation for individuals who are:
 * from a country the UN/World Bank categorizes as having a [Low or Lower-middle income economy](https://data360.worldbank.org/en/economies#by-incomegroup).
 
 The registration fees for these categories are well below the per-person cost of the conference and lower than any combination of discounts afforded to full professional participants.
+
+## Add-ons
+
+To purchase a conference T-shirt or pay for the [Bird Trip](/conferences/2026/excursions/#bird-trip) excursion, you can add these to your in-person registration (link above).  
+
+If you need to purchase your ticket and add-ons with separate cards (e.g., business and personal), purchase your ticket first and then revisit your registration to add the additional items. 
+
+If you have already registered, find your confirmation email with the subject “Your tickets for TDWG 2026 Conference”, and click the button labeled “Add to your order.”
 
 ## About the Conference
 
