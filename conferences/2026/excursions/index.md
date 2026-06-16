@@ -290,9 +290,11 @@ BirdLife Oslo and Akershus will coordinate a three-hour birding excursion to Øs
 
 **Good for:** birding, local nature, guided observation  
 **Duration:** 3 hours
-**Cost:** $30
+**Cost:** $30, payable with your registration
 
 The exact start time will be decided later. In September, the guides advise that it is not essential to go very early.
+
+Reserve your spot by purchasing a ticket with your registration. See the [Add-ons section](/conferences/2026/registration/#add-ons) of the registration page.
 
 </div>
 </div>
