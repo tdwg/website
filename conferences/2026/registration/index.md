@@ -49,8 +49,17 @@ In-person registration covers:
 * For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 * Early access to session videos
 
-{:.alert .alert-info}
-You can now order the conference t-shirt! See [options available and how to order yours](/conferences/2026/tshirt).
+<div class="container">
+  <div class="row">
+    <div class="col-9">
+        <div class="alert alert-info">You can now order the conference t-shirt! See <a href="/conferences/2026/tshirt"> options available and how to order yours</a>.</div>
+    </div>
+    <div class="col-2">
+        <img class="float-end  img-fluid" src="https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png" alt="Gymimir Standardsen wearing TDWG 2026 T-shirt" width="175"/>
+    </div>
+  </div>
+</div>
+
 
 ### Virtual
 
