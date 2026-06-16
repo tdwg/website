@@ -14,6 +14,8 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
+       * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/)."
+  
        * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
        
        * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
@@ -27,13 +29,12 @@ quicklinks: #text, href, new_window
 #     new_window: true
    - text: Registration
      href: ./registration
+   - text: "**New:** T-shirt"
+     href: ./tshirt
    - text: "Visa information"
      href: ./visa-information
    - text: "Excursions"
      href: ./excursions
-   - text: "Getting around Oslo"
-     href: ./#getting-around-oslo  
-
 ---
 
 _Last updated 1 Jun 2026_
@@ -132,25 +133,43 @@ This year's conference theme is:
 
 ## Sponsors and supporters
 
-<p class="d-flex justify-content-around align-items-center">
-  <a href="https://gbif.link/25" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="320">
-  </a>
-  <a href="https://picturae.com" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/logo-picturae.png" alt="Picturae" width="190">
-  </a>
-</p>
-<p class="d-flex justify-content-around align-items-center"></p>
-<p class="d-flex justify-content-around align-items-center">
-  <a class="" href="https://www.ala.org.au" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/ala-logo-stacked-rgb.png" alt="Atlas of Living Australia" width="140">
-  </a>
-  <a href="https://pensoft.net" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="140">
-  </a>
-</p>
-
-<p/>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://gbif.link/25" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="390">
+        </a>
+      </p>    
+   </div>
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://picturae.com" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/logo-picturae.png" alt="Picturae" width="260"/>
+        </a>
+      </p>
+    </div>
+  </div>
+  <div class="row">
+      <p class="d-flex justify-content-around align-items-center"></p>
+  </div>
+  <div class="row">
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+         <a class="" href="https://www.ala.org.au" target="_blank">
+            <img src="https://static.tdwg.org/conferences/2026/images/sponsors/ala-logo-stacked-rgb.png" alt="Atlas of Living Australia" width="190"/>
+         </a>
+      </p>
+    </div>
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://pensoft.net" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="190"/>
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
 
 TDWG welcomes your support for the TDWG 2026 meeting in Oslo, Norway. If you would like to support the TDWG community and become an event sponsor or exhibitor, please contact the [TDWG Chair, David Bloom](mailto:chair@tdwg.org).
 
@@ -195,7 +214,7 @@ Ruter operates public transport in Oslo, including metro, bus, tram, train, and 
 {:.alert .alert-warning}
 **Important:** Non-Norwegian residents should not create a profile in the app. For these cases you MUST take a screenshot of the ticket, that will be the only proof that you purchased it.
 
-<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="600">
+<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="600"/>
 
 ### Oslo Pass
 

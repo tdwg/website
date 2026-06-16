@@ -4,10 +4,14 @@
   menu:
   - text: "List of Sessions"
     href: /conferences/2026/program/sessions-list/
+  - text: "New: Student Awards"
+    href: /conferences/2026/program/student-awards/
 - text: "Plan your attendance"
   menu:
   - text: "Registration"
     href: /conferences/2026/registration/
+  - text: "New: T-shirt"
+    href: /conferences/2026/tshirt/
   - text: "Visa information"
     href: /conferences/2026/visa-information/
   - text: "Excursions"
@@ -30,8 +34,6 @@
     href: /conferences/2026//submissions/call-for-sessions/
   - text: "Instructions for Session Proposals"
     href: /conferences/2026//submissions/session-instructions/
-- text: "T-shirt"
-  href: /conferences/2026/tshirt/
 - text: "About"
   menu:
   - text: "Organizing Committee"
