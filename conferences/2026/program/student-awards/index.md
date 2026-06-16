@@ -65,4 +65,4 @@ Questions regarding eligibility, judging, award administration, or other aspects
 
 **Contact:** Chandra Earl (Student Awards Committee Chair)  
 Email: [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)
-
+ 
