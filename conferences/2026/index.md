@@ -133,25 +133,43 @@ This year's conference theme is:
 
 ## Sponsors and supporters
 
-<p class="d-flex justify-content-around align-items-center">
-  <a href="https://gbif.link/25" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="320">
-  </a>
-  <a href="https://picturae.com" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/logo-picturae.png" alt="Picturae" width="190">
-  </a>
-</p>
-<p class="d-flex justify-content-around align-items-center"></p>
-<p class="d-flex justify-content-around align-items-center">
-  <a class="" href="https://www.ala.org.au" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/ala-logo-stacked-rgb.png" alt="Atlas of Living Australia" width="140">
-  </a>
-  <a href="https://pensoft.net" target="_blank">
-    <img src="https://static.tdwg.org/conferences/2026/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="140">
-  </a>
-</p>
-
-<p/>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://gbif.link/25" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="390">
+        </a>
+      </p>    
+   </div>
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://picturae.com" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/logo-picturae.png" alt="Picturae" width="260"/>
+        </a>
+      </p>
+    </div>
+  </div>
+  <div class="row">
+      <p class="d-flex justify-content-around align-items-center"></p>
+  </div>
+  <div class="row">
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+         <a class="" href="https://www.ala.org.au" target="_blank">
+            <img src="https://static.tdwg.org/conferences/2026/images/sponsors/ala-logo-stacked-rgb.png" alt="Atlas of Living Australia" width="190"/>
+         </a>
+      </p>
+    </div>
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://pensoft.net" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/pensoft.png" alt="Pensoft Publishers" width="190"/>
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
 
 TDWG welcomes your support for the TDWG 2026 meeting in Oslo, Norway. If you would like to support the TDWG community and become an event sponsor or exhibitor, please contact the [TDWG Chair, David Bloom](mailto:chair@tdwg.org).
 
@@ -196,7 +214,7 @@ Ruter operates public transport in Oslo, including metro, bus, tram, train, and 
 {:.alert .alert-warning}
 **Important:** Non-Norwegian residents should not create a profile in the app. For these cases you MUST take a screenshot of the ticket, that will be the only proof that you purchased it.
 
-<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="600">
+<img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/TDWG-t-banen-linjekart-03042016-v2026-03-13.jpg" alt="Oslo metro map" width="600"/>
 
 ### Oslo Pass
 
