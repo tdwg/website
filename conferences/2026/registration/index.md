@@ -19,7 +19,7 @@ quicklinks: #text, href, new_window
     href: /conferences/2026/excursions/#bird-trip
 
 ---
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-17_
 
 ## Registration for TDWG 2026
 Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 25 September.
@@ -55,7 +55,7 @@ In-person registration covers:
   <div class="row">
     <div class="col-9">
         <div class="alert alert-info">You can now order the conference t-shirt! See the <a href="/conferences/2026/tshirt">options available</a>.<br />
-        Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip) by adding a ticket to your registration.
+        Secure your spot on the Wednesday <a href="/conferences/2026/excursions/#bird-trip">Bird trip</a> by adding a ticket to your registration.
         </div>
     </div>
     <div class="col-2">
