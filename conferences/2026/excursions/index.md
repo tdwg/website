@@ -288,11 +288,13 @@ If there is enough interest, local guides may be arranged for selected walks.
 
 BirdLife Oslo and Akershus will coordinate a three-hour birding excursion to Østensjøvannet. The trip can take up to 40 participants with two English-speaking guides, split into two groups of 20. A total of 25 binoculars and 4 telescopes will be available for participants.
 
-**Good for:** birding, local nature, guided observation  
-**Duration:** 3 hours
-**Cost:** $30
+**Good for:** birding, local nature, guided observation<br /> 
+**Duration:** 3 hours<br />
+**Cost:** $30, payable with your registration
 
 The exact start time will be decided later. In September, the guides advise that it is not essential to go very early.
+
+Reserve your spot by purchasing a ticket with your registration. See the [Add-ons section](/conferences/2026/registration/#add-ons) of the registration page.
 
 </div>
 </div>

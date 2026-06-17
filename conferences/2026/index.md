@@ -17,6 +17,8 @@ featured: # description, href, img
        * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/)."
   
        * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
+
+       * **New:** Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip). Space is limited!
        
        * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
        
@@ -37,9 +39,9 @@ quicklinks: #text, href, new_window
      href: ./excursions
 ---
 
-_Last updated 1 Jun 2026_
+_Last updated 17 Jun 2026_
 
-<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175">
+<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
 
 {:.lead}
 Join us for TDWG 2026 in Oslo from 21 to 25 September

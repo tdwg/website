@@ -15,9 +15,11 @@ quicklinks: #text, href, new_window
   #     new_window: true
   - text: Order conference t-shirt
     href: /conferences/2026/tshirt
+  - text: Buy ticket for Bird trip
+    href: /conferences/2026/excursions/#bird-trip
 
 ---
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-17_
 
 ## Registration for TDWG 2026
 Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 25 September.
@@ -49,8 +51,21 @@ In-person registration covers:
 * For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)
 * Early access to session videos
 
-{:.alert .alert-info}
-You can now order the conference t-shirt! See [options available and how to order yours](/conferences/2026/tshirt).
+<div class="container">
+  <div class="row">
+    <div class="col-9">
+        <div class="alert alert-info">You can now order the conference t-shirt! See the <a href="/conferences/2026/tshirt">options available</a>.<br />
+        Secure your spot on the Wednesday <a href="/conferences/2026/excursions/#bird-trip">Bird trip</a> by adding a ticket to your registration.
+        </div>
+    </div>
+    <div class="col-2">
+        <img class="float-end  img-fluid" src="https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png" alt="Gymimir Standardsen wearing TDWG 2026 T-shirt" width="175"/>
+    </div>
+  </div> 
+</div>
+
+- If you need to purchase your ticket and add-ons with separate cards (e.g., business and personal), purchase your ticket first and then revisit your registration to add the additional items. 
+- If you have already registered, find your confirmation email with the subject “Your tickets for TDWG 2026 Conference”, and click the button labeled “Add to your order.”
 
 ### Virtual
 
