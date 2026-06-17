@@ -61,7 +61,7 @@ In-person registration covers:
     <div class="col-2">
         <img class="float-end  img-fluid" src="https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png" alt="Gymimir Standardsen wearing TDWG 2026 T-shirt" width="175"/>
     </div>
-  </div>
+  </div> 
 </div>
 
 - If you need to purchase your ticket and add-ons with separate cards (e.g., business and personal), purchase your ticket first and then revisit your registration to add the additional items. 
