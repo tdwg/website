@@ -55,7 +55,7 @@ In-person registration covers:
   <div class="row">
     <div class="col-9">
         <div class="alert alert-info">You can now order the conference t-shirt! See the <a href="/conferences/2026/tshirt">options available</a>.<br />
-        You can also secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip) by adding a ticket to your registration.
+        Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip) by adding a ticket to your registration.
         </div>
     </div>
     <div class="col-2">
