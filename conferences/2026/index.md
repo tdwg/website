@@ -14,7 +14,7 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/)."
+       * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/).
   
        * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
 
@@ -22,7 +22,7 @@ featured: # description, href, img
        
        * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
        
-       * Are you attending in person? Please also review the **[Visa information page](/conferences/2026/visa-information)** and start preparing.
+       * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
     img: https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png
        
 quicklinks: #text, href, new_window
@@ -135,12 +135,12 @@ This year's conference theme is:
 
 ## Sponsors and supporters
 
-<div class="container">
-  <div class="row">
+<div class="container  ">
+  <div class="row h-75 justify-content-center align-items-center">
     <div class="col">
       <p class="d-flex justify-content-around align-items-center">
         <a href="https://gbif.link/25" target="_blank">
-          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green.png" alt="Global Biodiversity Information Facility" width="390">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/gbif-25-green-cut.png" alt="Global Biodiversity Information Facility" width="390">
         </a>
       </p>    
    </div>
@@ -152,7 +152,7 @@ This year's conference theme is:
       </p>
     </div>
   </div>
-  <div class="row">
+  <div class="row h-50 justify-content-center align-items-center">
       <p class="d-flex justify-content-around align-items-center"></p>
   </div>
   <div class="row">
@@ -171,6 +171,18 @@ This year's conference theme is:
       </p>
     </div>
   </div>
+  <div class="row h-25 justify-content-center align-items-center">
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+         <a class="" href="https://earthcape.com/" target="_blank">
+            <img src="https://static.tdwg.org/conferences/2026/images/sponsors/earthcape-lightbg-logo.png" alt="EarthCape" width="150"/>
+         </a>
+      </p>
+    </div>
+  </div>
+
+
+
 </div>
 
 TDWG welcomes your support for the TDWG 2026 meeting in Oslo, Norway. If you would like to support the TDWG community and become an event sponsor or exhibitor, please contact the [TDWG Chair, David Bloom](mailto:chair@tdwg.org).
