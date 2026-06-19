@@ -39,7 +39,7 @@ quicklinks: #text, href, new_window
      href: ./excursions
 ---
 
-_Last updated 17 Jun 2026_
+_Last updated 19 Jun 2026_
 
 <img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
 
