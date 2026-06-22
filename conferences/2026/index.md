@@ -239,16 +239,14 @@ Conference attendees are eligible for a **20% discount**. Please email [conf-org
 
 ## Hotels in Oslo
 
-[Clarion Hotels (Strawberry)](https://www.strawberryhotels.com/hotels/norway/oslo/){:target="_blank"} has made a block booking for TDWG participants.
-
-- [Block booking reservation link](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026){:target="_blank"} (valid to **2026-08-01**)
+[Clarion Hotels (Strawberry)](https://www.strawberryhotels.com/hotels/norway/oslo/){:target="_blank"} has made a block booking for TDWG participants. Strawberry has provided booking links with a 15% discount for four hotels:
 
 | Hotel | Photo | Rooms | Location details |
 | :---- | :---- | :---- | :---- |
-| [Clarion Hotel Oslo](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-oslo/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_oslo.png" alt="Clarion Hotel Oslo" width="220"> | 255 | [500 m from Central Station](https://maps.app.goo.gl/KK8Y1U9yWzJcasHXA){:target="_blank"}, [1.2 km to the venue](https://maps.app.goo.gl/PyMgtR1EzmBfsfAo7){:target="_blank"} |
-| [Clarion Hotel The Hub](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-the-hub/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
-| [Home Hotel Folketeateret](https://www.strawberryhotels.com/hotels/norway/oslo/home-hotel-folketeateret/){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
-
+| [Clarion Hotel The Hub](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
+| [Home Hotel Folketeateret](https://app.mews.com/distributor/39cbfe76-47e3-406d-8006-afef00895b30?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
+| [Comfort Hotel Xpress Youngstorget](https://app.mews.com/distributor/54aa6abf-1b4e-4526-8b1e-afa900a6ef75?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/comfort_hotel_xpress_youngstorget.png" alt="Comfort Hotel Xpress Youngstorget" width="220"> | 245 | [700 m from Central Station](https://maps.app.goo.gl/qRU5v5dkqcozF3RV7){:target="_blank"}, [170 m to the venue](https://maps.app.goo.gl/EHrzzf9dsebBudZD8){:target="_blank"} |
+| [Comfort Hotel Børsparken](https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/comfort_hotel_borsparken.png" alt="Comfort Hotel Børsparken" width="220"> | 248 | [350 m from Central Station](https://maps.app.goo.gl/m7RqHMrDD9khXYZf7){:target="_blank"}, [800 m to the venue](https://maps.app.goo.gl/SAKPTa6StS3kYF1r6){:target="_blank"} |
 
 ## Excursions
 Planning your Wednesday or your activities before and after the conference? Please check our [Excursions page](/conferences/2026/excursions) for tours, excursions, and suggested places to visit.
