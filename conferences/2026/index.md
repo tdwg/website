@@ -14,16 +14,14 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/).
+       * **New:** Keynote speakers have been announced. See [Keynote Speakers](./program/keynotes) page for presentation details.
   
-       * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
+       * You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
 
-       * **New:** Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip). Space is limited!
-       
-       * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
+       * Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip). Space is limited!
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
-    img: https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png
+    img: https://static.tdwg.org/conferences/2026/images/troll-lectrum.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -39,7 +37,7 @@ quicklinks: #text, href, new_window
      href: ./excursions
 ---
 
-_Last updated 19 Jun 2026_
+_Last updated 22 Jun 2026_
 
 <img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
 
@@ -133,6 +131,46 @@ This year's conference theme is:
   <a class="btn btn-outline-secondary" href="./excursions">Excursions information</a>
 </div>
 
+## Keynote speakers
+
+<div class="container text-center">
+   <div class="row justify-content-evenly">
+     <div class="col">
+      <img src="https://static.tdwg.org/conferences/2026/images/keynotes/tanya-bw.jpg" class="card-img-top" alt="...">
+       <div class="card text-center">
+         <div class="card-body">
+           <h5 class="card-title">Tanya Berger-Wolf</h5>
+         </div>
+       </div>
+     </div>
+     <div class="col">
+       <img src="https://static.tdwg.org/conferences/2026/images/keynotes/maret-jh.jpg" class="card-img-top" alt="...">
+       <div class="card text-center">
+         <div class="card-body">
+           <h5 class="card-title">Máret J Hætta</h5>
+         </div>
+       </div>
+     </div>
+     <div class="col">
+       <img src="https://static.tdwg.org/conferences/2026/images/keynotes/ramona-w.jpg" class="card-img-top" alt="...">
+       <div class="card text-center">
+         <div class="card-body">
+           <h5 class="card-title">Ramona Walls</h5>
+         </div>
+       </div>
+     </div>
+   </div>
+</div>
+
+<div class="container text-center">
+   <div class="row justify-content-evenly">
+     <div class="col">
+         <a class="btn btn-primary" href="./program/keynotes">Meet our keynote speakers</a>
+     </div>
+   </div>
+</div>
+
+
 ## Sponsors and supporters
 
 <div class="container  ">
@@ -180,9 +218,6 @@ This year's conference theme is:
       </p>
     </div>
   </div>
-
-
-
 </div>
 
 TDWG welcomes your support for the TDWG 2026 meeting in Oslo, Norway. If you would like to support the TDWG community and become an event sponsor or exhibitor, please contact the [TDWG Chair, David Bloom](mailto:chair@tdwg.org).
@@ -245,8 +280,8 @@ Conference attendees are eligible for a **20% discount**. Please email [conf-org
 | :---- | :---- | :---- | :---- |
 | [Clarion Hotel The Hub](https://app.mews.com/distributor/977dc9ba-a500-428b-b632-b0d700b9691f?mewsVoucherCode=TDWG%202026){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_hotel_the_hub.png" alt="Clarion Hotel The Hub" width="220"> | 810 | [190 m from Central Station](https://maps.app.goo.gl/sekh3rf2K3HVbMpM9){:target="_blank"}, [400 m to the venue](https://maps.app.goo.gl/Caham7LjuxEMUoAM7){:target="_blank"} |
 | [Home Hotel Folketeateret](https://app.mews.com/distributor/39cbfe76-47e3-406d-8006-afef00895b30?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
-| [Comfort Hotel Xpress Youngstorget](https://app.mews.com/distributor/54aa6abf-1b4e-4526-8b1e-afa900a6ef75?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/comfort_hotel_xpress_youngstorget.png" alt="Comfort Hotel Xpress Youngstorget" width="220"> | 245 | [700 m from Central Station](https://maps.app.goo.gl/qRU5v5dkqcozF3RV7){:target="_blank"}, [170 m to the venue](https://maps.app.goo.gl/EHrzzf9dsebBudZD8){:target="_blank"} |
-| [Comfort Hotel Børsparken](https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/comfort_hotel_borsparken.png" alt="Comfort Hotel Børsparken" width="220"> | 248 | [350 m from Central Station](https://maps.app.goo.gl/m7RqHMrDD9khXYZf7){:target="_blank"}, [800 m to the venue](https://maps.app.goo.gl/SAKPTa6StS3kYF1r6){:target="_blank"} |
+| [Comfort Hotel Xpress Youngstorget](https://app.mews.com/distributor/54aa6abf-1b4e-4526-8b1e-afa900a6ef75?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/hotels/comfort-hotel-xpress-youngstorget.png" alt="Comfort Hotel Xpress Youngstorget" width="220"> | 245 | [700 m from Central Station](https://maps.app.goo.gl/qRU5v5dkqcozF3RV7){:target="_blank"}, [170 m to the venue](https://maps.app.goo.gl/EHrzzf9dsebBudZD8){:target="_blank"} |
+| [Comfort Hotel Børsparken](https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/hotels/comfort-hotel-borsparken.png" alt="Comfort Hotel Børsparken" width="220"> | 248 | [350 m from Central Station](https://maps.app.goo.gl/m7RqHMrDD9khXYZf7){:target="_blank"}, [800 m to the venue](https://maps.app.goo.gl/SAKPTa6StS3kYF1r6){:target="_blank"} |
 
 ## Excursions
 Planning your Wednesday or your activities before and after the conference? Please check our [Excursions page](/conferences/2026/excursions) for tours, excursions, and suggested places to visit.
