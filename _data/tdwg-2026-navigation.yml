@@ -2,6 +2,8 @@
   href: /conferences/2026/
 - text: "Program"
   menu:
+  - text: "Keynote speakers"
+    href: /conferences/2026/program/keynotes/
   - text: "List of Sessions"
     href: /conferences/2026/program/sessions-list/
   - text: "New: Student Awards"

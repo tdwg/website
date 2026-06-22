@@ -14,16 +14,14 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Elegible students will participate in the [Pensoft Student Awards](./program/student-awards/).
+       * **New:** Keynote speakers have been announced. See [Keynote Speakers](./program/keynotes) page for presentation details.
   
-       * **New:** You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
+       * You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
 
-       * **New:** Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip). Space is limited!
-       
-       * **New:** Meet our [conference sponsors](./#sponsors-and-supporters) and learn how you can support a student.
+       * Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip). Space is limited!
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
-    img: https://static.tdwg.org/conferences/2026/images/troll-with-t-shirt-no-bg.png
+    img: https://static.tdwg.org/conferences/2026/images/troll-lectrum.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -39,7 +37,7 @@ quicklinks: #text, href, new_window
      href: ./excursions
 ---
 
-_Last updated 19 Jun 2026_
+_Last updated 22 Jun 2026_
 
 <img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
 
@@ -133,6 +131,46 @@ This year's conference theme is:
   <a class="btn btn-outline-secondary" href="./excursions">Excursions information</a>
 </div>
 
+## Keynote speakers
+
+<div class="container text-center">
+   <div class="row justify-content-evenly">
+     <div class="col">
+      <img src="https://static.tdwg.org/conferences/2026/images/keynotes/tanya-bw.jpg" class="card-img-top" alt="...">
+       <div class="card text-center">
+         <div class="card-body">
+           <h5 class="card-title">Tanya Berger-Wolf</h5>
+         </div>
+       </div>
+     </div>
+     <div class="col">
+       <img src="https://static.tdwg.org/conferences/2026/images/keynotes/maret-jh.jpg" class="card-img-top" alt="...">
+       <div class="card text-center">
+         <div class="card-body">
+           <h5 class="card-title">Máret J Hætta</h5>
+         </div>
+       </div>
+     </div>
+     <div class="col">
+       <img src="https://static.tdwg.org/conferences/2026/images/keynotes/ramona-w.jpg" class="card-img-top" alt="...">
+       <div class="card text-center">
+         <div class="card-body">
+           <h5 class="card-title">Ramona Walls</h5>
+         </div>
+       </div>
+     </div>
+   </div>
+</div>
+
+<div class="container text-center">
+   <div class="row justify-content-evenly">
+     <div class="col">
+         <a class="btn btn-primary" href="./program/keynotes">Meet our keynote speakers</a>
+     </div>
+   </div>
+</div>
+
+
 ## Sponsors and supporters
 
 <div class="container  ">
@@ -180,9 +218,6 @@ This year's conference theme is:
       </p>
     </div>
   </div>
-
-
-
 </div>
 
 TDWG welcomes your support for the TDWG 2026 meeting in Oslo, Norway. If you would like to support the TDWG community and become an event sponsor or exhibitor, please contact the [TDWG Chair, David Bloom](mailto:chair@tdwg.org).

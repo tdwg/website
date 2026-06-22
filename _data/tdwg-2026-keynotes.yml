@@ -1,0 +1,53 @@
+- name: "Tanya Berger-Wolf"
+  image: https://static.tdwg.org/conferences/2026/images/keynotes/tanya-bw.jpg
+  description: |
+    #### AI for Nature at Large Scale and High Resolution
+    
+    **Dr. Tanya Berger-Wolf** is a Professor of Computer Science Engineering, Electrical and Computer Engineering, and Evolution, Ecology, and Organismal Biology at the Ohio State University, where she is also the Director of the Translational Data Analytics Institute. A pioneer in AI for ecology, biodiversity, and conservation, she leads the NSF-funded Imageomics Institute and the US-Canada co-funded AI and Biodiversity Change (ABC) Global Center.
+    
+    Dr. Berger-Wolf serves on advisory and governance bodies including the US National Academies Board on Life Sciences, the Global Partnership on AI (GPAI)/OECD, National Ecological Observatory Network (NEON), and The Nature Conservancy. She co-led Wild Me (now part of Conservation X Labs), one of the first AI conservation nonprofits, where she co-created Wildbook, recognized by UNESCO for advancing the UN Sustainable Development Goals.  Her contributions have earned numerous honors, including recognition as the AI 100 Global Thought Leaders by H20.ai. She is an elected Fellow of the Association for the Advancement of Artificial Intelligence (AAAI) and the American Association for the Advancement of Science (AAAS).
+    
+    
+    <div class="card bg-body-secondary">
+       <div class="card-body" >
+        Computation has fundamentally changed the way we study nature. New data collection technologies, such as GPS, high-definition cameras, autonomous vehicles under water, on the ground, and in the air, genotyping, acoustic sensors, and crowdsourcing, are generating data about life on the planet that are orders of magnitude richer than any previously collected. Yet, our ability to extract insight from these data lags substantially behind our ability to collect it. 
+        <p><p>
+        The talk will discuss both recent advances and potential opportunities in AI that can turn these data into high resolution information source about living organisms, enabling scientific inquiry, conservation, and policy decisions. We will also address the challenges in scaling biodiversity research and action with AI, particularly in AI-ready cyber- and data infrastructures, as well as complex multimodal, multi-sensor, multi-scale data analysis, modeling, and visualizations.     
+
+- name: "Máret J Hætta"
+  image: https://static.tdwg.org/conferences/2026/images/keynotes/maret-jh.jpg
+  description: |
+    #### Sámi perspectives on biodiversity Data Governance and more inclusive Data Standards
+    **Máret J. Heatta** is an Assistant Professor. She holds a master's degree in biology and works with coproduction of knowledge between Sámi and scientific knowledge systems, with a particular focus on biodiversity, climate change, and research data governance. Her research and professional work are carried out in close collaboration with Sámi knowledge holders and local communities, exploring how their knowledge and observations can be equitably included in research and decision-making processes. As an educator, she is committed to strengthening the role of Sámi perspectives in education and research. Her work explores how traditional knowledge can be included in natural science education to support knowledge transmission across generations, strengthen cultural continuity, foster mutual understanding, and foster reconciliation through education.
+    
+    <div class="card bg-body-secondary">
+       <div class="card-body" >
+          As more biodiversity data become available through global platforms such as GBIF, there is a growing need to consider how Indigenous rights, traditional knowledge, and community interests are reflected in these systems. For Sámi communities, biodiversity data are often closely connected to Sámi knowledge, traditional land use, livelihoods, and relationships with nature.
+          <p><p>
+          This presentation introduces ideas behind a proposed Sámi-hosted biodiversity data portal and discusses how Local Contexts tags and labels might be used to make Sámi interests and connections to data more visible. Could these tools help provide information about provenance, cultural significance, appropriate use, and community expectations when or whether data are shared and reused?
+          <p><p>
+          The presentation will explore whether the CARE Data Maturity Model can provide a useful framework for assessing and guiding Sámi biodiversity data governance. Do their indicators related to collective benefit, control, ownership, and ethics reflect Sámi realities, or is there a need for additional approaches? We apply the most updated and transdisciplinary Sámi ethical guidelines as guiding principles for the project.
+          <p><p>
+          Finally, the presentation will discuss data rematriation and the importance of building Sámi-controlled archives, repositories, and data infrastructures. Returning data to communities is not only about access, but also about creating the capacity and governance needed to manage and use data in ways that benefit Saami communities.
+          <p><p>
+          The aim is to start a conversation about how these tools can support Sámi data governance in practice.
+    
+
+- name: "Ramona Walls"
+  image: https://static.tdwg.org/conferences/2026/images/keynotes/ramona-w.jpg
+  description: |
+    #### From biodiversity data to knowledge in the age of AI: Where do ontologies and standards fit?
+    **Ramona Walls** is a data scientist, biologist, and leader at Critical Path Institute, a nonprofit organization that accelerates drug development for those most in need. As Director of the Data Collaboration Center, she leads a team of about 40 people responsible for data management, data science, and platform oversight.
+  
+    Ramona has spent most of her career designing ontology-based data integration systems while juggling identifiers, metadata, and the many practical challenges of making data reusable. Before joining C-Path, she was an Assistant Research Professor in the BIO5 Institute and a Scientific Analyst at the University of Arizona, where she led initiatives related to integrating, managing, and publishing large-scale scientific data. She completed postdoctoral studies at the New York Botanical Garden, earned a PhD in Ecology and Evolution from Stony Brook University, and received a bachelor’s degree in Environmental Resource Management and Horticulture from The Pennsylvania State University.
+
+    The advent of tools such as large language models and agentic AI is changing how we do science and study biodiversity, but it has not changed the things Ramona is most passionate about: data integration, data management, data reuse, and using those skills to make the world a better place.
+    
+    <div class="card bg-body-secondary">
+         <div class="card-body">
+            Data – specimens and collections, human- and sensor-mediated observations, images, sequences, traits, and environmental measurements – provide the raw material for biodiversity informatics and broader life sciences, yet they come with questions: What do our data mean? Which concepts are equivalent, related, or distinct? How do we represent context, provenance, uncertainty, and evidence? As new computational systems are applied to biodiversity data, a new question becomes increasingly visible and urgent: How do we support discovery and reuse without allowing fluent answers or plausible connections to obscure ambiguity, erase complexity, or reinforce errors? For four decades, TDWG has helped build the standards, ontologies, identifiers, metadata practices, and community agreements that make biodiversity data valuable. These are the same tools we need to create AI-ready biodiversity data.
+            <p>
+            <p>
+            Working across plant science, ontology development, and biomedical data management has reinforced one enduring lesson: the hardest data problems are rarely technical. They are problems of meaning, context, trust, and governance. AI does not eliminate these challenges—it magnifies them. Ontologies, standards, and community governance provide the shared semantic foundation that enables both people and machines to interpret data responsibly, transparently, and at scale. In an era when machines can generate answers faster than we can evaluate them, our greatest opportunity is not simply to build smarter AI, but to build richer, more trustworthy knowledge. The future of biodiversity informatics will depend not only on the intelligence of our algorithms, but on the quality of the shared knowledge infrastructure we create.
+    
+    
