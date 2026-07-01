@@ -27,7 +27,7 @@ _Last updated: 2026-06-09_
   margin: 0;
 }
 
-.excursion-card img {
+.excursion-card img.card-img-top {
   aspect-ratio: 16 / 9;
   object-fit: cover;
   width: 100%;
@@ -37,6 +37,23 @@ _Last updated: 2026-06-09_
   color: #6c757d;
   font-size: 0.95rem;
   margin-bottom: 0.75rem;
+}
+
+.excursion-heading-logo {
+  height: 1.35em;
+  margin-left: 0.35rem;
+  max-width: 7rem;
+  object-fit: contain;
+  vertical-align: -0.25em;
+}
+
+.excursion-heading-logo-text {
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
 </style>
 
@@ -153,6 +170,29 @@ Please sign up for half-day Oslo option excursions so we can estimate interest a
 [Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
 
 <div class="row g-3" markdown="1">
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Floating water-plantain](https://static.tdwg.org/conferences/2026/images/excursions/aquatic-plant-hike.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+<h3 id="guided-aquatic-plant-hike">Guided Aquatic Plant Hike with <span class="excursion-heading-logo-text">NIVA</span><img class="excursion-heading-logo" src="https://static.tdwg.org/conferences/2026/images/excursions/niva-logo-en.png" alt=""></h3>
+
+Join aquatic botanist Bernhard Askedalen for a guided walk through Oslo's northern forests, visiting three lakes that support a rich diversity of freshwater plants. Starting by bus from the city to Maridalen church, the route follows forest trails along the eastern shore of Dausjøen before continuing to the lakes at Movatn. The excursion ends with a train journey back to central Oslo from Movatn station.
+
+Along the way, participants will experience classic Norwegian coniferous forest, learn about common aquatic plants and algae, and visit one of the few known Norwegian sites for the protected floating water-plantain (_Luronium natans_). This rare species is protected under Annexes II and IV of the EU Habitats Directive.
+
+**Good for:** Nordic forest, freshwater biodiversity, aquatic plants, rare species  
+**Duration:** 4-5 hours, including public transport; requires good mobility / physical ability  
+**Bring:** lunch box and water, dress for the weather, suitable footwear for forest trails
+
+**Public transport directions:** Take bus 30 towards Nydalen from the city centre at 09:20. At Nydalen T, transfer to bus 52 towards Maridalen. Arrive at Maridalen Church at 10:09.
+
+**Contact person:** Bernhard Askedalen, [+47 94141429](tel:+4794141429), [bernhard.askedalen@niva.no](mailto:bernhard.askedalen@niva.no)
+
+</div>
+</div>
+</div>
+
 <div class="col-md-6" markdown="1">
 <div class="card h-100 excursion-card" markdown="1">
 ![MUNCH museum in Oslo](https://static.tdwg.org/conferences/2026/images/excursions/museums-of-oslo.jpg){:.card-img-top}
