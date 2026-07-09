@@ -19,7 +19,7 @@ quicklinks: #text, href, new_window
     href: /conferences/2026/excursions/#bird-trip
 
 ---
-_Last updated: 2026-05-17_
+_Last updated: 2026-06-09_
 
 ## Registration for TDWG 2026
 Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 25 September.
@@ -27,15 +27,13 @@ Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 25 Sep
 Special registration rates are available for TDWG members, post-docs, and students. Heavily discounted pricing is also offered for participants from [low and lower-middle income countries](https://data360.worldbank.org/en/economies#by-incomegroup). Not able to attend in person? A virtual conference registration option is available.
 
 {:.alert .alert-info}
-Early bird discount available until [**Tuesday 14 July 9:59am UTC-12**](https://tdwg.link/early-bird-ends)
+Early bird discount extended until [**Tuesday 21 July 9:59am UTC-12**](https://tdwg.link/early-bird-ends)
 
 ### Presenting authors
 All content contributors (presenting authors) must be registered for at least virtual participation to remain in the program.
 
 {:.alert .alert-warning}
 If you are submitting an abstract for a presentation or poster, please use the same email address in your abstract submission and your registration. (All presenting authors must be registered and your email address is what links your abstract to your registration.)
-
-We expect to have abstracts reviewed and acceptances communicated to authors by the end of June.
 
 ## Registration options
 
@@ -106,19 +104,6 @@ The program for TDWG 2026 will be composed of keynote presentations, symposia, d
 
 The conference will run over 4 days from 21 to 25 September with a full day of excursions on Wednesday 23, and tours planned before and after the conference. You need to [book excursions and tours separately](/conferences/2026/excursions/).
 
-## Keynote speakers
-
-This year we will have three keynote speakers:
-
-<table style="width: 100%; border: 0px">
-<tbody>
-<tr>
-<td style="vertical-align: top;">Prof Tanya Berger-Wolf <br/> Ohio State University, USA </td>
-<td style="vertical-align:top; padding-left:10px; padding-right:10px;">Dr Susanna Raghild Andersdatter Siri <br/> UiT The Arctic University of Norway, Norway </td>
-<td style="vertical-align: top;">Dr Ramona Walls <br/> Critical Path Institute, USA</td>
-</tr>
-</tbody>
-</table>
 
 ## Terms and Conditions
 
