@@ -14,14 +14,10 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Keynote speakers have been announced. See [Keynote Speakers](./program/keynotes) page for presentation details.
-  
-       * You can now order the conference t-shirt! See [options available and how to order yours](./tshirt).
-
-       * Secure your spot on the Wednesday [Bird trip](/conferences/2026/excursions/#bird-trip). Space is limited!
+       * **New:** Early bird registration has been extended until until [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends), find out [more](/news/2026/tdwg-2026-july-registration-update/).
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
-    img: https://static.tdwg.org/conferences/2026/images/troll-lectrum.png
+    img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -37,7 +33,7 @@ quicklinks: #text, href, new_window
      href: ./excursions
 ---
 
-_Last updated 22 Jun 2026_
+_Last updated 9 Jul 2026_
 
 <img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
 
@@ -290,8 +286,13 @@ Planning your Wednesday or your activities before and after the conference? Plea
 
 By registering for and/or participating in conference sessions, workshops, panels, field trips, social events, or any other activity, in-person or online, related to the TDWG 2026 Conference, you agree to abide by this [Code of Conduct](./code-of-conduct/). This includes activities within the local community. As a participant in the conference, you represent our organizations and the shared values of our chosen professions.
 
-## Contact us
+## Subscribe
+Don’t miss any updates from TDWG 2026 or major TDWG activities, subscribe to our [announcements mailing list](https://tdwg.us9.list-manage.com/subscribe?u=50f3cc44307841383062ca0d6&id=b8159bd5d8).
 
+Also make sure to add [secretariat@tdwg.org](mailto:secretariat@tdwg.org) and [event-noreply@whova.io](mailto:event-noreply@whova.io) to your contacts list.
+
+
+## Contact us
 Do you have questions or need help?
 
 Please email the conference organizers ([conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)).
