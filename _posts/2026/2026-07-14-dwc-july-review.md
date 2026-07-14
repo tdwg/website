@@ -11,8 +11,12 @@ tags: [Standards, Darwin Core, DwC-DP, Mineralogy Extension]
 ---
 
 The Darwin Core Maintenance Group is beginning a public review of proposed changes to the Darwin Core Standard starting on 16 July 2026. 
+
+
 This is the first public review in the new thrice yearly release schedule for Darwin Core. 
-It will include term additions for the [Mineralogy Extension](/community/esp/mineralogy/) and the first schemas implementing the [Conceptual Model](https://dwc.tdwg.org/cm/) and [Darwin Core Data Package Guide](https://dwc.tdwg.org/cm/), as well as other issues that have arisen as a result of the ratification of the Guide. For information about the review and instructions on how to participate, visit [Darwin Core Public Review \- July 2026](https://dwc.tdwg.org/public_review/) page.
+It will include term additions for the [Mineralogy Extension](/community/esp/mineralogy/) and the first schemas implementing the [Conceptual Model](https://dwc.tdwg.org/cm/) and [Darwin Core Data Package Guide](https://dwc.tdwg.org/cm/), as well as other issues that have arisen as a result of the ratification of the Guide. 
+
+For information about the review and instructions on how to participate, visit [Darwin Core Public Review \- July 2026](https://dwc.tdwg.org/public_review/) page.
 
 ## Questions
 

@@ -12,7 +12,7 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:**  The Darwin Core Maintenance Group is beginning a public review of proposed changes to the Darwin Core Standard starting on 16 July 2026. [Read more](/news/2026/dwc-july-review/) 
+    * **New:**  The Darwin Core Maintenance Group is beginning a public review of proposed changes to the Darwin Core Standard starting on 16 July 2026. Read [more](/news/2026/dwc-july-review/). 
     
     * Early bird registration for TDWG 2026 has been extended until until [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends), find out [more](/news/2026/tdwg-2026-july-registration-update/).
         
