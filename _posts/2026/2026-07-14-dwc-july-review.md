@@ -19,5 +19,4 @@ It will include term additions for the [Mineralogy Extension](/community/esp/min
 For information about the review and instructions on how to participate, visit [Darwin Core Public Review \- July 2026](https://dwc.tdwg.org/public_review/) page.
 
 ## Questions
-
 For any questions please reach out to the [Darwin Core Maintenance Group](/community/dwc/).
