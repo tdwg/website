@@ -14,7 +14,7 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Early bird registration has been extended until until [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends), find out [more](/news/2026/tdwg-2026-july-registration-update/).
+       * **New:** Early bird registration finishes on [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends). **Hurry up and [register now](./registration)!**
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
     img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
@@ -25,7 +25,7 @@ quicklinks: #text, href, new_window
 #     new_window: true
    - text: Registration
      href: ./registration
-   - text: "**New:** T-shirt"
+   - text: "T-shirt"
      href: ./tshirt
    - text: "Visa information"
      href: ./visa-information
