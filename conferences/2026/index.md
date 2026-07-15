@@ -18,6 +18,7 @@ featured: # description, href, img
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
     img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
+
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
