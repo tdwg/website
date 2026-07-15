@@ -12,11 +12,11 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:** Early bird registration for TDWG 2026 has been extended until until [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends), find out [more](/news/2026/tdwg-2026-july-registration-update/).
+    * **New:**  The Darwin Core Maintenance Group is beginning a public review of proposed changes to the Darwin Core Standard starting on 16 July 2026. Read [more](/news/2026/dwc-july-review/). 
     
-    * Conceptual Model and Data Package Guide additions to Darwin Core [have been ratified](./news/2026/dwc-additions-ratified/).
+    * Early bird registration for TDWG 2026 has been extended until until [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends), find out [more](/news/2026/tdwg-2026-july-registration-update/).
         
-  img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
+  img: https://static.tdwg.org/images/articles/2026/wulfenite-crystal.jpg
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
