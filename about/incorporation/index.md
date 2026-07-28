@@ -19,10 +19,12 @@ State of California [Certification of non-profit incorporation](/assets/document
 
 ## European Union (Netherlands)
 
-Stichting (non-profit foundation) TDWG Europe
+Closed 2026-07-03 (3 Jul 2026)
 
-NL registration number: `71574492`
+~~Stichting (non-profit foundation) TDWG Europe~~
 
-Oosterhout, Bezoekadres Zandheuvel 52 B, 4901HW Oosterhout
+~~NL registration number: `71574492`~~
 
-European Commission Partner Identification (PIC) Number: `906744264`
+~~Oosterhout, Bezoekadres Zandheuvel 52 B, 4901HW Oosterhout~~
+
+~~European Commission Partner Identification (PIC) Number: `906744264`~~
