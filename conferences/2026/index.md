@@ -14,10 +14,10 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Early bird registration finishes on [Tuesday, 21 July 9:59am UTC-12](https://tdwg.link/early-bird-ends). **Hurry up and [register now](./registration)!**
+       * **New  accommodation** options added, go to [Affordable accommodation alternatives](#affordable-accommodation-alternatives) for details.
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
-    img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
+#    img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -278,6 +278,11 @@ Conference attendees are eligible for a **20% discount**. Please email [conf-org
 | [Home Hotel Folketeateret](https://app.mews.com/distributor/39cbfe76-47e3-406d-8006-afef00895b30?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://www.gbif.no/events/2026/2026-09-tdwg/clarion_collection_hotel_folketeateret.png" alt="Home Hotel Folketeateret" width="220"> | 160 | [350 m from Central Station](https://maps.app.goo.gl/asK1Tac43ZyCKYvd9){:target="_blank"}, [270 m to the venue](https://maps.app.goo.gl/zhGtmzDMHLcWQYEt5){:target="_blank"} |
 | [Comfort Hotel Xpress Youngstorget](https://app.mews.com/distributor/54aa6abf-1b4e-4526-8b1e-afa900a6ef75?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/hotels/comfort-hotel-xpress-youngstorget.png" alt="Comfort Hotel Xpress Youngstorget" width="220"> | 245 | [700 m from Central Station](https://maps.app.goo.gl/qRU5v5dkqcozF3RV7){:target="_blank"}, [170 m to the venue](https://maps.app.goo.gl/EHrzzf9dsebBudZD8){:target="_blank"} |
 | [Comfort Hotel Børsparken](https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/hotels/comfort-hotel-borsparken.png" alt="Comfort Hotel Børsparken" width="220"> | 248 | [350 m from Central Station](https://maps.app.goo.gl/m7RqHMrDD9khXYZf7){:target="_blank"}, [800 m to the venue](https://maps.app.goo.gl/SAKPTa6StS3kYF1r6){:target="_blank"} |
+
+### Affordable accommodation alternatives
+Affordable accommodation (500 - 600kr a night) suitable for students with shared rooms for women, men or mixed go to [www.bunks.no](https://www.bunks.no)
+
+Alternatively see [cityboxhotels.com](https://cityboxhotels.com/hotels/oslo/citybox-oslo)
 
 ## Excursions
 Planning your Wednesday or your activities before and after the conference? Please check our [Excursions page](/conferences/2026/excursions) for tours, excursions, and suggested places to visit.
