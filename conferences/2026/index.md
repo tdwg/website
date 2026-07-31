@@ -280,9 +280,9 @@ Conference attendees are eligible for a **20% discount**. Please email [conf-org
 | [Comfort Hotel Børsparken](https://app.mews.com/distributor/763711fe-eb1b-4f16-ac99-af95009ad799?mewsVoucherCode=GBIF25){:target="_blank"} | <img src="https://static.tdwg.org/conferences/2026/images/hotels/comfort-hotel-borsparken.png" alt="Comfort Hotel Børsparken" width="220"> | 248 | [350 m from Central Station](https://maps.app.goo.gl/m7RqHMrDD9khXYZf7){:target="_blank"}, [800 m to the venue](https://maps.app.goo.gl/SAKPTa6StS3kYF1r6){:target="_blank"} |
 
 ### Affordable accommodation alternatives
-Affordable accommodation (500 - 600kr a night) suitable for students with shared rooms for women, men or mixed go to [www.bunks.no](https://www.bunks.no)
+Affordable accommodation (500 - 600kr a night) suitable for students with shared rooms for women, men or mixed go to [www.bunks.no](https://www.bunks.no).
 
-Alternatively see [cityboxhotels.com](https://cityboxhotels.com/hotels/oslo/citybox-oslo)
+Alternatively see [cityboxhotels.com](https://cityboxhotels.com/hotels/oslo/citybox-oslo).
 
 ## Excursions
 Planning your Wednesday or your activities before and after the conference? Please check our [Excursions page](/conferences/2026/excursions) for tours, excursions, and suggested places to visit.
