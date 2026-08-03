@@ -63,12 +63,14 @@ Institution name | City
 [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) | Canberra
 [Australian Museum](https://australian.museum/) | Sydney
 [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) | Boulder
+[Belgian Biodiversity Platform](https://www.biodiversity.be/) | Brussels
 [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) | Washington, DC
 [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) | Lawrence, KS
 [Bishop Museum](https://bishopmuseum.org) | Honolulu, HI
 [Botanic Garden and Botanical Museum Berlin, FU Berlin](https://www.bgbm.org/) | Berlin
 [Botanic Garden Meise](https://www.plantentuinmeise.be/en) | Meise, Belgium
 [Catalogue of Life](https://www.catalogueoflife.org/) | Weesp, Netherlands
+[Centre for Australian National Biodiversity Research](https://www.cpbr.gov.au/cpbr/) | Canberra
 [Distributed System Scientific Collections (DiSSCo)](https://www.dissco.eu/) | Leiden
 [Field Museum](https://www.fieldmuseum.org/) | Chicago, IL
 [Finnish Museum of Natural History](https://www.helsinki.fi/en/luomus) | Helsinki
