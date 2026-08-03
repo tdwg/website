@@ -60,11 +60,13 @@ Invoices for membership dues can be paid:
 Institution name | City
 :--- | :---
 [Agriculture Agri-Food Canada](https://https://agriculture.canada.ca/en) | Ottawa
+[ArtDatabanken / Swedish Species Information Centre](https://www.artdatabanken.se/en/?menu=open) | Uppsala
 [Atlas of Living Australia, CSIRO](https://www.ala.org.au/) | Canberra
 [Australian Museum](https://australian.museum/) | Sydney
 [Battelle, National Ecological Observatory Network (NEON)](https://www.neonscience.org/) | Boulder
 [Belgian Biodiversity Platform](https://www.biodiversity.be/) | Brussels
 [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) | Washington, DC
+[Biodiversity Information Office, Dept Biodiversity, Conservation and Attractions](https://www.dbca.wa.gov.au/) | Western Australia
 [Biodiversity Institute, Univ of Kansas](https://biodiversity.ku.edu/) | Lawrence, KS
 [Bishop Museum](https://bishopmuseum.org) | Honolulu, HI
 [Botanic Garden and Botanical Museum Berlin, FU Berlin](https://www.bgbm.org/) | Berlin
@@ -96,6 +98,7 @@ Institution name | City
 [Norwegian Biodiversity Information Centre (Artsdatabanken)](https://www.biodiversity.no/) | Trondheim
 [Research Institute for Nature and Forest (EV INBO)](https://www.inbo.be/en) | Brussels
 [Royal Botanic Garden, Edinburgh](https://www.rbge.org.uk/) | Edinburgh
+[Royal Botanic Gardens, Kew](https://www.kew.org/) | Richmond, London
 [Royal Botanic Gardens Victoria](https://www.rbg.vic.gov.au/) | Melbourne
 [Specify Collections Consortium](https://www.specifysoftware.org/membership-levels/) | Lawrence, KS
 [Swedish Museum of Natural History](https://www.nrm.se/en/forskningochsamlingar/samlingar.179.html) | Stockholm
