@@ -31,9 +31,11 @@ quicklinks: #text, href, new_window
      href: ./visa-information
    - text: "Excursions"
      href: ./excursions
+   - text: "Poster printing"
+     href: "#local-poster-printing"
 ---
 
-_Last updated 9 Jul 2026_
+_Last updated 5 Aug 2026_
 
 <img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
 
@@ -244,6 +246,16 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 4. **Wednesday, 23 September (excursion day)**: Excursions and bioblitz activities for conference participants.
 
 <iframe class="d-block mx-auto" src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width: 100%;"></iframe>
+
+## Local poster printing
+
+Participants who would like to print a poster in Oslo can order directly from **In-Trykk & Kopi AS**. You should print in A1. Please email them your print-ready PDF file with A1 dimensions and collect your poster individually from their shop.
+
+- **Price:** NOK 450 per A1 poster, including VAT.
+- **Deadline for collection on Monday, 21 September:** send your order and print-ready PDF by **Thursday, 17 September at 12:00**.
+- **Collection:** In-Trykk & Kopi AS, Nedre Vollgate 9, 0158 Oslo. It is a short walk from the UiO Aula; see [Google Maps directions from the Aula](https://maps.app.goo.gl/PgQWetKA73SfG4S1A){:target="_blank"}.
+
+**Contact In-Trykk & Kopi AS:** [post@in-trykk.no](mailto:post@in-trykk.no) · +47 22 41 31 39 · [in-trykk.no](http://in-trykk.no/){:target="_blank"}
 
 ## Getting around Oslo
 
