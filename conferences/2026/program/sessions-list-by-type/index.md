@@ -860,6 +860,7 @@ Session type
 : Workshop (Closed)
 
 Organizers
+
 : [Javier Molina](mailto:javier.molina@csiro.au), Atlas of Living Australia / CSIRO, Australia; [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC, Spain; [Vicente José Ruiz Jurado](mailto:vjrj@gbif.es), GBIF.ES - Consejo Superior De Investigaciones Científicas (CSIC), Spain
 
 The Living Atlases community, coordinated by the Atlas of Living Australia, is a global, open-source network supporting over 20 biodiversity data portals across multiple continents. Since 2013, it has enabled widespread adoption through shared infrastructure, standards, and collaboration among GBIF nodes and partners.
@@ -871,6 +872,21 @@ As the network expands, it faces evolving technical and organisational challenge
 
 
 This workshop will cover the Living Atlases lifecycle: deployment strategies and common pitfalls, best practices for contributing to the shared codebase, and emerging technical challenges such as interoperability and sustainability. It aims to strengthen collaboration, support new adopters, and align future priorities across the community.
+
+{:id="wks51"}
+### WKS51 Practical Biodiversity Data Quality
+
+Session type
+: Workshop (Closed)
+
+Organizers
+
+: [Lee Belbin](mailto:leebelbin@gmail.com), Blatant Fabrications Pty Ltd, Australia; [Paul Morris](mailto:mole@morris.net), Museum of Comparative Zoology, Harvard University, United States.
+
+The proposed **Biodiversity Data Quality (BDQ)** standard evaluates **Darwin Core (DwC)** records through a practical framework cantered on **fitness for use**. While the standard is supported by a formal ontology and seven specialized vocabularies, its most accessible interface is the suite of **110 core Tests**.
+
+Led by **Paul J. Morris**, this workshop introduces the four functional Test classes (**Validations, Issues, Amendments, and Measures**) and the role of **Use Cases** in linking tests to specific research needs. Participants will explore how these Tests operate using standardized tripartite Responses (**status, result, and comment**) to consistently assess biodiversity data.
+
 
 ## Working meetings
 

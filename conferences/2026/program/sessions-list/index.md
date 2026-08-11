@@ -685,6 +685,21 @@ Organizers
 
 Data aggregators like GBIF have increased access to large volumes of multimodal biological data, for which increased computing power can be leveraged to enable large-scale biodiversity analyses. These data, however, often lack details and context needed to confidently include them in ecological analyses. Planned, detailed, plot-level or transect surveys conducted by researchers have been much less widely mobilized to data aggregators like GBIF and are therefore under-utilized in these computing-enabled, timely analyses. This session will explore current efforts and challenges in data standard harmonization among data providers, aggregators, and users that promote accessibility and interoperability via the new DarwinCore (DwC) data package. Participants will 1) learn to apply the DwC standard and relevant extensions (e.g., Humboldt) to in situ survey data, 2) explore how DwC can (or cannot) provide necessary details for reuse, including application-specific fitness-for-use and credit attribution throughout the data lifecycle, and 3) increase the interoperability of their data with complementary data streams, including long-term studies, climate datasets, and remote sensing products. With increased computing power and advances in AI, improved ecological models and understanding are on the horizon. However, without high-quality in situ data, we cannot fully leverage this opportunity to answer questions about the past, present, and future of Earth’s ecosystems and biodiversity.
 
+{:id="wks51"}
+### WKS51 Practical Biodiversity Data Quality
+
+Session type
+: Workshop (Closed)
+
+Organizers
+
+: [Lee Belbin](mailto:leebelbin@gmail.com), Blatant Fabrications Pty Ltd, Australia; [Paul Morris](mailto:mole@morris.net), Museum of Comparative Zoology, Harvard University, United States.
+
+The proposed **Biodiversity Data Quality (BDQ)** standard evaluates **Darwin Core (DwC)** records through a practical framework cantered on **fitness for use**. While the standard is supported by a formal ontology and seven specialized vocabularies, its most accessible interface is the suite of **110 core Tests**.
+
+Led by **Paul J. Morris**, this workshop introduces the four functional Test classes (**Validations, Issues, Amendments, and Measures**) and the role of **Use Cases** in linking tests to specific research needs. Participants will explore how these Tests operate using standardized tripartite Responses (**status, result, and comment**) to consistently assess biodiversity data.
+
+
 ## Data Infrastructure, Resilience & Governance
 
 {:id="sym18"}
