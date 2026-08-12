@@ -27,7 +27,7 @@ Be part of the TDWG 2026 conference to be held in Oslo, Norway from 21 to 25 Sep
 Special registration rates are available for TDWG members, post-docs, and students. Heavily discounted pricing is also offered for participants from [low and lower-middle income countries](https://data360.worldbank.org/en/economies#by-incomegroup). Not able to attend in person? A virtual conference registration option is available.
 
 {:.alert .alert-info}
-Early bird discount extended until [**Tuesday 21 July 9:59am UTC-12**](https://tdwg.link/early-bird-ends)
+Early bird discount has now finished.
 
 ### Presenting authors
 All content contributors (presenting authors) must be registered for at least virtual participation to remain in the program.
@@ -52,8 +52,8 @@ In-person registration covers:
 <div class="container">
   <div class="row">
     <div class="col-9">
-        <div class="alert alert-info">You can now order the conference t-shirt! See the <a href="/conferences/2026/tshirt">options available</a>.<br />
-        Secure your spot on the Wednesday <a href="/conferences/2026/excursions/#bird-trip">Bird trip</a> by adding a ticket to your registration.
+        <div class="alert alert-info">You can now order the conference t-shirt, by 28 August! See the <a href="/conferences/2026/tshirt">options available</a>.<p />
+        Secure your spot, by 1 September, for the Wednesday, 23 September <a href="/conferences/2026/excursions/#bird-trip">Bird trip</a> by adding a ticket to your registration. 
         </div>
     </div>
     <div class="col-2">

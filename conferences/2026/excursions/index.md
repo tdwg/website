@@ -67,46 +67,6 @@ For public transport, ticketing, and Oslo Pass information, see [Getting around 
 {:.alert .alert-warning}
 Some excursions require separate booking or on-site coordination. Please review carefully the information below before making any plans.
 
-## Before and after the conference
-
-Discounted longer tours are also available before and after TDWG 2026. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"} or contact [martine@nddm.no](mailto:martine@nddm.no).
-
-{:.alert .alert-warning}
-Booking deadline: **2026-06-10**.
-
-<div class="row g-3 mb-4" markdown="1">
-<div class="col-md-6" markdown="1">
-<div class="card h-100 excursion-card" markdown="1">
-![Norwegian Coastal Express](https://static.tdwg.org/conferences/2026/images/excursions/norwegian-coastal-express.jpg){:.card-img-top}
-<div class="card-body" markdown="1">
-
-### Norwegian Coastal Express
-
-<div class="excursion-meta">15-20 September · Kirkenes to Bergen · 6 days</div>
-
-[Tour details](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf){:.btn .btn-secondary}{:target="_blank"}
-
-</div>
-</div>
-</div>
-
-<div class="col-md-6" markdown="1">
-<div class="card h-100 excursion-card" markdown="1">
-![Signature Voyage - North Cape Line](https://static.tdwg.org/conferences/2026/images/excursions/north-cape-line.jpg){:.card-img-top}
-<div class="card-body" markdown="1">
-
-### Signature Voyage - North Cape Line
-
-<div class="excursion-meta">26 September-2 October · Oslo to Tromsø · 7 days</div>
-
-[Tour details](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf){:.btn .btn-secondary}{:target="_blank"}
-
-</div>
-</div>
-</div>
-</div>
-
-
 ## On Wednesday 23 September
 ## Full-day excursions
 These excursions take place outside Oslo. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"}.
@@ -124,6 +84,8 @@ These excursions take place outside Oslo. Please [book directly with the tour or
 [Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
 [Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
 
+{:.alert .alert-info}
+Register **by 1 September**
 </div>
 </div>
 </div>
@@ -140,6 +102,8 @@ These excursions take place outside Oslo. Please [book directly with the tour or
 [Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-kistefos.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
 [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
 
+{:.alert .alert-info}
+Register **by 15 September**
 </div>
 </div>
 </div>
@@ -156,6 +120,9 @@ These excursions take place outside Oslo. Please [book directly with the tour or
 [Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
 [Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
 
+{:.alert .alert-info}
+Register **by 15 September**
+
 </div>
 </div>
 </div>
@@ -164,7 +131,7 @@ These excursions take place outside Oslo. Please [book directly with the tour or
 ## Half-day excursions in Oslo
 
 {:.alert .alert-info}
-Please sign up for half-day Oslo option excursions so we can estimate interest and coordinate group activities.
+Please sign up for half-day Oslo option excursions **by 1 September** so we can estimate interest and coordinate group activities.
 
 <br/>
 [Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
@@ -343,6 +310,45 @@ Reserve your spot by purchasing a ticket with your registration. See the [Add-on
 
 <br/>
 [Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
+
+## Before and after the conference
+{:.alert .alert-error}
+Registration for these excursions have now closed.
+
+Discounted longer tours are also available before and after TDWG 2026. Please [book directly with the tour organizer](https://www.discoverhadeland.no/tdwg/){:target="_blank"} or contact [martine@nddm.no](mailto:martine@nddm.no).
+
+<div class="row g-3 mb-4" markdown="1">
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Norwegian Coastal Express](https://static.tdwg.org/conferences/2026/images/excursions/norwegian-coastal-express.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Norwegian Coastal Express
+
+<div class="excursion-meta">15-20 September · Kirkenes to Bergen · 6 days</div>
+
+[Tour details](https://www.gbif.no/events/2026/2026-09-tdwg/tour-coastal-express.pdf){:.btn .btn-secondary}{:target="_blank"}
+
+</div>
+</div>
+</div>
+
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Signature Voyage - North Cape Line](https://static.tdwg.org/conferences/2026/images/excursions/north-cape-line.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Signature Voyage - North Cape Line
+
+<div class="excursion-meta">26 September-2 October · Oslo to Tromsø · 7 days</div>
+
+[Tour details](https://www.gbif.no/events/2026/2026-09-tdwg/tour-north-cape-line.pdf){:.btn .btn-secondary}{:target="_blank"}
+
+</div>
+</div>
+</div>
+</div>
+
 
 ## Suggestions for things to do and see in Oslo
 
