@@ -12,9 +12,12 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:**  The public review of proposed changes to the Darwin Core Standard is closing on 15 August 2026. Read [more](/news/2026/dwc-july-review/). 
-        
-#  img: https://static.tdwg.org/images/articles/2026/wulfenite-crystal.jpg
+    * **New:**  Conference Program Schedule for TDWG 2026 is now live! Read [more](/news/2026/tdwg-2026-aug-program-update/).
+    
+
+    *  The public review of proposed changes to the Darwin Core Standard is closing on 15 August 2026. Read [more](/news/2026/dwc-july-review/). 
+
+  img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.

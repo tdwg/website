@@ -14,25 +14,30 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New  accommodation** options added, go to [Affordable accommodation alternatives](#affordable-accommodation-alternatives) for details.
+       * **New:** Conference Program Schedule for TDWG 2026 is now live! Read [more](/news/2026/tdwg-2026-aug-program-update/).
+       
+       * **New:** Local poster printing information added. See [details here](#local-poster-printing).
        
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
-#    img: https://static.tdwg.org/conferences/2026/images/registration-open-landscape.jpg
+       
+    img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
 #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
 #     new_window: true
+   - text: "Program schedule"
+     href: ./program/schedule
    - text: Registration
      href: ./registration
-   - text: "T-shirt"
-     href: ./tshirt
    - text: "Visa information"
      href: ./visa-information
-   - text: "Excursions"
-     href: ./excursions
    - text: "Poster printing"
      href: "#local-poster-printing"
+   - text: "T-shirt"
+     href: ./tshirt
+   - text: "Excursions"
+     href: ./excursions
 ---
 
 _Last updated 5 Aug 2026_
