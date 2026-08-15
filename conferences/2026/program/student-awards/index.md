@@ -1,7 +1,7 @@
 ---
 title: Pensoft Student Awards
 description: >
-  Recognizing student outstanding presentations
+  Recognizing outstanding student presentations
 background:
   img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
   by: Visit Norway / Field Productions
