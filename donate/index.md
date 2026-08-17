@@ -3,7 +3,8 @@ title: Donate
 description: >
   Support Biodiversity Information Standards (TDWG) and help us continue developing and promoting biodiversity standards.
 background:
-  img: https://static.tdwg.org/images/journal/biss_lizard_title.png
+  img: https://inaturalist-open-data.s3.amazonaws.com/photos/158231586/original.jpeg
+  by: Chandra Earl
 toc: false
 ---
 
