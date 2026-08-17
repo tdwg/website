@@ -17,8 +17,8 @@ TDWG is a volunteer-led, not-for-profit organization dedicated to improving the 
 <div style="display: flex; justify-content: center; margin: 3rem 0; padding: 0 2rem 8rem; overflow: visible;">
   <div style="transform: scale(1.5); transform-origin: top center;">
     <stripe-buy-button
-      buy-button-id="buy_btn_1U5WQRGliotwSSQDV3xeq6x8"
-      publishable-key="pk_live_51NQcX6GliotwSSQDMJuohGYdDp4dAM3vubbXWHGywaOPwxDDvx4VKTx6p6jNky6RmkFHcwyppCs3YrQq5NKI3bjx00lVWg0HBE"
+      buy-button-id="buy_btn_1U5ZX8GsR79F6mAuzJNNhObF"
+      publishable-key="pk_live_51U5YjvGsR79F6mAuC7F3j0dUdPVmQdvnXNCyE4lw6wbXDWs1z9UDpS7NGtGCCNC8ntFd1ZbXQoqDfySHVOL5SuSz00NqFTnXgV"
     >
     </stripe-buy-button>
   </div>
