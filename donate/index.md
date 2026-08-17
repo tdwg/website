@@ -14,8 +14,8 @@ TDWG is a volunteer-led, not-for-profit organization dedicated to improving the 
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
-<div style="display: flex; justify-content: center; margin: 3rem 0;">
-  <div style="transform: scale(1.5); transform-origin: top center; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: center; margin: 3rem 0; padding: 0 2rem 8rem; overflow: visible;">
+  <div style="transform: scale(1.5); transform-origin: top center;">
     <stripe-buy-button
       buy-button-id="buy_btn_1U5WQRGliotwSSQDV3xeq6x8"
       publishable-key="pk_live_51NQcX6GliotwSSQDMJuohGYdDp4dAM3vubbXWHGywaOPwxDDvx4VKTx6p6jNky6RmkFHcwyppCs3YrQq5NKI3bjx00lVWg0HBE"
