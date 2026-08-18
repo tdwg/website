@@ -10,6 +10,8 @@ toc: false
 
 TDWG is a volunteer-led, not-for-profit organization dedicated to improving the accessibility and interoperability of biodiversity information through the development of standards. Our work is made possible by a community of people and organizations who contribute their time, expertise, and support. By contributing to TDWG, you help ensure that this work can continue and evolve to meet the needs of the biodiversity informatics community.
 
+Those interested in supporting TDWG through a bequest or other planned gift, or in establishing a Special Endowment Fund, are invited to contact the TDWG [Treasurer](mailto:treasurer@tdwg.org) and [Chair](mailto:chair@tdwg.org) to make arrangements. Special Endowment Funds may be established for designated purposes with an initial minimum donation of $5,000 and are subject to approval by the TDWG Executive Committee.
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
