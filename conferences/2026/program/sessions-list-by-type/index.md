@@ -410,17 +410,6 @@ Organizers
 
 Collection Management Systems (CMS) face evolving challenges in managing, curating, publishing, and integrating increasingly complex research data from diverse sources. This session seeks contributions that address practical and conceptual solutions for modern, research-oriented CMS, with a focus on enabling richer, interoperable, and sustainable data flows across the global biodiversity data landscape. We welcome talks on data mobilization for research infrastructures, e.g., GBIF, OBIS, and DiSSCo. We especially seek submissions focused on emerging standards such as Darwin Core Data Package (DwC-DP), and alignment with TDWG and related domain standards to support semantic consistency and FAIR principles. Presentations exploring implications of the Darwin Core Conceptual Model - including clearer treatment of relationships among material entities, organisms, and occurrences - are encouraged. We also invite contributions on the maintenance and use of persistent identifiers and the relationship between material samples and primary literature in the context of material sample management systems and their data consumers. Further topics include machine-assisted curation workflows, community-driven development, capacity building, long-term maintenance, CMS-as-a-Service, and governance models. By bringing together CMS developers, data architects, curators, and aggregators, the session aims to advance practical solutions to current and emerging biodiversity data exchange challenges.
 
-{:id="sym44"}
-### SYM44 Standards in Practice: Shaping the Development of Coastal Biodiversity Digital Twins
-
-Session type
-: Symposium (Open)
-
-Organizers
-: [Laura Slaughter](mailto:laura.slaughter@sintef.no), SINTEF Digital, Norway
-
-Coastal Digital Twins are dynamic, data-driven virtual representations that depend on continuous data integration from heterogeneous sources, including remote sensing, acoustic monitoring, eDNA, and autonomous underwater vehicles. Coastal twins combine biodiversity data from terrestrial and marine environments. For these systems to function autonomously and at scale, they must be built on standards that enable machine readability, interoperability, and reproducibility. In this session, we will examine how standards support automated data ingestion, semantic harmonization, provenance tracking, real-time updating, and cross-domain integration. Emphasis will be placed on machine-actionable metadata, persistent identifiers, vocabularies, and ontologies. Contributions are invited that showcase implementations, conceptual frameworks, workflows, and lessons learned in making coastal biodiversity data infrastructures digital twin-ready. Topics may include: automated quality control, integration of multimodal data, semantic alignment across marine and terrestrial domains, AI-ready data pipelines, and governance challenges in highly automated systems.
-
 {:id="sym45"}
 ### SYM45 Planning the Libroscope: creating research ready biodiversity from scientific publications
 
@@ -487,17 +476,6 @@ We encourage case studies demonstrating how LLM-based tools can support biodiver
 The goal of the session is to examine how large language models may reshape biodiversity data access and curation while identifying opportunities and limitations for their responsible use.
 
 ## Session of Lightning Talks
-
-{:id="lt09"}
-### LT09 Advancing Environmental Safeguard Practices through Robot-Ready Data Standards
-
-Session type
-: Session of Lightning Talks (Open)
-
-Organizers
-: [Abdulrahim Abubakar](mailto:abdrahimnda@gmail.com), Ministry of Environment, Kwara State Nigeria, Nigeria; [Mohammed Abubakar](mailto:mmbaama@gmail.com), Federal University, Lafia, Nasarawa State, Nigeria
-
-The integration of environmental safeguards within the biodiversity conservation framework is critical in today’s rapidly changing ecosystems. This organised session aims to explore how the implementation of robot-ready data standards can enhance environmental management and social impact assessments, particularly in projects funded by international organisations like the World Bank. Drawing on over 10 years of experience in environmental management, social impact assessment, and policy implementation, we will discuss the role of automated data collection and machine learning in improving the efficiency and compliance of environmental safeguards. Participants will delve into the latest advancements in data standards that facilitate the machine-readability of environmental data, making it accessible for researchers, policymakers, and conservation practitioners. The session will feature lightning talks from leading experts, including case studies that highlight best practices in using these standards to ensure environmental compliance across various projects. Through interactive discussions and workshops, we will address challenges faced in standardising environmental data and foster innovative solutions to promote effective data collection, sharing, and analysis. Our goal is to facilitate collaboration within the environmental community and push forward innovative practices that support sustainable management of biodiversity.
 
 {:id="lt16"}
 ### LT16 Community-Powered, Research-Ready: Citizen Science for a Digital Future
@@ -855,6 +833,10 @@ The session also fosters discussion on feedback loops between publishers and lit
 
 {:id="wks50"}
 ### WKS50 Living Atlases around ALA: From Deployment to Contribution and Future Technical Directions
+
+{:.alert .alert-warning}
+This workshop will run as a side event before the conference. [See more](../side-events/#living-atlases-workshop).
+
 
 Session type
 : Workshop (Closed)

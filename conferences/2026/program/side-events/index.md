@@ -20,8 +20,8 @@ See below details for each event. Please get in touch directly with the organize
 
 <div class="container">
     <iframe 
-        style="width:100%; height:60vh;"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCQbr3fGec3EFTNzTs8aEpI49hAnNge3TtMaTSqir_FFkNekk_WcyO2SxUWyjqlZrq9oq_B_Iy-DIP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+        style="width:100%; height:65vh;"
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCQbr3fGec3EFTNzTs8aEpI49hAnNge3TtMaTSqir_FFkNekk_WcyO2SxUWyjqlZrq9oq_B_Iy-DIP/pubhtml?widget=true&amp;headers=false">
     </iframe>
 </div>
 

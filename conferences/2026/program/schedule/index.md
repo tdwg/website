@@ -27,7 +27,7 @@ See the [preliminary program schedule](https://docs.google.com/spreadsheets/d/e/
 
 <div class="container">
     <iframe 
-        style="width:100%; height:300vh;"
+        style="width:100%; height:295vh;"
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCiHULsE9_l0AwcPI01792eD8sifo0yXZaRoC59SBbDCfA29cUIcabxSp7gCeSByXPfXV1HXHCui3_/pubhtml?widget=true&amp;headers=false">
     </iframe>
 </div>

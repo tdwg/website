@@ -130,17 +130,6 @@ We encourage case studies demonstrating how LLM-based tools can support biodiver
 
 The goal of the session is to examine how large language models may reshape biodiversity data access and curation while identifying opportunities and limitations for their responsible use.
 
-{:id="lt09"}
-### LT09 Advancing Environmental Safeguard Practices through Robot-Ready Data Standards
-
-Session type
-: Session of Lightning Talks (Open)
-
-Organizers
-: [Abdulrahim Abubakar](mailto:abdrahimnda@gmail.com), Ministry of Environment, Kwara State Nigeria, Nigeria; [Mohammed Abubakar](mailto:mmbaama@gmail.com), Federal University, Lafia, Nasarawa State, Nigeria
-
-The integration of environmental safeguards within the biodiversity conservation framework is critical in today’s rapidly changing ecosystems. This organised session aims to explore how the implementation of robot-ready data standards can enhance environmental management and social impact assessments, particularly in projects funded by international organisations like the World Bank. Drawing on over 10 years of experience in environmental management, social impact assessment, and policy implementation, we will discuss the role of automated data collection and machine learning in improving the efficiency and compliance of environmental safeguards. Participants will delve into the latest advancements in data standards that facilitate the machine-readability of environmental data, making it accessible for researchers, policymakers, and conservation practitioners. The session will feature lightning talks from leading experts, including case studies that highlight best practices in using these standards to ensure environmental compliance across various projects. Through interactive discussions and workshops, we will address challenges faced in standardising environmental data and foster innovative solutions to promote effective data collection, sharing, and analysis. Our goal is to facilitate collaboration within the environmental community and push forward innovative practices that support sustainable management of biodiversity.
-
 {:id="lt17"}
 ### LT17 Bots, Bits, and Biodiversity
 
@@ -573,6 +562,9 @@ To address this gap, the MPC project has developed a practical manual that guide
 {:id="wks50"}
 ### WKS50 Living Atlases around ALA: From Deployment to Contribution and Future Technical Directions
 
+{:.alert .alert-warning}
+This workshop will run as a side event before the conference. [See more](../side-events/#living-atlases-workshop).
+
 Session type
 : Workshop (Closed)
 
@@ -837,17 +829,6 @@ This session explores the transition from prototype to operation of Digital Twin
 
 
 We invite contributions detailing the practicalities of this shift - specifically regarding data models, FAIR workflow and provenance preservation, metadata standardization, and the operational expansion of DT approaches. By fostering a dialogue between diverse DT initiatives, this session aims to define a roadmap for a sustainable digital ecosystem that empowers key policy frameworks like IPBES with scalable, evidence-based tools, ensuring that DT innovations evolve into permanent assets for European and global biodiversity decision-making.
-
-{:id="sym44"}
-### SYM44 Standards in Practice: Shaping the Development of Coastal Biodiversity Digital Twins
-
-Session type
-: Symposium (Open)
-
-Organizers
-: [Laura Slaughter](mailto:laura.slaughter@sintef.no), SINTEF Digital, Norway
-
-Coastal Digital Twins are dynamic, data-driven virtual representations that depend on continuous data integration from heterogeneous sources, including remote sensing, acoustic monitoring, eDNA, and autonomous underwater vehicles. Coastal twins combine biodiversity data from terrestrial and marine environments. For these systems to function autonomously and at scale, they must be built on standards that enable machine readability, interoperability, and reproducibility. In this session, we will examine how standards support automated data ingestion, semantic harmonization, provenance tracking, real-time updating, and cross-domain integration. Emphasis will be placed on machine-actionable metadata, persistent identifiers, vocabularies, and ontologies. Contributions are invited that showcase implementations, conceptual frameworks, workflows, and lessons learned in making coastal biodiversity data infrastructures digital twin-ready. Topics may include: automated quality control, integration of multimodal data, semantic alignment across marine and terrestrial domains, AI-ready data pipelines, and governance challenges in highly automated systems.
 
 ## Earth Sciences & Geological Collections
 
