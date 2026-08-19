@@ -2,11 +2,13 @@
   href: /conferences/2026/
 - text: "Program"
   menu:
-  - text: "New: Preliminary Schedule"
+  - text: "Preliminary schedule"
     href: /conferences/2026/program/schedule/
   - text: "Keynote speakers"
     href: /conferences/2026/program/keynotes/
-  - text: "List of Sessions"
+  - text: "Side events"
+    href: /conferences/2026/program/side-events/
+  - text: "List of sessions"
     href: /conferences/2026/program/sessions-list/
   - text: "Student Awards"
     href: /conferences/2026/program/student-awards/

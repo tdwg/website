@@ -10,10 +10,12 @@ layout: home_alt
 toc: true
 
 ---
+_Last updated 19 Aug 2026_
 
-Different Task Groups and related organisations will be running a series of events during the weekends before and after TDWG 2026 and are open for you to join.
+Different Task Groups and related organizations will be running a series of events during the weekends before and after TDWG 2026 and are open for you to join.
 
-See below details for each event. Please get in touch directly with the organisers of each event for any questions.
+See below details for each event. Please get in touch directly with the organizers of each event for any questions.
+
 ## Calendar
 
 <div class="container">
