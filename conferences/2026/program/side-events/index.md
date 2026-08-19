@@ -29,10 +29,17 @@ See below details for each event. Please get in touch directly with the organise
 
 **Event name:** CESP DwC DACK kickoff  
 **Event type:** Work meeting  
-**Event description, including links, and agenda:**  
+**Event description:** This kick-off meeting for the CESP project [Darwin Core Data Package adoption, capacity enhancement and knowledge-transfer (DwC-DACK](https://www.gbif.org/project/CESP2026-014/dwc-dack-darwin-core-data-package-adoption-capacity-enhancement-and-knowledge-transfer)) brings CMS developers, DiSSCo, GBIF Nodes and partners together to refine our technical roadmap, select target CMS instances and establish our path toward the March 2027 Leiden Hackathon.
+
+See:
+
+* [Agenda]([https://docs.google.com/forms/d/e/1FAIpQLSfs2JWsib8tU5Z_KIxjA0Nnzlkpfu7J90X7o8v_hHwEeEJsMg/viewform](https://docs.google.com/document/d/10Hl-lQ1xtrlSjm--Nd6e4otwoXRFpMl8emBw4K4Fdag/edit?tab=t.0#heading=h.hsu1wdjt1mmk))
+* [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfs2JWsib8tU5Z_KIxjA0Nnzlkpfu7J90X7o8v_hHwEeEJsMg/viewform)
+* [Add to your calendar](https://api.gbif.org/v1/newsroom/events/96d7f3-70a9-499a-a0f2-fb2db1f.ics)
+
 **Time and date:**  Sunday, 27 September 2026\. 12:00 – 17:00 CEST  
-Whether it is open to anyone and, if so, how to register:  
-Whether there is a cost involved:  
+**How to register:** The meeting is targeted to project participants but open to a limited number of other interested people for attending, as long as meeting capacity allows (accepted attendees will get a confirmation). Register through the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfs2JWsib8tU5Z_KIxjA0Nnzlkpfu7J90X7o8v_hHwEeEJsMg/viewform) before 11 September.  
+**Cost:** Meeting participation is free.  
 **Organisers:** Wouter Addink ([wouter.addink@naturalis.nl](mailto:wouter.addink@naturalis.nl))  
 **Venue:** Meeting room [K29](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-k29.html) in the [Botanical Museum](https://www.uio.no/om/finn-fram/omrader/toyen/to03/), Oslo.
 
@@ -63,16 +70,23 @@ Agenda:
 **Organisers:**  Cameron Slatyer ([cam.slatyer@csiro.au](mailto:cam.slatyer@csiro.au)), Tania Laity ([tania.laity@csiro.au](mailto:tania.laity@csiro.au))  
 **Venue:** [Botanical Museum (Lids House)](https://www.uio.no/om/finn-fram/omrader/toyen/to03/), [K29](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-k29.html)
 
-### TDWG Invasive Species Task Group
+[//]: # (### TDWG Invasive Species Task Group)
 
-**Event name:** TDWG [Invasive Species Task Group](https://www.tdwg.org/community/dwc/invasive-species/)  
-Event type (workshop, work meeting, symposium):  
-Event description, including links, and agenda:  
-**Time and date:** Friday 18th and Saturday 19th Sept  
-Whether it is open to anyone and, if so, how to register:  
-Whether there is a cost involved:  
-**Organisers:** Lien Reyserhove ([lien.reyserhove@inbo.be](mailto:lien.reyserhove@inbo.be))   
-**Venue:** [Botanical Museum (Lids House)](https://www.uio.no/om/finn-fram/omrader/toyen/to03/), [Auditorium](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html)
+[//]: # (**Event name:** TDWG [Invasive Species Task Group]&#40;https://www.tdwg.org/community/dwc/invasive-species/&#41;  )
+
+[//]: # (Event type &#40;workshop, work meeting, symposium&#41;:  )
+
+[//]: # (Event description, including links, and agenda:  )
+
+[//]: # (**Time and date:** Friday 18th and Saturday 19th Sept  )
+
+[//]: # (Whether it is open to anyone and, if so, how to register:  )
+
+[//]: # (Whether there is a cost involved:  )
+
+[//]: # (**Organisers:** Lien Reyserhove &#40;[lien.reyserhove@inbo.be]&#40;mailto:lien.reyserhove@inbo.be&#41;&#41;   )
+
+[//]: # (**Venue:** [Botanical Museum &#40;Lids House&#41;]&#40;https://www.uio.no/om/finn-fram/omrader/toyen/to03/&#41;, [Auditorium]&#40;https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html&#41;)
 
 ### Living Atlases Workshop
 
@@ -115,16 +129,24 @@ Cost: None, no catering available
 Organisers: Javier Molina, Vicente Ruiz, Francisco Pando  
 Venue: [Auditorium](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html) at the  [botanical museum building](https://www.uio.no/english/about/getting-around/areas/toyen/to03/) of the Natural History Museum in Oslo, [campus Tøyen](https://www.uio.no/om/finn-fram/omrader/toyen/)
 
-### Catalogue of Life
+[//]: # (### Catalogue of Life)
 
-Event name:  
-Event type (workshop, work meeting, symposium):  
-Event description, including links, and agenda:  
-Time and date:  
-Whether it is open to anyone and, if so, how to register:  
-Whether there is a cost involved:  
-Organisers:  
-Venue: [Botanical Museum (Lids House)](https://www.uio.no/om/finn-fram/omrader/toyen/to03/), [Auditorium](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html)
+[//]: # ()
+[//]: # (Event name:  )
+
+[//]: # (Event type &#40;workshop, work meeting, symposium&#41;:  )
+
+[//]: # (Event description, including links, and agenda:  )
+
+[//]: # (Time and date:  )
+
+[//]: # (Whether it is open to anyone and, if so, how to register:  )
+
+[//]: # (Whether there is a cost involved:  )
+
+[//]: # (Organisers:  )
+
+[//]: # (Venue: [Botanical Museum &#40;Lids House&#41;]&#40;https://www.uio.no/om/finn-fram/omrader/toyen/to03/&#41;, [Auditorium]&#40;https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html&#41;)
 
 ### European Specify Summit
 
