@@ -14,13 +14,14 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Conference Program Schedule for TDWG 2026 is now live! Read [more](/news/2026/tdwg-2026-aug-program-update/).
+       * **New:**  Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).
        
-       * **New:** Local poster printing information added. See [details here](#local-poster-printing).
-       
+
+       * Conference Program Schedule for TDWG 2026 is now live! Read [more](/news/2026/tdwg-2026-aug-program-update/).
+              
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
        
-    img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
+#    img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead

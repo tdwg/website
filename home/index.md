@@ -12,11 +12,10 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:**  Conference Program Schedule for TDWG 2026 is now live! Read [more](/news/2026/tdwg-2026-aug-program-update/).
+    * **New:**  Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).    
+
+    * Conference Program Schedule for TDWG 2026 is now live! Read [more](/news/2026/tdwg-2026-aug-program-update/).
     
-
-    *  The public review of proposed changes to the Darwin Core Standard is closing on 15 August 2026. Read [more](/news/2026/dwc-july-review/). 
-
   img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
 ---
 
