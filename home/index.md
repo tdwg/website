@@ -12,7 +12,7 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:** The program schedule now includes the **talks for each session**. [See more](/conferences/2026/program/schedule/).    
+    * **New:** The program schedule now includes the **talks for each session** and more updates. [See more](/news/2026/tdwg-2026-aug-conference-update/).    
 
 
     * Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).    
