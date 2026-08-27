@@ -15,17 +15,53 @@ _Last updated: 2026-06-17_
 
 ## Conference T-Shirt
 
-Conference T-shirts, with our troll "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased as an add-on to registration, for $25 USD, by anyone attending the conference in-person. Your T-shirt order can be picked up at the registration desk. 
+Conference T-shirts, with our troll "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased as an add-on to registration, for $25 USD, by anyone **attending the conference in-person only**. Your T-shirt order can be picked up at the registration desk. 
 
 **Orders must be placed before the Oslo morning of 28 August, 2026;** i.e., 2026-08-28T06:00:00Z
 
 As always, please contact [Conference Organizers](mailto:conf-organizers@tdwg.org) with any questions.
 
+## T-shirt options
 ### The Basic-T (unisex) size chart
 
+{:.border .border-secondary}
 ![Unisex T-shirt size chart](https://static.tdwg.org/conferences/2026/images/tshirt/unisex-sizes.png){: width="90%"}{: height="90%"}
 
 ### The Ladies T-shirt size chart
 
+{:.border .border-secondary}
 ![Ladies T-shirt size chart](https://static.tdwg.org/conferences/2026/images/tshirt/ladies-sizes.png){: width="90%"}{: height="90%"}
+
+## How to order a t-shirt
+
+### If you already registered for the conference
+
+Go to your mailbox and search for the conference registration email. It is an email with the subject “Your tickets for TDWG 2026 Conference”, see example below:
+
+{:.border .border-secondary}
+![image1](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image1.png)  
+
+On the confirmation email, scroll down to **Online order details** and click on the Website link ( this link is unique for each attendee, don’t share it with anyone). This will take you to a page with your existing order where you can then add the t-shirt.
+
+{:.border .border-secondary}
+![image2](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image2.png)
+
+Once in the existing order page,scroll down to the **Add-on** section, add the t-shirt you want and click Next. On the following screen you will be able to choose size and color.
+
+{:.border .border-secondary}
+![image3](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image3.png)
+
+Follow the remaining prompts to choose t-shirt size, color and enter payment details.
+
+### If registering for the first time
+
+Go to the [registration page](/conferences/2026/registration/) and click on In-person to start the registration process.
+
+{:.border .border-secondary}
+![image4](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image4.png)
+
+Choose the ticket type, add your t-shirt from the Add-on section, and follow the next prompts to enter your personal details, choose t-shirt size and make the payment.  
+
+{:.border .border-secondary}
+![image5](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image5.png)
 

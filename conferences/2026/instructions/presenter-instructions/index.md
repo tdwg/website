@@ -87,7 +87,7 @@ Other recommendations:
 ### Uploading your slides & pre-recorded video
 
 * **File naming convention:** SessionCode\_Order\_YourFamilyName.FileType.  Examples of the SessionCode include SYM06, CO5, LT17. So the 4th presentation in the second session of Symposium 37, by Jones would be named as:  SYM37B\_4\_Jones.ppt
-* Upload pre-recorded presentations and slides to the relevant session folder in Google drive  (link sent separately).
+* Upload pre-recorded presentations and slides to the relevant session folder in Google Drive. The link to upload your presentation to Google Drive will be provided in a separate email.
 * **IMPORTANT**: To ensure that your file remains in its original format and does not get converted to Google Slides
     * Go to the link provided and find the folder for your session (open the folder)
     * Click 'New’ then 'File upload.'

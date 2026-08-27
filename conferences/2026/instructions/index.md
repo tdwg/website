@@ -23,26 +23,25 @@ quicklinks: #text, href, new_window
 ---
 
 
-## Overview
 
+## Overview
 TDWG 2026 will be a hybrid conference and there will be virtual (remote) participants from all over the world. The hours of the conference will correspond to those of the hosts in Oslo, Norway ([8am–5:00pm, CEST, UTC+2](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2026&iso=20260921T08&p1=187)) from 21 to 25 September at the University of Oslo Aula and Oslo Congress Center.
 
-* All presenters must be [registered](/conferences/2026/registration/) for the conference.
+* All presenters must be [registered](/conferences/2026/registration/) and have paid for the conference.
 * At least one organizer for each symposium, workshop or other format must be registered for the conference.
-* There will be four sessions and two workshops running in parallel  each day, on Tuesday, Thursday and Friday. The duration of sessions and workshops range from 60 to 120 minutes with 30 to 90 minute breaks between sessions.
-* All [sessions](/conferences/2026/program/schedule/), including Plenary, will be streamed live, recorded and posted for later viewing to registered participants.
-* [Workshops](/conferences/2026/program/schedule/) and [side events](/conferences/2026/program/side-events/) won’t be streamed. Workshop and side events organizers may decide to share a video conference link but that is at their discretion.
-* Presenters should arrive at least 15 minutes ahead of a session’s start for a technical check.
+* There will be four symposium sessions and two workshops/discussion sessions running in parallel  each day, on Tuesday, Thursday and Friday. The duration of sessions and workshops range from 60 to 120 minutes with 30 to 90 minute breaks between sessions.
+* All [sessions](/conferences/2026/program/schedule/), including Plenary Day, will be streamed live, recorded and posted for later viewing to registered participants.
+* [Workshops](/conferences/2026/program/schedule/), discussion sessions and [side events](/conferences/2026/program/side-events/) won’t be streamed. Workshop, discussion session and side events organizers may decide to share a video conference link but that is at their discretion.
+* Presenters should arrive at least 15 minutes ahead of the start of their session for a technical check.
 * All remote Presenters must pre-record their presentations.
 * Slides, pre-recorded presentations, and online posters  must be uploaded by the end of work **on Tuesday, 15 September.** Presenters will be emailed a link to upload their files.
-* All Presenters who are undergraduate or postgraduate students indicated their preference during registration will enter the [student award competition](/conferences/2026/program/student-awards/).
+* All Presenters who are undergraduate or postgraduate students indicated their preference during abstract submission will enter the [student award competition](/conferences/2026/program/student-awards/).
 
 ### Language
 
 The official language of the conference is English. Presentation slides and talks will all be delivered in English.
 
-### Contacts
-
+### Questions
 Do you have questions or need help?
 
 Please email the conference organizers ([conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)).
@@ -51,9 +50,9 @@ Please email the conference organizers ([conf-organizers@tdwg.org](mailto:conf-o
 
 ### Instructions
 
-* [Instructions for presenters](/conferences/2026/instructions/presenter-instructions/)
-* [Instructions for posters presenters](/conferences/2026/instructions/poster-presenter-instructions/)
-* [Instructions for session moderators](/conferences/2026/instructions/moderator-instructions/)
+* [Instructions for presenters](https://docs.google.com/document/d/1bzClqz32U2wUqhRNCDGU35FnjQzBzskXBvEmx-64vf0/edit?tab=t.0#heading=h.hug9r6dzw9t6)
+* [Instructions for posters presenters](https://docs.google.com/document/d/1DpGnksb7FxbEgo2_JGI4vvLM-cj4Cu9EKBC0CH1dELI/edit?usp=drive_link)
+* [Instructions for session moderators](https://docs.google.com/document/d/1nN5kgFf0ExppSnd5O2wOlPGDKEGKcXUdwk4vI2MkyXs/edit?tab=t.0)
 
 ### Files
 
@@ -69,15 +68,15 @@ Sessions throughout the conference take different forms. If you are new to TDWG 
 
 ### Symposium
 
-A symposium has a series of presentations around a theme or topic. Presenters may take questions from the audience if time allows, and there may or may not be a general discussion included. This is the most common session type chosen.
+A symposium has a series of presentations around a theme or topic. Presenters may take questions from the audience if time allows, and there may or may not be a general discussion included. This is the most common session type.
 
 ### Contributed oral sessions
 
-A contributed oral session follows the format of a symposium but the presentations may not be part of the same theme or topic.
+A contributed oral session follows the format of a symposium and the presentations have been grouped around a theme that emerges from the talks themselves. .
 
 ### Session of lightning talks
 
-Lightning talks are usually 5 minutes long. These sessions are rapid-fire, energetic, and fast-moving. They're a great way for presenters to showcase just one idea or result.
+Lightning talks are 5 minutes long. These sessions are rapid-fire, energetic, and fast-moving. They're a great way for presenters to showcase just one idea or result.
 
 ### Workshops
 
@@ -89,22 +88,23 @@ If you can attend as a virtual participant you could use one of these [virtual b
 
 ### Discussion sessions
 
-Discussion sessions can take various forms, including an invited panel, a fireside chat format, presentations as pre-recorded videos, followed by an open discussion.
+Discussion sessions can take various forms, including an invited panel, a fireside chat format,  or an open discussion.
 
 ### Unconference
 
-An Unconference session will be held on the final day of the conference.  Organizers of the Unconference will provide further details about participation closer to the day.
+The Unconference is a participant-driven session designed to explore ideas inspired by the main TDWG 2026 Conference event and this year’s theme “Research and Robot-ready Biodiversity Data Standards”.
+
+Attendees can propose topics, join breakout discussions, and collaboratively examine issues of shared interest.
+
+The format provides an opportunity for all participants, in person or online, to connect with both existing and new colleagues, explore subjects in greater depth or propose new areas that haven’t been mentioned yet throughout the conference \- sowing the seeds for new collaborations.
 
 ### Working meeting
 
 Some TDWG Interest Groups and Task Groups hold a face-to-face working meeting to make progress towards their goal.
 
-Some work meetings will take place during the weekends before or after the conference, make sure you check the [side events](/conferences/2026/program/side-events/) page in addition to the conference [program schedule](/conferences/2026/program/schedule/).
+Some working meetings will take place during the weekends before or after the conference, make sure you check the [side events](/conferences/2026/program/side-events/) page in addition to the conference [program schedule](/conferences/2026/program/schedule/).
 
 Side events won’t be streamed. Side events organizers may decide to share a video conference link but that is at their discretion.
 
 If you can attend as a virtual participant you could use one of these [virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link).
-
-
-
 
