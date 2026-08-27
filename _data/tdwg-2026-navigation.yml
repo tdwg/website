@@ -2,7 +2,7 @@
   href: /conferences/2026/
 - text: "Program"
   menu:
-  - text: "Program schedule"
+  - text: "New: Program schedule"
     href: /conferences/2026/program/schedule/
   - text: "Keynote speakers"
     href: /conferences/2026/program/keynotes/
@@ -26,20 +26,30 @@
     href: /conferences/2026/#getting-around-oslo
   - text: "Hotels in Oslo"
     href: /conferences/2026/#hotels-in-oslo
-
-- text: "Submissions"
+- text: "Instructions"
   menu:
-  - text: "Already closed"
-  - text: "Abstracts"
-  - text: "Call for Abstracts"
-    href: /conferences/2026/submissions/call-for-abstracts/
-  - text: "Instructions for Abstract Submission"
-    href: /conferences/2026/submissions/abstract-instructions/
-  - text: "Sessions"
-  - text: "Call for Sessions"
-    href: /conferences/2026//submissions/call-for-sessions/
-  - text: "Instructions for Session Proposals"
-    href: /conferences/2026//submissions/session-instructions/
+  - text: "New: Presentations information"
+    href: /conferences/2026/instructions/
+  - text: "New: Instructions for presenters"
+    href: /conferences/2026/instructions/presenter-instructions/
+  - text: "New: Instructions for poster presenters"
+    href: /conferences/2026/instructions/poster-presenter-instructions/
+  - text: "New: Instructions for session moderators"
+    href: /conferences/2026/instructions/moderator-instructions/
+
+#- text: "Submissions"
+#  menu:
+#  - text: "Already closed"
+#  - text: "Abstracts"
+#  - text: "Call for Abstracts"
+#    href: /conferences/2026/submissions/call-for-abstracts/
+#  - text: "Instructions for Abstract Submission"
+#    href: /conferences/2026/submissions/abstract-instructions/
+#  - text: "Sessions"
+#  - text: "Call for Sessions"
+#    href: /conferences/2026//submissions/call-for-sessions/
+#  - text: "Instructions for Session Proposals"
+#    href: /conferences/2026//submissions/session-instructions/
 - text: "About"
   menu:
   - text: "Organizing Committee"

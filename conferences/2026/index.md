@@ -14,8 +14,11 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
+       * **New:** A summary of what to expect during TDWG 2026, instructions for presenters, poster presenters, session moderators and resources have been added. [See more](/conferences/2026/instructions/).  
+
+
        * **New:** The program schedule now includes the **talks for each session**. [See more](/conferences/2026/program/schedule/).  
-       
+
 
        * Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).
               
@@ -29,12 +32,12 @@ quicklinks: #text, href, new_window
 #     new_window: true
    - text: "Program schedule"
      href: ./program/schedule
+   - text: "Presentations information"
+     href: /conferences/2026/instructions/
    - text: Registration
      href: ./registration
    - text: "Visa information"
      href: ./visa-information
-   - text: "Poster printing"
-     href: "#local-poster-printing"
    - text: "T-shirt"
      href: ./tshirt
    - text: "Excursions"
@@ -255,13 +258,10 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 
 ## Local poster printing
 
-Participants who would like to print a poster in Oslo can order directly from **In-Trykk & Kopi AS**. You should print in A1. Please email them your print-ready PDF file with A1 dimensions and collect your poster individually from their shop.
+{:.alert .alert-warning}
+Content has moved.
 
-- **Price:** NOK 450 per A1 poster, including VAT.
-- **Deadline for collection on Monday, 21 September:** send your order and print-ready PDF by **Thursday, 17 September at 12:00**.
-- **Collection:** In-Trykk & Kopi AS, Nedre Vollgate 9, 0158 Oslo. It is a short walk from the UiO Aula; see [Google Maps directions from the Aula](https://maps.app.goo.gl/PgQWetKA73SfG4S1A){:target="_blank"}.
-
-**Contact In-Trykk & Kopi AS:** [post@in-trykk.no](mailto:post@in-trykk.no) · +47 22 41 31 39 · [in-trykk.no](http://in-trykk.no/){:target="_blank"}
+See [Instructions for poster presenters](/conferences/2026/instructions/poster-presenter-instructions/)
 
 ## Getting around Oslo
 

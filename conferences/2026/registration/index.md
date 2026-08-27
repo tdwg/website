@@ -52,8 +52,10 @@ In-person registration covers:
 <div class="container">
   <div class="row">
     <div class="col-9">
-        <div class="alert alert-info">You can now order the conference t-shirt, by 28 August! See the <a href="/conferences/2026/tshirt">options available</a>.<p />
-        Secure your spot, by 1 September, for the Wednesday, 23 September <a href="/conferences/2026/excursions/#bird-trip">Bird trip</a> by adding a ticket to your registration. 
+        <div class="alert alert-warning">You can now order the conference t-shirt, by 28 August! See the <a href="/conferences/2026/tshirt">options available and how to order</a>, this is handy for people who already registered.<p/>
+        </div>
+
+        <div class="alert alert-info">Secure your spot, by 1 September, for the Wednesday, 23 September <a href="/conferences/2026/excursions/#bird-trip">Bird trip</a> by adding a ticket to your registration.
         </div>
     </div>
     <div class="col-2">
