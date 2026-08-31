@@ -41,9 +41,11 @@ Go to your mailbox and search for the conference registration email. It is an em
 {:.border .border-secondary}
 ![image1](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image1.png)  
 
-On the confirmation email, scroll down to **Online order details** and click on the Website link ( this link is unique for each attendee, don’t share it with anyone). This will take you to a page with your order history. 
+
+Or your confirmation email, scroll down to the **Online order details** section, at the end you will find  a button (see image below) that says "Add to your order".  Clicking that will take you to your order history and the add-on screen.
+
 {:.border .border-secondary}
-![image2](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image2.png)
+![image2](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image2.6.png)
 
 Once in the **Order history** page, click on **Buy more tickets or add-ons**, this will take you to the **Purchase additional tickets and add-ons** screen 
 
@@ -56,10 +58,6 @@ In  the **Purchase additional tickets and add-ons** page,scroll down to the **Ad
 ![image3](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image3.png)
 
 Follow the remaining prompts to choose t-shirt size, color and enter payment details.
-
-Or your confirmation email should contain a button (like below) that says "Add to your order".  Clicking that will also take you to your order history and the add-on screen, as above.
-
-![image2](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image2.6.png)
 
 {:.alert .alert-info }
 **Tip:** You can use the same or a different bank card to pay for the t-shirt. This is useful to split payments if, for example, your employer pays for your attendance registration but not for addons.
