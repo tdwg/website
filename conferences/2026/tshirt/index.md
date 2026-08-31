@@ -42,7 +42,7 @@ Go to your mailbox and search for the conference registration email. It is an em
 ![image1](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image1.png)  
 
 
-Or your confirmation email, scroll down to the **Online order details** section, at the end you will find  a button (see image below) that says "Add to your order".  Clicking that will take you to your order history and the add-on screen.
+On your confirmation email, scroll down to the **Online order details** section, at the end of it you will find  a button (see image below) that says "Add to your order".  Clicking that will take you to your order history and the add-on screen.
 
 {:.border .border-secondary}
 ![image2](https://static.tdwg.org/conferences/2026/images/tshirt/t-shirt-image2.6.png)
