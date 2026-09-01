@@ -88,3 +88,4 @@ If you are working with online participants, please ask them to:
 
 * Be alert and have considered what you will do to defuse a situation, deflect attention from someone acting inappropriately, or support the speaker or a questioner from someone in the audience who does not act respectfully during the session. See also the [TDWG 2026 Code of Conduct](https://www.tdwg.org/conferences/2026/code-of-conduct/).
 
+* Download the [Whova](https://whova.com/portal/nI5kqHJUlXRXwrQ5azguypHAMZ8a1kAAhXeMLF3FILM=/?source=download_page) the offcial TDWG 2026 app. Check out some of the features such as Session Q&A and Polls. Think about ways you can engage with participants well before your session.  

@@ -13,6 +13,8 @@ quicklinks: #text, href, new_window
   #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
   #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
   #     new_window: true
+  - text: "TDWG 2026 in Whova"
+    href: https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/
   - text: "Instructions for presenters"
     href: /conferences/2026/instructions/presenter-instructions/
   - text: "Instructions for poster presenters"
@@ -36,6 +38,7 @@ TDWG 2026 will be a hybrid conference and there will be virtual (remote) partici
 * All remote Presenters must pre-record their presentations.
 * Slides, pre-recorded presentations, and online posters  must be uploaded by the end of work **on Tuesday, 15 September.** Presenters will be emailed a link to upload their files.
 * All Presenters who are undergraduate or postgraduate students indicated their preference during abstract submission will enter the [student award competition](/conferences/2026/program/student-awards/).
+* Download the [Whova app](https://whova.com/portal/nI5kqHJUlXRXwrQ5azguypHAMZ8a1kAAhXeMLF3FILM=/?source=download_page)
 
 ### Language
 
@@ -46,21 +49,45 @@ Do you have questions or need help?
 
 Please email the conference organizers ([conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)).
 
+## Conference platform
+
+Whova is the official application for the conference.
+
+
+![Whova](https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo)
+
+There are some reasons you want to start using Whova now:
+
+* Access the full agenda, add your favourite presentations and plan your week with your own agenda even without internet access.
+* Start networking with other attendees, presenters and session organizers. Explore attendees profiles, see the Community board and start posting messages.  
+* Partcipate with comments and questions during sessions, online polls and more.
+* Share your best pictures of the conference. Your picture may make it to our socials.
+
+<a class="btn btn-primary btn-lg" href="https://whova.com/portal/nI5kqHJUlXRXwrQ5azguypHAMZ8a1kAAhXeMLF3FILM=/?source=download_page">Download the Whova app now!</a>
+
+You also have the option to access the TDWG 2026 Conference in [Whova webapp](https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/){:target="_blank"}.
+
+<div class="alert alert-danger" >
+        You need to be registered for the conference to access the program in Whova.
+</div>
+
+
 ## Resources for presenters and moderators
 
 ### Instructions
 
-* [Instructions for presenters](https://docs.google.com/document/d/1bzClqz32U2wUqhRNCDGU35FnjQzBzskXBvEmx-64vf0/edit?tab=t.0#heading=h.hug9r6dzw9t6)
-* [Instructions for posters presenters](https://docs.google.com/document/d/1DpGnksb7FxbEgo2_JGI4vvLM-cj4Cu9EKBC0CH1dELI/edit?usp=drive_link)
-* [Instructions for session moderators](https://docs.google.com/document/d/1nN5kgFf0ExppSnd5O2wOlPGDKEGKcXUdwk4vI2MkyXs/edit?tab=t.0)
+* [Instructions for presenters](/conferences/2026/instructions/presenter-instructions/)
+* [Instructions for posters presenters](/conferences/2026/instructions/poster-presenter-instructions/)
+* [Instructions for session moderators](/conferences/2026/instructions/moderator-instructions/)
+
+{:.alert .alert-warning}
+Note that the above documents **DO NOT include** links for uploading presentations. These will be provided in a separate email to presenters or moderators requiring access to them.
 
 ### Files
+Make use of the conference branding with the following resources:
 
-* [Presenters template](https://docs.google.com/presentation/d/1rU4Nr_5V1HKKCOR3dTclFlPv_b_OCICuJx85WGaZLv0/edit?usp=drive_link)
-* [Session organizer template](https://docs.google.com/presentation/d/1v1_1Oq91Qqr3-35IxHBJ-gYqcx6xdITyA8uzDncEx7I/edit?usp=drive_link)
-* [Virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link)
+[Presenters template](https://docs.google.com/presentation/d/1rU4Nr_5V1HKKCOR3dTclFlPv_b_OCICuJx85WGaZLv0/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [Session organizer template](https://docs.google.com/presentation/d/1v1_1Oq91Qqr3-35IxHBJ-gYqcx6xdITyA8uzDncEx7I/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [Virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"}
 
-Note that the above documents DO NOT include links for uploading presentations. These will be provided in a separate email to presenters or moderators requiring access to them.
 
 ## Session types
 
