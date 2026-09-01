@@ -2,7 +2,9 @@
   href: /conferences/2026/
 - text: "Program"
   menu:
-  - text: "New: Program schedule"
+  - text: "New: TDWG 2026 in Whova"
+    href: https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/
+  - text: "Program schedule"
     href: /conferences/2026/program/schedule/
   - text: "Keynote speakers"
     href: /conferences/2026/program/keynotes/
@@ -28,13 +30,13 @@
     href: /conferences/2026/#hotels-in-oslo
 - text: "Instructions"
   menu:
-  - text: "New: Presentations information"
+  - text: "Presentations information"
     href: /conferences/2026/instructions/
-  - text: "New: Instructions for presenters"
+  - text: "Instructions for presenters"
     href: /conferences/2026/instructions/presenter-instructions/
-  - text: "New: Instructions for poster presenters"
+  - text: "Instructions for poster presenters"
     href: /conferences/2026/instructions/poster-presenter-instructions/
-  - text: "New: Instructions for session moderators"
+  - text: "Instructions for session moderators"
     href: /conferences/2026/instructions/moderator-instructions/
 
 #- text: "Submissions"

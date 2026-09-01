@@ -14,22 +14,25 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** A summary of what to expect during TDWG 2026, instructions for presenters, poster presenters, session moderators and resources have been added. [See more](/conferences/2026/instructions/).  
+       * **New:** Whova is the official TDWG 2026 app. See the full program, plan your week at the conference, start networking  [and more](/conferences/2026/instructions/#conference-platform). 
 
 
-       * **New:** The program schedule now includes the **talks for each session**. [See more](/conferences/2026/program/schedule/).  
+       * A summary of what to expect during TDWG 2026, instructions for presenters, poster presenters, session moderators and resources have been added. [See more](/conferences/2026/instructions/).  
 
 
        * Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).
+
               
        * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
        
-    img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
+    img: https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
 #     href: https://www.gbif.no/events/2026/2026-09-tdwg-in-oslo.html
 #     new_window: true
+   - text: "TDWG 2026 in Whova"
+     href: https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/
    - text: "Program schedule"
      href: ./program/schedule
    - text: "Presentations information"
@@ -44,9 +47,32 @@ quicklinks: #text, href, new_window
      href: ./excursions
 ---
 
-_Last updated 5 Aug 2026_
+_Last updated 1 Sep 2026_
 
-<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
+<div class="float-end ms-5 img-fluid">
+   <div>
+      <img class="" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
+   </div>
+   <p></p>
+   <div style="line-height:1.4em;background-color:#f9f9f9;border:1px solid #ccc;padding:10px;width:220px;font-family:Helvetica;" data-reactroot="">
+      <div style="">
+         <div style="text-align:center;font-size:16px">
+            <span>Get the official TDWG 2026 app,</span>
+            <div style="margin:10px 0px"><img style="height:32px" src="https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo" title="whova-logo"/>
+            </div>
+         </div>
+         <div style="margin-top:20px;clear:both;text-align:center;padding:0 0 5px 0">
+            <a href="https://itunes.apple.com/app/apple-store/id716979741?pt=1944835&amp;ct=download_widget&amp;mt=8" target="_blank" rel="noreferrer" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none;margin-right:5px">iOS</a>
+            <a href="https://play.google.com/store/apps/details?id=com.whova.event" target="_blank" rel="noreferrer" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none">Android</a>
+         </div>
+      </div>
+      <div>
+         <span style="font-size:13px">To access the Whova webapp,</span> <a target="_blank" rel="noreferrer" style="font-size:13px;text-decoration:none;color:#3c8dbc" href="https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/">Click here</a>
+         <div style="font-size:13px">For feature details, visit<!-- --> <a target="_blank" rel="noreferrer" style="text-decoration:none;color:#3c8dbc" href="https://whova.com/">Whova</a></div>
+      </div>
+   </div>
+</div>
+
 
 {:.lead}
 Join us for TDWG 2026 in Oslo from 21 to 25 September
