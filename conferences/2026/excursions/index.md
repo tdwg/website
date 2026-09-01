@@ -140,7 +140,7 @@ Register **by 15 September**
 ## Half-day excursions in Oslo
 
 {:.alert .alert-info}
-Please sign up for half-day Oslo option excursions **by 1 September** so we can estimate interest and coordinate group activities.
+Please sign up for half-day Oslo option excursions **by 15 September** so we can estimate interest and coordinate group activities.
 
 <br/>
 [Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
