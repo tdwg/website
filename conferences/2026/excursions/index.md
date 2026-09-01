@@ -55,6 +55,18 @@ _Last updated: 2026-06-09_
   white-space: nowrap;
   width: 1px;
 }
+
+.excursion-details + .excursion-details {
+  margin-top: 0.35rem;
+}
+
+.excursion-details summary {
+  cursor: pointer;
+}
+
+.excursion-details p {
+  margin: 0.25rem 0 0.5rem;
+}
 </style>
 
 ## Excursions at TDWG 2026
@@ -77,15 +89,12 @@ These excursions take place outside Oslo. Please [book directly with the tour or
 ![Dokka delta](https://static.tdwg.org/conferences/2026/images/excursions/dokka-delta.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
-### Dokka delta
+### Dokka delta — cancelled
 
 <div class="excursion-meta">Focus: ancient forest</div>
 
-[Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
-[Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
-
-{:.alert .alert-info}
-Register **by 1 September**
+{:.alert .alert-warning}
+This excursion has been cancelled because it did not receive enough registrations by the deadline.
 </div>
 </div>
 </div>
@@ -131,7 +140,7 @@ Register **by 15 September**
 ## Half-day excursions in Oslo
 
 {:.alert .alert-info}
-Please sign up for half-day Oslo option excursions **by 1 September** so we can estimate interest and coordinate group activities.
+Please sign up for half-day Oslo option excursions **by 15 September** so we can estimate interest and coordinate group activities.
 
 <br/>
 [Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
@@ -206,21 +215,33 @@ You can visit independently or as a group. A student guide may be arranged if th
 ![Botanical Garden and Natural History Museum](https://static.tdwg.org/conferences/2026/images/excursions/botanical-garden-natural-history-museum.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
-### Botanical Garden and Natural History Museum
+### Botanical Garden, Natural History Museum, and Research Collections
 
-The Botanical Garden at Tøyen is Oslo's largest botanical garden, with greenhouses, themed gardens, and peaceful walking paths close to the city centre. The Natural History Museum showcases Norway's geology, minerals, fossils, dinosaurs, and biodiversity.
+Choose from guided public tours and small-group visits to the museum's research collections:
 
-The tour of the Botanical Garden is scheduled for 13:00 on Wednesday. Maximum 30 people.
+- **Botanical Garden:** 13:00, maximum 30 participants
+- **Natural History Museum exhibitions:** afternoon, time to be confirmed, maximum 20 participants
 
-The tour of the Museum is scheduled after lunch, with the time to be confirmed later. Maximum 20 people. A herbarium tour will be led by Carmen Celine Tyndale Dalseng.
+#### Behind-the-scenes visits (morning)
 
+<details class="excursion-details">
+<summary><strong>Herbarium</strong> · 10:00 and 11:00 · 1 hour · max. 10 per group</summary>
+<p>Led by Carmen Celine Tyndale Dalseng. Meet outside the main entrance to Lids hus.</p>
+</details>
 
-**Good for:** biodiversity, gardens, museum collections  
-**Duration:** 1-2 hours for a garden or museum tour; 2-3 hours for behind-the-scenes collections if arranged
+<details class="excursion-details">
+<summary><strong>Vertebrates and DNA bank</strong> · 10:00 and 11:00 · max. 10 per group</summary>
+<p>Led by Arild Johnsen, covering the vertebrate dry collections and DNA bank. Meet on the steps outside the Colletts hus office entrance.</p>
+</details>
 
-Behind-the-scenes collection visits are still to be arranged.
+<details class="excursion-details">
+<summary><strong>Geological collections at Økern</strong> · 10:00–11:00 · max. 10</summary>
+<p>Led by Hans Arne Nakrem. Meet outside the entrance at <a href="https://maps.app.goo.gl/iUPejsYsb8p6pwut5" target="_blank">Kabelgaten 38</a>.</p>
+</details>
 
-[Visit Oslo information](https://www.visitoslo.com/en/product/?tlp=2982783&name=Natural-History-Museum){:.btn .btn-secondary}{:target="_blank"}
+[Places on the behind-the-scenes visits are limited and require advance sign-up.](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"}
+
+**Good for:** biodiversity, botany, natural history, scientific collections
 
 </div>
 </div>
