@@ -89,15 +89,12 @@ These excursions take place outside Oslo. Please [book directly with the tour or
 ![Dokka delta](https://static.tdwg.org/conferences/2026/images/excursions/dokka-delta.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
-### Dokka delta
+### Dokka delta — cancelled
 
 <div class="excursion-meta">Focus: ancient forest</div>
 
-[Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-dokka.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
-[Map](https://maps.app.goo.gl/Te9nuHhkY2MdAAwbA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
-
-{:.alert .alert-info}
-Register **by 1 September**
+{:.alert .alert-warning}
+This excursion has been cancelled because it did not receive enough registrations by the deadline.
 </div>
 </div>
 </div>
