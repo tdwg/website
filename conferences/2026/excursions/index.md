@@ -235,8 +235,8 @@ Choose from guided public tours and small-group visits to the museum's research 
 </details>
 
 <details class="excursion-details">
-<summary><strong>Geological collections at Økern</strong> · details to be confirmed</summary>
-<p>Led by Hans Arne Nakrem. The time, meeting place, duration, and group capacity will be confirmed.</p>
+<summary><strong>Geological collections at Økern</strong> · 10:00–11:00 · max. 10</summary>
+<p>Led by Hans Arne Nakrem. Meet outside the entrance at <a href="https://maps.app.goo.gl/iUPejsYsb8p6pwut5" target="_blank">Kabelgaten 38</a>.</p>
 </details>
 
 [Places on the behind-the-scenes visits are limited and require advance sign-up.](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"}
