@@ -56,8 +56,21 @@ _Last updated: 2026-06-09_
   width: 1px;
 }
 
+.excursion-option,
+.excursion-details summary {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.excursion-option + .excursion-option,
+.excursion-option + .excursion-subheading,
 .excursion-details + .excursion-details {
   margin-top: 0.35rem;
+}
+
+.excursion-subheading {
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
 }
 
 .excursion-details summary {
@@ -171,6 +184,43 @@ Along the way, participants will experience classic Norwegian coniferous forest,
 
 <div class="col-md-6" markdown="1">
 <div class="card h-100 excursion-card" markdown="1">
+![Botanical Garden and Natural History Museum](https://static.tdwg.org/conferences/2026/images/excursions/botanical-garden-natural-history-museum.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Botanical Garden, Natural History Museum & Research Collections
+
+Choose from guided public tours and small-group visits to the museum's research collections.
+
+<div class="excursion-option"><strong>Botanical Garden</strong> · 13:00 · max. 30</div>
+<div class="excursion-option"><strong>Natural History Museum exhibitions</strong> · afternoon (time TBC) · max. 20</div>
+
+<h4 class="excursion-subheading">Behind-the-scenes visits (morning)</h4>
+
+<details class="excursion-details">
+<summary><strong>Herbarium</strong> · 10:00 / 11:00 · max. 10 per group</summary>
+<p>Led by Carmen Celine Tyndale Dalseng. Meet outside the main entrance to Lids hus.</p>
+</details>
+
+<details class="excursion-details">
+<summary><strong>Vertebrates &amp; DNA bank</strong> · 10:00 / 11:00 · max. 10 per group</summary>
+<p>Led by Arild Johnsen, covering the vertebrate dry collections and DNA bank. Meet on the steps outside the Colletts hus office entrance.</p>
+</details>
+
+<details class="excursion-details">
+<summary><strong>Geological collections at Økern</strong> · 10:00–11:00 · max. 10</summary>
+<p>Led by Hans Arne Nakrem. Meet outside the entrance at <a href="https://maps.app.goo.gl/iUPejsYsb8p6pwut5" target="_blank">Kabelgaten 38</a>.</p>
+</details>
+
+[Places on the behind-the-scenes visits are limited and require advance sign-up.](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"}
+
+**Good for:** biodiversity, botany, natural history, scientific collections
+
+</div>
+</div>
+</div>
+
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
 ![MUNCH museum in Oslo](https://static.tdwg.org/conferences/2026/images/excursions/museums-of-oslo.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
@@ -205,43 +255,6 @@ Vigeland Sculpture Park is the world's largest sculpture park created by a singl
 You can visit independently or as a group. A student guide may be arranged if there is enough interest. The [Vigeland Museum](https://vigeland.museum.no/en){:target="_blank"} is nearby and can be paid for on entry.
 
 [Visit Oslo information](https://www.visitoslo.com/en/product/?tlp=2983043&name=Vigeland-Sculpture-Park){:.btn .btn-secondary}{:target="_blank"}
-
-</div>
-</div>
-</div>
-
-<div class="col-md-6" markdown="1">
-<div class="card h-100 excursion-card" markdown="1">
-![Botanical Garden and Natural History Museum](https://static.tdwg.org/conferences/2026/images/excursions/botanical-garden-natural-history-museum.jpg){:.card-img-top}
-<div class="card-body" markdown="1">
-
-### Botanical Garden, Natural History Museum, and Research Collections
-
-Choose from guided public tours and small-group visits to the museum's research collections:
-
-- **Botanical Garden:** 13:00, maximum 30 participants
-- **Natural History Museum exhibitions:** afternoon, time to be confirmed, maximum 20 participants
-
-#### Behind-the-scenes visits (morning)
-
-<details class="excursion-details">
-<summary><strong>Herbarium</strong> · 10:00 and 11:00 · 1 hour · max. 10 per group</summary>
-<p>Led by Carmen Celine Tyndale Dalseng. Meet outside the main entrance to Lids hus.</p>
-</details>
-
-<details class="excursion-details">
-<summary><strong>Vertebrates and DNA bank</strong> · 10:00 and 11:00 · max. 10 per group</summary>
-<p>Led by Arild Johnsen, covering the vertebrate dry collections and DNA bank. Meet on the steps outside the Colletts hus office entrance.</p>
-</details>
-
-<details class="excursion-details">
-<summary><strong>Geological collections at Økern</strong> · 10:00–11:00 · max. 10</summary>
-<p>Led by Hans Arne Nakrem. Meet outside the entrance at <a href="https://maps.app.goo.gl/iUPejsYsb8p6pwut5" target="_blank">Kabelgaten 38</a>.</p>
-</details>
-
-[Places on the behind-the-scenes visits are limited and require advance sign-up.](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"}
-
-**Good for:** biodiversity, botany, natural history, scientific collections
 
 </div>
 </div>
