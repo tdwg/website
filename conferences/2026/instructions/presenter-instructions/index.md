@@ -52,7 +52,7 @@ Poster presenters, please see [separate instructions](/conferences/2026/instruct
 ### Slide Format:
 
 * **Extension**: PowerPoint (pptx), OpenDocument Presentation (ODP) or PDF files. If you use Google Slides, please download them as one of these formats.
-* You can copy or download the [conference template](https://docs.google.com/presentation/d/1rU4Nr_5V1HKKCOR3dTclFlPv_b_OCICuJx85WGaZLv0/edit?usp=sharing).
+* You can copy or download the [Presenters template](https://docs.google.com/presentation/d/1rU4Nr_5V1HKKCOR3dTclFlPv_b_OCICuJx85WGaZLv0/edit?usp=sharing){:.btn .btn-secondary .btn-sm}{:target="_blank"}.
 * **Size:** 16:9. Try to avoid putting critical content in the top right corner of your slides (where the speaker is often displayed in video).
 * **Font:** sans-serif fonts (e.g., Arial, Verdana, Source Sans 3\) with size \> 178 pt.
 * Do not embed videos, use animations or fancy slide transitions that might slow, bloat the file size or otherwise hinder the presentation during streaming. If sound or video must be embedded in slides, prior notice must be given [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org)

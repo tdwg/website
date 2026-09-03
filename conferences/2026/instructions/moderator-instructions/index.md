@@ -63,7 +63,7 @@ If you are working with online participants, please ask them to:
 <div class="alert alert-info" markdown="1">
 
 * Enter your specific information where the red <span style="color:red;">XX</span>’s are.
-* Consider downloading and customizing [this slide template](https://docs.google.com/presentation/d/1v1_1Oq91Qqr3-35IxHBJ-gYqcx6xdITyA8uzDncEx7I/edit?usp=sharing) to summarize this information, which can run before the session starts and eliminates taking up valuable session time.
+* Consider downloading and customizing the [Session organizer template](https://docs.google.com/presentation/d/1v1_1Oq91Qqr3-35IxHBJ-gYqcx6xdITyA8uzDncEx7I/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} to summarize this information, which can run before the session starts and eliminates taking up valuable session time.
 * Use the following naming convention for this slide: **SYM<span style="color:red;">XX</span>\_00\_TitleSlide.pptx** (or .pdf, not Google Slide; use two zeros between the underscores). For more information, see [Uploading your slides & pre-recorded video](/conferences/2026/instructions/presenter-instructions/#uploading-your-slides--pre-recorded-video).
 * If you did not receive the link to the upload to Google Drive, please email [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) with your session identifier (e.g., SYM01).  
 </div>
@@ -88,4 +88,4 @@ If you are working with online participants, please ask them to:
 
 * Be alert and have considered what you will do to defuse a situation, deflect attention from someone acting inappropriately, or support the speaker or a questioner from someone in the audience who does not act respectfully during the session. See also the [TDWG 2026 Code of Conduct](https://www.tdwg.org/conferences/2026/code-of-conduct/).
 
-* Download the [Whova](https://whova.com/portal/nI5kqHJUlXRXwrQ5azguypHAMZ8a1kAAhXeMLF3FILM=/?source=download_page) the offcial TDWG 2026 app. Check out some of the features such as Session Q&A and Polls. Think about ways you can engage with participants well before your session.  
+* Download [Whova](https://whova.com/portal/nI5kqHJUlXRXwrQ5azguypHAMZ8a1kAAhXeMLF3FILM=/?source=download_page), the offcial TDWG 2026 app. Check out some of the features such as Session Q&A and Polls. Think about ways you can engage with participants well before your session.  
