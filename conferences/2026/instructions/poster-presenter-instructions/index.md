@@ -51,7 +51,10 @@ As an author of an accepted abstract and registered attendee, either in-person o
 
 ## Preparing your poster content
 
-[//]: # (* For your convenience, there is a conference-themed template with a customisable layout.)
+* For your convenience, you can use one of the two available conference poster templates below, both include a sample poster:
+
+[A1 poster template](https://docs.google.com/presentation/d/133J0W-pehFMeoJoBGkfv6aIdVQx-jy1d/edit?usp=sharing&ouid=113809245143822760415&rtpof=true&sd=true){:.btn .btn-secondary .btn-sm}{:target="_blank"} [A0 poster template](https://docs.google.com/presentation/d/1vF3Ug6Bd2-8z0LVG567WsGkXnN9DqNwk/edit?usp=sharing&ouid=113809245143822760415&rtpof=true&sd=true){:.btn .btn-secondary .btn-sm}{:target="_blank"}
+
 * Use portrait orientation.
 * Metadata to include in your poster:
     * **Title**

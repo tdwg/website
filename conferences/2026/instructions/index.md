@@ -86,7 +86,8 @@ Note that the above documents **DO NOT include** links for uploading presentatio
 ### Files
 Make use of the conference branding with the following resources:
 
-[Presenters template](https://docs.google.com/presentation/d/1rU4Nr_5V1HKKCOR3dTclFlPv_b_OCICuJx85WGaZLv0/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [Session organizer template](https://docs.google.com/presentation/d/1v1_1Oq91Qqr3-35IxHBJ-gYqcx6xdITyA8uzDncEx7I/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [Virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"}
+[Presenters template](https://docs.google.com/presentation/d/1rU4Nr_5V1HKKCOR3dTclFlPv_b_OCICuJx85WGaZLv0/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [Session organizer template](https://docs.google.com/presentation/d/1v1_1Oq91Qqr3-35IxHBJ-gYqcx6xdITyA8uzDncEx7I/edit?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [Virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"} [A1 poster template](https://docs.google.com/presentation/d/133J0W-pehFMeoJoBGkfv6aIdVQx-jy1d/edit?usp=sharing&ouid=113809245143822760415&rtpof=true&sd=true){:.btn .btn-secondary .btn-sm}{:target="_blank"} [A0 poster template](https://docs.google.com/presentation/d/1vF3Ug6Bd2-8z0LVG567WsGkXnN9DqNwk/edit?usp=sharing&ouid=113809245143822760415&rtpof=true&sd=true){:.btn .btn-secondary .btn-sm}{:target="_blank"}
+
 
 
 ## Session types
@@ -133,5 +134,5 @@ Some working meetings will take place during the weekends before or after the co
 
 Side events won’t be streamed. Side events organizers may decide to share a video conference link but that is at their discretion.
 
-If you can attend as a virtual participant you could use one of these [virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link).
+If you can attend as a virtual participant you could use one of these [Virtual backgrounds](https://drive.google.com/drive/folders/1KK7u6GhXRJ_20977zn3y9zlJSNgf5GdE?usp=drive_link){:.btn .btn-secondary .btn-sm}{:target="_blank"}.
 
