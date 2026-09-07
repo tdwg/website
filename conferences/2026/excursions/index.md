@@ -56,29 +56,27 @@ _Last updated: 2026-06-09_
   width: 1px;
 }
 
-.excursion-option,
-.excursion-details summary {
-  font-size: 0.95rem;
+.excursion-session-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
   line-height: 1.4;
+  margin: 0.75rem 0 0.35rem;
 }
 
-.excursion-option + .excursion-option,
-.excursion-option + .excursion-subheading,
-.excursion-details + .excursion-details {
-  margin-top: 0.35rem;
+.excursion-tour + .excursion-tour {
+  margin-top: 0.5rem;
 }
 
-.excursion-subheading {
-  font-size: 1rem;
-  margin-bottom: 0.4rem;
+.excursion-tour ul {
+  margin-bottom: 0.5rem;
+  padding-left: 1.25rem;
 }
 
-.excursion-details summary {
-  cursor: pointer;
-}
-
-.excursion-details p {
-  margin: 0.25rem 0 0.5rem;
+a[href^="https://maps.app.goo.gl/"]:not(.map-image-link)::after {
+  content: "\f041";
+  display: inline-block;
+  font-family: FontAwesome;
+  margin-left: 0.25rem;
 }
 </style>
 
@@ -153,7 +151,7 @@ Register **by 15 September**
 ## Half-day excursions in Oslo
 
 {:.alert .alert-info}
-Please sign up for half-day Oslo option excursions **by 15 September** so we can estimate interest and coordinate group activities.
+Please sign up for half-day Oslo option excursions **by 15 September** so we can estimate interest and coordinate group activities. **A physical sign-up form for final registration will be available at the conference registration table**.
 
 <br/>
 [Sign up for half-day excursions in Oslo](https://forms.gle/4cvZuktoK9aRJPvz6){:.mx-auto .btn .btn-primary}{:target="_blank"}
@@ -191,29 +189,56 @@ Along the way, participants will experience classic Norwegian coniferous forest,
 
 Choose from guided public tours and small-group visits to the museum's research collections.
 
-<div class="excursion-option"><strong>Botanical Garden</strong> · 13:00 · max. 30</div>
-<div class="excursion-option"><strong>Natural History Museum exhibitions</strong> · afternoon (time TBC) · max. 20</div>
+<p class="excursion-session-heading">Morning – behind-the-scenes</p>
 
-<h4 class="excursion-subheading">Behind-the-scenes visits (morning)</h4>
+<div class="excursion-tour"><strong>Herbarium</strong>
+  <ul>
+    <li>Start time: Group 1 at 10:00; Group 2 at 11:00</li>
+    <li>Maximum 10 people per group</li>
+    <li>Led by <a href="https://www.nhm.uio.no/om/organisasjon/konservering-forskningsteknikk/personer/ccdalsen/" target="_blank">Carmen Celine Tyndale Dalseng</a></li>
+    <li>Meet <a href="https://maps.app.goo.gl/xmvsff1nuTQeZtG77" target="_blank">outside the main entrance to Lids hus</a></li>
+  </ul>
+</div>
 
-<details class="excursion-details">
-<summary><strong>Herbarium</strong> · 10:00 / 11:00 · max. 10 per group</summary>
-<p>Led by Carmen Celine Tyndale Dalseng. Meet outside the main entrance to Lids hus.</p>
-</details>
+<div class="excursion-tour"><strong>Vertebrates (dry collections) &amp; DNA bank</strong>
+  <ul>
+    <li>Start time: Group 1 at 10:00; Group 2 at 11:00</li>
+    <li>Maximum 10 people per group</li>
+    <li>Led by <a href="https://www.nhm.uio.no/english/about/organization/research-collections/people/arilj/" target="_blank">Arild Johnsen</a></li>
+    <li>Meet <a href="https://maps.app.goo.gl/zTGjGJ8QYD6DrN9M6" target="_blank">on the steps outside the office entrance to Robert Collett's hus</a></li>
+  </ul>
+</div>
 
-<details class="excursion-details">
-<summary><strong>Vertebrates &amp; DNA bank</strong> · 10:00 / 11:00 · max. 10 per group</summary>
-<p>Led by Arild Johnsen, covering the vertebrate dry collections and DNA bank. Meet on the steps outside the Colletts hus office entrance.</p>
-</details>
+<div class="excursion-tour"><strong>Geological collections at Økern</strong>
+  <ul>
+    <li>Start time: 10:00</li>
+    <li>Maximum 10 people</li>
+    <li>Led by <a href="https://www.nhm.uio.no/english/about/organization/research-collections/people/hanakrem/" target="_blank">Hans Arne Nakrem</a></li>
+    <li>Meet <a href="https://maps.app.goo.gl/iUPejsYsb8p6pwut5" target="_blank">outside the entrance at Kabelgaten 38</a></li>
+  </ul>
+</div>
 
-<details class="excursion-details">
-<summary><strong>Geological collections at Økern</strong> · 10:00–11:00 · max. 10</summary>
-<p>Led by Hans Arne Nakrem. Meet outside the entrance at <a href="https://maps.app.goo.gl/iUPejsYsb8p6pwut5" target="_blank">Kabelgaten 38</a>.</p>
-</details>
+<p class="excursion-session-heading">Afternoon</p>
 
-[Places on the behind-the-scenes visits are limited and require advance sign-up.](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"}
+<div class="excursion-tour"><strong>Botanical Garden</strong>
+  <ul>
+    <li>Start time: 13:00</li>
+    <li>Maximum 30 people</li>
+    <li>Led by <a href="https://www.nhm.uio.no/om/organisasjon/utad/personer/maregro/" target="_blank">Marit Elisabeth Grønbech</a></li>
+    <li>Meet <a href="https://maps.app.goo.gl/xNiXP3r7jrKw6EwB7" target="_blank">in front of Lids hus by the "Meeting point for guided tours" sign</a></li>
+  </ul>
+</div>
 
-**Good for:** biodiversity, botany, natural history, scientific collections
+<div class="excursion-tour"><strong>Natural History Museum exhibitions</strong>
+  <ul>
+    <li>Start time: 13:00</li>
+    <li>Maximum 25 people</li>
+    <li>Led by <a href="https://www.nhm.uio.no/om/organisasjon/utad/personer/petterb/" target="_blank">Petter Bøckman</a></li>
+    <li>Meet <a href="https://maps.app.goo.gl/S31oS92W6MzCsvme8" target="_blank">outside the museum gift shop</a> (inside if raining)</li>
+  </ul>
+</div>
+
+Visit spaces are limited. [Please express interest using the Google Form](https://forms.gle/4cvZuktoK9aRJPvz6){:target="_blank"}. A physical sign-up form for final registration will be available at the conference registration table.
 
 </div>
 </div>
@@ -402,7 +427,7 @@ Discounted longer tours are also available before and after TDWG 2026. Please [b
 - Saunas at the Opera House
 - [Events happening in Oslo](https://www.visitoslo.com/en/whats-on/events/?CategoryIds=505552%2C506042%2C519862%2C506032%2C513572%2C505792%2C500602%2C508172%2C508182%2C502032%2C507222%2C509172%2C507212%2C507232%2C502693%2C506922%2C506802){:target="_blank"}
 
-<a href="https://maps.app.goo.gl/YwHAZ2HrRVg5ZFpRA" target="_blank">
+<a class="map-image-link" href="https://maps.app.goo.gl/YwHAZ2HrRVg5ZFpRA" target="_blank">
     <img class="img-fluid" src="https://static.tdwg.org/conferences/2026/images/suggestions-for-places-to-see-in-oslo.png" alt="Google map of places to see" width="640">
 </a>
  

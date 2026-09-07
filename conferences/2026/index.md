@@ -128,6 +128,18 @@ This year's conference theme is:
     gap: .75rem;
     margin: 1rem 0 2rem;
   }
+
+  a[href^="https://maps.app.goo.gl/"]::after {
+    content: "\f041";
+    display: inline-block;
+    font-family: FontAwesome;
+    margin-left: 0.25rem;
+  }
+
+  .map-icon-link {
+    text-decoration: none;
+    white-space: nowrap;
+  }
 </style>
 <div id="muteYouTubeVideoPlayer"></div>
 <script async src="https://www.youtube.com/iframe_api"></script>
@@ -284,22 +296,8 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 
 | Sunday<br />2026-09-20 | Monday<br />2026-09-21 | Tuesday<br />2026-09-22 | Wednesday<br />2026-09-23 | Thursday<br />2026-09-24 | Friday<br />2026-09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Public city bioblitz launch | [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/)<br />Public keynotes and conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/)<br />Conference program | Bioblitz and excursions | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/)<br />Conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/)<br />Conference program |
-| [UiO Natural History Museum](https://www.nhm.uio.no/english/)<br />Welcome reception and registration | [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall)<br />Welcome reception @17:00 | Evening side events | Conference dinner ([venue to be selected](https://maps.app.goo.gl/xiq3K3JfoNdRyv3J6){:target="_blank"}) | Evening side events | Conference closing |
-
-### Venue locations
-
-1. **Sunday, 20 September (reception and early registration)**: [UiO Natural History Museum](https://www.nhm.uio.no/english/) (campus Tøyen), ([Google Map](https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46){:target="_blank"})
-   Welcome reception in the [Climate House](https://www.nhm.uio.no/english/exhibitions/climate-house/) and museum library. About [1.6 km / 23 minutes walk](https://maps.app.goo.gl/8rPJe4LFqdTx3J8G8){:target="_blank"} from the city center.
-   Side events with museum visits are planned during the conference week.
-2. **Monday, 21 September (opening day, downtown)**: [UiO University Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/) for keynotes and opening sessions, ([Google Map](https://maps.app.goo.gl/SzxwL7zHPWyrLNs76){:target="_blank"})
-   Also see [MazeMap](https://use.mazemap.com/#v=1&config=uio&campusid=801&zlevel=1&center=10.735700,59.915609&zoom=18.2&sharepoitype=poi&sharepoi=1000985534){:target="_blank"}.
-   The opening day is open to university employees and students.
-   Welcome reception at [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) is about [400 m from the Aula](https://maps.app.goo.gl/ABrekvTSn2aTuNty6){:target="_blank"} and is offered by the city mayor.
-3. **Tuesday to Friday, 22-25 September (main conference venue)**: [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/), ([Google Map](https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8){:target="_blank"})
-4. **Wednesday, 23 September (excursion day)**: Excursions and bioblitz activities for conference participants.
-
-<iframe class="d-block mx-auto" src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width: 100%;"></iframe>
+| Public city bioblitz launch | [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/) <a class="map-icon-link" href="https://maps.app.goo.gl/SzxwL7zHPWyrLNs76" target="_blank" aria-label="Google Map for UiO Aula" title="Open UiO Aula in Google Maps"> - Map</a><br />Public keynotes and conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) <a class="map-icon-link" href="https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8" target="_blank" aria-label="Google Map for Oslo Congress Center" title="Open Oslo Congress Center in Google Maps"> - Map</a><br />Conference program | [Bioblitz and excursions](/conferences/2026/excursions/) | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) <a class="map-icon-link" href="https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8" target="_blank" aria-label="Google Map for Oslo Congress Center" title="Open Oslo Congress Center in Google Maps"> - Map</a><br />Conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) <a class="map-icon-link" href="https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8" target="_blank" aria-label="Google Map for Oslo Congress Center" title="Open Oslo Congress Center in Google Maps"> - Map</a><br />Conference program |
+| [UiO Natural History Museum](https://www.nhm.uio.no/english/) <a class="map-icon-link" href="https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46" target="_blank" aria-label="Google Map for UiO Natural History Museum" title="Open UiO Natural History Museum in Google Maps"> - Map</a><br />Welcome reception and registration | [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) <a class="map-icon-link" href="https://maps.app.goo.gl/ABrekvTSn2aTuNty6" target="_blank" aria-label="Google Map for Oslo City Hall" title="Open Oslo City Hall in Google Maps"> - Map</a><br />Welcome reception @17:00 | - | [MUNCH Museum](https://www.munch.no/en/){:target="_blank"} <a class="map-icon-link" href="https://maps.app.goo.gl/N8ENgo9RMy9RjsKk8" target="_blank" aria-label="Google Map for MUNCH" title="Open MUNCH in Google Maps"> - Map</a><br />Conference Social (including 2 drinks and finger food) | - | Conference closing |
 
 ## Getting around Oslo
 
