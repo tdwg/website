@@ -92,8 +92,13 @@ Other recommendations:
     * Go to the link provided and find the folder for your session (open the folder)
     * Click 'New’ then 'File upload.'
     * After uploading, right-click your file in the folder and ensure that ’Open with Google Slides’ is not selected.
+
 * Upload of the final version of videos and slides to be presented live (in-person or streaming) by **Tuesday, 15 September**.
-* IIf you will do it after that date, please contact your session moderator and [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) to let them know.
+* If you will do it after that date, please contact your session moderator and [conf-organizers@tdwg.org](mailto:conf-organizers@tdwg.org) to let them know.
+
+{:.alert .alert-warning}
+See [Reduce the file size of your PowerPoint presentations](https://support.microsoft.com/en-us/powerpoint/reduce-the-file-size-of-your-powerpoint-presentations) in case your presentation file size gives you any problems when uploading.
+
 
 ### Presenting your talk
 

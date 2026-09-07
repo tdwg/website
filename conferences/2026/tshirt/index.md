@@ -9,7 +9,11 @@ background:
 layout: home_alt
 toc: true
 ---
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-07_
+
+{:.alert .alert-danger }
+Orders for t-shirts ended on **4 September 2026**
+
 
 <img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/tshirt/bottle-green.png" alt="Bottle green T-shirt" width="285">
 
@@ -17,7 +21,7 @@ _Last updated: 2026-06-17_
 
 Conference T-shirts, with our troll "Gymimir Standardsen" logo, are available in two styles, Unisex and Ladies, and two colors, bottle green and white.  They can be purchased as an add-on to registration, for $25 USD, by anyone **attending the conference in-person only**. Your T-shirt order can be picked up at the registration desk. 
 
-**Orders must be placed before the Oslo morning of 28 August, 2026;** i.e., 2026-08-28T06:00:00Z
+
 
 As always, please contact [Conference Organizers](mailto:conf-organizers@tdwg.org) with any questions.
 

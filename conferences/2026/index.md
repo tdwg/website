@@ -1,7 +1,7 @@
 ---
 title: TDWG 2026
-description: >
-  TDWG Annual Conference - A hybrid conference in Oslo, Norway, 21-25 September
+description: TDWG Annual Conference - A hybrid conference in Oslo, Norway, 21-25 September
+  
 background:
   img: https://static.tdwg.org/conferences/2026/images/monolitten-vigelandsparken.jpg
   by: Visit Norway / Field Productions
@@ -14,18 +14,17 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Whova is the official TDWG 2026 app. See the full program, plan your week at the conference, start networking  [and more](/conferences/2026/instructions/#conference-platform). 
+       * **New:** Only **two weeks** to go before TDWG 2026. Make sure you 1) have installed [Whova](/conferences/2026/instructions/#conference-platform), 2) [subscribe](/conferences/2026/#subscribe) to TDWG mailing list, and 3) check this website regularly so you don't miss any update!         
+
+       * Whova is the official TDWG 2026 app. See the full program, plan your week at the conference, start networking  [and more](/conferences/2026/instructions/#conference-platform). 
 
 
        * A summary of what to expect during TDWG 2026, instructions for presenters, poster presenters, session moderators and resources have been added. [See more](/conferences/2026/instructions/).  
 
 
        * Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).
-
-              
-       * Are you attending in person? Please also review the [Visa information page](/conferences/2026/visa-information) and start preparing.
        
-    img: https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo
+#    img: https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -35,25 +34,29 @@ quicklinks: #text, href, new_window
      href: https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/
    - text: "Program schedule"
      href: ./program/schedule
+   - text: "Side events"
+     href: .program/side-events/
+   - text: "Students awards"
+     href: .program/student-awards/
    - text: "Presentations information"
      href: /conferences/2026/instructions/
    - text: Registration
      href: ./registration
-   - text: "Visa information"
-     href: ./visa-information
-   - text: "T-shirt"
-     href: ./tshirt
    - text: "Excursions"
      href: ./excursions
----
+   - text: "Visa information"
+     href: ./visa-information
 
-_Last updated 1 Sep 2026_
+---
 
 <div class="float-end ms-5 img-fluid">
    <div>
       <img class="" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
    </div>
    <p></p>
+   <div>
+
+   </div>
    <div style="line-height:1.4em;background-color:#f9f9f9;border:1px solid #ccc;padding:10px;width:220px;font-family:Helvetica;" data-reactroot="">
       <div style="">
          <div style="text-align:center;font-size:16px">
@@ -73,6 +76,15 @@ _Last updated 1 Sep 2026_
    </div>
 </div>
 
+
+<div class="d-flex justify-content-center">
+   <!-- Countdown timer widget by NiftyButtons - Visit https://www.niftybuttons.com -->
+   <div id="nifty-countdown-1788742446285" style="background: #fcfcfc !important;         color: #202428 !important;         font-family: Arial, sans-serif;         padding: 30px;         border-radius: 10px;         width: 400px;         max-width: 100%;         box-sizing: border-box;         text-align: center;         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);     display: inline-block;"></div>
+   
+   <script>(function() { var targetDate = new Date('2026-09-21T17:00').getTime(); var container = document.getElementById('nifty-countdown-1788742446285'); function updateCountdown() { var now = new Date().getTime(); var distance = targetDate - now; if (distance < 0) { container.innerHTML = '<div style="font-size: 24px;">TDWG 2026 has started!</div>'; clearInterval(countdownInterval); return; } var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds = Math.floor((distance % (1000 * 60)) / 1000); var html = ''; html += '<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(days).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">DAYS</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(hours).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">HOURS</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(minutes).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">MINUTES</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(seconds).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">SECONDS</div></div>'; html += '</div>';html += '<div style="font-size: 18px; margin-top: 15px; color: #202428 !important; text-align: center;">until TDWG 2026 start</div>'; container.innerHTML = html; } updateCountdown(); var countdownInterval = setInterval(updateCountdown, 1000); })();</script>
+</div>
+
+<p></p>
 
 {:.lead}
 Join us for TDWG 2026 in Oslo from 21 to 25 September
@@ -241,6 +253,13 @@ This year's conference theme is:
         </a>
       </p>
     </div>
+    <div class="col">
+      <p class="d-flex justify-content-around align-items-center">
+        <a href="https://www.bioshare.com/" target="_blank">
+          <img src="https://static.tdwg.org/conferences/2026/images/sponsors/bioshare-digitization.svg" alt="Pensoft Publishers" width="190"/>
+        </a>
+      </p>
+    </div>
   </div>
   <div class="row h-25 justify-content-center align-items-center">
     <div class="col">
@@ -281,13 +300,6 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 4. **Wednesday, 23 September (excursion day)**: Excursions and bioblitz activities for conference participants.
 
 <iframe class="d-block mx-auto" src="https://www.google.com/maps/d/u/0/embed?mid=1YRLCkYUvN93kkfhKCCoR6XbRzNy510Q&ehbc=2E312F&noprof=1" width="640" height="480" style="max-width: 100%;"></iframe>
-
-## Local poster printing
-
-{:.alert .alert-warning}
-Content has moved.
-
-See [Instructions for poster presenters](/conferences/2026/instructions/poster-presenter-instructions/)
 
 ## Getting around Oslo
 
