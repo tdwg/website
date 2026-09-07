@@ -126,6 +126,7 @@ Presenters will receive an email with instructions to access TDWG's Google Drive
   {:.alert .alert-danger}  
   Whova has a limitation and **won’t accept posters of more than 10MB**.  Consider using a version of 150DPI or less for the digital version of your poster if it exceeds 10MB in size.
 
+  {:.alert .alert-warning}
   See [Reduce the file size of your PowerPoint presentations](https://support.microsoft.com/en-us/powerpoint/reduce-the-file-size-of-your-powerpoint-presentations) in case your presentation file size gives you any problems when uploading.
 * If you are on a Mac, we recommend that you export using the option for “Best electronic distribution” because it will preserve your links as functional URLs.
 * If you wish to share your poster in more than one file format (for example, in the original editable file type, which will be easier for others to reuse), please let us know, so we can try to accommodate you.
