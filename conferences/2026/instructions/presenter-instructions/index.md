@@ -42,7 +42,7 @@ quicklinks: #text, href, new_window
 ### About Presentations
 
 * **Time**
-    * Oral Presentation: **10 minute presentation** \+3 min of questions \+2 min of transition to the next speaker. The moderators will be keeping track of the time so it’s important to respect the 10 min.
+    * Oral Presentation: please **[check the schedule]([https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/](https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/Agenda))** to find your talk time. Talk times vary between symposia. Commonly, talks are between 12-15 minutes including questions and changeover. Assume that you should allow 2-3 minutes of questions and changeover after you talk. Prepare your talk for 2-3 minutes less than your alloted timespan in the schedule.
     * Lightning talks: ([LT16](https://www.tdwg.org/conferences/2026/program/sessions-list-by-type/#lt16) and [LT17](https://www.tdwg.org/conferences/2026/program/sessions-list-by-type/#lt17)) **5 minutes** including questions and transition to the next speaker. Slide numbers are limited.
     * In-person attendees can optionally pre-record their content.
 
