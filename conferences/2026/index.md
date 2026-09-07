@@ -129,7 +129,8 @@ This year's conference theme is:
     margin: 1rem 0 2rem;
   }
 
-  a[href^="https://maps.app.goo.gl/"]::after {
+  a[href^="https://maps.app.goo.gl/"]::after,
+  a[href^="https://www.google.com/maps/"]::after {
     content: "\f041";
     display: inline-block;
     font-family: FontAwesome;
