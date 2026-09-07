@@ -72,7 +72,8 @@ _Last updated: 2026-06-09_
   padding-left: 1.25rem;
 }
 
-a[href^="https://maps.app.goo.gl/"]:not(.map-image-link)::after {
+a[href^="https://maps.app.goo.gl/"]:not(.map-image-link)::after,
+a[href^="https://www.google.com/maps/"]:not(.map-image-link)::after {
   content: "\f041";
   display: inline-block;
   font-family: FontAwesome;
@@ -231,7 +232,7 @@ Choose from guided public tours and small-group visits to the museum's research 
 
 <div class="excursion-tour"><strong>Natural History Museum exhibitions</strong>
   <ul>
-    <li>Start time: 13:00</li>
+    <li>Start time: 14:00</li>
     <li>Maximum 25 people</li>
     <li>Led by <a href="https://www.nhm.uio.no/om/organisasjon/utad/personer/petterb/" target="_blank">Petter Bøckman</a></li>
     <li>Meet <a href="https://maps.app.goo.gl/S31oS92W6MzCsvme8" target="_blank">outside the museum gift shop</a> (inside if raining)</li>
@@ -292,15 +293,44 @@ You can visit independently or as a group. A student guide may be arranged if th
 
 ### Island Hopping in the Oslofjord
 
-Explore the inner Oslofjord by ferry with stops at small islands close to the city centre. The tour will be guided by Kristina Bjureke, who has kindly offered to share her knowledge of the Oslofjord islands. There may also be an opportunity to run a bioblitz using iNaturalist.
+Explore the botany and history of two inner Oslofjord islands with guide [Kristina Bjureke](https://www.nhm.uio.no/om/organisasjon/botanisk-hage/personer/kbjureke/){:target="_blank"}.
 
-**Good for:** fjord views, nature, bioblitz activity  
-**Duration:** 4-6 hours; bring lunch
+**Meet:** 09:45 at the [B1 ferry terminal at Aker Brygge (City Hall Pier/Rådhusbrygge 4)](https://maps.app.goo.gl/2BLJh5cNhRfmQqUF9){:target="_blank"}. The ferry leaves at 10:00 sharp and will not wait.<br />
+**Duration:** 09:45-15:40<br />
+**Maximum:** 40 people
 
-Line B1 runs year-round from Rådhusbrygge 4 and serves Hovedøya, Bleikøya, Gressholmen, Lindøya, and Nakholmen.
+1. **Hovedøya:** tour of the island's botany and history.
+2. **Gressholmen:** arrive at 12:40 for a picnic lunch, followed by a tour of the island's botany and history. The return ferry leaves at 15:00 and arrives at Aker Brygge at 15:40.
 
-- [Visit Oslo island hopping guide](https://www.visitoslo.com/en/product/?tlp=2981103&name=Island-hopping-in-the-Oslo-Fjord){:target="_blank"}
-- [iNaturalist bioblitz guide](https://www.gbif.no/documents/slides/2024-05-13/inaturalist_bioblitz.pdf){:target="_blank"}
+**Bring:** a picnic lunch, something to drink, and warm clothes. The island café cannot be relied upon to be open; a thermos with a hot drink is recommended.
+
+**Ferry ticket:** a valid Ruter Zone 1 ticket is required. If you do not have a weekly ticket, buy a one-day Zone 1 ticket.
+
+**Accessibility:** not recommended for people with reduced mobility.
+
+[Visit Oslo island hopping guide](https://www.visitoslo.com/en/product/?tlp=2981103&name=Island-hopping-in-the-Oslo-Fjord){:target="_blank"}
+
+</div>
+</div>
+</div>
+
+<div class="col-md-6" markdown="1">
+<div class="card h-100 excursion-card" markdown="1">
+![Birding excursion](https://static.tdwg.org/conferences/2026/images/excursions/birding.jpg){:.card-img-top}
+<div class="card-body" markdown="1">
+
+### Bird trip
+
+Join guides Håkan Billing and Naïd Mubalegh-Håvardsholm for a three-hour birding walk along the western side of Østensjøvannet. The route visits the bird hide and continues into a forested area, with opportunities to observe waterbirds and different kinds of passerines.
+
+**Meet:** 10:00 at the [Østensjøvannet meeting point](https://www.google.com/maps/d/u/1/edit?mid=1IgpTzuLvLcOqhMSG49ZN6laTDl5s-G8&usp=sharing){:target="_blank"}<br />
+**Duration:** 3 hours<br />
+**Maximum:** 40 people, split into two groups of 20<br />
+**Cost:** $30, payable with your registration
+
+A total of 25 binoculars and four telescopes will be available at no extra cost.
+
+Reserve your spot by purchasing a ticket with your registration. See the [Add-ons section](/conferences/2026/registration/#add-ons) of the registration page.
 
 </div>
 </div>
@@ -340,27 +370,6 @@ If there is enough interest, local guides may be arranged for selected walks.
 
 - [Oslo Central Station to Paradisbukta on Bygdøy](https://ut.no/turforslag/116863/fottur-fra-oslo-s-til-paradisbukta-pa-bygdy){:target="_blank"}: a 7.4 km walk to beaches, forest paths, and coastal scenery.
 - [Oslo Central Station to Ekeberg Restaurant](https://ut.no/kart/tur/1111474165/fottur-fra-oslo-s-til-ekebergrestauranten#11/59.9118/10.7585){:target="_blank"}: a 4.8 km walk with city and fjord views. Ekeberg's landscape inspired several Edvard Munch paintings, including _The Scream_.
-
-</div>
-</div>
-</div>
-
-<div class="col-md-6" markdown="1">
-<div class="card h-100 excursion-card" markdown="1">
-![Birding excursion](https://static.tdwg.org/conferences/2026/images/excursions/birding.jpg){:.card-img-top}
-<div class="card-body" markdown="1">
-
-### Bird trip
-
-BirdLife Oslo and Akershus will coordinate a three-hour birding excursion to Østensjøvannet. The trip can take up to 40 participants with two English-speaking guides, split into two groups of 20. A total of 25 binoculars and 4 telescopes will be available for participants.
-
-**Good for:** birding, local nature, guided observation<br /> 
-**Duration:** 3 hours<br />
-**Cost:** $30, payable with your registration
-
-The exact start time will be decided later. In September, the guides advise that it is not essential to go very early.
-
-Reserve your spot by purchasing a ticket with your registration. See the [Add-ons section](/conferences/2026/registration/#add-ons) of the registration page.
 
 </div>
 </div>
