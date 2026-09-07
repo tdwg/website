@@ -6,7 +6,16 @@
   - text: "Externally maintained"
     href: /standards/external/
 - text: "Journal"
-  href: /journal/
+  menu:
+    - text: "Journal"
+      href: /journal/
+    - text: "---"
+    - text: "Why submit an extended abstract?"
+      href: /journal/why-an-extended-abstract/
+    - text: "Instructions for extended abstract submission"
+      href: /journal/abstract-submission-instructions/
+    - text: "Instructions for reviewers/editors"
+      href: /journal/reviewer-instructions/
 - text: "Community"
   href: /community/
 - text: "Conferences"
