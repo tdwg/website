@@ -232,7 +232,7 @@ Choose from guided public tours and small-group visits to the museum's research 
 
 <div class="excursion-tour"><strong>Natural History Museum exhibitions</strong>
   <ul>
-    <li>Start time: 14:00</li>
+    <li>Start time: 13:00</li>
     <li>Maximum 25 people</li>
     <li>Led by <a href="https://www.nhm.uio.no/om/organisasjon/utad/personer/petterb/" target="_blank">Petter Bøckman</a></li>
     <li>Meet <a href="https://maps.app.goo.gl/S31oS92W6MzCsvme8" target="_blank">outside the museum gift shop</a> (inside if raining)</li>
