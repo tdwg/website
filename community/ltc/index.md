@@ -18,13 +18,12 @@ Last modified: 2026-02-24
 - [Sharon Grant](mailto:sgrant@fieldmuseum.org) - Field Museum, Chicago, IL, USA
 - [Janeen Jones](mailto:jjones@fieldmuseum.org) - Field Museum, Chicago, IL, USA
 - [Kate Webbink](mailto:kwebbink@fieldmuseum.org) - Field Museum, Chicago, IL, USA
-
+- [Maarten Trekels](maarten.trekels@plantentuinmeise.be) - Meise Botanic Garden, BE  
 
 ## Core members
 - [Jutta Buschbom](jutta.buschbom@statistical-genetics.de) - Statistical Genetics, DE
 - [Elie Saliba](elie.saliba@mnhn.fr) - Muséum National d'Histoire Naturelle, Paris, FR
 - [Ben Norton](michaelnorton.ben@gmail.com) - Independent, USA
-- [Maarten Trekels](maarten.trekels@plantentuinmeise.be) - Meise Botanic Garden, BE  
 
 
 ## Motivation and scope
