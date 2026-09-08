@@ -22,6 +22,10 @@ quicklinks: #text, href, new_window
 
 ---
 
+{:.alert .alert-danger}  
+Upload posters and optionally pre-recorded poster video presentations **only in Whova**.
+
+
 ## Overview
 
 ### Poster Viewing
@@ -43,7 +47,7 @@ All poster presenters, regardless of whether they are presenting in-person or vi
 
 You have the option to upload a short video recording presenting your poster.
 
-Upload your poster or video to TDWG's Google Drive no later than **Tuesday, 15 September**. Given the demand of activities for the conference organizers days prior to the conference, any poster or video submitted after this deadline may be able to be posted.
+Upload your poster and optionally a video directly to Whova.
 
 ### BISS Publication
 
@@ -114,12 +118,14 @@ You should print in A1. Please email them your print-ready PDF file with A1 dime
 
 ## Uploading posters & videos
 
-Save & Upload your poster to TDWG's Google Drive no later than **Tuesday, 15 September.**   
+* Upload your poster and optionally a pre-recorded video presentation directly to Whova by following the instructions in 
+[Upload handouts, videos, and setup live showcase](https://whova.com/pages/whova-app-artifact-center-presenter-guide/#setup_stream){:target="_blank"}.
 
-{:.alert .alert-warning}  
-Given the demand of activities for the conference organizers days prior to the conference, any poster or video submitted after this deadline may not be able to be posted.
-
-Presenters will receive an email with instructions to access TDWG's Google Drive.
+  {:.alert .alert-danger}  
+  Upload posters and optionally pre-recorded poster video presentations **only in Whova**.
+  
+  {:.alert .alert-info}
+  For session presentations upload to Google drive using [these instructions](/conferences/2026/instructions/presenter-instructions/#uploading-your-slides--pre-recorded-video).
 
 * Save your poster as a PDF. Optimize your export for on-screen viewing, not printing.  Graphic objects should not be saved at higher resolution than they will be displayed.
 
