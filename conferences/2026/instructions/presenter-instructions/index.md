@@ -22,12 +22,14 @@ quicklinks: #text, href, new_window
 
 ---
 
+{:.alert .alert-danger}  
+Upload slides and pre-recorded session presentations **only in Google drive**.
+Please ignore any prompts Whova may offer to upload content directly to your presentation(s) in the platform. The AV company that will stream the sessions has no capabilities to do so from within Whova.
 
 ## Overview
-
 * All final presentations must be uploaded to TDWG 2026 by **Tuesday, 15 September**.
 * Upload the final version of slides (as PPTX, PDF, or OD; not Google Slides) and pre-recorded videos (using .mp4 format) to your presentation's Session folder on Google Drive.
-* Link to upload site will be sent in separate email (do not lose; do not distribute)
+* Link to upload to Google drive was already sent in separate email. (do not lose; do not distribute). 
 * Slide and video format is widescreen (16:9).
 * **Do not include** material (including images) protected by copyright or a license if it is not yours and you do not have specific permission to share it.
 * Cite sources appropriately, including the use of AI-generated text or images, and ensure proper licensing and [attribution](https://creativecommons.org/use-remix/attribution/).
@@ -85,9 +87,17 @@ Other recommendations:
 * Upload your pre-recorded presentation to the relevant folder for your session **Tuesday, 15 September**. The link to upload your session will be provided by email.
 
 ### Uploading your slides & pre-recorded video
+* Upload slides and pre-recorded presentations the relevant session folder in Google Drive. The link to upload your presentation to Google Drive was sent in a separate email.
+
+  {:.alert .alert-danger}  
+  Upload slides and pre-recorded session presentations **only in Google drive**.
+  Please ignore any prompts Whova may offer to upload content directly to your presentation(s) in the platform. The AV company that will stream the sessions has no capabilities to do so from within Whova.
+  
+  {:.alert .alert-info}
+  To upload posters please follow [these instructions](/conferences/2026/instructions/poster-presenter-instructions/#uploading-posters--videos).
 
 * **File naming convention:** SessionCode\_Order\_YourFamilyName.FileType.  Examples of the SessionCode include SYM06, CO5, LT17. So the 4th presentation in the second session of Symposium 37, by Jones would be named as:  SYM37B\_4\_Jones.ppt
-* Upload pre-recorded presentations and slides to the relevant session folder in Google Drive. The link to upload your presentation to Google Drive will be provided in a separate email.
+
 * **IMPORTANT**: To ensure that your file remains in its original format and does not get converted to Google Slides
     * Go to the link provided and find the folder for your session (open the folder)
     * Click 'New’ then 'File upload.'
