@@ -12,12 +12,9 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:** The program schedule now includes the **talks for each session** and more updates. [See more](/news/2026/tdwg-2026-aug-conference-update/).    
-
-
-    * Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).    
-    
-#  img: https://static.tdwg.org/conferences/2026/images/program-schedule-landscape.jpg
+    * **New:** Call for TDWG 2026 Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).    
+        
+  img: https://static.tdwg.org/images/journal/biss_lizard_title.png
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.

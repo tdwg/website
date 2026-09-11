@@ -1,7 +1,7 @@
 ---
 title: Call for extended abstracts - TDWG 2026
 description: >
-  📜 Call for BISS Extended Abstracts is now open. See instructions to submit yours\!
+  📜 Call for Extended Abstracts for BISS is now open. See instructions and submit yours\!
 
 background:
   img: https://static.tdwg.org/images/journal/biss_lizard_title.png
