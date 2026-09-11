@@ -15,6 +15,10 @@ featured: # description, href, img
     description: >
       * **New:** Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
 
+      
+      * **New:** In case you miss it, TDWG 2026 Bioblitz is here! [See more](./#tdwg-2026-bioblitz).
+
+
       * Only **two weeks** to go before TDWG 2026. Make sure you 1) have installed [Whova](/conferences/2026/instructions/#conference-platform), 2) [subscribe](/conferences/2026/#subscribe) to TDWG mailing list, and 3) check this website regularly so you don't miss any update!         
                
     img: https://static.tdwg.org/images/journal/biss_lizard_title.png
@@ -37,6 +41,10 @@ quicklinks: #text, href, new_window
      href: ./registration
    - text: "Excursions"
      href: ./excursions
+   - text: "Bioblitz"
+     href: ./#tdwg-2026-bioblitz
+
+    
    - text: "Visa information"
      href: ./visa-information
 
@@ -334,6 +342,17 @@ Alternatively see [cityboxhotels.com](https://cityboxhotels.com/hotels/oslo/city
 
 ## Excursions
 Planning your Wednesday or your activities before and after the conference? Please check our [Excursions page](/conferences/2026/excursions) for tours, excursions, and suggested places to visit.
+
+<img class="float-end ms-5 img-fluid" src="https://static.tdwg.org/conferences/2026/images/logos/troll-bioblitz.png" alt="TDWG 2026 Logo" width="175"/>
+## TDWG 2026 Bioblitz
+
+As it is now a tradition every year in TDWG-organized conferences, there are two Bioblitzes running during TDWG 2026\.
+
+Join our iNaturalist project, capture the local biodiversity around you, and watch your records feed directly into the event dashboards. Happy iNatting\!
+
+For in-person participants, see: [https://www.inaturalist.org/projects/tdwg-2026-bioblitz-norway](https://www.inaturalist.org/projects/tdwg-2026-bioblitz-norway)    
+For virtual participants, see: [https://www.inaturalist.org/projects/tdwg-2026-bioblitz-worldwide](https://www.inaturalist.org/projects/tdwg-2026-bioblitz-worldwide)
+
 
 ## Code of Conduct
 

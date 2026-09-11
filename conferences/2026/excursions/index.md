@@ -15,8 +15,11 @@ quicklinks: #text, href, new_window
   #     new_window: true
   - text: Getting around Oslo
     href: /conferences/2026/#getting-around-oslo
+  - text: "Bioblitz"
+    href: /conferences/2026/#tdwg-2026-bioblitz
+
 ---
-_Last updated: 2026-06-09_
+_Last updated: 2026-06-11_
 
 <style>
 .excursion-card {
@@ -90,6 +93,18 @@ For public transport, ticketing, and Oslo Pass information, see [Getting around 
 
 {:.alert .alert-warning}
 Some excursions require separate booking or on-site coordination. Please review carefully the information below before making any plans.
+
+<div class="container">
+  <div class="row">
+    <div class="col-9">
+        <div class="alert alert-info">And while you plan your excursions you want to make sure that you have joined this  <a class="font-weight-bold" href="/conferences/2026/#tdwg-2026-bioblitz">year's Bioblitz</a>.
+        </div>
+    </div>
+    <div class="col-2">
+        <img class="float-end  img-fluid" src="https://static.tdwg.org/conferences/2026/images/logos/troll-bioblitz.png" alt="GyMimir Standardsen taking a picture of a butterfly" width="175"/>
+    </div>
+  </div> 
+</div>
 
 ## On Wednesday 23 September
 ## Full-day excursions
