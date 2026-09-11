@@ -13,17 +13,11 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-       * **New:** Only **two weeks** to go before TDWG 2026. Make sure you 1) have installed [Whova](/conferences/2026/instructions/#conference-platform), 2) [subscribe](/conferences/2026/#subscribe) to TDWG mailing list, and 3) check this website regularly so you don't miss any update!         
+      * **New:** Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
 
-       * Whova is the official TDWG 2026 app. See the full program, plan your week at the conference, start networking  [and more](/conferences/2026/instructions/#conference-platform). 
-
-
-       * A summary of what to expect during TDWG 2026, instructions for presenters, poster presenters, session moderators and resources have been added. [See more](/conferences/2026/instructions/).  
-
-
-       * Task groups and related organizations will be running side events before and after TDWG 2026. [See more](/conferences/2026/program/side-events).
-       
-#    img: https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo
+      * Only **two weeks** to go before TDWG 2026. Make sure you 1) have installed [Whova](/conferences/2026/instructions/#conference-platform), 2) [subscribe](/conferences/2026/#subscribe) to TDWG mailing list, and 3) check this website regularly so you don't miss any update!         
+               
+    img: https://static.tdwg.org/images/journal/biss_lizard_title.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
