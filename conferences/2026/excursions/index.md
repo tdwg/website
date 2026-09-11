@@ -97,7 +97,7 @@ Some excursions require separate booking or on-site coordination. Please review 
 <div class="container">
   <div class="row">
     <div class="col-9">
-        <div class="alert alert-info">And while you plan your excursions you want to make sure that you have joined this  <a class="font-weight-bold" href="/conferences/2026/#tdwg-2026-bioblitz">year's Bioblitz</a>.
+        <div class="alert alert-info">And while you plan your excursions, make sure you join this <a class="font-weight-bold" href="/conferences/2026/#tdwg-2026-bioblitz">year's Bioblitz</a>.
         </div>
     </div>
     <div class="col-2">
