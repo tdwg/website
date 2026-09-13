@@ -32,9 +32,9 @@ quicklinks: #text, href, new_window
    - text: "Program schedule"
      href: ./program/schedule
    - text: "Side events"
-     href: .program/side-events/
+     href: ./program/side-events/
    - text: "Students awards"
-     href: .program/student-awards/
+     href: ./program/student-awards/
    - text: "Presentations information"
      href: /conferences/2026/instructions/
    - text: Registration
