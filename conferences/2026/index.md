@@ -9,6 +9,7 @@ background:
 
 layout: home_alt
 
+
 toc: true
 featured: # description, href, img
     title: Keep up to date!
