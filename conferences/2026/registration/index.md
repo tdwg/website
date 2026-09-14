@@ -43,7 +43,7 @@ If you are submitting an abstract for a presentation or poster, please use the s
 In-person registration covers:
 
 * Access to the conference program
-* Social events (ice-breaker Sunday evening, welcome reception Monday evening, and a social sauna Wednesday evening)
+* Social events (welcome reception Sunday evening, reception at Oslo City Hall Monday evening, and a social sauna Wednesday evening)
 * Four (4) days of conference sessions, and one excursion day (some excursions have an additional registration cost)
 * Box lunches on Monday, Tuesday, Thursday, and Friday
 * For contributing authors: open-access publishing of your abstract in the Biodiversity Information Science and Standards (BISS)

@@ -35,6 +35,9 @@ Posters for TDWG 2026 will be both physical and virtual. If attending in person,
 All physical posters will be displayed at the Oslo Congress Center throughout the conference.   
 All posters for both virtual and in-person presenters will be displayed and accessible to registered attendees via the conference Whova web portal or using the Whova mobile app.
 
+{:.alert .alert-info}
+**Bringing a physical poster?** Please bring it to the registration desk at the Oslo Congress Center on Tuesday, 22 September. Do not bring posters to Monday's program at the University Aula.
+
 ### Preparing your poster
 
 **Do not include** material (including images) protected by copyright or a license if it is not yours and you do not have specific permission to share it.
