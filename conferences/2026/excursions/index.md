@@ -139,7 +139,7 @@ This excursion has been cancelled because it did not receive enough registration
 [Map](https://maps.app.goo.gl/bmFLZxzwbpHn6YHVA){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
 
 {:.alert .alert-info}
-Register **by 15 September**
+This excursion will go ahead as planned. Register **by 15 September**.
 </div>
 </div>
 </div>
@@ -149,15 +149,12 @@ Register **by 15 September**
 ![Taste of Hadeland](https://static.tdwg.org/conferences/2026/images/excursions/taste-of-hadeland.jpg){:.card-img-top}
 <div class="card-body" markdown="1">
 
-### Taste of Hadeland
+### Taste of Hadeland — cancelled
 
 <div class="excursion-meta">Focus: Norwegian food</div>
 
-[Excursion details](https://www.gbif.no/events/2026/2026-09-tdwg/excursion-finnerud.pdf){:.btn .btn-secondary .btn-sm}{:target="_blank"}
-[Map](https://maps.app.goo.gl/C57V3G6oMnGW3Jzo7){:.btn .btn-outline-secondary .btn-sm}{:target="_blank"}
-
-{:.alert .alert-info}
-Register **by 15 September**
+{:.alert .alert-warning}
+This excursion has been cancelled.
 
 </div>
 </div>
