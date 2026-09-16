@@ -17,7 +17,7 @@ featured: # description, href, img
       * **New:** It's now less than **one week** to go before TDWG 2026. Make sure you are following the action in [Whova](/conferences/2026/instructions/#conference-platform).
       
 
-      * **New:** See you on Sunday, 20 Sep for the welcome reception [See more](./#sunday-welcome-reception).  
+      * **New:** See you on **Sunday, 20 Sep** for the welcome reception [See more](./#sunday-welcome-reception).  
 
 
       * Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
@@ -306,6 +306,8 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 | [UiO Natural History Museum](https://www.nhm.uio.no/english/) <a class="map-icon-link" href="https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46" target="_blank" aria-label="Google Map for UiO Natural History Museum" title="Open UiO Natural History Museum in Google Maps"> - Map</a><br />Welcome reception and registration, 18:00–21:00 | [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) <a class="map-icon-link" href="https://maps.app.goo.gl/ABrekvTSn2aTuNty6" target="_blank" aria-label="Google Map for Oslo City Hall" title="Open Oslo City Hall in Google Maps"> - Map</a><br />Welcome reception @17:00 | - | [MUNCH Museum](https://www.munch.no/en/){:target="_blank"} <a class="map-icon-link" href="https://maps.app.goo.gl/N8ENgo9RMy9RjsKk8" target="_blank" aria-label="Google Map for MUNCH" title="Open MUNCH in Google Maps"> - Map</a><br />Conference Social (including 2 drinks and finger food) | - | Conference closing |
 
 ### Sunday welcome reception
+
+
 {:.alert .alert-info}
 **Sunday welcome reception and registration:** Join us on Sunday, 20 September, from **18:00 to 21:00** at the Geological Museum (Brøggers hus). Enter through [these doors](https://maps.app.goo.gl/DGsKW7bA1SDaGCEL9){:target="_blank"}; look for TDWG banners and the open door. Walk through the exhibition rooms to the main foyer, where registration will take place. Snacks, finger food, and drinks will be served.
 
