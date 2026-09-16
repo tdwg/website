@@ -12,21 +12,17 @@ toc: true
 quicklinks: #text, href, new_window
   - text: Lists of sessions by session type
     href: ../sessions-list-by-type
+  - text: "Program schedule"
+    href: /conferences/2026/program/schedule
 
 ---
 
-_Last updated 28 May 2026_
+_Last updated 16 Sep 2026_
 
-This is the list of proposed sessions for TDWG 2026 Conference organized by tracks to facilitate searching the most suitable session if you are submitting an abstract. Alternatively you can browse the list of sessions organized [by session type](../sessions-list-by-type). 
-
-<div class="alert alert-warning" markdown="1">
-You can submit an abstract for any session marked as **\(Open\)**. Sessions listed as **\(CLOSED\)** require an invitation from the session organizers to submit an abstract and have it considered for presentation during that session. 
-* Keynote sessions are reserved for invited keynote speakers only.
-* If none of the sessions seem to fit your topic, submit it in a contributed session or as a (virtual) poster.
-</div>
+This is the list of sessions for TDWG 2026 Conference organized by tracks to facilitate searching the most suitable session if you are submitting an abstract. Alternatively you can browse the list of sessions organized [by session type](../sessions-list-by-type). 
 
 {:.alert .alert-info}
-**Everybody is welcome to attend any session!** Restrictions apply only to abstract submission.
+**Everybody is welcome to attend any session!** 
     
 
 ## AI and Robot-ready
@@ -35,7 +31,7 @@ You can submit an abstract for any session marked as **\(Open\)**. Sessions list
 ### SYM13 Responsible AI, Open Digital Curation, and Round-Tripping for Biodiversity Data
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Deborah Paul](mailto:dlpaul@illinois.edu), Species File Group, Prairie Research Institute, University of Illinois, United States; [Siobhan Leachman](mailto:siobhan.leachman@gmail.com), Landcare Research group of the New Zealand Bioeconomy Science Institute, New Zealand; [Sabine von Mering](mailto:s.vonmering@gmail.com), Museum für Naturkunde, Germany
@@ -54,7 +50,7 @@ With an emphasis on natural history data from museums and herbaria -- including 
 ### SYM25 From Mobilizing Data to AI-Ready Knowledge: Infrastructure for Multimodal Biodiversity Data
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Hilmar Lapp](mailto:hilmar.lapp@gmail.com), Neuromatch, Inc., United States; [Rob Guralnick](mailto:rguralnick@flmnh.ufl.edu), University of Florida, United States; [Kelsey Huelsman](mailto:kelsey.s.huelsman@nasa.gov), NASA, United States; [Eric Sokol](mailto:esokol@battelleecology.org), National Ecological Observatory Network, United States; [David Bloom](mailto:dbloom@vertnet.org), University of North Carolina at Greensboro, United States
@@ -65,7 +61,7 @@ More ecological and biodiversity data are online than ever before, in part thank
 ### SYM30 AI for Biodiversity Data
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [David Williamson](mailto:david.williamson@ntnu.no), Norwegian University of Science and Technology (NTNU), Norway; [Wouter Koch](mailto:wouter.koch@artsdatabanken.no), Artsdatabanken, Norway; [Arianna Salili-James](mailto:arianna.salili-james@nhm.ac.uk), Natural History Museum London, UK; [Sanson Poon](mailto:sanson.poon@nhm.ac.uk), Natural History Museum London, UK; [Rukaya Johaadien](mailto:r.s.johaadien@nhm.uio.no), University of Oslo, Norway; [Michal Torma](mailto:michal.torma@nhm.uio.no), University of Oslo, Norway; [Maarten Trekels](mailto:maarten.trekels@plantentuinmeise.be), Meise Botanic Gardens, Belgium; [Kit Lewers](mailto:kit.lewers@colorado.edu), University of Colorado Boulder, USA
@@ -88,7 +84,7 @@ We strongly encourage speakers to include the financial and computational costs 
 ### SYM46 AI-Readiness Metrics and Metadata for Biodiversity Data
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Yasin Bakış](mailto:ybakis@tulane.edu), Tulane University, United States; [Cem Meydan](mailto:cem2009@med.cornell.edu), Cornell University, United States
@@ -111,7 +107,7 @@ The goal of this session is to identify concrete standards gaps, promote interop
 ### SYM47 Large Language Models for Biodiversity Data Discovery, Integration, and Curation
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Yasin Bakış](mailto:ybakis@tulane.edu), Tulane University, United States; [Bahadır Altıntaş](mailto:altintas_b@ibu.edu.tr), Abant Izzet Baysal University, Turkey; [Cem Meydan](mailto:cem2009@med.cornell.edu), Cornell University, United States
@@ -134,7 +130,7 @@ The goal of the session is to examine how large language models may reshape biod
 ### LT17 Bots, Bits, and Biodiversity
 
 Session type
-: Session of Lightning Talks (Open)
+: Session of Lightning Talks 
 
 Organizers
 : [Jack Hollister](mailto:jack.hollister@nhm.ac.uk), Natural History Museum, London, United Kingdom; [Sanson Poon](mailto:sanson.poon@nhm.ac.uk), Natural History Museum, London, United Kingdom; [Arianna Salili-James](mailto:arianna.salili-james@nhm.ac.uk), Natural History Museum, London, United Kingdom; [Qianqian Gu](mailto:qianqian.gu@nhm.ac.uk), Natural History Museum, London, United Kingdom
@@ -173,7 +169,7 @@ By using a rapid-fire format, the session aims to maximise the number and divers
 ### DS03 From Field to AI: Making Community Biodiversity Data Research- and Robot-Ready
 
 Session type
-: Discussion session (Open)
+: Discussion session 
 
 Organizers
 : [Idriss Adoum Idriss](mailto:adoumfils86@gmail.com), Reseau des Jeunes pour le Climat au Tchad, Chad; [Pelagie MOLBIGA](mailto:gracielafleurrose@gmail.com), Youth for Adaptation Finance for Africa, Burkina Faso; [Fatimah Zannah Moustapha](mailto:info@rejeca.com), Pan African Climate Justice Alliance, Nigeria
@@ -196,7 +192,7 @@ By connecting biodiversity informatics with grassroots action, this session demo
 ### DS31 Panel Discussion: Critically Assessing the Role of AI in Biodiversity Research
 
 Session type
-: Discussion session (Closed)
+: Discussion session 
 
 Organizers
 : [David Williamson](mailto:david.williamson@ntnu.no), Norwegian University of Science and Technology (NTNU), Norway; [Wouter Koch](mailto:wouter.koch@artsdatabanken.no), Artsdatabanken, Norway; [Rukaya Johaadien](mailto:r.s.johaadien@nhm.uio.no), University of Oslo, Norway; [Michal Torma](mailto:michal.torma@nhm.uio.no), University of Oslo, Norway; [Arianna Salili-James](mailto:arianna.salili-james@nhm.ac.uk), Natural History Museum London, UK; [Sanson Poon](mailto:sanson.poon@nhm.ac.uk), Natural History Museum London, UK; [Maarten Trekels](mailto:maarten.trekels@planentuinmeise.be), Meise Botanic Gardens, Belgium; [Kit Lewers](mailto:kit.lewers@colorado.edu), University of Colorado Boulder, USA
@@ -215,7 +211,7 @@ This discussion session invites a panel of experts to discuss these topics with 
 ### DS49 What Makes Biodiversity Data “Robot-Ready”? Standards, Infrastructure, and AI
 
 Session type
-: Discussion session (Open)
+: Discussion session 
 
 Organizers
 : [Henry Bart](mailto:hbartjr@tulane.edu), Tulane University, United States; [Yasin Bakis](mailto:ybakis@tulane.edu), Tulane University, United States
@@ -232,7 +228,7 @@ The goal of the session is to identify community priorities and outline a roadma
 ### WM48 IQAIR Task Group Working Meeting: Image Quality and AI-Readiness Metadata for Biodiversity Media
 
 Session type
-: Working meeting (Open)
+: Working meeting 
 
 Organizers
 : [Yasin Bakış](mailto:ybakis@tulane.edu), Tulane University, United States; [Henry Bart](mailto:hbartjr@tulane.edu), Tulane University, United States
@@ -257,7 +253,7 @@ The goal of the meeting is to refine vocabulary proposals, clarify use cases, an
 ### SYM08 BHL at 20: A New Chapter for Biodiversity Literature and Data
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Nicole Kearney](mailto:nkearney@museum.vic.gov.au), Biodiversity Heritage Library, International; [David Iggulden](mailto:D.Iggulden@kew.org), Royal Botanic Gardens, Kew, United Kingdom
@@ -280,7 +276,7 @@ The session will also reflect on two decades of BHL’s impact, from mobilizing 
 ### SYM45 Planning the Libroscope: creating research ready biodiversity from scientific publications
 
 Session type
-: Symposium (Closed)
+: Symposium 
 
 Organizers
 : [Donat Agosti](mailto:agosti@plazi.org), Plazi, Switzerland; [Laurence Bénichou](mailto:laurence.benichou@mnhn.fr), Muséum National d'Histoire Naturelle, France
@@ -299,7 +295,7 @@ This symposium will present exemplary contributions demonstrating key elements o
 ### WKS14 New approaches and tools to maximise the value of the Biodiversity Heritage Library
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Roderic Page](mailto:rdmpage@gmail.com), University of Glasgow, United Kingdom; [Nicole Kearney](mailto:nkearney@museum.vic.gov.au), Melbourne Museums, Australia
@@ -330,7 +326,7 @@ We think that the chance for people to explore new tools, and discuss those with
 ### WKS33 Liberating and providing AI-ready data from the Natural History Literature
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Chris Le Coquet](mailto:chris.le-coquet-le-roux@mnhn.fr), Muséum national d'Histoire naturelle, France; [Laurence Bénichou](mailto:laurence.benichou@mnhn.fr), Muséum national d'Histoire naturelle, France; [Donat Agosti](mailto:agosti@plazi.org), Plazi, Switzerland; [Patrick Ruch](mailto:patrick.ruch@hesge.ch), Swiss Institute of Bioinformatics, Switzerland; [Rainer Krug](mailto:rainer.krug@sib.swiss), Swiss Institute of Bioinformatics, Switzerland
@@ -349,7 +345,7 @@ This workshop will complement the proposed Libroscope symposium. As a starter, t
 ### WKS34 Liberating Data from Historical Biodiversity Literature with The Unified Corpus Explorer (UCE)
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Marius Böyng](mailto:m.boeyng@ub.uni-frankfurt.de), University Library J. C. Senckenberg, Goethe-University, Germany; [Gerwin Kasperek](mailto:g.kasperek@ub.uni-frankfurt.de), University Library J. C. Senckenberg, Goethe-University, Germany; [Katrin Peikert](mailto:k.peikert@ub.uni-frankfurt.de), University Library J. C. Senckenberg, Goethe-University, Germany; [Mevlüt Bagci](mailto:bagci@em.uni-frankfurt.de), Text Technology Lab, Goethe-University, Germany; [Jana Hoffmann](mailto:jana.hoffmann@senckenberg.de), Senckenberg Nature Research, Germany
@@ -372,7 +368,7 @@ The workshop is aimed at researchers, interested in unlocking biodiversity knowl
 ### WKS43 How Literature Services can Support & Benefit from Biodiversity Publication and Data Standards?
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Emilie Pasche](mailto:emilie.pasche@hesge.ch), Switzerland
@@ -401,7 +397,7 @@ The session also fosters discussion on feedback loops between publishers and lit
 ### SYM20 Meeting Biodiversity Data Standards Using Specify Software
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Theresa Miller](mailto:membership@specifysoftware.org), Specify Collections Consortium, United States
@@ -420,7 +416,7 @@ In addition to user presentations, the Specify Collections Consortium (SCC) will
 ### SYM29 From Cabinets to Clouds – Bridging the gap between collection- and database management
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Caitlin Thorn](mailto:caitlin.thorn@mfn.berlin), Museum für Naturkunde Berlin, Germany; [Nora Lentge-Maaß](mailto:nora.lentge-maass@mfn.berlin), Museum für Naturkunde Berlin, Germany; [Frederik Berger](mailto:frederik.berger@mfn.berlin), Museum für Naturkunde Berlin, Germany; [Mareike Petersen](mailto:mareike.petersen@mfn.berlin), Museum für Naturkunde Berlin, Germany; [Sabine von Mering](mailto:Sabine.vonMering@mfn.berlin), Museum für Naturkunde Berlin, Germany
@@ -439,7 +435,7 @@ We aim to bring together a range of examples to learn from each other’s i
 ### SYM42 Solutions for Research Collection Management Systems Challenges
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Jonas Grieb](mailto:jonas.grieb@senckenberg.de), Senckenberg - Leibniz Institution for Biodiversity and Earth System Research, Germany; [James Macklin](mailto:james.macklin@agr.gc.ca), Agriculture and Agri-Food Canada, Canada; [Christian Bölling](mailto:christian.boelling@mfn.berlin), Museum für Naturkunde Berlin, Germany; [Sam Leeflang](mailto:sam.leeflang@naturalis.nl), Naturalis, Netherlands; [Wouter Addink](mailto:wouter.addink@naturalis.nl), Naturalis, Netherlands; [Michaela Grein](mailto:m.grein@uebersee-museum.de), Überseemuseum Bremen, Germany; [Volker Lohrmann](mailto:v.lohrmann@uebersee-museum.de), Überseemuseum Bremen, Germany; [Etta Grotrian](mailto:e.grotrian@uebersee-museum.de), Überseemuseum Bremen, Germany; [Claus Weiland](mailto:claus.weiland@senckenberg.de), Senckenberg - Leibniz Institution for Biodiversity and Earth System Research, Germany
@@ -450,7 +446,7 @@ Collection Management Systems (CMS) face evolving challenges in managing, curati
 ### WKS35 From Skeletal to Scientific: A Hands-on Workshop for Measuring Digitization Depth with the MIDS Standard
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Mathias Dillen](mailto:mathias.dillen@plantentuinmeise.be), Meise Botanic Garden, Belgium; [Elspeth Haston](mailto:EHaston@rbge.org.uk), Royal Botanic Garden Edinburgh, United Kingdom; [Caitlin Chapman](mailto:cchapman@floridamuseum.ufl.edu), iDigBio / Florida Museum of Natural History, United States
@@ -471,7 +467,7 @@ Participants should bring a laptop and should install a local version of the MID
 ### SYM28 From Standards to Implementation: Connecting Observation Data in Asia to GBIF Infrastructure
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Kumiko Totsu](mailto:totsu.kumiko@nies.go.jp), National Institute for Environmental Studies, Japan; [Christian Elloran](mailto:cbelloran@aseanbiodiversity.org), ASEAN Centre for Biodiversity, Philippines
@@ -494,7 +490,7 @@ We aim to gather insights on current approaches, common obstacles, and emerging 
 ### LT16 Community-Powered, Research-Ready: Citizen Science for a Digital Future
 
 Session type
-: Session of Lightning Talks (Open)
+: Session of Lightning Talks 
 
 Organizers
 : [Ram Dayal Vaishnav](mailto:vaishnav.rd@gmail.com), The Naturalist School, India; [Vijay Barve](mailto:vbarve@gbif.org), GBIF, India
@@ -521,7 +517,7 @@ By sharing diverse perspectives—from software developers to community organize
 ### DS40 National and policy-relevant species checklists: why official, updated and validated data matter
 
 Session type
-: Discussion session (Closed)
+: Discussion session 
 
 Organizers
 : [Diana Hernandez](mailto:diana.hernandez@catalogueoflife.org), Catalogue of Life, Mexico; [Camila Plata](mailto:camila.plata@catalogueoflife.org), Catalogue of Life, Colombia; [Olaf Banki](mailto:olaf.banki@catalogueoflife.org), Catalogue of Life, The Netherlands
@@ -544,7 +540,7 @@ This session will combine short presentations with an open, moderated discussion
 ### WKS24 Mobilizing Botanical Checklists and Red Lists to GBIF
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Lycka Kamoen](mailto:l.kamoen@hortus.leidenuniv.nl), Leiden University, Naturalis Biodiversity Center, Netherlands; [Niels Raes](mailto:niels.raes@naturalis.nl), Naturalis Biodiversity Center, Netherlands
@@ -566,7 +562,7 @@ To address this gap, the MPC project has developed a practical manual that guide
 This workshop will run as a side event before the conference. [See more](../side-events/#living-atlases-workshop).
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Javier Molina](mailto:javier.molina@csiro.au), Atlas of Living Australia / CSIRO, Australia; [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC, Spain; [Vicente José Ruiz Jurado](mailto:vjrj@gbif.es), GBIF.ES - Consejo Superior De Investigaciones Científicas (CSIC), Spain
@@ -587,7 +583,7 @@ This workshop will cover the Living Atlases lifecycle: deployment strategies and
 ### SYM11 Data Quality: From Standard to Practice
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Lee Belbin](mailto:leebelbin@gmail.com), Blatant Fabrications Pty Ltd, Australia; [Arthur Chapman](mailto:biodiv_2@achapman.org), Australian Biodiversity Information Services, Australia
@@ -606,7 +602,7 @@ A standard only gains value through its implementation and the subsequent commun
 ### SYM22 State of the Collections Description Interest Group. What's Happening and What's Not!
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Sharon Grant](mailto:sgrant@fieldmuseum.org), The Field Museum of Natural History, USA; [Ben Norton](mailto:michaelnorton.ben@gmail.com), USA
@@ -625,7 +621,7 @@ This session will:
 ### SYM23 To see or not to see - that is the question:  Managing restricted access data (RASD)
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Tania Laity](mailto:tania.laity@csiro.au), Atlas of Living Australia - CSIRO, Australia; [Cameron Slatyer](mailto:cam.slatyer@csiro.au), Atlas of Living Australia - CSIRO, Australia; [Simon Sherrin](mailto:simon.sherrin@csiro.au), Atlas of Living Australia - CSIRO, Australia; [Kristin Eschenfelder](mailto:eschenfelder@wisc.edu), University of Wisconsin-Madison, USA; [Martin Kaehrle](mailto:kaehrle@wisc.edu), University of Wisconsin-Madison, USA
@@ -640,7 +636,7 @@ Session organisers will consider abstracts on the themes of issues around soluti
 ### SYM26 From WDSRPD to GeoSchemes: Recording Biodiversity Distributions for Science and Policy
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Paco Pando](mailto:pando@rjb.csic.es), CSIC / GBIF.ES, Spain; [Serge Gofas](mailto:sgofas@uma.es), Departamento de Biología Animal, Universidad de Málaga, 29071 Spain, Spain; [Pierre Bonnet](mailto:pierre.bonnet@cirad.fr), AMAP, University of Montpellier, CIRAD, CNRS, INRAE, IRD, France; [Alexandre Monro](mailto:a.monro@kew.org), Royal Botanic Gardens, Kew, United Kingdom; [Britt Lonneville](mailto:britt.lonneville@vliz.be), Flanders Marine Institute (VLIZ), Belgium; [Visotheary Ung](mailto:visotheary.ung@mnhn.fr), Institut de Systématique, Evolution, Biodiversité, CNRS, MNHN, SU, EPHE-PSL, UA, Paris, France
@@ -659,7 +655,7 @@ The session explicitly invites users of biodiversity distribution schemas—acro
 ### SYM32 May the Data Be Structured: Linking Descriptions, Identification and AI
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Adeline Kerner](mailto:kerner@mnhn.fr), National Centre for Scientific Research (CNRS), France; [Wouter Koch](mailto:wouter.koch@artsdatabanken.no), Norwegian Biodiversity Information Centre, Norway
@@ -670,7 +666,7 @@ Taxonomic identification relies on explicit, character-based knowledge derived f
 ### WKS39 Using the new DarwinCore Data Package to promote FAIR data principles in ecological research
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Kelsey Huelsman](mailto:kelsey.s.huelsman@gmail.com), ERT, NASA Goddard Space Flight Center, United States; [Eric Sokol](mailto:esokol@battelleecology.org), NEON, Battelle, United States; [Dhruva Kathuria](mailto:dhruva.kathuria@nasa.gov), UMBC/NASA GSFC, United States; [Robert Guralnick](mailto:rguralnick@flmnh.ufl.edu), University of Florida, United States
@@ -681,7 +677,7 @@ Data aggregators like GBIF have increased access to large volumes of multimodal 
 ### WKS51 Practical Biodiversity Data Quality
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 
@@ -698,7 +694,7 @@ Led by **Paul J. Morris**, this workshop introduces the four functional Test cla
 ### SYM18 Building resilient data infrastructures for biodiversity science
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Giuditta Parolini](mailto:giuditta.parolini@mfn.berlin), Museum für Naturkunde Berlin - Leibniz Institute for Evolution and Biodiversity Science, Germany; [Eva Alonso Vizcaino](mailto:eva.alonso@naturalis.nl), Naturalis Biodiversity Center, Netherlands
@@ -721,7 +717,7 @@ The symposium is an opportunity to present how data infrastructures in biodiver
 ### SYM36 Designing Institutional Knowledge Data Science Centres for Biodiversity
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Peter Grobe](mailto:p.grobe@leibniz-lib.de), Leibniz Institute for the Analysis of Biodiversity Change, Germany; [Lars Vogt](mailto:l.vogt@leibniz-lib.de), Leibniz Institute for the Analysis of Biodiversity Change, Germany; [Carina Goretzky](mailto:c.goretzky@leibniz-lib.de), Leibniz Institute for the Analysis of Biodiversity Change, Germany; [Björn Quast](mailto:b.quast@leibniz-lib.de), Leibniz Institute for the Analysis of Biodiversity Change, Germany; [Sheikh Mastura Farzana](mailto:s.farzana@leibniz-lib.de), Leibniz Institute for the Analysis of Biodiversity Change, Germany
@@ -764,7 +760,7 @@ We welcome contributions on:
 ### SYM38 Sustaining the Geo-Biodiversity Data Ecosystem: Standards-Driven Approaches to Long-Term Resilience
 
 Session type
-: Symposium (Closed)
+: Symposium 
 
 Organizers
 : [Libby Ellwood](mailto:ellwoodlibby@gmail.com), iDigBio, United States; [James Macklin](mailto:james.macklin@gmail.com), Agriculture and Agri-Food Canada, Canada; [Jutta Buschbom](mailto:jutta.buschbom@statistical-genetics.de), Statistical Genetics, Germany; [Kerstin Lehnert](mailto:lehnert@ldeo.columbia.edu), Columbia University, United States; [Andrew Bentley](mailto:abentley@ku.edu), University of Kansas, United States; [Ely Wallis](mailto:Ely.Wallis@csiro.au), Commonwealth Scientific and Industrial Research Organisation, Australia; [Pamela Soltis](mailto:psoltis@flmnh.ufl.edu), University of Florida, United States; [José Fortes](mailto:fortes@ufl.edu), University of Florida, United States
@@ -783,7 +779,7 @@ This session frames geo- and biodiversity data infrastructure as a distributed s
 ### DS19 Strengthening resilience in biodiversity data infrastructures: From practice to global coordination
 
 Session type
-: Discussion session (Closed)
+: Discussion session 
 
 Organizers
 : [Sharif Islam](mailto:sharif.islam@naturalis.nl), Naturalis Biodiversity Center, Netherlands; [Giuditta Parolini](mailto:giuditta.parolini@mfn.berlin), Museum für Naturkunde, Germany; [Eva Alonso](mailto:eva.alonso@naturalis.nl), Naturalis Biodiversity Center, Netherlands; [Wouter Addink](mailto:wouter.addink@naturalis.nl), Naturalis Biodiversity Center, Netherlands; [Jose Alonso](mailto:jose.alonso@naturalis.nl), Naturalis Biodiversity Center, Netherlands; [Sam Leeflang](mailto:sam.leeflang@naturalis.nl), Naturalis Biodiversity Center, Netherlands
@@ -798,7 +794,7 @@ The session combines short scene-setting inputs with open discussion focused on 
 ### WKS12 Strengthening National Biodiversity Data Infrastructures through International Coordination
 
 Session type
-: Workshop (Open)
+: Workshop 
 
 Organizers
 : [Anton Güntsch](mailto:a.guentsch@bo.berlin), Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Germany; [David Fichtmueller](mailto:d.fichtmueller@bo.berlin), Freie Universität Berlin, Botanic Garden and Botanical Museum Berlin, Germany; [Tanja Weibulat](mailto:weibulat@snsb.de), Bavarian State Collections of Natural History, Germany; [Victor Heijke](mailto:victor.heijke@naturalis.nl), Naturalis Biodiversity Center, The Netherlands
@@ -819,7 +815,7 @@ The workshop is designed as an interactive forum, providing ample space for open
 ### SYM15 Operationalizing Biodiversity Digital Twins within Data Space Ecosystems
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Claus Weiland](mailto:claus.weiland@senckenberg.de), Senckenberg – Leibniz Institution for Biodiversity and Earth System Research, Frankfurt am Main, Germany; [Dag Endresen](mailto:dag.endresen@nhm.uio.no), Natural History Museum, University of Oslo, Oslo, Norway; [Tomas Martinovic](mailto:tomas.martinovic@vsb.cz), IT4Innovations, VSB - Technical University of Ostrava, Ostrava, Czech Republic; [Gabriela Zuquim](mailto:gabriela.zuquim@csc.fi), CSC - IT Center for Science, Espoo, Finland; [Sharif Islam](mailto:sharif.islam@naturalis.nl), Naturalis Biodiversity Center, Leiden, Netherlands; [Hanna Koivula](mailto:hanna.koivula@csc.fi), CSC - IT Center for Science, Espoo, Finland; [Niels Raes](mailto:niels.raes@naturalis.nl), Naturalis Biodiversity Center, Leiden, Netherlands; [Dmitry Schigel](mailto:dschigel@gbif.org), Global Biodiversity Information Facility - Secretariat, Copenhagen, Denmark; [Taimur Khan](mailto:taimur.khan@ufz.de), Helmholtz Centre for Environmental Research - UFZ, Halle (Saale), Germany
@@ -836,7 +832,7 @@ We invite contributions detailing the practicalities of this shift - specificall
 ### SYM06 Rocks, Minerals, and Metadata: Integrating Earth Sciences into the TDWG Community
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America; [Rachel Walcott](mailto:r.walcott@nms.ac.uk), National Museums Scotland, Edinburgh; [Gary Motz](mailto:gary.motz@yale.edu), Yale University, United States of America
@@ -855,7 +851,7 @@ Presentations will address practical implementation challenges, conceptual model
 ### WKS10 Geological Collections with Darwin Core: Compound Specimen Model and Mineralogy Extension
 
 Session type
-: Workshop (Closed)
+: Workshop 
 
 Organizers
 : [Ben Norton](mailto:ben.norton@yale.edu), Yale University, United States of America
@@ -876,7 +872,7 @@ No prior experience with the extension is required. Familiarity with Darwin Core
 ### SYM07 Publishing and Communications Promoting Biodiversity, Natural History Collections, People,  Data and Data Standards
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Shelley James](mailto:shelley.james@dbca.wa.gov.au), Department of Biodiversity, Conservation & Attractions, Western Australian Herbarium, Australia; [Julia Percy-Bower](mailto:julia.percy-bower@dbca.wa.gov.au), Department of Biodiversity, Conservation & Attractions, Western Australian Herbarium, Australia; [Deborah Paul](mailto:dlpaul@illinois.edu), Illinois Natural History Survey, University of Illinois, Champaign, USA; [Elycia Wallis](mailto:ely.wallis@csiro.au), Atlas of Living Australia, National Collections & Marine Infrastructure, CSIRO, Australia
@@ -893,7 +889,7 @@ All TDWG 2026 speakers will submit an extended abstract to the Pensoft journal B
 ### SYM37 A consensus taxonomic reference for improved freshwater biodiversity data and knowledge
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Astrid Schmidt-Kloiber](mailto:ask@boku.ac.at), BOKU University, Vienna, Austria; [Koen Martens](mailto:darwinula@gmail.com), Royal Belgian Institute of Natural Sciences (RBINS), Aquatic & Terrestrial Ecology, Belgium; [Vanessa Bremerich](mailto:vanessa.bremerich@igb-berlin.de), Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Germany; [Helen Dallas](mailto:helen@frcsa.org.za), Freshwater Research Centre (FRC), South Africa; [Olaf Bánki](mailto:olaf.banki@catalogueoflife.org), Catalogue of Life Foundation, The Netherlands
@@ -910,7 +906,7 @@ The session will focus on operationalising freshwater taxonomy through standards
 ### Contributed Oral
 
 Session type
-: Symposium (Open)
+: Symposium 
 
 Organizers
 : [Elie Mario Saliba](mailto:elie.saliba@mnhn.fr), Lebanon
@@ -921,7 +917,7 @@ There are many symposia to choose from for the TDWG 2026 conference, but you may
 ### Posters
 
 Session type
-: Poster (Open)
+: Poster 
 
 Organizers
 : [Elie Mario Saliba](mailto:elie.saliba@mnhn.fr), Lebanon; [Meghan Balk](mailto:meghan.balk@gmail.com), Natural History Museum, University of Oslo, Norway
@@ -936,7 +932,7 @@ Please choose this session type if you wish to present a poster rather than give
 ### TDWG 2026 Unconference
 
 Session type
-: Unconference (Closed)
+: Unconference 
 
 Organizers
 : [Javier Molina](mailto:javier.molina@csiro.au), Atlas of Living Australia / CSIRO, Australia; [Deborah Paul](mailto:dlpaul@illinois.edu), Species File Group, Prairie Research Institute, University of Illinois, USA; [Chandra Earl](mailto:cearl4@asu.edu), Neon Biorepository, Arizona State University, USA; [Shelley James](mailto:shelley.james@dbca.wa.gov.au), Department of Biodiversity, Conservation & Attractions. Western Australian Herbarium, Australia; [Esteban Marentes Herrera](mailto:emarentes@gbif.org), Global Biodiversity Information Facility (GBIF), Denmark; [Nicky Nicolson](mailto:n.nicolson@kew.org), RBG Kew, UK
