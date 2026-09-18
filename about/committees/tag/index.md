@@ -16,7 +16,6 @@ list:
 
 ## Members
 
-- Ben Norton (Chair) - Yale University <ben.norton@yale.edu>
 - Wouter Addink - Naturalis <wouter.addink@naturalis.nl>
 - Steve Baskauf (chair emeritus) - Vanderbilt University Heard Libraries <steve.baskauf@vanderbilt.edu>
 - David Bloom - VertNET, TDWG Chair <dbloom@vertnet.org>
@@ -34,6 +33,8 @@ list:
 - Kate Webbink - Field Museum <kwebbink@fieldmuseum.org>
 - Greg Whitbread - <whitbread.greg@gmail.com>
 - John Wieczorek - Global Biodiversity Information Facility (GBIF). Rauthiflor LLC. <gtuco.btuco@gmail.com>
+
+- Ben Norton (Previous Chair) - Yale University <ben.norton@yale.edu>
 
 ## Mission
 
