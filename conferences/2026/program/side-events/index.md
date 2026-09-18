@@ -10,7 +10,7 @@ layout: home_alt
 toc: true
 
 ---
-_Last updated 19 Aug 2026_
+_Last updated 18 Sep 2026_
 
 Different Task Groups and related organizations will be running a series of events during the weekends before and after TDWG 2026 and are open for you to join.
 
@@ -131,24 +131,21 @@ See:
 **Organisers:** Wouter Addink ([wouter.addink@naturalis.nl](mailto:wouter.addink@naturalis.nl))  
 **Venue:** Meeting room [K29](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-k29.html) in the [Botanical Museum](https://www.uio.no/om/finn-fram/omrader/toyen/to03/), Oslo.
 
-[//]: # (### Catalogue of Life)
+### Catalogue of Life
 
-[//]: # ()
-[//]: # (Event name:  )
+**Event name:** Catalogue of Life
 
-[//]: # (Event type &#40;workshop, work meeting, symposium&#41;:  )
+**Event type:** To be confirmed
 
-[//]: # (Event description, including links, and agenda:  )
+**Time and date:** Saturday 26 to Monday 28 September 2026, between TDWG 2026 and GB33. The proposed time is 09:00–16:00; this is to be confirmed.
 
-[//]: # (Time and date:  )
+**Participants:** Approximately 20 people
 
-[//]: # (Whether it is open to anyone and, if so, how to register:  )
+**Contact:** Olaf Banki ([olaf.banki@catalogueoflife.org](mailto:olaf.banki@catalogueoflife.org))
 
-[//]: # (Whether there is a cost involved:  )
+**Local contacts:** Bernhard Kløw Askedalen ([bernhard.askedalen@niva.no](mailto:bernhard.askedalen@niva.no)); Rukaya Johaadien (tentative). A short botanical garden trip may be included.
 
-[//]: # (Organisers:  )
-
-[//]: # (Venue: [Botanical Museum &#40;Lids House&#41;]&#40;https://www.uio.no/om/finn-fram/omrader/toyen/to03/&#41;, [Auditorium]&#40;https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html&#41;)
+**Venue:** [Botanical Museum (Lids House)](https://www.uio.no/om/finn-fram/omrader/toyen/to03/), [Auditorium](https://www.uio.no/for-ansatte/arbeidsstotte/rom/moterom/toxx/to03-115.html)
 
 ### European Specify Summit
 
