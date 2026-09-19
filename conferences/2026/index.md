@@ -55,7 +55,7 @@ quicklinks: #text, href, new_window
 ---
 
 <div class="alert alert-danger" markdown="1">
-**Important: local train strike.** Some Vy trains in and around Oslo—including services between Oslo Airport and the city—are cancelled on Saturday, 19 September and Sunday, 20 September. [Read the travel advice and see the affected lines](#local-train-strike).
+**Important: local train strike.** Some Vy trains in and around Oslo—including services between Oslo Airport and the city—are cancelled on Saturday, 19 September and Sunday, 20 September. [Read the travel advice and see the affected lines](#important-local-train-strike).
 </div>
 
 <div class="float-end ms-5 img-fluid">
