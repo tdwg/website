@@ -334,7 +334,7 @@ As an alternative, use the [Flytoget Airport Express](https://flytoget.no/en/){:
 
 The strike may continue beyond Sunday; Vy has so far published detailed cancellation information only for Saturday, 19 September and Sunday, 20 September. 
 
-👉👉 **Check the journey planner in [Entur](https://entur.no/){:target="_blank"} or the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before every trip.** 👈👈
+**Check the journey planner in [Entur](https://entur.no/){:target="_blank"} or the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before every trip.**
 </div>
 
 ### Public transport
