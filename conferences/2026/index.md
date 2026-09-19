@@ -320,11 +320,22 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 ### Important: local train strike
 
 <div class="alert alert-danger" markdown="1">
-**Updated Saturday, 19 September 2026:** Vy train drivers are on strike in a dispute over pay and working hours. Some Vy departures have been cancelled, and the affected routes vary from day to day. Vy is not providing replacement transport during the strike.
 
-**Travelling between Oslo Airport and the city:** Vy's **RE10** airport service has 21 cancelled departures on Saturday and 31 on Sunday. The **RE11** airport service is not included in Vy's list of affected lines for these two days, but always check your exact departure before travelling. The strike may continue beyond Sunday; Vy has so far published detailed cancellation information only for Saturday, 19 September and Sunday, 20 September. As an alternative, use the [Flytoget Airport Express](https://flytoget.no/en/){:target="_blank"}, which departs from Oslo Airport every 10 minutes, or the [Flybussen airport bus](https://www.flybussen.no/en/airports/oslo-airport/oslo-airport-flybussen-connect/){:target="_blank"}. A separate ticket is required for Flytoget; Vy tickets are not valid on another train operator's services.
+**Updated Saturday, 19 September 2026:** 
 
-Check the journey planner in the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before every trip. Vy removes cancelled departures from journey-search results after the first day of the strike, so a usual departure that is missing should be treated as cancelled. See [Vy’s strike information](https://www.vy.no/aktuelt/informasjon-togstreik-2026){:target="_blank"} for the latest updates. You can also plan journeys across all operators with [Entur](https://entur.no/){:target="_blank"}.
+#### **See [Vy’s strike information](https://www.vy.no/aktuelt/informasjon-togstreik-2026){:target="_blank"} for the latest updates.**
+
+Vy train drivers are on strike in a dispute over pay and working hours. Some Vy departures have been cancelled, and the affected routes vary from day to day. Vy is not providing replacement transport during the strike.
+
+**Travelling between Oslo Airport and the city:** 
+Vy's **RE10** airport service has 21 cancelled departures on Saturday and 31 on Sunday. The **RE11** airport service is not included in Vy's list of affected lines for these two days, but check on the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before planning travel. 
+
+As an alternative, use the [Flytoget Airport Express](https://flytoget.no/en/){:target="_blank"}, which departs from Oslo Airport every 10 minutes, or the [Flybussen airport bus](https://www.flybussen.no/en/airports/oslo-airport/oslo-airport-flybussen-connect/){:target="_blank"}. A separate ticket is required for Flytoget; Vy tickets are not valid on another train operator's services.
+
+The strike may continue beyond Sunday; Vy has so far published detailed cancellation information only for Saturday, 19 September and Sunday, 20 September. 
+
+Check the journey planner in [Entur](https://entur.no/){:target="_blank"} or the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before every trip. 
+
 </div>
 
 ### Public transport
