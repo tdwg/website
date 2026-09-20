@@ -15,7 +15,7 @@ featured: # description, href, img
     title: Keep up to date!
     description: >
   
-      * **New:** See you on **This evening on Sunday, 20 Sep** for the welcome reception [See more](./#sunday-welcome-reception).  
+      * **New:** See you **this evening on Sunday, 20 Sep** for the welcome reception [See more](./#sunday-welcome-reception).  
 
 
       * Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
