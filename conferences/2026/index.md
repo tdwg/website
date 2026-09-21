@@ -54,7 +54,7 @@ quicklinks: #text, href, new_window
 </div>
 
 <div class="alert alert-info" markdown="1">
-**TDWG 2026 has now started!** If joining online, head to Whova go to the current session and join the streaming.
+**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the streaming.
 </div>
 
 
