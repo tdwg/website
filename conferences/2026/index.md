@@ -14,16 +14,13 @@ toc: true
 featured: # description, href, img
     title: Keep up to date!
     description: >
-  
-      * **New:** See you **this evening on Sunday, 20 Sep** for the welcome reception [See more](./#sunday-welcome-reception).  
-
 
       * Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
 
       
       * In case you miss it, TDWG 2026 Bioblitz is here! [See more](./#tdwg-2026-bioblitz).
                         
-    img: https://static.tdwg.org/conferences/2026/images/we-are-starting.jpg
+#    img: https://static.tdwg.org/images/journal/biss_lizard_title.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -56,6 +53,12 @@ quicklinks: #text, href, new_window
 **Important: local train strike.** Some Vy trains in and around Oslo—including services between Oslo Airport and the city—are cancelled on Saturday, 19 September and Sunday, 20 September. [Read the travel advice and see the affected lines](#important-local-train-strike).
 </div>
 
+<div class="alert alert-info" markdown="1">
+**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the live streaming.
+</div>
+
+
+
 <div class="float-end ms-5 img-fluid">
    <div>
       <img class="" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
@@ -84,12 +87,7 @@ quicklinks: #text, href, new_window
 </div>
 
 
-<div class="d-flex justify-content-center">
-   <!-- Countdown timer widget by NiftyButtons - Visit https://www.niftybuttons.com -->
-   <div id="nifty-countdown-1788742446285" style="background: #fcfcfc !important;         color: #202428 !important;         font-family: Arial, sans-serif;         padding: 30px;         border-radius: 10px;         width: 400px;         max-width: 100%;         box-sizing: border-box;         text-align: center;         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);     display: inline-block;"></div>
-   
-   <script>(function() { var targetDate = new Date('2026-09-21T17:00').getTime(); var container = document.getElementById('nifty-countdown-1788742446285'); function updateCountdown() { var now = new Date().getTime(); var distance = targetDate - now; if (distance < 0) { container.innerHTML = '<div style="font-size: 24px;">TDWG 2026 has started!</div>'; clearInterval(countdownInterval); return; } var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds = Math.floor((distance % (1000 * 60)) / 1000); var html = ''; html += '<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(days).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">DAYS</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(hours).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">HOURS</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(minutes).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">MINUTES</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(seconds).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">SECONDS</div></div>'; html += '</div>';html += '<div style="font-size: 18px; margin-top: 15px; color: #202428 !important; text-align: center;">until TDWG 2026 start</div>'; container.innerHTML = html; } updateCountdown(); var countdownInterval = setInterval(updateCountdown, 1000); })();</script>
-</div>
+
 
 <p></p>
 
