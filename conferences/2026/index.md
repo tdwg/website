@@ -56,6 +56,11 @@ quicklinks: #text, href, new_window
 **Important: local train strike.** Some Vy trains in and around Oslo—including services between Oslo Airport and the city—are cancelled on Saturday, 19 September and Sunday, 20 September. [Read the travel advice and see the affected lines](#important-local-train-strike).
 </div>
 
+<div class="alert alert-info" markdown="1">
+**TDWG 2026 has now started.** If joining online, head to Whova go to the current session and join the streaming.
+</div>
+
+
 <div class="float-end ms-5 img-fluid">
    <div>
       <img class="" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
@@ -63,25 +68,7 @@ quicklinks: #text, href, new_window
    <p></p>
    <div>
 
-   </div>
-   <div style="line-height:1.4em;background-color:#f9f9f9;border:1px solid #ccc;padding:10px;width:220px;font-family:Helvetica;" data-reactroot="">
-      <div style="">
-         <div style="text-align:center;font-size:16px">
-            <span>Get the official TDWG 2026 app,</span>
-            <div style="margin:10px 0px"><img style="height:32px" src="https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo" title="whova-logo"/>
-            </div>
-         </div>
-         <div style="margin-top:20px;clear:both;text-align:center;padding:0 0 5px 0">
-            <a href="https://itunes.apple.com/app/apple-store/id716979741?pt=1944835&amp;ct=download_widget&amp;mt=8" target="_blank" rel="noreferrer" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none;margin-right:5px">iOS</a>
-            <a href="https://play.google.com/store/apps/details?id=com.whova.event" target="_blank" rel="noreferrer" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none">Android</a>
-         </div>
-      </div>
-      <div>
-         <span style="font-size:13px">To access the Whova webapp,</span> <a target="_blank" rel="noreferrer" style="font-size:13px;text-decoration:none;color:#3c8dbc" href="https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/">Click here</a>
-         <div style="font-size:13px">For feature details, visit<!-- --> <a target="_blank" rel="noreferrer" style="text-decoration:none;color:#3c8dbc" href="https://whova.com/">Whova</a></div>
-      </div>
-   </div>
-</div>
+
 
 
 <div class="d-flex justify-content-center">
