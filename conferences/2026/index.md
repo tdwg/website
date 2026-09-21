@@ -13,12 +13,14 @@ layout: home_alt
 toc: true
 featured: # description, href, img
     title: Keep up to date!
-    description: >        
+    description: >
+
       * Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
 
+      
       * In case you miss it, TDWG 2026 Bioblitz is here! [See more](./#tdwg-2026-bioblitz).
                         
-    img: https://static.tdwg.org/conferences/2026/images/we-are-starting.jpg
+#    img: https://static.tdwg.org/images/journal/biss_lizard_title.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -52,8 +54,9 @@ quicklinks: #text, href, new_window
 </div>
 
 <div class="alert alert-info" markdown="1">
-**TDWG 2026 has now started.** If joining online, head to Whova go to the current session and join the streaming.
+**TDWG 2026 has now started!** If joining online, head to Whova go to the current session and join the streaming.
 </div>
+
 
 
 <div class="float-end ms-5 img-fluid">
@@ -63,15 +66,28 @@ quicklinks: #text, href, new_window
    <p></p>
    <div>
 
-
-
-
-<div class="d-flex justify-content-center">
-   <!-- Countdown timer widget by NiftyButtons - Visit https://www.niftybuttons.com -->
-   <div id="nifty-countdown-1788742446285" style="background: #fcfcfc !important;         color: #202428 !important;         font-family: Arial, sans-serif;         padding: 30px;         border-radius: 10px;         width: 400px;         max-width: 100%;         box-sizing: border-box;         text-align: center;         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);     display: inline-block;"></div>
-   
-   <script>(function() { var targetDate = new Date('2026-09-21T17:00').getTime(); var container = document.getElementById('nifty-countdown-1788742446285'); function updateCountdown() { var now = new Date().getTime(); var distance = targetDate - now; if (distance < 0) { container.innerHTML = '<div style="font-size: 24px;">TDWG 2026 has started!</div>'; clearInterval(countdownInterval); return; } var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds = Math.floor((distance % (1000 * 60)) / 1000); var html = ''; html += '<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(days).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">DAYS</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(hours).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">HOURS</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(minutes).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">MINUTES</div></div>'; html += '<div style="text-align: center;"><div style="font-size: 48px; color: #043b58 !important; font-weight: bold;">' + String(seconds).padStart(2, '0') + '</div><div style="font-size: 12px; color: #8ea7b3 !important; margin-top: 5px;">SECONDS</div></div>'; html += '</div>';html += '<div style="font-size: 18px; margin-top: 15px; color: #202428 !important; text-align: center;">until TDWG 2026 start</div>'; container.innerHTML = html; } updateCountdown(); var countdownInterval = setInterval(updateCountdown, 1000); })();</script>
+   </div>
+   <div style="line-height:1.4em;background-color:#f9f9f9;border:1px solid #ccc;padding:10px;width:220px;font-family:Helvetica;" data-reactroot="">
+      <div style="">
+         <div style="text-align:center;font-size:16px">
+            <span>Get the official TDWG 2026 app,</span>
+            <div style="margin:10px 0px"><img style="height:32px" src="https://whova.com/xems/apis/get_whova_tracking_image/?event_id=eSpv4rLiZqAad8BTQ5Jnu8eKLfGiHuh1WeCPkUI3bu4=&amp;track_id=use_small_widget&amp;image_type=whova_logo" title="whova-logo"/>
+            </div>
+         </div>
+         <div style="margin-top:20px;clear:both;text-align:center;padding:0 0 5px 0">
+            <a href="https://itunes.apple.com/app/apple-store/id716979741?pt=1944835&amp;ct=download_widget&amp;mt=8" target="_blank" rel="noreferrer" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none;margin-right:5px">iOS</a>
+            <a href="https://play.google.com/store/apps/details?id=com.whova.event" target="_blank" rel="noreferrer" style="line-height:1.4em;font-size:14px;background-color:#2dacee;padding:10px;color:#fff;min-width:80px;display:inline-block;text-decoration:none">Android</a>
+         </div>
+      </div>
+      <div>
+         <span style="font-size:13px">To access the Whova webapp,</span> <a target="_blank" rel="noreferrer" style="font-size:13px;text-decoration:none;color:#3c8dbc" href="https://whova.com/portal/webapp/5hAJHQPRggxKYAh2CDov/">Click here</a>
+         <div style="font-size:13px">For feature details, visit<!-- --> <a target="_blank" rel="noreferrer" style="text-decoration:none;color:#3c8dbc" href="https://whova.com/">Whova</a></div>
+      </div>
+   </div>
 </div>
+
+
+
 
 <p></p>
 
