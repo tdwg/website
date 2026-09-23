@@ -50,6 +50,11 @@ quicklinks: #text, href, new_window
 ---
 
 
+<div class="alert alert-info" markdown="1">
+**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the live streaming.
+</div>
+
+
 <div class="float-end ms-5 img-fluid">
    <div>
       <img class="" src="https://static.tdwg.org/conferences/2026/images/tdwg-2026-250.png" alt="TDWG 2026 Logo" width="175"/>
@@ -78,13 +83,7 @@ quicklinks: #text, href, new_window
 </div>
 
 
-
-
 <p></p>
-
-<div class="alert alert-info" markdown="1">
-**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the live streaming.
-</div>
 
 
 {:.lead}
