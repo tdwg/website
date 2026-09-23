@@ -49,15 +49,6 @@ quicklinks: #text, href, new_window
 
 ---
 
-<div class="alert alert-danger" markdown="1">
-**Important: local train strike.** Some Vy trains in and around Oslo—including services between Oslo Airport and the city—are cancelled on Saturday, 19 September and Sunday, 20 September. [Read the travel advice and see the affected lines](#important-local-train-strike).
-</div>
-
-<div class="alert alert-info" markdown="1">
-**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the live streaming.
-</div>
-
-
 
 <div class="float-end ms-5 img-fluid">
    <div>
@@ -90,6 +81,11 @@ quicklinks: #text, href, new_window
 
 
 <p></p>
+
+<div class="alert alert-info" markdown="1">
+**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the live streaming.
+</div>
+
 
 {:.lead}
 Join us for TDWG 2026 in Oslo from 21 to 25 September
@@ -303,7 +299,7 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 | Sunday<br />2026-09-20 | Monday<br />2026-09-21 | Tuesday<br />2026-09-22 | Wednesday<br />2026-09-23 | Thursday<br />2026-09-24 | Friday<br />2026-09-25 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Public city bioblitz launch | [UiO Aula](https://www.uio.no/english/about/news-and-events/university-square/aula/) <a class="map-icon-link" href="https://maps.app.goo.gl/SzxwL7zHPWyrLNs76" target="_blank" aria-label="Google Map for UiO Aula" title="Open UiO Aula in Google Maps"> - Map</a><br />Public keynotes and conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) <a class="map-icon-link" href="https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8" target="_blank" aria-label="Google Map for Oslo Congress Center" title="Open Oslo Congress Center in Google Maps"> - Map</a><br />Conference program | [Bioblitz and excursions](/conferences/2026/excursions/) | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) <a class="map-icon-link" href="https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8" target="_blank" aria-label="Google Map for Oslo Congress Center" title="Open Oslo Congress Center in Google Maps"> - Map</a><br />Conference program | [Oslo Congress Center](https://www.oslokongressenter.no/information-in-english/) <a class="map-icon-link" href="https://maps.app.goo.gl/uWZKVrHfe5FvqsYP8" target="_blank" aria-label="Google Map for Oslo Congress Center" title="Open Oslo Congress Center in Google Maps"> - Map</a><br />Conference program |
-| [UiO Natural History Museum](https://www.nhm.uio.no/english/) <a class="map-icon-link" href="https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46" target="_blank" aria-label="Google Map for UiO Natural History Museum" title="Open UiO Natural History Museum in Google Maps"> - Map</a><br />Welcome reception and registration, 18:00–21:00 | [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) <a class="map-icon-link" href="https://maps.app.goo.gl/ABrekvTSn2aTuNty6" target="_blank" aria-label="Google Map for Oslo City Hall" title="Open Oslo City Hall in Google Maps"> - Map</a><br />Welcome reception @17:00 | - | [MUNCH Museum](https://www.munch.no/en/){:target="_blank"} <a class="map-icon-link" href="https://maps.app.goo.gl/N8ENgo9RMy9RjsKk8" target="_blank" aria-label="Google Map for MUNCH" title="Open MUNCH in Google Maps"> - Map</a><br />Conference Social (including 2 drinks and finger food) | - | Conference closing |
+| [UiO Natural History Museum](https://www.nhm.uio.no/english/) <a class="map-icon-link" href="https://maps.app.goo.gl/pnVr5Z5zmJiLFBe46" target="_blank" aria-label="Google Map for UiO Natural History Museum" title="Open UiO Natural History Museum in Google Maps"> - Map</a><br />Welcome reception and registration, 18:00–21:00 | [Oslo City Hall](https://en.wikipedia.org/wiki/Oslo_City_Hall) <a class="map-icon-link" href="https://maps.app.goo.gl/ABrekvTSn2aTuNty6" target="_blank" aria-label="Google Map for Oslo City Hall" title="Open Oslo City Hall in Google Maps"> - Map</a><br />Welcome reception @17:00 | - | [MUNCH Museum](https://www.munch.no/en/){:target="_blank"} <a class="map-icon-link" href="https://maps.app.goo.gl/N8ENgo9RMy9RjsKk8" target="_blank" aria-label="Google Map for MUNCH" title="Open MUNCH in Google Maps"> - Map</a><br />Conference Social (including 2 drinks and finger food), 18:00-22:00 | - | Conference closing |
 
 ### Sunday welcome reception
 
