@@ -15,7 +15,7 @@ toc: false
 <div class="programme-app">
   <div class="programme-intro">
     <p class="lead">Select any talk to see its abstract, presenter, time, room and session information.</p>
-    <p class="programme-updated">Program current as of 19 September 2026. Late changes will also be announced in Whova.</p>
+    <p class="programme-updated">Post-conference update, 28 September 2026: room changes, cancellations, skipped talks and sound issues are marked in the schedule.</p>
   </div>
 
   <div class="programme-tools" aria-label="Programme filters">
