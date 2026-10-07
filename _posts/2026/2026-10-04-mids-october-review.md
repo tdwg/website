@@ -30,9 +30,7 @@ MIDS gives collections a shared, measurable definition of what it means for a sp
 
 The public review is open to everyone, and we encourage all community members to participate.
 
-* Preferred method — comment on the issue tracker at [https\://github.com/tdwg/mids/issues](https://github.com/tdwg/mids/issues). You may comment on an existing issue or open a new one.
-
-* Alternative — reviewers who are unable or prefer not to use the issue tracker can use the [MIDS Community Feedback Workbook](https://docs.google.com/spreadsheets/d/16nMgILgR6a4pkIRDR17n6WNvqCrnQbmprRSHbAxZGP8/). It lists every discipline, level, and information element in one place, with columns for your comments beside each entry, and requires no GitHub account. Return the completed workbook to the Review Manager.
+* Comment on the issue tracker at [https\://github.com/tdwg/mids/issues](https://github.com/tdwg/mids/issues). You may comment on an existing issue or open a new one.
 
 All feedback is welcome, including agreement — telling us that an entry is correct as written is as useful as proposing a change. All comments will be public and archived following the public review.
 
