@@ -23,9 +23,11 @@
   - text: "Conferences"
     href: /conferences/
   - text: "---"
+  - text: "2027 - Montreal, Canada"
+    href: https://livingdata2027.com/
+  - text: "---"
   - text: "2026 - Oslo, Norway"
     href: /conferences/2026/
-  - text: "---"
   - text: "2025 - Bogotá, Colombia"
     href: /conferences/2025/
   - text: "2024 - Ginowan, Okinawa, Japan"
@@ -70,43 +72,6 @@
   - text: "---"
   - text: "Before 2006"
     href: /conferences/pre-2006/
-- text: "About"
-  menu:
-  - text: "About"
-    href: /about/
-  - text: "---"
-  - text: "Executive Committee"
-    href: /about/executive/
-  - text: "Functional Subcommittees"
-    href: /about/committees/
-  - text: "Process"
-    href: /about/process/
-  - text: "Constitution"
-    href: /about/constitution/
-  - text: "Incorporation and Status"
-    href: /about/incorporation/
-  - text: "---"
-  - text: "Membership"
-    href: /about/membership/  
-  - text: "Terms of Use"
-    href: /about/terms-of-use/
-  - text: "Code of Conduct"
-    href: /about/code-of-conduct/
-  - text: "Diversity and Inclusion Statement"
-    href: /about/diversity-inclusion/
-  - text: "Liability Disclaimer and Release"
-    href: /about/liability-disclaimer/
-  - text: "Review Manager Guidelines"
-    href: /about/review-managers/
-  - text: "Contributing to the Website"
-    href: /about/website-faq/
-  - text: "---"
-  - text: "TDWG Newsletter Archive"
-    href: /about/newsletter-archive/
-  - text: "Logos"
-    href: /about/logos/
-  - text: "Contact"
-    href: /about/contact/
 - text: "News"
   href: /news/
 - text: Technical
@@ -132,5 +97,42 @@
     href: https://tdwg.github.io/tag/boolean/
   - text: tdwgutility vocabulary
     href: http://rs.tdwg.org/dwc/terms/attributes/
+- text: "About"
+  menu:
+  - text: "About"
+    href: /about/
+  - text: "---"
+  - text: "Executive Committee"
+    href: /about/executive/
+  - text: "Functional Subcommittees"
+    href: /about/committees/
+  - text: "Process"
+    href: /about/process/
+  - text: "Constitution"
+    href: /about/constitution/
+  - text: "Incorporation and Status"
+    href: /about/incorporation/
+  - text: "---"
+  - text: "Membership"
+    href: /about/membership/
+  - text: "Terms of Use"
+    href: /about/terms-of-use/
+  - text: "Code of Conduct"
+    href: /about/code-of-conduct/
+  - text: "Diversity and Inclusion Statement"
+    href: /about/diversity-inclusion/
+  - text: "Liability Disclaimer and Release"
+    href: /about/liability-disclaimer/
+  - text: "Review Manager Guidelines"
+    href: /about/review-managers/
+  - text: "Contributing to the Website"
+    href: /about/website-faq/
+  - text: "---"
+  - text: "TDWG Newsletter Archive"
+    href: /about/newsletter-archive/
+  - text: "Logos"
+    href: /about/logos/
+  - text: "Contact"
+    href: /about/contact/
 - text: "Donate"
   href: /donate/

@@ -12,11 +12,16 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    * **New:** Public review of the Minimum Information about a Digital Specimen (MIDS) standard [See more](/news/2026/mids-october-review/).
     
-    * Call for TDWG 2026 Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
+    * **New:** Deadline for TDWG 2026 Extended Abstracts has been extended to **31 October**! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
+    
+    * **New:** Call for Sessions – Living Data 2027 [See more](/news/2026/call-for-sessions-living-data-2027/)
+
+    * Public review of the Minimum Information about a Digital Specimen (MIDS) standard [See more](/news/2026/mids-october-review/).
+    
+    
         
-  img: https://commons.wikimedia.org/wiki/Special:FilePath/(MHNT)_Costidiscus_recticostatus_and_Heteroceras_emericianus_-_Alpes-de-Haute-Provence,_France.jpg
+  img: https://static.tdwg.org/conferences/2027/images/61367-tourisme-montreal.jpeg
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.

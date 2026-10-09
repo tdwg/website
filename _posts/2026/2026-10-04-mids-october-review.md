@@ -4,7 +4,7 @@ description: >
   Public review from October 5th, 2026 until December 4th, 2026.
 background:
   img: https://commons.wikimedia.org/wiki/Special:FilePath/(MHNT)_Costidiscus_recticostatus_and_Heteroceras_emericianus_-_Alpes-de-Haute-Provence,_France.jpg
-  by: (MHNT) Costidiscus recticostatus and Heteroceras emericianus - Alpes-de-Haute-Provence, France" by Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons
+  by: (MHNT) Costidiscus recticostatus and Heteroceras emericianus - Alpes-de-Haute-Provence, France" by , CC BY-SA 4.0, via Wikimedia Commons
   href: https://commons.wikimedia.org/wiki/File:(MHNT)_Costidiscus_recticostatus_and_Heteroceras_emericianus_-_Alpes-de-Haute-Provence,_France.jpg
 
 tags: [Standards, Minimum Information about a Digital Specimen, MIDS]
