@@ -15,12 +15,9 @@ featured: # description, href, img
     title: Keep up to date!
     description: >
 
-      * Call for Extended Abstracts for BISS is now open! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
-
-      
-      * In case you miss it, TDWG 2026 Bioblitz is here! [See more](./#tdwg-2026-bioblitz).
+      * **New:** Deadline for TDWG 2026 Extended Abstracts has been extended to **31 October**! [See more](/news/2026/tdwg-2026-call-for-extended-abstracts/).
                         
-#    img: https://static.tdwg.org/images/journal/biss_lizard_title.png
+    img: https://static.tdwg.org/images/journal/biss_lizard_title.png
        
 quicklinks: #text, href, new_window
 #   - text: Local organiser homepage (GBIF Norway) # We want the link from GBIF.no to this page instead
@@ -48,12 +45,6 @@ quicklinks: #text, href, new_window
      href: ./visa-information
 
 ---
-
-
-<div class="alert alert-info" markdown="1">
-**TDWG 2026 has now started!** If joining online, head to Whova, then go to the current session and join the live streaming.
-</div>
-
 
 <div class="float-end ms-5 img-fluid">
    <div>
@@ -308,26 +299,6 @@ To sponsor a student, simply select the Sponsor a Student option when registerin
 **Sunday welcome reception and registration:** Join us on Sunday, 20 September, from **18:00 to 21:00** at the Geological Museum (Brøggers hus). Enter through [these doors](https://maps.app.goo.gl/DGsKW7bA1SDaGCEL9){:target="_blank"}; look for TDWG banners and the open door. Walk through the exhibition rooms to the main foyer, where registration will take place. Snacks, finger food, and drinks will be served.
 
 ## Getting around Oslo
-
-### Important: local train strike
-
-<div class="alert alert-danger" markdown="1">
-
-**Updated Saturday, 19 September 2026:** 
-
-#### **See [Vy’s strike information](https://www.vy.no/aktuelt/informasjon-togstreik-2026){:target="_blank"} for the latest updates.**
-
-Vy train drivers are on strike in a dispute over pay and working hours. Some Vy departures have been cancelled, and the affected routes vary from day to day. Vy is not providing replacement transport during the strike.
-
-**Travelling between Oslo Airport and the city:** 
-Vy's **RE10** airport service has 21 cancelled departures on Saturday and 31 on Sunday. The **RE11** airport service is not included in Vy's list of affected lines for these two days, but check on the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before planning travel. 
-
-As an alternative, use the [Flytoget Airport Express](https://flytoget.no/en/){:target="_blank"}, which departs from Oslo Airport every 10 minutes, or the [Flybussen airport bus](https://www.flybussen.no/en/airports/oslo-airport/oslo-airport-flybussen-connect/){:target="_blank"}. A separate ticket is required for Flytoget; Vy tickets are not valid on another train operator's services.
-
-The strike may continue beyond Sunday; Vy has so far published detailed cancellation information only for Saturday, 19 September and Sunday, 20 September. 
-
-👉👉 **Check the journey planner in [Entur](https://entur.no/){:target="_blank"} or the [Vy app or on vy.no](https://www.vy.no/en){:target="_blank"} before every trip.** 👈👈
-</div>
 
 ### Public transport
 

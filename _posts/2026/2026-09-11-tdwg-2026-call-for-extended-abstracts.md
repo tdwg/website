@@ -1,7 +1,7 @@
 ---
 title: Call for extended abstracts - TDWG 2026
 description: >
-  📜 Call for Extended Abstracts for BISS is now open. See instructions and submit yours\!
+  📜 Deadline for TDWG 2026 Extended Abstracts has been extended to 31 October. See instructions and submit yours\!
 
 background:
   img: https://static.tdwg.org/images/journal/biss_lizard_title.png
@@ -23,7 +23,8 @@ BISS is an open-access journal published by [Pensoft Publishers](https://pensoft
 
 ## Dates
 
-**Deadline** for extended abstract submission is **9 October 2026**
+{:.alert .alert-info}
+**Updated Deadline** for extended abstract submission is **31 October 2026**
 
 ## Why to submit an extended abstract
 
