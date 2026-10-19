@@ -22,11 +22,11 @@ list:
 
 ## Convener
 
-- [Steven Baskauf](mailto:steve.baskauf@gmail.com) - Vanderbilt University Heard Libraries (retired); USA
+- [John Wieczorek](mailto:gtuco.btuco@gmail.com) - Rauthiflor LLC; USA, Argentina
 
 ## Core members
 
-- [John Wieczorek](mailto:gtuco.btuco@gmail.com) - Rauthiflor LLC; USA, Argentina
+- [Steven Baskauf](mailto:steve.baskauf@gmail.com) - Vanderbilt University Heard Libraries (retired); USA
 - Peter Desmet - Research Institute for Nature and Forest (INBO); Belgium
 - Markus Döring - Global Biodiversity Information Facility (GBIF); Denmark
 - [Quentin Groom](mailto:quentin.groom@plantentuinmeise.be) - Meise Botanic Garden; Belgium
