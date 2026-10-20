@@ -12,7 +12,9 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
-    
+    * **New:** Darwin Core July additions ratified and next public review. [See more](/news/2026/dwc-oct-nov-announcement/).  
+  
+
     * **New:** Nominations are open for positions on the TDWG Executive Committee. Submit by November 13th, 2026. [See more](/news/2026/call-for-nominations-executive-committee-2027-2028/).    
 
 
