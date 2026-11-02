@@ -12,7 +12,8 @@ tags: [Conference, LivingData2027]
 
 Living Data 2027 invites the biodiversity, biodiversity data management, ecology and collections communities—including all TDWG members—to help shape the conference program.
 
-**Submit your session proposal by 31 October 2026\.**
+{: .alert .alert-info}
+**Deadline extended to 13 November 2026\.**
 
 ## About Living Data 2027
 
@@ -48,7 +49,7 @@ These examples are **not limits**. We especially encourage proposals that bring 
 
 ## How to submit a session?
 
-[**Submit by 31 October 2026**](https://livingdata2027.com/)
+[**Submit by 13 November 2026**](https://livingdata2027.com/)
 
 Each proposal requires:
 
