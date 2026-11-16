@@ -9,7 +9,7 @@ background:
 toc: true
 ---
 
-Nominations are open for positions on the [Executive Committee](/about/executive/) of Biodiversity Information Standards (TDWG) for terms spanning 2027-2028.
+The nominations below have been received for positions on the TDWG [Executive Committee](/about/executive/) for terms spanning 2027-2028.
 
 This is an opportunity to lead the development of biodiversity informatics and work with an enthusiastic team to improve the quality and interoperability of biodiversity data.
 
