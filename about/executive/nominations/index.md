@@ -40,7 +40,7 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/executive/responsibilities/#secretary)
 
-#### Shelley James [ORCID](https://orcid.org/0000-0003-1105-1850) 
+#### Shelley James  - [ORCID](https://orcid.org/0000-0003-1105-1850) 
 
 _Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions_
 
@@ -56,7 +56,7 @@ _Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Cent
 
 [Responsibilities](/about/executive/responsibilities/#treasurer)
 
-#### Chandra Earl [ORCID](https://orcid.org/0000-0001-9850-882X) 
+#### Chandra Earl  - [ORCID](https://orcid.org/0000-0001-9850-882X) 
 
 _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
 
@@ -77,7 +77,7 @@ _National Ecological Observatory Network (NEON), Arizona State University, USA (
 
 [Responsibilities](/about/committees/tag/#responsibilities)
 
-#### Maarten Trekels [ORCID](https://orcid.org/0000-0001-8282-8765) 
+#### Maarten Trekels  - [ORCID](https://orcid.org/0000-0001-8282-8765) 
 
 _Meise Botanic Garden, Belgium_
 
@@ -111,7 +111,7 @@ _Meise Botanic Garden, Belgium_
 
 [Responsibilities](/about/committees/outreach/#responsibilities)
 
-#### Javier Molina [ORCID](https://orcid.org/0000-0003-3563-900X) 
+#### Javier Molina  - [ORCID](https://orcid.org/0000-0003-3563-900X) 
 
 _Atlas of Living Australia, Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia_
 
@@ -154,7 +154,7 @@ _No nomination received._
 
 ### Representative for Asia (four nominees)
 
-#### Vijay Barve [ORCID](https://orcid.org/0000-0002-4852-2567)
+#### Vijay Barve  - [ORCID](https://orcid.org/0000-0002-4852-2567)
 
 **Background**
 
@@ -166,7 +166,9 @@ _No nomination received._
 
 : While Asian countries rank among the top global users of GBIF data, their active participation within the TDWG community remains underrepresented. As TDWG Asia Representative, my main goal is to close this gap by building links between Asian research communities and global standards work. Building on my established relationships with researchers and organizations across Asia, I will continue organizing regional symposia, raising awareness of emerging data standards, and creating structured capacity-building initiatives for researchers. I would also continue to organize symposia focused on Asia and the Global South at future TDWG conferences.
 
-#### Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034) - _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
+#### Daphne Z. Hoh  - [ORCID](https://orcid.org/0000-0002-7810-1034) 
+
+_Taiwan Biodiversity Information Facility, Taipei, Taiwan_
 
 **Background**
 
@@ -204,7 +206,7 @@ _Saudi Aramco_
 - Integrating Field Conservation with Informatics: Advocate for seamless data integration between species telemetry, IUCN spatial assessments, and global biodiversity repositories (such as GBIF and OBIS), ensuring field data effectively informs global biodiversity indicators. 
 - Active Governance & Community Engagement: Dedicate the required monthly time and effort to contribute meaningfully to TDWG Executive Committee bi-monthly calls, subcommittees, and annual conference planning, serving as a responsive voice for the Asian biodiversity community.
 
-#### Congtian Lin [ORCID](https://orcid.org/0000-0002-4979-7618) 
+#### Congtian Lin  - [ORCID](https://orcid.org/0000-0002-4979-7618) 
 
 _Institute of Zoology, CAS, Beijing, China_
 
@@ -239,6 +241,7 @@ _<fill here>_
 ### Representative for Latin America
 
 #### Juan Manuel Saez Hidalgo 
+
 _Instituto de Ecologia y Biodiversidad (IEB), Chile_
 
 **Background**
@@ -251,7 +254,8 @@ _Instituto de Ecologia y Biodiversidad (IEB), Chile_
 
 ### Representative for North America
 
-#### Erica Krimmel - [ORCID](https://orcid.org/0000-0003-3192-0080)
+#### Erica Krimmel  - [ORCID](https://orcid.org/0000-0003-3192-0080)
+
 _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
 
 **Background**
