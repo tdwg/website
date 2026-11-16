@@ -40,7 +40,9 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/executive/responsibilities/#secretary)
 
-#### Shelley James [ORCID](https://orcid.org/0000-0003-1105-1850) - _Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions_
+#### Shelley James [ORCID](https://orcid.org/0000-0003-1105-1850) 
+
+_Western Australian Herbarium (PERTH), Keiran McNamara Conservation Science Centre, Department of Biodiversity, Conservation and Attractions_
 
 **Background**
 
@@ -54,7 +56,9 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/executive/responsibilities/#treasurer)
 
-#### Chandra Earl [ORCID](https://orcid.org/0000-0001-9850-882X) - _National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
+#### Chandra Earl [ORCID](https://orcid.org/0000-0001-9850-882X) 
+
+_National Ecological Observatory Network (NEON), Arizona State University, USA (residing in Maryland)_
 
 **Background**
 
@@ -73,7 +77,9 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/committees/tag/#responsibilities)
 
-#### Maarten Trekels [ORCID](https://orcid.org/0000-0001-8282-8765) - _Meise Botanic Garden, Belgium_
+#### Maarten Trekels [ORCID](https://orcid.org/0000-0001-8282-8765) 
+
+_Meise Botanic Garden, Belgium_
 
 **Background**
 
@@ -105,7 +111,9 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/committees/outreach/#responsibilities)
 
-#### Javier Molina [ORCID](https://orcid.org/0000-0003-3563-900X) - _Atlas of Living Australia, Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia_
+#### Javier Molina [ORCID](https://orcid.org/0000-0003-3563-900X) 
+
+_Atlas of Living Australia, Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia_
 
 **Background**
 
@@ -146,8 +154,7 @@ _No nomination received._
 
 ### Representative for Asia (four nominees)
 
-#### Vijay Barve
-https://orcid.org/0000-0002-4852-2567
+#### Vijay Barve [ORCID](https://orcid.org/0000-0002-4852-2567)
 
 **Background**
 
@@ -171,7 +178,9 @@ https://orcid.org/0000-0002-4852-2567
 
 : With broad collaboration experience in biodiversity research, data management, and capacity building, I am committed to bridging this gap. As a multilingual researcher, I have worked alongside national and international partners to promote biodiversity data standards and have seen firsthand the impact of shared resources and strong networks. As I prepare to transition from East Asia to Southeast Asia in the near future, I hope to connect communities across linguistic and regional boundaries, facilitating discussions and knowledge sharing within the TDWG community.
 
-#### Mohammad Zafar-ul Islam - _Saudi Aramco_
+#### Mohammad Zafar-ul Islam 
+
+_Saudi Aramco_
 
 **Background**
 
@@ -196,6 +205,7 @@ https://orcid.org/0000-0002-4852-2567
 - Active Governance & Community Engagement: Dedicate the required monthly time and effort to contribute meaningfully to TDWG Executive Committee bi-monthly calls, subcommittees, and annual conference planning, serving as a responsive voice for the Asian biodiversity community.
 
 #### Congtian Lin [ORCID](https://orcid.org/0000-0002-4979-7618) 
+
 _Institute of Zoology, CAS, Beijing, China_
 
 **Background**
