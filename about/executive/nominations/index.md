@@ -105,14 +105,29 @@ All officers, including subcommittee chairs, have voting rights on the Executive
 
 [Responsibilities](/about/committees/outreach/#responsibilities)
 
-#### Javier Molina [ORCID](https://orcid.org/0000-0003-3563-900X)
-_Atlas of Living Australia, Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia_
+#### Javier Molina [ORCID](https://orcid.org/0000-0003-3563-900X) - _Atlas of Living Australia, Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia_
 
 **Background**
-: <fill here>
+
+: I am a Senior Project Manager at the Atlas of Living Australia, where I work at the intersection of technology, organisational objectives and value for users. My career has spanned several areas of information technology, including more than ten years in biodiversity informatics.
+
+: During this time, I have worked with international partners and communities, including GBIF, the Living Atlases community and TDWG, to support open access to biodiversity data and the technologies that enable its use. These collaborations have given me experience in coordinating work across organisations, communicating with technical and non-technical audiences, and contributing to initiatives sustained by internationally distributed communities.
+
+: A consistent focus throughout my career has been understanding and communicating the outcomes of our work: how technology, standards and collaboration create practical value for users and contribute to broader organisational goals. This perspective has informed my work as Chair of the TDWG Outreach and Communications Functional Subcommittee and my interest in serving for a second term.
+
+: Outside work, I enjoy spending time with my family, hiking and other outdoor activities, motorsports. I love showing visitors places of local interest.
 
 **Vision**
-: <fill here>
+
+: For a second term as Chair of the Outreach and Communications Functional Subcommittee, my priority would be to strengthen the resilience and continuity of TDWG’s communications.
+During the current term, the Subcommittee has established publication processes, introduced new tools and supported more regular communication with the TDWG community. The next step is to consolidate these improvements so that communications remain timely, reliable and manageable over the longer term.
+
+: Conference communications require particular attention because they involve substantial workloads and time-sensitive coordination. I would work to increase participation in the Subcommittee, distribute responsibilities more effectively and establish stronger representation within conference organising committees. This would help reduce reliance on a small number of volunteers while improving coordination between conference planning and communications.
+
+: I would also continue developing relationships with organisations and networks working in biodiversity data, biodiversity informatics and related fields. These relationships can extend the reach of TDWG communications, support the exchange of relevant information and create opportunities for coordinated outreach.
+
+: A further priority would be closer collaboration with the chairs of TDWG Interest Groups, Task Groups, Working Groups and Maintenance Groups. The aim would be to communicate their activities, progress and outcomes more regularly, while using processes that recognise the limited time available to volunteers.
+Finally, I would work with TDWG’s Regional Representatives and other Functional Subcommittees to identify stories, activities and resources that are relevant to different regions and audiences. This would support clearer communication of TDWG’s work and provide more opportunities for members to understand and participate in the development, maintenance and use of biodiversity information standards.
 
 <!-- Term: 2022-23
 ### Time and Place, Chair
@@ -123,9 +138,11 @@ _Atlas of Living Australia, Commonwealth Scientific and Industrial Research Orga
 
 [Responsibilities](/about/executive/responsibilities/#regional-representatives)
 
+<!-- 
 ### Rep for Africa: 
 
 _No nomination received._
+-->
 
 ### Representative for Asia (four nominees)
 
