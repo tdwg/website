@@ -159,14 +159,16 @@ https://orcid.org/0000-0002-4852-2567
 
 : While Asian countries rank among the top global users of GBIF data, their active participation within the TDWG community remains underrepresented. As TDWG Asia Representative, my main goal is to close this gap by building links between Asian research communities and global standards work. Building on my established relationships with researchers and organizations across Asia, I will continue organizing regional symposia, raising awareness of emerging data standards, and creating structured capacity-building initiatives for researchers. I would also continue to organize symposia focused on Asia and the Global South at future TDWG conferences.
 
-#### Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034)
-_Taiwan Biodiversity Information Facility, Taipei, Taiwan_
+#### Daphne Z. Hoh - [ORCID](https://orcid.org/0000-0002-7810-1034) - _Taiwan Biodiversity Information Facility, Taipei, Taiwan_
 
 **Background**
+
 : I have been trained as a marine scientist since completing my BSc and PhD studies. My research focused on sea turtle conservation, with a specific emphasis on fungal infections in sea turtle eggs and sea turtle’s foraging ecology. My research has spanned various aspects of this issue, including pathogen genomics and pathogenicity, utilising high-throughput sequencing and bioinformatics methods. I co-founded TurtleSpot Taiwan, a citizen science initiative that collects sea turtle sightings to support local involvement in science. Recognising the significance of generating extensive primary biodiversity data through my work, this experience sparks my interest in biodiversity informatics. I have since then actively engaged in TDWG activities, serving as a Program Committee member for associated conferences and contributing as an open data ambassador, mentor, and trainer. For the past years, I have been a postdoctoral researcher at the Taiwan Biodiversity Information Facility (TaiBIF), where my work focuses on evaluating biodiversity data gaps, mobilizing data, and building capacity for data use. Additionally, I contributed to translating critical materials on biodiversity data standards, such as Darwin Core terms and vocabularies, GBIF’s DNA publishing guidelines, and related course materials, from English to Chinese, making these resources more accessible to Chinese-speaking audiences.
 
 **Vision**
+
 : In some Asian countries, especially Taiwan, communities are making notable progress in biodiversity informatics. However, they often lack visibility and engagement at the international level, primarily due to language barriers. I see this challenge echoed across other Asian countries, where biodiversity informatics efforts are advancing locally but remain isolated from the global network of biodiversity information standards and practices. I believe that fostering connections and collaborations between the Asian community and the international community will stimulate new developments and ultimately enhance biodiversity informatics and conservation efforts on a global scale.
+
 : With broad collaboration experience in biodiversity research, data management, and capacity building, I am committed to bridging this gap. As a multilingual researcher, I have worked alongside national and international partners to promote biodiversity data standards and have seen firsthand the impact of shared resources and strong networks. As I prepare to transition from East Asia to Southeast Asia in the near future, I hope to connect communities across linguistic and regional boundaries, facilitating discussions and knowledge sharing within the TDWG community.
 
 #### Mohammad Zafar-ul Islam - _Saudi Aramco_
