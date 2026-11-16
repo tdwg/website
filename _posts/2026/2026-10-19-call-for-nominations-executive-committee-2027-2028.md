@@ -44,6 +44,10 @@ Additional hours will be required to fulfill the responsibilities and obligation
 
 To submit a nomination(including self-nominations), please send a statement of background and vision to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org) ) by Friday, November 13th 2026 PST (UTC-8).  You are welcome to review the [background and vision statements](https://www.tdwg.org/about/executive/backgrounds/) from current Executive Committee  members.
 
+## Nominations
+
+Nominations received by the closing deadline are [listed here](/about/executive/nominations/).
+
 ## Election process
 
 Ballots will be emailed to current members shortly after nominations close, and the ballots will be due by December, 21st 2026 PST (UTC-8).  We will announce the results of the election as soon as all ballots have been counted and confirmed.
