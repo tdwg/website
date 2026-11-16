@@ -97,7 +97,6 @@ _Meise Botanic Garden, Belgium_
 
 : I realise that this will be a challenging task, where I will need to rely on the great minds of this organisation. However, I’m confident that our community is one of the most welcoming and strongest that exists.
 
--->
 <!-- serving 2022-2023
 ### Infrastructure, Chair
 [Responsibilities](/about/committees/infrastructure/#responsibilities)
