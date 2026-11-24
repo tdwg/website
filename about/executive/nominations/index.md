@@ -97,7 +97,6 @@ _Meise Botanic Garden, Belgium_
 
 : I realise that this will be a challenging task, where I will need to rely on the great minds of this organisation. However, I’m confident that our community is one of the most welcoming and strongest that exists.
 
--->
 <!-- serving 2022-2023
 ### Infrastructure, Chair
 [Responsibilities](/about/committees/infrastructure/#responsibilities)
@@ -243,11 +242,15 @@ _<fill here>_
 _Instituto de Ecologia y Biodiversidad (IEB), Chile_
 
 **Background**
+
 : I am a Computer Science researcher at Chile's Institute of Ecology and Biodiversity (IEB). I manage and develop the Digital Herbarium, supporting biodiversity research by ensuring its digital assets are organized, accessible, and up-to-date. Additionally, I lead data analysis for various projects, utilizing my expertise to support decision-making in research grants and tenders.
+
 : The IEB aspires to be a world-class institute that conducts groundbreaking scientific research to support sustainable development in Chile. As part of this mission, the IEB operates as a training center, providing advanced education for undergraduate and postgraduate students and mentoring young researchers. While not all research can be published in scientific journals, the IEB remains committed to connecting science with the challenges facing the country's production industries and with public institutions responsible for environmental and biodiversity care.
+
 : I hold a Master's in Computer Science from the University of Chile, have two years of experience in ecology, and aspire to pursue a doctoral degree in Statistics at the Pontificia Universidad Católica de Chile. This doctorate aligns with my strong interest in data science and its application to biodiversity research.
 
 **Vision**
+
 : My vision is to serve as a representative within the Taxonomic Databases Working Group (TDWG), advocating for the inclusion of Latin America in TDWG’s global initiatives. I aim to contribute to a more inclusive and comprehensive approach to global biodiversity research and conservation by bridging regional expertise with international biodiversity data standards.
 
 ### Representative for North America
@@ -259,7 +262,6 @@ _Independent Biodiversity Information Scientist, Sacramento, CA, USA_
 **Background**
 
 : I am an information scientist (MLIS) whose expertise lies in designing and implementing systems to increase the digital availability and impact of biodiversity data. Since 2006, I have worked in and around natural history collections–during my undergraduate education, at a research field station, at nonprofit museums, in the context of a national resource (iDigBio), and now as a freelance consultant. My driving goal is to make biodiversity data of all scales FAIR and fit-for-use in applied contexts from academic research to public policy. I have been a member of the TDWG community since 2017, when I began helping produce the Darwin Core Hour series. Since then, I regularly attend and present at annual meetings, participate in standards development processes, and benefit from the essential framework that TDWG provides for biodiversity data mobilization. I served as Regional Representative for North America 2025-2026.
-
 
 **Vision**
 
