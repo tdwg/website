@@ -154,6 +154,18 @@ _No nomination received._
 
 ### Representative for Asia (four nominees)
 
+#### Daphne Z. Hoh (incumbent) - [ORCID](https://orcid.org/0000-0002-7810-1034) 
+
+_Biodiversity Information Scientist_
+
+**Background**
+
+: I am a biodiversity information scientist and marine biologist working at the intersection of conservation research, biodiversity data management, and data use. My research background spans marine turtle conservation, molecular ecology, and biodiversity informatics. Since 2025, I have served as the TDWG Asia Regional Representative. During my 2025–2026 term, I have continued engaging with biodiversity research and informatics communities across Asia. Through relevant regional meetings, workshops, and collaborative activities, I have also expanded my connections with researchers, institutions, and biodiversity-related networks beyond East Asia to Southeast Asia. These experiences have strengthened my understanding of regional needs and opportunities for greater engagement with the international biodiversity informatics community.
+
+**Vision**
+
+: My vision for a second term is to strengthen connections between Asian biodiversity communities and TDWG, building on the networks established during 2025–2026. I aim to promote greater awareness of TDWG activities, facilitate knowledge exchange, and encourage wider regional participation in biodiversity data standards development. As a multilingual researcher preparing to be based in Southeast Asia from 2027, I hope to leverage my growing regional networks to bridge geographical gaps and foster collaboration. I would also like to explore opportunities with regional institutions and TDWG conference organisers to bring a future TDWG annual conference to Asia, improving accessibility and participation among regional researchers and practitioners. Also, I hope to bring regional perspectives, needs, and experiences into TDWG discussions, contributing to a more inclusive and connected global biodiversity informatics community.
+
 #### Vijay Barve  - [ORCID](https://orcid.org/0000-0002-4852-2567)
 
 **Background**
@@ -165,18 +177,6 @@ _No nomination received._
 **Vision**
 
 : While Asian countries rank among the top global users of GBIF data, their active participation within the TDWG community remains underrepresented. As TDWG Asia Representative, my main goal is to close this gap by building links between Asian research communities and global standards work. Building on my established relationships with researchers and organizations across Asia, I will continue organizing regional symposia, raising awareness of emerging data standards, and creating structured capacity-building initiatives for researchers. I would also continue to organize symposia focused on Asia and the Global South at future TDWG conferences.
-
-#### Daphne Z. Hoh  - [ORCID](https://orcid.org/0000-0002-7810-1034) 
-
-_Biodiversity Information Scientist_
-
-**Background**
-
-: I am a biodiversity information scientist and marine biologist working at the intersection of conservation research, biodiversity data management, and data use. My research background spans marine turtle conservation, molecular ecology, and biodiversity informatics. Since 2025, I have served as the TDWG Asia Regional Representative. During my 2025–2026 term, I have continued engaging with biodiversity research and informatics communities across Asia. Through relevant regional meetings, workshops, and collaborative activities, I have also expanded my connections with researchers, institutions, and biodiversity-related networks beyond East Asia to Southeast Asia. These experiences have strengthened my understanding of regional needs and opportunities for greater engagement with the international biodiversity informatics community.
-
-**Vision**
-
-: My vision for a second term is to strengthen connections between Asian biodiversity communities and TDWG, building on the networks established during 2025–2026. I aim to promote greater awareness of TDWG activities, facilitate knowledge exchange, and encourage wider regional participation in biodiversity data standards development. As a multilingual researcher preparing to be based in Southeast Asia from 2027, I hope to leverage my growing regional networks to bridge geographical gaps and foster collaboration. I would also like to explore opportunities with regional institutions and TDWG conference organisers to bring a future TDWG annual conference to Asia, improving accessibility and participation among regional researchers and practitioners. Also, I hope to bring regional perspectives, needs, and experiences into TDWG discussions, contributing to a more inclusive and connected global biodiversity informatics community.
 
 #### Mohammad Zafar-ul Islam 
 
