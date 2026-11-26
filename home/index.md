@@ -12,24 +12,13 @@ permalink: /
 featured: # description, href, img
   title: What's on at TDWG!
   description: >
+    * **New:** Reminder: DwC public review is underway, we need your feedback. [See more](/news/2026/dwc-nov-reminder/).
     
-    * **New:** Mineralogy Extension terms ratified. [See more](/news/2026/mineralogy-extension-terms-ratified/).
 
-  
-    * **New:** Deadline extended, **to 13 November**, for the call for sessions – Living Data 2027 [See more](/news/2026/call-for-sessions-living-data-2027/)
-
-    
-    * Darwin Core July additions ratified and next public review. [See more](/news/2026/dwc-oct-nov-announcement/).  
-
-
-    * Nominations are open for positions on the TDWG Executive Committee. Submit by 13 November 2026. [See more](/news/2026/call-for-nominations-executive-committee-2027-2028/).    
-
-
-    * Public review of the Minimum Information about a Digital Specimen (MIDS) standard [See more](/news/2026/mids-october-review/).
-    
+    * Mineralogy Extension terms ratified. [See more](/news/2026/mineralogy-extension-terms-ratified/).
     
         
-  img: https://static.tdwg.org/images/articles/2026/wulfenite-crystal.jpg
+  img: https://images.unsplash.com/photo-1760479891023-7b420075b16f
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
